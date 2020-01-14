@@ -1,386 +1,473 @@
 #EXTM3U
-#EXTINF:-1,Jackie Chan Movies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1,Andy Lau Movies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Andy Lau Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1,Stephen Chow Movies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Stephen Chow Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1,Serial Friends
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Serial Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
-#EXTINF:-1,Iron Man Movies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Iron Man Movies
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1,Taxi Driver Movies
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Taxi Driver Movies
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1,Science Fiction Movie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Science Fiction Movie
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-#EXTINF:-1,Hong Kong Film Channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hong Kong Film Channel
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
-#EXTINF:-1,Hollywood Film Channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hollywood Film Channel
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie", JET LI TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", JET LI TV
 https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES1
 http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES2
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES3
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES4
-http:/'tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES5
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES6
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES6
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES7
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES7
 http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES8
 http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES9
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES9
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES10
 http://tx.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES11
 http://tx.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES12
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES12
 http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES13
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES13
 http://tx.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES14
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES14
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES15
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",Movie16
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", Movie16
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES17
-http://tx.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES18
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES18
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES19
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES19
 http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
-#EXTINF:-1 group-title="movie",MOVIES20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES20
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="movie",MOVIES21
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES21
 http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-#EXTINF:-1 group-title="movie", MOVIES22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES22
 http://tx.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie", MOVIES23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MOVIES23
 http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="movie", JACKIE CHAN TV
-https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", STEVEN CHOW TV
-https://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
- 
- #EXTINF:-1 group-title="movie", MR BEAN TV
-https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
- 
-#EXTINF:-1 group-title="movie", ANDY LAU TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", ANDY LAU TV
 https://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", SAMO HUNG TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", SAMO HUNG TV
 https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", CHOW YUN FAT TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", CHOW YUN FAT TV
 https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", YANG MI TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", YANG MI TV
 https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", AARON KWOK TV
-https://ws.streamhls.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 group-title="movie", WU JING TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", WU JING TV
 https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", MASTER VAMPIRE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MASTER VAMPIRE TV
 https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", HAPPY GHOST TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", HAPPY GHOST TV
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", JAPANESE HOROR MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", JAPANESE HOROR MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", THAI GHOST MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", THAI GHOST MOVIE
 https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", WEST HOROR MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", WEST HOROR MOVIE
 https://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", SUPER HERO TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", SUPER HERO TV
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", FUNNY MOVIE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", FUNNY MOVIE TV
 https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", SUNG GO KONG TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", SUNG GO KONG TV
 https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", JIGONG CRAZY MONK TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", JIGONG CRAZY MONK TV
 https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", FIVE LUCKY STAR TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", FIVE LUCKY STAR TV
 https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", SUPER CLASSIC MOVIE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", SUPER CLASSIC MOVIE TV
 https://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", KUNGFU SERIAL 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", KUNGFU SERIAL 1
 http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", KUNGFU SERIAL 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", KUNGFU SERIAL 2
 http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", POLICE MOVIE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", POLICE MOVIE TV
 https://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", RUNNING MAN TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", RUNNING MAN TV
 https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", DWAYNE JOHNSON TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", DWAYNE JOHNSON TV
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", DC COMIC TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", DC COMIC TV
 https://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", SCIENCE FICTION ACTION TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", SCIENCE FICTION ACTION TV
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", MARVEL SUPERHEROES TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", MARVEL SUPERHEROES TV
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", THRILLER BLOCKBUSTER TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", THRILLER BLOCKBUSTER TV
 https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", WEST MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", WEST MOVIE
 http://aldirect.hls.huya.com:80/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
- 
-#EXTINF:-1 group-title="movie", MOVIES 24
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
- 
-#EXTINF:-1 group-title="movie", MOVIES 4 MEN 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
- 
-#EXTINF:-1 group-title="movie", FRIENDS TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="movie", FRIENDS TV
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 
-#EXTINF:-1 group-title="movie", MOVIES24
-http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
-#EXTINF:-1,電影頻道 2
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1,電影頻道 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 電影頻道 3
 http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1,王晶
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 王晶
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1,刘德华
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 刘德华
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1,周星驰
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1,周润发
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 周润发
 http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8
-#EXTINF:-1,KÊNH 8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KÊNH 8
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1,HOẠT HÌNH NHẬT BẢN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HOẠT HÌNH NHẬT BẢN
 http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
-#EXTINF:-1,PHIM CHÂU TINH TRÌ 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PHIM CHÂU TINH TRÌ 2
 http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,PHIM CHÂN TỬ ĐAN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PHIM CHÂN TỬ ĐAN
 http://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Chen Xiang 6:30)
-http://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Disney)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Disney)
 http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Dragon Gate Escort)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Dragon Gate Escort)
 http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Lính tấn công)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Lính tấn công)
 http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Răng đồng răng sắt Ji Xiaolan)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Răng đồng răng sắt Ji Xiaolan)
 http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Thám tử Di Renjie)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Thám tử Di Renjie)
 http://aldirect.hls.huya.com/huyalive/29106097-2689283558-11550384931280519168-2789274528-10057-A-1525418694-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Yitian Shoulong)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Yitian Shoulong)
 http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Anh hùng xạ điêu)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Anh hùng xạ điêu)
 http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-#EXTINF:-1,Phim TQ (Bao thanh thiên)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Phim TQ (Bao thanh thiên)
 http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-#EXTINF:-1,徐克
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 徐克
 http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8
-#EXTINF:-1,杰森斯坦森
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 杰森斯坦森
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
-#EXTINF:-1,甄子丹
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 甄子丹
 http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8
-#EXTINF:-1,赵本山小品
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 赵本山小品
 https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
-#EXTINF:-1,赌片合集
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 赌片合集
 https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1,黄渤
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 黄渤
 https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,徐峥
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 徐峥
 https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
-#EXTINF:-1,王晶导演
-https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1,家有儿女
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 家有儿女
 http://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
-#EXTINF:-1,我的兄弟叫顺溜
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 我的兄弟叫顺溜
 http://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-2789274532-10057-A-1511870010-1_1200.m3u8
-#EXTINF:-1,岳云鹏
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 岳云鹏
 http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
-#EXTINF:-1,港产恐咘搞笑
-https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
-#EXTINF:-1,僵尸道长·珍藏林阵英僵尸剧
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 僵尸道长·珍藏林阵英僵尸剧
 https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-#EXTINF:-1,【怀念金庸】笑傲江湖-霍建华陈乔恩版
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 【怀念金庸】笑傲江湖-霍建华陈乔恩版
 https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
-#EXTINF:-1,特警力量·我是特种兵原班人马
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 特警力量·我是特种兵原班人马
 https://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1_1200.m3u8
-#EXTINF:-1,Reality-TV-1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reality-TV-1
 http://aldirect.hls.huya.com/huyalive/29169025-2686221528-11537233612571148288-2847687610-10057-A-1523932939-1_1200.m3u8
-#EXTINF:-1,Reality-TV-2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Reality-TV-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1,岳云鹏
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 岳云鹏
 https://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
-#EXTINF:-1,空空说电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 空空说电影
 https://aldirect.hls.huya.com/huyalive/29141112-2569555779-11036158036052803584-2847699238-10057-A-0-1_1200.m3u8
-#EXTINF:-1,西游记
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 西游记
 https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
-#EXTINF:-1,五福星系列
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 五福星系列
 https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-#EXTINF:-1,金庸电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 金庸电影
 https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1,舌尖上的中国
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 舌尖上的中国
 https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-#EXTINF:-1,大长今
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 大长今
 https://aldirect.hls.huya.com/huyalive/30765679-2533158964-10879834905949241344-2847687638-10057-A-0-1_1200.m3u8
-#EXTINF:-1,周润发
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 周润发
 https://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1,峡谷重案组
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 峡谷重案组
 https://aldirect.hls.huya.com/huyalive/94525224-2494645718-10714421773916438528-4482677220-10057-A-1526266615-1_1200.m3u8
-#EXTINF:-1,风云霸天下
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 风云霸天下
 https://aldirect.hls.huya.com/huyalive/94525224-2604793760-11187504012024872960-2847699160-10057-A-1523523587-1_1200.m3u8
-#EXTINF:-1,iptvtools_194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_194
 https://aldirect.hls.huya.com/huyalive/29359996-2689609142-11551783303912620032-2847687544-10057-A-1525493612-1_1200.m3u8
-#EXTINF:-1,iptvtools_195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_195
 https://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-1526356723-1_1200.m3u8
-#EXTINF:-1,iptvtools_196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_196
 https://aldirect.hls.huya.com/huyalive/28466698-2689664968-11552023074756886528-3048991596-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_197
 https://aldirect.hls.huya.com/huyalive/28466698-2689650368-11551960368234364928-2847687592-10057-A-1525508640-1_1200.m3u8
-#EXTINF:-1,iptvtools_198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_198
 https://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_199
 https://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_200
 https://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_201
 https://aldirect.hls.huya.com/huyalive/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_208
 https://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1_1200.m3u8
-#EXTINF:-1,iptvtools_210
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", iptvtools_210
 https://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-1512526507-1.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-#EXTINF:-1,MOVIE
-http://aldirect.hls.huya.com/huy … 4041208-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2686220976-11537231241749200896-3049003126-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29359996-2689613622-11551802545366106112-2847687550-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
-https://aldirect.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
-https://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29106097-2689405806-11550909982442520576-3048959658-10057-A-1525400208-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/30765679-2480428944-10653361194531815424-2789274554-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-1523933320-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 https://aldirect.hls.huya.com/huyalive/30765679-2685178192-11532752518572408832-3048959604-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/94525224-2669150520-11463914191501393920-4413173724-10057-A-0-1_1200.m3u8
-#EXTINF:-1,MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOVIE
 http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-1525339704-1_1200.m3u8
-#EXTINF:-1,Huya 8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Huya 8
 http://aldirect.hls.huya.com:80/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-#EXTINF:-1,金庸电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 金庸电影
 http://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8
-#EXTINF:-1,四驱小子
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 四驱小子
 http://aldirect.hls.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-1526356723-1_1200.m3u8
-#EXTINF:-1,荒野求生
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 荒野求生
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
-#EXTINF:-1,徐峥电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 徐峥电影
 http://aldirect.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
-#EXTINF:-1,洪金宝电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 洪金宝电影
 http://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1,黄渤电影
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 黄渤电影
 http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1,电影-甄子丹
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 电影-甄子丹
 https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-#EXTINF:-1,SAMO HUNG TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SAMO HUNG TV
 https://aldirect.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1,YANG MI TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", YANG MI TV
 https://aldirect.hls.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1_1200.m3u8
-#EXTINF:-1,WEST HOROR MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WEST HOROR MOVIE
 https://aldirect.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1_1200.m3u8
-#EXTINF:-1,SUNG GO KONG TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUNG GO KONG TV
 https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8
-#EXTINF:-1,SUPER CLASSIC MOVIE TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER CLASSIC MOVIE TV
 https://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1_1200.m3u8
-#EXTINF:-1,RUNNING MAN TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RUNNING MAN TV
 https://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1_1200.m3u8
-#EXTINF:-1,大宅门
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 大宅门
 http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
-#EXTINF:-1,雍正皇朝
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 雍正皇朝
 https://aldirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
-#EXTINF:-1,犬夜叉
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 犬夜叉
 http://aldirect.hls.huya.com:80/huyalive/29359996-2689639786-11551914918890438656-2847687572-10057-A-0-1_1200.m3u8
-#EXTINF:-1,thailan
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", thailan
 http://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
-#EXTINF:-1,thailan 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", thailan 1
 http://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8
-#EXTINF:-1,AYSAR Hollywood Movies 11
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AYSAR Hollywood Movies 11
 http://aldirect.hls.huya.com:80/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
