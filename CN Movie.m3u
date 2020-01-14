@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,Jackie Chan Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1,Andy Lau Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1,Stephen Chow Movies
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1,Serial Friends
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1,Iron Man Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1,Taxi Driver Movies
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1,Science Fiction Movie
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
+#EXTINF:-1,Hong Kong Film Channel
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1.m3u8
+#EXTINF:-1,Hollywood Film Channel
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="movie", JET LI TV
 https://aldirect.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="movie",MOVIES1
