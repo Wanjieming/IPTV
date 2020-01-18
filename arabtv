@@ -1,0 +1,1604 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",جرافيك ناشيونال جيوغرافيك
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Oman الوثائقية
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat_Geo_Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف ؟؟
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Fishing-And-Hunt
+http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Arabic Live
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Mubasher
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Hadath News HD
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="NEWS قنوات الاخبار",AR:BBC Arabic
+http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:RT Arabic (Russia Today)
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="france24" group-title="NEWS قنوات الاخبار",AR:France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:DW Arabic
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+#EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Mayadeen
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alhiwar News
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8?v&__mn_sid=17174366775755575437
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:CNBC Arabiya
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alsharq
+http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",ANN
+http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/1
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/2
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/3
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/4
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/5
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 FHD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/6
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 1 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 2 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/9
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 3 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/10
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 4 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/11
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 5 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/12
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 6 HD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/13
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 SD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/16
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 SD
+http://46.101.233.60:25461/kooramaxiptv/kooramax/17
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 SD 
+http://46.101.233.60:25461/kooramaxiptv/kooramax/18
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 SD 
+http://46.101.233.60:25461/kooramaxiptv/kooramax/19
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 SD 
+http://46.101.233.60:25461/kooramaxiptv/kooramax/20
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 SD 
+http://46.101.233.60:25461/kooramaxiptv/kooramax/21
+
+
+
+
+
+#EXTINF:0 tvg-id="BEIN SPORT8hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 8 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/69
+#EXTINF:0 tvg-id="BEIN SPORT7hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 7 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/79
+#EXTINF:0 tvg-id="BEIN SPORT6hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 6 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/78
+#EXTINF:0 tvg-id="BEIN SPORT5hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 5 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/77
+#EXTINF:0 tvg-id="BEIN SPORT4hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 4 FHD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/18
+#EXTINF:0 tvg-id="BEIN SPORT3hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 3 FHD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/17
+#EXTINF:0 tvg-id="BEIN SPORT2hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 2 FHD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/16
+#EXTINF:0 tvg-id="BEIN SPORT12hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 12 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/156
+#EXTINF:0 tvg-id="BEIN SPORT11hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 11 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/130
+#EXTINF:0 tvg-id="BEIN SPORT10hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 10 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/129
+#EXTINF:0 tvg-id="BEIN SPORT1hd.jsc" group-title="BEIN SPORT",BEIN SPORT sport 1 FHD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/15
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 3 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/259
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 4 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/58
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 5 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/85
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 6 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/209
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 7 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/399
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",BEIN SPORT sport 8 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/400
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="BEIN SPORT",BEIN SPORT sport 9 hd low
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/389
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 FHD
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 FHD
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 G
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 G
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 G
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 G
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 G
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AlFajer TV 
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AlFajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AlFajer 3
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AlFajer 4
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AlFajer 5
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",تعمل وقت المبارات المهمة
+http://ad.mysisli.com/live/amntelevision/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",تعمل وقت المبارات المهمة
+http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/59.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/49.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/50.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/51.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/52.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 V
+http://138.201.46.58:8080/live/ALKING77/ALKING_PLUS_APK/53.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 SD
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/13.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 SD
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/14.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 SD
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/15.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 SD
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/16.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 SD
+http://138.201.46.58:8080/live/ALKING88/ALKING_PLUS_APK/17.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 SD
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/18.ts
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 F
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 F
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/60.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 F
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/61.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 F
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/62.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 F
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/63.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 F
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/64.ts
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 1 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/1.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 2 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/2.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 3 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/3.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 4 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/4.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 5 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/5.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",AR:BEINSPORTS 6 H
+http://138.201.46.58:8080/live/ALKING66/ALKING_PLUS_APK/6.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies 1 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/479
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies 2 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/480
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies 3 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/482
+#EXTINF:0 tvg-id="ext" group-title="OSN",Bein Movies 4 HD
+http://45.77.65.162:80/SRTgsrtGsRth/7ue6hs45aerha34/483
+
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",|OSN| Fox-HD
+http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",|OSN| FOX-ACTION
+http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",|OSN| FOX-FAMILY
+http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",bein movies 1
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",bein movies 2
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",bein movies 3
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",bein movies 4
+
+#EXTINF:0 tvg-id="WWE.ca" group-title="OSN",WWE
+
+#EXTINF:0 tvg-id="ext" group-title="OSN",osn سينما 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:0 tvg-id="StarMovies.in" group-title="OSN",Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
+#EXTINF:0 tvg-id="StarWorld.in" group-title="OSN",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",EN: HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",Osn Beity
+http://82.212.74.99:8000/live/hls/8164.m3u8?v=1559313103&tokenekot=EJApSzLCfdCPwZJpuQwq
+#EXTINF:0 tvg-id="ext" group-title="OSN",|OSN| Ya Hala سينما
+#EXTINF:0 tvg-id="ext" group-title="OSN",osn action
+http://188.160.0.148:1935/59905c869b9d515/_definst_/smil:myStream.smil/playlist.m3u8?t=5e0f904d333a4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBCHD1" tvg-logo="" group-title="MYHD",MBCHD1
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1621
+#EXTINF:-1 tvg-id="" tvg-name="MBC HD 2" tvg-logo="" group-title="MYHD",MBC HD 2
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1622
+#EXTINF:-1 tvg-id="" tvg-name="MBC HD 3" tvg-logo="""" group-title="MYHD",MBC HD 3
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1623
+#EXTINF:-1 tvg-id="" tvg-name="MBC HD 4" tvg-logo="[""]" group-title="MYHD",MBC HD 4
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1624
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA HD" tvg-logo="""" group-title="MYHD",MBC DRAMA HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1625
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA  HD" tvg-logo="""" group-title="MYHD",MBC DRAMA  HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1626
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION HD" tvg-logo="[" group-title="MYHD",MBC ACTION HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1627
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX HD" tvg-logo="" group-title="MYHD",MBC MAX HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1628
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY HD" tvg-logo="""" group-title="MYHD",MBC VARIETY HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1629
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ HD" tvg-logo="" group-title="MYHD",MBC IRAQ HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1630
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Aflam HD" tvg-logo="""" group-title="MYHD",Rotana Aflam HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1631
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema HD" tvg-logo="""" group-title="MYHD",Rotana Cinema HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1632
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic HD" tvg-logo="" group-title="MYHD",Rotana Classic HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1633
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalijiah HD" tvg-logo="""" group-title="MYHD",Rotana Khalijiah HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1634
+#EXTINF:-1 tvg-id="" tvg-name="MYHD MBC DRAMA+ HD" tvg-logo="""" group-title="MYHD",MYHD MBC DRAMA+ HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1635
+#EXTINF:-1 tvg-id="" tvg-name="MYHD MBC 5 HD MAROC" tvg-logo="""" group-title="MYHD",MYHD MBC 5 HD MAROC
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1636
+#EXTINF:-1 tvg-id="" tvg-name="MYHD MBC Bollywood HD" tvg-logo="""" group-title="MYHD",MYHD MBC Bollywood HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1637
+#EXTINF:-1 tvg-id="" tvg-name="MYHD MBC Masr" tvg-logo="""" group-title="MYHD",MYHD MBC Masr
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1638
+#EXTINF:-1 tvg-id="" tvg-name="MYHD MBC Masr 2" tvg-logo="""" group-title="MYHD",MYHD MBC Masr 2
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1639
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Rotana_HD" tvg-logo="""" group-title="MYHD",MYHD Rotana_HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1640
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Rotana Drama HD" tvg-logo="""" group-title="MYHD",MYHD Rotana Drama HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1641
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Rotana Aflam HD" tvg-logo="""" group-title="MYHD",MYHD Rotana Aflam HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1642
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Rotana Masriya HD" tvg-logo="""" group-title="MYHD",MYHD Rotana Masriya HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1643
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Rotana Music HD" tvg-logo="""" group-title="MYHD",MYHD Rotana Music HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1644
+#EXTINF:-1 tvg-id="" tvg-name="MYHD GULLI ARABIC" tvg-logo="""" group-title="MYHD",MYHD GULLI ARABIC
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1645
+#EXTINF:-1 tvg-id="" tvg-name="MYHD TIJI HD" tvg-logo="""" group-title="MYHD",MYHD TIJI HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1646
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Fix & Foxi" tvg-logo="""" group-title="MYHD",MYHD Fix & Foxi
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1647
+#EXTINF:-1 tvg-id="" tvg-name="MYHD ZOOMOO" tvg-logo="""" group-title="MYHD",MYHD ZOOMOO
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1648
+#EXTINF:-1 tvg-id="" tvg-name="MYHD CINEMA HD" tvg-logo="""" group-title="MYHD",MYHD CINEMA HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1649
+#EXTINF:-1 tvg-id="" tvg-name="MYHD STAR MOVIES HD" tvg-logo="""" group-title="MYHD",MYHD STAR MOVIES HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1650
+#EXTINF:-1 tvg-id="" tvg-name="MYHD ME DOC" tvg-logo="""" group-title="MYHD",MYHD ME DOC
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1651
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FILM BOX HD" tvg-logo="""" group-title="MYHD",MYHD FILM BOX HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1652
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FIGHT BOX HD" tvg-logo="""" group-title="MYHD",MYHD FIGHT BOX HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1653
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FOX ACTION HD" tvg-logo="""" group-title="MYHD",MYHD FOX ACTION HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1654
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FOX FAMILY HD" tvg-logo="""" group-title="MYHD",MYHD FOX FAMILY HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1655
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FREE Movie HD" tvg-logo="""" group-title="MYHD",MYHD FREE Movie HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1656
+#EXTINF:-1 tvg-id="" tvg-name="MYHD BBC Fisrt HD" tvg-logo="""" group-title="MYHD",MYHD BBC Fisrt HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1657
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FOX Crime" tvg-logo="""" group-title="MYHD",MYHD FOX Crime
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1658
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FOX LIFE" tvg-logo="""" group-title="MYHD",MYHD FOX LIFE
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1659
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Fox Rewayat MyHD" tvg-logo="""" group-title="MYHD",MYHD Fox Rewayat MyHD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1660
+#EXTINF:-1 tvg-id="" tvg-name="MYHD FX HD" tvg-logo="""" group-title="MYHD",MYHD FX HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1661
+#EXTINF:-1 tvg-id="" tvg-name="MYHD ZEN HD" tvg-logo="""" group-title="MYHD",MYHD ZEN HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1662
+#EXTINF:-1 tvg-id="" tvg-name="MYHD DOCU BOX HD" tvg-logo="[""]" group-title="MYHD",MYHD DOCU BOX HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1663
+#EXTINF:-1 tvg-id="" tvg-name="MYHD ANIMAL PLANET" tvg-logo="[""]" group-title="MYHD",MYHD ANIMAL PLANET
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1664
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Discovery-SC" tvg-logo="""" group-title="MYHD",MYHD Discovery-SC
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1665
+#EXTINF:-1 tvg-id="" tvg-name="MYHD Nat Geo Wild HD" tvg-logo="" group-title="MYHD",MYHD Nat Geo Wild HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1666
+#EXTINF:-1 tvg-id="" tvg-name="MYHD NATGEO HD" tvg-logo="""" group-title="MYHD",MYHD NATGEO HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro2/6494715034/1667
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: ما في متلو - مسرحية Show
+https://cdn.alarab.com/116169.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR:مسرحية سوك على بناتك
+https://cdn.alarab.com/yz82104.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: المسرحية الخليجية تحت الصفر 2014
+https://cdn.alarab.com/81438.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية الهمجي
+https://cdn.alarab.com/yz56455.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية حسن ومرقص وكوهين
+https://cdn.alarab.com/53483.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية باي باي لندن
+https://cdn.alarab.com/66917.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية حزمني يا مسرحية
+https://cdn.alarab.com/41991.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: عادل امام , فؤاد المهندس , شويكار
+https://cdn.alarab.com/41365.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية المتزوجون
+https://cdn.alarab.com/40097.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية شارع محمد على
+https://cdn.alarab.com/40107.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية البرنسيسة
+https://cdn.alarab.com/33545.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحيه اخويا هايص وانا لايص
+https://cdn.alarab.com/39877.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية علشان خاطر عيونك
+https://cdn.alarab.com/39993.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: كاسك يا وطن
+https://cdn.alarab.com/20959.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: المسرحية الغنائية سهرة حب
+https://cdn.alarab.com/21485.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية سكر هانم
+https://cdn.alarab.com/27429.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية سهرية
+https://cdn.alarab.com/28411.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية الكوميدية عفروتو
+https://cdn.alarab.com/30767.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية الخديوي
+https://cdn.alarab.com/30871.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR:  مسرحية ضيعة تشرين
+https://cdn.alarab.com/7769.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية اعقل يا مجنون
+https://cdn.alarab.com/7959.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية ميس الريم
+https://cdn.alarab.com/8303.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية سيد مزيكا
+https://cdn.alarab.com/18829.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: العسكري الأخضر
+https://cdn.alarab.com/20243.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية موعد مع الوزير
+https://cdn.alarab.com/6021.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: عيطــة عــامل زيطــه
+https://cdn.alarab.com/7209.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: الزمبليطة في الصالون
+https://cdn.alarab.com/8069.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: LBC Comedy Night
+https://cdn.alarab.com/8271.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: جحا يحكم المدينة
+https://cdn.alarab.com/7505.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مسرحية الفرسان الثلاثة
+https://cdn.alarab.com/7545.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: الواد سيد الشغال
+https://cdn.alarab.com/yz26483.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="مسرحيات",AR: مراتي زعيمة عصابة
+https://cdn.alarab.com/671.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 2
+https://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 4
+https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ON-Sport
+http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1HD
+http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 1
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 2
+https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",البحرين الرياضية
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Oman SPORT
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Jordan SPORT
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1593498413.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Nile SPORT
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",TAHA Kids TV
+http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
+#EXTINF:0 tvg-id="Baraem.net" group-title="قنوات أطفال",BARAEM
+http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1082.ts
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:Sat7_Kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:TOYOR-BABY
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:toyourjanaa
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids HD
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",جوجو ماما
+http://tptv.cz/live/k1RqAkjYF8/TWHzKNHhqU/54041.ts
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",بــي جـونـيـر
+http://95.170.215.118:80/hls/m3u8/Nickelodeon-JR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",كـرتـون بـالـعـربـي HD
+http://95.170.215.109:80/hls/CNArabica-Backup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Cartoon World
+http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",تــوم و جــيـري 1
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 1 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 3 
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 4 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 5
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29124
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC DRAMA 
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC ACTION 
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC VARIETY 
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC DRAMA PLUS 
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC BOLLYWOOD 
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC Masr2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",ZEE ALWAN
+http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",b4u aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana DRAMA 
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana Music 
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana Classic 
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana Khalijia 
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana Aflam 
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ROTAN قنوات روتانا",Rotana 
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",LANA HD
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",LANA plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SAMA SYRIA
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",DRAMA TV
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SYRIA AL AOULA
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",-ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AL EKHBARIYA
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SYRIA PLUS
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",ORIENT.NEWS
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",HALAB TODAY
+http://wowzacontrol.com:1935/8010/8010/chunklist_w278367314.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-العربي HD
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-نور الشام
+http://www.sansat.net:25461/023347272290/XJDfataOFTmxovr/7615
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- منبج
+http://www.sansat.net:25461/023347272290/XJDfataOFTmxovr/18594
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- SYRIA MEDICAL
+http://www.sansat.net:25461/023347272290/XJDfataOFTmxovr/18599
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- ALYAWM
+http://www.sansat.net:25461/023347272290/XJDfataOFTmxovr/18602
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- alkompis
+https://tv.stream.alkompis.se/hls/live_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",MTV HD 
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",LBC HD
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",LBC UND LDC
+http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",NBN HD
+http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",Future TV
+http://livecdnh2.tvanywhere.ae/hls/future/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",JADEED HD
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",OTV HD
+http://95.170.215.109/hls/m3u8/OTV-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AL MANAR HD
+http://manar.live/x.smil/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",TL HD
+http://cdn.catiacast.video/tl/cad9e8dcbf3eca0f7c2af160b1913cf4.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AL Mayadeen
+http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",ALAAN HD
+http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",IFILM
+https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w1513410362_b944100_slen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",musawa tv
+http://rocksat.ddns.net:25461/o0MYdviboy/7UK3LiLFVm/7118
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Nas Tv
+http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",-Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer TV
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 3
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 4
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 5
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",AlFajer 6
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Musawa tv
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Hona Alquds
+http://82.212.74.99:8000/live/hls/8170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Nbc Alnajah TV
+http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Awdeh Palestine
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسيطين",Watar TV1
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Roya TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan TV
+http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Amman TV
+https://player-api.new.livestream.com/accounts/3320102/events/7612516/live.secure.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Jordan Sport
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al IRAQIA
+http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al IRAQIA1
+http://cdn.catiacast.video/imn/5952fbfdf2bd7e80b7fd446206ec06f4.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya2
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",IRQ-Sport
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ", karbala
+https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ", Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Samarra tv
+http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist_w116893029_b1431072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Taghier
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.secure.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL HURRA IRAQ
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Naeem TV
+http://212.18.231.213:1935/alnaeemtv/alnaeemtv/chunklist_w1337870541.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Rasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AlMasar Aloula
+http://212.18.231.213:1935/almasar/almasar_360p/chunklist_w1131855208.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Dejlah TV (Dijlah)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",DUA HD
+http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w1412664744.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Sharqiya نيوز
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w1655005970_b340000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Imam Hussein TV 2 Arabic 
+https://ar.imamhusseintv.com/live/ih201/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",الفرات
+https://5debad38dc3ec.streamlock.net/32/32/chunklist_w1438061152.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",DmcDrama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",hayat+
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Almahed
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",nahar+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",nahar drama+
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera+
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",SADA_ELBALAD
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv
+http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",AL dream2
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
+http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cin
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MEDI1 HD
+http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1604542278.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",CHADA TV
+https://edge4.vedge.infomaniak.com/livecast/chadatv/chunklist_w1139108578.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",2M-MONDE
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Al AOULA HD
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",ARRYADIA HD
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRABIAA HD
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",ASSADISSA HD
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",TAMAZIGHT HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",MAB TV News
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w605955827_b4500000_sleng.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRYADIA HD-3
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",AR:MR-AL MAGHRIBIA HD TNT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MAROCCO قنوات المغرب العربي",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",Nessma
+http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE راديو جوهرة
+http://streaming.toutech.net/live/jfm/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE صوت الساحل
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w408214174.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",TUNISIE tunisieimmob
+http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| AL INSENE
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/9013
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| TOUNESNA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/9014
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| ETTOUNSIA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/9015
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| NAT 1 TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/21565
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| NAT 2 TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/21566
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN|  Carthage+
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29302
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN|  Mustakillah
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29303
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN|  Al Insen
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29304
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Immobilier Tv
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29305
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Mustakila
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29306
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Mosaique Fm
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29307
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Jawhara Fm
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/29308
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Tunisia NAT 1
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7920
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Tunisia Nat 2
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7919
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Elhiwar Ettounsi
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7918
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Nessma
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7917
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| HANNIBAL TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7916
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Attessia TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7914
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Al Insen TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7913
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| AL JANOUBIA TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7912
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| M TUNISIA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7911
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Telvza TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7910
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| TUNISNA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7909
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| ZAYTOONA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7908
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| AL MUSTAKILA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7907
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| NESSMA TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/4535
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| HANNIBAL TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/4534
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| ELHIWAR ETTOUNSI TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/4533
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| ATTESSIA TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/4532
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| AL JANOUBIA TNT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/4531
+#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",|TUN| Carthage
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7915
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",alanis HD
+http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
+http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| EL HADDAF
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/9016
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Echorouk +
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/12356
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| HAYAT
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/12357
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| PROGRAMME NATIONAL
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7749
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| CANAL ALGERIEN قنوات الجزائر
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7748
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ALGERIEN قنوات الجزائر 3
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7747
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ALGERIEN قنوات الجزائر 4
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7746
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ALGERIEN قنوات الجزائر 5
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7745
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Samira TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7744
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| AL ANIS TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7743
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Echorouk cbc BENNA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7742
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Echorouk NEWS
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7741
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Echorouk TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7740
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Bahia TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7736
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Beur TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7735
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| CHAMS TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7734
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| EL BILAD
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7733
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| EL DJAZAIRIA TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7732
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| EL HEDDAF TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7731
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| NUMIDIA TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7730
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Dzair TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7729
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| Dzair News
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7728
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| EL FADJR TV DZ
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7722
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| berbere tv
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7720
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| CNA
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7717
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ENNAHAR TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7739
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ALMAGHARIBIA 1 TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7738
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",|ALG| ALMAGHARIBIA 2 TV
+http://dreamsmart.me:2082/soufian-dreamsat/yS1c02hJgA/7737
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 1
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 24
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",AR:LIB-Tanasuh
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/chunklist_w561550171_b1364000.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al Watan
+http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya News
+http://video-live.vzaar.com/243BFFE/live-144734/tqg0WrP7UtC4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya Alhadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya wasat
+https://svs.itworkscdn.net/wtvlive/wtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
+http://82.212.74.2:8000/live/7321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudan-TV
+http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudania-24-HD
+http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 2 TV
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman TV
+http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman Mubasher
+http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الاستقامة
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الرياضية
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Iqraa-Tv
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",wesal
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",نوبل TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI.ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="قنوات الامارات EMIRATES",Abu Dhabi TV HD
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Abu Dhabi Drama HD
+http://adtv.ercdn.net/addrama/addrama.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Emarat HD
+http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Dafrah TV
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALAN
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",Almasira TV
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",Yemen TV
+https://mysisli.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",RONAHI
+http://95.170.215.106/hls/m3u8/Ronahi-TV-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",kurdshow
+http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",KURDMAX
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",kurd SHOW1
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",GK
+http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Payam
+http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",KU-Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",KU-Rudaw+
+http://95.170.215.106/hls/m3u8/Rudaw-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",KU-TRT-Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",NRT
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",hadi
+http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Waar
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",speda
+http://speda.teradek.live:1935/live/spedahd/chunklist_w1429612203.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",النصيحة
+http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",sterk
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",media hader
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurmanci
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Kurmanci2
+http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",K24
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",kurd:NRT2
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",kurdustan IRAQ
+http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1035622801_b1296000_sleng.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",knn-tv
+http://95.170.215.106/hls/m3u8/KNN-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KURDISH ",Waar
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan Kareem
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",sunnah
+http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ayat
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Al Iarth Al Nabawi
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",makkah tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Kuwait TV Ethra Islamic
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Nour Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Sudan Tayba
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",islam live TV
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 1
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 2
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 3
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",peace TV 4
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulbasit Abdulsamad MJAWWAD Radio
+http://184.173.185.71:9974/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulbasit Abdulsamad WARSH Radio
+http://184.173.185.71:9956/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulbasit Abdulsamad Radio
+http://184.173.185.71:9980
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammed Siddiq AlMinshawi Almusshaf Al Mojawwad Radio
+http://184.173.185.71:9826/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammed Siddiq AlMinshawi Radio
+http://184.173.185.71:9978/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmoud Ali Albanna Almusshaf Al Mojawwad Radio
+http://184.173.185.71:9810/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmoud Ali Albanna Radio
+http://184.173.185.71:9808/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmoud Khalil AlHussary Almusshaf Al Mojawwad Radio
+http://184.173.185.71:9806/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmoud Khalil AlHussary Rewayat Warsh An Nafi Radio
+http://184.173.185.71:9804/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmoud Khalil AlHussary Radio
+http://184.173.185.71:9958/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mustafa Ismail Radio
+http://184.173.185.71:9800/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad AlTablaway Radio
+http://184.173.185.71:9834/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad Nauina Radio
+http://184.173.185.71:9904/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmed Amer Radio
+http://184.173.185.71:9920/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quran Stream
+http://144.76.84.153:21494/stream
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdullah Khayyat Radio
+http://184.173.185.71:9948/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdullah AlJohany Radio
+http://184.173.185.71:9944/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Allahu Akbar Radio
+http://66.45.232.130:9996/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdullah Basfer Radio
+http://184.173.185.71:9954/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdullah AlMattrod Radio
+http://184.173.185.71:9858/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulrahman Alsudaes Radio
+http://184.173.185.71:9988/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdullah AlKandari Radio
+http://184.173.185.71:9860/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulbari Mohammad Radio
+http://184.173.185.71:9868/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdelbari AlToubayti Radio
+http://184.173.185.71:9870/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdul Aziz AlAhmad Radio
+http://184.173.185.71:9862/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulmohsin AlHarthy Radio
+http://184.173.185.71:9856/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulmohsen AlQasim Radio
+http://184.173.185.71:9852/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulhadi Kanakeri Radio
+http://184.173.185.71:9850/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulrasheed Soufi Rewayat Assosi An Abi Amr Radio
+http://184.173.185.71:9866/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
+http://184.173.185.71:9864/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulwadood Haneef Radio
+http://184.173.185.71:9848/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abdulmohsin AlObaikan Radio
+http://184.173.185.71:9854/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Abu Bakr Al Shatri Radio
+http://184.173.185.71:9966/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Adel AlKhalbany Radio
+http://184.173.185.71:9874/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Addokali Mohammad Alalim Radio
+http://184.173.185.71:9916/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Adel Ryyan Radio
+http://184.173.185.71:9872/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad Al ajmi Radio
+http://184.173.185.71:8008/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad Al ajmi Radio
+http://184.173.185.71:9990
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad AlHawashi Radio
+http://184.173.185.71:9928/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmed Altrabulsi Radio
+http://184.173.185.71:9926/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad Khader AlTarabulsi Rewayat Qalon An Nafi Radio
+http://184.173.185.71:9924/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ahmad Saber Radio
+http://184.173.185.71:9922/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Akram Alalaqmi Radio
+http://184.173.185.71:9918/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ali Alhuthaifi Radio
+http://184.173.185.71:9844/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ali Alhuthaifi Rewayat Qalon An Nafi Radio
+http://184.173.185.71:9846/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ali Jaber Radio
+http://184.173.185.71:9964/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ali Hajjaj Alsouasi Radio
+http://184.173.185.71:9842/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
+http://184.173.185.71:9912/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Alzain Mohammad Ahmad Radio
+http://184.173.185.71:9914/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Al Zain Quran Reciter
+http://5.39.71.159:8118/stream
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Alfateh Alzubair Rewayat Aldori An Abi Amr Radio
+http://184.173.185.71:9910/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Beautiful Recitations
+http://184.173.185.71:8012/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Beautiful Recitations
+http://184.173.185.71:9992/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",China Radio
+http://184.173.185.71:9942/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Default Stream
+http://198.178.123.2:9142/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Eman City
+http://66.45.232.130:9990/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Emad Hafez Radio
+http://184.173.185.71:9840/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Fares Abbad Radio
+http://184.173.185.71:9972/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",FATAWA
+http://184.173.185.71:8014
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Hatem Fareed Alwaer Radio
+http://184.173.185.71:9898/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Hani Arrifai Radio
+http://184.173.185.71:9780/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Islam2Day Radio Station! [CH.2] .::|Quran Translation|::. [www.islam2day.tv]
+http://www.islam2day.tv:4000/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ibrahim Aldosari Rewayat Warsh An Nafi Radio
+http://184.173.185.71:9902/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Ibrahim AlAkdar Radio
+http://184.173.185.71:9946/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Idrees Abkr Radio
+http://184.173.185.71:9968/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Jamaan Alosaimi Radio
+http://184.173.185.71:9950/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Jamal Shaker Abdullah Radio
+http://184.173.185.71:9900/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Khalifa Altunaiji Radio
+http://184.173.185.71:9892/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Khaled AlQahtani Radio
+http://184.173.185.71:9970/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Khalid Abdulkafi Radio
+http://184.173.185.71:9894/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Khalid Almohana Radio
+http://184.173.185.71:9896/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Love Quran Radio
+http://158.69.227.214:8191/stream
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",mp3quran main radio
+http://184.173.185.71:8006/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Maher Al Meaqli Radio
+http://184.173.185.71:8002/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Maher Al Meaqli Radio
+http://184.173.185.71:9996
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Maher Shakhashero Radio
+http://184.173.185.71:9836/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmood Al rifai Radio
+http://184.173.185.71:9818/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mahmood AlSheimy Rewayat AlDorai An AlKisaai Radio
+http://184.173.185.71:9812/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mishary Alafasi Radio
+http://184.173.185.71:8010/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mishary Alafasy Spanish Translation Radio
+http://184.173.185.71:9756/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mishary Alafasi Radio
+http://184.173.185.71:9982
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Ayyub Radio
+http://184.173.185.71:9960/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammed AlLohaidan Radio
+http://184.173.185.71:9832/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Rashad Alshareef Radio
+http://184.173.185.71:9830/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad AlAbdullah Rewayat AlDorai An AlKisaai Radio
+http://184.173.185.71:9816/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad AlAbdullah Rewayat Albizi and Qunbol An Ibn Katheer Radio
+http://184.173.185.71:9814/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mousa Bilal Radio
+http://184.173.185.71:9786/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Jibrel Radio
+http://184.173.185.71:9962/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Ayyub Radio
+http://184.173.185.71:9960
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Abdullkarem Radio
+http://184.173.185.71:9824/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Abdullkarem Rewayat Warsh An Nafi Men Tariq Abi Baker Alasbahani Radio
+http://184.173.185.71:9822/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammad Saleh Alim Shah Radio
+http://184.173.185.71:9828/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mohammed Osman Khan from India Radio
+http://184.173.185.71:9820/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Moeedh Alharthi Radio
+http://184.173.185.71:9802/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mustafa raad Alazawy Radio
+http://184.173.185.71:9796/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Muftah Alsaltany Rewayat AlDorai An AlKisaai Radio
+http://184.173.185.71:9788/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Muftah Alsaltany Rewayat Aldori An Abi Am Radio
+http://184.173.185.71:9790/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Muftah Alsaltany Ibn Thakwan An Ibn Amer Radio
+http://184.173.185.71:9794/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Muftah Alsaltany Radio
+http://184.173.185.71:9792/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Mustafa AlLahoni Radio
+http://184.173.185.71:9798/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Muslim Vaanoli
+http://s2.voscast.com:9356/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Nasser Alqatami Radio
+http://184.173.185.71:9994/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Nabil Al Rifay Radio
+http://184.173.185.71:9784/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Neamah AlHassan Radio
+http://184.173.185.71:9782/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Omar AlQazabri Rewayat Warsh An Nafi Radio
+http://184.173.185.71:9838/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quran Coran - www.coran.tk
+http://92.222.103.13:8005/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quran Radio Tafsir
+http://66.45.232.130:9992/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quraan
+http://uk5.internet-radio.com:8079/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quran Uygur
+http://184.173.185.71:9940/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Quran Radio
+http://50.7.70.58:8613/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Roqiah
+http://184.173.185.71:9936/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Radio Quraan
+http://66.45.232.130:9994/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Radio Izlam
+http://66.45.232.130:9998/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Saad AlGhamdi Radio
+http://184.173.185.71:8004/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Saad AlGhamdi Radio
+http://184.173.185.71:9976
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Saud Alshuraim Radio
+http://184.173.185.71:9986/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Slaah Bukhatir Radio
+http://184.173.185.71:9878/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Sahl Yassin Radio
+http://184.173.185.71:9888/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Salah Albudair Radio
+http://184.173.185.71:9882/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Salah Alhashim Radio
+http://184.173.185.71:9880/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Sayeed Ramadan Radio
+http://184.173.185.71:9886/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Saber Abdulhakm Radio
+http://184.173.185.71:9952/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Shirazad Taher Radio
+http://184.173.185.71:9884/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Tawfeeq AsSayegh Radio
+http://184.173.185.71:9906/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Tareq Abdulgani daawob Radio
+http://184.173.185.71:9876/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Waleed Alnaehi Rewayat Qalon An Nafi Men Tariq Abi Nasheet Radio
+http://184.173.185.71:9778/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yahya Hawwa Radio
+http://184.173.185.71:9772/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yasser AlDosari Radio
+http://184.173.185.71:9984/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yasser AlMazroyee Rewayat Rowis and Rawh An Yakoob Al Hadrami Radio
+http://184.173.185.71:9774/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yasser AlQurashi Radio
+http://184.173.185.71:9776/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yassen Rewayat Warsh An Nafi Radio
+http://184.173.185.71:9908/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yousef Bin Noah Ahmad Radio
+http://184.173.185.71:9768/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Yousef Alshoaey Radio
+http://184.173.185.71:9770/
+#EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",Zaki Daghistani Radio
+http://184.173.185.71:9890/
+#EXTINF:0 tvg-id="avi" group-title="قنوات اسلامية",Maher Al Meaqli-Kaf
+http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 1
+https://belugacdn.shoofmax.com/habib-allah/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 2
+https://belugacdn.shoofmax.com/habib-allah/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 3
+https://belugacdn.shoofmax.com/habib-allah/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 4
+https://belugacdn.shoofmax.com/habib-allah/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 5
+https://belugacdn.shoofmax.com/habib-allah/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 6
+https://belugacdn.shoofmax.com/habib-allah/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 7
+https://belugacdn.shoofmax.com/habib-allah/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 8
+https://belugacdn.shoofmax.com/habib-allah/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 9
+https://belugacdn.shoofmax.com/habib-allah/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 10
+https://belugacdn.shoofmax.com/habib-allah/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 11
+https://belugacdn.shoofmax.com/habib-allah/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 12
+https://belugacdn.shoofmax.com/habib-allah/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 13
+https://belugacdn.shoofmax.com/habib-allah/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 14
+https://belugacdn.shoofmax.com/habib-allah/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 15
+https://belugacdn.shoofmax.com/habib-allah/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 16
+https://belugacdn.shoofmax.com/habib-allah/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 17
+https://belugacdn.shoofmax.com/habib-allah/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 18
+https://belugacdn.shoofmax.com/habib-allah/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 19
+https://belugacdn.shoofmax.com/habib-allah/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 20
+https://belugacdn.shoofmax.com/habib-allah/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 21
+https://belugacdn.shoofmax.com/habib-allah/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 22
+https://belugacdn.shoofmax.com/habib-allah/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 23
+https://belugacdn.shoofmax.com/habib-allah/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 24
+https://belugacdn.shoofmax.com/habib-allah/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 25
+https://belugacdn.shoofmax.com/habib-allah/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 26
+https://belugacdn.shoofmax.com/habib-allah/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 27
+https://belugacdn.shoofmax.com/habib-allah/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 28
+https://belugacdn.shoofmax.com/habib-allah/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 29
+https://belugacdn.shoofmax.com/habib-allah/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",حبيب الله ☆ محمد ☆ الحلقة 30 و الأخيرة
+https://belugacdn.shoofmax.com/habib-allah/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 1
+https://belugacdn.shoofmax.com/khalil-allah/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/khalil-allah/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 3
+https://belugacdn.shoofmax.com/khalil-allah/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 4
+https://belugacdn.shoofmax.com/khalil-allah/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 5
+https://belugacdn.shoofmax.com/khalil-allah/ep5/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 6
+https://belugacdn.shoofmax.com/khalil-allah/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 7
+https://belugacdn.shoofmax.com/khalil-allah/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 8
+https://belugacdn.shoofmax.com/khalil-allah/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 9
+https://belugacdn.shoofmax.com/khalil-allah/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 10
+https://belugacdn.shoofmax.com/khalil-allah/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 11
+https://belugacdn.shoofmax.com/khalil-allah/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 12
+https://belugacdn.shoofmax.com/khalil-allah/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 13
+https://belugacdn.shoofmax.com/khalil-allah/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 14
+https://belugacdn.shoofmax.com/khalil-allah/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 15
+https://belugacdn.shoofmax.com/khalil-allah/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 16
+https://belugacdn.shoofmax.com/khalil-allah/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 17
+https://belugacdn.shoofmax.com/khalil-allah/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 18
+https://belugacdn.shoofmax.com/khalil-allah/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 19
+https://belugacdn.shoofmax.com/khalil-allah/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 20
+https://belugacdn.shoofmax.com/khalil-allah/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 21
+https://belugacdn.shoofmax.com/khalil-allah/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 22
+https://belugacdn.shoofmax.com/khalil-allah/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 23
+https://belugacdn.shoofmax.com/khalil-allah/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 24
+https://belugacdn.shoofmax.com/khalil-allah/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 25
+https://belugacdn.shoofmax.com/khalil-allah/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 26
+https://belugacdn.shoofmax.com/khalil-allah/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 27
+https://belugacdn.shoofmax.com/khalil-allah/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 28
+https://belugacdn.shoofmax.com/khalil-allah/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 29
+https://belugacdn.shoofmax.com/khalil-allah/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",خليل الله  ( ابراهيم عليه السلام ) الحلقة 30 و الأخيرة
+https://belugacdn.shoofmax.com/khalil-allah/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 1
+https://belugacdn.shoofmax.com/kalim-allah/ep1/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/kalim-allah/ep2/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 3
+https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 4
+https://belugacdn.shoofmax.com/kalim-allah/ep4/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 5
+https://belugacdn.shoofmax.com/kalim-allah/ep5/480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 6
+https://belugacdn.shoofmax.com/kalim-allah/ep6/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 7
+https://belugacdn.shoofmax.com/kalim-allah/ep7/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 8
+https://belugacdn.shoofmax.com/kalim-allah/ep8/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 9
+https://belugacdn.shoofmax.com/kalim-allah/ep9/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 10
+https://belugacdn.shoofmax.com/kalim-allah/ep10/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 11
+https://belugacdn.shoofmax.com/kalim-allah/ep11/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 12
+https://belugacdn.shoofmax.com/kalim-allah/ep12/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 13
+https://belugacdn.shoofmax.com/kalim-allah/ep13/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 14
+https://belugacdn.shoofmax.com/kalim-allah/ep14/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 15
+https://belugacdn.shoofmax.com/kalim-allah/ep15/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 16
+https://belugacdn.shoofmax.com/kalim-allah/ep16/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 17
+https://belugacdn.shoofmax.com/kalim-allah/ep17/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 18
+https://belugacdn.shoofmax.com/kalim-allah/ep18/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 19
+https://belugacdn.shoofmax.com/kalim-allah/ep19/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 20
+https://belugacdn.shoofmax.com/kalim-allah/ep20/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 21
+https://belugacdn.shoofmax.com/kalim-allah/ep21/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 22
+https://belugacdn.shoofmax.com/kalim-allah/ep22/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 23
+https://belugacdn.shoofmax.com/kalim-allah/ep23/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 24
+https://belugacdn.shoofmax.com/kalim-allah/ep24/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 25
+https://belugacdn.shoofmax.com/kalim-allah/ep25/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 26
+https://belugacdn.shoofmax.com/kalim-allah/ep26/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 27
+https://belugacdn.shoofmax.com/kalim-allah/ep27/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 28
+https://belugacdn.shoofmax.com/kalim-allah/ep28/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 29
+https://belugacdn.shoofmax.com/kalim-allah/ep29/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 30
+https://belugacdn.shoofmax.com/kalim-allah/ep30/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 31
+https://belugacdn.shoofmax.com/kalim-allah/ep31/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 32
+https://belugacdn.shoofmax.com/kalim-allah/ep32/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 33
+https://belugacdn.shoofmax.com/kalim-allah/ep33/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 34
+https://belugacdn.shoofmax.com/kalim-allah/ep34/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 35
+https://belugacdn.shoofmax.com/kalim-allah/ep35/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 36
+https://belugacdn.shoofmax.com/kalim-allah/ep36/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 37
+https://belugacdn.shoofmax.com/kalim-allah/ep37/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 38
+https://belugacdn.shoofmax.com/kalim-allah/ep38/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 39
+https://belugacdn.shoofmax.com/kalim-allah/ep39/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 40
+https://belugacdn.shoofmax.com/kalim-allah/ep40/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 41
+https://belugacdn.shoofmax.com/kalim-allah/ep41/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 42
+https://belugacdn.shoofmax.com/kalim-allah/ep42/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 43
+https://belugacdn.shoofmax.com/kalim-allah/ep43/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 44
+https://belugacdn.shoofmax.com/kalim-allah/ep44/480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 45
+https://belugacdn.shoofmax.com/kalim-allah/ep45/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 46
+https://belugacdn.shoofmax.com/kalim-allah/ep46/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 47
+https://belugacdn.shoofmax.com/kalim-allah/ep47/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 48
+https://belugacdn.shoofmax.com/kalim-allah/ep48/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 49
+https://belugacdn.shoofmax.com/kalim-allah/ep49/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 50
+https://belugacdn.shoofmax.com/kalim-allah/ep50/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 51
+https://belugacdn.shoofmax.com/kalim-allah/ep51/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 52
+https://belugacdn.shoofmax.com/kalim-allah/ep52/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 53
+https://belugacdn.shoofmax.com/kalim-allah/ep53/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 54
+https://belugacdn.shoofmax.com/kalim-allah/ep54/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 55
+https://belugacdn.shoofmax.com/kalim-allah/ep55/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 56
+https://belugacdn.shoofmax.com/kalim-allah/ep56/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 57
+https://belugacdn.shoofmax.com/kalim-allah/ep57/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 58
+https://belugacdn.shoofmax.com/kalim-allah/ep58/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة 59
+https://belugacdn.shoofmax.com/kalim-allah/ep59/720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قصص الأنبياء",كليم الله  ( موسى عليه السلام ) الحلقة الأخيرة 60
+https://belugacdn.shoofmax.com/kalim-allah/ep60/720p/index.m3u8
+
