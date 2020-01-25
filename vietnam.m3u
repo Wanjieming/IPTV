@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/DbWAv9W.png" group-title="VTV", VTV1 HD 
+https://1419647860.rsc.cdn77.org/XAvzE6_caL0q_PUUHi3S0Q==,1558888783/ls-46961-1/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/PzpQYLf.png" group-title="VTV", VTV2 HD 
+https://1414383384.rsc.cdn77.org/ZRxEDP3XEnUZJgx5dltwkQ==,1558888854/ls-46961-2/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/88YdZzT.png" group-title="VTV", VTV3 HD 
+https://1216617970.rsc.cdn77.org/Y3KoF-CYR_YMCRJqktY87Q==,1558888882/ls-46961-3/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/640BeqD.png" group-title="VTV", VTV4 HD 
+https://1195841921.rsc.cdn77.org/EZFcdg84qP_HPX7NHtns1w==,1558888929/ls-46961-4/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/F2Ys7r2.jpg" group-title="VTV", VTV5 HD 
+https://1438820615.rsc.cdn77.org/z8wGK19jhsFeG4QFvlB5cw==,1558888945/ls-46961-5/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/qdS0Gi6.jpg" group-title="VTV", VTV6 HD
+https://1712336235.rsc.cdn77.org/3aUu7iNJ6gOggPKbXcTg-w==,1558888960/ls-46961-6/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/V5REIwA.jpg" group-title="VTV", VTV7 HD 
+https://1369320667.rsc.cdn77.org/li26pjfdEQV8tMOnBH1-WQ==,1558888980/ls-46961-7/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/topRsrR.jpg" group-title="VTV", VTV8 HD 
+https://1961667562.rsc.cdn77.org/1fvNIjqpGjvsZrr8h__soA==,1558889000/ls-46961-8/index.m3u8
+#EXTINF:-1 tvg-id="DÐH" tvg-logo="https://i.imgur.com/AtNjigl.png" group-title="VTV", VTV9 HD 
+https://1021118883.rsc.cdn77.org/rd5GFGays-Y2rA3Xqh-v5g==,1558889015/ls-46961-9/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", AnGiangTV
 http://vietcago.net/vstv/angiangtv1.m3u8
