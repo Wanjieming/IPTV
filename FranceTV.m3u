@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,|FR| EUROSPORT 1
+http://fr-c.movply.stream/hls/sony-six-hd.m3u8
 #EXTINF:-1,|FR| TF1 FHD
 http://185.23.213.162:8789/ania/ania/13847
 #EXTINF:-1,|FR| TF1 HD
