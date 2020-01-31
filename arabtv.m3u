@@ -1,1378 +1,1357 @@
 #EXTM3U
-#EXTINF:-1,makkah
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  makkah
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Alarabiya
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alarabiya
 http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Alarabiya HD
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/chunklist_b4500000.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,AlarabiyaAlhadath
-http://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b4500000.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Aljazeera
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Franca 24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Franca 24
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,RT-arab
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RT-arab
 http://rt-arab.secure.footprint.net/1104_400Kb.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,SkyNewsarabia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  SkyNewsarabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,DW Arabic
-http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1079.ts
-#EXTINF:-1, group-title=”NEWS TV”,DW Arabic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DW Arabic
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”NEWS TV”,BBC Ar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  BBC Ar
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Alaraby
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Elsharqtv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Elsharqtv
 http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8?v=2631202062
-#EXTINF:-1, group-title=”NEWS TV”,Makamelen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Makamelen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Alhora
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alhora
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,Alhora Iraq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alhora Iraq
 http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1, group-title=”NEWS TV”,TRTARAPCA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  TRTARAPCA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_720p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”NEWS TV”,Al hiwar
-http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1702.ts
-#EXTINF:-1, group-title=”NEWS TV”,Alalam
-http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1389.ts
-#EXTINF:-1, group-title=”NEWS TV”,Hadath
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Hadath
 http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,IraqiaSp
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  IraqiaSp
 http://95.170.215.109/hls/m3u8/IraqiaSp-Backup.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Al-Kass1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1abyrsb/master570.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Al-Kass2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwoMasrsb/master570.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Al-Kass4
-https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdb/master570.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Al-Kass5
-https://alkasmsl4.akamaized.net/hls/live/2003123/fiveAnsdb/master570.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Kuwait Sports
-https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist_b2400000.m3u8?v=2596091481
-#EXTINF:-1, group-title=”SPORT TV”,BahrainSport
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  BahrainSport
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1519986140.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Oman Sport
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Oman Sport
 http://38.96.148.30:1935/live/omantv02/chunklist_w68776990.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Alfajertv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alfajertv
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1, group-title=”SPORT TV”,Alfajertv2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alfajertv2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Salam Tv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Salam Tv
 http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,Kolalnas
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 3
-https://tvae.ercdn.net/adsport3/adsport3_1080p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,AD Sports 4
-https://tvae.ercdn.net/adsport4/adsport4_1080p.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DubaiSport 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DubaiSport 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DubaiSport 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,
-#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  KSA Sport 1
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  KSA Sport 2
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8?
-#EXTINF:-1, group-title=”SPORT TV”,Dubai Racing
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,3 Morocco Sports
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  3 Morocco Sports
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,jordan sport
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  jordan sport
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w964261173.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 1
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDIxACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 2
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDIyACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 3
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDIzACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 4
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI0ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 5
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI1ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 6
-http://g3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI2ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 7
-http://k3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI3ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 8
-http://k3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI4ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 9
-http://k3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_==AMycDI5ACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,BeinSport 10
-http://k3686234869.wo2.co/o.php?1603128603575697_160019294615721035231607991987_2615227584_=AjM3ACMxACdy9GcTBiQ
-#EXTINF:-1, group-title=”SPORT TV”,bt Sport1
-http://tv.b4ucast.me/tv/PPRh154UUz20180321/chunklist_w326140733_tkaGxzZW5kdGltZT0xNTc1NTQ5MDAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TzRuRzRpeFViN2JnS05vdDhZUFViSWt6bmhNM3k5anlrMEdFdzF3clNkND0=.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,bt Sport2
-http://tv.b4ucast.me/tv/BSr715Im6t20180321/chunklist_w1820525608_tkaGxzZW5kdGltZT0xNTc1NTQ5MDYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9V3FCVXV5eG9yWmVGblFvaEdYZWg3NXM0RW9QakJDVHpZdkptOFpwRUc0WT0=.m3u8
-#EXTINF:-1, group-title=”SPORT TV”,bt Sport3
-http://tv.b4ucast.me/tv/BTY1WtY8Lg20180321/chunklist_w516970951_tkaGxzZW5kdGltZT0xNTc1NTQ5MTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9VjA1ZjBFaDctU3ZEZ0I1MzgzTnRxZ0VvZUVaVE56U2VLTlJkalQ5UXM3cz0=.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ABN SAT (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ABN SAT (1280×720)
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ABU DHABI (1280×720)
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ABU DHABI DRAMA (1280×720)
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AD SPORTS 1 (1280×720)
-http://tvae.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AD SPORTS 2 (1280×720)
-http://tvae.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AD SPORTS 3 (1280×720)
-http://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AD SPORTS 4 (1280×720)
-http://tvae.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AGHAPY TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AGHAPY TV (1920×1080)
 http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AHL AL QURAN TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AHL AL QURAN TV (1280×720)
 https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AJYAL TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AJYAL TV (1920×1080)
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL ARABY TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL ARABY TV (1920×1080)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL ARABY TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL ARABY TV (1920×1080)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL FADY TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL FADY TV (1920×1080)
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL FAJER TV 1 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL FAJER TV 1 (1280×720)
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL FAJER TV 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL FAJER TV 2 (1280×720)
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HAYAT (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HAYAT (1280×720)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HAYAT DRAMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HAYAT DRAMA (1280×720)
 http://95.170.215.107:80/hls/m3u8/Alhayat-M-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HIWAR (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HIWAR (1920×1080)
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HORREYA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HORREYA TV (1920×1080)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HURRA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HURRA (1280×720)
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL HURRA IRAQ (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL HURRA IRAQ (1280×720)
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL JAZEERA NEWS (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL JAZEERA NEWS (1920×1080)
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KARMA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KARMA TV (1920×1080)
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 1 (1024×576)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KASS 1 (1024×576)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 2 (1024×576)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KASS 2 (1024×576)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 3 (1024×576)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KASS 3 (1024×576)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 4 (1024×576)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KASS 4 (1024×576)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 5 (1024×576)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL KASS 5 (1024×576)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | Al Khalij TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | Al Khalij TV (1280×720)
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL MAGD TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL MAGD TV (1920×1080)
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL MAMLAKA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL MAMLAKA TV (1920×1080)
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL RAFIDAIN (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL RAFIDAIN (1280×720)
 http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_720p/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL RAI (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL RAI (1920×1080)
 https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL RAYYAN 1 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL RAYYAN 1 (1280×720)
 http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL RAYYAN 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL RAYYAN 2 (1280×720)
 https://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL SHARJAH KALBA (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL SHARJAH KALBA (1920×1080)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL SUNNAH (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AL SUNNAH (1280×720)
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AlL EMARAT TV (1280×720)
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ALRASHEED TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ALRASHEED TV (1280×720)
 http://95.170.215.101/hls/m3u8/ALRASHEED-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ALSHARQIYA NEWS (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ALSHARQIYA NEWS (1280×720)
 http://95.170.215.109/hls/m3u8/SHARQ-NEW-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ALSHARQIYA TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ALSHARQIYA TV (1280×720)
 http://livecdnh2.tvanywhere.ae/hls/sharqiya/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AYAAT TV 1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | AYAAT TV 1280×720)
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 1
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDIxACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 2
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDIyACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 3
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDIzACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 4
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI0ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 5
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI1ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 6
-http://G3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI2ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 7
-http://K3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI3ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 8
-http://K3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI4ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | BEIN SPORTS 9
-http://K3686234869.wo2.co/o.php?1603128603575697_160019294615750242651607991987_424838149_==AMycDI5ACdy9GcTBiQ
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | CAIRO CINEMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | CAIRO CINEMA (1280×720)
 http://95.170.215.109:80/hls/m3u8/CairoCine-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | CAIRO DRAMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | CAIRO DRAMA (1280×720)
 http://95.170.215.109:80/hls/m3u8/Cairo-Dra-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | CHANNEL 4 TEEN (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | CHANNEL 4 TEEN (1920×1080)
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | CHARI TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | CHARI TV (1280×720)
 http://185.105.4.236:1935/live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | CITRUSS TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | CITRUSS TV (1280×720)
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | COPTIC SAT TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | COPTIC SAT TV (1920×1080)
 http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DIJLAH TV (1920×1080)
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DMC (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DMC (1280×720)
 http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI ONE (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI ONE (1920×1080)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 1 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI RACING 1 (1920×1080)
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 2 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI RACING 2 (1920×1080)
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 3 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI RACING 3 (1920×1080)
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 1 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI SPORTS 1 (1920×1080)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 2 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI SPORTS 2 (1920×1080)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 3 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI SPORTS 3 (1920×1080)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI TV (1920×1080)
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI ZAMAN (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | DUBAI ZAMAN (1920×1080)
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | EL SHARQ TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | EL SHARQ TV (1280×720)
 http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | GULLI BIL ARABIE (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | GULLI BIL ARABIE (1280×720)
 http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | HAWAS TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | HAWAS TV (1280×720)
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | IMAM HOSSAIN TV 2 (1280×720)
-http://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KOLALNAS TV (1920×1080)
-http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KSA SPORTS 1 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | KSA SPORTS 1 (1280×720)
 http://95.170.215.107:80/hls/KSA-Sport1-Bakup-M.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KSA SPORTS 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | KSA SPORTS 2 (1280×720)
 http://95.170.215.107:80/hls/KSA-Sport2-Bakup-M.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KTV 1 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | KTV 1 (1920×1080)
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KTV Sports (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | KTV Sports (1920×1080)
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | LANA PLUS TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | LANA PLUS TV (1920×1080)
 https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | LANA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | LANA TV (1920×1080)
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | LIBYA 218 218 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | LIBYA 218 218 (1920×1080)
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | LIBYA 218 NEWS (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | LIBYA 218 NEWS (1920×1080)
 https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | LOGOS TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | LOGOS TV (1920×1080)
 http://68.235.60.118:1935/logoschannel.com/logostv.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | M24 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | M24 (1280×720)
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MAJID KIDS TV (1280×720)
-https://tvae.ercdn.net/majidtv/majidtv.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC (1280×720)
 http://95.170.215.118:80/hls/m3u8/MBC1-Ali-Mar-AA-Z.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC (1280×720)
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC 2 (1280×720)
 http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC 2 (1280×720)
 http://95.170.215.118:80/hls/m3u8/MBC2-QQ-DD-G-C.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC 3 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC 3 (1280×720)
 http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC 4 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC 4 (1280×720)
 http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC 4 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC 4 (1280×720)
 http://95.170.215.118:80/hls/m3u8/MBC4-EE-DD-V-Z.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC ACTION (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC ACTION (1280×720)
 http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC BOLLYWOOD (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC BOLLYWOOD (1280×720)
 http://95.170.215.107:80/hls/MBC-Bollywood-BU-M.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC DRAMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC DRAMA (1280×720)
 http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC DRAMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC DRAMA (1280×720)
 http://95.170.215.118:80/hls/m3u8/MBCDRAMA-RR-AA-B.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC DRAMA PLUS (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC DRAMA PLUS (1280×720)
 http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC IRAQ (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC IRAQ (1280×720)
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC MASR 2 (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC MASR 2 (1280×720)
 http://95.170.215.107:80/hls/m3u8/MBC-Masr-2-Backu.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC MAX (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC MAX (1280×720)
 http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC MAX (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC MAX (1280×720)
 http://95.170.215.118:80/hls/MBC-MAX-TT-DD-N.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MBC VAIRETY (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MBC VAIRETY (1280×720)
 http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MEKAMELEEN TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MEKAMELEEN TV (1920×1080)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MIDDLE EAST TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MIDDLE EAST TV (1280×720)
 http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_720p/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MTA 3 (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MTA 3 (1920×1080)
 http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MTV LEBANON (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MTV LEBANON (1280×720)
 http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | MUSIC ALREMAS (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | MUSIC ALREMAS (1280×720)
 http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | NAT GEO AD (1280×720)
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | NAT GEO KIDS AD (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | NAT GEO KIDS AD (1280×720)
 http://95.170.215.107/hls/m3u8/Nat-G-Kids-Bckup.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | NBN (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | NBN (1280×720)
 http://livecdnh1.tvanywhere.ae:80/hls/nbn/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ON DRAMA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ON DRAMA (1280×720)
 http://95.170.215.107/hls/m3u8/ON-Drama.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ORIENT (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ORIENT (1920×1080)
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | PALESTINIAN TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | PALESTINIAN TV (1920×1080)
 http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ROYA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ROYA TV (1920×1080)
 https://roya-live.ercdn.net/roya/roya.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | RT ARABIC (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | RT ARABIC (1280×720)
 https://rt-arab-gd.secure2.footprint.net/1104.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SADA ELBALAD (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SADA ELBALAD (1280×720)
 http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SAHEL TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SAHEL TV (1280×720)
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SAMA DUBAI (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SAMA DUBAI (1920×1080)
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SAMA TV (1920×1080)
-https://svs.itworkscdn.net/samatvlive/sama.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SAMARRA TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SAMARRA TV (1280×720)
 http://212.18.231.213:1935/samarra/samarra/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SHARJA KALBA (1920×1080)
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SHARJA SPORTS (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SHARJA SPORTS (1920×1080)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SHARJA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SHARJA TV (1920×1080)
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SKY NEWS ARABIA (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SKY NEWS ARABIA (1280×720)
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | STAR MOVIES (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | STAR MOVIES (1280×720)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | STAR WORLD (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | STAR WORLD (1280×720)
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SUDAN TAYBA (1280×720)
-http://tayba.live.net.sa:1935/tayba/taybatv/Playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | SYRIA TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | SYRIA TV (1920×1080)
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | TANASUH TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | TANASUH TV (1280×720)
 http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | TRT ARABI (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | TRT ARABI (1280×720)
 https://trtcanlitv-lh.akamaihd.net//i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | WATAN TV (1920×1080)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | WATAN TV (1920×1080)
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | WATAR (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | WATAR (1280×720)
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | WESAL TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | WESAL TV (1280×720)
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ZAGROS TV (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ZAGROS TV (1280×720)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | ZEE ALWAN (1280×720)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MY HD | ZEE ALWAN (1280×720)
 http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Hadath
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Hadath
 http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Alsharqiya News
-http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1385.ts
-#EXTINF:-1, group-title=”IRAQ TV”,Alsharqiya
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alsharqiya
 http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,AlsharqiyaNews
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  AlsharqiyaNews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Iraqia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Iraqia
 http://cdn.catiacast.video/imn/5952fbfdf2bd7e80b7fd446206ec06f4.sdp/chunks.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Iraqia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Iraqia
 http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,alrashid
-http://streamer11.elementssys.com:8080/alrashid/alrashid_650kbps/index.m3u8
-title=”IRAQ TV”,Alrashid
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alrashid
 http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/index.m3u8?v=1491308584
-#EXTINF:-1, group-title=”IRAQ TV”,Dijlah
-http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Dijlah
-http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Arrafidaintv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Arrafidaintv
 http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541
-#EXTINF:-1, group-title=”IRAQ TV”,arrafidaintv
-http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_1024p/chunks.m3u8?nimblesessionid=109795907
-#EXTINF:-1, group-title=”IRAQ TV”,Hadath
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Hadath
 http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,UR TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  UR TV
 https://ghaasiflu.online/urtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title=”IRAQ TV”,Samarra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Samarra
 http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist_w993408863_b4016128.m3u8?v=2919459194
-#EXTINF:-1, group-title=”ARABIC TV”,Almasar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Almasar
 http://212.18.231.213:1935/almasar/ngrp:almasar_all/chunklist_w1176608052_b1365536.m3u8?v=2919459194
-#EXTINF:-1, group-title=”ARABIC TV”,MBC 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC 1
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC4
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC5
-http://s.igiptv.com:8000/live/Hisham/hisham123/60519.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC DRAMA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC DRAMA
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC MAX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC ACTION
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC ACTION
 http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Iraq
-http://s.igiptv.com:8000/live/Hisham/hisham123/23524.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Iraq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC Iraq
 http://95.170.215.109:80/hls/m3u8/MBC-IRAQ-Backup.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Iraq
-http://iptv6.premium-stv.com:25461/SOURCEARABPRO1/9925515831/1630
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Masr
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC Masr
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/03.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Masr2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  MBC Masr2
 http://95.170.215.107:80/hls/m3u8/MBC-Masr-2-Backu.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC BOLLY
-http://livecdnh2.tvanywh/hls/mbc_bolly/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,MBC Variety
-http://s.igiptv.com:8000/live/Hisham/hisham123/13232.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaAflam
-http://livecdnh3.tvanywhere.ae/hls/Rotaflam/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaCinema
-http://livecdnh3.tvanywhere.ae/hls/Rotcinema/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaDrama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaDrama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaKHal
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaKHal
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaMasria
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaMasria
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaClassic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaClassic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaClip
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaClip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,RotanaMusic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RotanaMusic
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,ZEE AFLAM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  ZEE AFLAM
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,AD DRAMA
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,PAN DRAMA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  PAN DRAMA
 http://95.170.215.109/hls/m3u8/Pan-Drama-Backup.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,NESSMA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  NESSMA
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Roya TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Roya TV
 https://roya-live.ercdn.net/roya/roya_1080p.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,ZEE MAGIC
-http://z5ams.akamaized.net/magic/index.m3u8?hdnts=st=1575536088~exp=1575539088~acl=/*~hmac=20f120630f4d9685c7e8939e1a1f62c254f6d15110c9639eb7096c50fb161b5f
-#EXTINF:-1, group-title=”ARABIC TV”,ucom
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  ucom
 http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Sky-MoviesComedy
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Sky-MoviesComedy
 http://95.170.215.118/hls/Sky-MoviesComedy-N.m3u8
-#EXTINF:-1,Sky-MoviesComedy
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Sky-MoviesComedy
 http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
-#EXTINF:-1,b4uaflam
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  b4uaflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/nile_cin/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,cbc_drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  cbc_drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,DMC Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,kahera_nas
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  kahera_nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/01.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,ON Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  ON Drama
 http://95.170.215.107/hls/m3u8/ON-Drama.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,wanasah
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Nile Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Nile Drama
 http://livecdnh2.tvanywhere.ae/hls/nile_drama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,AL Nahar Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  AL Nahar Drama
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Nahar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Nahar
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,CBC Sofra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  CBC Sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,cbc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  cbc
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/03.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Dream 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Dream 2
 http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,dmc drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  dmc drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,dmc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  dmc
 http://livecdnh3.tvanywhere.ae/hls/dmchd/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Sada 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Sada 2
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Sada
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Sada
 http://livecdnh1.tvanywhere.ae/hls/sada_balad/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Alhayat 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alhayat 1
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,funoon
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  funoon
 http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Sama Dubai
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Dubai one
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Dubai Zaman
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,LBC
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,jorlive
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  jorlive
 http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w37336481.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,blue_nile
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  blue_nile
 http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,WATAN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  WATAN
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Oman
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Oman
 http://38.96.148.30:1935/live/omantv03/chunklist_w1124022145.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,halaTV
-http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?nimblesessionid=18031116
-#EXTINF:-1, group-title=”ARABIC TV”,Okrania
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Okrania
 http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8
-#EXTINF:-1, group-title=”ARABIC TV”,Krd
-http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1235590618_b1296000_sleng.m3u8?v=2919459194
-#EXTINF:-1,beIN Movies 1
-http://s.igiptv.com:8000/live/Hisham/hisham123/23524.m3u8
-#EXTINF:-1,BeinDrama1
-http://95.170.215.120/hls/m3u8/BeinDrama1.m3u8
-#EXTINF:-1,BeinGourmet
-http://95.170.215.120/hls/m3u8/BeinGourmet.m3u8
-#EXTINF:-1,BeinSeries1
-http://95.170.215.120/hls/m3u8/BeinSeries1.m3u8
-#EXTINF:-1,BeinSeries2
-http://95.170.215.120/hls/m3u8/BeinSeries1.m3u8
-#EXTINF:-1,BeinMovies1
-http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
-#EXTINF:-1,BeinMovies2
-http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
-#EXTINF:-1,BeinMovies3
-http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
-#EXTINF:-1,BeinMovies4
-http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
-#EXTINF:-1,huyalive
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title=”KEDS TV”,baby live
-https://swhd.herokuapp.com/http://95.170.215.109/hls/m3u8/TOYOR-B-Backup.m3u8
-#EXTINF:-1, group-title=”KEDS TV”,spacetoon
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alarabiya
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Franca 24
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  RT-arab
+http://rt-arab.secure.footprint.net/1104_400Kb.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  SkyNewsarabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DW Arabic
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  BBC Ar
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Elsharqtv
+http://149.202.79.190:8081/elsharqtv/live_720p/chunks.m3u8?v=2631202062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-#EXTINF:-1, group-title=”KEDS TV”,Jeem
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  Jeem
 http://95.170.215.120/hls/m3u8/jeem.m3u8
-#EXTINF:-1, group-title=”KEDS TV”,Majid
-http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
-#EXTINF:-1, group-title=”NEWS-EN”,SKY NEWS
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1, group-title=”NEWS-EN”,DW TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  DW TV
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1, group-title=”NEWS-EN”,ifilma
-https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w153469588_b944100_slen.m3u8
-#EXTINF:-1,(EGY) AL SA3AA COMEDY@M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",  (EGY) AL SA3AA COMEDY@M
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/516.m3u8
-#EXTINF:-1,CBC DRAMA@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3390.m3u8
-#EXTINF:-1,APPLE DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   APPLE DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3391.m3u8
-#EXTINF:-1,CAIRO DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   CAIRO DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3389.m3u8
-#EXTINF:-1,PANORAMA DRAMA @x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   PANORAMA DRAMA @x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3393.m3u8
-#EXTINF:-1,PANORAMA DRAMA 2@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   PANORAMA DRAMA 2@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3392.m3u8
-#EXTINF:-1,ON Drama HD@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ON Drama HD@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3388.m3u8
-#EXTINF:-1,CBC EXTRA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   CBC EXTRA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3395.m3u8
-#EXTINF:-1,DMC DRAMA HD@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DMC DRAMA HD@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3394.m3u8
-#EXTINF:-1,DMC HD@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DMC HD@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3396.m3u8
-#EXTINF:-1,NILE DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   NILE DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3387.m3u8
-#EXTINF:-1,SYRIA DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   SYRIA DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3386.m3u8
-#EXTINF:-1,AL INSENE@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL INSENE@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3385.m3u8
-#EXTINF:-1,AL NAHAR DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL NAHAR DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3357.m3u8
-#EXTINF:-1,MBC MAX HD@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC MAX HD@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3384.m3u8
-#EXTINF:-1,ABU DHABI DRAMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ABU DHABI DRAMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3358.m3u8
-#EXTINF:-1,AR: =ON E@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: =ON E@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1461.m3u8
-#EXTINF:-1,AL NAHAR@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL NAHAR@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1338.m3u8
-#EXTINF:-1,APPLE AFLAM@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   APPLE AFLAM@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1474.m3u8
-#EXTINF:-1,AR: APPLE MOSALSALAT@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: APPLE MOSALSALAT@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1473.m3u8
-#EXTINF:-1,AR:=APPLE HEKAYAT@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:=APPLE HEKAYAT@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1472.m3u8
-#EXTINF:-1,AR:=M CLASSIC@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:=M CLASSIC@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1469.m3u8
-#EXTINF:-1,BELODY AFLAM@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   BELODY AFLAM@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1467.m3u8
-#EXTINF:-1,AR:=Maspero Zaman@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:=Maspero Zaman@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1470.m3u8
-#EXTINF:-1,AL MASER AL OULA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL MASER AL OULA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1466.m3u8
-#EXTINF:-1,AR: =AL HAYAT MOSALSALAT@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: =AL HAYAT MOSALSALAT@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1471.m3u8
-#EXTINF:-1,AL BAIT BAITAK CINEMA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL BAIT BAITAK CINEMA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1468.m3u8
-#EXTINF:-1,AR: =ON E HD@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: =ON E HD@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1464.m3u8
-#EXTINF:-1,AR:=AL HAYAT@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:=AL HAYAT@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1463.m3u8
-#EXTINF:-1,AR:=APPLE AL YOUM@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:=APPLE AL YOUM@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1465.m3u8
-#EXTINF:-1,(EGY) AL SA3A AFLAM@M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/515.m3u8
-#EXTINF:-1,Rotana Aflam
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/662.m3u8
-#EXTINF:-1,Ar: Egy Aflam
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/642.m3u8
-#EXTINF:-1,AR |  Melody Aflam
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/640.m3u8
-#EXTINF:-1,AR_El Balad Drama
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/639.m3u8
-#EXTINF:-1,|AR.EGY|  NILE SPORT@@@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/641.m3u8
-#EXTINF:-1,EAMAR MUSIC HD@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/465.m3u8
-#EXTINF:-1,AL JADEED@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AL JADEED@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/450.m3u8
-#EXTINF:-1,[AR] Cinema Pro@3  80
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/439.m3u8
-#EXTINF:-1,PALESTINE LIVE@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   PALESTINE LIVE@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/451.m3u8
-#EXTINF:-1,ROTANA CLASSIC@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ROTANA CLASSIC@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/456.m3u8
-#EXTINF:-1,TOKTOK CIMA@ x1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TOKTOK CIMA@ x1
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/453.m3u8
-#EXTINF:-1,PALESTINE AL KOFIYA@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   PALESTINE AL KOFIYA@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/452.m3u8
-#EXTINF:-1,Music-Hawacom@ x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/464.m3u8
-#EXTINF:-1,WANASAH@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   WANASAH@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/466.m3u8
-#EXTINF:-1,AR_durabikuh 'aflam@
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR_durabikuh 'aflam@
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/459.m3u8
-#EXTINF:-1,Maspero Zaman@ x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   Maspero Zaman@ x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/460.m3u8
-#EXTINF:-1,APPLE MOSALSALAT@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   APPLE MOSALSALAT@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/467.m3u8
-#EXTINF:-1,SHA3BIYAT @x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   SHA3BIYAT @x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/461.m3u8
-#EXTINF:-1,Music Mazzika@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   Music Mazzika@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/463.m3u8
-#EXTINF:-1,Music-Zweina-Baladna@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/458.m3u8
-#EXTINF:-1,AR:OTV@
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR:OTV@
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/448.m3u8
-#EXTINF:-1,Music-Mazzikan heats@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   Music-Mazzikan heats@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/462.m3u8
-#EXTINF:-1,MTV HD@ x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MTV HD@ x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/449.m3u8
-#EXTINF:-1,ROTANA CLIP@ x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ROTANA CLIP@ x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/455.m3u8
-#EXTINF:-1,ROTANA CINEMA EGY@x
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ROTANA CINEMA EGY@x
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/457.m3u8
-#EXTINF:-1,ROTANA Classic@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ROTANA Classic@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3058.m3u8
-#EXTINF:-1,|AR|_ROTANA_DRAMA@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_DRAMA@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3057.m3u8
-#EXTINF:-1,|AR|_ALKASS4@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALKASS4@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3056.m3u8
-#EXTINF:-1,[AR] Sa3aa Comedy@80
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3055.m3u8
-#EXTINF:-1,MBC 3 SD@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 3 SD@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3065.m3u8
-#EXTINF:-1,MYHD MBC 2 HD@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MYHD MBC 2 HD@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3064.m3u8
-#EXTINF:-1,|AR|_MBC_1@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_1@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3063.m3u8
-#EXTINF:-1,|AR|_MBC_BOLLYWOOD@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_BOLLYWOOD@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3062.m3u8
-#EXTINF:-1,ROTANA Clip@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ROTANA Clip@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3059.m3u8
-#EXTINF:-1,|AR|_ROTANA_AFLAM@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_AFLAM@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3060.m3u8
-#EXTINF:-1,|AR|_ROTANA_CINEMA@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_CINEMA@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3061.m3u8
-#EXTINF:-1,|AR|_SYRIA_DRAMA@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SYRIA_DRAMA@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3066.m3u8
-#EXTINF:-1,|AR|_SAMA_SYRIA@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SAMA_SYRIA@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3067.m3u8
-#EXTINF:-1,|AR|_MBC_ACTION@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_ACTION@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3072.m3u8
-#EXTINF:-1,MYHD [MBC ACTION HD@1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MYHD [MBC ACTION HD@1
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3073.m3u8
-#EXTINF:-1,|AR|_ABUDHABI_EMIRAT@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ABUDHABI_EMIRAT@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3074.m3u8
-#EXTINF:-1,MYHD MBC Drama HD@
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MYHD MBC Drama HD@
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3075.m3u8
-#EXTINF:-1,MYHD MBC MASR 2@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MYHD MBC MASR 2@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3076.m3u8
-#EXTINF:-1,|AR|_MBC_MASR@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_MASR@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3077.m3u8
-#EXTINF:-1,|AR|_MBC_MAX@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_MAX@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3078.m3u8
-#EXTINF:-1,|AR|_MBC_BOLLYWOOD@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_BOLLYWOOD@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3071.m3u8
-#EXTINF:-1,|AR|_MBC_MASR@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_MASR@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3070.m3u8
-#EXTINF:-1,|AR|_NAT_GEO_ABUDHABI@ma
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_NAT_GEO_ABUDHABI@ma
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3069.m3u8
-#EXTINF:-1,|AR|_SAMA_DUBAI_HD@sm
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SAMA_DUBAI_HD@sm
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3068.m3u8
-#EXTINF:-1,(EGY) Maspero Zaman@ M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   (EGY) Maspero Zaman@ M
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3092.m3u8
-#EXTINF:-1,(EGY) AL MASRAWIA AFLAM@M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   (EGY) AL MASRAWIA AFLAM@M
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3091.m3u8
-#EXTINF:-1,(EGY) MAZAZIKH TV@M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   (EGY) MAZAZIKH TV@M
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3090.m3u8
-#EXTINF:-1,(AR) MBC Masr 2@M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   (AR) MBC Masr 2@M
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3106.m3u8
-#EXTINF:-1,(AR) MBC Masr 1@M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3105.m3u8
-#EXTINF:-1,(AR)  ART Aflam 1@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3104.m3u8
-#EXTINF:-1,(AR) ART Aflam 2@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3103.m3u8
-#EXTINF:-1,(AR) Nile Sport@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3110.m3u8
-#EXTINF:-1,(AR) Egypt-Ahly Tv@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3109.m3u8
-#EXTINF:-1,AR- azharaa Quran@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3108.m3u8
-#EXTINF:-1,(AR) AlAfasy Quran@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3107.m3u8
-#EXTINF:-1,AR: Quran@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3119.m3u8
-#EXTINF:-1,AR: Beity@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3118.m3u8
-#EXTINF:-1,AR: ON E HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3117.m3u8
-#EXTINF:-1,AR: Al Nahar HD @ip
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3116.m3u8
-#EXTINF:-1,AR: Rotana Cinema  HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3132.m3u8
-#EXTINF:-1,AR: Rotana Khalijiah HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3131.m3u8
-#EXTINF:-1,AR: Rotana Classic HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3130.m3u8
-#EXTINF:-1,AR: AL FAJR 1 HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3129.m3u8
-#EXTINF:-1,AR: AL FAJR 2 HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3128.m3u8
-#EXTINF:-1,AR: Salam HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3127.m3u8
-#EXTINF:-1,AR: Quran Karim@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3126.m3u8
-#EXTINF:-1,AR: AL Resala@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3125.m3u8
-#EXTINF:-1,AR: Al Majd Ahadeeth@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3123.m3u8
-#EXTINF:-1,AR: AyaatTV@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3124.m3u8
-#EXTINF:-1,AR: Sama Dubai@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3134.m3u8
-#EXTINF:-1,AR: Dubai Zaman@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3133.m3u8
-#EXTINF:-1,AR: AD Alemarat HD@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3139.m3u8
-#EXTINF:-1,AR: AlKahera Oua Nass@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3138.m3u8
-#EXTINF:-1,[AR] DMC HD@80
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3137.m3u8
-#EXTINF:-1,AR: ALRAI TV@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3136.m3u8
-#EXTINF:-1,Egypt:Nile Sport@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3147.m3u8
-#EXTINF:-1,AR: Rotana Aflam HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3146.m3u8
-#EXTINF:-1,AR: Ajyal HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3145.m3u8
-#EXTINF:-1,AR: Klalnas TV HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3144.m3u8
-#EXTINF:-1,AR: Rotana Drama HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3143.m3u8
-#EXTINF:-1,AR: Dubai One@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3142.m3u8
-#EXTINF:-1,AR: Dubai TV@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3141.m3u8
-#EXTINF:-1,AR: AD Drama HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3140.m3u8
-#EXTINF:-1,AR: Sawa Movies Thriller HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3151.m3u8
-#EXTINF:-1,Egypt:Nile Drama@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3150.m3u8
-#EXTINF:-1,AR: Alhayat Muslsalat@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3149.m3u8
-#EXTINF:-1,AR: ALhayat@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3148.m3u8
-#EXTINF:-1,CINEMAPRO@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3356.m3u8
-#EXTINF:-1,7ABESHA CIMA@ x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3343.m3u8
-#EXTINF:-1,AR: PNC Drama 1@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3161.m3u8
-#EXTINF:-1,[ALG] El Bilad TV@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3344.m3u8
-#EXTINF:-1,AR_Panorama Drama 2@ip
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3162.m3u8
-#EXTINF:-1,AR_MBC1@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/11.m3u8
-#EXTINF:-1,AR: Cairo Drama@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3158.m3u8
-#EXTINF:-1,AR: CBC Extra@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3156.m3u8
-#EXTINF:-1,AR: Sada El Balad Drama@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3160.m3u8
-#EXTINF:-1,AR: Al Nahar drama@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3157.m3u8
-#EXTINF:-1,AR: Cairo Cinema@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3159.m3u8
-#EXTINF:-1,SADA ELBALAD 2@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3345.m3u8
-#EXTINF:-1,SHANPOOAFLAM@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3346.m3u8
-#EXTINF:-1,AR_MbcDrama@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/14.m3u8
-#EXTINF:-1,STARCINEMA1@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3347.m3u8
-#EXTINF:-1,(EGY) TeN TV@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3097.m3u8
-#EXTINF:-1,Egypt:Cbc  Extra News@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3154.m3u8
-#EXTINF:-1,Egypt:Cbc Drama@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3155.m3u8
-#EXTINF:-1,AR: Dmc Drama@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3153.m3u8
-#EXTINF:-1,(EGY) STAR CINEMA 2@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3096.m3u8
-#EXTINF:-1,AR: Sawa Movies Cinema HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3152.m3u8
-#EXTINF:-1,AR: Dijla@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3135.m3u8
-#EXTINF:-1,AR: IQRAA@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3121.m3u8
-#EXTINF:-1,STAR CINEMA2@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3348.m3u8
-#EXTINF:-1,AR: Sunnah HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3120.m3u8
-#EXTINF:-1,TIME CINEMA @x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3349.m3u8
-#EXTINF:-1,(EGY) SHARO5AN HINDI@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3094.m3u8
-#EXTINF:-1,(EGY) SCARE TV@M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3093.m3u8
-#EXTINF:-1,(EGY) TOKTOK AFLAM@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3098.m3u8
-#EXTINF:-1,AR | MBC Masr-HD  @
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/1457.m3u8
-#EXTINF:-1,(EGY) STAR CINEMA 1@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3095.m3u8
-#EXTINF:-1,[EGY]TEN @x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3350.m3u8
-#EXTINF:-1,(EGY) TRP Mix@ M
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3099.m3u8
-#EXTINF:-1,CIMA TV@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3351.m3u8
-#EXTINF:-1,CINEMA 2@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3352.m3u8
-#EXTINF:-1,CINEMA 1@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3353.m3u8
-#EXTINF:-1,AL MASRIYA@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3354.m3u8
-#EXTINF:-1,CINEMA TUBE@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3355.m3u8
-#EXTINF:-1,TOKTOK CIMA@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3341.m3u8
-#EXTINF:-1,CIMA ALIBABA@x
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3342.m3u8
-#EXTINF:-1,Egypt:Mekamleen@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3471.m3u8
-#EXTINF:-1,AR:FM Music@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3472.m3u8
-#EXTINF:-1,AR_KuwaitSpace@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3473.m3u8
-#EXTINF:-1,ARAB_ROTANA CINEMA@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3741.m3u8
-#EXTINF:-1,ARR:Al-Yawm@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3733.m3u8
-#EXTINF:-1,AR:Syria-Aloula@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3734.m3u8
-#EXTINF:-1,AR:MBC 2@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3735.m3u8
-#EXTINF:-1,AR:MBC 1@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3736.m3u8
-#EXTINF:-1,AR:CBC EXTRA@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3737.m3u8
-#EXTINF:-1,ARAB_CAIRO CINEMA@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3738.m3u8
-#EXTINF:-1,AR:DUBAI-TV@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3739.m3u8
-#EXTINF:-1,ARAB_PANORAMA FILM@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3740.m3u8
-#EXTINF:-1,ARAB_ROTANA Khalijiah@ ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3742.m3u8
-#EXTINF:-1,ARr:Baraeem@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3732.m3u8
-#EXTINF:-1,ARr:CBCDrama@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3731.m3u8
-#EXTINF:-1,ARR:DUBAI-Racing@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3730.m3u8
-#EXTINF:-1,ARR:DUBAI-Zaman@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3729.m3u8
-#EXTINF:-1,ALjanoubia@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3728.m3u8
-#EXTINF:-1,ARr:attassiatv@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3727.m3u8
-#EXTINF:-1,ETTOUNSIA@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3726.m3u8
-#EXTINF:-1,ARr:FIRST.TV@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3725.m3u8
-#EXTINF:-1,ARr:hiwar-ettounsi@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3724.m3u8
-#EXTINF:-1,ARR:Nile-Comedy@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3720.m3u8
-#EXTINF:-1,ARr:NESSMA@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3721.m3u8
-#EXTINF:-1,ARr:NATIONAL2@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3722.m3u8
-#EXTINF:-1,ARr:NATIONAL1@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3723.m3u8
-#EXTINF:-1,ARr:Tounesna@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3710.m3u8
-#EXTINF:-1,ARr:TELVZATV@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3711.m3u8
-#EXTINF:-1,ARr:STARCINEMA2@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3712.m3u8
-#EXTINF:-1,ARr:samiratv@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3713.m3u8
-#EXTINF:-1,ARR:Rotana-music@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3714.m3u8
-#EXTINF:-1,ARR:Rotana-Masriya@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3715.m3u8
-#EXTINF:-1,ARR:Panorama-FILM@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3716.m3u8
-#EXTINF:-1,ARr:NileDrama@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3717.m3u8
-#EXTINF:-1,ARr:NileComedy@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3718.m3u8
-#EXTINF:-1,ARr:NileCinema@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3719.m3u8
-#EXTINF:-1,ARr:Toyor-jannah@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3709.m3u8
-#EXTINF:-1,ARr:zaitouna@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3708.m3u8
-#EXTINF:-1,ARr:ZeeAlwan@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3707.m3u8
-#EXTINF:-1,ARr:ZitounaHedaya@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3706.m3u8
-#EXTINF:-1,AR_Rotana_Masriya@Y
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3705.m3u8
-#EXTINF:-1,MA: Al Aoula@ip
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4205.m3u8
-#EXTINF:-1,AR: Zee Alwan@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4042.m3u8
-#EXTINF:-1,AR: B4U Aflam@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4044.m3u8
-#EXTINF:-1,[AR: Zee Aflam@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4043.m3u8
-#EXTINF:-1,AR: Nile Comedy@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4045.m3u8
-#EXTINF:-1,AR: Nile Drama@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4046.m3u8
-#EXTINF:-1,AR: CBC@in
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4047.m3u8
-#EXTINF:-1,wwe1
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4023.m3u8
-#EXTINF:-1,Masha and the Bear
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4038.m3u8
-#EXTINF:-1,wwe network
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4039.m3u8
-#EXTINF:-1,DZ: Berbere TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4531.m3u8
-#EXTINF:-1,DZ: Al Magharibia
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4530.m3u8
-#EXTINF:-1,DZ: Echourouk News
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4529.m3u8
-#EXTINF:-1,DZ: Dzair News
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4528.m3u8
-#EXTINF:-1,DZ: Al Haddaf
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4527.m3u8
-#EXTINF:-1,DZ: Al Bilad TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4526.m3u8
-#EXTINF:-1,DZ: Beur TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4525.m3u8
-#EXTINF:-1,DZ: Echourouk
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4524.m3u8
-#EXTINF:-1,DZ: Ennahar Laki
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Ennahar Laki
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4523.m3u8
-#EXTINF:-1,DZ: Ennahar
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4522.m3u8
-#EXTINF:-1,DZ: Numidia TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4521.m3u8
-#EXTINF:-1,DZ: Bahia TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4520.m3u8
-#EXTINF:-1,DZ: ENTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: ENTV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4519.m3u8
-#EXTINF:-1,DZ: EL FADJR TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: EL FADJR TV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4518.m3u8
-#EXTINF:-1,DZ: Al Djazairia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Al Djazairia
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4513.m3u8
-#EXTINF:-1,DZ: Dzair
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4514.m3u8
-#EXTINF:-1,DZ: Algerie 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Algerie 3
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4515.m3u8
-#EXTINF:-1,DZ: Algerie 4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Algerie 4
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4516.m3u8
-#EXTINF:-1,DZ: Algerie 5 Quran
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Algerie 5 Quran
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4517.m3u8
-#EXTINF:-1,DZ: Canal Algerie
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   DZ: Canal Algerie
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4512.m3u8
-#EXTINF:-1,TN: Zitouna FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Zitouna FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4511.m3u8
-#EXTINF:-1,TN: Radio Med
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Radio Med
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4510.m3u8
-#EXTINF:-1,TN: Ulysse FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Ulysse FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4509.m3u8
-#EXTINF:-1,TN: Oxygene FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Oxygene FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4508.m3u8
-#EXTINF:-1,TN: Cap FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Cap FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4507.m3u8
-#EXTINF:-1,TN: Radio IFM 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Radio IFM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4506.m3u8
-#EXTINF:-1,TN: Sabra FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Sabra FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4505.m3u8
-#EXTINF:-1,TN: KnOOz FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: KnOOz FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4504.m3u8
-#EXTINF:-1,TN: RTCI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: RTCI
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4503.m3u8
-#EXTINF:-1,TN: Jawhara FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Jawhara FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4499.m3u8
-#EXTINF:-1,TN: Mosaique FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Mosaique FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4500.m3u8
-#EXTINF:-1,TN: Express FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Express FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4501.m3u8
-#EXTINF:-1,TN: Shems FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Shems FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4502.m3u8
-#EXTINF:-1,TN: Diwan FM (CAM)
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4493.m3u8
-#EXTINF:-1,TN: JawharaFM (CAM)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: JawharaFM (CAM)
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4494.m3u8
-#EXTINF:-1,TN: MozaiqueFM (CAM)
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: MozaiqueFM (CAM)
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4495.m3u8
-#EXTINF:-1,TN: Radio Tunis
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Radio Tunis
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4496.m3u8
-#EXTINF:-1,TN: Radio Sfax
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Radio Sfax
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4497.m3u8
-#EXTINF:-1,TN: Diwan FM
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Diwan FM
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4498.m3u8
-#EXTINF:-1,AR: Al Hadath
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Hadath
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4478.m3u8
-#EXTINF:-1,AR: Al Araby
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Araby
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4479.m3u8
-#EXTINF:-1,LBN: NBN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   LBN: NBN
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4480.m3u8
-#EXTINF:-1,AR: SAUDIA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: SAUDIA
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4481.m3u8
-#EXTINF:-1,AR: SAUDIA 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: SAUDIA 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4482.m3u8
-#EXTINF:-1,AR: SAUDIA SONNAH
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: SAUDIA SONNAH
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4483.m3u8
-#EXTINF:-1,AR: SAUDIA CORAN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: SAUDIA CORAN
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4484.m3u8
-#EXTINF:-1,AR: Al Majd Quran
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Majd Quran
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4485.m3u8
-#EXTINF:-1,AR: Al Rahma TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Rahma TV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4486.m3u8
-#EXTINF:-1,AR: IQRAA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: IQRAA
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4487.m3u8
-#EXTINF:-1,***** OSN ** BEIN *****
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ***** OSN ** BEIN *****
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4488.m3u8
-#EXTINF:-1,TN: Tunisie Nat 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Tunisie Nat 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4489.m3u8
-#EXTINF:-1,TN: Zaytouna
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   TN: Zaytouna
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4490.m3u8
-#EXTINF:-1,TN: Sahel TV
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4491.m3u8
-#EXTINF:-1,Music TNSAT
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   Music TNSAT
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4492.m3u8
-#EXTINF:-1,AR: Almayadeen
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Almayadeen
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4477.m3u8
-#EXTINF:-1,AR: France 24
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: France 24
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4476.m3u8
-#EXTINF:-1,AR: AlArabia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: AlArabia
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4474.m3u8
-#EXTINF:-1,AR: BBC Arabic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: BBC Arabic
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4475.m3u8
-#EXTINF:-1,AR: Al Jazeera
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Jazeera
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4473.m3u8
-#EXTINF:-1,AR: Al Jazeera Doc
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Jazeera Doc
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4472.m3u8
-#EXTINF:-1,AR: Semsem
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4468.m3u8
-#EXTINF:-1,MusicTV Arab
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MusicTV Arab
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4469.m3u8
-#EXTINF:-1,AR: Aghani
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Aghani
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4470.m3u8
-#EXTINF:-1,AR: Nat Geo Abu Dhabi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Nat Geo Abu Dhabi
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4471.m3u8
-#EXTINF:-1,AR: Cartoon Network
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Cartoon Network
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4467.m3u8
-#EXTINF:-1,AR: Toyor Al Janah
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4466.m3u8
-#EXTINF:-1,AR: Space Toon
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Space Toon
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4465.m3u8
-#EXTINF:-1,AR: CBC Sofra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: CBC Sofra
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4464.m3u8
-#EXTINF:-1,AR: SamiraTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: SamiraTV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4463.m3u8
-#EXTINF:-1,LBN: LBC
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   LBN: LBC
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4461.m3u8
-#EXTINF:-1,LBN: OTV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   LBN: OTV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4462.m3u8
-#EXTINF:-1,AR: Sharjah
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Sharjah
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4460.m3u8
-#EXTINF:-1,AR: LIBYA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: LIBYA
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4459.m3u8
-#EXTINF:-1,AR: KTV 2
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4458.m3u8
-#EXTINF:-1,AR: KTV 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: KTV 1
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4457.m3u8
-#EXTINF:-1,AR: DMC Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: DMC Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4456.m3u8
-#EXTINF:-1,AR: DMC
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4455.m3u8
-#EXTINF:-1,AR: Al Hayat 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Hayat 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4453.m3u8
-#EXTINF:-1,AR: Al Hayat Musalsalet
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Hayat Musalsalet
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4454.m3u8
-#EXTINF:-1,AR: Al Hayat
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Hayat
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4452.m3u8
-#EXTINF:-1,AR: Cairo Cinema
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Cairo Cinema
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4451.m3u8
-#EXTINF:-1,AR: Cairo Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Cairo Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4450.m3u8
-#EXTINF:-1,AR: Panorama Film
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Panorama Film
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4448.m3u8
-#EXTINF:-1,AR: Rotana Khalijia
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Khalijia
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4447.m3u8
-#EXTINF:-1,AR: Rotana Music
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Music
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4446.m3u8
-#EXTINF:-1,AR: Panorama Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Panorama Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4449.m3u8
-#EXTINF:-1,AR: Dubai One
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Dubai One
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4440.m3u8
-#EXTINF:-1,AR: Rotana Aflam
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Aflam
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4441.m3u8
-#EXTINF:-1,AR: Rotana Classic
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Classic
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4442.m3u8
-#EXTINF:-1,AR: Rotana Cinema
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Cinema
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4443.m3u8
-#EXTINF:-1,AR: Rotana Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4444.m3u8
-#EXTINF:-1,AR: Rotana Clip
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Rotana Clip
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4445.m3u8
-#EXTINF:-1,AR: Al Nahar
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Nahar
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4432.m3u8
-#EXTINF:-1,AR: Abu Dhabi TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Abu Dhabi TV
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4434.m3u8
-#EXTINF:-1,AR: Al Nahar Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Al Nahar Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4433.m3u8
-#EXTINF:-1,AR: Dubai
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Dubai
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4435.m3u8
-#EXTINF:-1,AR: Dubai Aloula
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4436.m3u8
-#EXTINF:-1,AR: Dubai Zaman
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Dubai Zaman
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4437.m3u8
-#EXTINF:-1,AR: Sama Dubai
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Sama Dubai
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4438.m3u8
-#EXTINF:-1,AR: Noor Dubai
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Noor Dubai
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4439.m3u8
-#EXTINF:-1,AR: Nile Comedy
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Nile Comedy
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4426.m3u8
-#EXTINF:-1,AR: Nile Cinema
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Nile Cinema
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4427.m3u8
-#EXTINF:-1,AR: Nile Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Nile Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4428.m3u8
-#EXTINF:-1,AR: CBC
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: CBC
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4429.m3u8
-#EXTINF:-1,AR: CBC Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: CBC Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4430.m3u8
-#EXTINF:-1,AR: CBC Extra
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: CBC Extra
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4431.m3u8
-#EXTINF:-1,MBC Masr
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC Masr
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4415.m3u8
-#EXTINF:-1,MBC Masr 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC Masr 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4416.m3u8
-#EXTINF:-1,MBC BOLLYWOOD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC BOLLYWOOD
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4417.m3u8
-#EXTINF:-1,AR: Zee Aflam
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Zee Aflam
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4419.m3u8
-#EXTINF:-1,AR: Zee Alwan
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: Zee Alwan
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4418.m3u8
-#EXTINF:-1,AR: B4U Aflam
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   AR: B4U Aflam
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4420.m3u8
-#EXTINF:-1,ART Aflam 1
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4421.m3u8
-#EXTINF:-1,ART Aflam 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ART Aflam 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4422.m3u8
-#EXTINF:-1,ART Cinema
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ART Cinema
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4423.m3u8
-#EXTINF:-1,ART Hekayat
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ART Hekayat
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4424.m3u8
-#EXTINF:-1,ART Hekayat 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   ART Hekayat 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4425.m3u8
-#EXTINF:-1,MBC 1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 1
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4407.m3u8
-#EXTINF:-1,MBC 2
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 2
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4408.m3u8
-#EXTINF:-1,MBC 3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 3
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4409.m3u8
-#EXTINF:-1,MBC 4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 4
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4410.m3u8
-#EXTINF:-1,MBC 5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC 5
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4411.m3u8
-#EXTINF:-1,MBC MAX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC MAX
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4412.m3u8
-#EXTINF:-1,MBC ACTION
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC ACTION
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4413.m3u8
-#EXTINF:-1,MBC Drama
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   MBC Drama
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4414.m3u8
-#EXTINF:-1,|AR|_AD_DRAMA @sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_AD_DRAMA @sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4540.m3u8
-#EXTINF:-1,|AR|_Al_ARABIA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_Al_ARABIA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4541.m3u8
-#EXTINF:-1,|AR|_ALJAZEERA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALJAZEERA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4542.m3u8
-#EXTINF:-1,|AR|_ALKASS_1@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALKASS_1@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4543.m3u8
-#EXTINF:-1,|AR|_ALKASS_2@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALKASS_2@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4544.m3u8
-#EXTINF:-1,|AR|_BAHRAIN_INTERNATIONAL@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_BAHRAIN_INTERNATIONAL@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4545.m3u8
-#EXTINF:-1,|AR|_BAHRAIN_SPORTS@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_BAHRAIN_SPORTS@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4546.m3u8
-#EXTINF:-1,|AR|_BAHRAIN_TV@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_BAHRAIN_TV@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4547.m3u8
-#EXTINF:-1,|AR|_CBC@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_CBC@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4548.m3u8
-#EXTINF:-1,|AR|_CBC_DRAMA@sv
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4549.m3u8
-#EXTINF:-1,|AR|_CBC_SOFRA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_CBC_SOFRA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4550.m3u8
-#EXTINF:-1,|AR|_DUBAI_ONE_HD@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_DUBAI_ONE_HD@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4551.m3u8
-#EXTINF:-1,|AR|_IQRAA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_IQRAA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4552.m3u8
-#EXTINF:-1,|AR|_NAT_GEO_ABUDHABI@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_NAT_GEO_ABUDHABI@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4553.m3u8
-#EXTINF:-1,|AR|_RUSSIA_TODAY @sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_RUSSIA_TODAY @sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4554.m3u8
-#EXTINF:-1,|AR|_SAMA_DUBAI_HD@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SAMA_DUBAI_HD@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4555.m3u8
-#EXTINF:-1,|AR|_SAMA_SYRIA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SAMA_SYRIA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4556.m3u8
-#EXTINF:-1,|TN|_ALJANOUBIA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_ALJANOUBIA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4557.m3u8
-#EXTINF:-1,|TN|_ATTESSIA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_ATTESSIA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4558.m3u8
-#EXTINF:-1,|TN|_ELHIWAR_ETTOUNSI@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_ELHIWAR_ETTOUNSI@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4559.m3u8
-#EXTINF:-1,|TN|_HANNIBAL@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_HANNIBAL@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4560.m3u8
-#EXTINF:-1,|TN|_M_TUNISIA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_M_TUNISIA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4561.m3u8
-#EXTINF:-1,|TN|_MOZAIQUE_FM@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_MOZAIQUE_FM@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4562.m3u8
-#EXTINF:-1,|TN|_NESSMA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_NESSMA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4563.m3u8
-#EXTINF:-1,|TN|_TELVZA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_TELVZA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4564.m3u8
-#EXTINF:-1,|TN|_TUNISIA_NAT_1@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_TUNISIA_NAT_1@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4565.m3u8
-#EXTINF:-1,|TN|_TUNISIA_NAT_2@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_TUNISIA_NAT_2@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4566.m3u8
-#EXTINF:-1,|TN|_TUNISNA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_TUNISNA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4567.m3u8
-#EXTINF:-1,|TN|_ZAYTOUNA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |TN|_ZAYTOUNA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4568.m3u8
-#EXTINF:-1,|MA|_2M_MAROC@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |MA|_2M_MAROC@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4569.m3u8
-#EXTINF:-1,|AR|_SYRIA_TV@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SYRIA_TV@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4570.m3u8
-#EXTINF:-1,|AR|_ROTANA_AFLAM@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_AFLAM@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4571.m3u8
-#EXTINF:-1,|AR|_ROTANA_CINEMA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_CINEMA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4572.m3u8
-#EXTINF:-1,|AR|_OMAN_TV@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_OMAN_TV@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4573.m3u8
-#EXTINF:-1,|AR|_OMAN_TV_2@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_OMAN_TV_2@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4574.m3u8
-#EXTINF:-1,|AR|_OMAN_TV_3@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_OMAN_TV_3@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4575.m3u8
-#EXTINF:-1,|AR|_OMAN_TV_4@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_OMAN_TV_4@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4576.m3u8
-#EXTINF:-1,|AR|_NAHAR_DRAMA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_NAHAR_DRAMA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4577.m3u8
-#EXTINF:-1,|AR|_KUWAIT_ARABIC@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_KUWAIT_ARABIC@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4578.m3u8
-#EXTINF:-1,|AR|_NILE_DRAMA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_NILE_DRAMA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4579.m3u8
-#EXTINF:-1,|AR|_KUWAIT_SPORTS_3@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_KUWAIT_SPORTS_3@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4580.m3u8
-#EXTINF:-1,|AR|_KUWAIT_TV_1@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_KUWAIT_TV_1@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4581.m3u8
-#EXTINF:-1,|AR|_KUWAIT_TV_4@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_KUWAIT_TV_4@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4582.m3u8
-#EXTINF:-1,|AR|_NOUR_DUBAI@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_NOUR_DUBAI@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4583.m3u8
-#EXTINF:-1,|AR|_DUBAI_TV_HD@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_DUBAI_TV_HD@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4584.m3u8
-#EXTINF:-1,|AR|_CARTOON_NETWORK_AR@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_CARTOON_NETWORK_AR@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4585.m3u8
-#EXTINF:-1,|AR|_ALALAM_NEWS@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALALAM_NEWS@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4586.m3u8
-#EXTINF:-1,|AR|_Al_MANAR_TV@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_Al_MANAR_TV@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4587.m3u8
-#EXTINF:-1,|AR|_ABU_DHABI_TV@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ABU_DHABI_TV@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4588.m3u8
-#EXTINF:-1,|AR|_DUBAI_ZAMAN@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_DUBAI_ZAMAN@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4589.m3u8
-#EXTINF:-1,|AR|_SPACE_TOON@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_SPACE_TOON@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4590.m3u8
-#EXTINF:-1,|AR|_FRANCE_24_AR@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_FRANCE_24_AR@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4591.m3u8
-#EXTINF:-1,|AR|_ART_AFLAM_1@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ART_AFLAM_1@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4592.m3u8
-#EXTINF:-1,|AR|_ART_AFLAM_2@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ART_AFLAM_2@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4593.m3u8
-#EXTINF:-1,|AR|_ART_HEKAYAT_1@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ART_HEKAYAT_1@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4594.m3u8
-#EXTINF:-1,|AR|_ART_HEKAYAT_2@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ART_HEKAYAT_2@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4595.m3u8
-#EXTINF:-1,|AR|_MBC_IRAQ@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_IRAQ@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4596.m3u8
-#EXTINF:-1,|AR|_ROTANA_CLIP@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_CLIP@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4597.m3u8
-#EXTINF:-1,|AR|_ROTANA_CLASSIC@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_CLASSIC@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4598.m3u8
-#EXTINF:-1,|AR|_ROTANA_DRAMA@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ROTANA_DRAMA@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4599.m3u8
-#EXTINF:-1,|AR|_DUBAI_SPORTS@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_DUBAI_SPORTS@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4600.m3u8
-#EXTINF:-1,|AR|_MBC_5@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_MBC_5@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4601.m3u8
-#EXTINF:-1,|AR|_ALKASS4@sv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" ",   |AR|_ALKASS4@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4602.m3u8
+
