@@ -2430,3 +2430,1637 @@ http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggg
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Arabe", ALKASS4@sv
 http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4602.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",Almasira TV
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Yemen tv",Yemen TV
+https://mysisli.com/36bay2/gin/giniko_yementv_900kb_36bay2/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات الامارات EMIRATES",▁ ▂ ▄ ▅ ▆☆ قنوات الامارات EMIRATES ☆▆ ▅ ▄ ▂ ▁
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI OLA HD
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",NOOR DUBAI HD
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI.ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",DUBAI Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="قنوات الامارات EMIRATES",Abu Dhabi TV HD
+http://adtv.ercdn.net/adaloula/adaloula.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Abu Dhabi Drama HD
+http://adtv.ercdn.net/addrama/addrama.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Emarat HD
+http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",AL Dafrah TV
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ALAN
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Saudi-Arabia tv",▁▂▃▅▆▇★☀二【« Saudi-Arabia tv »】二☀★▇▆▅▃▂▁
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Iqraa-Tv
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",wesal
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",مكة TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Saudi-Arabia tv",نوبل TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Oman TV",▁ ▂ ▄ ▅ ▆☆Oman TV ☆▆ ▅ ▄ ▂ ▁
+http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman TV
+http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman Mubasher
+http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الاستقامة
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Oman TV",Oman الرياضية
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Kuwait TV",▁ ▂ ▄ ▅ ▆☆Kuwait TV ☆▆ ▅ ▄ ▂ ▁
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 1 TV
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait 2 TV
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kuwait TV",Kuwait Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Qatar TV",▁ ▂ ▄ ▅ ▆☆Qatar TV ☆▆ ▅ ▄ ▂ ▁
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Al RAYAN 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",Qatar TV HD
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar TV",ALRAYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="SUDAN قنوات السودان",▁ ▂ ▄ ▅ ▆☆ SUDAN قنوات السودان ☆▆ ▅ ▄ ▂ ▁
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudan-TV
+http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SUDAN قنوات السودان",Sudania-24-HD
+http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
+#EXTINF:0 tvg-id="avi" group-title="LIBYA قنوات ليبيا",▁ ▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 1
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 24
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",AR:LIB-Tanasuh
+http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/chunklist_w561550171_b1364000.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al Watan
+http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya News
+http://video-live.vzaar.com/243BFFE/live-144734/tqg0WrP7UtC4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya Alhadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",libya wasat
+https://svs.itworkscdn.net/wtvlive/wtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
+http://82.212.74.2:8000/live/7321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LIBYA قنوات ليبيا",Libya Almostaqbal
+http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
+#EXTINF:0 tvg-id="avi" group-title="ALGERIEN قنوات الجزائر",▁ ▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر" ☆▆ ▅ ▄ ▂ ▁
+http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",alanis HD
+http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",SamiraTV
+http://95.170.215.109/hls/m3u8/SamiraTV-Backup.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات المصرية",▁▂▃▅▆▇★☀二【« قنوات المصرية »】二☀★▇▆▅▃▂▁
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ALNAHAR DRAMA
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",DmcDrama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",hayat+
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Almahed
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",CBC_Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",kahera+
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",SADA_ELBALAD
+http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",elsharqtv
+http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",AL dream2
+http://livecdnh2.tvanywhere.ae/hls/dream2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",TokTok
+http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية",Nile cin
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/03.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات العراق IRAQ ",▁ ▂ ▄ ▅ ▆☆ قنوات العراق IRAQ CHANNELS ☆▆ ▅ ▄ ▂ ▁
+http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al IRAQIA1
+http://cdn.catiacast.video/imn/5952fbfdf2bd7e80b7fd446206ec06f4.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Al Iraqiya2
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",IRQ-Sport
+http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ", Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Samarra tv
+http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist_w116893029_b1431072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Taghier
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.secure.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL HURRA IRAQ
+http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Dejlah TV (Dijlah)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",DUA HD
+http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w1412664744.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ ",AL Sharqiya نيوز
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w1655005970_b340000_sleng.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Syria قنوات سورية",▁ ▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",LANA plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SAMA SYRIA
+http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",DRAMA TV
+http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SYRIA AL AOULA
+http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",-ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AL EKHBARIYA
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",SYRIA PLUS
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",ORIENT.NEWS
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",HALAB TODAY
+http://wowzacontrol.com:1935/8010/8010/chunklist_w278367314.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-العربي HD
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR- alkompis
+https://tv.stream.alkompis.se/hls/live_720/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Syria قنوات سورية",AR:SYR-Al Khabar
+http://95.170.215.109/hls/m3u8/Al-Khabar-Backup.m3u
+#EXTINF:0 tvg-id="avi" group-title="MBC HD",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 1 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 2 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 3 
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 3 SD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 4 SD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC 5
+http://45.153.186.35:3000/Sooftv/Julgodiskdldn567262672/5288
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC IRAQ
+http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC MAX 
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC DRAMA 
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC ACTION 
+http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC VARIETY 
+http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC DRAMA PLUS 
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC BOLLYWOOD 
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",MBC Masr2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",ZEE ALWAN
+http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MBC HD",b4u aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",▁▂▃▅▆▇★☀二【«قنوات أطفال »】二☀★▇▆▅▃▂▁
+http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
+#EXTINF:0 tvg-id="Baraem.net" group-title="قنوات أطفال",BARAEM
+http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1082.ts
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:SPACETOON
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar Karameesh
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:Sat7_Kids
+http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:TOYOR-BABY
+http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Ar:toyourjanaa
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",AR Majid_Kids HD
+http://tvae.ercdn.net/majidtv/majidtv_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",جوجو ماما
+http://tptv.cz/live/k1RqAkjYF8/TWHzKNHhqU/54041.ts
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",بــي جـونـيـر
+http://95.170.215.118:80/hls/m3u8/Nickelodeon-JR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",كـرتـون بـالـعـربـي HD
+http://95.170.215.109:80/hls/CNArabica-Backup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",Cartoon World
+http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات أطفال",تــوم و جــيـري 1
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-1.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-3.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-2.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-4.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-5.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-6.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-7.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-8.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-9.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-10.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-11.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-12.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-13.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-14.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-15.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-16.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-17.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-18.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-19.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-20.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-21.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-22.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-23.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-24.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-25.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-26.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-27.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-28.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-29.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-31.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-30.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-33.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات أطفال",Tom & Jerry
+http://193.169.52.206/a-tom-jerry/1-32.mp4
+#EXTINF:0 tvg-id="avi" group-title="قنوات الوثائقية",▁ ▂ ▄ ▅ ▆☆ قنوات الوثائقية ☆▆ ▅ ▄ ▂ ▁
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",NAT GEO WILD SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people HD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat geo people SD ENGLISH
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Oman الوثائقية
+http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Nat_Geo_Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",قناة كيف ؟؟
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Fishing-And-Hunt
+http://95.170.215.118/hls/m3u8/Fishing-And-Hunt.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات الوثائقية",Animal-Planet
+http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8
+#EXTINF:0 tvg-id="avi" group-title="NEWS قنوات الاخبار",▁ ▂ ▄ ▅ ▆☆ NEWS قنوات الاخبار ☆▆ ▅ ▄ ▂ ▁
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Jazeera Mubasher
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:AL Hadath News HD
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:SKY News Arabic
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="NEWS قنوات الاخبار",AR:BBC Arabic
+http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:RT Arabic (Russia Today)
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:0 tvg-id="france24" group-title="NEWS قنوات الاخبار",AR:France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:DW Arabic
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+#EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="NEWS قنوات الاخبار",AR:TRT Arabic
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Orient News
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alaraby TV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Mayadeen
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alhiwar News
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8?v&__mn_sid=17174366775755575437
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:CNBC Arabiya
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",AR:Alsharq
+http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NEWS قنوات الاخبار",ANN
+http://ns8.indexforce.com:1935/ann/ann/chunklist_w1268206644.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 2
+https://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 4
+https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",ON-Sport
+http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1HD
+http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 1
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 2
+https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Dubai SPORT
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",البحرين الرياضية
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Oman SPORT
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Jordan SPORT
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1593498413.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Nile SPORT
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-action
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-S-main-even
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spor-cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-Pre-L
+http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spo-football-N
+http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Golf-MR
+http://95.170.215.120/hls/Sky-Sports-Golf-MR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Arena-MR
+http://95.170.215.120/hls/Sky-Sports-Arena-MR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Dsports_HD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Levante Tv
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1,beIN SPORTS FHD
+http://showflix.org:5890/live/1234567/12345/3.m3u8
+#EXTINF:-1,beIN SPORTS News FHD
+http://showflix.org:5890/live/1234567/12345/4.m3u8
+#EXTINF:-1,beIN SPORTS 1HD
+http://showflix.org:5890/live/1234567/12345/16.m3u8
+#EXTINF:-1,beIN SPORTS 2HD
+http://showflix.org:5890/live/1234567/12345/17.m3u8
+#EXTINF:-1,beIN SPORTS 3HD
+http://showflix.org:5890/live/1234567/12345/18.m3u8
+#EXTINF:-1,beIN SPORTS 4HD
+http://showflix.org:5890/live/1234567/12345/19.m3u8
+#EXTINF:-1,beIN SPORTS 5HD
+http://showflix.org:5890/live/1234567/12345/20.m3u8
+#EXTINF:-1,beIN SPORTS 6HD
+http://showflix.org:5890/live/1234567/12345/21.m3u8
+#EXTINF:-1,beIN SPORTS 7HD
+http://showflix.org:5890/live/1234567/12345/22.m3u8
+#EXTINF:-1,beIN SPORTS 8HD
+http://showflix.org:5890/live/1234567/12345/23.m3u8
+#EXTINF:-1,beIN SPORTS 9HD
+http://showflix.org:5890/live/1234567/12345/24.m3u8
+#EXTINF:-1,beIN SPORTS 10HD
+http://showflix.org:5890/live/1234567/12345/25.m3u8
+#EXTINF:-1,beIN SPORTS 11HD
+http://showflix.org:5890/live/1234567/12345/26.m3u8
+#EXTINF:-1,beIN SPORTS 12HD
+http://showflix.org:5890/live/1234567/12345/27.m3u8
+#EXTINF:-1,beIN SPORTS 13HD
+http://showflix.org:5890/live/1234567/12345/28.m3u8
+#EXTINF:-1,beIN SPORTS 14HD
+http://showflix.org:5890/live/1234567/12345/29.m3u8
+#EXTINF:-1,beIN SPORTS 15HD
+http://showflix.org:5890/live/1234567/12345/30.m3u8
+#EXTINF:-1,beIN SPORTS 16HD
+http://showflix.org:5890/live/1234567/12345/31.m3u8
+#EXTINF:-1,beIN SPORTS 17HD
+http://showflix.org:5890/live/1234567/12345/32.m3u8
+#EXTINF:-1,beIN SPORTS NBA
+http://showflix.org:5890/live/1234567/12345/33.m3u8
+#EXTINF:-1,-- beIN SPORTS FHD --
+http://showflix.org:5890/live/1234567/12345/2.m3u8
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://showflix.org:5890/live/1234567/12345/5.m3u8
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://showflix.org:5890/live/1234567/12345/6.m3u8
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://showflix.org:5890/live/1234567/12345/7.m3u8
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://showflix.org:5890/live/1234567/12345/8.m3u8
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://showflix.org:5890/live/1234567/12345/9.m3u8
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://showflix.org:5890/live/1234567/12345/10.m3u8
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://showflix.org:5890/live/1234567/12345/11.m3u8
+#EXTINF:-1,beIN SPORTS 8 FHD
+http://showflix.org:5890/live/1234567/12345/12.m3u8
+#EXTINF:-1,beIN SPORTS 9 FHD
+http://showflix.org:5890/live/1234567/12345/13.m3u8
+#EXTINF:-1,beIN SPORTS 10 FHD
+http://showflix.org:5890/live/1234567/12345/14.m3u8
+#EXTINF:-1,-- beIN SPORTS SD --
+http://showflix.org:5890/live/1234567/12345/34.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD
+http://showflix.org:5890/live/1234567/12345/35.m3u8
+#EXTINF:-1,beIN SPORTS 2 SD
+http://showflix.org:5890/live/1234567/12345/36.m3u8
+#EXTINF:-1,beIN SPORTS 3 SD
+http://showflix.org:5890/live/1234567/12345/37.m3u8
+#EXTINF:-1,beIN SPORTS 4 SD
+http://showflix.org:5890/live/1234567/12345/38.m3u8
+#EXTINF:-1,beIN SPORTS 5 SD
+http://showflix.org:5890/live/1234567/12345/39.m3u8
+#EXTINF:-1,beIN SPORTS 6 SD
+http://showflix.org:5890/live/1234567/12345/40.m3u8
+#EXTINF:-1,beIN SPORTS 7 SD
+http://showflix.org:5890/live/1234567/12345/41.m3u8
+#EXTINF:-1,beIN SPORTS 8 SD
+http://showflix.org:5890/live/1234567/12345/42.m3u8
+#EXTINF:-1,beIN SPORTS 9 SD
+http://showflix.org:5890/live/1234567/12345/43.m3u8
+#EXTINF:-1,beIN SPORTS 10 SD
+http://showflix.org:5890/live/1234567/12345/44.m3u8
+#EXTINF:-1,Coupe d'Espagne (1)
+http://showflix.org:5890/live/1234567/12345/66577.m3u8
+#EXTINF:-1,Coupe d'Espagne (2)
+http://showflix.org:5890/live/1234567/12345/66578.m3u8
+#EXTINF:-1,Coupe d'Espagne (3)
+http://showflix.org:5890/live/1234567/12345/66579.m3u8
+#EXTINF:-1,Coupe d'Espagne (4)
+http://showflix.org:5890/live/1234567/12345/66580.m3u8
+#EXTINF:-1,-- beIN SPORTS | HEVC -- 
+http://showflix.org:5890/live/1234567/12345/62245.m3u8
+#EXTINF:-1,--beIN Entertainment --
+http://showflix.org:5890/live/1234567/12345/45.m3u8
+#EXTINF:-1,beIN MOVIES HD1 (PREMIERE)
+http://showflix.org:5890/live/1234567/12345/49.m3u8
+#EXTINF:-1,beIN MOVIES HD2 (ACTION)
+http://showflix.org:5890/live/1234567/12345/50.m3u8
+#EXTINF:-1,beIN MOVIES HD3 (DRAMA)
+http://showflix.org:5890/live/1234567/12345/51.m3u8
+#EXTINF:-1,beIN MOVIES HD4 (FAMILY)
+http://showflix.org:5890/live/1234567/12345/52.m3u8
+#EXTINF:-1,beIN SERIES HD1
+http://showflix.org:5890/live/1234567/12345/47.m3u8
+#EXTINF:-1,beIN SERIES HD2
+http://showflix.org:5890/live/1234567/12345/48.m3u8
+#EXTINF:-1,beIN DRAMA HD1
+http://showflix.org:5890/live/1234567/12345/46.m3u8
+#EXTINF:-1,beIN FOX MOVIES HD
+http://showflix.org:5890/live/1234567/12345/53.m3u8
+#EXTINF:-1,beIN FOX MOVIES ACTION HD
+http://showflix.org:5890/live/1234567/12345/54.m3u8
+#EXTINF:-1,beIN JEEM KIDS
+http://showflix.org:5890/live/1234567/12345/56.m3u8
+#EXTINF:-1,beIN JUNIOR KIDS
+http://showflix.org:5890/live/1234567/12345/57.m3u8
+#EXTINF:-1,beIN DREAM WORK HD
+http://showflix.org:5890/live/1234567/12345/58.m3u8
+#EXTINF:-1,beIN boomerang HD
+http://showflix.org:5890/live/1234567/12345/59.m3u8
+#EXTINF:-1,beIN GOURMET HD
+http://showflix.org:5890/live/1234567/12345/61.m3u8
+#EXTINF:-1,beIN Fatafeat HD
+http://showflix.org:5890/live/1234567/12345/62.m3u8
+#EXTINF:-1,beIN DTX
+http://showflix.org:5890/live/1234567/12345/60.m3u8
+#EXTINF:-1,beIN TRAVEL
+http://showflix.org:5890/live/1234567/12345/63.m3u8
+#EXTINF:-1,beIN Outdoor HD
+http://showflix.org:5890/live/1234567/12345/55.m3u8
+#EXTINF:-1,---ARABE---
+http://showflix.org:5890/live/1234567/12345/62487.m3u8
+#EXTINF:-1,--AR MBC --
+http://showflix.org:5890/live/1234567/12345/110.m3u8
+#EXTINF:-1,AR | MBC 1 HD
+http://showflix.org:5890/live/1234567/12345/111.m3u8
+#EXTINF:-1,AR | MBC 1
+http://showflix.org:5890/live/1234567/12345/112.m3u8
+#EXTINF:-1,AR | MBC 2 HD
+http://showflix.org:5890/live/1234567/12345/113.m3u8
+#EXTINF:-1,AR | MBC 2
+http://showflix.org:5890/live/1234567/12345/114.m3u8
+#EXTINF:-1,AR | MBC 3 HD
+http://showflix.org:5890/live/1234567/12345/115.m3u8
+#EXTINF:-1,AR | MBC 3
+http://showflix.org:5890/live/1234567/12345/116.m3u8
+#EXTINF:-1,AR | MBC 4 HD
+http://showflix.org:5890/live/1234567/12345/117.m3u8
+#EXTINF:-1,AR | MBC 4
+http://showflix.org:5890/live/1234567/12345/118.m3u8
+#EXTINF:-1,AR | MBC 5
+http://showflix.org:5890/live/1234567/12345/119.m3u8
+#EXTINF:-1,AR | MBC IRAQ HD
+http://showflix.org:5890/live/1234567/12345/120.m3u8
+#EXTINF:-1,AR | MBC IRAQ
+http://showflix.org:5890/live/1234567/12345/121.m3u8
+#EXTINF:-1,AR | MBC Variety HD
+http://showflix.org:5890/live/1234567/12345/122.m3u8
+#EXTINF:-1,AR | MBC Drama+ AE
+http://showflix.org:5890/live/1234567/12345/123.m3u8
+#EXTINF:-1,AR | MBC Masr
+http://showflix.org:5890/live/1234567/12345/124.m3u8
+#EXTINF:-1,AR | Mbc Masr 2
+http://showflix.org:5890/live/1234567/12345/125.m3u8
+#EXTINF:-1,AR | MBC Max HD
+http://showflix.org:5890/live/1234567/12345/126.m3u8
+#EXTINF:-1,AR | MBC Max
+http://showflix.org:5890/live/1234567/12345/127.m3u8
+#EXTINF:-1,AR | MBC Action HD
+http://showflix.org:5890/live/1234567/12345/128.m3u8
+#EXTINF:-1,AR | MBC Action
+http://showflix.org:5890/live/1234567/12345/129.m3u8
+#EXTINF:-1,AR | MBC Drama HD
+http://showflix.org:5890/live/1234567/12345/130.m3u8
+#EXTINF:-1,AR | MBC Drama
+http://showflix.org:5890/live/1234567/12345/131.m3u8
+#EXTINF:-1,AR | MBC Bollywood HD
+http://showflix.org:5890/live/1234567/12345/132.m3u8
+#EXTINF:-1,AR | MBC Bollywood
+http://showflix.org:5890/live/1234567/12345/133.m3u8
+#EXTINF:-1,AR | Wanasah
+http://showflix.org:5890/live/1234567/12345/134.m3u8
+#EXTINF:-1,--AR | Émiratsabes unis --
+http://showflix.org:5890/live/1234567/12345/135.m3u8
+#EXTINF:-1,AR | Abu Dhabi HD
+http://showflix.org:5890/live/1234567/12345/55558.m3u8
+#EXTINF:-1,AR | Abu Dhabi 
+http://showflix.org:5890/live/1234567/12345/136.m3u8
+#EXTINF:-1,AR | Abu Dhabi Drama HD
+http://showflix.org:5890/live/1234567/12345/55557.m3u8
+#EXTINF:-1,AR | Abu Dhabi Drama
+http://showflix.org:5890/live/1234567/12345/137.m3u8
+#EXTINF:-1,AR | Abu Dhabi Emaraat
+http://showflix.org:5890/live/1234567/12345/138.m3u8
+#EXTINF:-1,AR | Abu Dhabi Emaraat HD
+http://showflix.org:5890/live/1234567/12345/55559.m3u8
+#EXTINF:-1,AR | AD Nat Geo FHD
+http://showflix.org:5890/live/1234567/12345/55556.m3u8
+#EXTINF:-1,AR | AD Nat Geo
+http://showflix.org:5890/live/1234567/12345/139.m3u8
+#EXTINF:-1,AR | AD NAT GEO KIDS
+http://showflix.org:5890/live/1234567/12345/140.m3u8
+#EXTINF:-1,AR | Dubai TV HD
+http://showflix.org:5890/live/1234567/12345/58892.m3u8
+#EXTINF:-1,AR | Dubai TV
+http://showflix.org:5890/live/1234567/12345/141.m3u8
+#EXTINF:-1,AR | Dubai One HD
+http://showflix.org:5890/live/1234567/12345/55562.m3u8
+#EXTINF:-1,AR | Dubai One
+http://showflix.org:5890/live/1234567/12345/142.m3u8
+#EXTINF:-1,AR | Sama Dubai HD
+http://showflix.org:5890/live/1234567/12345/58893.m3u8
+#EXTINF:-1,AR | Sama Dubai
+http://showflix.org:5890/live/1234567/12345/143.m3u8
+#EXTINF:-1,AR | Noor Dubai
+http://showflix.org:5890/live/1234567/12345/144.m3u8
+#EXTINF:-1,AR | Dubai Zaman
+http://showflix.org:5890/live/1234567/12345/145.m3u8
+#EXTINF:-1,AR | Sharjah HD
+http://showflix.org:5890/live/1234567/12345/258.m3u8
+#EXTINF:-1,AR | Sharjah 2 HD
+http://showflix.org:5890/live/1234567/12345/62270.m3u8
+#EXTINF:-1,AR | Sharqiya from Kalba TV
+http://showflix.org:5890/live/1234567/12345/62271.m3u8
+#EXTINF:-1,AR | AL FUJAIRA TV HD
+http://showflix.org:5890/live/1234567/12345/58894.m3u8
+#EXTINF:-1,AR | AL DHAFRA TV HD
+http://showflix.org:5890/live/1234567/12345/58895.m3u8
+#EXTINF:-1,AR | AJMAN TV 
+http://showflix.org:5890/live/1234567/12345/62218.m3u8
+#EXTINF:-1,AR | AJYAL TV
+http://showflix.org:5890/live/1234567/12345/62219.m3u8
+#EXTINF:-1,AR | B4u Aflam
+http://showflix.org:5890/live/1234567/12345/146.m3u8
+#EXTINF:-1,AR | B4u Plus
+http://showflix.org:5890/live/1234567/12345/147.m3u8
+#EXTINF:-1,AR | Zee Aflam
+http://showflix.org:5890/live/1234567/12345/148.m3u8
+#EXTINF:-1,AR | Zee Alwan
+http://showflix.org:5890/live/1234567/12345/149.m3u8
+#EXTINF:-1,--AR | Jordanie --
+http://showflix.org:5890/live/1234567/12345/150.m3u8
+#EXTINF:-1,AR | Jordan
+http://showflix.org:5890/live/1234567/12345/151.m3u8
+#EXTINF:-1,AR | Amman TV
+http://showflix.org:5890/live/1234567/12345/152.m3u8
+#EXTINF:-1,AR | ROYA TV
+http://showflix.org:5890/live/1234567/12345/153.m3u8
+#EXTINF:-1,AR | Almamlaka TV
+http://showflix.org:5890/live/1234567/12345/155.m3u8
+#EXTINF:-1,AR | Bahrain TV
+http://showflix.org:5890/live/1234567/12345/156.m3u8
+#EXTINF:-1,AR | Majan
+http://showflix.org:5890/live/1234567/12345/56363.m3u8
+#EXTINF:-1,AR | Alrai TV
+http://showflix.org:5890/live/1234567/12345/157.m3u8
+#EXTINF:-1,AR | Qatar
+http://showflix.org:5890/live/1234567/12345/158.m3u8
+#EXTINF:-1,AR | AL RAYAN HD
+http://showflix.org:5890/live/1234567/12345/159.m3u8
+#EXTINF:-1,AR | Al Rayyan Al Qadeem HD
+http://showflix.org:5890/live/1234567/12345/160.m3u8
+#EXTINF:-1,--AR | ART --
+http://showflix.org:5890/live/1234567/12345/161.m3u8
+#EXTINF:-1,AR | ART Aflam 1
+http://showflix.org:5890/live/1234567/12345/162.m3u8
+#EXTINF:-1,AR | ART Aflam 2
+http://showflix.org:5890/live/1234567/12345/163.m3u8
+#EXTINF:-1,AR | ART Cinema
+http://showflix.org:5890/live/1234567/12345/164.m3u8
+#EXTINF:-1,AR | ART Hekayat
+http://showflix.org:5890/live/1234567/12345/165.m3u8
+#EXTINF:-1,AR | ART Hekayat 2
+http://showflix.org:5890/live/1234567/12345/166.m3u8
+#EXTINF:-1,--AR | Égypte Drama --
+http://showflix.org:5890/live/1234567/12345/167.m3u8
+#EXTINF:-1,AR | Cbc
+http://showflix.org:5890/live/1234567/12345/168.m3u8
+#EXTINF:-1,AR | Cbc Drama
+http://showflix.org:5890/live/1234567/12345/55560.m3u8
+#EXTINF:-1,AR | Cbc Sofra
+http://showflix.org:5890/live/1234567/12345/55561.m3u8
+#EXTINF:-1,AR | DMC DRAMA 
+http://showflix.org:5890/live/1234567/12345/169.m3u8
+#EXTINF:-1,AR | DMC  HD
+http://showflix.org:5890/live/1234567/12345/55563.m3u8
+#EXTINF:-1,AR | DMC
+http://showflix.org:5890/live/1234567/12345/55564.m3u8
+#EXTINF:-1,AR | ON E HD
+http://showflix.org:5890/live/1234567/12345/55567.m3u8
+#EXTINF:-1,AR | ON E
+http://showflix.org:5890/live/1234567/12345/55568.m3u8
+#EXTINF:-1,AR | ON DRAMA
+http://showflix.org:5890/live/1234567/12345/55569.m3u8
+#EXTINF:-1,AR | ON LIVE HD
+http://showflix.org:5890/live/1234567/12345/55570.m3u8
+#EXTINF:-1,AR | ON LIVE
+http://showflix.org:5890/live/1234567/12345/55571.m3u8
+#EXTINF:-1,AR | Alnahar One
+http://showflix.org:5890/live/1234567/12345/170.m3u8
+#EXTINF:-1,AR | AL Nahar Drama
+http://showflix.org:5890/live/1234567/12345/171.m3u8
+#EXTINF:-1,AR | Alhayah
+http://showflix.org:5890/live/1234567/12345/172.m3u8
+#EXTINF:-1,AR | Alhayah 2
+http://showflix.org:5890/live/1234567/12345/173.m3u8
+#EXTINF:-1,AR | Alhayah Drama
+http://showflix.org:5890/live/1234567/12345/174.m3u8
+#EXTINF:-1,AR | Al Oula
+http://showflix.org:5890/live/1234567/12345/175.m3u8
+#EXTINF:-1,AR | Al Thaniya
+http://showflix.org:5890/live/1234567/12345/176.m3u8
+#EXTINF:-1,AR | Dream 2
+http://showflix.org:5890/live/1234567/12345/177.m3u8
+#EXTINF:-1,AR | TEN TV
+http://showflix.org:5890/live/1234567/12345/56370.m3u8
+#EXTINF:-1,AR | Family Drama
+http://showflix.org:5890/live/1234567/12345/178.m3u8
+#EXTINF:-1,AR | Al Kahera Wa Alnas
+http://showflix.org:5890/live/1234567/12345/179.m3u8
+#EXTINF:-1,AR | Al Kahera Wa Alnas2
+http://showflix.org:5890/live/1234567/12345/180.m3u8
+#EXTINF:-1,AR | Sada El Balad
+http://showflix.org:5890/live/1234567/12345/181.m3u8
+#EXTINF:-1,AR | Sada El Balad Drama
+http://showflix.org:5890/live/1234567/12345/182.m3u8
+#EXTINF:-1,--AR | Égypte Cinema --
+http://showflix.org:5890/live/1234567/12345/183.m3u8
+#EXTINF:-1,AR | Rotana Cinema EGY
+http://showflix.org:5890/live/1234567/12345/184.m3u8
+#EXTINF:-1,AR | Rotana Cinema KSA
+http://showflix.org:5890/live/1234567/12345/185.m3u8
+#EXTINF:-1,AR | Rotana Aflam
+http://showflix.org:5890/live/1234567/12345/186.m3u8
+#EXTINF:-1,AR | Rotana Classic
+http://showflix.org:5890/live/1234567/12345/187.m3u8
+#EXTINF:-1,AR | Rotana Khalijia
+http://showflix.org:5890/live/1234567/12345/188.m3u8
+#EXTINF:-1,AR | Rotana DRAMA
+http://showflix.org:5890/live/1234567/12345/55576.m3u8
+#EXTINF:-1,AR | Rotana Music
+http://showflix.org:5890/live/1234567/12345/189.m3u8
+#EXTINF:-1,AR | Rotana Clip
+http://showflix.org:5890/live/1234567/12345/190.m3u8
+#EXTINF:-1,AR | Nile Cinma
+http://showflix.org:5890/live/1234567/12345/191.m3u8
+#EXTINF:-1,AR | Nile Drama
+http://showflix.org:5890/live/1234567/12345/192.m3u8
+#EXTINF:-1,AR | Nile life
+http://showflix.org:5890/live/1234567/12345/55577.m3u8
+#EXTINF:-1,AR | Nile Comedy
+http://showflix.org:5890/live/1234567/12345/193.m3u8
+#EXTINF:-1,AR | Nile Family
+http://showflix.org:5890/live/1234567/12345/194.m3u8
+#EXTINF:-1,AR | SHOW AFLAM
+http://showflix.org:5890/live/1234567/12345/195.m3u8
+#EXTINF:-1,AR | SHOW COMEDY
+http://showflix.org:5890/live/1234567/12345/196.m3u8
+#EXTINF:-1,AR | SHOW DRAMA
+http://showflix.org:5890/live/1234567/12345/197.m3u8
+#EXTINF:-1,AR | SHOW MOSALSLAT
+http://showflix.org:5890/live/1234567/12345/198.m3u8
+#EXTINF:-1,AR | SHABABIK AFLAM
+http://showflix.org:5890/live/1234567/12345/199.m3u8
+#EXTINF:-1,AR | SHABABIK CINEMA
+http://showflix.org:5890/live/1234567/12345/200.m3u8
+#EXTINF:-1,AR | SHABABIK CLASSIC
+http://showflix.org:5890/live/1234567/12345/201.m3u8
+#EXTINF:-1,AR | MODERN AFLAM
+http://showflix.org:5890/live/1234567/12345/204.m3u8
+#EXTINF:-1,AR | MODERN ALWAN
+http://showflix.org:5890/live/1234567/12345/205.m3u8
+#EXTINF:-1,AR | MODERN ALYOOM
+http://showflix.org:5890/live/1234567/12345/206.m3u8
+#EXTINF:-1,AR | MODERN CINEMA
+http://showflix.org:5890/live/1234567/12345/207.m3u8
+#EXTINF:-1,AR | MODERN COMEDY
+http://showflix.org:5890/live/1234567/12345/208.m3u8
+#EXTINF:-1,AR | MODERN DRAMA
+http://showflix.org:5890/live/1234567/12345/209.m3u8
+#EXTINF:-1,AR | DARBAKA AFLAM
+http://showflix.org:5890/live/1234567/12345/210.m3u8
+#EXTINF:-1,AR | DARBAKA CINEMA
+http://showflix.org:5890/live/1234567/12345/211.m3u8
+#EXTINF:-1,AR | DARBAKA ACTION
+http://showflix.org:5890/live/1234567/12345/212.m3u8
+#EXTINF:-1,AR | DARBAKA DRAMA
+http://showflix.org:5890/live/1234567/12345/213.m3u8
+#EXTINF:-1,AR | ALYOUM AFLAM
+http://showflix.org:5890/live/1234567/12345/214.m3u8
+#EXTINF:-1,AR | ALYOUM CINEMA
+http://showflix.org:5890/live/1234567/12345/215.m3u8
+#EXTINF:-1,AR | 7BISHA
+http://showflix.org:5890/live/1234567/12345/56345.m3u8
+#EXTINF:-1,AR | Cima Alibaba
+http://showflix.org:5890/live/1234567/12345/56354.m3u8
+#EXTINF:-1,AR | CINEMA 1
+http://showflix.org:5890/live/1234567/12345/56355.m3u8
+#EXTINF:-1,AR | CINEMA 2
+http://showflix.org:5890/live/1234567/12345/56356.m3u8
+#EXTINF:-1,AR | M DRAMA
+http://showflix.org:5890/live/1234567/12345/216.m3u8
+#EXTINF:-1,AR | TAXI ELSAHRA
+http://showflix.org:5890/live/1234567/12345/217.m3u8
+#EXTINF:-1,AR | Maspero Zaman
+http://showflix.org:5890/live/1234567/12345/218.m3u8
+#EXTINF:-1,AR | Star Cinema 1
+http://showflix.org:5890/live/1234567/12345/219.m3u8
+#EXTINF:-1,AR | Star Cinema 2
+http://showflix.org:5890/live/1234567/12345/220.m3u8
+#EXTINF:-1,AR | Oscar TV
+http://showflix.org:5890/live/1234567/12345/221.m3u8
+#EXTINF:-1,AR | AL OSTORA
+http://showflix.org:5890/live/1234567/12345/55574.m3u8
+#EXTINF:-1,AR | Cairo Cinema
+http://showflix.org:5890/live/1234567/12345/222.m3u8
+#EXTINF:-1,AR | Cairo Drama
+http://showflix.org:5890/live/1234567/12345/223.m3u8
+#EXTINF:-1,AR | Panorama Film
+http://showflix.org:5890/live/1234567/12345/224.m3u8
+#EXTINF:-1,AR | Panorama Drama
+http://showflix.org:5890/live/1234567/12345/225.m3u8
+#EXTINF:-1,AR | Panorama Drama 2
+http://showflix.org:5890/live/1234567/12345/226.m3u8
+#EXTINF:-1,AR | Panorama Food
+http://showflix.org:5890/live/1234567/12345/227.m3u8
+#EXTINF:-1,AR | TOKTOK AFLAM
+http://showflix.org:5890/live/1234567/12345/228.m3u8
+#EXTINF:-1,AR | APPLE COMEDY
+http://showflix.org:5890/live/1234567/12345/229.m3u8
+#EXTINF:-1,AR | APPLE TODAY
+http://showflix.org:5890/live/1234567/12345/55575.m3u8
+#EXTINF:-1,AR | APLLE HIKAYAT
+http://showflix.org:5890/live/1234567/12345/230.m3u8
+#EXTINF:-1,AR | APPLE AFLAM
+http://showflix.org:5890/live/1234567/12345/231.m3u8
+#EXTINF:-1,AR | APPLE CINEMA
+http://showflix.org:5890/live/1234567/12345/232.m3u8
+#EXTINF:-1,AR | APPLE MOSALSALAT
+http://showflix.org:5890/live/1234567/12345/233.m3u8
+#EXTINF:-1,--AR SAUDIA --
+http://showflix.org:5890/live/1234567/12345/1425.m3u8
+#EXTINF:-1,AR | Iqraa
+http://showflix.org:5890/live/1234567/12345/235.m3u8
+#EXTINF:-1,AR | Almajd
+http://showflix.org:5890/live/1234567/12345/236.m3u8
+#EXTINF:-1,AR | Almajd Quran
+http://showflix.org:5890/live/1234567/12345/237.m3u8
+#EXTINF:-1,AR | Al Majd Al Hadeeth
+http://showflix.org:5890/live/1234567/12345/238.m3u8
+#EXTINF:-1,AR | Al Majd Al Scientific
+http://showflix.org:5890/live/1234567/12345/239.m3u8
+#EXTINF:-1,AR | SAUDI 1 HD
+http://showflix.org:5890/live/1234567/12345/240.m3u8
+#EXTINF:-1,AR | SAUDI 2 HD
+http://showflix.org:5890/live/1234567/12345/58887.m3u8
+#EXTINF:-1,AR | SBC HD
+http://showflix.org:5890/live/1234567/12345/58888.m3u8
+#EXTINF:-1,AR | SAUDI AL EKHEBARIA
+http://showflix.org:5890/live/1234567/12345/241.m3u8
+#EXTINF:-1,AR | Saudia Quran HD
+http://showflix.org:5890/live/1234567/12345/58885.m3u8
+#EXTINF:-1,AR | Saudia Quran
+http://showflix.org:5890/live/1234567/12345/242.m3u8
+#EXTINF:-1,AR | Saudia Sunna HD
+http://showflix.org:5890/live/1234567/12345/58886.m3u8
+#EXTINF:-1,AR | Saudia Sunna
+http://showflix.org:5890/live/1234567/12345/243.m3u8
+#EXTINF:-1,AR | Wesal
+http://showflix.org:5890/live/1234567/12345/244.m3u8
+#EXTINF:-1,AR | Makkah
+http://showflix.org:5890/live/1234567/12345/245.m3u8
+#EXTINF:-1,AR | Al Rahma
+http://showflix.org:5890/live/1234567/12345/246.m3u8
+#EXTINF:-1,AR | Ayaat TV
+http://showflix.org:5890/live/1234567/12345/59809.m3u8
+#EXTINF:-1,AR | Oyoun AlWatan
+http://showflix.org:5890/live/1234567/12345/56366.m3u8
+#EXTINF:-1,AR | Al Resalah HD
+http://showflix.org:5890/live/1234567/12345/58891.m3u8
+#EXTINF:-1,AR | Al Resalah
+http://showflix.org:5890/live/1234567/12345/247.m3u8
+#EXTINF:-1,AR | Alfath
+http://showflix.org:5890/live/1234567/12345/248.m3u8
+#EXTINF:-1,AR | Daaewa
+http://showflix.org:5890/live/1234567/12345/249.m3u8
+#EXTINF:-1,AR | ALAFASIY
+http://showflix.org:5890/live/1234567/12345/250.m3u8
+#EXTINF:-1,AR | Al Nass
+http://showflix.org:5890/live/1234567/12345/251.m3u8
+#EXTINF:-1,AR | Saudi Al Haj
+http://showflix.org:5890/live/1234567/12345/252.m3u8
+#EXTINF:-1,AR | Azhari
+http://showflix.org:5890/live/1234567/12345/253.m3u8
+#EXTINF:-1,AR | AL NADA 
+http://showflix.org:5890/live/1234567/12345/56348.m3u8
+#EXTINF:-1,AR | Zad TV
+http://showflix.org:5890/live/1234567/12345/254.m3u8
+#EXTINF:-1,AR | Safa TV
+http://showflix.org:5890/live/1234567/12345/255.m3u8
+#EXTINF:-1,AR | QURAN TV
+http://showflix.org:5890/live/1234567/12345/256.m3u8
+#EXTINF:-1,AR | AHLU QURAN
+http://showflix.org:5890/live/1234567/12345/257.m3u8
+#EXTINF:-1,--AR | NEWS--
+http://showflix.org:5890/live/1234567/12345/259.m3u8
+#EXTINF:-1,AR | Al Jazeera FHD
+http://showflix.org:5890/live/1234567/12345/260.m3u8
+#EXTINF:-1,AR | Al Jazeera HD
+http://showflix.org:5890/live/1234567/12345/261.m3u8
+#EXTINF:-1,AR | Al Jazeera
+http://showflix.org:5890/live/1234567/12345/262.m3u8
+#EXTINF:-1,AR | Al Jazeera Mubasher HD
+http://showflix.org:5890/live/1234567/12345/58890.m3u8
+#EXTINF:-1,AR | Al Jazeera Documenter HD
+http://showflix.org:5890/live/1234567/12345/58889.m3u8
+#EXTINF:-1,AR | Al Arabiya HD
+http://showflix.org:5890/live/1234567/12345/265.m3u8
+#EXTINF:-1,AR|Alarabiya Alhadath
+http://showflix.org:5890/live/1234567/12345/266.m3u8
+#EXTINF:-1,AR | RT Arabia
+http://showflix.org:5890/live/1234567/12345/267.m3u8
+#EXTINF:-1,AR | France 24
+http://showflix.org:5890/live/1234567/12345/268.m3u8
+#EXTINF:-1,AR | AL Mayadeen
+http://showflix.org:5890/live/1234567/12345/269.m3u8
+#EXTINF:-1,AR | Sky News Arabia
+http://showflix.org:5890/live/1234567/12345/270.m3u8
+#EXTINF:-1,AR | El Sharq
+http://showflix.org:5890/live/1234567/12345/271.m3u8
+#EXTINF:-1,AR | Elsharq El Awast
+http://showflix.org:5890/live/1234567/12345/59810.m3u8
+#EXTINF:-1,AR | Al Qanat
+http://showflix.org:5890/live/1234567/12345/272.m3u8
+#EXTINF:-1,AR | DW ARABIA
+http://showflix.org:5890/live/1234567/12345/273.m3u8
+#EXTINF:-1,AR | Alhiwar
+http://showflix.org:5890/live/1234567/12345/274.m3u8
+#EXTINF:-1,AR | Watan TV
+http://showflix.org:5890/live/1234567/12345/275.m3u8
+#EXTINF:-1,AR | TRT ARABIA
+http://showflix.org:5890/live/1234567/12345/276.m3u8
+#EXTINF:-1,AR | CNBC ARABIA
+http://showflix.org:5890/live/1234567/12345/277.m3u8
+#EXTINF:-1,AR | Mekmeleen
+http://showflix.org:5890/live/1234567/12345/278.m3u8
+#EXTINF:-1,AR | Alaraby
+http://showflix.org:5890/live/1234567/12345/279.m3u8
+#EXTINF:-1,AR | Al Ghad HD
+http://showflix.org:5890/live/1234567/12345/56351.m3u8
+#EXTINF:-1,AR | Al Ghad SD
+http://showflix.org:5890/live/1234567/12345/56352.m3u8
+#EXTINF:-1,--AR | SPORT--
+http://showflix.org:5890/live/1234567/12345/280.m3u8
+#EXTINF:-1,AR | Al Kass One
+http://showflix.org:5890/live/1234567/12345/281.m3u8
+#EXTINF:-1,AR | Al Kass Two
+http://showflix.org:5890/live/1234567/12345/282.m3u8
+#EXTINF:-1,AR | ON SPORT HD 
+http://showflix.org:5890/live/1234567/12345/55572.m3u8
+#EXTINF:-1,AR | ON SPORTS
+http://showflix.org:5890/live/1234567/12345/283.m3u8
+#EXTINF:-1,AR | ON SPORTS 2
+http://showflix.org:5890/live/1234567/12345/284.m3u8
+#EXTINF:-1,AR | TIME SPORTS HD
+http://showflix.org:5890/live/1234567/12345/56343.m3u8
+#EXTINF:-1,AR | TIME SPORTS
+http://showflix.org:5890/live/1234567/12345/285.m3u8
+#EXTINF:-1,AR | Dubai Sport
+http://showflix.org:5890/live/1234567/12345/286.m3u8
+#EXTINF:-1,AR | Dubai Sport 2
+http://showflix.org:5890/live/1234567/12345/287.m3u8
+#EXTINF:-1,AR | Dubai Racing
+http://showflix.org:5890/live/1234567/12345/288.m3u8
+#EXTINF:-1,AR | Nile Sports
+http://showflix.org:5890/live/1234567/12345/289.m3u8
+#EXTINF:-1,AR | Sharjah Sport HD
+http://showflix.org:5890/live/1234567/12345/290.m3u8
+#EXTINF:-1,AR | KSA SPORTS 1HD
+http://showflix.org:5890/live/1234567/12345/291.m3u8
+#EXTINF:-1,AR | KSA SPORTS 2HD
+http://showflix.org:5890/live/1234567/12345/292.m3u8
+#EXTINF:-1,AR | KSA SPORTS 3HD
+http://showflix.org:5890/live/1234567/12345/293.m3u8
+#EXTINF:-1,AR | KSA SPORTS 4HD
+http://showflix.org:5890/live/1234567/12345/294.m3u8
+#EXTINF:-1,--AR | Kowëit --
+http://showflix.org:5890/live/1234567/12345/295.m3u8
+#EXTINF:-1,AR | KTV 1 HD
+http://showflix.org:5890/live/1234567/12345/296.m3u8
+#EXTINF:-1,AR | KTV 2
+http://showflix.org:5890/live/1234567/12345/297.m3u8
+#EXTINF:-1,AR | KTV Ethraa
+http://showflix.org:5890/live/1234567/12345/298.m3u8
+#EXTINF:-1,AR | KTV Sport
+http://showflix.org:5890/live/1234567/12345/299.m3u8
+#EXTINF:-1,AR | KTV Sport Plus
+http://showflix.org:5890/live/1234567/12345/300.m3u8
+#EXTINF:-1,--AR | OMAN --
+http://showflix.org:5890/live/1234567/12345/302.m3u8
+#EXTINF:-1,AR | Oman TV General HD
+http://showflix.org:5890/live/1234567/12345/303.m3u8
+#EXTINF:-1,AR | Oman TV General
+http://showflix.org:5890/live/1234567/12345/304.m3u8
+#EXTINF:-1,AR | Oman TV Culture HD
+http://showflix.org:5890/live/1234567/12345/305.m3u8
+#EXTINF:-1,AR | Oman TV Culture
+http://showflix.org:5890/live/1234567/12345/306.m3u8
+#EXTINF:-1,AR | Oman TV Live HD
+http://showflix.org:5890/live/1234567/12345/307.m3u8
+#EXTINF:-1,AR | Oman TV Live
+http://showflix.org:5890/live/1234567/12345/308.m3u8
+#EXTINF:-1,AR | OMAN SPORTS HD
+http://showflix.org:5890/live/1234567/12345/309.m3u8
+#EXTINF:-1,AR | OMAN SPORTS
+http://showflix.org:5890/live/1234567/12345/310.m3u8
+#EXTINF:-1,AR | JORDAN SPORT HD
+http://showflix.org:5890/live/1234567/12345/62222.m3u8
+#EXTINF:-1,--AR | Palestine--
+http://showflix.org:5890/live/1234567/12345/311.m3u8
+#EXTINF:-1,AR | AL Fajer TV 1
+http://showflix.org:5890/live/1234567/12345/312.m3u8
+#EXTINF:-1,AR | AL Fajer TV 2
+http://showflix.org:5890/live/1234567/12345/340.m3u8
+#EXTINF:-1,AR | Mussawa
+http://showflix.org:5890/live/1234567/12345/313.m3u8
+#EXTINF:-1,AR | HALA TV
+http://showflix.org:5890/live/1234567/12345/338.m3u8
+#EXTINF:-1,AR | SALAM TV
+http://showflix.org:5890/live/1234567/12345/154.m3u8
+#EXTINF:-1,AR | Palestin Sport
+http://showflix.org:5890/live/1234567/12345/314.m3u8
+#EXTINF:-1,AR | Palastin
+http://showflix.org:5890/live/1234567/12345/315.m3u8
+#EXTINF:-1,AR | Palastin Live
+http://showflix.org:5890/live/1234567/12345/316.m3u8
+#EXTINF:-1,AR | NBC Najah News
+http://showflix.org:5890/live/1234567/12345/317.m3u8
+#EXTINF:-1,--AR | Yemen--
+http://showflix.org:5890/live/1234567/12345/318.m3u8
+#EXTINF:-1,AR | YEMEN TV
+http://showflix.org:5890/live/1234567/12345/319.m3u8
+#EXTINF:-1,AR | Suhail TV
+http://showflix.org:5890/live/1234567/12345/320.m3u8
+#EXTINF:-1,AR | Yemen Shabab
+http://showflix.org:5890/live/1234567/12345/322.m3u8
+#EXTINF:-1,AR | Yemen Sama
+http://showflix.org:5890/live/1234567/12345/323.m3u8
+#EXTINF:-1,AR | Yemen Masirah
+http://showflix.org:5890/live/1234567/12345/324.m3u8
+#EXTINF:-1,AR | Al Ghad Al Mushreq
+http://showflix.org:5890/live/1234567/12345/325.m3u8
+#EXTINF:-1,--AR | LIBYA--
+http://showflix.org:5890/live/1234567/12345/326.m3u8
+#EXTINF:-1,AR | Libyas Al mustaqbal
+http://showflix.org:5890/live/1234567/12345/327.m3u8
+#EXTINF:-1,AR | Libya TV
+http://showflix.org:5890/live/1234567/12345/328.m3u8
+#EXTINF:-1,AR | Libya Watan
+http://showflix.org:5890/live/1234567/12345/329.m3u8
+#EXTINF:-1,AR | Libya Alrasmeya
+http://showflix.org:5890/live/1234567/12345/330.m3u8
+#EXTINF:-1,AR | Libya hadath
+http://showflix.org:5890/live/1234567/12345/331.m3u8
+#EXTINF:-1,AR | Libya Al wad
+http://showflix.org:5890/live/1234567/12345/332.m3u8
+#EXTINF:-1,AR | Libya news
+http://showflix.org:5890/live/1234567/12345/333.m3u8
+#EXTINF:-1,AR | Libya 218
+http://showflix.org:5890/live/1234567/12345/334.m3u8
+#EXTINF:-1,-- AR | MOURITANIA --
+http://showflix.org:5890/live/1234567/12345/62275.m3u8
+#EXTINF:-1,AR | El Mouritania
+http://showflix.org:5890/live/1234567/12345/344.m3u8
+#EXTINF:-1,AR | El Mouritania 2
+http://showflix.org:5890/live/1234567/12345/348.m3u8
+#EXTINF:-1,AR | El Mouritania thakafiah
+http://showflix.org:5890/live/1234567/12345/346.m3u8
+#EXTINF:-1,AR | El Mouritania Riyadia
+http://showflix.org:5890/live/1234567/12345/62273.m3u8
+#EXTINF:-1,AR | El Mouritania mahdrah
+http://showflix.org:5890/live/1234567/12345/62274.m3u8
+#EXTINF:-1,AR | EL Sahel TV
+http://showflix.org:5890/live/1234567/12345/345.m3u8
+#EXTINF:-1,AR | EL MOURABITON
+http://showflix.org:5890/live/1234567/12345/62276.m3u8
+#EXTINF:-1,--AR | SUDAN--
+http://showflix.org:5890/live/1234567/12345/335.m3u8
+#EXTINF:-1,AR | Tayba
+http://showflix.org:5890/live/1234567/12345/336.m3u8
+#EXTINF:-1,AR | Sudan 24
+http://showflix.org:5890/live/1234567/12345/337.m3u8
+#EXTINF:-1,AR | SUDAN TV
+http://showflix.org:5890/live/1234567/12345/339.m3u8
+#EXTINF:-1,--AR|  CHILDREN--
+http://showflix.org:5890/live/1234567/12345/349.m3u8
+#EXTINF:-1,AR | MAJID KIDS
+http://showflix.org:5890/live/1234567/12345/350.m3u8
+#EXTINF:-1,AR | Baraem
+http://showflix.org:5890/live/1234567/12345/351.m3u8
+#EXTINF:-1,AR | Toyor Al Janah
+http://showflix.org:5890/live/1234567/12345/352.m3u8
+#EXTINF:-1,AR | CN Arabia
+http://showflix.org:5890/live/1234567/12345/353.m3u8
+#EXTINF:-1,AR | Majid Kids HD
+http://showflix.org:5890/live/1234567/12345/355.m3u8
+#EXTINF:-1,AR | Jeem HD
+http://showflix.org:5890/live/1234567/12345/356.m3u8
+#EXTINF:-1,AR | MODY KIDS
+http://showflix.org:5890/live/1234567/12345/56362.m3u8
+#EXTINF:-1,AR | Space Toon
+http://showflix.org:5890/live/1234567/12345/357.m3u8
+#EXTINF:-1,AR | Toyor Baby
+http://showflix.org:5890/live/1234567/12345/358.m3u8
+#EXTINF:-1,AR | KARAMISH TV
+http://showflix.org:5890/live/1234567/12345/55579.m3u8
+#EXTINF:-1,AR | Masha & the Bear FHD
+http://showflix.org:5890/live/1234567/12345/359.m3u8
+#EXTINF:-1,AR | Marah TV
+http://showflix.org:5890/live/1234567/12345/56344.m3u8
+#EXTINF:-1,AR | KIDS 1
+http://showflix.org:5890/live/1234567/12345/66466.m3u8
+#EXTINF:-1,AR | KIDS 2
+http://showflix.org:5890/live/1234567/12345/66467.m3u8
+#EXTINF:-1,AR | KIDS 3
+http://showflix.org:5890/live/1234567/12345/66468.m3u8
+#EXTINF:-1,AR | KIDS 4
+http://showflix.org:5890/live/1234567/12345/66469.m3u8
+#EXTINF:-1,AR | KIDS 5
+http://showflix.org:5890/live/1234567/12345/66470.m3u8
+#EXTINF:-1,AR | KIDS 6
+http://showflix.org:5890/live/1234567/12345/66471.m3u8
+#EXTINF:-1,--AR | SYRIA --
+http://showflix.org:5890/live/1234567/12345/360.m3u8
+#EXTINF:-1,AR | Syria
+http://showflix.org:5890/live/1234567/12345/361.m3u8
+#EXTINF:-1,AR | Syria Drama
+http://showflix.org:5890/live/1234567/12345/362.m3u8
+#EXTINF:-1,AR | NOUR EL SHAM
+http://showflix.org:5890/live/1234567/12345/363.m3u8
+#EXTINF:-1,AR | Souryana
+http://showflix.org:5890/live/1234567/12345/364.m3u8
+#EXTINF:-1,AR | SYRIAN EDUCATION
+http://showflix.org:5890/live/1234567/12345/365.m3u8
+#EXTINF:-1,AR | Sama Syria
+http://showflix.org:5890/live/1234567/12345/366.m3u8
+#EXTINF:-1,AR | SYRIA TV HD
+http://showflix.org:5890/live/1234567/12345/367.m3u8
+#EXTINF:-1,AR | LANA TV HD
+http://showflix.org:5890/live/1234567/12345/368.m3u8
+#EXTINF:-1,AR | LANA TV
+http://showflix.org:5890/live/1234567/12345/369.m3u8
+#EXTINF:-1,AR | Lana Plus
+http://showflix.org:5890/live/1234567/12345/370.m3u8
+#EXTINF:-1,AR | Orient News
+http://showflix.org:5890/live/1234567/12345/371.m3u8
+#EXTINF:-1,AR | SHAM FM
+http://showflix.org:5890/live/1234567/12345/372.m3u8
+#EXTINF:-1,--AR | LEBANON --
+http://showflix.org:5890/live/1234567/12345/373.m3u8
+#EXTINF:-1,AR | Al AAN
+http://showflix.org:5890/live/1234567/12345/374.m3u8
+#EXTINF:-1,AR | LDC
+http://showflix.org:5890/live/1234567/12345/375.m3u8
+#EXTINF:-1,AR | LBC HD
+http://showflix.org:5890/live/1234567/12345/376.m3u8
+#EXTINF:-1,AR | LBC 
+http://showflix.org:5890/live/1234567/12345/55578.m3u8
+#EXTINF:-1,AR | LBC 2
+http://showflix.org:5890/live/1234567/12345/377.m3u8
+#EXTINF:-1,AR | Otv Lebanon
+http://showflix.org:5890/live/1234567/12345/378.m3u8
+#EXTINF:-1,AR | Future TV
+http://showflix.org:5890/live/1234567/12345/379.m3u8
+#EXTINF:-1,AR | Al Jadeed
+http://showflix.org:5890/live/1234567/12345/380.m3u8
+#EXTINF:-1,AR | Télé Liban
+http://showflix.org:5890/live/1234567/12345/381.m3u8
+#EXTINF:-1,AR | MTV LEBANO
+http://showflix.org:5890/live/1234567/12345/382.m3u8
+#EXTINF:-1,AR | NBN Lebanon
+http://showflix.org:5890/live/1234567/12345/383.m3u8
+#EXTINF:-1,AR | Almanar TV
+http://showflix.org:5890/live/1234567/12345/384.m3u8
+#EXTINF:-1,--AR | IRAQY--
+http://showflix.org:5890/live/1234567/12345/385.m3u8
+#EXTINF:-1,AR | Iraqia
+http://showflix.org:5890/live/1234567/12345/386.m3u8
+#EXTINF:-1,AR | Iraqia Sports
+http://showflix.org:5890/live/1234567/12345/387.m3u8
+#EXTINF:-1,AR | Al Sharkia HD
+http://showflix.org:5890/live/1234567/12345/388.m3u8
+#EXTINF:-1,AR | Al Sharkia News HD
+http://showflix.org:5890/live/1234567/12345/389.m3u8
+#EXTINF:-1,AR  | Al Sumaria
+http://showflix.org:5890/live/1234567/12345/390.m3u8
+#EXTINF:-1,AR | AL RAFIDAIN
+http://showflix.org:5890/live/1234567/12345/62220.m3u8
+#EXTINF:-1,AR | Al Itejah
+http://showflix.org:5890/live/1234567/12345/391.m3u8
+#EXTINF:-1,AR | Altaghier HD
+http://showflix.org:5890/live/1234567/12345/392.m3u8
+#EXTINF:-1,AR | Al Iman TV
+http://showflix.org:5890/live/1234567/12345/393.m3u8
+#EXTINF:-1,AR | Anwar tv
+http://showflix.org:5890/live/1234567/12345/394.m3u8
+#EXTINF:-1,AR | ASSIRAT
+http://showflix.org:5890/live/1234567/12345/395.m3u8
+#EXTINF:-1,AR | Ch4Teen
+http://showflix.org:5890/live/1234567/12345/62221.m3u8
+#EXTINF:-1,AR | KARBALAE TV
+http://showflix.org:5890/live/1234567/12345/62223.m3u8
+#EXTINF:-1,AR | Afaq tv
+http://showflix.org:5890/live/1234567/12345/396.m3u8
+#EXTINF:-1,AR | Al Alam
+http://showflix.org:5890/live/1234567/12345/397.m3u8
+#EXTINF:-1,AR | AL QAMAR
+http://showflix.org:5890/live/1234567/12345/398.m3u8
+#EXTINF:-1,AR  |Al Kawthar
+http://showflix.org:5890/live/1234567/12345/399.m3u8
+#EXTINF:-1,AR | Al Forat
+http://showflix.org:5890/live/1234567/12345/400.m3u8
+#EXTINF:-1,AR | Al Ayam
+http://showflix.org:5890/live/1234567/12345/401.m3u8
+#EXTINF:-1,AR | DIJLA
+http://showflix.org:5890/live/1234567/12345/402.m3u8
+#EXTINF:-1,AR | Al Ghadeer
+http://showflix.org:5890/live/1234567/12345/56353.m3u8
+#EXTINF:-1,AR | Al Hura Iraqia
+http://showflix.org:5890/live/1234567/12345/403.m3u8
+#EXTINF:-1,-- ᴹᵘˢᶦᶜ | MUSIC | --
+http://showflix.org:5890/live/1234567/12345/55634.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜAghani
+http://showflix.org:5890/live/1234567/12345/55619.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜChada tv
+http://showflix.org:5890/live/1234567/12345/55620.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜAl Haneen
+http://showflix.org:5890/live/1234567/12345/55621.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜARABICA
+http://showflix.org:5890/live/1234567/12345/55622.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜELMOLED TV
+http://showflix.org:5890/live/1234567/12345/55623.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜFree_TV
+http://showflix.org:5890/live/1234567/12345/55624.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜHAWACOM
+http://showflix.org:5890/live/1234567/12345/55625.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜMAZAZIKH_TV
+http://showflix.org:5890/live/1234567/12345/55626.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜMAZZIKAH
+http://showflix.org:5890/live/1234567/12345/55627.m3u8
+#EXTINF:-1,Melody Classic
+http://showflix.org:5890/live/1234567/12345/55628.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜRemaas
+http://showflix.org:5890/live/1234567/12345/55629.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜMusic Now
+http://showflix.org:5890/live/1234567/12345/55630.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜSha3by
+http://showflix.org:5890/live/1234567/12345/55631.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜNOJOOM FM TV
+http://showflix.org:5890/live/1234567/12345/55632.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜPUBLI TOOLS TV
+http://showflix.org:5890/live/1234567/12345/55633.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜFayrouz
+http://showflix.org:5890/live/1234567/12345/55606.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜAbdulhaleem Hafez
+http://showflix.org:5890/live/1234567/12345/55607.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜUm Kalthoum
+http://showflix.org:5890/live/1234567/12345/55608.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜWadi3 Alsafi
+http://showflix.org:5890/live/1234567/12345/55609.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜKathem Alsaher
+http://showflix.org:5890/live/1234567/12345/55610.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜHany Shaker
+http://showflix.org:5890/live/1234567/12345/55611.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜGeorge Wassouf
+http://showflix.org:5890/live/1234567/12345/55612.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜSherine
+http://showflix.org:5890/live/1234567/12345/55613.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜRagheb Alama
+http://showflix.org:5890/live/1234567/12345/55614.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜAlisa
+http://showflix.org:5890/live/1234567/12345/55615.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜAmr Diab
+http://showflix.org:5890/live/1234567/12345/55616.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜMohamad Fouad
+http://showflix.org:5890/live/1234567/12345/55617.m3u8
+#EXTINF:-1,ᴹᵘˢᶦᶜWael Kfoury
+http://showflix.org:5890/live/1234567/12345/55618.m3u8
+#EXTINF:-1,--AR | MAROC--
+http://showflix.org:5890/live/1234567/12345/1424.m3u8
+#EXTINF:-1,MA | Al AOULA HD
+http://showflix.org:5890/live/1234567/12345/405.m3u8
+#EXTINF:-1,MA | Al AOULA
+http://showflix.org:5890/live/1234567/12345/406.m3u8
+#EXTINF:-1,MA | Al Oula Laayoune HD
+http://showflix.org:5890/live/1234567/12345/58233.m3u8
+#EXTINF:-1,MA | Al Oula Laayoune
+http://showflix.org:5890/live/1234567/12345/407.m3u8
+#EXTINF:-1,MA | Almagharibia HD
+http://showflix.org:5890/live/1234567/12345/408.m3u8
+#EXTINF:-1,MA | Almaghribia
+http://showflix.org:5890/live/1234567/12345/409.m3u8
+#EXTINF:-1,MA | 2M HD
+http://showflix.org:5890/live/1234567/12345/410.m3u8
+#EXTINF:-1,MA | 2M TV
+http://showflix.org:5890/live/1234567/12345/411.m3u8
+#EXTINF:-1,MA | Arriadia HD
+http://showflix.org:5890/live/1234567/12345/412.m3u8
+#EXTINF:-1,MA | Arriadia
+http://showflix.org:5890/live/1234567/12345/413.m3u8
+#EXTINF:-1,MA | Arrabia HD
+http://showflix.org:5890/live/1234567/12345/414.m3u8
+#EXTINF:-1,MA | Medi1 TV HD
+http://showflix.org:5890/live/1234567/12345/415.m3u8
+#EXTINF:-1,MA | Medi1 TV 
+http://showflix.org:5890/live/1234567/12345/58234.m3u8
+#EXTINF:-1,MA | Medi1 TV AF
+http://showflix.org:5890/live/1234567/12345/416.m3u8
+#EXTINF:-1,MA | Assadissa HD
+http://showflix.org:5890/live/1234567/12345/58235.m3u8
+#EXTINF:-1,MA | Assadissa
+http://showflix.org:5890/live/1234567/12345/417.m3u8
+#EXTINF:-1,MA | Tamazight HD
+http://showflix.org:5890/live/1234567/12345/418.m3u8
+#EXTINF:-1,MA | Tamazight
+http://showflix.org:5890/live/1234567/12345/419.m3u8
+#EXTINF:-1,MA | Télé MAROC HD
+http://showflix.org:5890/live/1234567/12345/58236.m3u8
+#EXTINF:-1,MA | Télé MAROC
+http://showflix.org:5890/live/1234567/12345/421.m3u8
+#EXTINF:-1,MA | CHADA TV
+http://showflix.org:5890/live/1234567/12345/422.m3u8
+#EXTINF:-1,MA | M24 MAROC
+http://showflix.org:5890/live/1234567/12345/56359.m3u8
+#EXTINF:-1,MA | AFLAM TV
+http://showflix.org:5890/live/1234567/12345/423.m3u8
+#EXTINF:-1,--AR TUNISIA--
+http://showflix.org:5890/live/1234567/12345/450.m3u8
+#EXTINF:-1,TN | TUNISIE 1
+http://showflix.org:5890/live/1234567/12345/451.m3u8
+#EXTINF:-1,TN | TUNISIE 2
+http://showflix.org:5890/live/1234567/12345/452.m3u8
+#EXTINF:-1,TN | Hannibal TV
+http://showflix.org:5890/live/1234567/12345/453.m3u8
+#EXTINF:-1,TN | Nessma tv
+http://showflix.org:5890/live/1234567/12345/454.m3u8
+#EXTINF:-1,TN | Zaytoona
+http://showflix.org:5890/live/1234567/12345/455.m3u8
+#EXTINF:-1,TN | Telvza TV
+http://showflix.org:5890/live/1234567/12345/456.m3u8
+#EXTINF:-1,TN | Elhiwar Ettounsi
+http://showflix.org:5890/live/1234567/12345/457.m3u8
+#EXTINF:-1,TN | SAHEL TV
+http://showflix.org:5890/live/1234567/12345/321.m3u8
+#EXTINF:-1,TN | Tounesna
+http://showflix.org:5890/live/1234567/12345/458.m3u8
+#EXTINF:-1,TN | M Tunisian
+http://showflix.org:5890/live/1234567/12345/459.m3u8
+#EXTINF:-1,TN | ALMUSTAKILLAH
+http://showflix.org:5890/live/1234567/12345/460.m3u8
+#EXTINF:-1,TN | Al insan
+http://showflix.org:5890/live/1234567/12345/461.m3u8
+#EXTINF:-1,TN | ATTESSIA
+http://showflix.org:5890/live/1234567/12345/462.m3u8
+#EXTINF:-1,TN | AL JANOUBIA TV
+http://showflix.org:5890/live/1234567/12345/56347.m3u8
+#EXTINF:-1,--AR | ALGERIEN--
+http://showflix.org:5890/live/1234567/12345/424.m3u8
+#EXTINF:-1,ALG | Algerie 1
+http://showflix.org:5890/live/1234567/12345/425.m3u8
+#EXTINF:-1,ALG | Algerie 3 HD
+http://showflix.org:5890/live/1234567/12345/426.m3u8
+#EXTINF:-1,ALG | Algerie 3
+http://showflix.org:5890/live/1234567/12345/427.m3u8
+#EXTINF:-1,ALG | Algerie 4
+http://showflix.org:5890/live/1234567/12345/428.m3u8
+#EXTINF:-1,ALG | Algerie 5
+http://showflix.org:5890/live/1234567/12345/429.m3u8
+#EXTINF:-1,ALG | Ennahar
+http://showflix.org:5890/live/1234567/12345/430.m3u8
+#EXTINF:-1,ALG | Ennahar laki
+http://showflix.org:5890/live/1234567/12345/431.m3u8
+#EXTINF:-1,ALG | Echourrouk
+http://showflix.org:5890/live/1234567/12345/432.m3u8
+#EXTINF:-1,ALG | Echourrouk HD
+http://showflix.org:5890/live/1234567/12345/433.m3u8
+#EXTINF:-1,ALG | Echourrouk News
+http://showflix.org:5890/live/1234567/12345/434.m3u8
+#EXTINF:-1,ALG | Samira TV
+http://showflix.org:5890/live/1234567/12345/435.m3u8
+#EXTINF:-1,ALG | Al Fadjr tv
+http://showflix.org:5890/live/1234567/12345/436.m3u8
+#EXTINF:-1,ALG | Elbilad
+http://showflix.org:5890/live/1234567/12345/437.m3u8
+#EXTINF:-1,ALG | AL Magharibia
+http://showflix.org:5890/live/1234567/12345/438.m3u8
+#EXTINF:-1,ALG | El Heddaf
+http://showflix.org:5890/live/1234567/12345/439.m3u8
+#EXTINF:-1,ALG | Al Bahia
+http://showflix.org:5890/live/1234567/12345/440.m3u8
+#EXTINF:-1,ALG | Al Hayat TV
+http://showflix.org:5890/live/1234567/12345/441.m3u8
+#EXTINF:-1,ALG | ENTV RTA
+http://showflix.org:5890/live/1234567/12345/442.m3u8
+#EXTINF:-1,ALG | Beur TV
+http://showflix.org:5890/live/1234567/12345/443.m3u8
+#EXTINF:-1,ALG | Djazairia
+http://showflix.org:5890/live/1234567/12345/444.m3u8
+#EXTINF:-1,ALG | Dzaier TV
+http://showflix.org:5890/live/1234567/12345/445.m3u8
+#EXTINF:-1,ALG | NUMEDIA NEWS
+http://showflix.org:5890/live/1234567/12345/446.m3u8
+#EXTINF:-1,ALG | BERBERE TV
+http://showflix.org:5890/live/1234567/12345/447.m3u8
+#EXTINF:-1,ALG | Chams TV
+http://showflix.org:5890/live/1234567/12345/448.m3u8
+#EXTINF:-1,ALG | El Adjwaa TV
+http://showflix.org:5890/live/1234567/12345/449.m3u8
+#EXTINF:-1,ALG | Al Anis
+http://showflix.org:5890/live/1234567/12345/56350.m3u8
+#EXTINF:-1,--AD SPORTS--
+http://showflix.org:5890/live/1234567/12345/64.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1 HD AE
+http://showflix.org:5890/live/1234567/12345/65.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1 AE
+http://showflix.org:5890/live/1234567/12345/66.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 HD AE
+http://showflix.org:5890/live/1234567/12345/70.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2 AE
+http://showflix.org:5890/live/1234567/12345/67.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3 AE
+http://showflix.org:5890/live/1234567/12345/68.m3u8
+#EXTINF:-1,Abu Dhabi Sports 4 AE
+http://showflix.org:5890/live/1234567/12345/69.m3u8
+#EXTINF:-1,YAS SPORT HD
+http://showflix.org:5890/live/1234567/12345/56371.m3u8
+#EXTINF:-1,--OSN--
+http://showflix.org:5890/live/1234567/12345/76.m3u8
+#EXTINF:-1,OSN Alfa Series AE
+http://showflix.org:5890/live/1234567/12345/72.m3u8
+#EXTINF:-1,OSN Cinema 1 AE
+http://showflix.org:5890/live/1234567/12345/74.m3u8
+#EXTINF:-1,OSN Cinema 2 AE
+http://showflix.org:5890/live/1234567/12345/75.m3u8
+#EXTINF:-1,OSN Al Youm AE
+http://showflix.org:5890/live/1234567/12345/73.m3u8
+#EXTINF:-1,OSN YAhala! AE
+http://showflix.org:5890/live/1234567/12345/77.m3u8
+#EXTINF:-1,OSN Yahala! Al Oula AE
+http://showflix.org:5890/live/1234567/12345/78.m3u8
+#EXTINF:-1,OSN Yahala! Cinema AE
+http://showflix.org:5890/live/1234567/12345/79.m3u8
+#EXTINF:-1,OSN Action
+http://showflix.org:5890/live/1234567/12345/86.m3u8
+#EXTINF:-1,OSN Movies
+http://showflix.org:5890/live/1234567/12345/87.m3u8
+#EXTINF:-1,OSN Kids
+http://showflix.org:5890/live/1234567/12345/83.m3u8
+#EXTINF:-1,OSN Comedy
+http://showflix.org:5890/live/1234567/12345/82.m3u8
+#EXTINF:-1,OSN CINEMA
+http://showflix.org:5890/live/1234567/12345/80.m3u8
+#EXTINF:-1,OSN BINGE
+http://showflix.org:5890/live/1234567/12345/81.m3u8
+#EXTINF:-1,OSN Enigma
+http://showflix.org:5890/live/1234567/12345/84.m3u8
+#EXTINF:-1,OSN Living
+http://showflix.org:5890/live/1234567/12345/85.m3u8
+#EXTINF:-1,OSN Movies Disney
+http://showflix.org:5890/live/1234567/12345/88.m3u8
+#EXTINF:-1,OSN Movies First
+http://showflix.org:5890/live/1234567/12345/89.m3u8
+#EXTINF:-1,OSN Movies First +2
+http://showflix.org:5890/live/1234567/12345/90.m3u8
+#EXTINF:-1,OSN Series First
+http://showflix.org:5890/live/1234567/12345/92.m3u8
+#EXTINF:-1,OSN Star Moveis
+http://showflix.org:5890/live/1234567/12345/93.m3u8
+#EXTINF:-1,OSN STAR WORLD
+http://showflix.org:5890/live/1234567/12345/94.m3u8
+#EXTINF:-1,OSN Animal Planet HD
+http://showflix.org:5890/live/1234567/12345/95.m3u8
+#EXTINF:-1,OSN paramount channel
+http://showflix.org:5890/live/1234567/12345/96.m3u8
+#EXTINF:-1,OSN Discovery HD
+http://showflix.org:5890/live/1234567/12345/97.m3u8
+#EXTINF:-1,OSN DISCOVERY ID HD
+http://showflix.org:5890/live/1234567/12345/98.m3u8
+#EXTINF:-1,OSN Discovery Science
+http://showflix.org:5890/live/1234567/12345/99.m3u8
+#EXTINF:-1,OSN History
+http://showflix.org:5890/live/1234567/12345/100.m3u8
+#EXTINF:-1,OSN NAT GEO
+http://showflix.org:5890/live/1234567/12345/101.m3u8
+#EXTINF:-1,OSN Nat Geo People
+http://showflix.org:5890/live/1234567/12345/102.m3u8
+#EXTINF:-1,OSN Nat Geo Wild
+http://showflix.org:5890/live/1234567/12345/103.m3u8
+#EXTINF:-1,OSN Disney Channel
+http://showflix.org:5890/live/1234567/12345/104.m3u8
+#EXTINF:-1,OSN Disney Junior
+http://showflix.org:5890/live/1234567/12345/105.m3u8
+#EXTINF:-1,OSN Disney XD
+http://showflix.org:5890/live/1234567/12345/106.m3u8
+#EXTINF:-1,OSN KID ZONE HD
+http://showflix.org:5890/live/1234567/12345/107.m3u8
+#EXTINF:-1,OSN NICK JR.
+http://showflix.org:5890/live/1234567/12345/108.m3u8
+#EXTINF:-1,OSN Nickelodeon HD
+http://showflix.org:5890/live/1234567/12345/109.m3u8
+#EXTINF:-1,-- | MY-HD | --
+http://showflix.org:5890/live/1234567/12345/55605.m3u8
+#EXTINF:-1,|MY-HD| MBC 1 HD
+http://showflix.org:5890/live/1234567/12345/55580.m3u8
+#EXTINF:-1,|MY-HD| MBC 2 HD
+http://showflix.org:5890/live/1234567/12345/55581.m3u8
+#EXTINF:-1,|MY-HD| MBC 3 HD
+http://showflix.org:5890/live/1234567/12345/55582.m3u8
+#EXTINF:-1,|MY-HD| MBC 4 HD
+http://showflix.org:5890/live/1234567/12345/55583.m3u8
+#EXTINF:-1,|MY-HD| MBC Action HD
+http://showflix.org:5890/live/1234567/12345/55584.m3u8
+#EXTINF:-1,|MY-HD| MBC MAX HD
+http://showflix.org:5890/live/1234567/12345/55585.m3u8
+#EXTINF:-1,|MY-HD| MBC Drama HD
+http://showflix.org:5890/live/1234567/12345/55586.m3u8
+#EXTINF:-1,|MY-HD| MBC+ Drama HD
+http://showflix.org:5890/live/1234567/12345/55587.m3u8
+#EXTINF:-1,|MY-HD| MBC+ Variety HD
+http://showflix.org:5890/live/1234567/12345/55588.m3u8
+#EXTINF:-1,|MY-HD| Fox Rewayat
+http://showflix.org:5890/live/1234567/12345/55589.m3u8
+#EXTINF:-1,|MY-HD| FX-HD
+http://showflix.org:5890/live/1234567/12345/55590.m3u8
+#EXTINF:-1,|MY-HD| FOX-FAMILY
+http://showflix.org:5890/live/1234567/12345/55591.m3u8
+#EXTINF:-1,|MY-HD| Fox HD
+http://showflix.org:5890/live/1234567/12345/55592.m3u8
+#EXTINF:-1,|MY-HD| Fox Life
+http://showflix.org:5890/live/1234567/12345/55593.m3u8
+#EXTINF:-1,|MY-HD| Fox Crime
+http://showflix.org:5890/live/1234567/12345/55594.m3u8
+#EXTINF:-1,|MY-HD| Family Movies
+http://showflix.org:5890/live/1234567/12345/55595.m3u8
+#EXTINF:-1,|MY-HD| FOX-ACTION
+http://showflix.org:5890/live/1234567/12345/55596.m3u8
+#EXTINF:-1,|MY-HD| Fight Box
+http://showflix.org:5890/live/1234567/12345/55597.m3u8
+#EXTINF:-1,|MY-HD| Film Box
+http://showflix.org:5890/live/1234567/12345/55598.m3u8
+#EXTINF:-1,|MY-HD| MyCinema
+http://showflix.org:5890/live/1234567/12345/55599.m3u8
+#EXTINF:-1,|MY-HD| DUCK
+http://showflix.org:5890/live/1234567/12345/55600.m3u8
+#EXTINF:-1,|MY-HD| DOCU BOX
+http://showflix.org:5890/live/1234567/12345/55601.m3u8
+#EXTINF:-1,|MY-HD| Animal Planet
+http://showflix.org:5890/live/1234567/12345/55602.m3u8
+#EXTINF:-1,|MY-HD| Nat Geo People
+http://showflix.org:5890/live/1234567/12345/55603.m3u8
+#EXTINF:-1,|MY-HD| Discovery HD
+http://showflix.org:5890/live/1234567/12345/55604.m3u8
