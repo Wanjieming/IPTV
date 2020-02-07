@@ -1,1395 +1,1483 @@
 #EXTM3U
-#EXTINF:-1,|FR| TF1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/156.m3u8
-#EXTINF:-1,|FR| TF1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9561.m3u8
-#EXTINF:-1,|FR| TF1 4K
-http://iptvpro.vision-new.org:8789/live/1212/1212/23363.m3u8
-#EXTINF:-1,|FR| TF1+1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/12432.m3u8
-#EXTINF:-1,|FR| FRANCE2 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1502.m3u8
-#EXTINF:-1,|FR| FRANCE2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/160.m3u8
-#EXTINF:-1,|FR| FRANCE3 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/613.m3u8
-#EXTINF:-1,|FR| FRANCE3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/159.m3u8
-#EXTINF:-1,|FR| FRANCE 3 NOA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30646.m3u8
-#EXTINF:-1,|FR| FRANCE4 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1504.m3u8
-#EXTINF:-1,|FR| FRANCE4 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/158.m3u8
-#EXTINF:-1,|FR| FRANCE5 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1505.m3u8
-#EXTINF:-1,|FR| FRANCE5 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/157.m3u8
-#EXTINF:-1,|FR| FRANCE Ô HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/161.m3u8
-#EXTINF:-1,|FR| M6 FHD
-http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
-#EXTINF:-1,|FR| M6 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/235.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/12647.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/243.m3u8
-#EXTINF:-1,|FR| TMC FHD
-http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
-#EXTINF:-1,|FR| TMC HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/109.m3u8
-#EXTINF:-1,|FR| TV BREIZH FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2566.m3u8
-#EXTINF:-1,|FR| TV BREIZH HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/244.m3u8
-#EXTINF:-1,|FR| 6TER FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1509.m3u8
-#EXTINF:-1,|FR| 6TER HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/110.m3u8
-#EXTINF:-1,|FR| ARTE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1513.m3u8
-#EXTINF:-1,|FR| ARTE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/114.m3u8
-#EXTINF:-1,|FR| IDF1
-http://iptvpro.vision-new.org:8789/live/1212/1212/11021.m3u8
-#EXTINF:-1,|FR|*****CINEMA FRANCE*****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/111.m3u8
-#EXTINF:-1,|FR| CANAL+ FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10533.m3u8
-#EXTINF:-1,|FR| CANAL+ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11196.m3u8
-#EXTINF:-1,|FR| CANAL+ DECALE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1913.m3u8
-#EXTINF:-1,|FR| CANAL+ DECALE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/153.m3u8
-#EXTINF:-1,|FR| CANAL+ FAMILY FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/115.m3u8
-#EXTINF:-1,|FR| CANAL+ FAMILY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/163.m3u8
-#EXTINF:-1,|FR| CANAL+ CINEMA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/164.m3u8
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/113.m3u8
-#EXTINF:-1,|FR| OCS MAX FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8558.m3u8
-#EXTINF:-1,|FR| OCS MAX HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/409.m3u8
-#EXTINF:-1,|FR| OCS GEANTS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1397.m3u8
-#EXTINF:-1,|FR| OCS GEANTS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/313.m3u8
-#EXTINF:-1,|FR| OCS CITY FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8559.m3u8
-#EXTINF:-1,|FR| OCS CITY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/410.m3u8
-#EXTINF:-1,|FR| OCS CHOC FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/239.m3u8
-#EXTINF:-1,|FR| OCS CHOC HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/68.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/312.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1895.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2002.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/196.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/660.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3761.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/195.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1627.m3u8
-#EXTINF:-1,|FR| ACTION FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1886.m3u8
-#EXTINF:-1,|FR| ACTION  HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/270.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2462.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1927.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1887.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/307.m3u8
-#EXTINF:-1,|FR| WARNER BROS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/311.m3u8
-#EXTINF:-1,|FR| WARNER BROS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8810.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/7849.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30452.m3u8
-#EXTINF:-1,|FR| POLAR + FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/683.m3u8
-#EXTINF:-1,|FR| POLAR + HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8560.m3u8
-#EXTINF:-1,|FR| TCM FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1626.m3u8
-#EXTINF:-1,|FR| TCM HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1414.m3u8
-#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2557.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1884.m3u8
-#EXTINF:-1,|FR| PARAMOUNTCHANNEL HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23254.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 1 [ King Arthur Legend Of The Sword ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/165.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 2 [ Security ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/166.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 3 [ Captain Marvel ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/167.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 4 [ The Mummy ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/168.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 5 [ Megan Leavey ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/169.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 6 [ Captive State]
-http://iptvpro.vision-new.org:8789/live/1212/1212/170.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 7 [ Alex, le destin d'un roi]
-http://iptvpro.vision-new.org:8789/live/1212/1212/171.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 8 [ Rim of the World ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/172.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 9 [Jour J]
-http://iptvpro.vision-new.org:8789/live/1212/1212/173.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 10 [  Chez Nous ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/174.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 11 [ The Perfection]
-http://iptvpro.vision-new.org:8789/live/1212/1212/175.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 12 [L'Empereur de Paris]
-http://iptvpro.vision-new.org:8789/live/1212/1212/176.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 13 [ Don't Kill It ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/177.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 14 [C O U ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/178.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 15 [ Rêves éveillés ]
-http://iptvpro.vision-new.org:8789/live/1212/1212/179.m3u8
-#EXTINF:-1,|FR|  CANAL PLAY 16
-http://iptvpro.vision-new.org:8789/live/1212/1212/352.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/730.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/729.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/67.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 4
-http://iptvpro.vision-new.org:8789/live/1212/1212/693.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 5
-http://iptvpro.vision-new.org:8789/live/1212/1212/732.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 6
-http://iptvpro.vision-new.org:8789/live/1212/1212/99.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 7
-http://iptvpro.vision-new.org:8789/live/1212/1212/98.m3u8
-#EXTINF:-1,|FR| ORANGE CINE+ 8
-http://iptvpro.vision-new.org:8789/live/1212/1212/388.m3u8
-#EXTINF:-1,|FR| ALACARTE 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/185.m3u8
-#EXTINF:-1,|FR| ALACARTE 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/184.m3u8
-#EXTINF:-1,|FR| ALACARTE 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/183.m3u8
-#EXTINF:-1,|FR| ALACARTE 4
-http://iptvpro.vision-new.org:8789/live/1212/1212/199.m3u8
-#EXTINF:-1,|FR| ALACARTE 5
-http://iptvpro.vision-new.org:8789/live/1212/1212/200.m3u8
-#EXTINF:-1,|FR| ALACARTE 6
-http://iptvpro.vision-new.org:8789/live/1212/1212/209.m3u8
-#EXTINF:-1,|FR| ALACARTE 7
-http://iptvpro.vision-new.org:8789/live/1212/1212/210.m3u8
-#EXTINF:-1,|FR| ALACARTE 8
-http://iptvpro.vision-new.org:8789/live/1212/1212/211.m3u8
-#EXTINF:-1,|FR| ALACARTE 9
-http://iptvpro.vision-new.org:8789/live/1212/1212/212.m3u8
-#EXTINF:-1,|FR| ALACARTE 10
-http://iptvpro.vision-new.org:8789/live/1212/1212/213.m3u8
-#EXTINF:-1,|FR|*****SPORT FRANCE*****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/91.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4K
-http://iptvpro.vision-new.org:8789/live/1212/1212/14928.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 1 ACCESS
-http://iptvpro.vision-new.org:8789/live/1212/1212/30467.m3u8
-#EXTINF:-1,|FR[ RMC SPORTS 2 ACCESS
-http://iptvpro.vision-new.org:8789/live/1212/1212/30468.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 3 ACCESS
-http://iptvpro.vision-new.org:8789/live/1212/1212/30469.m3u8
-#EXTINF:-1,|FR| RMC SPORTS.1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10528.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11195.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 2 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10527.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11194.m3u8
-#EXTINF:-1,|FR| RMC SPORTS 3 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10526.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11836.m3u8
-#EXTINF:-1,|FR|RMC SPORT 3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11993.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16099.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/12438.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11838.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14927.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14926.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14925.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14924.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14923.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16522.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14922.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14921.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16524.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14920.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16525.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16526.m3u8
-#EXTINF:-1,|FR| FOOT+ 24/24 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1628.m3u8
-#EXTINF:-1,|FR| FOOT+ 24/24 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3757.m3u8
-#EXTINF:-1,|FR| ONZEO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9682.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT  FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8808.m3u8
-#EXTINF:-1,|FR| CANAL.+ SPORT HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/17404.m3u8
-#EXTINF:-1,|FR| beIN SPORTS 1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10531.m3u8
-#EXTINF:-1,|FR| beIN SPORTS 2 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10530.m3u8
-#EXTINF:-1,|FR| beIN SPORTS 3 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10529.m3u8
-#EXTINF:-1,|FR| beINSPORT1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11988.m3u8
-#EXTINF:-1,|FR| beINSPORT2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11989.m3u8
-#EXTINF:-1,|FR| beINSPORT3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11990.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9676.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 4 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/95.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8038.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 5 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1088.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 6 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/15246.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 6 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1089.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8040.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 7 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1113.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8041.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 8 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1468.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8042.m3u8
-#EXTINF:-1,|FR| BEINSPORT MAX 9 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1469.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8043.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1470.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/10752.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/10753.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/10754.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 4
-http://iptvpro.vision-new.org:8789/live/1212/1212/10755.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 5
-http://iptvpro.vision-new.org:8789/live/1212/1212/10756.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 6
-http://iptvpro.vision-new.org:8789/live/1212/1212/10757.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1185.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30652.m3u8
-#EXTINF:-1,|FR| NAUTICAL CHANEL
-http://iptvpro.vision-new.org:8789/live/1212/1212/30651.m3u8
-#EXTINF:-1,|FR| TRACE SPORT STARS
-http://iptvpro.vision-new.org:8789/live/1212/1212/2698.m3u8
-#EXTINF:-1,|FR| INFOSPORT FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/245.m3u8
-#EXTINF:-1,|FR| INFOSPORT HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3756.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1511.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 HD
-http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
-#EXTINF:-1,|FR| OL TV FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2553.m3u8
-#EXTINF:-1,|FR| EXTREME SPORTS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2766.m3u8
-#EXTINF:-1,|FR| AUTOMOTO
-http://iptvpro.vision-new.org:8789/live/1212/1212/781.m3u8
-#EXTINF:-1,|FR| MOTORSPORT FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8774.m3u8
-#EXTINF:-1,|FR| MOTOR SPORT HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8773.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1892.m3u8
-#EXTINF:-1,|FR| EUROSPORT1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/142.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2516.m3u8
-#EXTINF:-1,|FR| EUROSPORT2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/87.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2578.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1925.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE
-http://iptvpro.vision-new.org:8789/live/1212/1212/1036.m3u8
-#EXTINF:-1,=====SPORT GOLF=====
-http://iptvpro.vision-new.org:8789/live/1212/1212/854.m3u8
-#EXTINF:-1,|FR| GOLF + FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2575.m3u8
-#EXTINF:-1,|FR| GOLF CHANNEL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2574.m3u8
-#EXTINF:-1,|FR| GOLF CHANNELS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/853.m3u8
-#EXTINF:-1,|FR|*****DIVERTISSEMENT*****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/138.m3u8
-#EXTINF:-1,|FR| SERIE CLUB FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1888.m3u8
-#EXTINF:-1,|FR|  SERIE CLUB HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/193.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1885.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/69.m3u8
-#EXTINF:-1,|FR| 13EME RUE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/242.m3u8
-#EXTINF:-1,|FR| 13EME  RUE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1758.m3u8
-#EXTINF:-1,|FR| SYFY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/194.m3u8
-#EXTINF:-1,|FR| SUNDANCE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2695.m3u8
-#EXTINF:-1,|FR| SUNDANCE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30647.m3u8
-#EXTINF:-1,|FR| TEVA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/189.m3u8
-#EXTINF:-1,|FR| TEVA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30648.m3u8
-#EXTINF:-1,|FR| NOVELAS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/17358.m3u8
-#EXTINF:-1,|FR| NOLLYWOOD HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13568.m3u8
-#EXTINF:-1,|FR| COMEDIE+ FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1890.m3u8
-#EXTINF:-1,|FR| COMEDIE+ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/192.m3u8
-#EXTINF:-1,|FR| MY COMEDY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23271.m3u8
-#EXTINF:-1,|FR| MY CUISINE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9678.m3u8
-#EXTINF:-1,|FR| MY CUISINE TV HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30650.m3u8
-#EXTINF:-1,|FR| E! FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1891.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINEMENT HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/289.m3u8
-#EXTINF:-1,|FR| RMC STORY FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16528.m3u8
-#EXTINF:-1,|FR| RMC STORY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/16527.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9677.m3u8
-#EXTINF:-1,|FR| COMEDY CENTRAL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3591.m3u8
-#EXTINF:-1,|FR| TF1 SERIES FILMS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1865.m3u8
-#EXTINF:-1,|FR| NRJ
-http://iptvpro.vision-new.org:8789/live/1212/1212/30653.m3u8
-#EXTINF:-1,|FR| NRJ12 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1510.m3u8
-#EXTINF:-1,|FR| NRJ12 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8532.m3u8
-#EXTINF:-1,|FR| ELLE GIRL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2580.m3u8
-#EXTINF:-1,|FR| ELLE GIRL HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/699.m3u8
-#EXTINF:-1,|FR| BET FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/449.m3u8
-#EXTINF:-1,|FR| BET HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13654.m3u8
-#EXTINF:-1,|FR| VICELAND FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8021.m3u8
-#EXTINF:-1,|FR| CHERIE 25 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/7870.m3u8
-#EXTINF:-1,|FR| CHERIE25 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/298.m3u8
-#EXTINF:-1,|FR| TF1 SÉRIES FILMS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1512.m3u8
-#EXTINF:-1,|FR|TF1 SÉRIES FILMS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/108.m3u8
-#EXTINF:-1,|FR| AB1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2546.m3u8
-#EXTINF:-1,|FR| AB1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/390.m3u8
-#EXTINF:-1,|FR| C8 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2704.m3u8
-#EXTINF:-1,|FR| C8 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1330.m3u8
-#EXTINF:-1,|FR| CSTAR FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1090.m3u8
-#EXTINF:-1,|FR| DIRECT8
-http://iptvpro.vision-new.org:8789/live/1212/1212/1091.m3u8
-#EXTINF:-1,|FR| CSTAR HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/187.m3u8
-#EXTINF:-1,|FR| WEO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2561.m3u8
-#EXTINF:-1,|FR| WEO
-http://iptvpro.vision-new.org:8789/live/1212/1212/503.m3u8
-#EXTINF:-1,|FR| TV8 MONT BLANC HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2564.m3u8
-#EXTINF:-1,|FR| RTL9 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/11327.m3u8
-#EXTINF:-1,|FR| RTL9 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/197.m3u8
-#EXTINF:-1,|FR| TFX FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1508.m3u8
-#EXTINF:-1,|FR| TFX HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/442.m3u8
-#EXTINF:-1,|FR| W9 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1507.m3u8
-#EXTINF:-1,|FR |W9 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/776.m3u8
-#EXTINF:-1,|FR| VIA GRAND PARIS
-http://iptvpro.vision-new.org:8789/live/1212/1212/1063.m3u8
-#EXTINF:-1,|FR| TV3V
-http://iptvpro.vision-new.org:8789/live/1212/1212/32187.m3u8
-#EXTINF:-1,|FR| TV5 Style
-http://iptvpro.vision-new.org:8789/live/1212/1212/32188.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/64.m3u8
-#EXTINF:-1,|FR| CARTOON NET HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/65.m3u8
-#EXTINF:-1,|FR|*****CULTURE *****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/137.m3u8
-#EXTINF:-1,|FR| PLANETE+ FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2435.m3u8
-#EXTINF:-1,|FR| PLANETE+ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/271.m3u8
-#EXTINF:-1,|FR| PLANETE CI FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2436.m3u8
-#EXTINF:-1,|FR| PLANETE CI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/246.m3u8
-#EXTINF:-1,|FR| PLANETE+ A&E FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1911.m3u8
-#EXTINF:-1,|FR| PLANETE A&E HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/247.m3u8
-#EXTINF:-1,|FR| DISCOVERY FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/269.m3u8
-#EXTINF:-1,|FR| DISCOVERY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1759.m3u8
-#EXTINF:-1,|FR| DISCOVERY SC FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1760.m3u8
-#EXTINF:-1,|FR| DISCOVERY SC HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/286.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1910.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1930.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/6814.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10806.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2550.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/285.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/143.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1909.m3u8
-#EXTINF:-1,|FR| SCIENCE&VIE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/288.m3u8
-#EXTINF:-1,|FR| SCIENCES & VIE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/30649.m3u8
-#EXTINF:-1,|FR| ANIMAUX FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2548.m3u8
-#EXTINF:-1,|FR| ANIMAUX HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/33.m3u8
-#EXTINF:-1,|FR| USHUAIA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/272.m3u8
-#EXTINF:-1,|FR| USHUAIA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1075.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/310.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2994.m3u8
-#EXTINF:-1,|FR| VOYAGE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2563.m3u8
-#EXTINF:-1,|FR| VOYAGE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/458.m3u8
-#EXTINF:-1,|FR| TREK FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2567.m3u8
-#EXTINF:-1,|FR| TREK HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/389.m3u8
-#EXTINF:-1,|FR| CHASSE&PECHE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/287.m3u8
-#EXTINF:-1,|FR| CHASSE&PECHE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3471.m3u8
-#EXTINF:-1,|FR| SEASON FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/703.m3u8
-#EXTINF:-1,|FR| SEASON HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1921.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2560.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/152.m3u8
-#EXTINF:-1,|FR| MUSEUM FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8022.m3u8
-#EXTINF:-1,|FR| HISTOIRE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2573.m3u8
-#EXTINF:-1,|FR| HISTOIRE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/306.m3u8
-#EXTINF:-1,|FR| TOUTE.L'HISTOIRE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2562.m3u8
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/296.m3u8
-#EXTINF:-1,|FR|*****FRANCE INFO*****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/8521.m3u8
-#EXTINF:-1,|FR| LA CHAINE METEO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9680.m3u8
-#EXTINF:-1,|FR| EURONEWS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/300.m3u8
-#EXTINF:-1,|FR| FRANCE 24 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/162.m3u8
-#EXTINF:-1,|FR| BFM FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1097.m3u8
-#EXTINF:-1,|FR| BFM TV HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/155.m3u8
-#EXTINF:-1,|FR| BFM BUISINESS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1045.m3u8
-#EXTINF:-1,|FR| BFM BUISINESS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23410.m3u8
-#EXTINF:-1,|FR| BFM PARIS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1064.m3u8
-#EXTINF:-1,|FR| LCI FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2734.m3u8
-#EXTINF:-1,|FR| LCI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1042.m3u8
-#EXTINF:-1,|FR| LCP FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2572.m3u8
-#EXTINF:-1,|FR| LCP100%
-http://iptvpro.vision-new.org:8789/live/1212/1212/1046.m3u8
-#EXTINF:-1,|FR| CNEWS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/186.m3u8
-#EXTINF:-1,|FR| CNEWS HD +1
-http://iptvpro.vision-new.org:8789/live/1212/1212/14902.m3u8
-#EXTINF:-1,|FR| FRANCE INFO HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2577.m3u8
-#EXTINF:-1,|FR| FRANCE INFO FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1917.m3u8
-#EXTINF:-1,|FR| TV5 MONDE FBS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2565.m3u8
-#EXTINF:-1,|FR| TV5 EUROPE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/309.m3u8
-#EXTINF:-1,|FR| i24 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/4035.m3u8
-#EXTINF:-1,|FR| i24 NEWS
-http://iptvpro.vision-new.org:8789/live/1212/1212/1050.m3u8
-#EXTINF:-1,|FR|*****MUSIC*****|FR|
-http://iptvpro.vision-new.org:8789/live/1212/1212/268.m3u8
-#EXTINF:-1,|FR| M6 MUSIC FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2571.m3u8
-#EXTINF:-1,|FR| TRACE URBAN FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2568.m3u8
-#EXTINF:-1,|FR| TRACE URBAN HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1918.m3u8
-#EXTINF:-1,|FR| TRACE TROPICAL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8024.m3u8
-#EXTINF:-1,|FR| TRACE AFRICA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8020.m3u8
-#EXTINF:-1,|FR| TRACE NAIJA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8057.m3u8
-#EXTINF:-1,|FR| TRACE TOCA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8056.m3u8
-#EXTINF:-1,|FR| TRACE GOSPEL FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8058.m3u8
-#EXTINF:-1,|FR| TRACE MZIKI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8059.m3u8
-#EXTINF:-1,|FR| BBLACK AFRICA
-http://iptvpro.vision-new.org:8789/live/1212/1212/8051.m3u8
-#EXTINF:-1,|FR| BBLACK CARIBBEAN
-http://iptvpro.vision-new.org:8789/live/1212/1212/8050.m3u8
-#EXTINF:-1,|FR| BBLACK CLASSIK
-http://iptvpro.vision-new.org:8789/live/1212/1212/8052.m3u8
-#EXTINF:-1,|FR| MTV HITS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2547.m3u8
-#EXTINF:-1,|FR| MTV MUSIC
-http://iptvpro.vision-new.org:8789/live/1212/1212/265.m3u8
-#EXTINF:-1,|FR| MTV LIVE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/412.m3u8
-#EXTINF:-1,|FR| MTV BASE
-http://iptvpro.vision-new.org:8789/live/1212/1212/266.m3u8
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/267.m3u8
-#EXTINF:-1,|FR| MCM FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2569.m3u8
-#EXTINF:-1,|FR| MCM HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2993.m3u8
-#EXTINF:-1,|FR| MCM
-http://iptvpro.vision-new.org:8789/live/1212/1212/1037.m3u8
-#EXTINF:-1,|FR| MCM TOP FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/992.m3u8
-#EXTINF:-1,|FR| MCM TOP HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10100.m3u8
-#EXTINF:-1,|FR| RFM TV FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/7916.m3u8
-#EXTINF:-1,|FR| RFM HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1922.m3u8
-#EXTINF:-1,|FR| NRJ12 HITS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1344.m3u8
-#EXTINF:-1,|FR| OKLM FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13570.m3u8
-#EXTINF:-1,|FR| MEZZO HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2995.m3u8
-#EXTINF:-1,|FR| MEZZO LIVE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/4034.m3u8
-#EXTINF:-1,|FR| VH1
-http://iptvpro.vision-new.org:8789/live/1212/1212/2794.m3u8
-#EXTINF:-1,|FR| VH1 CASSIC
-http://iptvpro.vision-new.org:8789/live/1212/1212/2792.m3u8
-#EXTINF:-1,|FR| MELDOY  TV
-http://iptvpro.vision-new.org:8789/live/1212/1212/10572.m3u8
-#EXTINF:-1,|FR| BRAVA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/314.m3u8
-#EXTINF:-1,|FR| DJAZZ TV
-http://iptvpro.vision-new.org:8789/live/1212/1212/716.m3u8
-#EXTINF:-1,|FR| TELESUD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1101.m3u8
+#EXTINF:-1,|FR| TF1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39476.m3u8
+#EXTINF:-1,|FR| TF1  1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39475.m3u8
+#EXTINF:-1,|FR| FRANCE 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39474.m3u8
+#EXTINF:-1,|FR| FRANCE 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39473.m3u8
+#EXTINF:-1,|FR| FRANCE 4 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39472.m3u8
+#EXTINF:-1,|FR| FRANCE 5 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39471.m3u8
+#EXTINF:-1,|FR| M6 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39470.m3u8
+#EXTINF:-1,|FR| ARTE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39469.m3u8
+#EXTINF:-1,|FR| CANAL +  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39442.m3u8
+#EXTINF:-1,|FR| CANAL  CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39441.m3u8
+#EXTINF:-1,|FR| CANAL  SPORT (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39437.m3u8
+#EXTINF:-1,|FR| CANAL  SERIES (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39438.m3u8
+#EXTINF:-1,|FR| CANAL  FAMILY (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39439.m3u8
+#EXTINF:-1,|FR| CANAL  DECALE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39440.m3u8
+#EXTINF:-1,|FR| CINE  PREMIER (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39436.m3u8
+#EXTINF:-1,|FR| CINE  FRISSON (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39433.m3u8
+#EXTINF:-1,|FR| CINE  EMOTION (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39435.m3u8
+#EXTINF:-1,|FR| CINE  FAMIZ (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39434.m3u8
+#EXTINF:-1,|FR| CINE  CLUB (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39432.m3u8
+#EXTINF:-1,|FR| CINE  CLASSIC (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39431.m3u8
+#EXTINF:-1,|FR| OCS MAX (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39422.m3u8
+#EXTINF:-1,|FR| OCS CITY (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39424.m3u8
+#EXTINF:-1,|FR| OCS CHOC (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39423.m3u8
+#EXTINF:-1,|FR| OCS GEANTS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39425.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39524.m3u8
+#EXTINF:-1,|FR| TCM CINEMA (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39428.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39427.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39430.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39536.m3u8
+#EXTINF:-1,|FR| COMEDIE  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39418.m3u8
+#EXTINF:-1,|FR| POLAR  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39421.m3u8
+#EXTINF:-1,|FR| 13EME RUE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39419.m3u8
+#EXTINF:-1,|FR| WARNER TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39429.m3u8
+#EXTINF:-1,|FR| SYFY (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39412.m3u8
+#EXTINF:-1,|FR| SERIE CLUB (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39414.m3u8
+#EXTINF:-1,|FR| ELLE GIRLS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39546.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39543.m3u8
+#EXTINF:-1,|FR| NOVELAS TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39541.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39545.m3u8
+#EXTINF:-1,|FR| GAME ONE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39505.m3u8
+#EXTINF:-1,|FR| J-ONE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39506.m3u8
+#EXTINF:-1,|FR| MANGAS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39507.m3u8
+#EXTINF:-1,|FR| AB1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39411.m3u8
+#EXTINF:-1,|FR| AB3 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39410.m3u8
+#EXTINF:-1,|FR| TV BREIZH (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39548.m3u8
+#EXTINF:-1,|FR| TEVA (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39413.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39416.m3u8
+#EXTINF:-1,|FR| RTL9 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39415.m3u8
+#EXTINF:-1,|FR| BET (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39547.m3u8
+#EXTINF:-1,|FR| C8 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39468.m3u8
+#EXTINF:-1,|FR| W9 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39467.m3u8
+#EXTINF:-1,|FR| TMC (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39466.m3u8
+#EXTINF:-1,|FR| TFX (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39464.m3u8
+#EXTINF:-1,|FR| NRJ 12 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39463.m3u8
+#EXTINF:-1,|FR| CSTAR (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39448.m3u8
+#EXTINF:-1,|FR| TF1 SERIES / FILMS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39449.m3u8
+#EXTINF:-1,|FR| 6TER (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39446.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39444.m3u8
+#EXTINF:-1,|FR| CHERIE 25 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39443.m3u8
+#EXTINF:-1,|FR| MYZEN TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39487.m3u8
+#EXTINF:-1,|FR| PLANETE  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39539.m3u8
+#EXTINF:-1,|FR| PLANETE  CI (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39537.m3u8
+#EXTINF:-1,|FR| PLANETE+  A&E (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39538.m3u8
+#EXTINF:-1,|FR| VICELAND TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39542.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39530.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39529.m3u8
+#EXTINF:-1,|FR| DISCOVERY CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39535.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCES (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39532.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39534.m3u8
+#EXTINF:-1,|FR| MY CUISINE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39540.m3u8
+#EXTINF:-1,|FR| USHUAIA TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39531.m3u8
+#EXTINF:-1,|FR| HISTOIRE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39527.m3u8
+#EXTINF:-1,|FR| SCIENCE & VIE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39528.m3u8
+#EXTINF:-1,|FR| ANIMAUX (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39526.m3u8
+#EXTINF:-1,|FR| AEROSTAR.TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39488.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39462.m3u8
+#EXTINF:-1,|FR| CNEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39455.m3u8
+#EXTINF:-1,|FR| BFM TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39461.m3u8
+#EXTINF:-1,|FR| LCI (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39458.m3u8
+#EXTINF:-1,|FR| FRANCE INFO (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39457.m3u8
+#EXTINF:-1,|FR| EURONEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39456.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39459.m3u8
+#EXTINF:-1,|FR| RMC NEWS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39504.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39503.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39502.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39501.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39500.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39499.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2(SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39498.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39497.m3u8
+#EXTINF:-1,|FR| INFOSPORT  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39496.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39494.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39493.m3u8
+#EXTINF:-1,|FR| AUTOMOTO LA CHAINE (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39490.m3u8
+#EXTINF:-1,|FR| EQUIDIA (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39492.m3u8
+#EXTINF:-1,|FR| GOLF  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39489.m3u8
+#EXTINF:-1,|FR| FOOT  24/24 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39491.m3u8
+#EXTINF:-1,|FR| BABY TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39517.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39523.m3u8
+#EXTINF:-1,|FR| PIWI  (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39515.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39519.m3u8
+#EXTINF:-1,|FR| TIJI (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39514.m3u8
+#EXTINF:-1,|FR| BOOMERANG (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39510.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39508.m3u8
+#EXTINF:-1,|FR| NICKELODEON CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39521.m3u8
+#EXTINF:-1,|FR| TELETOON  1 (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39512.m3u8
+#EXTINF:-1,|FR| TELETOON (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39513.m3u8
+#EXTINF:-1,|FR| DISNEY XD (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39522.m3u8
+#EXTINF:-1,|FR| CANAL J (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39518.m3u8
+#EXTINF:-1,|FR| BOING (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39511.m3u8
+#EXTINF:-1,|FR| TOONAMI (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39509.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39520.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39525.m3u8
+#EXTINF:-1,|FR| GULLI (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39516.m3u8
+#EXTINF:-1,|FR| OKLM TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39480.m3u8
+#EXTINF:-1,|FR| CLIQUE TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39484.m3u8
+#EXTINF:-1,|FR| CSTAR HITS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39447.m3u8
+#EXTINF:-1,|FR| MTV HITS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39485.m3u8
+#EXTINF:-1,|FR| M6 MUSIC (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39481.m3u8
+#EXTINF:-1,|FR| NRJ HITS TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39479.m3u8
+#EXTINF:-1,|FR| TRACE URBAN (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39482.m3u8
+#EXTINF:-1,|FR| MELODY TV (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39478.m3u8
+#EXTINF:-1,|FR| VIA GRAND PARIS (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39452.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL (SD)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39483.m3u8
+#EXTINF:-1,|FR| BOOBA TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/35036.m3u8
+#EXTINF:-1,|FR| ChuChu TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38527.m3u8
 #EXTINF:-1,|FR| TF1 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29775.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47474.m3u8
 #EXTINF:-1,|FR| FRANCE 2 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29776.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47475.m3u8
 #EXTINF:-1,|FR| FRANCE 3 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29777.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47476.m3u8
 #EXTINF:-1,|FR| FRANCE4 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29778.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47477.m3u8
 #EXTINF:-1,|FR| FRANCE5 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29779.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47478.m3u8
 #EXTINF:-1,|FR| FRANCEO |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29780.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47487.m3u8
 #EXTINF:-1,|FR| M6 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29781.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47479.m3u8
 #EXTINF:-1,|FR| 6TER |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29782.m3u8
-#EXTINF:-1,|FR| RTL9 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29783.m3u8
-#EXTINF:-1,|FR| ARTE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29784.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47495.m3u8
 #EXTINF:-1,|FR| W9 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29785.m3u8
-#EXTINF:-1,|FR| C8 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29786.m3u8
-#EXTINF:-1,|FR| CSTAR |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29787.m3u8
-#EXTINF:-1,|FR| TMC |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29788.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47481.m3u8
 #EXTINF:-1,|FR| NRJ12 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29789.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47491.m3u8
 #EXTINF:-1,|FR| TFX |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29790.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47492.m3u8
 #EXTINF:-1,|FR| TF1 SERIES FILMS |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29791.m3u8
-#EXTINF:-1,|FR| TEVA |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29792.m3u8
-#EXTINF:-1,|FR| MY CUISINE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29793.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29794.m3u8
-#EXTINF:-1,|FR| CNEWS |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29795.m3u8
-#EXTINF:-1,|FR| LCI |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29796.m3u8
-#EXTINF:-1,|FR| BFMTV |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29797.m3u8
-#EXTINF:-1,|FR| LCP |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29798.m3u8
-#EXTINF:-1,|FR| BFM PARIS |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29799.m3u8
-#EXTINF:-1,|FR| CANAL CINEMA |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29800.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47493.m3u8
+#EXTINF:-1,|FR| C8 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47482.m3u8
+#EXTINF:-1,|FR| CSTAR |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47484.m3u8
+#EXTINF:-1,|FR| TMC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47494.m3u8
+#EXTINF:-1,|FR| ARTE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47480.m3u8
 #EXTINF:-1,|FR| CANAL |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29801.m3u8
-#EXTINF:-1,|FR| CANAL SERIES |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29802.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47507.m3u8
+#EXTINF:-1,|FR| CANAL CINEMA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47506.m3u8
 #EXTINF:-1,|FR| CANAL FAMILY |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29803.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47514.m3u8
 #EXTINF:-1,|FR| CANAL DECALE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29804.m3u8
-#EXTINF:-1,|FR| CINE FRISSON |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29805.m3u8
-#EXTINF:-1,|FR| BOOMERANG |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29806.m3u8
-#EXTINF:-1,|FR| ACTION |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29807.m3u8
-#EXTINF:-1,|FR| CINE EMOTION |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29808.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47515.m3u8
+#EXTINF:-1,|FR| CANAL SERIES |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47508.m3u8
 #EXTINF:-1,|FR| CINE PREMIER |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29809.m3u8
-#EXTINF:-1,|FR| OCS MAX |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29810.m3u8
-#EXTINF:-1,|FR| OCS CITY |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29811.m3u8
-#EXTINF:-1,|FR| OCS GEANTS |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29812.m3u8
-#EXTINF:-1,|FR| OCS CHOC |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29813.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47520.m3u8
+#EXTINF:-1,|FR| CINE EMOTION |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47519.m3u8
 #EXTINF:-1,|FR| CINE FAMIZ |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29814.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47532.m3u8
 #EXTINF:-1,|FR| CINE CLASSIC |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29815.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29816.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47533.m3u8
+#EXTINF:-1,|FR| CINE FRISSON |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47516.m3u8
+#EXTINF:-1,|FR| OCS MAX |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47528.m3u8
+#EXTINF:-1,|FR| OCS CITY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47529.m3u8
+#EXTINF:-1,|FR| OCS CHOC |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47531.m3u8
+#EXTINF:-1,|FR| OCS GEANTS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47530.m3u8
+#EXTINF:-1,|FR| ACTION |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47518.m3u8
 #EXTINF:-1,|FR| WARNER TV |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29817.m3u8
-#EXTINF:-1,|FR| CANAL SPORT |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29818.m3u8
-#EXTINF:-1,|FR| BEIN 1 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29819.m3u8
-#EXTINF:-1,|FR| BEIN 2 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29820.m3u8
-#EXTINF:-1,|FR| BEIN 3 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29821.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47546.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47545.m3u8
+#EXTINF:-1,|FR| RTL9 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47496.m3u8
+#EXTINF:-1,|FR| TEVA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47521.m3u8
+#EXTINF:-1,|FR| MY CUISINE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47522.m3u8
 #EXTINF:-1,|FR| RMC SPORT1 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29822.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47502.m3u8
 #EXTINF:-1,|FR| RMC SPORT2 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29823.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47503.m3u8
 #EXTINF:-1,|FR| RMC SPORT3 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29824.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47504.m3u8
 #EXTINF:-1,|FR| RMC SPORT4 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29825.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47505.m3u8
+#EXTINF:-1,|FR| BEIN 1 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47499.m3u8
+#EXTINF:-1,|FR| BEIN 2 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47500.m3u8
+#EXTINF:-1,|FR| BEIN 3 |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47501.m3u8
+#EXTINF:-1,|FR| CANAL SPORT |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47509.m3u8
 #EXTINF:-1,|FR| L'EQUIPE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29826.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47489.m3u8
 #EXTINF:-1,|FR| EQUIDIA |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29827.m3u8
-#EXTINF:-1,|FR| EUROSPORT |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29828.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47527.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1  |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47548.m3u8
 #EXTINF:-1,|FR| EUROSPORT2 |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29829.m3u8
-#EXTINF:-1,|FR| RMC STORY |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29830.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29831.m3u8
-#EXTINF:-1,|FR| ANIMAUX |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29832.m3u8
-#EXTINF:-1,|FR| NAT GEO WILD |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29833.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO CHANNEL |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29834.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47549.m3u8
 #EXTINF:-1,|FR| PLANETE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29835.m3u8
-#EXTINF:-1,|FR| DISCOVERY |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29836.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29837.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29838.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVES |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29839.m3u8
-#EXTINF:-1,|FR| USHUAIA |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29840.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47534.m3u8
 #EXTINF:-1,|FR| PLANETE+A&E |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29841.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47541.m3u8
 #EXTINF:-1,|FR| PLANETE + CI |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29842.m3u8
-#EXTINF:-1,|FR| CHASSE & PECHE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29843.m3u8
-#EXTINF:-1,|FR| SCIENCES&VIE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29844.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47542.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO CHANNEL |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47523.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47511.m3u8
+#EXTINF:-1,|FR| DISCOVERY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47535.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47536.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47537.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVES |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47538.m3u8
+#EXTINF:-1,|FR| USHUAIA |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47540.m3u8
 #EXTINF:-1,|FR| TOUTE L HISTOIRE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29845.m3u8
-#EXTINF:-1,|FR| CARTOON N |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29846.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47490.m3u8
+#EXTINF:-1,|FR| SCIENCES&VIE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47544.m3u8
+#EXTINF:-1,|FR| RMC STORY |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47497.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47498.m3u8
+#EXTINF:-1,|FR| ANIMAUX |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47510.m3u8
+#EXTINF:-1,|FR| CHASSE & PECHE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47543.m3u8
 #EXTINF:-1,|FR| DISNEY CHANNEL |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29847.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47524.m3u8
 #EXTINF:-1,|FR| DISNEY JUNIOR |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29848.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47525.m3u8
 #EXTINF:-1,|FR| CANALJ |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29849.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47539.m3u8
 #EXTINF:-1,|FR| NICK JUNIOR |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29850.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4TEEN |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29851.m3u8
-#EXTINF:-1,|FR| NICKELODEON |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29852.m3u8
-#EXTINF:-1,|FR| GAME ONE |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29853.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47550.m3u8
+#EXTINF:-1,|FR| BOOMERANG |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47517.m3u8
+#EXTINF:-1,|FR| CARTOON N |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47513.m3u8
 #EXTINF:-1,|FR| GULLI |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29854.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47488.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4TEEN |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47551.m3u8
+#EXTINF:-1,|FR| NICKELODEON |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47552.m3u8
+#EXTINF:-1,|FR| GAME ONE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47553.m3u8
+#EXTINF:-1,|FR| BFM PARIS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47554.m3u8
+#EXTINF:-1,|FR| LCI |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47485.m3u8
+#EXTINF:-1,|FR| CNEWS |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47483.m3u8
+#EXTINF:-1,|FR| LCP |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47473.m3u8
+#EXTINF:-1,|FR| BFMTV |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47486.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE |HEVC|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47547.m3u8
 #EXTINF:-1,|FR| M6 MUSIC |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29855.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47512.m3u8
 #EXTINF:-1,|FR| MCM TOP |HEVC|
-http://iptvpro.vision-new.org:8789/live/1212/1212/29856.m3u8
-#EXTINF:-1,|FR| GONG
-http://iptvpro.vision-new.org:8789/live/1212/1212/248.m3u8
-#EXTINF:-1,|FR| DISNEY CHA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/198.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1621.m3u8
-#EXTINF:-1,|FR| DISNEY CHA SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1040.m3u8
-#EXTINF:-1,|FR| DISNEY CHA+1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/88.m3u8
-#EXTINF:-1,|FR| DISNEY CHA+1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1041.m3u8
-#EXTINF:-1,|FR| DISNEY XD FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2461.m3u8
-#EXTINF:-1,|FR| DISNEY XD HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/532.m3u8
-#EXTINF:-1,|FR| DISNEY XD SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23299.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1883.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23298.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/453.m3u8
-#EXTINF:-1,|FR| NICKELODEON FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2545.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2581.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23297.m3u8
-#EXTINF:-1,|FR| NICKELODEON HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/181.m3u8
-#EXTINF:-1,|FR| NICKELODEON CHANNEL SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23321.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUN FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2549.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUN HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13650.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23322.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2334.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4 TEEN SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23320.m3u8
-#EXTINF:-1,|FR| TOONAMI FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3162.m3u8
-#EXTINF:-1,|FR| TOONAMI SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23345.m3u8
-#EXTINF:-1,|FR| TELETOON+1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2460.m3u8
-#EXTINF:-1,|FR| TELETOON+ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1912.m3u8
-#EXTINF:-1,|FR| TELETOON 1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23341.m3u8
-#EXTINF:-1,|FR| TELETOON+FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/994.m3u8
-#EXTINF:-1,|FR| TELETOON SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23340.m3u8
-#EXTINF:-1,|FR| PIWI+ FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1625.m3u8
-#EXTINF:-1,|FR| PIWI+ HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/249.m3u8
-#EXTINF:-1,|FR| PIWI+ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23330.m3u8
-#EXTINF:-1,|FR| BABY TV FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/748.m3u8
-#EXTINF:-1,|FR| BABY TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23278.m3u8
-#EXTINF:-1,|FR| ZOUZOUS
-http://iptvpro.vision-new.org:8789/live/1212/1212/777.m3u8
-#EXTINF:-1,|FR| CANAL J FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2556.m3u8
-#EXTINF:-1,|FR| CANAL J  HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/454.m3u8
-#EXTINF:-1,|FR| CANAL J HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1928.m3u8
-#EXTINF:-1,|FR| CANAL J SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23286.m3u8
-#EXTINF:-1,|FR| TIJI FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/456.m3u8
-#EXTINF:-1,|FR| TIJI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1622.m3u8
-#EXTINF:-1,|FR| TIJI SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23343.m3u8
-#EXTINF:-1,|FR| BOOMERANG FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/63.m3u8
-#EXTINF:-1,|FR| BOOMERANG HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2657.m3u8
-#EXTINF:-1,|FR| BOiNG FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/794.m3u8
-#EXTINF:-1,|FR| CARTOON NET FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2558.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23287.m3u8
-#EXTINF:-1,|FR| GAME ONE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2576.m3u8
-#EXTINF:-1,|FR| GAMEONE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1924.m3u8
-#EXTINF:-1,|FR|BOiNG HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1034.m3u8
-#EXTINF:-1,|FR| GAME ONE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23306.m3u8
-#EXTINF:-1,|FR| GAME ONE+1
-http://iptvpro.vision-new.org:8789/live/1212/1212/9683.m3u8
-#EXTINF:-1,|FR| J ONE FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/284.m3u8
-#EXTINF:-1,|FR| J ONE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13653.m3u8
-#EXTINF:-1,|FR| J-ONE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23310.m3u8
-#EXTINF:-1,|FR| GULLI FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/297.m3u8
-#EXTINF:-1,|FR| GULLI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2996.m3u8
-#EXTINF:-1,|FR| GULLI SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1020.m3u8
-#EXTINF:-1,|FR| BOING SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23282.m3u8
-#EXTINF:-1,|FR| BOOMERANG SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23283.m3u8
-#EXTINF:-1,|FR| MANGAS FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2570.m3u8
-#EXTINF:-1,|FR| MANGAS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/66.m3u8
-#EXTINF:-1,|FR| MANGAS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23314.m3u8
-#EXTINF:-1,|FR| DISNEY ORANGE 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/1639.m3u8
-#EXTINF:-1,====Dessins-Animés-24/24====
-http://iptvpro.vision-new.org:8789/live/1212/1212/6712.m3u8
-#EXTINF:-1,|FR| PEPPA PIG
-http://iptvpro.vision-new.org:8789/live/1212/1212/6700.m3u8
-#EXTINF:-1,|FR| DISNEYS CARTOON CLASSIC
-http://iptvpro.vision-new.org:8789/live/1212/1212/6713.m3u8
-#EXTINF:-1,|FR| MILA MILA
-http://iptvpro.vision-new.org:8789/live/1212/1212/6736.m3u8
-#EXTINF:-1,|FR| TOM ET JERRY (LIVE)
-http://iptvpro.vision-new.org:8789/live/1212/1212/6757.m3u8
-#EXTINF:-1,|FR| MASHA ET MICHKA
-http://iptvpro.vision-new.org:8789/live/1212/1212/7185.m3u8
-#EXTINF:-1,|FR| lapin crètin
-http://iptvpro.vision-new.org:8789/live/1212/1212/7258.m3u8
-#EXTINF:-1,|FR| TF1 SD
-http://iptv1.premium-stv.com:8000/live/canalplussports/fPhsc2M3KO/70.ts
-#EXTINF:-1,|FR| TF1 1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23342.m3u8
-#EXTINF:-1,|FR| FRANCE2 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1007.m3u8
-#EXTINF:-1,|FR| FRANCE3 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1008.m3u8
-#EXTINF:-1,|FR| FRANCE4 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1009.m3u8
-#EXTINF:-1,|FR| FRANCE5 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1013.m3u8
-#EXTINF:-1,|FR| FRANCE O SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1021.m3u8
-#EXTINF:-1,|FR| M6 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/90.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1030.m3u8
-#EXTINF:-1,|FR| TMC SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1014.m3u8
-#EXTINF:-1,|FR| TMC  1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23344.m3u8
-#EXTINF:-1,|FR| TV BREIZH SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1032.m3u8
-#EXTINF:-1,|FR| 6TER SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1024.m3u8
-#EXTINF:-1,|FR| ARTE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/426.m3u8
-#EXTINF:-1,|FR| IDF SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23308.m3u8
-#EXTINF:-1,|FR| CANAL+ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13675.m3u8
-#EXTINF:-1,|FR| CANAL+ DECALE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13676.m3u8
-#EXTINF:-1,|FR| CANAL+ FAMILY SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13678.m3u8
-#EXTINF:-1,|FR| CANAL+ CINEMA SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13677.m3u8
-#EXTINF:-1,|FR| OCS MAX SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23231.m3u8
-#EXTINF:-1,|FR| OCS GEANTS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23232.m3u8
-#EXTINF:-1,|FR| OCS CITY SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23327.m3u8
-#EXTINF:-1,|FR| OCS CHOC SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23233.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13660.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13659.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13657.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13658.m3u8
-#EXTINF:-1,|FR| ACTION SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14834.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13656.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13655.m3u8
-#EXTINF:-1,|FR| WARNER BROS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23238.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23275.m3u8
-#EXTINF:-1,|FR| POLAR+ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23240.m3u8
-#EXTINF:-1,|FR| TCM SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13665.m3u8
-#EXTINF:-1,|FR| PARAMOUNT DECALE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23329.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13668.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23255.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23256.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 SD
-http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
-#EXTINF:-1,|FR| RMC SPORT 4 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23258.m3u8
-#EXTINF:-1,|FR| FOOT+24/24 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/425.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23259.m3u8
-#EXTINF:-1,|FR| beINSPORT 1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/92.m3u8
-#EXTINF:-1,|FR| beINSPORT 2 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/93.m3u8
-#EXTINF:-1,|FR| beINSPORT 3 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/94.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23260.m3u8
-#EXTINF:-1,|FR| INFOSPORT SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23309.m3u8
-#EXTINF:-1,|FR| EQUIPE 21 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1023.m3u8
-#EXTINF:-1,|FR| AUTOMOTO   SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1035.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23303.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23304.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23301.m3u8
-#EXTINF:-1,|FR| GOLF+ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/859.m3u8
-#EXTINF:-1,|FR| SERIE CLUB SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3768.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23261.m3u8
-#EXTINF:-1,|FR| CANAL SERIES SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23285.m3u8
-#EXTINF:-1,|FR| 13EME RUE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23263.m3u8
-#EXTINF:-1,|FR| SYFY SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23264.m3u8
-#EXTINF:-1,|FR| SUNDANCE CHANNEL SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/13666.m3u8
-#EXTINF:-1,|FR| TEVA SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1031.m3u8
-#EXTINF:-1,|FR| AB1 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23273.m3u8
-#EXTINF:-1,|FR| AB3 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23274.m3u8
-#EXTINF:-1,|FR| NOVELAS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23239.m3u8
-#EXTINF:-1,|FR| COMEDIE+ SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23270.m3u8
-#EXTINF:-1,|FR| COMEDY CENTRAL FRANCE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23289.m3u8
-#EXTINF:-1,|FR| MY CUISINE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23272.m3u8
-#EXTINF:-1,|FR| MYZEN TV SDMY
-http://iptvpro.vision-new.org:8789/live/1212/1212/23317.m3u8
-#EXTINF:-1,|FR| E! SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/3771.m3u8
-#EXTINF:-1,|FR| ONE TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23328.m3u8
-#EXTINF:-1,|FR| RMC STORY SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23336.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23323.m3u8
-#EXTINF:-1,|FR| CLIQUE TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23288.m3u8
-#EXTINF:-1,|FR| GRAND LILLE TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23307.m3u8
-#EXTINF:-1,|FR| NRJ12 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1019.m3u8
-#EXTINF:-1,|FR| ELLE GIRLS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23300.m3u8
-#EXTINF:-1,|FR| BET SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23279.m3u8
-#EXTINF:-1,|FR| VICELAND TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23350.m3u8
-#EXTINF:-1,|FR| CHERIE 25 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1027.m3u8
-#EXTINF:-1,|FR| VIA GRAND PARIS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23349.m3u8
-#EXTINF:-1,|FR| TF1 SÉRIES FILMS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1022.m3u8
-#EXTINF:-1,|FR| C8 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/188.m3u8
-#EXTINF:-1,|FR| CSTAR SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23291.m3u8
-#EXTINF:-1,|FR| WEO SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23352.m3u8
-#EXTINF:-1,|FR| RTL9 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1029.m3u8
-#EXTINF:-1,|FR| TFX SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1015.m3u8
-#EXTINF:-1,|FR| W9 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/421.m3u8
-#EXTINF:-1,|FR| PLANETE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23331.m3u8
-#EXTINF:-1,|FR| PLANETE  CI SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23333.m3u8
-#EXTINF:-1,|FR| PLANETE  A&E SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23332.m3u8
-#EXTINF:-1,|FR| DISCOVERY CHANNEL SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23293.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCES SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23296.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATIONS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23295.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23294.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23318.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23319.m3u8
-#EXTINF:-1,|FR| SCIENCE & VIE TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23337.m3u8
-#EXTINF:-1,|FR| ANIMAUX SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23276.m3u8
-#EXTINF:-1,|FR| USHUAIA SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1055.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23334.m3u8
-#EXTINF:-1,|FR| VOYAGE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23365.m3u8
-#EXTINF:-1,|FR| TREK SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23366.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23290.m3u8
-#EXTINF:-1,|FR| HISTOIRE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1056.m3u8
-#EXTINF:-1,|FR| LA CHAINE METEO SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23311.m3u8
-#EXTINF:-1,|FR| EURONEWS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23302.m3u8
-#EXTINF:-1,|FR| FRANCE 24 SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23404.m3u8
-#EXTINF:-1,|FR| BFM TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/424.m3u8
-#EXTINF:-1,|FR| BFM BUSINESS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23280.m3u8
-#EXTINF:-1,|FR| BFM PARIS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23281.m3u8
-#EXTINF:-1,|FR| LCI SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23313.m3u8
-#EXTINF:-1,|FR| LA CHAINE PARLEMENTAIRE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23312.m3u8
-#EXTINF:-1,|FR| LCP SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1016.m3u8
-#EXTINF:-1,|FR| CNEWS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1017.m3u8
-#EXTINF:-1,|FR| FRANCE INFO SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23305.m3u8
-#EXTINF:-1,|FR| M6 MUSIC SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1033.m3u8
-#EXTINF:-1,|FR| TRACE URBAN SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23347.m3u8
-#EXTINF:-1,|FR| TRACE TROPICAL SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23346.m3u8
-#EXTINF:-1,|FR| MTV FRANCE SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23316.m3u8
-#EXTINF:-1,|FR| NRJ HITS TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23326.m3u8
-#EXTINF:-1,|FR| CSTAR HITS SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23292.m3u8
-#EXTINF:-1,|FR| MELODY TV SD
-http://iptvpro.vision-new.org:8789/live/1212/1212/23315.m3u8
-#EXTINF:-1,|BE| *****BELGIQUE***** |BE|
-http://iptvpro.vision-new.org:8789/live/1212/1212/10181.m3u8
-#EXTINF:-1,|BE| LA UNE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/277.m3u8
-#EXTINF:-1,|BE| LA DEUX HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/278.m3u8
-#EXTINF:-1,|BE| LA TROIS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/279.m3u8
-#EXTINF:-1,|BE| CLUB RTL
-http://iptvpro.vision-new.org:8789/live/1212/1212/293.m3u8
-#EXTINF:-1,|BE| PLUG RTL HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1053.m3u8
-#EXTINF:-1,|BE| RTL TVI FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1889
-#EXTINF:-1,|BE| RTL TVI HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/380.m3u8
-#EXTINF:-1,|BE| LN24
-http://iptvpro.vision-new.org:8789/live/1212/1212/32186.m3u8
-#EXTINF:-1,|BE| AB1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10183.m3u8
-#EXTINF:-1,|BE| AB3 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10182.m3u8
-#EXTINF:-1,|BE| AB3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/785.m3u8
-#EXTINF:-1,|BE| AB XPLORE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/14131.m3u8
-#EXTINF:-1,|BE| CINE HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1864
-#EXTINF:-1,|BE| 2BE HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1850.m3u8
-#EXTINF:-1,|BE| ZES
-http://iptvpro.vision-new.org:8789/live/1212/1212/10160.m3u8
-#EXTINF:-1,|BE| TELE BRUXELLES
-http://iptvpro.vision-new.org:8789/live/1212/1212/7735.m3u8
-#EXTINF:-1,|BE| NO TELE
-http://iptvpro.vision-new.org:8789/live/1212/1212/7772.m3u8
-#EXTINF:-1,|BE| BX1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/7773.m3u8
-#EXTINF:-1,|BE| TVCom
-http://iptvpro.vision-new.org:8789/live/1212/1212/32189.m3u8
-#EXTINF:-1,|BE| Télé MB
-http://iptvpro.vision-new.org:8789/live/1212/1212/32190.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47526.m3u8
 #EXTINF:-1,|BE| RTL LUXEMBURG
-http://iptvpro.vision-new.org:8789/live/1212/1212/10165.m3u8
-#EXTINF:-1,|BE| CHAMBER TV
-http://iptvpro.vision-new.org:8789/live/1212/1212/1854.m3u8
-#EXTINF:-1,|BE| RTL LUXEMBOURG
-http://iptvpro.vision-new.org:8789/live/1212/1212/7775.m3u8
-#EXTINF:-1,|BE| VEDIA
-http://iptvpro.vision-new.org:8789/live/1212/1212/7764.m3u8
-#EXTINF:-1,|BE| *****SPORTS***** |BE|
-http://iptvpro.vision-new.org:8789/live/1212/1212/8925.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1849.m3u8
-#EXTINF:-1,|BE| VOO SPORT 2 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/2735.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/9238.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/10162.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/10161.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28446.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21766.m3u8
+#EXTINF:-1,|CH| MY SPORT HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29559.m3u8
+#EXTINF:-1,|CH| MY SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29558.m3u8
+#EXTINF:-1,|CH| MY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29557.m3u8
+#EXTINF:-1,|CH| MY SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29556.m3u8
+#EXTINF:-1,|CH| MY SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29555.m3u8
+#EXTINF:-1,|CH| MY SPORT 5 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29554.m3u8
+#EXTINF:-1,|CH| MY SPORT 6 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29553.m3u8
+#EXTINF:-1,|CH| MY SPORT 7 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29552.m3u8
+#EXTINF:-1,|CH| MY SPORT 8 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29551.m3u8
+#EXTINF:-1,|CH| MY SPORT9 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29550.m3u8
+#EXTINF:-1,|FR| TF1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13847.m3u8
+#EXTINF:-1,|FR| TF1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13917.m3u8
+#EXTINF:-1,|FR| TF1 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13817.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13739.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13916.m3u8
+#EXTINF:-1,|FR| FRANCE 2 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1007.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13738.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13915.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1008.m3u8
+#EXTINF:-1,|FR| FRANCE 4 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13737.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13914.m3u8
+#EXTINF:-1,|FR| FRANCE 4 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1009.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13736.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13913.m3u8
+#EXTINF:-1,|FR| FRANCE 5 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1013.m3u8
+#EXTINF:-1,|FR| FRANCE Ô FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/89.m3u8
+#EXTINF:-1,|FR| FRANCE Ô HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13735.m3u8
+#EXTINF:-1,|FR| FRANCE Ô SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1021.m3u8
+#EXTINF:-1,|FR| M6 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13726.m3u8
+#EXTINF:-1,|FR| M6 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14003.m3u8
+#EXTINF:-1,|FR| M6 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/90.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13824.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13993.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1030.m3u8
+#EXTINF:-1,|FR| TMC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13696.m3u8
+#EXTINF:-1,|FR| TMC HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13979.m3u8
+#EXTINF:-1,|FR| TMC SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1014.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13975.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13693.m3u8
+#EXTINF:-1,|FR| TV BREIZH SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1032.m3u8
+#EXTINF:-1,|FR| 6TER FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13793.m3u8
+#EXTINF:-1,|FR| 6TER HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14046.m3u8
+#EXTINF:-1,|FR| 6TER SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1024.m3u8
+#EXTINF:-1,|FR| ARTE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13788.m3u8
+#EXTINF:-1,|FR| ARTE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14043.m3u8
+#EXTINF:-1,|FR| ARTE SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/426.m3u8
+#EXTINF:-1,|FR| •----• CINEMA FRANCE •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24927.m3u8
+#EXTINF:-1,|FR| CANAL+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14151.m3u8
+#EXTINF:-1,|FR| CANAL+ HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14167.m3u8
+#EXTINF:-1,|FR| CANAL + SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28345.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13768.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14035.m3u8
+#EXTINF:-1,|FR| CANAL + DECALE SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28346.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13767.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14033.m3u8
+#EXTINF:-1,|FR| CANAL + FAMILY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28348.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13769.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28942.m3u8
+#EXTINF:-1,|FR| CANAL + CINEMA SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28347.m3u8
+#EXTINF:-1,|FR| OCS MAX FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13825.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13996.m3u8
+#EXTINF:-1,|FR| OCS MAX SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38198.m3u8
+#EXTINF:-1,|FR| OCS GEANTS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13833.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13846.m3u8
+#EXTINF:-1,|FR| OCS GEANT SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38199.m3u8
+#EXTINF:-1,|FR| OCS CITY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13827.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13994.m3u8
+#EXTINF:-1,|FR| OCS CITY SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38200.m3u8
+#EXTINF:-1,|FR| OCS CHOC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13834.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13995.m3u8
+#EXTINF:-1,|FR| OCS CHOC SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38201.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13759.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14021.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28332.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13754.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14023.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28331.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13755.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13941.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28329.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13756.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14024.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28330.m3u8
+#EXTINF:-1,|FR| ACTION FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13790.m3u8
+#EXTINF:-1,|FR| ACTION HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14045.m3u8
+#EXTINF:-1,|FR| ACTION SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28334.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB FHD 
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47556.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14025.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28328.m3u8
+#EXTINF:-1,|FR| WARNER TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13784.m3u8
+#EXTINF:-1,|FR| POLAR+  FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13763.m3u8
+#EXTINF:-1,|FR| POLAR+ HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25041.m3u8
+#EXTINF:-1,|FR| TCM CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13697.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13980.m3u8
+#EXTINF:-1,|FR| TCM CINEMA SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28337.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13758.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14026.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28327.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28413.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13713.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13911.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28340.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13829.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28339.m3u8
+#EXTINF:-1,|FR| •----• CANALPLAY •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/59409.m3u8
+#EXTINF:-1,|FR| CANALPLAY 1 
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13970.m3u8
+#EXTINF:-1,|FR| CANALPLAY 2 
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13962.m3u8
+#EXTINF:-1,|FR| CANALPLAY 3 
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13961.m3u8
+#EXTINF:-1,|FR| CANALPLAY 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13960.m3u8
+#EXTINF:-1,|FR| CANALPLAY 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13959.m3u8
+#EXTINF:-1,|FR| CANALPLAY 6
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13958.m3u8
+#EXTINF:-1,|FR| CANALPLAY 7
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13957.m3u8
+#EXTINF:-1,|FR| CANALPLAY 8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13956.m3u8
+#EXTINF:-1,|FR| CANALPLAY 9
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13955.m3u8
+#EXTINF:-1,|FR| CANALPLAY 10
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13969.m3u8
+#EXTINF:-1,|FR| CANALPLAY 11
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13968.m3u8
+#EXTINF:-1,|FR| CANALPLAY 12
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13967.m3u8
+#EXTINF:-1,|FR| CANALPLAY 13
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13966.m3u8
+#EXTINF:-1,|FR| CANALPLAY 14
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13965.m3u8
+#EXTINF:-1,|FR| CANALPLAY 15
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13964.m3u8
+#EXTINF:-1,|FR| CANALPLAY 16
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13963.m3u8
+#EXTINF:-1,|FR| •----• ORANGE CINE •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24928.m3u8
+#EXTINF:-1,|FR| ORANGE CINE (Série: The Witcher 24/7)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13926.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13925.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13924.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13923.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13922.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13921.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 6
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13920.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 7
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13919.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13918.m3u8
+#EXTINF:-1,|FR| ALACARTE 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13949.m3u8
+#EXTINF:-1,|FR| ALACARTE 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13947.m3u8
+#EXTINF:-1,|FR| ALACARTE 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13946.m3u8
+#EXTINF:-1,|FR| ALACARTE 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13945.m3u8
+#EXTINF:-1,|FR| ALACARTE 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13954.m3u8
+#EXTINF:-1,|FR| ALACARTE 6
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13953.m3u8
+#EXTINF:-1,|FR| ALACARTE 7
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13952.m3u8
+#EXTINF:-1,|FR| ALACARTE 8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13951.m3u8
+#EXTINF:-1,|FR| ALACARTE 9
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13950.m3u8
+#EXTINF:-1,|FR| ALACARTE 10
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13948.m3u8
+#EXTINF:-1,|FR| •------• RMC SPORT •------• |FR|  
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/38730.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/35031.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32713.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32718.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39589.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37931.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32714.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32719.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39588.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37930.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32715.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32720.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39587.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37929.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32716.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32721.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/49323.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37942.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/32717.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37941.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37940.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37939.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37938.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37937.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37936.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37935.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37934.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37933.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/37932.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/35340.m3u8
+#EXTINF:-1,|FR| •----• BEIN SPORTS •----• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/59410.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14160.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14170.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 1 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/92.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14159.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14169.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 2 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/93.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14158.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14168.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 3 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/94.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/95.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39882.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 6
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1089.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 7
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1113.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1468.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 9
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1469.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS MAX 10
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1470.m3u8
+#EXTINF:-1,|FR| •------• SPORT FRANCE •------• |FR|  
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24929.m3u8
+#EXTINF:-1,|FR| INFOSPORT FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13729.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14156.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14161.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13936.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13728.m3u8
+#EXTINF:-1,|FR| LEQUIPE 21 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14005.m3u8
+#EXTINF:-1,|FR| EQUIPE 21 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1023.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13742.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14011.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/57859.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13741.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14010.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/57860.m3u8
+#EXTINF:-1,|FR| OL TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13842.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13937.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13797.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/425.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13802.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13807.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13806.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13805.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13804.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13803.m3u8
+#EXTINF:-1,|FR| NBA TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/46216.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13740.m3u8
+#EXTINF:-1,|FR| AUTOMOTO  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1035.m3u8
+#EXTINF:-1,|FR| MOTORSPORT HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13782.m3u8
+#EXTINF:-1,|FR| MOTORSPORT FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13722.m3u8
+#EXTINF:-1,|FR| l'equipe 21 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13743.m3u8
+#EXTINF:-1,|FR| EQUIDIA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14012.m3u8
+#EXTINF:-1,|FR| LUCKY JACK HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/42548.m3u8
+#EXTINF:-1,|FR| •------• SPORT GOLF •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24930.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13734.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13689.m3u8
+#EXTINF:-1,|FR| GOLF CHANNELS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13977.m3u8
+#EXTINF:-1,|FR| •------• DIVERTISSEMENT •------• |FR|  
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24931.m3u8
+#EXTINF:-1,|FR| SERIE CLUB FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13830.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13986.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13766.m3u8
+#EXTINF:-1,|FR| CANAL + SERIES HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28944.m3u8
+#EXTINF:-1,|FR| 13EME RUE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13794.m3u8
+#EXTINF:-1,|FR| 13EME RUE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14048.m3u8
+#EXTINF:-1,|FR| SYFY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13981.m3u8
+#EXTINF:-1,|FR| SYFY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13698.m3u8
+#EXTINF:-1,|FR| SUNDANCE TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13733.m3u8
+#EXTINF:-1,|FR| SUNDANCE CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28338.m3u8
+#EXTINF:-1,|FR| TEVA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/35331.m3u8
+#EXTINF:-1,|FR| TEVA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25039.m3u8
+#EXTINF:-1,|FR| TEVA SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1031.m3u8
+#EXTINF:-1,|FR| COMEDIE+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13751.m3u8
+#EXTINF:-1,|FR| COMEDIE  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14019.m3u8
+#EXTINF:-1,|FR| MY CUISINE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13781.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13746.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINEMENT HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14015.m3u8
+#EXTINF:-1,|FR| NO STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13780.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13928.m3u8
+#EXTINF:-1,|FR| IL TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13934.m3u8
+#EXTINF:-1,|FR| NRJ12 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13717.m3u8
+#EXTINF:-1,|FR| NRJ12 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14047.m3u8
+#EXTINF:-1,|FR| NRJ12 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1019.m3u8
+#EXTINF:-1,|FR| ELLE GIRL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13745.m3u8
+#EXTINF:-1,|FR| ELLE GIRL HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14014.m3u8
+#EXTINF:-1,|FR| BET FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13841.m3u8
+#EXTINF:-1,|FR| VICELAND FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13772.m3u8
+#EXTINF:-1,|FR| TV 5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25042.m3u8
+#EXTINF:-1,|FR| TV 5 monde
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1033.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13760.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14028.m3u8
+#EXTINF:-1,|FR| CHERIE 25 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1027.m3u8
+#EXTINF:-1,|FR| TF1 +1 fhd
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13732.m3u8
+#EXTINF:-1,|FR| TF1 SÉRIES FILMS SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1022.m3u8
+#EXTINF:-1,|FR| C8 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13823.m3u8
+#EXTINF:-1,|FR| C8 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14036.m3u8
+#EXTINF:-1,|FR| C8 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/188.m3u8
+#EXTINF:-1,|FR| CSTAR FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13749.m3u8
+#EXTINF:-1,|FR| DIRECT8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1091.m3u8
+#EXTINF:-1,|FR| CSTAR HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13940.m3u8
+#EXTINF:-1,|FR| AZUR TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25043.m3u8
+#EXTINF:-1,|FR| WEO FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13795.m3u8
+#EXTINF:-1,|FR| WEO HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25045.m3u8
+#EXTINF:-1,|FR| TV8 MONT BLANC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13796.m3u8
+#EXTINF:-1,|FR| RTL9 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13707.m3u8
+#EXTINF:-1,|FR| RTL9 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13989.m3u8
+#EXTINF:-1,|FR| RTL9 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1029.m3u8
+#EXTINF:-1,|FR| A+  FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13695.m3u8
+#EXTINF:-1,|FR| RMC STORY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13715.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13997.m3u8
+#EXTINF:-1,|FR| RMC STORY   SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1025.m3u8
+#EXTINF:-1,|FR| TFX FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13716.m3u8
+#EXTINF:-1,|FR| TFX HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13998.m3u8
+#EXTINF:-1,|FR| TFX SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1015.m3u8
+#EXTINF:-1,|FR| W9 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13690.m3u8
+#EXTINF:-1,|FR| W9 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13973.m3u8
+#EXTINF:-1,|FR| W9 SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/421.m3u8
+#EXTINF:-1,|FR| LUXE TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1054.m3u8
+#EXTINF:-1,|FR| ALSACE 20
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25048.m3u8
+#EXTINF:-1,|FR| VOSGES
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1102.m3u8
+#EXTINF:-1,|FR| M6 BOUTIQUE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1097.m3u8
+#EXTINF:-1,|FR| FASHIONTV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1064.m3u8
+#EXTINF:-1,|FR| GONG
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24936.m3u8
+#EXTINF:-1,|FR| •------• DOCUMENTAIRE •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24961.m3u8
+#EXTINF:-1,|FR| PLANETE+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13712.m3u8
+#EXTINF:-1,|FR| PLANETE+  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13991.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13710.m3u8
+#EXTINF:-1,|FR| PLANETE+  CI HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13992.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13711.m3u8
+#EXTINF:-1,|FR| PLANETE+  A&E HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13971.m3u8
+#EXTINF:-1,|FR| DISCOVERY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13748.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14017.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13747.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14016.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13836.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13828.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13811.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25047.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13719.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13999.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14000.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13987.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13704.m3u8
+#EXTINF:-1,|FR| ANIMAUX FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13789.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14044.m3u8
+#EXTINF:-1,|FR| USHUAIA  FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13692.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13974.m3u8
+#EXTINF:-1,|FR| USHUAIA SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1055.m3u8
+#EXTINF:-1,|FR| ULTRA NATURE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25049.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13708.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13990.m3u8
+#EXTINF:-1,|FR| RMC STORY SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1026.m3u8
+#EXTINF:-1,|FR| VOYAGE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13691.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13972.m3u8
+#EXTINF:-1,|FR| TREK FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13694.m3u8
+#EXTINF:-1,|FR| TREK HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13976.m3u8
+#EXTINF:-1,|FR| CHASSE&PECHE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13837.m3u8
+#EXTINF:-1,|FR| CHASSE & PECHE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14029.m3u8
+#EXTINF:-1,|FR| SEASON FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13703.m3u8
+#EXTINF:-1,|FR| SEASON HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13988.m3u8
+#EXTINF:-1,|FR| CAMPAGNE TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13942.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13750.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14018.m3u8
+#EXTINF:-1,|FR| MUSEUM CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13714.m3u8
+#EXTINF:-1,|FR| HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13731.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14007.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13832.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25050.m3u8
+#EXTINF:-1,|FR| HISTOIRE SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1056.m3u8
+#EXTINF:-1,|FR|***FRANCE INFO***|FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24963.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13783.m3u8
+#EXTINF:-1,|FR| EURONEWS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13835.m3u8
+#EXTINF:-1,|FR| EURONEWS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13938.m3u8
+#EXTINF:-1,|FR| FRANCE 24 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/162.m3u8
+#EXTINF:-1,|FR| BFM TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13770.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14039.m3u8
+#EXTINF:-1,|FR| BFM TV SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/424.m3u8
+#EXTINF:-1,|FR| BFM HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13839.m3u8
+#EXTINF:-1,|FR| BFM BUISINESS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1045.m3u8
+#EXTINF:-1,|FR| LCI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13727.m3u8
+#EXTINF:-1,|FR| LCI SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1042.m3u8
+#EXTINF:-1,|FR| LCP FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13809.m3u8
+#EXTINF:-1,|FR| LCP
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1016.m3u8
+#EXTINF:-1,|FR| LCP100%
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1046.m3u8
+#EXTINF:-1,|FR| CNEWS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14020.m3u8
+#EXTINF:-1,|FR| CNEWS SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1017.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13935.m3u8
+#EXTINF:-1,|FR| FRANCE INFO SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1917.m3u8
+#EXTINF:-1,|FR| TV5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25051.m3u8
+#EXTINF:-1,|FR| TV5 MONDE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25052.m3u8
+#EXTINF:-1,|FR| I24 NEWS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13730.m3u8
+#EXTINF:-1,|FR| i24 NEWS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1050.m3u8
+#EXTINF:-1,|FR|***MUSSIC***|FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24964.m3u8
+#EXTINF:-1,|FR| M6 MUSIC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13826.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13844.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13978.m3u8
+#EXTINF:-1,|FR| TRACE URBAIN FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1099.m3u8
+#EXTINF:-1,|FR| TRACE URBAN INTER
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/9127.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/9128.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13771.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13720.m3u8
+#EXTINF:-1,|FR| MTV LIVE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25054.m3u8
+#EXTINF:-1,|FR| BET
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25057.m3u8
+#EXTINF:-1,|FR| TRACE NAIJA
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25055.m3u8
+#EXTINF:-1,|FR| TRACE TOCA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25056.m3u8
+#EXTINF:-1,|FR| MTV HITS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/8050.m3u8
+#EXTINF:-1,|FR| BBLACK CLASSIK
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/8052.m3u8
+#EXTINF:-1,|FR| BBLACK AFRICA
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/8051.m3u8
+#EXTINF:-1,|FR| INDIES LIVE MUSIC
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25058.m3u8
+#EXTINF:-1,|FR| MTV MUSIC LIVE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13721.m3u8
+#EXTINF:-1,|FR| MTV MUSIC LIVE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13930.m3u8
+#EXTINF:-1,|FR| MTV DANCE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13931.m3u8
+#EXTINF:-1,|FR| MTV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13932.m3u8
+#EXTINF:-1,|FR| MTV HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14009.m3u8
+#EXTINF:-1,|FR| MCM FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13725.m3u8
+#EXTINF:-1,|FR| MCM HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14002.m3u8
+#EXTINF:-1,|FR| MCM TOP HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1037.m3u8
+#EXTINF:-1,|FR| MCM TOP FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13724.m3u8
+#EXTINF:-1,|FR| RFM TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13709.m3u8
+#EXTINF:-1,|FR| RFM HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24960.m3u8
+#EXTINF:-1,|FR| NRJ HITS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13927.m3u8
+#EXTINF:-1,|FR| MEZZO HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14001.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13723.m3u8
+#EXTINF:-1,|FR| BBLACK
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13840.m3u8
+#EXTINF:-1,|FR| VH1 CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13815.m3u8
+#EXTINF:-1,|FR| MELODY TV FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13808.m3u8
+#EXTINF:-1,|FR| BRAVA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14038.m3u8
+#EXTINF:-1,|FR| DJAZZ TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13939.m3u8
+#EXTINF:-1,|FR| TELESUD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1101.m3u8
+#EXTINF:-1,|FR| MTV HITS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13845.m3u8
+#EXTINF:-1,|FR|***** CANAL+  SD *****|FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/39549.m3u8
+#EXTINF:-1,|FR| LA CHAINE DU PERE NOÊL HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/48784.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13861.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24948.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1040.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL +1  FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13849.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL +1  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1041.m3u8
+#EXTINF:-1,|FR| DISNEY XD FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13862.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24942.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13863.m3u8
+#EXTINF:-1,|FR| NICKELODEON FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24958.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24934.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13860.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24940.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14037.m3u8
+#EXTINF:-1,|FR| NICKELODEON+1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13854.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUN FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13851.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24935.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUN SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/28344.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24957.m3u8
+#EXTINF:-1,|FR| TOONAMI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13850.m3u8
+#EXTINF:-1,|FR| TELETOON+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13855.m3u8
+#EXTINF:-1,|FR| TELETOON+1 
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13869.m3u8
+#EXTINF:-1,|FR| PIWI+ FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13867.m3u8
+#EXTINF:-1,|FR| PIWI+ HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24937.m3u8
+#EXTINF:-1,|FR| CANAL J FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13764.m3u8
+#EXTINF:-1,|FR| Canal J HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24941.m3u8
+#EXTINF:-1,|FR| TIJI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13868.m3u8
+#EXTINF:-1,|FR| TIJI HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24949.m3u8
+#EXTINF:-1,|FR| BOOMERANG FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13858.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24954.m3u8
+#EXTINF:-1,|FR| BOING FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13859.m3u8
+#EXTINF:-1,|FR| BOING HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24945.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13761.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24933.m3u8
+#EXTINF:-1,|FR| GAME ONE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13856.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24952.m3u8
+#EXTINF:-1,|FR| GAMEONE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1034.m3u8
+#EXTINF:-1,|FR| GAME ONE +1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13857.m3u8
+#EXTINF:-1,|FR| J ONE FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13852.m3u8
+#EXTINF:-1,|FR| GULLI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13864.m3u8
+#EXTINF:-1,|FR| GULLI SD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/1020.m3u8
+#EXTINF:-1,|FR| MANGAS FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13865.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24932.m3u8
+#EXTINF:-1,|FR| CINE KIDS HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24959.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24939.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24950.m3u8
+#EXTINF:-1,|FR| DISNEY ORANGE 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24951.m3u8
+#EXTINF:-1,|FR| PEPPA PIG (LIVE)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/6700.m3u8
+#EXTINF:-1,|FR|  DORA L'EXPLORATRICE (LIVE )
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/6713.m3u8
+#EXTINF:-1,|FR| LIVE LILO & STITCH (LIVE)
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/6736.m3u8
+#EXTINF:-1,|FR| TOM AND JERRY
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/6757.m3u8
+#EXTINF:-1,|FR| MASHA ET MICHKA (LIVE )
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/7185.m3u8
+#EXTINF:-1,|FR| LAPIN CRETIN
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/7258.m3u8
+#EXTINF:-1,|FR| •------• CANALSAT HEVC •------• |FR|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/47555.m3u8
+#EXTINF:-1,|BE| •------• BELGIQUE •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24965.m3u8
+#EXTINF:-1,|BE|  LA UNE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29821.m3u8
+#EXTINF:-1,|BE| LA DEUX
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14149.m3u8
+#EXTINF:-1,|BE| LA TROIS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14148.m3u8
+#EXTINF:-1,|BE| CLUB RTL FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14144.m3u8
+#EXTINF:-1,|BE| PLUG RTL HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14147.m3u8
+#EXTINF:-1,|BE| RTL TVi HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14146.m3u8
+#EXTINF:-1,|BE| AB1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14143.m3u8
+#EXTINF:-1,|BE| AB3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14115.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14142.m3u8
+#EXTINF:-1,|BE| AB XPLORE HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29560.m3u8
+#EXTINF:-1,|BE| CINÉ HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14141.m3u8
+#EXTINF:-1,|BE| ZES
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14140.m3u8
+#EXTINF:-1,|BE| TELE BRUXELLES
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1890
+#EXTINF:-1,|BE| •------• SPORTS •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24966.m3u8
 #EXTINF:-1,|BE| PLAY SPORT 1 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/31653.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/46646.m3u8
 #EXTINF:-1,|BE| PLAY SPORT 2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/31654.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/10815.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/10816.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 3
-http://iptvpro.vision-new.org:8789/live/1212/1212/275.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/46647.m3u8
 #EXTINF:-1,|BE| PROXIMUS 11 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/18732.m3u8
-#EXTINF:-1,|BE| PROXIMUS 11 +1 FHD
-http://iptvpro.vision-new.org:8789/live/1212/1212/22535.m3u8
-#EXTINF:-1,|BE| PROXIMUS 11 +2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/22536.m3u8
-#EXTINF:-1,|BE| PROXIMUS 11 +3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/22537.m3u8
-#EXTINF:-1,|BE| *****VLAANDEREN***** |BE|
-http://iptvpro.vision-new.org:8789/live/1212/1212/10180.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/35336.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14128.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14135.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14133.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/46648.m3u8
+#EXTINF:-1,|BE|•------• VLAANDEREN •------• |BE|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24967.m3u8
 #EXTINF:-1,|BE| EEN HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1623.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14122.m3u8
 #EXTINF:-1,|BE| VIER HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/452.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14111.m3u8
 #EXTINF:-1,|BE| VIJF
-http://iptvpro.vision-new.org:8789/live/1212/1212/608.m3u8
-#EXTINF:-1,|BE| VITAYA
-http://iptvpro.vision-new.org:8789/live/1212/1212/607.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14112.m3u8
+#EXTINF:-1,|BE|  VITAYA  HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14109.m3u8
 #EXTINF:-1,|BE| CANVAS HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1620.m3u8
-#EXTINF:-1,|BE| ZES HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1902
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14110.m3u8
+#EXTINF:-1,|BE| 192 TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14124.m3u8
 #EXTINF:-1,|BE| KETNET
-http://iptvpro.vision-new.org:8789/live/1212/1212/765.m3u8
-#EXTINF:-1,|BE| EVENAAR
-http://iptvpro.vision-new.org:8789/live/1212/1212/1853.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14119.m3u8
+#EXTINF:-1,|BE| TVO
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14117.m3u8
 #EXTINF:-1,|BE| VTM HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/1852.m3u8
-#EXTINF:-1,|BE| VTM KAZOOM
-http://iptvpro.vision-new.org:8789/live/1212/1212/1851.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14126.m3u8
+#EXTINF:-1,|BE| VTM KAZOOM HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14125.m3u8
 #EXTINF:-1,|BE| Q2 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10166.m3u8
-#EXTINF:-1,|BE| VTM HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/10173.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14127.m3u8
+#EXTINF:-1,|BE| KET OP2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14120.m3u8
+#EXTINF:-1,|BE| ACHT TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14113.m3u8
 #EXTINF:-1,|BE| KADET
-http://iptvpro.vision-new.org:8789/live/1212/1212/10174.m3u8
-#EXTINF:-1,|BE| BEL RTL
-http://iptvpro.vision-new.org:8789/live/1212/1212/10164.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
-#EXTINF:-1,=====SUISSE=====
-http://iptvpro.vision-new.org:8789/live/1212/1212/2582.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/14121.m3u8
+#EXTINF:-1,|BE| ATV ANTWERPEN
+http://source.vision-new.org:5000/live/BELGuser/pro2/99997003.ts
+#EXTINF:-1,|BE| NO TELE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25119.m3u8
+#EXTINF:-1,|BE| CANAL ZOOM
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25120.m3u8
+#EXTINF:-1,|BE| CANAL C
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/25118.m3u8
+#EXTINF:-1,|LU| •------• LUXEMBOURG •------• |LU|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/45414.m3u8
+#EXTINF:-1,|LU| TV LUX
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/45413.m3u8
+#EXTINF:-1,|LU| RTL LUX 1
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1888
+#EXTINF:-1,|LU| RTL LUX 2
+http://51.159.21.231:2052/sourcebelgiquepro2/6875360917/1887
+#EXTINF:-1,|LU| ELDO TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/45410.m3u8
+#EXTINF:-1,|LU| CHAMBER TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/45409.m3u8
+#EXTINF:-1,|CH|•****• SUISSE •****•|CH|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/24968.m3u8
 #EXTINF:-1,|CH| RTS UN HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8776.m3u8
-#EXTINF:-1,|CH| RTS DEUX  HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8777.m3u8
-#EXTINF:-1,|CH| BE CURIOUS
-http://iptvpro.vision-new.org:8789/live/1212/1212/8781.m3u8
-#EXTINF:-1,|CH| BOING
-http://iptvpro.vision-new.org:8789/live/1212/1212/8779.m3u8
-#EXTINF:-1,|CH| BOOMERANG
-http://iptvpro.vision-new.org:8789/live/1212/1212/8778.m3u8
-#EXTINF:-1,|CH| CARTOON NETWORK
-http://iptvpro.vision-new.org:8789/live/1212/1212/8780.m3u8
-#EXTINF:-1,|CH| MOTOR TV
-http://iptvpro.vision-new.org:8789/live/1212/1212/8775.m3u8
-#EXTINF:-1,|CH| ROUGE TV
-http://iptvpro.vision-new.org:8789/live/1212/1212/8782.m3u8
-#EXTINF:-1,|CH| TELECLUB CINEMA
-http://iptvpro.vision-new.org:8789/live/1212/1212/3916.m3u8
-#EXTINF:-1,|CH| TELECLUB PRIME
-http://iptvpro.vision-new.org:8789/live/1212/1212/3915.m3u8
-#EXTINF:-1,|CH| TELECLUB STAR
-http://iptvpro.vision-new.org:8789/live/1212/1212/3914.m3u8
-#EXTINF:-1,|sw|TELECLUB SPORT
-http://iptvpro.vision-new.org:8789/live/1212/1212/3913.m3u8
-#EXTINF:-1,|CH| TELECLUB SPORT1
-http://iptvpro.vision-new.org:8789/live/1212/1212/3598.m3u8
-#EXTINF:-1,|CH| TELECLUBSPORT 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/8518.m3u8
-#EXTINF:-1,|CH| TELE M1
-http://iptvpro.vision-new.org:8789/live/1212/1212/8516.m3u8
-#EXTINF:-1,|CH| TELE BAERN
-http://iptvpro.vision-new.org:8789/live/1212/1212/8514.m3u8
-#EXTINF:-1,|CH| TELE BIELINGUE
-http://iptvpro.vision-new.org:8789/live/1212/1212/8515.m3u8
-#EXTINF:-1,|CH| TELE ZURICH
-http://iptvpro.vision-new.org:8789/live/1212/1212/8517.m3u8
-#EXTINF:-1,|CH| 3 HD
-http://iptvpro.vision-new.org:8789/live/1212/1212/8509.m3u8
-#EXTINF:-1,|CH| PLUS 8
-http://iptvpro.vision-new.org:8789/live/1212/1212/8510.m3u8
-#EXTINF:-1,|CH| SRF 1
-http://iptvpro.vision-new.org:8789/live/1212/1212/8511.m3u8
-#EXTINF:-1,|CH| SRF 2
-http://iptvpro.vision-new.org:8789/live/1212/1212/8512.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13705.m3u8
+#EXTINF:-1,|CH| RTS DEUX HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/13706.m3u8
+#EXTINF:-1,|CH| RSI LA 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29567.m3u8
+#EXTINF:-1,|CH| RSI LA 2 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29568.m3u8
+#EXTINF:-1,|CH| SRF 1 HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21755.m3u8
+#EXTINF:-1,|CH| SRF ZWEI FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21754.m3u8
 #EXTINF:-1,|CH| SRF INFO
-http://iptvpro.vision-new.org:8789/live/1212/1212/8513.m3u8
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21753.m3u8
+#EXTINF:-1,|CH| BE CURIOUS
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21776.m3u8
+#EXTINF:-1,|CH| BOING
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21775.m3u8
+#EXTINF:-1,|CH|  BOOMERANG
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21773.m3u8
+#EXTINF:-1,|CH| CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21772.m3u8
+#EXTINF:-1,|CH| MOTORS ViSION
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21771.m3u8
+#EXTINF:-1,|CH|  ROUGE TV
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21770.m3u8
+#EXTINF:-1,|CH| •------• TELECLUB •------• |CH|
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29569.m3u8
+#EXTINF:-1,|CH|  TELECLUB CINEMA HD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21769.m3u8
+#EXTINF:-1,|CH|  TELECLUB ACTION
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21768.m3u8
+#EXTINF:-1,|CH| TELECLUB EMOTION
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21767.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21764.m3u8
+#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21763.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29574.m3u8
+#EXTINF:-1,|CH| OCS Go Cine 2
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29573.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 3
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29572.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 4
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29571.m3u8
+#EXTINF:-1,|CH| OCS GO CINE 5
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/29570.m3u8
+#EXTINF:-1,|CH| TELE M1
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21762.m3u8
+#EXTINF:-1,|CH|  TELEBASEL
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21761.m3u8
+#EXTINF:-1,|CH| TELE BIELINGUE
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21760.m3u8
+#EXTINF:-1,|CH| TELE ZURICH
+http://iptvpro.premium-itv.com:8789/live/31031986/31031986/21759.m3u8
