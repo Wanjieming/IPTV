@@ -1,4 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="FR:W9" tvg-logo="http://universeiptv.org/pics/francee/w9_fr.png" group-title="FRANCE",FR:W9
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/894
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR:Ushuaia_HD" tvg-logo="http://universeiptv.org/pics/francee/ushuaia_tv.png" group-title="FRANCE",FR:Ushuaia_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/895
+#EXTINF:-1 tvg-ID="TouteHistoire.fr" tvg-name="FR:Tout_LHistoire" tvg-logo="http://universeiptv.org/pics/francee/toute_histoire_fr.png" group-title="FRANCE",FR:Tout_LHistoire
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/884
+#EXTINF:-1 tvg-ID="Tiji.fr" tvg-name="FR:TIJI" tvg-logo="http://universeiptv.org/pics/francee/tiji_fr.png" group-title="FRANCE",FR:TIJI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/888
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="FR:TF1" tvg-logo="http://universeiptv.org/pics/francee/tf1.png" group-title="FRANCE",FR:TF1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/887
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR:Disney_Junior" tvg-logo="http://universeiptv.org/pics/francee/disney_junior_us.png" group-title="FRANCE",FR:Disney_Junior
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/889
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR:RTL9" tvg-logo="http://universeiptv.org/pics/francee/RTL9_logo.png" group-title="FRANCE",FR:RTL9
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/885
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="FR:Planete" tvg-logo="http://universeiptv.org/pics/francee/planete_plus.png" group-title="FRANCE",FR:Planete
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/883
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR:PIWI" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_piwi_plus.png" group-title="FRANCE",FR:PIWI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/891
+#EXTINF:-1 tvg-ID="NRJ12.fr" tvg-name="FR:NRJ12" tvg-logo="http://universeiptv.org/pics/francee/nrj_fr_12.png" group-title="FRANCE",FR:NRJ12
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/882
+#EXTINF:-1 tvg-ID="NationalGeographic.fr" tvg-name="FR:Nat_Geo" tvg-logo="http://universeiptv.org/pics/francee/nat_geo_us.png" group-title="FRANCE",FR:Nat_Geo
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/881
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="FR:M6" tvg-logo="http://universeiptv.org/pics/francee/m6_fr.png" group-title="FRANCE",FR:M6
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/880
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR:Infosport" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_infosport_plus.png" group-title="FRANCE",FR:Infosport
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/879
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR:GULLI" tvg-logo="http://universeiptv.org/pics/francee/gulli_fr.png" group-title="FRANCE",FR:GULLI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/893
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR:France_5" tvg-logo="http://universeiptv.org/pics/francee/france5.png" group-title="FRANCE",FR:France_5
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/845
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="FR:France_2" tvg-logo="http://universeiptv.org/pics/francee/france2.png" group-title="FRANCE",FR:France_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/842
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR:Disney" tvg-logo="http://universeiptv.org/pics/francee/disney_channel_global.png" group-title="FRANCE",FR:Disney
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/878
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="FR:CINE_POLAR" tvg-logo="http://universeiptv.org/pics/francee/Cine-Polar.png" group-title="FRANCE",FR:CINE_POLAR
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/847
+#EXTINF:-1 tvg-ID="CinecinemaClassic.fr" tvg-name="FR:CINE_CLASSIC" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_cine_plus_classic.png" group-title="FRANCE",FR:CINE_CLASSIC
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/848
+#EXTINF:-1 tvg-ID="CinecinemaFamiz.fr" tvg-name="FR:CINE_FAMIZ" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_cine_plus_famiz.png" group-title="FRANCE",FR:CINE_FAMIZ
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/851
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="FR:Chasse_Et_Peche" tvg-logo="http://universeiptv.org/pics/francee/chasse_et_peche.png" group-title="FRANCE",FR:Chasse_Et_Peche
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/857
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR:Discovery" tvg-logo="http://universeiptv.org/pics/francee/discovery_global_us.png" group-title="FRANCE",FR:Discovery
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/877
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="FR:Canal_J" tvg-logo="http://universeiptv.org/pics/francee/canal_j_fr.png" group-title="FRANCE",FR:Canal_J
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/892
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="FR:CANAL_SPORT_HD" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_sport.png" group-title="FRANCE",FR:CANAL_SPORT_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/853
+#EXTINF:-1 tvg-ID="" tvg-name="FR:CANAL_HD" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr.png" group-title="FRANCE",FR:CANAL_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/854
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR:CANAL_DECALE_HD" tvg-logo="http://universeiptv.org/pics/francee/canalplus_fr_decale.png" group-title="FRANCE",FR:CANAL_DECALE_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/855
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR:Animaux_hd" tvg-logo="http://universeiptv.org/pics/francee/animaux_fr.png" group-title="FRANCE",FR:Animaux_hd
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/876
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR:Action" tvg-logo="http://universeiptv.org/pics/francee/action_fr.png" group-title="FRANCE",FR:Action
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/890
 #EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="" group-title="SPORTS FR",|FR| FRANCE 3 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
 #EXTINF:-1 tvg-id="" tvg-name="M6 SD" tvg-logo="" group-title="SPORTS FR",M6 SD
