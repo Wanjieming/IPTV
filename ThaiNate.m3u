@@ -939,4 +939,27 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 http://27.254.130.64/live02/6.m3u8?p=iptv 
 #EXTINF:0 tvg-logo="http://tv-online.in/wp-content/uploads/2014/10/You-Channel-live.gif" group-title="Thailand",You Channel
 http://stream.rs.co.th/you-hi/index.m3u8
-
+#EXTINF:-1 tvg-ID="" tvg-name="TH: SMM TV" tvg-logo="" group-title="Thailand",TH: SMM TV
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57663.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PPTV (HD)" tvg-logo="" group-title="Thailand",TH: PPTV (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57664.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: PBS HD" tvg-logo="" group-title="Thailand",TH: PBS HD
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57665.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: One (HD)" tvg-logo="" group-title="Thailand",TH: One (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57668.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Nation (HD)" tvg-logo="" group-title="Thailand",TH: Nation (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57672.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Muslim TV" tvg-logo="" group-title="Thailand",TH: Muslim TV
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57673.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Mono Plus" tvg-logo="" group-title="Thailand",TH: Mono Plus
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MCOT (HD)" tvg-logo="" group-title="Thailand",TH: MCOT (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Fox 1" tvg-logo="" group-title="Thailand",TH: Fox 1
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57677.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 8 (HD)" tvg-logo="" group-title="Thailand",TH: 8 (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57682.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 5 (HD)" tvg-logo="" group-title="Thailand",TH: 5 (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57684.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TH: 3 (HD)" tvg-logo="" group-title="Thailand",TH: 3 (HD)
+http://xtiptv.xyz:25461/live/261500/h2xP3m3u3H/57685.ts
