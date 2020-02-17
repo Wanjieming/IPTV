@@ -2090,3 +2090,96 @@ http://125.212.213.71:1935/live/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png" group-title="Radio", VOH FM 87.7MHz
 http://125.212.213.71:1935/live/channel5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: AG TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: AG TV
+http://tt.rip:8000/41900808131509/41532890/89549
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: ANTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: ANTV
+http://tt.rip:8000/41900808131509/41532890/89550
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: ATV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: ATV
+http://tt.rip:8000/41900808131509/41532890/89551
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: AXN TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: AXN TV
+http://tt.rip:8000/41900808131509/41532890/89552
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: BPTV 1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: BPTV 1
+http://tt.rip:8000/41900808131509/41532890/89553
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: BRT" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: BRT
+http://tt.rip:8000/41900808131509/41532890/89554
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: BTV  Pacify" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: BTV  Pacify
+http://tt.rip:8000/41900808131509/41532890/89555
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Vnews" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Vnews
+http://tt.rip:8000/41900808131509/41532890/89556
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Hà Nam TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Hà Nam TV
+http://tt.rip:8000/41900808131509/41532890/89557
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: CINEMAX" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: CINEMAX
+http://tt.rip:8000/41900808131509/41532890/89558
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: CTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: CTV
+http://tt.rip:8000/41900808131509/41532890/89559
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Da Nang 1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Da Nang 1
+http://tt.rip:8000/41900808131509/41532890/89560
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Da Nang 2" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Da Nang 2
+http://tt.rip:8000/41900808131509/41532890/89561
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: DN1 RTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: DN1 RTV
+http://tt.rip:8000/41900808131509/41532890/89562
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: DTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: DTV
+http://tt.rip:8000/41900808131509/41532890/89563
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: FASHION TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: FASHION TV
+http://tt.rip:8000/41900808131509/41532890/89564
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: FBNC HD" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: FBNC HD
+http://tt.rip:8000/41900808131509/41532890/89565
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: FOX MOVIE" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: FOX MOVIE
+http://tt.rip:8000/41900808131509/41532890/89566
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Hanoi 1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Hanoi 1
+http://tt.rip:8000/41900808131509/41532890/89567
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Hanoi 2" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Hanoi 2
+http://tt.rip:8000/41900808131509/41532890/89568
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: HBTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: HBTV
+http://tt.rip:8000/41900808131509/41532890/89569
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: HTTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: HTTV
+http://tt.rip:8000/41900808131509/41532890/89570
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: HTV TRAVEL" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: HTV TRAVEL
+http://tt.rip:8000/41900808131509/41532890/89571
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: HY TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: HY TV
+http://tt.rip:8000/41900808131509/41532890/89572
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: KTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: KTV
+http://tt.rip:8000/41900808131509/41532890/89573
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: LA34 TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: LA34 TV
+http://tt.rip:8000/41900808131509/41532890/89574
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: NTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: NTV
+http://tt.rip:8000/41900808131509/41532890/89575
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: NTV TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: NTV TV
+http://tt.rip:8000/41900808131509/41532890/89576
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: OPVN" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: OPVN
+http://tt.rip:8000/41900808131509/41532890/89577
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: PTP" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: PTP
+http://tt.rip:8000/41900808131509/41532890/89578
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: QRT TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: QRT TV
+http://tt.rip:8000/41900808131509/41532890/89579
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: STV1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: STV1
+http://tt.rip:8000/41900808131509/41532890/89580
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: TBTV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: TBTV
+http://tt.rip:8000/41900808131509/41532890/89581
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THBT" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THBT
+http://tt.rip:8000/41900808131509/41532890/89582
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THD" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THD
+http://tt.rip:8000/41900808131509/41532890/89583
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THDT1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THDT1
+http://tt.rip:8000/41900808131509/41532890/89584
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THLC  TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THLC  TV
+http://tt.rip:8000/41900808131509/41532890/89585
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THLC HD" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THLC HD
+http://tt.rip:8000/41900808131509/41532890/89586
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THTG" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THTG
+http://tt.rip:8000/41900808131509/41532890/89587
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: THTPCT" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: THTPCT
+http://tt.rip:8000/41900808131509/41532890/89588
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: TV
+http://tt.rip:8000/41900808131509/41532890/89589
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: TV1" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: TV1
+http://tt.rip:8000/41900808131509/41532890/89590
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Vĩnh Phúc TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Vĩnh Phúc TV
+http://tt.rip:8000/41900808131509/41532890/89591
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: VP" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: VP
+http://tt.rip:8000/41900808131509/41532890/89592
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: VTC12" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: VTC12
+http://tt.rip:8000/41900808131509/41532890/89593
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam: Tibetan TV" tvg-logo="" group-title="|AS| VIETNAM",Vietnam: Tibetan TV
+http://tt.rip:8000/41900808131509/41532890/89594
