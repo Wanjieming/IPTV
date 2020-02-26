@@ -1,8 +1,9 @@
-National Geo People
+#EXTM3U
+#EXTINF:-1, National Geo People
 http://111.13.111.192/125.227.198.89:8030
 
-Discovery Asia
+#EXTINF:-1, Discovery Asia
 http://111.13.111.192/125.227.198.89:8028
 
-CTV HD
+#EXTINF:-1, CTV HD
 http://111.13.111.192/125.227.198.89:8021
