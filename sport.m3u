@@ -1,4 +1,208 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="I15952.labs.zap2it.com" tvg-name="*NBC SPORTS" tvg-logo="https://s3.amazonaws.com/ok2logo/nbcsports.png" group-title="SPORTS",*NBC SPORTS
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/170
+#EXTINF:-1 tvg-ID="I16365.labs.zap2it.com" tvg-name="*CBS SPORTS HD" tvg-logo="https://s3.amazonaws.com/ok2logo/cbssports.png" group-title="SPORTS",*CBS SPORTS HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/169
+#EXTINF:-1 tvg-ID="I11182.labs.zap2it.com" tvg-name="*TSN 1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn1.png" group-title="SPORTS",*TSN 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/138
+#EXTINF:-1 tvg-ID="I61474.labs.zap2it.com" tvg-name="*TSN 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn2.png" group-title="SPORTS",*TSN 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/139
+#EXTINF:-1 tvg-ID="I90119.labs.zap2it.com" tvg-name="*TSN 3 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn3.png" group-title="SPORTS",*TSN 3 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/140
+#EXTINF:-1 tvg-ID="I90122.labs.zap2it.com" tvg-name="*TSN 4 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn4.png" group-title="SPORTS",*TSN 4 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/141
+#EXTINF:-1 tvg-ID="I90125.labs.zap2it.com" tvg-name="*TSN 5 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn5.png" group-title="SPORTS",*TSN 5 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/142
+#EXTINF:-1 tvg-ID="I32645.labs.zap2it.com" tvg-name="*ESPN HD" tvg-logo="https://s3.amazonaws.com/ok2logo/espn.png" group-title="SPORTS",*ESPN HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/143
+#EXTINF:-1 tvg-ID="I45507.labs.zap2it.com" tvg-name="ESPN 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/espn2.png" group-title="SPORTS",ESPN 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/144
+#EXTINF:-1 tvg-ID="I59976.labs.zap2it.com" tvg-name="ESPN NEWS HD - NEW" tvg-logo="https://s3.amazonaws.com/ok2logo/ESPNNEWS.LOGO.gif" group-title="SPORTS",ESPN NEWS HD - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/59038
+#EXTINF:-1 tvg-ID="I45654.labs.zap2it.com" tvg-name="ESPN U HD" tvg-logo="https://s3.amazonaws.com/ok2logo/espnu.png" group-title="SPORTS",ESPN U HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4064
+#EXTINF:-1 tvg-ID="I58321.labs.zap2it.com" tvg-name="BIG 10 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/btn.jpg" group-title="SPORTS",BIG 10 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/3950
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COLLEGE ATLANTIC" tvg-logo="https://s3.amazonaws.com/ok2logo/foxcollegesports.png" group-title="SPORTS",FOX COLLEGE ATLANTIC
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/59885
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COLLEGE PACIFIC" tvg-logo="https://s3.amazonaws.com/ok2logo/foxcollegesports.png" group-title="SPORTS",FOX COLLEGE PACIFIC
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/59886
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 ARIZONA" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 ARIZONA
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9691
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 BAY AREA" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 BAY AREA
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9690
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 LOS ANGELES" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 LOS ANGELES
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9692
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 MOUNTAIN" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 MOUNTAIN
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9689
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 NETWORK" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 NETWORK
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9687
+#EXTINF:-1 tvg-ID="" tvg-name="PAC 12 OREGON" tvg-logo="https://s3.amazonaws.com/ok2logo/PAC12+NETWORK.jpg" group-title="SPORTS",PAC 12 OREGON
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9688
+#EXTINF:-1 tvg-ID="I82541.labs.zap2it.com" tvg-name="*FOX SPORTS 1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/foxsports1.png" group-title="SPORTS",*FOX SPORTS 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/145
+#EXTINF:-1 tvg-ID="I33178.labs.zap2it.com" tvg-name="*FOX SPORTS 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/foxsports2.png" group-title="SPORTS",*FOX SPORTS 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/146
+#EXTINF:-1 tvg-ID="I62111.labs.zap2it.com" tvg-name="*SPORTSNET ONT HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnetont.png" group-title="SPORTS",*SPORTSNET ONT HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/148
+#EXTINF:-1 tvg-ID="I68859.labs.zap2it.com" tvg-name="*SPORTSNET ONE HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnetone.png" group-title="SPORTS",*SPORTSNET ONE HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/149
+#EXTINF:-1 tvg-ID="I18801.labs.zap2it.com" tvg-name="*SPORTSNET PACIFIC HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnetpacific.jpg" group-title="SPORTS",*SPORTSNET PACIFIC HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/2434
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTSNET WEST HD" tvg-logo="https://s3.amazonaws.com/ok2logo/SPORTSNET+GENERAL+LOGO.png" group-title="SPORTS",SPORTSNET WEST HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/8890
+#EXTINF:-1 tvg-ID="I49952.labs.zap2it.com" tvg-name="*SPORTSNET 360 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnet360.png" group-title="SPORTS",*SPORTSNET 360 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/147
+#EXTINF:-1 tvg-ID="I68946.labs.zap2it.com" tvg-name="*SPORTSNET WORLD HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnetworld.png" group-title="SPORTS",*SPORTSNET WORLD HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/150
+#EXTINF:-1 tvg-ID="I45399.labs.zap2it.com" tvg-name="*NFL NETWORK HD" tvg-logo="https://s3.amazonaws.com/ok2logo/nfl.png" group-title="SPORTS",*NFL NETWORK HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/157
+#EXTINF:-1 tvg-ID="I58690.labs.zap2it.com" tvg-name="*NHL NETWORK HD" tvg-logo="https://s3.amazonaws.com/ok2logo/nhlnetwork.png" group-title="SPORTS",*NHL NETWORK HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/156
+#EXTINF:-1 tvg-ID="I60020.labs.zap2it.com" tvg-name="LEAFS TV" tvg-logo="https://s3.amazonaws.com/ok2logo/LEAFS.TV.LOGO.png" group-title="SPORTS",LEAFS TV
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/59039
+#EXTINF:-1 tvg-ID="I45526.labs.zap2it.com" tvg-name="*NBA HD" tvg-logo="https://s3.amazonaws.com/ok2logo/nba.jpg" group-title="SPORTS",*NBA HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/165
+#EXTINF:-1 tvg-ID="I10979.labs.zap2it.com" tvg-name="MSG HD - NEW" tvg-logo="https://s3.amazonaws.com/ok2logo/MSG+LOGO.png" group-title="SPORTS",MSG HD - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/10052
+#EXTINF:-1 tvg-ID="I62079.labs.zap2it.com" tvg-name="MLB NETWORK HD" tvg-logo="https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png" group-title="SPORTS",MLB NETWORK HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/2193
+#EXTINF:-1 tvg-ID="I30017.labs.zap2it.com" tvg-name="YES TV HD - NEW" tvg-logo="https://s3.amazonaws.com/ok2logo/YES+network+tv+logo.png" group-title="SPORTS",YES TV HD - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/10034
+#EXTINF:-1 tvg-ID="I65385.labs.zap2it.com" tvg-name="GOLF HD" tvg-logo="https://s3.amazonaws.com/ok2logo/golf.png" group-title="SPORTS",GOLF HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/166
+#EXTINF:-1 tvg-ID="I91306.labs.zap2it.com" tvg-name="WWE HD" tvg-logo="https://s3.amazonaws.com/ok2logo/wwe.png" group-title="SPORTS",WWE HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/168
+#EXTINF:-1 tvg-ID="" tvg-name="WRESTLING PPV" tvg-logo="" group-title="SPORTS",WRESTLING PPV
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/82718
+#EXTINF:-1 tvg-ID="I33395.labs.zap2it.com" tvg-name="TENNIS HD" tvg-logo="https://s3.amazonaws.com/ok2logo/tennis.png" group-title="SPORTS",TENNIS HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/167
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT - NEW" tvg-logo="https://ok2logo.s3.amazonaws.com/FIGHT+Network+HD+logo.png" group-title="SPORTS",FIGHT - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/71284
+#EXTINF:-1 tvg-ID="" tvg-name="MAVTV" tvg-logo="https://s3.amazonaws.com/ok2logo/mavtv.jpg" group-title="SPORTS",MAVTV
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/68854
+#EXTINF:-1 tvg-ID="I21345.labs.zap2it.com" tvg-name="TVG - NEW" tvg-logo="https://s3.amazonaws.com/ok2logo/TVG.LOGO.jpg" group-title="SPORTS",TVG - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/59036
+#EXTINF:-1 tvg-ID="" tvg-name="TVG 2 - NEW" tvg-logo="https://s3.amazonaws.com/ok2logo/TVG.LOGO.jpg" group-title="SPORTS",TVG 2 - NEW
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/81931
+#EXTINF:-1 tvg-ID="" tvg-name="ATG LIVE" tvg-logo="https://ok2logo.s3.amazonaws.com/ATG.LIVE.LOGO.jpg" group-title="SPORTS",ATG LIVE
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80384
+#EXTINF:-1 tvg-ID="" tvg-name="KANAL 75 INT" tvg-logo="https://ok2logo.s3.amazonaws.com/KANAL.75.TIN.jpg" group-title="SPORTS",KANAL 75 INT
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80388
+#EXTINF:-1 tvg-ID="" tvg-name="LADBROKES" tvg-logo="" group-title="SPORTS",LADBROKES
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80390
+#EXTINF:-1 tvg-ID="" tvg-name="SIS ONE" tvg-logo="https://ok2logo.s3.amazonaws.com/SIS.TV.LOGO.jpg" group-title="SPORTS",SIS ONE
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80387
+#EXTINF:-1 tvg-ID="" tvg-name="SIS RACING" tvg-logo="https://ok2logo.s3.amazonaws.com/SIS.TV.LOGO.jpg" group-title="SPORTS",SIS RACING
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80385
+#EXTINF:-1 tvg-ID="" tvg-name="SIS TWO" tvg-logo="https://ok2logo.s3.amazonaws.com/SIS.TV.LOGO.jpg" group-title="SPORTS",SIS TWO
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80386
+#EXTINF:-1 tvg-ID="" tvg-name="RACING.COM (AU)" tvg-logo="" group-title="SPORTS",RACING.COM (AU)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80783
+#EXTINF:-1 tvg-ID="I49030.labs.zap2it.com" tvg-name="WFN" tvg-logo="https://s3.amazonaws.com/ok2logo/WORLD_FISHING_NETWORK_NEW_PRIMARY.jpg" group-title="SPORTS",WFN
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/26231
+#EXTINF:-1 tvg-ID="I80651.labs.zap2it.com" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052011/outdoor_channel_logo.png?itok=SdNC2anU" group-title="SPORTS",OUTDOOR CHANNEL
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9049
+#EXTINF:-1 tvg-ID="I66310.labs.zap2it.com" tvg-name="SPORTSMAN NETWORK" tvg-logo="http://www.onedayonejob.com/wp-content/uploads/sportsman-channel-logo.png" group-title="SPORTS",SPORTSMAN NETWORK
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9050
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 (AU)" tvg-logo="" group-title="SPORTS",BEIN SPORTS 1 (AU)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80782
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 (AU)" tvg-logo="" group-title="SPORTS",BEIN SPORTS 2 (AU)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80781
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 (AU)" tvg-logo="" group-title="SPORTS",BEIN SPORTS 3 (AU)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/80780
+#EXTINF:-1 tvg-ID="I76942.labs.zap2it.com" tvg-name="*BEIN SPORTS HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports.png" group-title="SPORTS",*BEIN SPORTS HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/171
+#EXTINF:-1 tvg-ID="I76955.labs.zap2it.com" tvg-name="BEIN DEPORTES HD (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports.png" group-title="SPORTS",BEIN DEPORTES HD (ES)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/236
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports1.png" group-title="SPORTS",BEIN SPORTS 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4814
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports2.png" group-title="SPORTS",BEIN SPORTS 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4813
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports3.png" group-title="SPORTS",BEIN SPORTS 3 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4812
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports4.png" group-title="SPORTS",BEIN SPORTS 4 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4811
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports5.png" group-title="SPORTS",BEIN SPORTS 5 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4810
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports6.png" group-title="SPORTS",BEIN SPORTS 6 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4809
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports7.png" group-title="SPORTS",BEIN SPORTS 7 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4808
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports8.png" group-title="SPORTS",BEIN SPORTS 8 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4807
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports9.png" group-title="SPORTS",BEIN SPORTS 9 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4806
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/beinsports10.png" group-title="SPORTS",BEIN SPORTS 10 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4805
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11 HD" tvg-logo="" group-title="SPORTS",BEIN SPORTS 11 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/74480
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 12 HD" tvg-logo="https://ok2logo.s3.amazonaws.com/BEIN.SPORTS.LOGO.png" group-title="SPORTS",BEIN SPORTS 12 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/74479
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 13 HD" tvg-logo="https://ok2logo.s3.amazonaws.com/BEIN.SPORTS.LOGO.png" group-title="SPORTS",BEIN SPORTS 13 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/74478
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS NEWS (AR)" tvg-logo="https://s3.amazonaws.com/ok2logo/BEINsportsnews.png" group-title="SPORTS",BEIN SPORTS NEWS (AR)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4815
+#EXTINF:-1 tvg-ID="I15952.labs.zap2it.com" tvg-name="NBC SPORTS HD" tvg-logo="https://s3.amazonaws.com/ok2logo/nbcsports.png" group-title="SOCCER/FOOTBALL",NBC SPORTS HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/81965
+#EXTINF:-1 tvg-ID="" tvg-name="FLOW 1 HD" tvg-logo="https://ok2logo.s3.amazonaws.com/flow_sports.png" group-title="SOCCER/FOOTBALL",FLOW 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/71116
+#EXTINF:-1 tvg-ID="" tvg-name="FLOW 1 SD" tvg-logo="https://ok2logo.s3.amazonaws.com/flow_sports.png" group-title="SOCCER/FOOTBALL",FLOW 1 SD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/71115
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sonysix.png" group-title="SPORTS",SONY SIX HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/193
+#EXTINF:-1 tvg-ID="" tvg-name="SONY ESPN" tvg-logo="https://s3.amazonaws.com/ok2logo/sonyespn.png" group-title="SPORTS",SONY ESPN
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4191
+#EXTINF:-1 tvg-ID="" tvg-name="PTV SPORTS" tvg-logo="https://s3.amazonaws.com/ok2logo/ptvsports.png" group-title="SPORTS",PTV SPORTS
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/195
+#EXTINF:-1 tvg-ID="I68605.labs.zap2it.com" tvg-name="WILLOW CRICKET HD" tvg-logo="https://s3.amazonaws.com/ok2logo/willowcricket.png" group-title="SPORTS",WILLOW CRICKET HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/198
+#EXTINF:-1 tvg-ID="" tvg-name="WILLOW XTRA HD" tvg-logo="https://s3.amazonaws.com/ok2logo/willowcricket.png" group-title="SPORTS",WILLOW XTRA HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/9630
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS HD ENGLISH" tvg-logo="https://s3.amazonaws.com/ok2logo/starsports1.png" group-title="SPORTS",STAR SPORTS HD ENGLISH
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/199
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://s3.amazonaws.com/ok2logo/starsports2.png" group-title="SPORTS",STAR SPORTS SELECT 2
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/200
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS HINDI" tvg-logo="https://s3.amazonaws.com/ok2logo/starsports3.png" group-title="SPORTS",STAR SPORTS HINDI
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/201
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/STARSPORTS+tv+logo.png" group-title="SPORTS",STAR SPORTS 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/202
+#EXTINF:-1 tvg-ID="" tvg-name="TEN 1" tvg-logo="https://s3.amazonaws.com/ok2logo/ten1.png" group-title="SPORTS",TEN 1
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4193
+#EXTINF:-1 tvg-ID="" tvg-name="TEN 2" tvg-logo="https://s3.amazonaws.com/ok2logo/ten2.png" group-title="SPORTS",TEN 2
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4194
+#EXTINF:-1 tvg-ID="" tvg-name="TEN 3" tvg-logo="https://s3.amazonaws.com/ok2logo/ten3.png" group-title="SPORTS",TEN 3
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/4195
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY BOX NATION" tvg-logo="https://s3.amazonaws.com/ok2logo/boxnation.png" group-title="SPORTS",SKY BOX NATION
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/209
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="EURO SPORT 1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/eurosport.png" group-title="SPORTS",EURO SPORT 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/211
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="EURO SPORT 2 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/eurosport2.png" group-title="SPORTS",EURO SPORT 2 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/212
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://s3.amazonaws.com/ok2logo/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/203
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://s3.amazonaws.com/ok2logo/SKYCRICKET.png" group-title="SPORTS",SKY SPORTS CRICKET
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/205
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://s3.amazonaws.com/ok2logo/SKYACTION.png" group-title="SPORTS",SKY SPORTS ACTION
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/206
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://s3.amazonaws.com/ok2logo/SKYSPORTS.png" group-title="SPORTS",SKY SPORTS ARENA
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/207
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://s3.amazonaws.com/ok2logo/SKYPREMIERLEAGUE.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/208
+#EXTINF:-1 tvg-ID="" tvg-name="SKY AT THE RACES" tvg-logo="https://s3.amazonaws.com/ok2logo/skyattheraces.png" group-title="SPORTS",SKY AT THE RACES
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/2197
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="SKY SPORTS F1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/210
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS MIX" tvg-logo="https://s3.amazonaws.com/ok2logo/premiersports.png" group-title="SPORTS",SKY SPORTS MIX
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/194
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="EIR SPORTS 1 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/setantasports.png" group-title="SPORTS",EIR SPORTS 1 HD
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/234
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORTS INT (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/tycsports.png" group-title="SPORTS",TYC SPORTS INT (ES)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/240
+#EXTINF:-1 tvg-ID="I25595.labs.zap2it.com" tvg-name="ESPN DEPORTES HD (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/espndeportes.png" group-title="SPORTS",ESPN DEPORTES HD (ES)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/238
+#EXTINF:-1 tvg-ID="I15377.labs.zap2it.com" tvg-name="FOX DEPORTES (ES)" tvg-logo="https://s3.amazonaws.com/ok2logo/foxdeportes.jpg" group-title="SPORTS",FOX DEPORTES (ES)
+http://66.northerniptv.ca:8000/5c0aF7Upajggxc8ZZ/a41eF9URcM2A1LEET/237#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS 3 SD" tvg-logo="" group-title="SPORTS FR",RMC SPORTS 3 SD
 http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 3 HD
