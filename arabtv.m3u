@@ -1,4 +1,814 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MBC1 (ARB)" tvg-logo="" group-title="ARABIC",MBC1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5514
+#EXTINF:-1 tvg-ID="" tvg-name="MBC2 (ARB)" tvg-logo="" group-title="ARABIC",MBC2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5837
+#EXTINF:-1 tvg-ID="" tvg-name="MBC3 (ARB)" tvg-logo="" group-title="ARABIC",MBC3 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5512
+#EXTINF:-1 tvg-ID="" tvg-name="MBC4 (ARB)" tvg-logo="" group-title="ARABIC",MBC4 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5511
+#EXTINF:-1 tvg-ID="" tvg-name="MBCAction (ARB)" tvg-logo="" group-title="ARABIC",MBCAction (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5510
+#EXTINF:-1 tvg-ID="" tvg-name="MBCBollywood (ARB)" tvg-logo="" group-title="ARABIC",MBCBollywood (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5507
+#EXTINF:-1 tvg-ID="" tvg-name="MBCDrama (ARB)" tvg-logo="" group-title="ARABIC",MBCDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5509
+#EXTINF:-1 tvg-ID="" tvg-name="MBC IRAQ (ARB)" tvg-logo="" group-title="ARABIC",MBC IRAQ (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69065
+#EXTINF:-1 tvg-ID="" tvg-name="MBCMaser (ARB)" tvg-logo="" group-title="ARABIC",MBCMaser (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5505
+#EXTINF:-1 tvg-ID="" tvg-name="MBCMAX (ARB)" tvg-logo="" group-title="ARABIC",MBCMAX (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5508
+#EXTINF:-1 tvg-ID="" tvg-name="AlJazeera (ARB)" tvg-logo="" group-title="ARABIC",AlJazeera (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5363
+#EXTINF:-1 tvg-ID="" tvg-name="AlJazeeraDocumentary (ARB)" tvg-logo="" group-title="ARABIC",AlJazeeraDocumentary (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5364
+#EXTINF:-1 tvg-ID="" tvg-name="AlJazeeraEnglish (ARB)" tvg-logo="" group-title="ARABIC",AlJazeeraEnglish (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5503
+#EXTINF:-1 tvg-ID="" tvg-name="AlJazeeraMubasher (ARB)" tvg-logo="" group-title="ARABIC",AlJazeeraMubasher (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5362
+#EXTINF:-1 tvg-ID="" tvg-name="AlArabiya (ARB)" tvg-logo="" group-title="ARABIC",AlArabiya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5470
+#EXTINF:-1 tvg-ID="" tvg-name="ALJADEED" tvg-logo="" group-title="ARABIC",ALJADEED
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72814
+#EXTINF:-1 tvg-ID="" tvg-name="SkyNewsArabia (ARB)" tvg-logo="" group-title="ARABIC",SkyNewsArabia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5479
+#EXTINF:-1 tvg-ID="" tvg-name="ALSHARQIYANEWS (ARB)" tvg-logo="" group-title="ARABIC",ALSHARQIYANEWS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5553
+#EXTINF:-1 tvg-ID="" tvg-name="BBCArabic (ARB)" tvg-logo="" group-title="ARABIC",BBCArabic (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5383
+#EXTINF:-1 tvg-ID="" tvg-name="CNBCARABIYA (ARB)" tvg-logo="" group-title="ARABIC",CNBCARABIYA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5652
+#EXTINF:-1 tvg-ID="" tvg-name="France24 (ARB)" tvg-logo="" group-title="ARABIC",France24 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5471
+#EXTINF:-1 tvg-ID="" tvg-name="RTARABIC (ARB)" tvg-logo="" group-title="ARABIC",RTARABIC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5771
+#EXTINF:-1 tvg-ID="" tvg-name="LBCHD (ARB)" tvg-logo="" group-title="ARABIC",LBCHD (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5328
+#EXTINF:-1 tvg-ID="" tvg-name="LBCSAT (ARB)" tvg-logo="" group-title="ARABIC",LBCSAT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5400
+#EXTINF:-1 tvg-ID="" tvg-name="LDC (ARB)" tvg-logo="" group-title="ARABIC",LDC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5394
+#EXTINF:-1 tvg-ID="" tvg-name="LebanonTV (ARB)" tvg-logo="" group-title="ARABIC",LebanonTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5361
+#EXTINF:-1 tvg-ID="" tvg-name="MTVLebanon (ARB)" tvg-logo="" group-title="ARABIC",MTVLebanon (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5573
+#EXTINF:-1 tvg-ID="" tvg-name="NBN (ARB)" tvg-logo="" group-title="ARABIC",NBN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5572
+#EXTINF:-1 tvg-ID="" tvg-name="OTV (ARB)" tvg-logo="" group-title="ARABIC",OTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5440
+#EXTINF:-1 tvg-ID="" tvg-name="FUTURE (ARB)" tvg-logo="" group-title="ARABIC",FUTURE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5799
+#EXTINF:-1 tvg-ID="" tvg-name="ALMAYADEENTV (ARB)" tvg-logo="" group-title="ARABIC",ALMAYADEENTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5577
+#EXTINF:-1 tvg-ID="" tvg-name="ALMEEDAN (ARB)" tvg-logo="" group-title="ARABIC",ALMEEDAN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5525
+#EXTINF:-1 tvg-ID="" tvg-name="CBC (ARB)" tvg-logo="" group-title="ARABIC",CBC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5480
+#EXTINF:-1 tvg-ID="" tvg-name="CBCDrama (ARB)" tvg-logo="" group-title="ARABIC",CBCDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5488
+#EXTINF:-1 tvg-ID="" tvg-name="CBCExtra (ARB)" tvg-logo="" group-title="ARABIC",CBCExtra (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5489
+#EXTINF:-1 tvg-ID="" tvg-name="CBCSofra (ARB)" tvg-logo="" group-title="ARABIC",CBCSofra (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5490
+#EXTINF:-1 tvg-ID="" tvg-name="NileCinema (ARB)" tvg-logo="" group-title="ARABIC",NileCinema (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5455
+#EXTINF:-1 tvg-ID="" tvg-name="NILECOMEDY (ARB)" tvg-logo="" group-title="ARABIC",NILECOMEDY (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5453
+#EXTINF:-1 tvg-ID="" tvg-name="NileCulture (ARB)" tvg-logo="" group-title="ARABIC",NileCulture (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5456
+#EXTINF:-1 tvg-ID="" tvg-name="NileDrama (ARB)" tvg-logo="" group-title="ARABIC",NileDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5457
+#EXTINF:-1 tvg-ID="" tvg-name="NileFamily (ARB)" tvg-logo="" group-title="ARABIC",NileFamily (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5778
+#EXTINF:-1 tvg-ID="" tvg-name="NileLife (ARB)" tvg-logo="" group-title="ARABIC",NileLife (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5458
+#EXTINF:-1 tvg-ID="" tvg-name="NILENEWS (ARB)" tvg-logo="" group-title="ARABIC",NILENEWS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5454
+#EXTINF:-1 tvg-ID="" tvg-name="NileSport (ARB)" tvg-logo="" group-title="ARABIC",NileSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5459
+#EXTINF:-1 tvg-ID="" tvg-name="niletv (ARB)" tvg-logo="" group-title="ARABIC",niletv (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5412
+#EXTINF:-1 tvg-ID="" tvg-name="MariamTV (ARB)" tvg-logo="" group-title="ARABIC",MariamTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5530
+#EXTINF:-1 tvg-ID="" tvg-name="ANB (ARB) - NEW" tvg-logo="" group-title="ARABIC",ANB (ARB) - NEW
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/60132
+#EXTINF:-1 tvg-ID="" tvg-name="OM DORMAN TV (ARB)" tvg-logo="" group-title="ARABIC",OM DORMAN TV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/45286
+#EXTINF:-1 tvg-ID="" tvg-name="Rotana (ARB)" tvg-logo="" group-title="ARABIC",Rotana (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5496
+#EXTINF:-1 tvg-ID="" tvg-name="ROTANAAFLMAHD (ARB)" tvg-logo="" group-title="ARABIC",ROTANAAFLMAHD (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5324
+#EXTINF:-1 tvg-ID="" tvg-name="ROTANACINEMAKSA (ARB)" tvg-logo="" group-title="ARABIC",ROTANACINEMAKSA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5630
+#EXTINF:-1 tvg-ID="" tvg-name="RotanaClassic (ARB)" tvg-logo="" group-title="ARABIC",RotanaClassic (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5499
+#EXTINF:-1 tvg-ID="" tvg-name="RotanaCinema (ARB)" tvg-logo="" group-title="ARABIC",RotanaCinema (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5497
+#EXTINF:-1 tvg-ID="" tvg-name="RotanaClip (ARB)" tvg-logo="" group-title="ARABIC",RotanaClip (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5501
+#EXTINF:-1 tvg-ID="" tvg-name="RotanaKhalijia (ARB)" tvg-logo="" group-title="ARABIC",RotanaKhalijia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5500
+#EXTINF:-1 tvg-ID="" tvg-name="RotanaMasriya (ARB)" tvg-logo="" group-title="ARABIC",RotanaMasriya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5498
+#EXTINF:-1 tvg-ID="" tvg-name="ALhayat-EGYPT (ARB)" tvg-logo="" group-title="ARABIC",ALhayat-EGYPT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5385
+#EXTINF:-1 tvg-ID="" tvg-name="ONTVEgypt (ARB)" tvg-logo="" group-title="ARABIC",ONTVEgypt (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5646
+#EXTINF:-1 tvg-ID="" tvg-name="AlNahar (ARB)" tvg-logo="" group-title="ARABIC",AlNahar (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5627
+#EXTINF:-1 tvg-ID="" tvg-name="AlNahardrama (ARB)" tvg-logo="" group-title="ARABIC",AlNahardrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5432
+#EXTINF:-1 tvg-ID="" tvg-name="AlHayat (ARB)" tvg-logo="" group-title="ARABIC",AlHayat (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5360
+#EXTINF:-1 tvg-ID="" tvg-name="AlHayat2 (ARB)" tvg-logo="" group-title="ARABIC",AlHayat2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5504
+#EXTINF:-1 tvg-ID="" tvg-name="AlhayatMuslsalat (ARB)" tvg-logo="" group-title="ARABIC",AlhayatMuslsalat (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5410
+#EXTINF:-1 tvg-ID="" tvg-name="PanoramaDrama (ARB)" tvg-logo="" group-title="ARABIC",PanoramaDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5398
+#EXTINF:-1 tvg-ID="" tvg-name="Cairocinema (ARB)" tvg-logo="" group-title="ARABIC",Cairocinema (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5309
+#EXTINF:-1 tvg-ID="" tvg-name="CairoDrama (ARB)" tvg-logo="" group-title="ARABIC",CairoDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5308
+#EXTINF:-1 tvg-ID="" tvg-name="dmcdrama (ARB)" tvg-logo="" group-title="ARABIC",dmcdrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5689
+#EXTINF:-1 tvg-ID="" tvg-name="dmcNews (ARB)" tvg-logo="" group-title="ARABIC",dmcNews (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5692
+#EXTINF:-1 tvg-ID="" tvg-name="ARTAflam1 (ARB)" tvg-logo="" group-title="ARABIC",ARTAflam1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5493
+#EXTINF:-1 tvg-ID="" tvg-name="ARTAflam2 (ARB)" tvg-logo="" group-title="ARABIC",ARTAflam2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5492
+#EXTINF:-1 tvg-ID="" tvg-name="ARTCinema (ARB)" tvg-logo="" group-title="ARABIC",ARTCinema (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5491
+#EXTINF:-1 tvg-ID="" tvg-name="ARTHekayatZaman (ARB)" tvg-logo="" group-title="ARABIC",ARTHekayatZaman (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5495
+#EXTINF:-1 tvg-ID="" tvg-name="SYRIADRAMA (ARB)" tvg-logo="" group-title="ARABIC",SYRIADRAMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5594
+#EXTINF:-1 tvg-ID="" tvg-name="SyriaMedicalTV (ARB)" tvg-logo="" group-title="ARABIC",SyriaMedicalTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5585
+#EXTINF:-1 tvg-ID="" tvg-name="SYRIASATELLITETV (ARB)" tvg-logo="" group-title="ARABIC",SYRIASATELLITETV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5683
+#EXTINF:-1 tvg-ID="" tvg-name="2m (ARB)" tvg-logo="" group-title="ARABIC",2m (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5485
+#EXTINF:-1 tvg-ID="" tvg-name="5STARS (ARB)" tvg-logo="" group-title="ARABIC",5STARS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5371
+#EXTINF:-1 tvg-ID="" tvg-name="7BESHA (ARB)" tvg-logo="" group-title="ARABIC",7BESHA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5607
+#EXTINF:-1 tvg-ID="" tvg-name="Abudhabidrama (ARB)" tvg-logo="" group-title="ARABIC",Abudhabidrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5349
+#EXTINF:-1 tvg-ID="" tvg-name="AbuDhabitv (ARB)" tvg-logo="" group-title="ARABIC",AbuDhabitv (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5374
+#EXTINF:-1 tvg-ID="" tvg-name="ADNatGeo (ARB)" tvg-logo="" group-title="ARABIC",ADNatGeo (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5565
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT1 (ARB)" tvg-logo="" group-title="ARABIC",ADSPORT1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5367
+#EXTINF:-1 tvg-ID="" tvg-name="ADSPORT2 (ARB)" tvg-logo="" group-title="ARABIC",ADSPORT2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5366
+#EXTINF:-1 tvg-ID="" tvg-name="Afak (ARB)" tvg-logo="" group-title="ARABIC",Afak (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5641
+#EXTINF:-1 tvg-ID="" tvg-name="AghaniAghani (ARB)" tvg-logo="" group-title="ARABIC",AghaniAghani (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5568
+#EXTINF:-1 tvg-ID="" tvg-name="AGHAPYTV (ARB)" tvg-logo="" group-title="ARABIC",AGHAPYTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5472
+#EXTINF:-1 tvg-ID="" tvg-name="AhelAlQuran (ARB)" tvg-logo="" group-title="ARABIC",AhelAlQuran (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5586
+#EXTINF:-1 tvg-ID="" tvg-name="Al-AqilaT (ARB)" tvg-logo="" group-title="ARABIC",Al-AqilaT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5643
+#EXTINF:-1 tvg-ID="" tvg-name="Al-KhabarTV (ARB)" tvg-logo="" group-title="ARABIC",Al-KhabarTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5675
+#EXTINF:-1 tvg-ID="" tvg-name="Al-Majd3 (ARB)" tvg-logo="" group-title="ARABIC",Al-Majd3 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5602
+#EXTINF:-1 tvg-ID="" tvg-name="Al-ShahedTV (ARB)" tvg-logo="" group-title="ARABIC",Al-ShahedTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5355
+#EXTINF:-1 tvg-ID="" tvg-name="ALAANTV (ARB)" tvg-logo="" group-title="ARABIC",ALAANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5575
+#EXTINF:-1 tvg-ID="" tvg-name="AlAhlyTV (ARB)" tvg-logo="" group-title="ARABIC",AlAhlyTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5396
+#EXTINF:-1 tvg-ID="" tvg-name="ALAnbar (ARB)" tvg-logo="" group-title="ARABIC",ALAnbar (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5377
+#EXTINF:-1 tvg-ID="" tvg-name="ALAnwar (ARB)" tvg-logo="" group-title="ARABIC",ALAnwar (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5615
+#EXTINF:-1 tvg-ID="" tvg-name="AlAOULA (ARB)" tvg-logo="" group-title="ARABIC",AlAOULA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5484
+#EXTINF:-1 tvg-ID="" tvg-name="AlArabyTV (ARB)" tvg-logo="" group-title="ARABIC",AlArabyTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5608
+#EXTINF:-1 tvg-ID="" tvg-name="ALASRARTV (ARB)" tvg-logo="" group-title="ARABIC",ALASRARTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5624
+#EXTINF:-1 tvg-ID="" tvg-name="AlBasira (ARB)" tvg-logo="" group-title="ARABIC",AlBasira (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5785
+#EXTINF:-1 tvg-ID="" tvg-name="AlBasira2 (ARB)" tvg-logo="" group-title="ARABIC",AlBasira2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5784
+#EXTINF:-1 tvg-ID="" tvg-name="ALEKHBARIYAALSORIYA (ARB)" tvg-logo="" group-title="ARABIC",ALEKHBARIYAALSORIYA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5527
+#EXTINF:-1 tvg-ID="" tvg-name="ALEMARATTV (ARB)" tvg-logo="" group-title="ARABIC",ALEMARATTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5526
+#EXTINF:-1 tvg-ID="" tvg-name="AlFady (ARB)" tvg-logo="" group-title="ARABIC",AlFady (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5450
+#EXTINF:-1 tvg-ID="" tvg-name="AlforatR (ARB)" tvg-logo="" group-title="ARABIC",AlforatR (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5320
+#EXTINF:-1 tvg-ID="" tvg-name="AlGhadeer (ARB)" tvg-logo="" group-title="ARABIC",AlGhadeer (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5644
+#EXTINF:-1 tvg-ID="" tvg-name="ALHadathIraq (ARB)" tvg-logo="" group-title="ARABIC",ALHadathIraq (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5672
+#EXTINF:-1 tvg-ID="" tvg-name="AlHekayat2 (ARB)" tvg-logo="" group-title="ARABIC",AlHekayat2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5494
+#EXTINF:-1 tvg-ID="" tvg-name="AlHorreya (ARB)" tvg-logo="" group-title="ARABIC",AlHorreya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5451
+#EXTINF:-1 tvg-ID="" tvg-name="ALHurraIraq (ARB)" tvg-logo="" group-title="ARABIC",ALHurraIraq (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5634
+#EXTINF:-1 tvg-ID="" tvg-name="ALIMANTV (ARB)" tvg-logo="" group-title="ARABIC",ALIMANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5574
+#EXTINF:-1 tvg-ID="" tvg-name="AlInsenTV (ARB)" tvg-logo="" group-title="ARABIC",AlInsenTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5620
+#EXTINF:-1 tvg-ID="" tvg-name="ALjanoubia (ARB)" tvg-logo="" group-title="ARABIC",ALjanoubia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5619
+#EXTINF:-1 tvg-ID="" tvg-name="AlKaheraWalNas (ARB)" tvg-logo="" group-title="ARABIC",AlKaheraWalNas (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5633
+#EXTINF:-1 tvg-ID="" tvg-name="AlKaheraWalNas2 (ARB)" tvg-logo="" group-title="ARABIC",AlKaheraWalNas2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5475
+#EXTINF:-1 tvg-ID="" tvg-name="AlKarama (ARB)" tvg-logo="" group-title="ARABIC",AlKarama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5474
+#EXTINF:-1 tvg-ID="" tvg-name="ALKAWTHAR (ARB)" tvg-logo="" group-title="ARABIC",ALKAWTHAR (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5567
+#EXTINF:-1 tvg-ID="" tvg-name="ALKOFIYA (ARB)" tvg-logo="" group-title="ARABIC",ALKOFIYA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5430
+#EXTINF:-1 tvg-ID="" tvg-name="AlMaghribia (ARB)" tvg-logo="" group-title="ARABIC",AlMaghribia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5483
+#EXTINF:-1 tvg-ID="" tvg-name="ALMAJLIS (ARB)" tvg-logo="" group-title="ARABIC",ALMAJLIS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5696
+#EXTINF:-1 tvg-ID="" tvg-name="AlMalakoot (ARB)" tvg-logo="" group-title="ARABIC",AlMalakoot (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5467
+#EXTINF:-1 tvg-ID="" tvg-name="ALmasriya (ARB)" tvg-logo="" group-title="ARABIC",ALmasriya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5635
+#EXTINF:-1 tvg-ID="" tvg-name="ALMASSARALOULA (ARB)" tvg-logo="" group-title="ARABIC",ALMASSARALOULA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5435
+#EXTINF:-1 tvg-ID="" tvg-name="AlMawsleya (ARB)" tvg-logo="" group-title="ARABIC",AlMawsleya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5673
+#EXTINF:-1 tvg-ID="" tvg-name="ALNADATV (ARB)" tvg-logo="" group-title="ARABIC",ALNADATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5370
+#EXTINF:-1 tvg-ID="" tvg-name="AlNaeemTV (ARB)" tvg-logo="" group-title="ARABIC",AlNaeemTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5387
+#EXTINF:-1 tvg-ID="" tvg-name="AlNas (ARB)" tvg-logo="" group-title="ARABIC",AlNas (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5540
+#EXTINF:-1 tvg-ID="" tvg-name="ALOSTORA (ARB)" tvg-logo="" group-title="ARABIC",ALOSTORA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5722
+#EXTINF:-1 tvg-ID="" tvg-name="AlRafiden (ARB)" tvg-logo="" group-title="ARABIC",AlRafiden (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5376
+#EXTINF:-1 tvg-ID="" tvg-name="ALRAHMA (ARB)" tvg-logo="" group-title="ARABIC",ALRAHMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5596
+#EXTINF:-1 tvg-ID="" tvg-name="AlRasheed (ARB)" tvg-logo="" group-title="ARABIC",AlRasheed (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5379
+#EXTINF:-1 tvg-ID="" tvg-name="ALResala (ARB)" tvg-logo="" group-title="ARABIC",ALResala (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5375
+#EXTINF:-1 tvg-ID="" tvg-name="AlSaeedah (ARB)" tvg-logo="" group-title="ARABIC",AlSaeedah (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5791
+#EXTINF:-1 tvg-ID="" tvg-name="ALSaha (ARB)" tvg-logo="" group-title="ARABIC",ALSaha (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5564
+#EXTINF:-1 tvg-ID="" tvg-name="ALSehaWaljamal (ARB)" tvg-logo="" group-title="ARABIC",ALSehaWaljamal (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5657
+#EXTINF:-1 tvg-ID="" tvg-name="ALSIRAT (ARB)" tvg-logo="" group-title="ARABIC",ALSIRAT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5576
+#EXTINF:-1 tvg-ID="" tvg-name="AlSumariaTV (ARB)" tvg-logo="" group-title="ARABIC",AlSumariaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5378
+#EXTINF:-1 tvg-ID="" tvg-name="Altaghier (ARB)" tvg-logo="" group-title="ARABIC",Altaghier (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5637
+#EXTINF:-1 tvg-ID="" tvg-name="Althanya (ARB)" tvg-logo="" group-title="ARABIC",Althanya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5418
+#EXTINF:-1 tvg-ID="" tvg-name="ANN (ARB)" tvg-logo="" group-title="ARABIC",ANN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5597
+#EXTINF:-1 tvg-ID="" tvg-name="AnwarTV2 (ARB)" tvg-logo="" group-title="ARABIC",AnwarTV2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5449
+#EXTINF:-1 tvg-ID="" tvg-name="Arrabiaa (ARB)" tvg-logo="" group-title="ARABIC",Arrabiaa (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5482
+#EXTINF:-1 tvg-ID="" tvg-name="Arriadia (ARB)" tvg-logo="" group-title="ARABIC",Arriadia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5481
+#EXTINF:-1 tvg-ID="" tvg-name="AshrooqTv (ARB)" tvg-logo="" group-title="ARABIC",AshrooqTv (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5676
+#EXTINF:-1 tvg-ID="" tvg-name="Assadissa (ARB)" tvg-logo="" group-title="ARABIC",Assadissa (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5629
+#EXTINF:-1 tvg-ID="" tvg-name="Azhari (ARB)" tvg-logo="" group-title="ARABIC",Azhari (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5372
+#EXTINF:-1 tvg-ID="" tvg-name="B4UAflam (ARB)" tvg-logo="" group-title="ARABIC",B4UAflam (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5599
+#EXTINF:-1 tvg-ID="" tvg-name="B4UPLUS (ARB)" tvg-logo="" group-title="ARABIC",B4UPLUS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5413
+#EXTINF:-1 tvg-ID="" tvg-name="BahrainInternational (ARB)" tvg-logo="" group-title="ARABIC",BahrainInternational (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5741
+#EXTINF:-1 tvg-ID="" tvg-name="BahrainQuran (ARB)" tvg-logo="" group-title="ARABIC",BahrainQuran (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5740
+#EXTINF:-1 tvg-ID="" tvg-name="BahrainTV (ARB)" tvg-logo="" group-title="ARABIC",BahrainTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5737
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTSHD (ARB)" tvg-logo="" group-title="ARABIC",beINSPORTSHD (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5546
+#EXTINF:-1 tvg-ID="" tvg-name="beinsportsnews (ARB)" tvg-logo="" group-title="ARABIC",beinsportsnews (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5558
+#EXTINF:-1 tvg-ID="" tvg-name="Beladi (ARB)" tvg-logo="" group-title="ARABIC",Beladi (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5670
+#EXTINF:-1 tvg-ID="" tvg-name="BELODYAFLAM (ARB)" tvg-logo="" group-title="ARABIC",BELODYAFLAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5429
+#EXTINF:-1 tvg-ID="" tvg-name="BELQEES (ARB)" tvg-logo="" group-title="ARABIC",BELQEES (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5659
+#EXTINF:-1 tvg-ID="" tvg-name="blueniletv (ARB)" tvg-logo="" group-title="ARABIC",blueniletv (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5788
+#EXTINF:-1 tvg-ID="" tvg-name="CANALALGERIE (ARB)" tvg-logo="" group-title="ARABIC",CANALALGERIE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5547
+#EXTINF:-1 tvg-ID="" tvg-name="cartoonnetarabic (ARB)" tvg-logo="" group-title="ARABIC",cartoonnetarabic (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5557
+#EXTINF:-1 tvg-ID="" tvg-name="CIMAALIBABA (ARB)" tvg-logo="" group-title="ARABIC",CIMAALIBABA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5606
+#EXTINF:-1 tvg-ID="" tvg-name="CIMATUBE (ARB)" tvg-logo="" group-title="ARABIC",CIMATUBE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5542
+#EXTINF:-1 tvg-ID="" tvg-name="CimaTV (ARB)" tvg-logo="" group-title="ARABIC",CimaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5532
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA1 (ARB)" tvg-logo="" group-title="ARABIC",CINEMA1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5427
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA2 (ARB)" tvg-logo="" group-title="ARABIC",CINEMA2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5426
+#EXTINF:-1 tvg-ID="" tvg-name="CinemaPro (ARB)" tvg-logo="" group-title="ARABIC",CinemaPro (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5478
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMATUBE (ARB)" tvg-logo="" group-title="ARABIC",CINEMATUBE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5541
+#EXTINF:-1 tvg-ID="" tvg-name="CITRUSSTV (ARB)" tvg-logo="" group-title="ARABIC",CITRUSSTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5721
+#EXTINF:-1 tvg-ID="" tvg-name="CNA (ARB)" tvg-logo="" group-title="ARABIC",CNA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5611
+#EXTINF:-1 tvg-ID="" tvg-name="CNN (ARB)" tvg-logo="" group-title="ARABIC",CNN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5506
+#EXTINF:-1 tvg-ID="" tvg-name="CopticTV (ARB)" tvg-logo="" group-title="ARABIC",CopticTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5473
+#EXTINF:-1 tvg-ID="" tvg-name="Dewan (ARB)" tvg-logo="" group-title="ARABIC",Dewan (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5639
+#EXTINF:-1 tvg-ID="" tvg-name="DijlahTV (ARB)" tvg-logo="" group-title="ARABIC",DijlahTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5556
+#EXTINF:-1 tvg-ID="" tvg-name="DUBAIONE (ARB)" tvg-logo="" group-title="ARABIC",DUBAIONE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5417
+#EXTINF:-1 tvg-ID="" tvg-name="DUBAIRACING (ARB)" tvg-logo="" group-title="ARABIC",DUBAIRACING (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5416
+#EXTINF:-1 tvg-ID="" tvg-name="DubaiTV (ARB)" tvg-logo="" group-title="ARABIC",DubaiTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5730
+#EXTINF:-1 tvg-ID="" tvg-name="DubaiZaman (ARB)" tvg-logo="" group-title="ARABIC",DubaiZaman (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5537
+#EXTINF:-1 tvg-ID="" tvg-name="Dzair24 (ARB)" tvg-logo="" group-title="ARABIC",Dzair24 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5603
+#EXTINF:-1 tvg-ID="" tvg-name="EchoroukbennaTV (ARB)" tvg-logo="" group-title="ARABIC",EchoroukbennaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5796
+#EXTINF:-1 tvg-ID="" tvg-name="EchoroukTV (ARB)" tvg-logo="" group-title="ARABIC",EchoroukTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5626
+#EXTINF:-1 tvg-ID="" tvg-name="ELBILADTV (ARB)" tvg-logo="" group-title="ARABIC",ELBILADTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5625
+#EXTINF:-1 tvg-ID="" tvg-name="ElhiwarEttounsiTV (ARB)" tvg-logo="" group-title="ARABIC",ElhiwarEttounsiTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5612
+#EXTINF:-1 tvg-ID="" tvg-name="ELMOLED (ARB)" tvg-logo="" group-title="ARABIC",ELMOLED (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5592
+#EXTINF:-1 tvg-ID="" tvg-name="EnnaharLaki (ARB)" tvg-logo="" group-title="ARABIC",EnnaharLaki (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5535
+#EXTINF:-1 tvg-ID="" tvg-name="EriteriaTV (ARB)" tvg-logo="" group-title="ARABIC",EriteriaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5667
+#EXTINF:-1 tvg-ID="" tvg-name="FILMTUBE (ARB)" tvg-logo="" group-title="ARABIC",FILMTUBE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5543
+#EXTINF:-1 tvg-ID="" tvg-name="FreeTV (ARB)" tvg-logo="" group-title="ARABIC",FreeTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5669
+#EXTINF:-1 tvg-ID="" tvg-name="FUNoon (ARB)" tvg-logo="" group-title="ARABIC",FUNoon (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5559
+#EXTINF:-1 tvg-ID="" tvg-name="FutureTV (ARB)" tvg-logo="" group-title="ARABIC",FutureTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5317
+#EXTINF:-1 tvg-ID="" tvg-name="Gali_Kurdistan (ARB)" tvg-logo="" group-title="ARABIC",Gali_Kurdistan (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5406
+#EXTINF:-1 tvg-ID="" tvg-name="HalabaTV (ARB)" tvg-logo="" group-title="ARABIC",HalabaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5609
+#EXTINF:-1 tvg-ID="" tvg-name="HalaTV (ARB)" tvg-logo="" group-title="ARABIC",HalaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5353
+#EXTINF:-1 tvg-ID="" tvg-name="Hawacom (ARB)" tvg-logo="" group-title="ARABIC",Hawacom (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5679
+#EXTINF:-1 tvg-ID="" tvg-name="HeyaTV (ARB)" tvg-logo="" group-title="ARABIC",HeyaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5359
+#EXTINF:-1 tvg-ID="" tvg-name="HonaBaghdad (ARB)" tvg-logo="" group-title="ARABIC",HonaBaghdad (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5671
+#EXTINF:-1 tvg-ID="" tvg-name="IFilmArabic (ARB)" tvg-logo="" group-title="ARABIC",IFilmArabic (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5587
+#EXTINF:-1 tvg-ID="" tvg-name="Iqraa (ARB)" tvg-logo="" group-title="ARABIC",Iqraa (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5464
+#EXTINF:-1 tvg-ID="" tvg-name="IraqFutureTV (ARB)" tvg-logo="" group-title="ARABIC",IraqFutureTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5462
+#EXTINF:-1 tvg-ID="" tvg-name="Iraqia (ARB)" tvg-logo="" group-title="ARABIC",Iraqia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5534
+#EXTINF:-1 tvg-ID="" tvg-name="IraqiaSport (ARB)" tvg-logo="" group-title="ARABIC",IraqiaSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5566
+#EXTINF:-1 tvg-ID="" tvg-name="IraqiaTVnews (ARB)" tvg-logo="" group-title="ARABIC",IraqiaTVnews (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5380
+#EXTINF:-1 tvg-ID="" tvg-name="IraqNow (ARB)" tvg-logo="" group-title="ARABIC",IraqNow (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5465
+#EXTINF:-1 tvg-ID="" tvg-name="Jordan (ARB)" tvg-logo="" group-title="ARABIC",Jordan (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5681
+#EXTINF:-1 tvg-ID="" tvg-name="JordanSport (ARB)" tvg-logo="" group-title="ARABIC",JordanSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5386
+#EXTINF:-1 tvg-ID="" tvg-name="RTI 2 COTE D'IVOIRE (ARB)" tvg-logo="" group-title="ARABIC",RTI 2 COTE D'IVOIRE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5805
+#EXTINF:-1 tvg-ID="" tvg-name="KARAMEESH (ARB)" tvg-logo="" group-title="ARABIC",KARAMEESH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5749
+#EXTINF:-1 tvg-ID="" tvg-name="KARBALATV (ARB)" tvg-logo="" group-title="ARABIC",KARBALATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5631
+#EXTINF:-1 tvg-ID="" tvg-name="KOKKYTV (ARB)" tvg-logo="" group-title="ARABIC",KOKKYTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5632
+#EXTINF:-1 tvg-ID="" tvg-name="KTVALARABI (ARB)" tvg-logo="" group-title="ARABIC",KTVALARABI (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5697
+#EXTINF:-1 tvg-ID="" tvg-name="KTVEthraa (ARB)" tvg-logo="" group-title="ARABIC",KTVEthraa (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5699
+#EXTINF:-1 tvg-ID="" tvg-name="Kuwait_Radio_1 (ARB)" tvg-logo="" group-title="ARABIC",Kuwait_Radio_1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5695
+#EXTINF:-1 tvg-ID="" tvg-name="Kuwait-TV2 (ARB)" tvg-logo="" group-title="ARABIC",Kuwait-TV2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5310
+#EXTINF:-1 tvg-ID="" tvg-name="KuwaitSport (ARB)" tvg-logo="" group-title="ARABIC",KuwaitSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5700
+#EXTINF:-1 tvg-ID="" tvg-name="KuwaitSportPlus (ARB)" tvg-logo="" group-title="ARABIC",KuwaitSportPlus (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5698
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYA218 (ARB)" tvg-logo="" group-title="ARABIC",LIBYA218 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5539
+#EXTINF:-1 tvg-ID="" tvg-name="LibyaAlhrar (ARB)" tvg-logo="" group-title="ARABIC",LibyaAlhrar (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5610
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYAALWATNYAH (ARB)" tvg-logo="" group-title="ARABIC",LIBYAALWATNYAH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5661
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYARSMIACh (ARB)" tvg-logo="" group-title="ARABIC",LIBYARSMIACh (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5523
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYASCHANNEL (ARB)" tvg-logo="" group-title="ARABIC",LIBYASCHANNEL (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5522
+#EXTINF:-1 tvg-ID="" tvg-name="LogosTV (ARB)" tvg-logo="" group-title="ARABIC",LogosTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5447
+#EXTINF:-1 tvg-ID="" tvg-name="LTC (ARB)" tvg-logo="" group-title="ARABIC",LTC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5593
+#EXTINF:-1 tvg-ID="" tvg-name="Majan (ARB)" tvg-logo="" group-title="ARABIC",Majan (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5373
+#EXTINF:-1 tvg-ID="" tvg-name="MAJESTICCINEMA (ARB)" tvg-logo="" group-title="ARABIC",MAJESTICCINEMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5552
+#EXTINF:-1 tvg-ID="" tvg-name="MANAR (ARB)" tvg-logo="" group-title="ARABIC",MANAR (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5578
+#EXTINF:-1 tvg-ID="" tvg-name="MasperoZaman (ARB)" tvg-logo="" group-title="ARABIC",MasperoZaman (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5708
+#EXTINF:-1 tvg-ID="" tvg-name="MClassic (ARB)" tvg-logo="" group-title="ARABIC",MClassic (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5528
+#EXTINF:-1 tvg-ID="" tvg-name="Mecca (ARB)" tvg-logo="" group-title="ARABIC",Mecca (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5529
+#EXTINF:-1 tvg-ID="" tvg-name="Medi1TV (ARB)" tvg-logo="" group-title="ARABIC",Medi1TV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5369
+#EXTINF:-1 tvg-ID="" tvg-name="Mehwer (ARB)" tvg-logo="" group-title="ARABIC",Mehwer (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5408
+#EXTINF:-1 tvg-ID="" tvg-name="MEKAMELEENTV (ARB)" tvg-logo="" group-title="ARABIC",MEKAMELEENTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5348
+#EXTINF:-1 tvg-ID="" tvg-name="MESat (ARB)" tvg-logo="" group-title="ARABIC",MESat (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5392
+#EXTINF:-1 tvg-ID="" tvg-name="MICKEYCHANNEL (ARB)" tvg-logo="" group-title="ARABIC",MICKEYCHANNEL (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5591
+#EXTINF:-1 tvg-ID="" tvg-name="MiracleTV (ARB)" tvg-logo="" group-title="ARABIC",MiracleTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5786
+#EXTINF:-1 tvg-ID="" tvg-name="MisrELBald (ARB)" tvg-logo="" group-title="ARABIC",MisrELBald (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5460
+#EXTINF:-1 tvg-ID="" tvg-name="MODYKIDS (ARB)" tvg-logo="" group-title="ARABIC",MODYKIDS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5391
+#EXTINF:-1 tvg-ID="" tvg-name="MOSALSALATTUBE (ARB)" tvg-logo="" group-title="ARABIC",MOSALSALATTUBE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5340
+#EXTINF:-1 tvg-ID="" tvg-name="MTunisia (ARB)" tvg-logo="" group-title="ARABIC",MTunisia (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5613
+#EXTINF:-1 tvg-ID="" tvg-name="NeelainSport (ARB)" tvg-logo="" group-title="ARABIC",NeelainSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5768
+#EXTINF:-1 tvg-ID="" tvg-name="Nessma (ARB)" tvg-logo="" group-title="ARABIC",Nessma (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5382
+#EXTINF:-1 tvg-ID="" tvg-name="NHK (ARB)" tvg-logo="" group-title="ARABIC",NHK (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5735
+#EXTINF:-1 tvg-ID="" tvg-name="NogoumFMRadio (ARB)" tvg-logo="" group-title="ARABIC",NogoumFMRadio (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5666
+#EXTINF:-1 tvg-ID="" tvg-name="NogoumFMTV (ARB)" tvg-logo="" group-title="ARABIC",NogoumFMTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5790
+#EXTINF:-1 tvg-ID="" tvg-name="NOORDUBAI (ARB)" tvg-logo="" group-title="ARABIC",NOORDUBAI (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5520
+#EXTINF:-1 tvg-ID="" tvg-name="NourAlSharq (ARB)" tvg-logo="" group-title="ARABIC",NourAlSharq (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5445
+#EXTINF:-1 tvg-ID="" tvg-name="NOURELSHAM (ARB)" tvg-logo="" group-title="ARABIC",NOURELSHAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5678
+#EXTINF:-1 tvg-ID="" tvg-name="NourKoddass (ARB)" tvg-logo="" group-title="ARABIC",NourKoddass (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5444
+#EXTINF:-1 tvg-ID="" tvg-name="Noursat (ARB)" tvg-logo="" group-title="ARABIC",Noursat (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5571
+#EXTINF:-1 tvg-ID="" tvg-name="NoursatAlchabab (ARB)" tvg-logo="" group-title="ARABIC",NoursatAlchabab (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5614
+#EXTINF:-1 tvg-ID="" tvg-name="NumidiaNewsTV (ARB)" tvg-logo="" group-title="ARABIC",NumidiaNewsTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5581
+#EXTINF:-1 tvg-ID="" tvg-name="ONSport (ARB)" tvg-logo="" group-title="ARABIC",ONSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5686
+#EXTINF:-1 tvg-ID="" tvg-name="orient (ARB)" tvg-logo="" group-title="ARABIC",orient (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5685
+#EXTINF:-1 tvg-ID="" tvg-name="Palestine (ARB)" tvg-logo="" group-title="ARABIC",Palestine (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5769
+#EXTINF:-1 tvg-ID="" tvg-name="PalestineToday (ARB)" tvg-logo="" group-title="ARABIC",PalestineToday (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5770
+#EXTINF:-1 tvg-ID="" tvg-name="PanoramaFood (ARB)" tvg-logo="" group-title="ARABIC",PanoramaFood (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5395
+#EXTINF:-1 tvg-ID="" tvg-name="QatarTV (ARB)" tvg-logo="" group-title="ARABIC",QatarTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5517
+#EXTINF:-1 tvg-ID="" tvg-name="QuestArabiya (ARB)" tvg-logo="" group-title="ARABIC",QuestArabiya (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5734
+#EXTINF:-1 tvg-ID="" tvg-name="QURANTV (ARB)" tvg-logo="" group-title="ARABIC",QURANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5337
+#EXTINF:-1 tvg-ID="" tvg-name="RonahiTV (ARB)" tvg-logo="" group-title="ARABIC",RonahiTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5319
+#EXTINF:-1 tvg-ID="" tvg-name="ROYA (ARB)" tvg-logo="" group-title="ARABIC",ROYA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5680
+#EXTINF:-1 tvg-ID="" tvg-name="RudawHD (ARB)" tvg-logo="" group-title="ARABIC",RudawHD (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5783
+#EXTINF:-1 tvg-ID="" tvg-name="SadaElBalad (ARB)" tvg-logo="" group-title="ARABIC",SadaElBalad (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5407
+#EXTINF:-1 tvg-ID="" tvg-name="SadaElBaladDrama (ARB)" tvg-logo="" group-title="ARABIC",SadaElBaladDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5580
+#EXTINF:-1 tvg-ID="" tvg-name="SAFATV (ARB)" tvg-logo="" group-title="ARABIC",SAFATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5344
+#EXTINF:-1 tvg-ID="" tvg-name="SamaDubai (ARB)" tvg-logo="" group-title="ARABIC",SamaDubai (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5729
+#EXTINF:-1 tvg-ID="" tvg-name="SAMARRATV (ARB)" tvg-logo="" group-title="ARABIC",SAMARRATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5421
+#EXTINF:-1 tvg-ID="" tvg-name="SamaTV (ARB)" tvg-logo="" group-title="ARABIC",SamaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5357
+#EXTINF:-1 tvg-ID="" tvg-name="SamaYemen (ARB)" tvg-logo="" group-title="ARABIC",SamaYemen (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5316
+#EXTINF:-1 tvg-ID="" tvg-name="SamiraTV (ARB)" tvg-logo="" group-title="ARABIC",SamiraTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5411
+#EXTINF:-1 tvg-ID="" tvg-name="SAT7KIDS (ARB)" tvg-logo="" group-title="ARABIC",SAT7KIDS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5425
+#EXTINF:-1 tvg-ID="" tvg-name="Saudi-1 (ARB)" tvg-logo="" group-title="ARABIC",Saudi-1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5777
+#EXTINF:-1 tvg-ID="" tvg-name="Saudi-2 (ARB)" tvg-logo="" group-title="ARABIC",Saudi-2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5776
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDI24 (ARB)" tvg-logo="" group-title="ARABIC",SAUDI24 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5658
+#EXTINF:-1 tvg-ID="" tvg-name="SaudiAlHaj (ARB)" tvg-logo="" group-title="ARABIC",SaudiAlHaj (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5705
+#EXTINF:-1 tvg-ID="" tvg-name="SEHATY (ARB)" tvg-logo="" group-title="ARABIC",SEHATY (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5806
+#EXTINF:-1 tvg-ID="" tvg-name="ShababTV (ARB)" tvg-logo="" group-title="ARABIC",ShababTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5642
+#EXTINF:-1 tvg-ID="" tvg-name="shamfmtv (ARB)" tvg-logo="" group-title="ARABIC",shamfmtv (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5789
+#EXTINF:-1 tvg-ID="" tvg-name="SM (ARB)" tvg-logo="" group-title="ARABIC",SM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5752
+#EXTINF:-1 tvg-ID="" tvg-name="SPACETOONARABIC (ARB)" tvg-logo="" group-title="ARABIC",SPACETOONARABIC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5399
+#EXTINF:-1 tvg-ID="" tvg-name="STARCINEMA1 (ARB)" tvg-logo="" group-title="ARABIC",STARCINEMA1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5403
+#EXTINF:-1 tvg-ID="" tvg-name="STARCINEMA2 (ARB)" tvg-logo="" group-title="ARABIC",STARCINEMA2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5402
+#EXTINF:-1 tvg-ID="" tvg-name="SudanDrama (ARB)" tvg-logo="" group-title="ARABIC",SudanDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5766
+#EXTINF:-1 tvg-ID="" tvg-name="Sudanmonwaat (ARB)" tvg-logo="" group-title="ARABIC",Sudanmonwaat (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5732
+#EXTINF:-1 tvg-ID="" tvg-name="SudanTV (ARB)" tvg-logo="" group-title="ARABIC",SudanTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5677
+#EXTINF:-1 tvg-ID="" tvg-name="SUHAILTV (ARB)" tvg-logo="" group-title="ARABIC",SUHAILTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5434
+#EXTINF:-1 tvg-ID="" tvg-name="TAHA (ARB)" tvg-logo="" group-title="ARABIC",TAHA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5570
+#EXTINF:-1 tvg-ID="" tvg-name="TAL2ARO3B (ARB)" tvg-logo="" group-title="ARABIC",TAL2ARO3B (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5604
+#EXTINF:-1 tvg-ID="" tvg-name="TanasohTV (ARB)" tvg-logo="" group-title="ARABIC",TanasohTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5793
+#EXTINF:-1 tvg-ID="" tvg-name="Tanasuh (ARB)" tvg-logo="" group-title="ARABIC",Tanasuh (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5756
+#EXTINF:-1 tvg-ID="" tvg-name="TATT7 (ARB)" tvg-logo="" group-title="ARABIC",TATT7 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5338
+#EXTINF:-1 tvg-ID="" tvg-name="TEATROTUBE (ARB)" tvg-logo="" group-title="ARABIC",TEATROTUBE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5339
+#EXTINF:-1 tvg-ID="" tvg-name="TelelibanTV (ARB)" tvg-logo="" group-title="ARABIC",TelelibanTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5747
+#EXTINF:-1 tvg-ID="" tvg-name="Ten (ARB)" tvg-logo="" group-title="ARABIC",Ten (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5486
+#EXTINF:-1 tvg-ID="" tvg-name="TheSavior (ARB)" tvg-logo="" group-title="ARABIC",TheSavior (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5446
+#EXTINF:-1 tvg-ID="" tvg-name="TimeSHA3BEYAT (ARB)" tvg-logo="" group-title="ARABIC",TimeSHA3BEYAT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5389
+#EXTINF:-1 tvg-ID="" tvg-name="TOKTOKAFLAM (ARB)" tvg-logo="" group-title="ARABIC",TOKTOKAFLAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5710
+#EXTINF:-1 tvg-ID="" tvg-name="TokTokCima (ARB)" tvg-logo="" group-title="ARABIC",TokTokCima (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5477
+#EXTINF:-1 tvg-ID="" tvg-name="TopCinema (ARB)" tvg-logo="" group-title="ARABIC",TopCinema (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5706
+#EXTINF:-1 tvg-ID="" tvg-name="TOYORALJANAH (ARB)" tvg-logo="" group-title="ARABIC",TOYORALJANAH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5437
+#EXTINF:-1 tvg-ID="" tvg-name="TOYORBABY (ARB)" tvg-logo="" group-title="ARABIC",TOYORBABY (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5668
+#EXTINF:-1 tvg-ID="" tvg-name="TunisieTelevsion1 (ARB)" tvg-logo="" group-title="ARABIC",TunisieTelevsion1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5622
+#EXTINF:-1 tvg-ID="" tvg-name="TUNISNA (ARB)" tvg-logo="" group-title="ARABIC",TUNISNA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5779
+#EXTINF:-1 tvg-ID="" tvg-name="UBERAFLAM (ARB)" tvg-logo="" group-title="ARABIC",UBERAFLAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5728
+#EXTINF:-1 tvg-ID="" tvg-name="UBERCIMA (ARB)" tvg-logo="" group-title="ARABIC",UBERCIMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5726
+#EXTINF:-1 tvg-ID="" tvg-name="UBERCLASSIC (ARB)" tvg-logo="" group-title="ARABIC",UBERCLASSIC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5727
+#EXTINF:-1 tvg-ID="" tvg-name="UBERDRAMA (ARB)" tvg-logo="" group-title="ARABIC",UBERDRAMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5724
+#EXTINF:-1 tvg-ID="" tvg-name="UBERFILM (ARB)" tvg-logo="" group-title="ARABIC",UBERFILM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5723
+#EXTINF:-1 tvg-ID="" tvg-name="WANASAH (ARB)" tvg-logo="" group-title="ARABIC",WANASAH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5452
+#EXTINF:-1 tvg-ID="" tvg-name="Yemen (ARB)" tvg-logo="" group-title="ARABIC",Yemen (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5307
+#EXTINF:-1 tvg-ID="" tvg-name="YEMENSHABAB (ARB)" tvg-logo="" group-title="ARABIC",YEMENSHABAB (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5808
+#EXTINF:-1 tvg-ID="" tvg-name="ZAYTOONA (ARB)" tvg-logo="" group-title="ARABIC",ZAYTOONA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5439
+#EXTINF:-1 tvg-ID="" tvg-name="ZeeAlwan (ARB)" tvg-logo="" group-title="ARABIC",ZeeAlwan (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5598
+#EXTINF:-1 tvg-ID="" tvg-name="ZWEINABALADNA (ARB)" tvg-logo="" group-title="ARABIC",ZWEINABALADNA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5682
+#EXTINF:-1 tvg-ID="" tvg-name="AHWAZNATV (ARB)" tvg-logo="" group-title="ARABIC",AHWAZNATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72676
+#EXTINF:-1 tvg-ID="" tvg-name="AJMANTV (ARB)" tvg-logo="" group-title="ARABIC",AJMANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72663
+#EXTINF:-1 tvg-ID="" tvg-name="ALALAM (ARB)" tvg-logo="" group-title="ARABIC",ALALAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72716
+#EXTINF:-1 tvg-ID="" tvg-name="ALAQSA (ARB)" tvg-logo="" group-title="ARABIC",ALAQSA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72668
+#EXTINF:-1 tvg-ID="" tvg-name="ALAWHADTV (ARB)" tvg-logo="" group-title="ARABIC",ALAWHADTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72699
+#EXTINF:-1 tvg-ID="" tvg-name="ALERTHALNBAWI (ARB)" tvg-logo="" group-title="ARABIC",ALERTHALNBAWI (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72698
+#EXTINF:-1 tvg-ID="" tvg-name="ALESHRAQTV (ARB)" tvg-logo="" group-title="ARABIC",ALESHRAQTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72682
+#EXTINF:-1 tvg-ID="" tvg-name="ALFATHQURAN (ARB)" tvg-logo="" group-title="ARABIC",ALFATHQURAN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72718
+#EXTINF:-1 tvg-ID="" tvg-name="ALGERIE3 (ARB)" tvg-logo="" group-title="ARABIC",ALGERIE3 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72646
+#EXTINF:-1 tvg-ID="" tvg-name="ALGERIE4 (ARB)" tvg-logo="" group-title="ARABIC",ALGERIE4 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72647
+#EXTINF:-1 tvg-ID="" tvg-name="ALGERIE5 (ARB)" tvg-logo="" group-title="ARABIC",ALGERIE5 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72648
+#EXTINF:-1 tvg-ID="" tvg-name="ALHADATHALYOUM (ARB)" tvg-logo="" group-title="ARABIC",ALHADATHALYOUM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72733
+#EXTINF:-1 tvg-ID="" tvg-name="ALHAYATWEALNAS (ARB)" tvg-logo="" group-title="ARABIC",ALHAYATWEALNAS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72643
+#EXTINF:-1 tvg-ID="" tvg-name="ALHILALTV (ARB)" tvg-logo="" group-title="ARABIC",ALHILALTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72658
+#EXTINF:-1 tvg-ID="" tvg-name="ALHIWARTV (ARB)" tvg-logo="" group-title="ARABIC",ALHIWARTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72680
+#EXTINF:-1 tvg-ID="" tvg-name="ALMAMLAKATV (ARB)" tvg-logo="" group-title="ARABIC",ALMAMLAKATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72713
+#EXTINF:-1 tvg-ID="" tvg-name="ALOULA (ARB)" tvg-logo="" group-title="ARABIC",ALOULA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72675
+#EXTINF:-1 tvg-ID="" tvg-name="ALQURAIN (ARB)" tvg-logo="" group-title="ARABIC",ALQURAIN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72667
+#EXTINF:-1 tvg-ID="" tvg-name="ALSAHRAA (ARB)" tvg-logo="" group-title="ARABIC",ALSAHRAA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72709
+#EXTINF:-1 tvg-ID="" tvg-name="ALSALAM (ARB)" tvg-logo="" group-title="ARABIC",ALSALAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72726
+#EXTINF:-1 tvg-ID="" tvg-name="ALTHAQALAYNTV (ARB)" tvg-logo="" group-title="ARABIC",ALTHAQALAYNTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72727
+#EXTINF:-1 tvg-ID="" tvg-name="AMMANTV (ARB)" tvg-logo="" group-title="ARABIC",AMMANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72719
+#EXTINF:-1 tvg-ID="" tvg-name="ASIATV (ARB)" tvg-logo="" group-title="ARABIC",ASIATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72701
+#EXTINF:-1 tvg-ID="" tvg-name="BERBERETV (ARB)" tvg-logo="" group-title="ARABIC",BERBERETV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72653
+#EXTINF:-1 tvg-ID="" tvg-name="CARTHAGEPLUS (ARB)" tvg-logo="" group-title="ARABIC",CARTHAGEPLUS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72664
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV9 (ARB)" tvg-logo="" group-title="ARABIC",CCTV9 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72700
+#EXTINF:-1 tvg-ID="" tvg-name="CHADATV (ARB)" tvg-logo="" group-title="ARABIC",CHADATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72669
+#EXTINF:-1 tvg-ID="" tvg-name="CHARITYTV (ARB)" tvg-logo="" group-title="ARABIC",CHARITYTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72688
+#EXTINF:-1 tvg-ID="" tvg-name="CIRATV (ARB)" tvg-logo="" group-title="ARABIC",CIRATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72661
+#EXTINF:-1 tvg-ID="" tvg-name="DAAWAHTV (ARB)" tvg-logo="" group-title="ARABIC",DAAWAHTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69305
+#EXTINF:-1 tvg-ID="" tvg-name="DJIBOUTI (ARB)" tvg-logo="" group-title="ARABIC",DJIBOUTI (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72655
+#EXTINF:-1 tvg-ID="" tvg-name="DW-TVARABIA (ARB)" tvg-logo="" group-title="ARABIC",DW-TVARABIA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72456
+#EXTINF:-1 tvg-ID="" tvg-name="Dzair3 (ARB)" tvg-logo="" group-title="ARABIC",Dzair3 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69299
+#EXTINF:-1 tvg-ID="" tvg-name="DZAIRNEWS (ARB)" tvg-logo="" group-title="ARABIC",DZAIRNEWS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72651
+#EXTINF:-1 tvg-ID="" tvg-name="EchoroukNews (ARB)" tvg-logo="" group-title="ARABIC",EchoroukNews (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69288
+#EXTINF:-1 tvg-ID="" tvg-name="ELDJAZAIRIAONE (ARB)" tvg-logo="" group-title="ARABIC",ELDJAZAIRIAONE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72652
+#EXTINF:-1 tvg-ID="" tvg-name="ELMOURITANIA (ARB)" tvg-logo="" group-title="ARABIC",ELMOURITANIA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72659
+#EXTINF:-1 tvg-ID="" tvg-name="ELMOURITANIA2 (ARB)" tvg-logo="" group-title="ARABIC",ELMOURITANIA2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72660
+#EXTINF:-1 tvg-ID="" tvg-name="ELSHARQ (ARB)" tvg-logo="" group-title="ARABIC",ELSHARQ (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72654
+#EXTINF:-1 tvg-ID="" tvg-name="ESTV (ARB)" tvg-logo="" group-title="ARABIC",ESTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72645
+#EXTINF:-1 tvg-ID="" tvg-name="HCTV (ARB)" tvg-logo="" group-title="ARABIC",HCTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72328
+#EXTINF:-1 tvg-ID="" tvg-name="HODHODTV (ARB)" tvg-logo="" group-title="ARABIC",HODHODTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72679
+#EXTINF:-1 tvg-ID="" tvg-name="IUC (ARB)" tvg-logo="" group-title="ARABIC",IUC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72459
+#EXTINF:-1 tvg-ID="" tvg-name="JORDANALYOOM (ARB)" tvg-logo="" group-title="ARABIC",JORDANALYOOM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72724
+#EXTINF:-1 tvg-ID="" tvg-name="KALSAN (ARB)" tvg-logo="" group-title="ARABIC",KALSAN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72722
+#EXTINF:-1 tvg-ID="" tvg-name="KSASPORTS1 (ARB)" tvg-logo="" group-title="ARABIC",KSASPORTS1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72711
+#EXTINF:-1 tvg-ID="" tvg-name="KSASPORTS2 (ARB)" tvg-logo="" group-title="ARABIC",KSASPORTS2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72710
+#EXTINF:-1 tvg-ID="" tvg-name="ktv1 (ARB)" tvg-logo="" group-title="ARABIC",ktv1 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69292
+#EXTINF:-1 tvg-ID="" tvg-name="KTVKIDS (ARB)" tvg-logo="" group-title="ARABIC",KTVKIDS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72721
+#EXTINF:-1 tvg-ID="" tvg-name="KURDSATS (ARB)" tvg-logo="" group-title="ARABIC",KURDSATS (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72730
+#EXTINF:-1 tvg-ID="" tvg-name="LANAplus (ARB)" tvg-logo="" group-title="ARABIC",LANAplus (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69316
+#EXTINF:-1 tvg-ID="" tvg-name="LANATV (ARB)" tvg-logo="" group-title="ARABIC",LANATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72665
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYAALHADATH (ARB)" tvg-logo="" group-title="ARABIC",LIBYAALHADATH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72720
+#EXTINF:-1 tvg-ID="" tvg-name="LibyaPanoramaTV (ARB)" tvg-logo="" group-title="ARABIC",LibyaPanoramaTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69298
+#EXTINF:-1 tvg-ID="" tvg-name="LIBYASPORTCHANNEL (ARB)" tvg-logo="" group-title="ARABIC",LIBYASPORTCHANNEL (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72670
+#EXTINF:-1 tvg-ID="" tvg-name="MAZAZIKH (ARB)" tvg-logo="" group-title="ARABIC",MAZAZIKH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72649
+#EXTINF:-1 tvg-ID="" tvg-name="MCINEMA (ARB)" tvg-logo="" group-title="ARABIC",MCINEMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72642
+#EXTINF:-1 tvg-ID="" tvg-name="MISREDUCATION (ARB)" tvg-logo="" group-title="ARABIC",MISREDUCATION (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72725
+#EXTINF:-1 tvg-ID="" tvg-name="MUSAWA (ARB)" tvg-logo="" group-title="ARABIC",MUSAWA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72703
+#EXTINF:-1 tvg-ID="" tvg-name="MusicAlhanen (ARB)" tvg-logo="" group-title="ARABIC",MusicAlhanen (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/5781
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEOKIDSBUDHABI (ARB)" tvg-logo="" group-title="ARABIC",NATGEOKIDSBUDHABI (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72704
+#EXTINF:-1 tvg-ID="" tvg-name="NOORJORDAN (ARB)" tvg-logo="" group-title="ARABIC",NOORJORDAN (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72702
+#EXTINF:-1 tvg-ID="" tvg-name="OMANTVCULTURE (ARB)" tvg-logo="" group-title="ARABIC",OMANTVCULTURE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72673
+#EXTINF:-1 tvg-ID="" tvg-name="OMANTVGENERAL (ARB)" tvg-logo="" group-title="ARABIC",OMANTVGENERAL (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72731
+#EXTINF:-1 tvg-ID="" tvg-name="OMANTVLIVE (ARB)" tvg-logo="" group-title="ARABIC",OMANTVLIVE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72674
+#EXTINF:-1 tvg-ID="" tvg-name="OMANTVSPORT (ARB)" tvg-logo="" group-title="ARABIC",OMANTVSPORT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72672
+#EXTINF:-1 tvg-ID="" tvg-name="ONDrama (ARB)" tvg-logo="" group-title="ARABIC",ONDrama (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69290
+#EXTINF:-1 tvg-ID="" tvg-name="ONPlus (ARB)" tvg-logo="" group-title="ARABIC",ONPlus (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72338
+#EXTINF:-1 tvg-ID="" tvg-name="PalestineLive (ARB)" tvg-logo="" group-title="ARABIC",PalestineLive (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69300
+#EXTINF:-1 tvg-ID="" tvg-name="PalestineNews (ARB)" tvg-logo="" group-title="ARABIC",PalestineNews (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69301
+#EXTINF:-1 tvg-ID="" tvg-name="PalestineSport (ARB)" tvg-logo="" group-title="ARABIC",PalestineSport (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69302
+#EXTINF:-1 tvg-ID="" tvg-name="PEACETV (ARB)" tvg-logo="" group-title="ARABIC",PEACETV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72732
+#EXTINF:-1 tvg-ID="" tvg-name="PUBLITOOLSTV (ARB)" tvg-logo="" group-title="ARABIC",PUBLITOOLSTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69296
+#EXTINF:-1 tvg-ID="" tvg-name="ROTANADRAMA (ARB)" tvg-logo="" group-title="ARABIC",ROTANADRAMA (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72644
+#EXTINF:-1 tvg-ID="" tvg-name="SadaElBalad2 (ARB)" tvg-logo="" group-title="ARABIC",SadaElBalad2 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69303
+#EXTINF:-1 tvg-ID="" tvg-name="SAHARKURDISH (ARB)" tvg-logo="" group-title="ARABIC",SAHARKURDISH (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72662
+#EXTINF:-1 tvg-ID="" tvg-name="SAT7ARABIC (ARB)" tvg-logo="" group-title="ARABIC",SAT7ARABIC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72677
+#EXTINF:-1 tvg-ID="" tvg-name="SaudiChForSunnah (ARB)" tvg-logo="" group-title="ARABIC",SaudiChForSunnah (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69289
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDIQURANTV (ARB)" tvg-logo="" group-title="ARABIC",SAUDIQURANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72714
+#EXTINF:-1 tvg-ID="" tvg-name="SBC (ARB)" tvg-logo="" group-title="ARABIC",SBC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72666
+#EXTINF:-1 tvg-ID="" tvg-name="SNTV (ARB)" tvg-logo="" group-title="ARABIC",SNTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72723
+#EXTINF:-1 tvg-ID="" tvg-name="SUDANIA24HD (ARB)" tvg-logo="" group-title="ARABIC",SUDANIA24HD (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72687
+#EXTINF:-1 tvg-ID="" tvg-name="SUDANMUSIC (ARB)" tvg-logo="" group-title="ARABIC",SUDANMUSIC (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72684
+#EXTINF:-1 tvg-ID="" tvg-name="SUDANSPORT (ARB)" tvg-logo="" group-title="ARABIC",SUDANSPORT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72685
+#EXTINF:-1 tvg-ID="" tvg-name="SUROYOTV (ARB)" tvg-logo="" group-title="ARABIC",SUROYOTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72686
+#EXTINF:-1 tvg-ID="" tvg-name="SURYOYOSAT (ARB)" tvg-logo="" group-title="ARABIC",SURYOYOSAT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72656
+#EXTINF:-1 tvg-ID="" tvg-name="SYRIATV (ARB)" tvg-logo="" group-title="ARABIC",SYRIATV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72671
+#EXTINF:-1 tvg-ID="" tvg-name="TAMAZIGHT (ARB)" tvg-logo="" group-title="ARABIC",TAMAZIGHT (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72729
+#EXTINF:-1 tvg-ID="" tvg-name="TRTELARABIYE (ARB)" tvg-logo="" group-title="ARABIC",TRTELARABIYE (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72683
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 (ARB)" tvg-logo="" group-title="ARABIC",TV5 (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72715
+#EXTINF:-1 tvg-ID="" tvg-name="WATANTV (ARB)" tvg-logo="" group-title="ARABIC",WATANTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/69293
+#EXTINF:-1 tvg-ID="" tvg-name="WESALTV (ARB)" tvg-logo="" group-title="ARABIC",WESALTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72712
+#EXTINF:-1 tvg-ID="" tvg-name="YEMENTODAYTV (ARB)" tvg-logo="" group-title="ARABIC",YEMENTODAYTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72681
+#EXTINF:-1 tvg-ID="" tvg-name="ZADTV (ARB)" tvg-logo="" group-title="ARABIC",ZADTV (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72678
+#EXTINF:-1 tvg-ID="" tvg-name="ZEEAFLAM (ARB)" tvg-logo="" group-title="ARABIC",ZEEAFLAM (ARB)
+http://66.northerniptv.ca:8000/84e6F7UR3V8meQByX/302eF9UlRYtAMoESD/72458
 #EXTINF:-1 tvg-id="" tvg-name="[MBC.ROTANA]:|AR| MBC 5" tvg-logo="" group-title="ARAB",[MBC.ROTANA]:|AR| MBC 5
 http://xtreamv3-dreamsatsport.ddns.net:25461/arabic/3AFfe8Lpvf/2411
 #EXTINF:-1 tvg-id="" tvg-name="[SYRIA]SYRIA TV" tvg-logo="" group-title="ARAB",[SYRIA]SYRIA TV
