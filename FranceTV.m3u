@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
+#EXTINF:-1,M6 SD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/5
+#EXTINF:-1,M6 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
+#EXTINF:-1,M6 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
+#EXTINF:-1,TMC SD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/8
+#EXTINF:-1,TMC FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
+#EXTINF:-1,W9 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/11
+#EXTINF:-1,W9 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/12
+#EXTINF:-1,TF1 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/13
+#EXTINF:-1,EQUIPE21
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
+#EXTINF:-1,|FR| TF1 SD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/1
+#EXTINF:-1,|FR| FRANCE 3 SD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/2
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/3
+#EXTINF:-1,TMC HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/9
+#EXTINF:-1,TF1 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/14
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL FHD" tvg-logo="" group-title="France",|FR| CANAL FHD
 http://iptv.allkaicerteam.com:8080/alkaicer_a08drnp512/m12vtc9lwj/1022
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="" group-title="France",|FR| CANAL CINEMA FIHD
