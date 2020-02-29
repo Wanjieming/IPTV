@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="" group-title="Bein Sport",MBC
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/267
+#EXTINF:-1 tvg-id="" tvg-name="Restreaml Bein SD2" tvg-logo="" group-title="Bein Sport",Restreaml Bein SD2
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/284
+#EXTINF:-1 tvg-id="" tvg-name="Restreaml Bein SD3" tvg-logo="" group-title="Bein Sport",Restreaml Bein SD3
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/285
+#EXTINF:-1 tvg-id="" tvg-name="Restreaml Bein SD4" tvg-logo="" group-title="Bein Sport",Restreaml Bein SD4
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/286
+#EXTINF:-1 tvg-id="" tvg-name="restreaml Bein HD1" tvg-logo="" group-title="Bein Sport",restreaml Bein HD1
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/289
+#EXTINF:-1 tvg-id="" tvg-name="restreaml Bein HD2" tvg-logo="" group-title="Bein Sport",restreaml Bein HD2
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/290
+#EXTINF:-1 tvg-id="" tvg-name="restreaml Bein HD3" tvg-logo="" group-title="Bein Sport",restreaml Bein HD3
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/291
+#EXTINF:-1 tvg-id="" tvg-name="restreaml Bein HD4" tvg-logo="" group-title="Bein Sport",restreaml Bein HD4
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/292
+#EXTINF:-1 tvg-id="" tvg-name="Restreaml Bein SD1" tvg-logo="" group-title="Bein Sport",Restreaml Bein SD1
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/273
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1FHD" tvg-logo="" group-title="Bein Sport",Bein Sport 1FHD
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/295
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2FHD" tvg-logo="" group-title="Bein Sport",Bein Sport 2FHD
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/296
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3FHD" tvg-logo="" group-title="Bein Sport",Bein Sport 3FHD
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/297
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4FHD" tvg-logo="" group-title="Bein Sport",Bein Sport 4FHD
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/298
+#EXTINF:-1 tvg-id="" tvg-name="Bein sport 2 4K" tvg-logo="" group-title="Bein Sport",Bein sport 2 4K
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/299
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 4k" tvg-logo="" group-title="Bein Sport",Bein Sport 1 4k
+http://52.179.127.153:25461/DJG2bSB4/DPN7KBDB1/300
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer TV 1FullHD" tvg-logo="" group-title="AlFajer TV",AlFajer TV 1FullHD
 http://beryantv.com:25461/33808033945694/99359826590579/1797
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer TV 1FullHD*" tvg-logo="" group-title="AlFajer TV",AlFajer TV 1FullHD*
