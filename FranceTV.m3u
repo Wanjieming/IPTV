@@ -29,6 +29,802 @@ http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/3
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/9
 #EXTINF:-1,TF1 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/14
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR| TF1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/tf1.png" group-title="FRANCE | LIVE ",FR| TF1 FHD
+http://topiptv.net:5890/aziz/1234/464
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR| TF1 HD" tvg-logo="http://channelstream.net/images/prog/channel/tf1.png" group-title="FRANCE | LIVE ",FR| TF1 HD
+http://topiptv.net:5890/aziz/1234/465
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 H265" tvg-logo="http://i5.satexpat.com/cha/fr/tf1_65x24.png" group-title="FRANCE | LIVE ",TF1 H265
+http://topiptv.net:5890/aziz/1234/56260
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR| FRANCE 2 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 2 FHD
+http://topiptv.net:5890/aziz/1234/467
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR| FRANCE 2 HD" tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 2 HD
+http://topiptv.net:5890/aziz/1234/468
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FRANCE 2 H265" tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="FRANCE | LIVE ",FRANCE 2 H265
+http://topiptv.net:5890/aziz/1234/56261
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FR| FRANCE 3 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 3 FHD
+http://topiptv.net:5890/aziz/1234/469
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FR| FRANCE 3 HD" tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 3 HD
+http://topiptv.net:5890/aziz/1234/470
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FRANCE 3 H265" tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="FRANCE | LIVE ",FRANCE 3 H265
+http://topiptv.net:5890/aziz/1234/56262
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="FR| FRANCE 3 NOA FHD" tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 3 NOA FHD
+http://topiptv.net:5890/aziz/1234/466
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR| FRANCE 4 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 4 FHD
+http://topiptv.net:5890/aziz/1234/471
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FR| FRANCE 4 HD" tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 4 HD
+http://topiptv.net:5890/aziz/1234/472
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FRANCE4 H265" tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="FRANCE | LIVE ",FRANCE4 H265
+http://topiptv.net:5890/aziz/1234/56263
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR| FRANCE 5 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 5 FHD
+http://topiptv.net:5890/aziz/1234/473
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FR| FRANCE 5 HD" tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE 5 HD
+http://topiptv.net:5890/aziz/1234/474
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FRANCE5 H265" tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="FRANCE | LIVE ",FRANCE5 H265
+http://topiptv.net:5890/aziz/1234/56264
+#EXTINF:-1 tvg-id="France O FR" tvg-name="FR| FRANCE O FHD" tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE O FHD
+http://topiptv.net:5890/aziz/1234/475
+#EXTINF:-1 tvg-id="France O FR" tvg-name="FR| FRANCE O HD" tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="FRANCE | LIVE ",FR| FRANCE O HD
+http://topiptv.net:5890/aziz/1234/476
+#EXTINF:-1 tvg-id="France O FR" tvg-name="FRANCEO H265" tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="FRANCE | LIVE ",FRANCEO H265
+http://topiptv.net:5890/aziz/1234/56273
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR| W9 FHD" tvg-logo="http://channelstream.net/images/prog/channel/w9.png" group-title="FRANCE | LIVE ",FR| W9 FHD
+http://topiptv.net:5890/aziz/1234/479
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="FR| W9 HD" tvg-logo="http://channelstream.net/images/prog/channel/w9.png" group-title="FRANCE | LIVE ",FR| W9 HD
+http://topiptv.net:5890/aziz/1234/480
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 H265" tvg-logo="http://i5.satexpat.com/cha/fr/W9_52x25.png" group-title="FRANCE | LIVE ",W9 H265
+http://topiptv.net:5890/aziz/1234/56267
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="FR| M6 FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG" group-title="FRANCE | LIVE ",FR| M6 FHD
+http://topiptv.net:5890/aziz/1234/477
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="FR| M6 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG" group-title="FRANCE | LIVE ",FR| M6 HD
+http://topiptv.net:5890/aziz/1234/478
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 H265" tvg-logo="http://i5.satexpat.com/cha/fr/m6_45x35.png" group-title="FRANCE | LIVE ",M6 H265
+http://topiptv.net:5890/aziz/1234/56265
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="FR| C8 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/c8-49x25.gif" group-title="FRANCE | LIVE ",FR| C8 FHD
+http://topiptv.net:5890/aziz/1234/481
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="FR| C8 HD" tvg-logo="http://i4.yhk0.net/cha/fr/c8-49x25.gif" group-title="FRANCE | LIVE ",FR| C8 HD
+http://topiptv.net:5890/aziz/1234/482
+#EXTINF:-1 tvg-id="C445.api.telerama.fr" tvg-name="C8 H265" tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png" group-title="FRANCE | LIVE ",C8 H265
+http://topiptv.net:5890/aziz/1234/56268
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="FR| CSTAR FHD" tvg-logo="http://i4.yhk0.net/cha/fr/cstar-85x25.gif" group-title="FRANCE | LIVE ",FR| CSTAR FHD
+http://topiptv.net:5890/aziz/1234/483
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="FR| CSTAR HD" tvg-logo="http://i4.yhk0.net/cha/fr/cstar-85x25.gif" group-title="FRANCE | LIVE ",FR| CSTAR HD
+http://topiptv.net:5890/aziz/1234/484
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="CSTAR H265" tvg-logo="https://static.iptv-epg.com/fr/CStar.fr.png" group-title="FRANCE | LIVE ",CSTAR H265
+http://topiptv.net:5890/aziz/1234/56270
+#EXTINF:-1 tvg-id="" tvg-name="FR| CSTAR HITS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/CStar_Hits_France_logo.jpg/200px-CStar_Hits_France_logo.jpg" group-title="FRANCE | LIVE ",FR| CSTAR HITS FHD
+http://topiptv.net:5890/aziz/1234/485
+#EXTINF:-1 tvg-id="RTS Un HD CH" tvg-name="FR| RTS UN FHD" tvg-logo="https://www.rts.ch/2019/08/30/01/11/6938587.image/3x1/scale/width/400" group-title="FRANCE | LIVE ",FR| RTS UN FHD
+http://topiptv.net:5890/aziz/1234/486
+#EXTINF:-1 tvg-id="RTS Deux HD CH" tvg-name="FR| RTS DEUX FHD" tvg-logo="https://www.rts.ch/2019/08/31/12/59/6940554.image/3x1/scale/width/400" group-title="FRANCE | LIVE ",FR| RTS DEUX FHD
+http://topiptv.net:5890/aziz/1234/487
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="FR| 6TER FHD" tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="FRANCE | LIVE ",FR| 6TER FHD
+http://topiptv.net:5890/aziz/1234/488
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="FR| 6TER HD" tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="FRANCE | LIVE ",FR| 6TER HD
+http://topiptv.net:5890/aziz/1234/489
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6TER H265" tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="FRANCE | LIVE ",6TER H265
+http://topiptv.net:5890/aziz/1234/56281
+#EXTINF:-1 tvg-id="" tvg-name="--FR| INFORMATION | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR| INFORMATION | LIVE --
+http://topiptv.net:5890/aziz/1234/493
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="FR| EURONEWS HD" tvg-logo="http://i4.yhk0.net/cha/fr/euronews-95x49.gif" group-title="FRANCE | LIVE ",FR| EURONEWS HD
+http://topiptv.net:5890/aziz/1234/500
+#EXTINF:-1 tvg-id="France 24 FR" tvg-name="FR| FRANCE 24" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/France24French.png" group-title="FRANCE | LIVE ",FR| FRANCE 24
+http://topiptv.net:5890/aziz/1234/494
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="FR| CNEWS FHD" tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="FRANCE | LIVE ",FR| CNEWS FHD
+http://topiptv.net:5890/aziz/1234/495
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="FR| CNEWS HD" tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="FRANCE | LIVE ",FR| CNEWS HD
+http://topiptv.net:5890/aziz/1234/496
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="CNEWS H265" tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="FRANCE | LIVE ",CNEWS H265
+http://topiptv.net:5890/aziz/1234/56269
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="FR| I24 NEWS FHD" tvg-logo="http://i5.satexpat.com/cha/il/i24news-85x42.png" group-title="FRANCE | LIVE ",FR| I24 NEWS FHD
+http://topiptv.net:5890/aziz/1234/497
+#EXTINF:-1 tvg-id="C124.api.telerama.fr" tvg-name="FR| La Chainne Meteo" tvg-logo="http://i5.satexpat.com/cha/fr/la-chaine-meteo-95x53.png" group-title="FRANCE | LIVE ",FR| La Chainne Meteo
+http://topiptv.net:5890/aziz/1234/503
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="FR| LCI FHD" tvg-logo="http://i5.satexpat.com/cha/fr/lci-95x34.gif" group-title="FRANCE | LIVE ",FR| LCI FHD
+http://topiptv.net:5890/aziz/1234/504
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="LCI H265" tvg-logo="http://i5.satexpat.com/cha/fr/lci-95x34.gif" group-title="FRANCE | LIVE ",LCI H265
+http://topiptv.net:5890/aziz/1234/56271
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP H265" tvg-logo="http://www.lcp.fr/sites/default/themes/lcp/images/logo-lcp.svg" group-title="FRANCE | LIVE ",LCP H265
+http://topiptv.net:5890/aziz/1234/56259
+#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="FR| TV5MONDE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/TV5Monde-95x13.png" group-title="FRANCE | LIVE ",FR| TV5MONDE FHD
+http://topiptv.net:5890/aziz/1234/501
+#EXTINF:-1 tvg-id="FranceInfo FR" tvg-name="FR| FRANCE INFO FHD" tvg-logo="http://i4.yhk0.net/cha/fr/franceinfo-95x15.png" group-title="FRANCE | LIVE ",FR| FRANCE INFO FHD
+http://topiptv.net:5890/aziz/1234/502
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="FR| BFM TV FHD" tvg-logo="http://i4.yhk0.net/cha/fr/BFM_TV_58x24.png" group-title="FRANCE | LIVE ",FR| BFM TV FHD
+http://topiptv.net:5890/aziz/1234/498
+#EXTINF:-1 tvg-id="C481.api.telerama.fr" tvg-name="FR| BFM TV HD" tvg-logo="http://i4.yhk0.net/cha/fr/BFM_TV_58x24.png" group-title="FRANCE | LIVE ",FR| BFM TV HD
+http://topiptv.net:5890/aziz/1234/499
+#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFMTV H265" tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFMTV.svg" group-title="FRANCE | LIVE ",BFMTV H265
+http://topiptv.net:5890/aziz/1234/56272
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS H265" tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFM-Paris.svg" group-title="FRANCE | LIVE ",BFM PARIS H265
+http://topiptv.net:5890/aziz/1234/56340
+#EXTINF:-1 tvg-id="" tvg-name="--FR| DIVERTISSE | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR| DIVERTISSE | LIVE --
+http://topiptv.net:5890/aziz/1234/505
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR| TF1 SERIES FILMS FHD" tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="FRANCE | LIVE ",FR| TF1 SERIES FILMS FHD
+http://topiptv.net:5890/aziz/1234/506
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="FR| TF1 SERIES FILMS HD" tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="FRANCE | LIVE ",FR| TF1 SERIES FILMS HD
+http://topiptv.net:5890/aziz/1234/507
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 SERIES FILMS H265" tvg-logo="https://static.iptv-epg.com/fr/TF1SeriesFilms.fr.png" group-title="FRANCE | LIVE ",TF1 SERIES FILMS H265
+http://topiptv.net:5890/aziz/1234/56279
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="FR| TFX FHD" tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="FRANCE | LIVE ",FR| TFX FHD
+http://topiptv.net:5890/aziz/1234/508
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="FR| TFX HD" tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="FRANCE | LIVE ",FR| TFX HD
+http://topiptv.net:5890/aziz/1234/509
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="TFX H265" tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="FRANCE | LIVE ",TFX H265
+http://topiptv.net:5890/aziz/1234/56278
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="FR| TEVA FHD" tvg-logo="http://i5.satexpat.com/cha/fr/teva-95x42.png" group-title="FRANCE | LIVE ",FR| TEVA FHD
+http://topiptv.net:5890/aziz/1234/491
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="FR| TEVA HD" tvg-logo="http://i5.satexpat.com/cha/fr/teva-95x42.png" group-title="FRANCE | LIVE ",FR| TEVA HD
+http://topiptv.net:5890/aziz/1234/492
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="TEVA H265" tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="FRANCE | LIVE ",TEVA H265
+http://topiptv.net:5890/aziz/1234/56307
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR| RTL 9 FHD" tvg-logo="http://i5.satexpat.com/cha/fr/rtl9-95x46.png" group-title="FRANCE | LIVE ",FR| RTL 9 FHD
+http://topiptv.net:5890/aziz/1234/490
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL9 H265" tvg-logo="https://static.iptv-epg.com/lu/RTL9.lu.png" group-title="FRANCE | LIVE ",RTL9 H265
+http://topiptv.net:5890/aziz/1234/56282
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR| 13EME RUE FHD" tvg-logo="https://www.13emerue.fr/sites/all/themes/pint_themes/base_13thstreet_v2/logo-fr.png" group-title="FRANCE | LIVE ",FR| 13EME RUE FHD
+http://topiptv.net:5890/aziz/1234/518
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="FR| 13EME RUE HD" tvg-logo="https://www.13emerue.fr/sites/all/themes/pint_themes/base_13thstreet_v2/logo-fr.png" group-title="FRANCE | LIVE ",FR| 13EME RUE HD
+http://topiptv.net:5890/aziz/1234/519
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="FR| AB1 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/ab1-95x36.png" group-title="FRANCE | LIVE ",FR| AB1 FHD
+http://topiptv.net:5890/aziz/1234/522
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="FR| AB1 HD" tvg-logo="http://i4.yhk0.net/cha/fr/ab1-95x36.png" group-title="FRANCE | LIVE ",FR| AB1 HD
+http://topiptv.net:5890/aziz/1234/523
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="FR| AB3 FHD" tvg-logo="http://i4.yhk0.net/cha/be/AB3_43x46.png" group-title="FRANCE | LIVE ",FR| AB3 FHD
+http://topiptv.net:5890/aziz/1234/524
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="FR| AB3 HD" tvg-logo="http://i4.yhk0.net/cha/be/AB3_43x46.png" group-title="FRANCE | LIVE ",FR| AB3 HD
+http://topiptv.net:5890/aziz/1234/525
+#EXTINF:-1 tvg-id="Action FR" tvg-name="FR| ACTION FHD" tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="FRANCE | LIVE ",FR| ACTION FHD
+http://topiptv.net:5890/aziz/1234/545
+#EXTINF:-1 tvg-id="Action FR" tvg-name="FR| ACTION HD" tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="FRANCE | LIVE ",FR| ACTION HD
+http://topiptv.net:5890/aziz/1234/546
+#EXTINF:-1 tvg-id="Action FR" tvg-name="ACTION H265" tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="FRANCE | LIVE ",ACTION H265
+http://topiptv.net:5890/aziz/1234/56304
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="FR| ARTE FHD" tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="FRANCE | LIVE ",FR| ARTE FHD
+http://topiptv.net:5890/aziz/1234/514
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="FR| ARTE HD" tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="FRANCE | LIVE ",FR| ARTE HD
+http://topiptv.net:5890/aziz/1234/515
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="ARTE H265" tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="FRANCE | LIVE ",ARTE H265
+http://topiptv.net:5890/aziz/1234/56266
+#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="FR| ALTICE STUDIO FHD" tvg-logo="http://onebox.optimum.net/sites/default/files/Altice-horz-logo.png" group-title="FRANCE | LIVE ",FR| ALTICE STUDIO FHD
+http://topiptv.net:5890/aziz/1234/510
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="FR| NRJ 12 FHD" tvg-logo="http://i5.satexpat.com/cha/fr/NRJ12_36x37.png" group-title="FRANCE | LIVE ",FR| NRJ 12 FHD
+http://topiptv.net:5890/aziz/1234/685
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="FR| BET* FHD" tvg-logo="http://i4.yhk0.net/cha/bet-85x27.png" group-title="FRANCE | LIVE ",FR| BET* FHD
+http://topiptv.net:5890/aziz/1234/550
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="FR| CHERIE 25 FHD" tvg-logo="http://i4.yhk0.net/cha/fr/cherie_25_45x30.png" group-title="FRANCE | LIVE ",FR| CHERIE 25 FHD
+http://topiptv.net:5890/aziz/1234/520
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="FR| CHERIE 25 HD" tvg-logo="http://i4.yhk0.net/cha/fr/cherie_25_45x30.png" group-title="FRANCE | LIVE ",FR| CHERIE 25 HD
+http://topiptv.net:5890/aziz/1234/521
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="FR| COMEDIE+ FHD" tvg-logo="http://i4.yhk0.net/cha/fr/comediePlus-67x60.png" group-title="FRANCE | LIVE ",FR| COMEDIE+ FHD
+http://topiptv.net:5890/aziz/1234/547
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="FR| COMEDIE+ HD" tvg-logo="http://i4.yhk0.net/cha/fr/comediePlus-67x60.png" group-title="FRANCE | LIVE ",FR| COMEDIE+ HD
+http://topiptv.net:5890/aziz/1234/548
+#EXTINF:-1 tvg-id="E! FR" tvg-name="FR| E! ENTERTAINMENT FHD" tvg-logo="https://static.iptv-epg.com/fr/EEntertainment.fr.png" group-title="FRANCE | LIVE ",FR| E! ENTERTAINMENT FHD
+http://topiptv.net:5890/aziz/1234/512
+#EXTINF:-1 tvg-id="E! FR" tvg-name="FR| E! ENTERTAINMENT HD" tvg-logo="https://static.iptv-epg.com/fr/EEntertainment.fr.png" group-title="FRANCE | LIVE ",FR| E! ENTERTAINMENT HD
+http://topiptv.net:5890/aziz/1234/513
+#EXTINF:-1 tvg-id="Demain TV FR" tvg-name="FR| DEMAIN ! IDF FHD" tvg-logo="https://www.demain.fr/wp-content/themes/tomorrow/img/logo.png" group-title="FRANCE | LIVE ",FR| DEMAIN ! IDF FHD
+http://topiptv.net:5890/aziz/1234/551
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://i5.satexpat.com/cha/es/paramount_channel_55x55.png" group-title="FRANCE | LIVE ",FR| PARAMOUNT CHANNEL FHD
+http://topiptv.net:5890/aziz/1234/535
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="FR| PARAMOUNT CHANNEL HD" tvg-logo="http://i5.satexpat.com/cha/es/paramount_channel_55x55.png" group-title="FRANCE | LIVE ",FR| PARAMOUNT CHANNEL HD
+http://topiptv.net:5890/aziz/1234/536
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT CHANNEL DECALE  FHD" tvg-logo="https://static.iptv-epg.com/fr/ParamountChannel.fr.png" group-title="FRANCE | LIVE ",FR| PARAMOUNT CHANNEL DECALE  FHD
+http://topiptv.net:5890/aziz/1234/537
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="FR| PARIS PREMIERE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/paris-premiere-95x27.gif" group-title="FRANCE | LIVE ",FR| PARIS PREMIERE FHD
+http://topiptv.net:5890/aziz/1234/543
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="FR| PARIS PREMIERE HD" tvg-logo="http://i5.satexpat.com/cha/fr/paris-premiere-95x27.gif" group-title="FRANCE | LIVE ",FR| PARIS PREMIERE HD
+http://topiptv.net:5890/aziz/1234/544
+#EXTINF:-1 tvg-id="C2326.api.telerama.fr" tvg-name="FR| POLAR+ FHD" tvg-logo="http://i5.satexpat.com/cha/fr/polar-95x29.gif" group-title="FRANCE | LIVE ",FR| POLAR+ FHD
+http://topiptv.net:5890/aziz/1234/530
+#EXTINF:-1 tvg-id="C2326.api.telerama.fr" tvg-name="FR| POLAR+ HD" tvg-logo="http://i5.satexpat.com/cha/fr/polar-95x29.gif" group-title="FRANCE | LIVE ",FR| POLAR+ HD
+http://topiptv.net:5890/aziz/1234/531
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="FR| RMC STORY FHD" tvg-logo="http://i5.satexpat.com/cha/fr/rmc-story-95x50.png" group-title="FRANCE | LIVE ",FR| RMC STORY FHD
+http://topiptv.net:5890/aziz/1234/526
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="FR| RMC STORY HD" tvg-logo="http://i5.satexpat.com/cha/fr/rmc-story-95x50.png" group-title="FRANCE | LIVE ",FR| RMC STORY HD
+http://topiptv.net:5890/aziz/1234/527
+#EXTINF:-1 tvg-id="Numero 23 FR" tvg-name="RMC STORY H265" tvg-logo="https://static.iptv-epg.com/fr/RMCStory.fr.png" group-title="FRANCE | LIVE ",RMC STORY H265
+http://topiptv.net:5890/aziz/1234/56283
+#EXTINF:-1 tvg-id="C49.api.telerama.fr" tvg-name="FR| SERIE CLUB FHD" tvg-logo="http://i5.satexpat.com/cha/fr/serie-club-89x55.png" group-title="FRANCE | LIVE ",FR| SERIE CLUB FHD
+http://topiptv.net:5890/aziz/1234/528
+#EXTINF:-1 tvg-id="C49.api.telerama.fr" tvg-name="FR| SERIE CLUB HD" tvg-logo="http://i5.satexpat.com/cha/fr/serie-club-89x55.png" group-title="FRANCE | LIVE ",FR| SERIE CLUB HD
+http://topiptv.net:5890/aziz/1234/529
+#EXTINF:-1 tvg-id="Syfy HD FR" tvg-name="FR| SYFY FHD" tvg-logo="https://www.syfy.fr/sites/all/themes/pint_themes/base_syfywire_secondary/logo.png" group-title="FRANCE | LIVE ",FR| SYFY FHD
+http://topiptv.net:5890/aziz/1234/516
+#EXTINF:-1 tvg-id="Syfy HD FR" tvg-name="FR| SYFY HD" tvg-logo="https://www.syfy.fr/sites/all/themes/pint_themes/base_syfywire_secondary/logo.png" group-title="FRANCE | LIVE ",FR| SYFY HD
+http://topiptv.net:5890/aziz/1234/517
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="FR| TCM CINEMA FHD" tvg-logo="http://i5.satexpat.com/cha/fr/tcm-cinema-95x45.png" group-title="FRANCE | LIVE ",FR| TCM CINEMA FHD
+http://topiptv.net:5890/aziz/1234/538
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="FR| TCM CINEMA HD" tvg-logo="http://i5.satexpat.com/cha/fr/tcm-cinema-95x45.png" group-title="FRANCE | LIVE ",FR| TCM CINEMA HD
+http://topiptv.net:5890/aziz/1234/539
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR| TMC FHD" tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="FRANCE | LIVE ",FR| TMC FHD
+http://topiptv.net:5890/aziz/1234/540
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR| TMC HD" tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="FRANCE | LIVE ",FR| TMC HD
+http://topiptv.net:5890/aziz/1234/541
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC H265" tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="FRANCE | LIVE ",TMC H265
+http://topiptv.net:5890/aziz/1234/56280
+#EXTINF:-1 tvg-id="C833.api.telerama.fr" tvg-name="FR| SUNDANCE TV FHD" tvg-logo="http://i5.satexpat.com/cha/fr/sundancetv-95x19.png" group-title="FRANCE | LIVE ",FR| SUNDANCE TV FHD
+http://topiptv.net:5890/aziz/1234/511
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="FR| TV BREIZH FHD" tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="FRANCE | LIVE ",FR| TV BREIZH FHD
+http://topiptv.net:5890/aziz/1234/533
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="FR| TV BREIZH HD" tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="FRANCE | LIVE ",FR| TV BREIZH HD
+http://topiptv.net:5890/aziz/1234/534
+#EXTINF:-1 tvg-id="" tvg-name="FR| WARNER TV FHD" tvg-logo="http://i5.satexpat.com/cha/warner-54x52.png" group-title="FRANCE | LIVE ",FR| WARNER TV FHD
+http://topiptv.net:5890/aziz/1234/532
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ12 H265" tvg-logo="https://imgur.com/guM6jQ3.png" group-title="FRANCE | LIVE ",NRJ12 H265
+http://topiptv.net:5890/aziz/1234/56277
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE H265" tvg-logo="" group-title="FRANCE | LIVE ",MY CUISINE H265
+http://topiptv.net:5890/aziz/1234/56308
+#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="ALTICE STUDIO H265" tvg-logo="https://static.iptv-epg.com/fr/AlticeStudio.fr.png" group-title="FRANCE | LIVE ",ALTICE STUDIO H265
+http://topiptv.net:5890/aziz/1234/56331
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV H265" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="FRANCE | LIVE ",WARNER TV H265
+http://topiptv.net:5890/aziz/1234/56332
+#EXTINF:-1 tvg-id="" tvg-name="--FR| CANAL+ | LIVE --" tvg-logo="https://static.iptv-epg.com/fr/CanalPlus.fr.png" group-title="FRANCE | LIVE ",--FR| CANAL+ | LIVE --
+http://topiptv.net:5890/aziz/1234/552
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR| CANAL+ FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="FRANCE | LIVE ",FR| CANAL+ FHD
+http://topiptv.net:5890/aziz/1234/553
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR| CANAL+ HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="FRANCE | LIVE ",FR| CANAL+ HD
+http://topiptv.net:5890/aziz/1234/554
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="CANAL+ H265" tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="FRANCE | LIVE ",CANAL+ H265
+http://topiptv.net:5890/aziz/1234/56293
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="FR| CANAL+ CINEMA FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="FRANCE | LIVE ",FR| CANAL+ CINEMA FHD
+http://topiptv.net:5890/aziz/1234/555
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="FR| CANAL+ CINEMA HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="FRANCE | LIVE ",FR| CANAL+ CINEMA HD
+http://topiptv.net:5890/aziz/1234/556
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="CANAL+ CINEMA H265" tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="FRANCE | LIVE ",CANAL+ CINEMA H265
+http://topiptv.net:5890/aziz/1234/56292
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="FR| CANAL+ DECALE FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_decale.png" group-title="FRANCE | LIVE ",FR| CANAL+ DECALE FHD
+http://topiptv.net:5890/aziz/1234/557
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="FR| CANAL+ DECALE HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_decale.png" group-title="FRANCE | LIVE ",FR| CANAL+ DECALE HD
+http://topiptv.net:5890/aziz/1234/558
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="CANAL+ DECALE H265" tvg-logo="http://channelstream.net/images/prog/channel/canal_decale.png" group-title="FRANCE | LIVE ",CANAL+ DECALE H265
+http://topiptv.net:5890/aziz/1234/56301
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="FR| CANAL+ FAMILY FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="FRANCE | LIVE ",FR| CANAL+ FAMILY FHD
+http://topiptv.net:5890/aziz/1234/559
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="FR| CANAL+ FAMILY HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="FRANCE | LIVE ",FR| CANAL+ FAMILY HD
+http://topiptv.net:5890/aziz/1234/560
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="CANAL+ FAMILY h265" tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="FRANCE | LIVE ",CANAL+ FAMILY h265
+http://topiptv.net:5890/aziz/1234/56300
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="FR| CANAL+ SERIES FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="FRANCE | LIVE ",FR| CANAL+ SERIES FHD
+http://topiptv.net:5890/aziz/1234/561
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="FR| CANAL+ SERIES HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="FRANCE | LIVE ",FR| CANAL+ SERIES HD
+http://topiptv.net:5890/aziz/1234/562
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="CANAL+ SERIES H265" tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="FRANCE | LIVE ",CANAL+ SERIES H265
+http://topiptv.net:5890/aziz/1234/56294
+#EXTINF:-1 tvg-id="" tvg-name="--FR| CINE+ | LIVE --" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="FRANCE | LIVE ",--FR| CINE+ | LIVE --
+http://topiptv.net:5890/aziz/1234/1423
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="FR| CINE+ PREMIER FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="FRANCE | LIVE ",FR| CINE+ PREMIER FHD
+http://topiptv.net:5890/aziz/1234/563
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="FR| CINE+ PREMIER HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="FRANCE | LIVE ",FR| CINE+ PREMIER HD
+http://topiptv.net:5890/aziz/1234/564
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="CINE+ PREMIER H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="FRANCE | LIVE ",CINE+ PREMIER H265
+http://topiptv.net:5890/aziz/1234/56306
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="FR| CINE+ CLUB FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG" group-title="FRANCE | LIVE ",FR| CINE+ CLUB FHD
+http://topiptv.net:5890/aziz/1234/565
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="FR| CINE+ CLUB HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG" group-title="FRANCE | LIVE ",FR| CINE+ CLUB HD
+http://topiptv.net:5890/aziz/1234/566
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="FR| CINE+ CLASSIC FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="FRANCE | LIVE ",FR| CINE+ CLASSIC FHD
+http://topiptv.net:5890/aziz/1234/569
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="FR| CINE+ CLASSIC HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="FRANCE | LIVE ",FR| CINE+ CLASSIC HD
+http://topiptv.net:5890/aziz/1234/570
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="CINE+ CLASSIC H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="FRANCE | LIVE ",CINE+ CLASSIC H265
+http://topiptv.net:5890/aziz/1234/56319
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="FR| CINE+ EMOTION FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="FRANCE | LIVE ",FR| CINE+ EMOTION FHD
+http://topiptv.net:5890/aziz/1234/571
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="FR| CINE+ EMOTION HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="FRANCE | LIVE ",FR| CINE+ EMOTION HD
+http://topiptv.net:5890/aziz/1234/572
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="CINE+ EMOTION H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="FRANCE | LIVE ",CINE+ EMOTION H265
+http://topiptv.net:5890/aziz/1234/56305
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="FR| CINE+ FRISSON FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="FRANCE | LIVE ",FR| CINE+ FRISSON FHD
+http://topiptv.net:5890/aziz/1234/573
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="FR| CINE+ FRISSON HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="FRANCE | LIVE ",FR| CINE+ FRISSON HD
+http://topiptv.net:5890/aziz/1234/574
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="CINE+ FRISSON H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="FRANCE | LIVE ",CINE+ FRISSON H265
+http://topiptv.net:5890/aziz/1234/56302
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="FR| CINE+ FAMIZ FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="FRANCE | LIVE ",FR| CINE+ FAMIZ FHD
+http://topiptv.net:5890/aziz/1234/567
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="FR| CINE+ FAMIZ HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="FRANCE | LIVE ",FR| CINE+ FAMIZ HD
+http://topiptv.net:5890/aziz/1234/568
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="CINE+ FAMIZ H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="FRANCE | LIVE ",CINE+ FAMIZ H265
+http://topiptv.net:5890/aziz/1234/56318
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="FR| OCS CHOC FHD" tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="FRANCE | LIVE ",FR| OCS CHOC FHD
+http://topiptv.net:5890/aziz/1234/575
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="FR| OCS Choc HD" tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="FRANCE | LIVE ",FR| OCS Choc HD
+http://topiptv.net:5890/aziz/1234/576
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="OCS CHOC H265" tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="FRANCE | LIVE ",OCS CHOC H265
+http://topiptv.net:5890/aziz/1234/56317
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="FR| OCS CITY FHD" tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="FRANCE | LIVE ",FR| OCS CITY FHD
+http://topiptv.net:5890/aziz/1234/577
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="FR| OCS CITY HD" tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="FRANCE | LIVE ",FR| OCS CITY HD
+http://topiptv.net:5890/aziz/1234/578
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="OCS CITY H265" tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="FRANCE | LIVE ",OCS CITY H265
+http://topiptv.net:5890/aziz/1234/56315
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="FR| OCS GEANTS FHD" tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="FRANCE | LIVE ",FR| OCS GEANTS FHD
+http://topiptv.net:5890/aziz/1234/579
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="FR| OCS GEANTS HD" tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="FRANCE | LIVE ",FR| OCS GEANTS HD
+http://topiptv.net:5890/aziz/1234/580
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="OCS GEANTS H265" tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="FRANCE | LIVE ",OCS GEANTS H265
+http://topiptv.net:5890/aziz/1234/56316
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="FR| OCS MAX FHD" tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="FRANCE | LIVE ",FR| OCS MAX FHD
+http://topiptv.net:5890/aziz/1234/581
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="FR| OCS Max HD" tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="FRANCE | LIVE ",FR| OCS Max HD
+http://topiptv.net:5890/aziz/1234/582
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="OCS MAX H265" tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="FRANCE | LIVE ",OCS MAX H265
+http://topiptv.net:5890/aziz/1234/56314
+#EXTINF:-1 tvg-id="" tvg-name="--FR| SPORT  | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR| SPORT  | LIVE --
+http://topiptv.net:5890/aziz/1234/583
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="FRANCE | LIVE ",FR| CANAL+ SPORT FHD
+http://topiptv.net:5890/aziz/1234/584
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="FR| CANAL+ SPORT HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="FRANCE | LIVE ",FR| CANAL+ SPORT HD
+http://topiptv.net:5890/aziz/1234/585
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="CANAL+ SPORT H265" tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="FRANCE | LIVE ",CANAL+ SPORT H265
+http://topiptv.net:5890/aziz/1234/56295
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="FR| beIN SPORTS 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS 1 FHD
+http://topiptv.net:5890/aziz/1234/58334
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="FRANCE | LIVE ",FR| BEIN SPORTS 1 HD
+http://topiptv.net:5890/aziz/1234/587
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN SPORTS 1 H265" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="FRANCE | LIVE ",beIN SPORTS 1 H265
+http://topiptv.net:5890/aziz/1234/56285
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="FR| beIN SPORTS 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS 2 FHD
+http://topiptv.net:5890/aziz/1234/588
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="FRANCE | LIVE ",FR| BEIN SPORTS 2 HD
+http://topiptv.net:5890/aziz/1234/589
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="beIN SPORTS 2 H265" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="FRANCE | LIVE ",beIN SPORTS 2 H265
+http://topiptv.net:5890/aziz/1234/56286
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="FR| beIN SPORTS 3 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS 3 FHD
+http://topiptv.net:5890/aziz/1234/590
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="FRANCE | LIVE ",FR| BEIN SPORTS 3 HD
+http://topiptv.net:5890/aziz/1234/591
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="beIN SPORTS 3 H265" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="FRANCE | LIVE ",beIN SPORTS 3 H265
+http://topiptv.net:5890/aziz/1234/56287
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="FR| beIN SPORTS MAX 4 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 4 FHD
+http://topiptv.net:5890/aziz/1234/592
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="FR| beIN SPORTS MAX 5 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 5 FHD
+http://topiptv.net:5890/aziz/1234/593
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="FR| beIN SPORTS MAX 6 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_6.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 6 FHD
+http://topiptv.net:5890/aziz/1234/594
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="FR| beIN SPORTS MAX 7 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_7.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 7 FHD
+http://topiptv.net:5890/aziz/1234/595
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="FR| beIN SPORTS MAX 8 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_8.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 8 FHD
+http://topiptv.net:5890/aziz/1234/596
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="FR| beIN SPORTS  MAX 9 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_9.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS  MAX 9 FHD
+http://topiptv.net:5890/aziz/1234/597
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="FR| beIN SPORTS MAX 10 FHD" tvg-logo="http://channelstream.net/images/prog/channel/bein_10.png" group-title="FRANCE | LIVE ",FR| beIN SPORTS MAX 10 FHD
+http://topiptv.net:5890/aziz/1234/598
+#EXTINF:-1 tvg-id="C546.api.telerama.fr" tvg-name="FR| RMC SPORT NEWS FHD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_news.png" group-title="FRANCE | LIVE ",FR| RMC SPORT NEWS FHD
+http://topiptv.net:5890/aziz/1234/599
+#EXTINF:-1 tvg-id="C546.api.telerama.fr" tvg-name="FR| RMC SPORT NEWS HD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_news.png" group-title="FRANCE | LIVE ",FR| RMC SPORT NEWS HD
+http://topiptv.net:5890/aziz/1234/600
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR| RMC SPORT 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 1 FHD
+http://topiptv.net:5890/aziz/1234/601
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR| RMC SPORT 1 HD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 1 HD
+http://topiptv.net:5890/aziz/1234/602
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT1 H265" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="FRANCE | LIVE ",RMC SPORT1 H265
+http://topiptv.net:5890/aziz/1234/56288
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="FR| RMC SPORT ACCESS 1 HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/124.png" group-title="FRANCE | LIVE ",FR| RMC SPORT ACCESS 1 HD
+http://topiptv.net:5890/aziz/1234/59761
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR| RMC SPORT 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 2 FHD
+http://topiptv.net:5890/aziz/1234/603
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR| RMC SPORT 2 HD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 2 HD
+http://topiptv.net:5890/aziz/1234/604
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC SPORT2 H265" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="FRANCE | LIVE ",RMC SPORT2 H265
+http://topiptv.net:5890/aziz/1234/56289
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="FR| RMC SPORT ACCESS 2 HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/71.png" group-title="FRANCE | LIVE ",FR| RMC SPORT ACCESS 2 HD
+http://topiptv.net:5890/aziz/1234/59762
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="FR| RMC SPORT 3 FHD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 3 FHD
+http://topiptv.net:5890/aziz/1234/605
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="FR| RMC SPORT 3 HD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 3 HD
+http://topiptv.net:5890/aziz/1234/606
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC SPORT3 H265" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="FRANCE | LIVE ",RMC SPORT3 H265
+http://topiptv.net:5890/aziz/1234/56290
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="FR| RMC SPORT ACCESS 3 HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/129.png" group-title="FRANCE | LIVE ",FR| RMC SPORT ACCESS 3 HD
+http://topiptv.net:5890/aziz/1234/59763
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="FR| RMC SPORT 4 FHD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 4 FHD
+http://topiptv.net:5890/aziz/1234/607
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="FR| RMC SPORT 4 HD" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="FRANCE | LIVE ",FR| RMC SPORT 4 HD
+http://topiptv.net:5890/aziz/1234/608
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="RMC SPORT4 H265" tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="FRANCE | LIVE ",RMC SPORT4 H265
+http://topiptv.net:5890/aziz/1234/56291
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 5 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_756.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 5 HD
+http://topiptv.net:5890/aziz/1234/609
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 6 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_757.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 6 HD
+http://topiptv.net:5890/aziz/1234/610
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 7 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_758.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 7 HD
+http://topiptv.net:5890/aziz/1234/611
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 8 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_759.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 8 HD
+http://topiptv.net:5890/aziz/1234/612
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 9 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_760.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 9 HD
+http://topiptv.net:5890/aziz/1234/613
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 10 HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_761.PNG" group-title="FRANCE | LIVE ",FR| RMC SPORT 10 HD
+http://topiptv.net:5890/aziz/1234/614
+#EXTINF:-1 tvg-id="Golf Channel FR" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="https://static.iptv-epg.com/fr/Golf.fr.png" group-title="FRANCE | LIVE ",FR| GOLF CHANNEL FHD
+http://topiptv.net:5890/aziz/1234/630
+#EXTINF:-1 tvg-id="Golf Channel FR" tvg-name="FR| GOLF CHANNEL HD" tvg-logo="https://static.iptv-epg.com/fr/Golf.fr.png" group-title="FRANCE | LIVE ",FR| GOLF CHANNEL HD
+http://topiptv.net:5890/aziz/1234/631
+#EXTINF:-1 tvg-id="GolfPlus FR" tvg-name="FR| GOLF+ FHD" tvg-logo="http://i4.yhk0.net/cha/fr/golfPlus-95x27.png" group-title="FRANCE | LIVE ",FR| GOLF+ FHD
+http://topiptv.net:5890/aziz/1234/632
+#EXTINF:-1 tvg-id="GolfPlus FR" tvg-name="FR| GOLF+ HD" tvg-logo="http://i4.yhk0.net/cha/fr/golfPlus-95x27.png" group-title="FRANCE | LIVE ",FR| GOLF+ HD
+http://topiptv.net:5890/aziz/1234/633
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="FR| AUTOMOTO TV HD" tvg-logo="http://i4.yhk0.net/cha/fr/automoto-95x19.png" group-title="FRANCE | LIVE ",FR| AUTOMOTO TV HD
+http://topiptv.net:5890/aziz/1234/542
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="FR| INFOSPORT+ HD" tvg-logo="http://i5.satexpat.com/cha/fr/infosportPlus-95x16.png" group-title="FRANCE | LIVE ",FR| INFOSPORT+ HD
+http://topiptv.net:5890/aziz/1234/621
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="FR| EQUIDIA LIVE FHD" tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="FRANCE | LIVE ",FR| EQUIDIA LIVE FHD
+http://topiptv.net:5890/aziz/1234/624
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="FR| EQUIDIA LIVE HD" tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="FRANCE | LIVE ",FR| EQUIDIA LIVE HD
+http://topiptv.net:5890/aziz/1234/625
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="EQUIDIA H265" tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="FRANCE | LIVE ",EQUIDIA H265
+http://topiptv.net:5890/aziz/1234/56313
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="FRANCE | LIVE ",FR| EUROSPORT 1 FHD
+http://topiptv.net:5890/aziz/1234/626
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="FR| EUROSPORT 1 HD" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="FRANCE | LIVE ",FR| EUROSPORT 1 HD
+http://topiptv.net:5890/aziz/1234/627
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="EUROSPORT H265" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="FRANCE | LIVE ",EUROSPORT H265
+http://topiptv.net:5890/aziz/1234/56334
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="FRANCE | LIVE ",FR| EUROSPORT 2 FHD
+http://topiptv.net:5890/aziz/1234/628
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="FR| EUROSPORT 2 HD" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="FRANCE | LIVE ",FR| EUROSPORT 2 HD
+http://topiptv.net:5890/aziz/1234/629
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="EUROSPORT2 H265" tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="FRANCE | LIVE ",EUROSPORT2 H265
+http://topiptv.net:5890/aziz/1234/56335
+#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FR| FOOT+ 24/24 HD" tvg-logo="https://static.iptv-epg.com/fr/FootPlus24.fr.png" group-title="FRANCE | LIVE ",FR| FOOT+ 24/24 HD
+http://topiptv.net:5890/aziz/1234/635
+#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FR| FOOT+ 24/24 FHD" tvg-logo="https://static.iptv-epg.com/fr/FootPlus24.fr.png" group-title="FRANCE | LIVE ",FR| FOOT+ 24/24 FHD
+http://topiptv.net:5890/aziz/1234/634
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="FR| L'EQUIPE FHD" tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="FRANCE | LIVE ",FR| L'EQUIPE FHD
+http://topiptv.net:5890/aziz/1234/622
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="FR| L'EQUIPE HD" tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="FRANCE | LIVE ",FR| L'EQUIPE HD
+http://topiptv.net:5890/aziz/1234/623
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="L'EQUIPE H265" tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="FRANCE | LIVE ",L'EQUIPE H265
+http://topiptv.net:5890/aziz/1234/56275
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 1HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 1HD
+http://topiptv.net:5890/aziz/1234/615
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 2HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 2HD
+http://topiptv.net:5890/aziz/1234/616
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 3HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 3HD
+http://topiptv.net:5890/aziz/1234/617
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 4HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 4HD
+http://topiptv.net:5890/aziz/1234/618
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 5HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 5HD
+http://topiptv.net:5890/aziz/1234/619
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTI SPORTS 6HD" tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="FRANCE | LIVE ",FR| MULTI SPORTS 6HD
+http://topiptv.net:5890/aziz/1234/620
+#EXTINF:-1 tvg-id="" tvg-name="--FR| DOCUMENTAIRE | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR| DOCUMENTAIRE | LIVE --
+http://topiptv.net:5890/aziz/1234/637
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR| USHUAIA FHD" tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="FRANCE | LIVE ",FR| USHUAIA FHD
+http://topiptv.net:5890/aziz/1234/643
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="FR| USHUAIA HD" tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="FRANCE | LIVE ",FR| USHUAIA HD
+http://topiptv.net:5890/aziz/1234/644
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="USHUAIA H265" tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="FRANCE | LIVE ",USHUAIA H265
+http://topiptv.net:5890/aziz/1234/56326
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR| ANIMAUX FHD" tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="FRANCE | LIVE ",FR| ANIMAUX FHD
+http://topiptv.net:5890/aziz/1234/645
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="FR| ANIMAUX HD" tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="FRANCE | LIVE ",FR| ANIMAUX HD
+http://topiptv.net:5890/aziz/1234/646
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="ANIMAUX H265" tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="FRANCE | LIVE ",ANIMAUX H265
+http://topiptv.net:5890/aziz/1234/56296
+#EXTINF:-1 tvg-id="Seasons FR" tvg-name="FR| SEASON HD" tvg-logo="http://i5.satexpat.com/cha/fr/seasons-95x38.gif" group-title="FRANCE | LIVE ",FR| SEASON HD
+http://topiptv.net:5890/aziz/1234/640
+#EXTINF:-1 tvg-id="Seasons FR" tvg-name="FR| SEASONS FHD" tvg-logo="http://i5.satexpat.com/cha/fr/seasons-95x38.gif" group-title="FRANCE | LIVE ",FR| SEASONS FHD
+http://topiptv.net:5890/aziz/1234/639
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="FR| HISTOIRE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/histoire-95x22.png" group-title="FRANCE | LIVE ",FR| HISTOIRE FHD
+http://topiptv.net:5890/aziz/1234/659
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="FR| HISTOIRE HD" tvg-logo="http://i5.satexpat.com/cha/fr/histoire-95x22.png" group-title="FRANCE | LIVE ",FR| HISTOIRE HD
+http://topiptv.net:5890/aziz/1234/660
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR| TREK FHD" tvg-logo="http://i5.satexpat.com/cha/fr/trek-95x31.png" group-title="FRANCE | LIVE ",FR| TREK FHD
+http://topiptv.net:5890/aziz/1234/641
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="FR| TREK HD" tvg-logo="http://i5.satexpat.com/cha/fr/trek-95x31.png" group-title="FRANCE | LIVE ",FR| TREK HD
+http://topiptv.net:5890/aziz/1234/642
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="FR| VOYAGE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/voyage-95x36.png" group-title="FRANCE | LIVE ",FR| VOYAGE FHD
+http://topiptv.net:5890/aziz/1234/672
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="FR| VOYAGE HD" tvg-logo="http://i5.satexpat.com/cha/fr/voyage-95x36.png" group-title="FRANCE | LIVE ",FR| VOYAGE HD
+http://topiptv.net:5890/aziz/1234/673
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR| PLANETE+ FHD" tvg-logo="http://i5.satexpat.com/cha/fr/planetePlus-91x55.png" group-title="FRANCE | LIVE ",FR| PLANETE+ FHD
+http://topiptv.net:5890/aziz/1234/647
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="FR| PLANETE+ HD" tvg-logo="http://i5.satexpat.com/cha/fr/planetePlus-91x55.png" group-title="FRANCE | LIVE ",FR| PLANETE+ HD
+http://topiptv.net:5890/aziz/1234/648
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="PLANETE+ H265" tvg-logo="http://i5.satexpat.com/cha/fr/planetePlus-91x55.png" group-title="FRANCE | LIVE ",PLANETE+ H265
+http://topiptv.net:5890/aziz/1234/56320
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR| PLANETE+ A&E FHD" tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="FRANCE | LIVE ",FR| PLANETE+ A&E FHD
+http://topiptv.net:5890/aziz/1234/649
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="FR| PLANETE+ A&E HD" tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="FRANCE | LIVE ",FR| PLANETE+ A&E HD
+http://topiptv.net:5890/aziz/1234/650
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="PLANETE+A&E H265" tvg-logo="https://static.iptv-epg.com/fr/PlaneteAction.fr.png" group-title="FRANCE | LIVE ",PLANETE+A&E H265
+http://topiptv.net:5890/aziz/1234/56327
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR| PLANETE+ CI FHD" tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="FRANCE | LIVE ",FR| PLANETE+ CI FHD
+http://topiptv.net:5890/aziz/1234/651
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR| PLANETE+ CI HD" tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="FRANCE | LIVE ",FR| PLANETE+ CI HD
+http://topiptv.net:5890/aziz/1234/652
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="PLANETE + CI H265" tvg-logo="https://static.iptv-epg.com/fr/PLANETEJustice.fr.png" group-title="FRANCE | LIVE ",PLANETE + CI H265
+http://topiptv.net:5890/aziz/1234/56328
+#EXTINF:-1 tvg-id="C63.api.telerama.fr" tvg-name="FR| SCIENCE ET VIE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="FRANCE | LIVE ",FR| SCIENCE ET VIE FHD
+http://topiptv.net:5890/aziz/1234/661
+#EXTINF:-1 tvg-id="C63.api.telerama.fr" tvg-name="FR| SCIENCE&VIE HD" tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="FRANCE | LIVE ",FR| SCIENCE&VIE HD
+http://topiptv.net:5890/aziz/1234/662
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="SCIENCES&VIE H265" tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="FRANCE | LIVE ",SCIENCES&VIE H265
+http://topiptv.net:5890/aziz/1234/56330
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="FR| DISCOVERY CHANNEL FHD" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="FRANCE | LIVE ",FR| DISCOVERY CHANNEL FHD
+http://topiptv.net:5890/aziz/1234/665
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="FR| DISCOVERY HD" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="FRANCE | LIVE ",FR| DISCOVERY HD
+http://topiptv.net:5890/aziz/1234/666
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="DISCOVERY H265" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="FRANCE | LIVE ",DISCOVERY H265
+http://topiptv.net:5890/aziz/1234/56321
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR| DISCOVERY INVESTIGATION FHD" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="FRANCE | LIVE ",FR| DISCOVERY INVESTIGATION FHD
+http://topiptv.net:5890/aziz/1234/669
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="FR| DISCOVERY INV HD" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="FRANCE | LIVE ",FR| DISCOVERY INV HD
+http://topiptv.net:5890/aziz/1234/670
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="DISCOVERY INVES H265" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="FRANCE | LIVE ",DISCOVERY INVES H265
+http://topiptv.net:5890/aziz/1234/56324
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISCOVERY FAMILY FHD" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryFamily.fr.png" group-title="FRANCE | LIVE ",FR| DISCOVERY FAMILY FHD
+http://topiptv.net:5890/aziz/1234/671
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY H265" tvg-logo="https://static.iptv-epg.com/fr/DiscoveryFamily.fr.png" group-title="FRANCE | LIVE ",DISCOVERY FAMILY H265
+http://topiptv.net:5890/aziz/1234/56322
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR| DISCOVERY SCIENCE FHD" tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="FRANCE | LIVE ",FR| DISCOVERY SCIENCE FHD
+http://topiptv.net:5890/aziz/1234/667
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="FR| DISCOVERY SCIENCE HD" tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="FRANCE | LIVE ",FR| DISCOVERY SCIENCE HD
+http://topiptv.net:5890/aziz/1234/668
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="DISCOVERY SCIENCE H265" tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="FRANCE | LIVE ",DISCOVERY SCIENCE H265
+http://topiptv.net:5890/aziz/1234/56323
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR| CRIME DISTRICT FHD" tvg-logo="https://static.iptv-epg.com/fr/CrimeDistrict.fr.png" group-title="FRANCE | LIVE ",FR| CRIME DISTRICT FHD
+http://topiptv.net:5890/aziz/1234/663
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="FR| CRIME DISTRICT HD" tvg-logo="https://static.iptv-epg.com/fr/CrimeDistrict.fr.png" group-title="FRANCE | LIVE ",FR| CRIME DISTRICT HD
+http://topiptv.net:5890/aziz/1234/664
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR| RMC DECOUVERTE FHD" tvg-logo="http://i5.satexpat.com/cha/fr/rmc_decouverte_73x30.png" group-title="FRANCE | LIVE ",FR| RMC DECOUVERTE FHD
+http://topiptv.net:5890/aziz/1234/653
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="FR| RMC DECOUVERTE HD" tvg-logo="http://i5.satexpat.com/cha/fr/rmc_decouverte_73x30.png" group-title="FRANCE | LIVE ",FR| RMC DECOUVERTE HD
+http://topiptv.net:5890/aziz/1234/654
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC DECOUVERTE H265" tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="FRANCE | LIVE ",RMC DECOUVERTE H265
+http://topiptv.net:5890/aziz/1234/56284
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="FRANCE | LIVE ",FR| NATIONAL GEO FHD
+http://topiptv.net:5890/aziz/1234/655
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="FR| NATIONAL GEO HD" tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="FRANCE | LIVE ",FR| NATIONAL GEO HD
+http://topiptv.net:5890/aziz/1234/656
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="NATIONAL GEO CHANNEL H265" tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="FRANCE | LIVE ",NATIONAL GEO CHANNEL H265
+http://topiptv.net:5890/aziz/1234/56309
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="FR| NAT GEO WILD FHD" tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="FRANCE | LIVE ",FR| NAT GEO WILD FHD
+http://topiptv.net:5890/aziz/1234/657
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="FR| NAT GEO WILD HD" tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="FRANCE | LIVE ",FR| NAT GEO WILD HD
+http://topiptv.net:5890/aziz/1234/658
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="NAT GEO WILD H265" tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="FRANCE | LIVE ",NAT GEO WILD H265
+http://topiptv.net:5890/aziz/1234/56297
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="FR| Toute l'histoire FHD" tvg-logo="http://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="FRANCE | LIVE ",FR| Toute l'histoire FHD
+http://topiptv.net:5890/aziz/1234/674
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="TOUTE L HISTOIRE H265" tvg-logo="http://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="FRANCE | LIVE ",TOUTE L HISTOIRE H265
+http://topiptv.net:5890/aziz/1234/56276
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="FR| CHASSE ET PECHE FHD" tvg-logo="http://i4.yhk0.net/cha/fr/chassePeche-95x44.gif" group-title="FRANCE | LIVE ",FR| CHASSE ET PECHE FHD
+http://topiptv.net:5890/aziz/1234/675
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="CHASSE & PECHE H265" tvg-logo="http://i4.yhk0.net/cha/fr/chassePeche-95x44.gif" group-title="FRANCE | LIVE ",CHASSE & PECHE H265
+http://topiptv.net:5890/aziz/1234/56329
+#EXTINF:-1 tvg-id="" tvg-name="--FR| ENFANT | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR| ENFANT | LIVE --
+http://topiptv.net:5890/aziz/1234/714
+#EXTINF:-1 tvg-id="C924.api.telerama.fr" tvg-name="FR| BOING FHD" tvg-logo="https://static.iptv-epg.com/fr/Boing.fr.png" group-title="FRANCE | LIVE ",FR| BOING FHD
+http://topiptv.net:5890/aziz/1234/735
+#EXTINF:-1 tvg-id="C924.api.telerama.fr" tvg-name="FR| BOING HD" tvg-logo="https://static.iptv-epg.com/fr/Boing.fr.png" group-title="FRANCE | LIVE ",FR| BOING HD
+http://topiptv.net:5890/aziz/1234/736
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="FR| BOOMERANG FHD" tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="FRANCE | LIVE ",FR| BOOMERANG FHD
+http://topiptv.net:5890/aziz/1234/733
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="FR| BOOMERANG HD" tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="FRANCE | LIVE ",FR| BOOMERANG HD
+http://topiptv.net:5890/aziz/1234/734
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="BOOMERANG H265" tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="FRANCE | LIVE ",BOOMERANG H265
+http://topiptv.net:5890/aziz/1234/56303
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="FR| CANAL J FHD" tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" group-title="FRANCE | LIVE ",FR| CANAL J FHD
+http://topiptv.net:5890/aziz/1234/715
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="FR| CANAL J HD" tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" group-title="FRANCE | LIVE ",FR| CANAL J HD
+http://topiptv.net:5890/aziz/1234/716
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="CANALJ H265" tvg-logo="http://i4.yhk0.net/cha/fr/canalJ-50x50.png" group-title="FRANCE | LIVE ",CANALJ H265
+http://topiptv.net:5890/aziz/1234/56325
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="FR| DISNEY CHANNEL FHD" tvg-logo="https://static.iptv-epg.com/fr/DisneyChannel.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY CHANNEL FHD
+http://topiptv.net:5890/aziz/1234/737
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="FR| DISNEY CHANNEL HD" tvg-logo="https://static.iptv-epg.com/fr/DisneyChannel.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY CHANNEL HD
+http://topiptv.net:5890/aziz/1234/738
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="DISNEY CHANNEL H265" tvg-logo="http://i4.yhk0.net/cha/fr/disney-channel-85x38.png" group-title="FRANCE | LIVE ",DISNEY CHANNEL H265
+http://topiptv.net:5890/aziz/1234/56310
+#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="FR| DISNEY CINEMA FHD" tvg-logo="https://static.iptv-epg.com/fr/DisneyCinema.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY CINEMA FHD
+http://topiptv.net:5890/aziz/1234/739
+#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="FR| DISNEY CINEMA HD" tvg-logo="https://static.iptv-epg.com/fr/DisneyCinema.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY CINEMA HD
+http://topiptv.net:5890/aziz/1234/740
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="FR| DISNEY JUNIOR FHD" tvg-logo="https://static.iptv-epg.com/fr/DisneyJunior.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY JUNIOR FHD
+http://topiptv.net:5890/aziz/1234/741
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="FR| DISNEY JUNIOR HD" tvg-logo="https://static.iptv-epg.com/fr/DisneyJunior.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY JUNIOR HD
+http://topiptv.net:5890/aziz/1234/742
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="DISNEY JUNIOR H265" tvg-logo="http://i4.yhk0.net/cha/de/DisneyJunior_95x34.png" group-title="FRANCE | LIVE ",DISNEY JUNIOR H265
+http://topiptv.net:5890/aziz/1234/56311
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="FR| DISNEY XD FHD" tvg-logo="https://static.iptv-epg.com/fr/DisneyXD.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY XD FHD
+http://topiptv.net:5890/aziz/1234/743
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="FR| DISNEY XD HD" tvg-logo="https://static.iptv-epg.com/fr/DisneyXD.fr.png" group-title="FRANCE | LIVE ",FR| DISNEY XD HD
+http://topiptv.net:5890/aziz/1234/744
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="FR| CARTOON NETWORK FHD" tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="FRANCE | LIVE ",FR| CARTOON NETWORK FHD
+http://topiptv.net:5890/aziz/1234/749
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="FR| CARTOON NETWORK HD" tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="FRANCE | LIVE ",FR| CARTOON NETWORK HD
+http://topiptv.net:5890/aziz/1234/750
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="CARTOON NETWORK H265" tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="FRANCE | LIVE ",CARTOON NETWORK H265
+http://topiptv.net:5890/aziz/1234/56299
+#EXTINF:-1 tvg-id="Game One FR" tvg-name="FR| GAME ONE FHD" tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="FRANCE | LIVE ",FR| GAME ONE FHD
+http://topiptv.net:5890/aziz/1234/719
+#EXTINF:-1 tvg-id="Game One FR" tvg-name="FR| GAME ONE HD" tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="FRANCE | LIVE ",FR| GAME ONE HD
+http://topiptv.net:5890/aziz/1234/720
+#EXTINF:-1 tvg-id="Game One FR" tvg-name="GAME ONE H265" tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="FRANCE | LIVE ",GAME ONE H265
+http://topiptv.net:5890/aziz/1234/56339
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="FR| GULLI FHD" tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="FRANCE | LIVE ",FR| GULLI FHD
+http://topiptv.net:5890/aziz/1234/725
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="FR| GULLI HD" tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="FRANCE | LIVE ",FR| GULLI HD
+http://topiptv.net:5890/aziz/1234/726
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="GULLI H265" tvg-logo="http://i4.yhk0.net/cha/fr/gulli_45x43.png" group-title="FRANCE | LIVE ",GULLI H265
+http://topiptv.net:5890/aziz/1234/56274
+#EXTINF:-1 tvg-id="Mangas FR" tvg-name="FR| MANGAS FHD" tvg-logo="http://channelstream.net/images/prog/channel/mangas.png" group-title="FRANCE | LIVE ",FR| MANGAS FHD
+http://topiptv.net:5890/aziz/1234/721
+#EXTINF:-1 tvg-id="Mangas FR" tvg-name="FR| MANGAS HD" tvg-logo="http://channelstream.net/images/prog/channel/mangas.png" group-title="FRANCE | LIVE ",FR| MANGAS HD
+http://topiptv.net:5890/aziz/1234/722
+#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="FR| PIWI+ FHD" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="FRANCE | LIVE ",FR| PIWI+ FHD
+http://topiptv.net:5890/aziz/1234/723
+#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="FR| PIWI+ HD" tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="FRANCE | LIVE ",FR| PIWI+ HD
+http://topiptv.net:5890/aziz/1234/724
+#EXTINF:-1 tvg-id="" tvg-name="FR| TELETOON+ FHD" tvg-logo="http://localiptv62000.from-ok.com:9000/mohamedFR/fqSpt5N6mR/70" group-title="FRANCE | LIVE ",FR| TELETOON+ FHD
+http://topiptv.net:5890/aziz/1234/727
+#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="FR| TELETOON+ HD" tvg-logo="https://static.iptv-epg.com/fr/TeleToonPlus.fr.png" group-title="FRANCE | LIVE ",FR| TELETOON+ HD
+http://topiptv.net:5890/aziz/1234/728
+#EXTINF:-1 tvg-id="TIJI FR" tvg-name="FR| TIJI FHD" tvg-logo="https://static.iptv-epg.com/fr/Tiji.fr.png" group-title="FRANCE | LIVE ",FR| TIJI FHD
+http://topiptv.net:5890/aziz/1234/729
+#EXTINF:-1 tvg-id="TIJI FR" tvg-name="FR| TIJI HD" tvg-logo="https://static.iptv-epg.com/fr/Tiji.fr.png" group-title="FRANCE | LIVE ",FR| TIJI HD
+http://topiptv.net:5890/aziz/1234/730
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="FR| TOONAMI FHD" tvg-logo="https://static.iptv-epg.com/fr/Toonami.fr.png" group-title="FRANCE | LIVE ",FR| TOONAMI FHD
+http://topiptv.net:5890/aziz/1234/731
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="FR| TOONAMI HD" tvg-logo="https://static.iptv-epg.com/fr/Toonami.fr.png" group-title="FRANCE | LIVE ",FR| TOONAMI HD
+http://topiptv.net:5890/aziz/1234/732
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="FR| J-ONE FHD" tvg-logo="https://static.iptv-epg.com/fr/JONE.fr.png" group-title="FRANCE | LIVE ",FR| J-ONE FHD
+http://topiptv.net:5890/aziz/1234/717
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="FR| J-ONE HD" tvg-logo="https://static.iptv-epg.com/fr/JONE.fr.png" group-title="FRANCE | LIVE ",FR| J-ONE HD
+http://topiptv.net:5890/aziz/1234/718
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="FR| NICKELODEON FHD" tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon.fr.png" group-title="FRANCE | LIVE ",FR| NICKELODEON FHD
+http://topiptv.net:5890/aziz/1234/745
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="FR| NICKELODEON HD" tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon.fr.png" group-title="FRANCE | LIVE ",FR| NICKELODEON HD
+http://topiptv.net:5890/aziz/1234/746
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="NICKELODEON H265" tvg-logo="http://i5.satexpat.com/cha/de/nickelodeon_95x14.png" group-title="FRANCE | LIVE ",NICKELODEON H265
+http://topiptv.net:5890/aziz/1234/56338
+#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="FR| NICK JUNIOR FHD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="FRANCE | LIVE ",FR| NICK JUNIOR FHD
+http://topiptv.net:5890/aziz/1234/747
+#EXTINF:-1 tvg-id="" tvg-name="FR|Nick Junior HD" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="FRANCE | LIVE ",FR|Nick Junior HD
+http://topiptv.net:5890/aziz/1234/69730
+#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="NICK JUNIOR H265" tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="FRANCE | LIVE ",NICK JUNIOR H265
+http://topiptv.net:5890/aziz/1234/56336
+#EXTINF:-1 tvg-id="Nickelodeon Teen FR" tvg-name="FR| Nickelodeon 4 TEEN FHD" tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon4Teen.fr.png" group-title="FRANCE | LIVE ",FR| Nickelodeon 4 TEEN FHD
+http://topiptv.net:5890/aziz/1234/748
+#EXTINF:-1 tvg-id="Nickelodeon Teen FR" tvg-name="NICKELODEON 4TEEN H265" tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon4Teen.fr.png" group-title="FRANCE | LIVE ",NICKELODEON 4TEEN H265
+http://topiptv.net:5890/aziz/1234/56337
+#EXTINF:-1 tvg-id="" tvg-name="--FR|  FR MUSIC | LIVE --" tvg-logo="" group-title="FRANCE | LIVE ",--FR|  FR MUSIC | LIVE --
+http://topiptv.net:5890/aziz/1234/676
+#EXTINF:-1 tvg-id="MTV HD FR" tvg-name="FR| MTV FRANCE FHD" tvg-logo="https://imgur.com/HVHZPK5.png" group-title="FRANCE | LIVE ",FR| MTV FRANCE FHD
+http://topiptv.net:5890/aziz/1234/677
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="FR| MTV HITS FHD" tvg-logo="https://imgur.com/LZCxT5y.png" group-title="FRANCE | LIVE ",FR| MTV HITS FHD
+http://topiptv.net:5890/aziz/1234/678
+#EXTINF:-1 tvg-id="" tvg-name="FR| DJAZZ TV HD" tvg-logo="https://imgur.com/MUjjs0R.png" group-title="FRANCE | LIVE ",FR| DJAZZ TV HD
+http://topiptv.net:5890/aziz/1234/682
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="FR| M6 MUSIC FHD" tvg-logo="https://imgur.com/FNfywkS.png" group-title="FRANCE | LIVE ",FR| M6 MUSIC FHD
+http://topiptv.net:5890/aziz/1234/679
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="M6 MUSIC H265" tvg-logo="https://imgur.com/FNfywkS.png" group-title="FRANCE | LIVE ",M6 MUSIC H265
+http://topiptv.net:5890/aziz/1234/56298
+#EXTINF:-1 tvg-id="MCM HD FR" tvg-name="FR| MCM FHD" tvg-logo="https://imgur.com/cN3GYUB.png" group-title="FRANCE | LIVE ",FR| MCM FHD
+http://topiptv.net:5890/aziz/1234/680
+#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="FR| MCM TOP FHD" tvg-logo="https://imgur.com/LdYXye5.png" group-title="FRANCE | LIVE ",FR| MCM TOP FHD
+http://topiptv.net:5890/aziz/1234/681
+#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM TOP H265" tvg-logo="https://imgur.com/LdYXye5.png" group-title="FRANCE | LIVE ",MCM TOP H265
+http://topiptv.net:5890/aziz/1234/56312
+#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="FR| NRJ HITS HD" tvg-logo="https://imgur.com/vuwe53E.png" group-title="FRANCE | LIVE ",FR| NRJ HITS HD
+http://topiptv.net:5890/aziz/1234/686
+#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="FR| TRACE AFRICA FHD" tvg-logo="https://imgur.com/VQRTeJi.png" group-title="FRANCE | LIVE ",FR| TRACE AFRICA FHD
+http://topiptv.net:5890/aziz/1234/687
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="FR| TRACE TROPICAL HD" tvg-logo="https://imgur.com/kqUFUJ4.png" group-title="FRANCE | LIVE ",FR| TRACE TROPICAL HD
+http://topiptv.net:5890/aziz/1234/688
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="FR| TRACE URBAN FHD" tvg-logo="https://imgur.com/LpKBapB.png" group-title="FRANCE | LIVE ",FR| TRACE URBAN FHD
+http://topiptv.net:5890/aziz/1234/689
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE MZIKI" tvg-logo="https://imgur.com/flXX9Kn.png" group-title="FRANCE | LIVE ",FR| TRACE MZIKI
+http://topiptv.net:5890/aziz/1234/690
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE NAIJA" tvg-logo="https://imgur.com/vv4OHte.png" group-title="FRANCE | LIVE ",FR| TRACE NAIJA
+http://topiptv.net:5890/aziz/1234/691
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE TOCA" tvg-logo="https://imgur.com/JEHlGes.png" group-title="FRANCE | LIVE ",FR| TRACE TOCA
+http://topiptv.net:5890/aziz/1234/692
+#EXTINF:-1 tvg-id="" tvg-name="FR| VH1 CLASSIC" tvg-logo="https://imgur.com/P9Usq40.png" group-title="FRANCE | LIVE ",FR| VH1 CLASSIC
+http://topiptv.net:5890/aziz/1234/684
+#EXTINF:-1 tvg-id="" tvg-name="FR| VH1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="FRANCE | LIVE ",FR| VH1 FHD
+http://topiptv.net:5890/aziz/1234/683
+#EXTINF:-1 tvg-id="" tvg-name="-- FR| ON DOMEND --" tvg-logo="" group-title="FRANCE | LIVE ",-- FR| ON DOMEND --
+http://topiptv.net:5890/aziz/1234/693
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 1" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 1
+http://topiptv.net:5890/aziz/1234/694
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 2" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 2
+http://topiptv.net:5890/aziz/1234/695
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 3" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 3
+http://topiptv.net:5890/aziz/1234/696
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 4" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 4
+http://topiptv.net:5890/aziz/1234/697
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 5" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 5
+http://topiptv.net:5890/aziz/1234/698
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 6" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 6
+http://topiptv.net:5890/aziz/1234/699
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 7" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 7
+http://topiptv.net:5890/aziz/1234/700
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 8" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 8
+http://topiptv.net:5890/aziz/1234/701
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 9" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 9
+http://topiptv.net:5890/aziz/1234/702
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL PLAY 10" tvg-logo="https://imgur.com/SMkfAIe.png" group-title="FRANCE | LIVE ",FR| CANAL PLAY 10
+http://topiptv.net:5890/aziz/1234/703
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 1" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%201.png?m=1458730575" group-title="FRANCE | LIVE ",FR| ALACARTE 1
+http://topiptv.net:5890/aziz/1234/704
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 2" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%202.png?m=1458730502" group-title="FRANCE | LIVE ",FR| ALACARTE 2
+http://topiptv.net:5890/aziz/1234/705
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 3" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%203.png?m=1458729020" group-title="FRANCE | LIVE ",FR| ALACARTE 3
+http://topiptv.net:5890/aziz/1234/706
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 4" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%204.png?m=1458729462" group-title="FRANCE | LIVE ",FR| ALACARTE 4
+http://topiptv.net:5890/aziz/1234/707
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 5" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%205.png?m=1458728497" group-title="FRANCE | LIVE ",FR| ALACARTE 5
+http://topiptv.net:5890/aziz/1234/708
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 6" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%206.png?m=1458729361" group-title="FRANCE | LIVE ",FR| ALACARTE 6
+http://topiptv.net:5890/aziz/1234/709
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 7" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%207.png?m=1458730413" group-title="FRANCE | LIVE ",FR| ALACARTE 7
+http://topiptv.net:5890/aziz/1234/710
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 8" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%208.png?m=1458729669" group-title="FRANCE | LIVE ",FR| ALACARTE 8
+http://topiptv.net:5890/aziz/1234/711
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 9" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%209.png?m=1458730466" group-title="FRANCE | LIVE ",FR| ALACARTE 9
+http://topiptv.net:5890/aziz/1234/712
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALACARTE 10" tvg-logo="http://jsat.tv/gallery/var/resizes/TV%20Logos/a%20la%20carte%2010.png?m=1458728551" group-title="FRANCE | LIVE ",FR| ALACARTE 10
+http://topiptv.net:5890/aziz/1234/713
+#EXTINF:-1 tvg-id="" tvg-name="---- SWZ | SWISS ----" tvg-logo="" group-title="SUISSE | LIVE ",---- SWZ | SWISS ----
+http://topiptv.net:5890/aziz/1234/59841
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SUISSE | LIVE ",Canal 9
+http://topiptv.net:5890/aziz/1234/59814
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha Jura" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="SUISSE | LIVE ",Canal Alpha Jura
+http://topiptv.net:5890/aziz/1234/59815
+#EXTINF:-1 tvg-id="" tvg-name="Die Neue Zeit" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="SUISSE | LIVE ",Die Neue Zeit
+http://topiptv.net:5890/aziz/1234/59816
+#EXTINF:-1 tvg-id="" tvg-name="Folx TV" tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="SUISSE | LIVE ",Folx TV
+http://topiptv.net:5890/aziz/1234/59817
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="SUISSE | LIVE ",Kanal 9
+http://topiptv.net:5890/aziz/1234/59818
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SUISSE | LIVE ",La Tele
+http://topiptv.net:5890/aziz/1234/59819
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SUISSE | LIVE ",La Tele
+http://topiptv.net:5890/aziz/1234/59820
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SUISSE | LIVE ",La Tele
+http://topiptv.net:5890/aziz/1234/59821
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SUISSE | LIVE ",LFM TV
+http://topiptv.net:5890/aziz/1234/59822
+#EXTINF:-1 tvg-id="" tvg-name="Musig24" tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="SUISSE | LIVE ",Musig24
+http://topiptv.net:5890/aziz/1234/59823
+#EXTINF:-1 tvg-id="" tvg-name="QS24" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="SUISSE | LIVE ",QS24
+http://topiptv.net:5890/aziz/1234/59824
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3i" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SUISSE | LIVE ",Radio 3i
+http://topiptv.net:5890/aziz/1234/59825
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus TV" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SUISSE | LIVE ",Radio Pilatus TV
+http://topiptv.net:5890/aziz/1234/59826
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV" tvg-logo="https://i.imgur.com/G030MZb.png" group-title="SUISSE | LIVE ",Rouge TV
+http://topiptv.net:5890/aziz/1234/59827
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV" tvg-logo="https://i.imgur.com/G030MZb.png" group-title="SUISSE | LIVE ",Rouge TV
+http://topiptv.net:5890/aziz/1234/59828
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1" tvg-logo="https://i.imgur.com/oyxClat.png" group-title="SUISSE | LIVE ",RTS 1
+http://topiptv.net:5890/aziz/1234/59829
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SUISSE | LIVE ",RTS Couleur 3
+http://topiptv.net:5890/aziz/1234/59830
+#EXTINF:-1 tvg-id="" tvg-name="Sportal HD" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="SUISSE | LIVE ",Sportal HD
+http://topiptv.net:5890/aziz/1234/59831
+#EXTINF:-1 tvg-id="" tvg-name="Swiss Sport TV" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="SUISSE | LIVE ",Swiss Sport TV
+http://topiptv.net:5890/aziz/1234/59832
+#EXTINF:-1 tvg-id="Tele M1 HD CH" tvg-name="Tele M1 HD" tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="SUISSE | LIVE ",Tele M1 HD
+http://topiptv.net:5890/aziz/1234/59833
+#EXTINF:-1 tvg-id="" tvg-name="TeleBarn" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="SUISSE | LIVE ",TeleBarn
+http://topiptv.net:5890/aziz/1234/59834
+#EXTINF:-1 tvg-id="" tvg-name="TeleBarn" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="SUISSE | LIVE ",TeleBarn
+http://topiptv.net:5890/aziz/1234/59835
+#EXTINF:-1 tvg-id="" tvg-name="TeleBarn" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="SUISSE | LIVE ",TeleBarn
+http://topiptv.net:5890/aziz/1234/59836
+#EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel HD" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="SUISSE | LIVE ",Telebasel HD
+http://topiptv.net:5890/aziz/1234/59837
+#EXTINF:-1 tvg-id="" tvg-name="TeleBielingue" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="SUISSE | LIVE ",TeleBielingue
+http://topiptv.net:5890/aziz/1234/59838
+#EXTINF:-1 tvg-id="" tvg-name="TeleTicino" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="SUISSE | LIVE ",TeleTicino
+http://topiptv.net:5890/aziz/1234/59839
+#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="https://i.imgur.com/f4gwdYD.png" group-title="SUISSE | LIVE ",TVO
+http://topiptv.net:5890/aziz/1234/59840
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL FHD" tvg-logo="" group-title="France",|FR| CANAL FHD
 http://iptv.allkaicerteam.com:8080/alkaicer_a08drnp512/m12vtc9lwj/1022
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="" group-title="France",|FR| CANAL CINEMA FIHD
