@@ -823,6 +823,552 @@ http://topiptv.net:5890/aziz/1234/59838
 http://topiptv.net:5890/aziz/1234/59839
 #EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-logo="https://i.imgur.com/f4gwdYD.png" group-title="SUISSE | LIVE ",TVO
 http://topiptv.net:5890/aziz/1234/59840
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 FHD FR" tvg-logo="http://pici.life/FR/tf1hd.png" group-title="France",TF1 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12857
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2 FHD FR" tvg-logo="http://pici.life/FR/france2hd.png" group-title="France",France 2 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5669
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="France 3 FHD FR" tvg-logo="http://pici.life/FR/france3.png" group-title="France",France 3 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12858
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="France 4 FHD FR" tvg-logo="http://pici.life/FR/France_4_HD.png" group-title="France",France 4 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5667
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD FR" tvg-logo="http://pici.life/FR/M6_hd.png" group-title="France",M6 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5653
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6Ter FHD FR" tvg-logo="http://pici.life/FR/6ter.png" group-title="France",6Ter FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13004
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 FHD FR" tvg-logo="http://pici.life/FR/c8.png" group-title="France",C8 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13006
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD FR" tvg-logo="http://pici.life/w9hd.png" group-title="France",W9 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5601
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL 9 FHD FR" tvg-logo="http://pici.life/FR/rtl9.png" group-title="France",RTL 9 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5620
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX FHD FR" tvg-logo="http://pici.life/FR/TFX.png" group-title="France",TFX FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/50868
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 FHD FR" tvg-logo="http://pici.life/fr/NRJ12.fr.png" group-title="France",NRJ 12 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5641
+#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue FHD FR" tvg-logo="http://pici.life/fr/13RUE.fr.png" group-title="France",13Eme Rue FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5717
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC FHD FR" tvg-logo="http://pici.life/tcmhd_2.png" group-title="France",TMC FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5607
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD FR" tvg-logo="http://pici.life/tcmhd_2.png" group-title="France",TCM FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5613
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 Series Films FHD FR" tvg-logo="http://pici.life/fr/HD1.fr.png" group-title="France",TF1 Series Films FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5662
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 FR" tvg-logo="http://pici.life/fr/AB1.fr.png" group-title="France",AB1 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5715
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="AB3 FHD FR" tvg-logo="http://pici.life/fr/AB3.fr.png" group-title="France",AB3 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5714
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte FHD FR" tvg-logo="http://pici.life/Picon/artehd_2.png" group-title="France",Arte FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12862
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="France 5 FHD FR" tvg-logo="http://pici.life/FR/France_5_HD.png" group-title="France",France 5 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5666
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="France O FR" tvg-logo="http://pici.life/fr/FranceO.fr.png" group-title="France",France O FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5664
+#EXTINF:-1 tvg-id="" tvg-name="Action FHD FR" tvg-logo="http://pici.life/FR/action.png" group-title="France",Action FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13003
+#EXTINF:-1 tvg-id="numero23.fr" tvg-name="RMC Story HD FR" tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="France",RMC Story HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5638
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie 25 FHD FR" tvg-logo="http://pici.life/fr/Cherie25.fr.png" group-title="France",Cherie 25 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5693
+#EXTINF:-1 tvg-id="RTS Un HD FR" tvg-name="RTS Un HD FR" tvg-logo="http://pici.life/fr/RTSUn.fr.png" group-title="France",RTS Un HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5619
+#EXTINF:-1 tvg-id="RTS Deux HD FR" tvg-name="RTS Deux FR" tvg-logo="http://pici.life/fr/RTSDeux.fr.png" group-title="France",RTS Deux FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5618
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="Comedie+ HD FR" tvg-logo="http://pici.life/fr/ComediePlus.fr.png" group-title="France",Comedie+ HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5687
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS Choc FHD FR" tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="France",OCS Choc FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5637
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City FHD FR" tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="France",OCS City FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5636
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Geants FHD FR" tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="France",OCS Geants FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5635
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max FHD FR" tvg-logo="http://pici.life/fr/OCSMax.fr.png" group-title="France",OCS Max FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5634
+#EXTINF:-1 tvg-id="" tvg-name="Atice Studio HD FR" tvg-logo="http://pici.life/FR/Atice_Studio.png" group-title="France",Atice Studio HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/50064
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ FHD FR" tvg-logo="http://pici.life/PL/canalplushd.png" group-title="France",Canal+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12860
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="Canal Decale HD FR" tvg-logo="http://pici.life/fr/CANALplusDECALE.fr.png" group-title="France",Canal Decale HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5699
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="Canal Cinema FHD FR" tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="France",Canal Cinema FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12996
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family FHD FR" tvg-logo="http://pici.life/FR/Canal+_Family_HD.png" group-title="France",Canal+ Family FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12970
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="Canal Series HD FR" tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="France",Canal Series HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12995
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="Cine Club FHD FR" tvg-logo="http://pici.life/Logo/cineclub.png" group-title="France",Cine Club FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12994
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Cine+ Classic FHD FR" tvg-logo="http://pici.life/FR/cineplusclassic.png" group-title="France",Cine+ Classic FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12969
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Cine+ Club FHD FR" tvg-logo="http://pici.life/FR/cineplusclub.png" group-title="France",Cine+ Club FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16925
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="Cine+ Emotion FHD FR" tvg-logo="http://pici.life/FR/CINE+_EMOTION_HD.png" group-title="France",Cine+ Emotion FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5691
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="Cine+ Famiz FHD FR" tvg-logo="http://pici.life/FR/cineplusfamiz.png" group-title="France",Cine+ Famiz FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12859
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Polar FHD FR" tvg-logo="http://pici.life/fr/Polar.fr.png" group-title="France",Cine+ Polar FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5689
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="Cine+ Premier FHD FR" tvg-logo="http://pici.life/FR/CINE+_PREMIER_HD.png" group-title="France",Cine+ Premier FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5688
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FHD FR" tvg-logo="http://pici.life/syfyhd_2.png" group-title="France",Syfy FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12968
+#EXTINF:-1 tvg-id="" tvg-name="Série Club FHD FR" tvg-logo="http://pici.life/FR/serieclubhd.png" group-title="France",Série Club FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16892
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva FHD FR" tvg-logo="http://pici.life/FR/teva.png" group-title="France",Teva FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13002
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="Elle Girl FHD FR" tvg-logo="http://pici.life/FR/elle-girl.png" group-title="France",Elle Girl FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12856
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Decale FHD FR" tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="France",Paramount Decale FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16895
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel FHD FR" tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="France",Paramount Channel FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16896
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinema FHD FR" tvg-logo="http://pici.life/FR/tcm.png" group-title="France",TCM Cinema FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13001
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV Breizh FHD FR" tvg-logo="http://pici.life/FR/tvbreizh.png" group-title="France",TV Breizh FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5605
+#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue HD FR" tvg-logo="http://pici.life/FR/13emerue.png" group-title="France",13Eme Rue HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12973
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="Paris Premiere FHD FR" tvg-logo="http://pici.life/fr/ParisPremiere.fr.png" group-title="France",Paris Premiere FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5626
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD FR" tvg-logo="http://pici.life/discoverychannelhd_2.png" group-title="France",Discovery FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12997
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family FHD FR" tvg-logo="http://pici.life/picon/discoveryfamilyarb.png" group-title="France",Discovery Family FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16921
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="Discovery Investigation FHD FR" tvg-logo="http://pici.life/investigationdiscoveryhd_2.png" group-title="France",Discovery Investigation FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/9034
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="Discovery Science FHD FR" tvg-logo="http://pici.life/discoverysciencehd_2.png" group-title="France",Discovery Science FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5682
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux HD FR" tvg-logo="http://pici.life/fr/Animaux.fr.png" group-title="France",Animaux HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5712
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="Nat Geo Wild FHD FR" tvg-logo="http://pici.life/FR/natgeowild.png" group-title="France",Nat Geo Wild FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16906
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="National Geographic FHD FR" tvg-logo="http://pici.life/FR/nationalgeo.png" group-title="France",National Geographic FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16905
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute l'Histoire FHD FR" tvg-logo="http://pici.life/FR/toutelhistoire.png" group-title="France",Toute l'Histoire FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13000
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="Histoire FHD FR" tvg-logo="http://pici.life/FR/histoire.png" group-title="France",Histoire FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16916
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="Science et Vie FHD FR" tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="France",Science et Vie FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16894
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Season FHD FR" tvg-logo="http://pici.life/FR/seasons.png" group-title="France",Season FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16893
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC Decouverte FHD FR" tvg-logo="http://pici.life/fr/RMCdecouverte.fr.png" group-title="France",RMC Decouverte FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5621
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FHD FR" tvg-logo="http://pici.life/FR/trek.png" group-title="France",Trek FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13005
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="Ushuaia TV HD FR" tvg-logo="http://pici.life/fr/UshuaiaTV.fr.png" group-title="France",Ushuaia TV HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5603
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage FHD FR" tvg-logo="http://pici.life/FR/voyage.png" group-title="France",Voyage FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16883
+#EXTINF:-1 tvg-id="planetejustice.fr" tvg-name="Planete Plus CI FHD FR" tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="France",Planete Plus CI FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5622
+#EXTINF:-1 tvg-id="planeteaction.fr" tvg-name="Planete+  A&E FHD FR" tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="France",Planete+  A&E FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12998
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planète+ Crime Investigation FHD FR" tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="France",Planète+ Crime Investigation FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12942
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="Crime District FHD FR" tvg-logo="http://pici.life/Logo/Crime-District.png" group-title="France",Crime District FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16923
+#EXTINF:-1 tvg-id="" tvg-name="Boing HD FR" tvg-logo="http://pici.life/fr/Boing.fr.png" group-title="France",Boing HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5705
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang HD FR" tvg-logo="http://pici.life/fr/Boomerang.fr.png" group-title="France",Boomerang HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5704
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="Canal J HD FR" tvg-logo="http://pici.life/fr/CanalJ.fr.png" group-title="France",Canal J HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5702
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="Cartoon Network FHD FR" tvg-logo="http://pici.life/cartoonnethd.png" group-title="France",Cartoon Network FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12943
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli FHD FR" tvg-logo="http://pici.life/FR/gulli.png" group-title="France",Gulli FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16917
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel +1 FR" tvg-logo="http://pici.life/FR/disneychannel.png" group-title="France",Disney Channel +1 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12947
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="Disney Channel FHD FR" tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="France",Disney Channel FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5681
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="Disney Cinema FHD FR" tvg-logo="http://pici.life/FR/disneycinema.png" group-title="France",Disney Cinema FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12946
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="Disney Junior FHD FR" tvg-logo="http://pici.life/disneyjnrhd_2.png" group-title="France",Disney Junior FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5679
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="Disney XD FHD FR" tvg-logo="http://pici.life/FR/disneyxd.png" group-title="France",Disney XD FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16920
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas HD FR" tvg-logo="http://pici.life/FR/mangas.png" group-title="France",Mangas HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/625363
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1 FHD FR" tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="France",Nickelodeon +1 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16904
+#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="Nickelodeon 4 Teen FHD FR" tvg-logo="http://pici.life/FR/nickelodeon4teen.png" group-title="France",Nickelodeon 4 Teen FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16903
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon FHD FR" tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="France",Nickelodeon FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16902
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="Nickelodeon Junior FR" tvg-logo="http://pici.life/fr/NickJr.fr.png" group-title="France",Nickelodeon Junior FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5642
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi+ FHD FR" tvg-logo="http://pici.life/FR/piwiplus.png" group-title="France",Piwi+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12944
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="Tiji HD FR" tvg-logo="http://pici.life/fr/Tiji.fr.png" group-title="France",Tiji HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5609
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="Toonami FHD FR" tvg-logo="http://pici.life/FR/Tonami.jpg" group-title="France",Toonami FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16890
+#EXTINF:-1 tvg-id="" tvg-name="TéléToon+ FHD FR" tvg-logo="http://pici.life/FR/teletoonplus.png" group-title="France",TéléToon+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16891
+#EXTINF:-1 tvg-id="" tvg-name="Zouzous FR" tvg-logo="http://pici.life/zouzous.png" group-title="France",Zouzous FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5599
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Africa FR" tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="France",BBlack Africa FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/14275
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Classic FR" tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="France",BBlack Classic FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/14274
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="Bet HD FR" tvg-logo="http://pici.life/bet.png" group-title="France",Bet HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7941
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar HD FR" tvg-logo="http://pici.life/fr/CineStarAfrique.fr.png" group-title="France",CStar HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5686
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 Music FR" tvg-logo="http://pici.life/fr/M6Music.fr.png" group-title="France",M6 Music FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5654
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ Hits HD FR" tvg-logo="http://pici.life/fr/NRJHits.fr.png" group-title="France",NRJ Hits HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5640
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM FHD FR" tvg-logo="http://pici.life/Logo/MCM_logo.png" group-title="France",MCM FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16912
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM Top FHD FR" tvg-logo="http://pici.life/Logo/Mcm_top_logo.png" group-title="France",MCM Top FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16911
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FHD FR" tvg-logo="http://pici.life/mtvhd_2.png" group-title="France",MTV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7942
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="MTV Hits FHD FR" tvg-logo="http://pici.life/FR/mtvhits.png" group-title="France",MTV Hits FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16910
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV FR" tvg-logo="http://pici.life/FR/Clubbing%20tv.png" group-title="France",Clubbing TV FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12939
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="Trace Africa FHD FR" tvg-logo="http://pici.life/FR/Trace_Africa.png" group-title="France",Trace Africa FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16889
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical FHD FR" tvg-logo="http://pici.life/FR/Trace_Tropical.png" group-title="France",Trace Tropical FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16887
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="Trace Urban FHD FR" tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="France",Trace Urban FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16886
+#EXTINF:-1 tvg-id="One TV FR" tvg-name="ONE TV FHD FR" tvg-logo="http://pici.life/picon/onehd.png" group-title="France",ONE TV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16898
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV FR" tvg-logo="" group-title="France",Rouge TV FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/643095
+#EXTINF:-1 tvg-id="stingrayiconcerts.fr" tvg-name="Stingray Brava FHD FR" tvg-logo="http://pici.life/FR/Stingray_Brava.png" group-title="France",Stingray Brava FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12933
+#EXTINF:-1 tvg-id="" tvg-name="Brava FHD FR" tvg-logo="http://pici.life/bravahd.png" group-title="France",Brava FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7940
+#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo FHD FR" tvg-logo="http://pici.life/FR/mezzolivehd.png" group-title="France",Mezzo FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5652
+#EXTINF:-1 tvg-id="" tvg-name="6Ter HD FR" tvg-logo="http://pici.life/fr/6ter.fr.png" group-title="France",6Ter HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5716
+#EXTINF:-1 tvg-id="action.fr" tvg-name="Action FR" tvg-logo="http://pici.life/fr/Action.fr.png" group-title="France",Action FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8629
+#EXTINF:-1 tvg-id="alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="http://pici.life/alsace_20_fr.png" group-title="France",Alsace 20 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12941
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="http://pici.life/artehd_2.png" group-title="France",Arte HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5711
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="http://pici.life/fr/BFMBusiness.fr.png" group-title="France",BFM Business FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5707
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="France",BFM TV FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5706
+#EXTINF:-1 tvg-id="Be Curious TV FR" tvg-name="Be Curious TV FHD FR" tvg-logo="http://pici.life/Picon/becurious.png" group-title="France",Be Curious TV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12861
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 HD FR" tvg-logo="http://pici.life/fr/C8.fr.png" group-title="France",C8 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5703
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS FHD FR" tvg-logo="http://pici.life/FR/cnews.png" group-title="France",CNEWS FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16924
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNews HD FR" tvg-logo="http://pici.life/FR/cnews.png" group-title="France",CNews HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5661
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ Cinema HD FR" tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="France",Canal+ Cinema HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5700
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ HD FR" tvg-logo="http://pici.life/canalplushd.png" group-title="France",Canal+ HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/57012
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family HD FR" tvg-logo="http://pici.life/fr/CANALplusFamily.fr.png" group-title="France",Canal+ Family HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8628
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="Canal+ Series HD FR" tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="France",Canal+ Series HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5697
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="Chasse E Peche HD FR" tvg-logo="http://pici.life/fr/ChassePeche.fr.png" group-title="France",Chasse E Peche HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5694
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD FR" tvg-logo="" group-title="France",Cine Action HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Classic HD FR" tvg-logo="http://pici.life/cineclassic.PNG" group-title="France",Cine Classic HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7943
+#EXTINF:-1 tvg-id="cinefx.fr" tvg-name="Cine FX HD FR" tvg-logo="http://pici.life/FR/CINE_FX_HD.jpg" group-title="France",Cine FX HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5692
+#EXTINF:-1 tvg-id="" tvg-name="Cine Famiz FR" tvg-logo="http://pici.life/fr/CinePlusFamiz.fr.png" group-title="France",Cine Famiz FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8624
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD FR" tvg-logo="" group-title="France",Warner TV HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/655432
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="Cine+ Frisson HD FR" tvg-logo="http://pici.life/FR/CINE+_FRISSON_HD.png" group-title="France",Cine+ Frisson HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5690
+#EXTINF:-1 tvg-id="" tvg-name="D8 FHD FR" tvg-logo="http://pici.life/FR/d8_hd.png" group-title="France",D8 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5684
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="Discovery HD FR" tvg-logo="http://pici.life/fr/DiscoveryChannel.fr.png" group-title="France",Discovery HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5683
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="Disney Cinema HD FR" tvg-logo="http://pici.life/fr/DisneyCinema.fr.png" group-title="France",Disney Cinema HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8617
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="Disney Junior HD FR" tvg-logo="http://pici.life/FR/disneyjunior.png" group-title="France",Disney Junior HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12945
+#EXTINF:-1 tvg-id="disneyxd.fr" tvg-name="Disney XD HD FR" tvg-logo="http://pici.life/fr/DisneyXD.fr.png" group-title="France",Disney XD HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8614
+#EXTINF:-1 tvg-id="" tvg-name="Djazz TV FHD FR" tvg-logo="http://pici.life/djazz.png" group-title="France",Djazz TV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7939
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! Entertainment FR" tvg-logo="http://pici.life/fr/EEntertainment.fr.png" group-title="France",E! Entertainment FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5678
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 FR" tvg-logo="http://pici.life/FR/france24.png" group-title="France",France 24 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5665
+#EXTINF:-1 tvg-id="" tvg-name="France 24 News FR" tvg-logo="http://pici.life/fr/France24.fr.png" group-title="France",France 24 News FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8630
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English FR" tvg-logo="http://pici.life/fr/France24English.fr.png" group-title="France",France 24 English FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8559
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="http://pici.life/fr/France3.fr.png" group-title="France",France 3 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5668
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="France Info FR" tvg-logo="http://pici.life/FR/France%20info.png" group-title="France",France Info FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12971
+#EXTINF:-1 tvg-id="" tvg-name="i24NEWS FR" tvg-logo="http://pici.life/FR/i24news.png" group-title="France",i24NEWS FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12931
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FHD FR" tvg-logo="http://pici.life/FR/gameone.png" group-title="France",Game One FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16919
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FR" tvg-logo="http://pici.life/fr/GameOne.fr.png" group-title="France",Game One FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5663
+#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="http://pici.life/FR/GONG.png" group-title="France",Gong FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8558
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli FR" tvg-logo="http://pici.life/fr/Gulli.fr.png" group-title="France",Gulli FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8615
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="Histoire FR" tvg-logo="http://pici.life/fr/Histoire.fr.png" group-title="France",Histoire FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8570
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO FR" tvg-logo="http://pici.life/fr/KTO.fr.png" group-title="France",KTO FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5659
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP FR" tvg-logo="http://pici.life/fr/LaChaineParlementaire.fr.png" group-title="France",LCP FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5655
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCi HD FR" tvg-logo="http://pici.life/fr/LCI.fr.png" group-title="France",LCi HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5656
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande FR" tvg-logo="http://pici.life/fr/LaChaineMeteo.fr.png" group-title="France",La Chaine Normande FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5658
+#EXTINF:-1 tvg-id="La Une FR" tvg-name="La Une HD FR" tvg-logo="http://pici.life/launehd_2.png" group-title="France",La Une HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5657
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV HD FR" tvg-logo="http://pici.life/FR/Luxe_TV.png" group-title="France",Luxe TV HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16913
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD FR" tvg-logo="http://pici.life/MCM_logo.png" group-title="France",MCM HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12967
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="MTV Hits FR" tvg-logo="http://pici.life/fr/MTV.fr.png" group-title="France",MTV Hits FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8568
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music FR" tvg-logo="http://pici.life/FR/MTV_Music.png" group-title="France",MTV Music FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12965
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas FR" tvg-logo="http://pici.life/fr/Mangas.fr.png" group-title="France",Mangas FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8616
+#EXTINF:-1 tvg-id="My Cuisine FR" tvg-name="My Cuisine FHD FR" tvg-logo="http://pici.life/FR/My_cuisine.PNG" group-title="France",My Cuisine FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16908
+#EXTINF:-1 tvg-id="nt1.fr" tvg-name="NT1 FR" tvg-logo="http://pici.life/fr/NT1.fr.png" group-title="France",NT1 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5639
+#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="Nat Geo HD FR" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="France",Nat Geo HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8632
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="Nat Geo Wild HD FR" tvg-logo="http://pici.life/natgeowildhd.png" group-title="France",Nat Geo Wild HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5645
+#EXTINF:-1 tvg-id="" tvg-name="National Geo FHD FR" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="France",National Geo FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12999
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="National Geographic HD FR" tvg-logo="http://pici.life/nationalgeographichd.png" group-title="France",National Geographic HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5644
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon FR" tvg-logo="http://pici.life/fr/Nickelodeon.fr.png" group-title="France",Nickelodeon FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5643
+#EXTINF:-1 tvg-id="Non Stop People FR" tvg-name="Non Stop People FHD FR" tvg-logo="http://pici.life/FR/Non_Stop_People.png" group-title="France",Non Stop People FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16901
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS Choc HD FR" tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="France",OCS Choc HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8618
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City HD FR" tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="France",OCS City HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8619
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Geants HD FR" tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="France",OCS Geants HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8620
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max HD FR" tvg-logo="http://pici.life/FR/ocsmax.png" group-title="France",OCS Max HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/38016
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel HD FR" tvg-logo="http://pici.life/fr/ParamountChannel.fr.png" group-title="France",Paramount Channel HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5627
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi HD FR" tvg-logo="http://pici.life/fr/PIWI.fr.png" group-title="France",Piwi HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5625
+#EXTINF:-1 tvg-id="" tvg-name="Planete A&E HD FR" tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="France",Planete A&E HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8563
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="Planete+ HD FR" tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="France",Planete+ HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5624
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planete-HD FR" tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="France",Planete-HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8572
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM HD FR" tvg-logo="http://pici.life/FR/RFM.png" group-title="France",RFM HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12964
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 FR" tvg-logo="http://pici.life/rtl9.png" group-title="France",RTL9 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7945
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="Science Et Vie TV HD FR" tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="France",Science Et Vie TV HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5615
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="Seasons HD FR" tvg-logo="http://pici.life/fr/Seasons.fr.png" group-title="France",Seasons HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5617
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="Serie Club FR" tvg-logo="http://pici.life/fr/serieclub.fr.png" group-title="France",Serie Club FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8622
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FR" tvg-logo="http://pici.life/fr/Syfy.fr.png" group-title="France",Syfy FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5614
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinema FR" tvg-logo="http://pici.life/fr/TCM.fr.png" group-title="France",TCM Cinema FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8621
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD FR" tvg-logo="http://pici.life/fr/TF1.fr.png" group-title="France",TF1 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5610
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD FR" tvg-logo="http://pici.life/FR/TFX.png" group-title="France",TFX HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/50867
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV 5 Monde FHD FR" tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="France",TV 5 Monde FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5604
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV 5 Monde FR" tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="France",TV 5 Monde FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8631
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 Mont Blanc FHD FR" tvg-logo="http://pici.life/picon/tv8_2.png" group-title="France",TV8 Mont Blanc FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16885
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva FR" tvg-logo="http://pici.life/fr/Teva.fr.png" group-title="France",Teva FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5611
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute L Historie FR" tvg-logo="http://pici.life/fr/TouteHistoire.fr.png" group-title="France",Toute L Historie FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5606
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD FR" tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="France",Trace Urban HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12963
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="Tele Toon Plus FR" tvg-logo="http://pici.life/fr/TeleToonPlus.fr.png" group-title="France",Tele Toon Plus FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5612
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FR" tvg-logo="http://pici.life/fr/Trek.fr.png" group-title="France",Trek FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5608
+#EXTINF:-1 tvg-id="" tvg-name="Téva HD FR" tvg-logo="http://pici.life/FR/teva.png" group-title="France",Téva HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12949
+#EXTINF:-1 tvg-id="Viceland FR" tvg-name="Viceland FHD FR" tvg-logo="http://pici.life/FR/Viceland.png" group-title="France",Viceland FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16884
+#EXTINF:-1 tvg-id="Vosges TV FR" tvg-name="Vosges Télévision HD FR" tvg-logo="http://pici.life/FR/vosges_television.png" group-title="France",Vosges Télévision HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12932
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage TV HD FR" tvg-logo="http://pici.life/fr/Voyage.fr.png" group-title="France",Voyage TV HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5602
+#EXTINF:-1 tvg-id="Weo TV FR" tvg-name="Weo HD FR" tvg-logo="http://pici.life/FR/weotv.png" group-title="France",Weo HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5600
+#EXTINF:-1 tvg-id="AB Moteurs FR" tvg-name="Automoto HD FR" tvg-logo="http://pici.life/fr/ABMoteurs.fr.png" group-title="France",Automoto HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5713
+#EXTINF:-1 tvg-id="" tvg-name="Automoto HD (Backup) FR" tvg-logo="" group-title="France",Automoto HD (Backup) FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/648390
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="Canal Sport FHD FR" tvg-logo="http://pici.life/fr/CANALplusSPORT.fr.png" group-title="France",Canal Sport FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8569
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="Canal+ Sport FHD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France",Canal+ Sport FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16926
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="Canal+ Sport HD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="France",Canal+ Sport HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5696
+#EXTINF:-1 tvg-id="BFM Sport FR" tvg-name="BFM Sport FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="France",BFM Sport FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8560
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN Sports 1 FHD FR" tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="France",beIN Sports 1 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5710
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="France",beIN Sports 1 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12961
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FHD FR" tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="France",beIN Sports 2 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12958
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FR" tvg-logo="http://pici.life/FR/bein_sports_2.png" group-title="France",beIN Sports 2 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12959
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="France",beIN Sports 2 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5709
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD FR" tvg-logo="http://pici.life/fr/BeinSports3.fr.png" group-title="France",beIN Sports 3 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5708
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 HD FR" tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="France",beIN Sports 3 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12957
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 Max FR" tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="France",beIN Sports 4 Max FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8562
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="beIN Sports 6 Max FR" tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="France",beIN Sports 6 Max FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8538
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 Max FR" tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="France",beIN Sports 7 Max FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/8537
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 10 FR" tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="France",beIN Sports Max 10 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12953
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN Sports Max 8 FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="France",beIN Sports Max 8 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12956
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN Sports Max 8 HD FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="France",beIN Sports Max 8 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12955
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 9 FR" tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="France",beIN Sports Max 9 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12954
+#EXTINF:-1 tvg-id="Equidia Life HD FR" tvg-name="Equidia Life HD FR" tvg-logo="http://pici.life/FR/equidialive.png" group-title="France",Equidia Life HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12950
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="Equidia Live FR" tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="France",Equidia Live FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5675
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21 HD FR" tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="France",Equipe 21 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5674
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="Equipe FR" tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="France",Equipe FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5676
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="EuroSport 1 FR" tvg-logo="" group-title="Sports",EuroSport 1 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/7137
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="Euronews FHD FR" tvg-logo="http://pici.life/FR/euronews.png" group-title="France",Euronews FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5673
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="Eurosport 1 FHD FR" tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="France",Eurosport 1 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5672
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="Eurosport 2 FHD FR" tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="France",Eurosport 2 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5671
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="Eurosport 2 FR" tvg-logo="http://pici.life/eurosport2_2.png" group-title="France",Eurosport 2 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12951
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC Sport 1 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="France",RMC Sport 1 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/625254
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="France",RMC Sport 2 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/86352
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC Sport 3 FHD FR" tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="France",RMC Sport 3 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/625250
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="RMC Sport 4 FHD FR" tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="France",RMC Sport 4 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/625253
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="France",RMC Sport News HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/624939
+#EXTINF:-1 tvg-id="Trace Sport Stars FR" tvg-name="Trace Sport Stars HD FR" tvg-logo="http://pici.life/FR/Trace_Sport_Stars.png" group-title="France",Trace Sport Stars HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16888
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="Foot + 24 FR" tvg-logo="http://pici.life/fr/FootPlus24.fr.png" group-title="France",Foot + 24 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5670
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="Info Sport+ FHD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France",Info Sport+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12952
+#EXTINF:-1 tvg-id="" tvg-name="Infosport+ FHD FR" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="France",Infosport+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16915
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="Infosport+ FR" tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="France",Infosport+ FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5660
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD FR" tvg-logo="http://pici.life/picon/golfchannel_2.png" group-title="France",Golf Channel FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16918
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="Golf+ FHD FR" tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="France",Golf+ FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12948
+#EXTINF:-1 tvg-id="" tvg-name="OL TV FHD FR" tvg-logo="http://pici.life/FR/OLTV.png" group-title="France",OL TV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/16900
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="OLTV FHD FR" tvg-logo="http://pici.life/fr/OLTV.fr.png" group-title="France",OLTV FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5633
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 1 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12930
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 2 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12929
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3 FR" tvg-logo="http://pici.life/FR/A%20la%20carte%203.png" group-title="France",A La Carte 3 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12928
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 4 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12927
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 5 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12926
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 6 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12925
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 7 FHD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 7 FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12924
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 8 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="France",A La Carte 8 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/12923
+#EXTINF:-1 tvg-id="" tvg-name="Movies 1 HD FR" tvg-logo="http://pici.life/DE/%20MOVIES%201%20HD%20.png" group-title="France",Movies 1 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5651
+#EXTINF:-1 tvg-id="" tvg-name="Movies 5 HD FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="France",Movies 5 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5648
+#EXTINF:-1 tvg-id="" tvg-name="Movies 6 FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="France",Movies 6 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5647
+#EXTINF:-1 tvg-id="" tvg-name="Movies 7 FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="France",Movies 7 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5646
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 1 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="France",OCS Go Cinema 1 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13015
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 2 FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="France",OCS Go Cinema 2 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13014
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 3 FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="France",OCS Go Cinema 3 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13013
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 4 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="France",OCS Go Cinema 4 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13012
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 5 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="France",OCS Go Cinema 5 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13011
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 1 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13023
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 2 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 2 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13022
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 3 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13021
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 4 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13020
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 5 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13019
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 6 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema 6 HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13018
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Action FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema Action FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5631
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema Aventure FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5630
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema CEst Fait HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema CEst Fait HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5629
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="France",Orange Cinema FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5632
+#EXTINF:-1 tvg-id="" tvg-name="Christmas 24 FR" tvg-logo="http://pici.life/uk/Movies24.uk.png" group-title="France",Christmas 24 FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/6576
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="Cartoon Network FR" tvg-logo="http://pici.life/fr/CartoonNetwork.fr.png" group-title="France",Cartoon Network FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/5695
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star FHD FR" tvg-logo="http://pici.life/FR/cstar.png" group-title="France",C Star FHD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/13007
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="J-One HD FR" tvg-logo="http://pici.life/FR/JONE.png" group-title="France",J-One HD FR
+http://mypanel.tv:8080/noel01/b459hjyfy8/625364
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL FHD" tvg-logo="" group-title="France",|FR| CANAL FHD
 http://iptv.allkaicerteam.com:8080/alkaicer_a08drnp512/m12vtc9lwj/1022
 #EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="" group-title="France",|FR| CANAL CINEMA FIHD
