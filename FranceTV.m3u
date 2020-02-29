@@ -259,8 +259,6 @@ http://topiptv.net:5890/aziz/1234/56308
 http://topiptv.net:5890/aziz/1234/56331
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV H265" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="FRANCE | LIVE ",WARNER TV H265
 http://topiptv.net:5890/aziz/1234/56332
-#EXTINF:-1 tvg-id="" tvg-name="--FR| CANAL+ | LIVE --" tvg-logo="https://static.iptv-epg.com/fr/CanalPlus.fr.png" group-title="FRANCE | LIVE ",--FR| CANAL+ | LIVE --
-http://topiptv.net:5890/aziz/1234/552
 #EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR| CANAL+ FHD" tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="FRANCE | LIVE ",FR| CANAL+ FHD
 http://topiptv.net:5890/aziz/1234/553
 #EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="FR| CANAL+ HD" tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="FRANCE | LIVE ",FR| CANAL+ HD
