@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" FRANCE",   |FR| FRANCE 3 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
 
@@ -1329,3 +1328,781 @@ http://k.lf.mk:8037/live/ksport-restram/486278768/382.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",   FR: BEINSPORT 1 HD
 http://k.lf.mk:8037/live/ksport-restram/486278768/381.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHDL" tvg-logo="" group-title="FRANCE",FR: TF1 FHDL
+http://xtiptv.xyz:25461/5408139643/6347205386/61750
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HDL" tvg-logo="" group-title="FRANCE",FR: TF1 HDL
+http://xtiptv.xyz:25461/5408139643/6347205386/61751
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HDL" tvg-logo="" group-title="FRANCE",FR: M6 HDL
+http://xtiptv.xyz:25461/5408139643/6347205386/61752
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FAMIZ HD" tvg-logo="" group-title="FRANCE",FR: CINE+ FAMIZ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61753
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON JUNIOR HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON JUNIOR HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61754
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="FRANCE",FR: DISNEY XD HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61755
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61756
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61757
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61758
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 5 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61759
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="FRANCE",FR: FRANCE 5
+http://xtiptv.xyz:25461/5408139643/6347205386/61760
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANCE",FR: M6 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61761
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="FRANCE",FR: M6
+http://xtiptv.xyz:25461/5408139643/6347205386/61762
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE HD" tvg-logo="" group-title="FRANCE",FR: ARTE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61763
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="" group-title="FRANCE",FR: ARTE
+http://xtiptv.xyz:25461/5408139643/6347205386/61764
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="FRANCE",FR: W9 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61765
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="FRANCE",FR: W9
+http://xtiptv.xyz:25461/5408139643/6347205386/61766
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FRANCE",FR: TMC HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61767
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="" group-title="FRANCE",FR: TMC
+http://xtiptv.xyz:25461/5408139643/6347205386/61768
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="" group-title="FRANCE",FR: TFX HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61769
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12 HD" tvg-logo="" group-title="FRANCE",FR: NRJ 12 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61770
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12" tvg-logo="" group-title="FRANCE",FR: NRJ 12
+http://xtiptv.xyz:25461/5408139643/6347205386/61771
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP/PUBLIC SENAT" tvg-logo="" group-title="FRANCE",FR: LCP/PUBLIC SENAT
+http://xtiptv.xyz:25461/5408139643/6347205386/61772
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 4 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61773
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4" tvg-logo="" group-title="FRANCE",FR: FRANCE 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61774
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="" group-title="FRANCE",FR: BFM TV HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61775
+#EXTINF:-1 tvg-id="" tvg-name="FR: GULLI" tvg-logo="" group-title="FRANCE",FR: GULLI
+http://xtiptv.xyz:25461/5408139643/6347205386/61776
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE O HD" tvg-logo="" group-title="FRANCE",FR: FRANCE O HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61777
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE O" tvg-logo="" group-title="FRANCE",FR: FRANCE O
+http://xtiptv.xyz:25461/5408139643/6347205386/61778
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="FRANCE",FR: TF1 SERIES FILMS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61779
+#EXTINF:-1 tvg-id="" tvg-name="FR: L' EQUIPE 21 HD" tvg-logo="" group-title="FRANCE",FR: L' EQUIPE 21 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61780
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FRANCE",FR: 6TER HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61781
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Story HD" tvg-logo="" group-title="FRANCE",FR: RMC Story HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61782
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Story" tvg-logo="" group-title="FRANCE",FR: RMC Story
+http://xtiptv.xyz:25461/5408139643/6347205386/61783
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="" group-title="FRANCE",FR: RMC DECOUVERTE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61784
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FRANCE",FR: CHERIE 25 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61785
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI HD" tvg-logo="" group-title="FRANCE",FR: LCI HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61786
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO" tvg-logo="" group-title="FRANCE",FR: FRANCE INFO
+http://xtiptv.xyz:25461/5408139643/6347205386/61787
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA" tvg-logo="" group-title="FRANCE",FR: TEVA
+http://xtiptv.xyz:25461/5408139643/6347205386/61788
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="FRANCE",FR: AB1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61789
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="FRANCE",FR: AB3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61790
+#EXTINF:-1 tvg-id="" tvg-name="FR: ABXplore HD" tvg-logo="" group-title="FRANCE",FR: ABXplore HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61791
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9 HD" tvg-logo="" group-title="FRANCE",FR: RTL 9 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61792
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9" tvg-logo="" group-title="FRANCE",FR: RTL 9
+http://xtiptv.xyz:25461/5408139643/6347205386/61793
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61794
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ HD" tvg-logo="" group-title="FRANCE",FR: POLAR+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61795
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH" tvg-logo="" group-title="FRANCE",FR: TV BREIZH
+http://xtiptv.xyz:25461/5408139643/6347205386/61796
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ CINEMA" tvg-logo="" group-title="FRANCE",FR: CANAL+ CINEMA
+http://xtiptv.xyz:25461/5408139643/6347205386/61797
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="FRANCE",FR: CANAL+ FAMILY
+http://xtiptv.xyz:25461/5408139643/6347205386/61798
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="FRANCE",FR: CANAL+ DECALE
+http://xtiptv.xyz:25461/5408139643/6347205386/61799
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="FRANCE",FR: CINE+ PREMIER
+http://xtiptv.xyz:25461/5408139643/6347205386/61800
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FRISSON" tvg-logo="" group-title="FRANCE",FR: CINE+ FRISSON
+http://xtiptv.xyz:25461/5408139643/6347205386/61801
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FAMIZ" tvg-logo="" group-title="FRANCE",FR: CINE+ FAMIZ
+http://xtiptv.xyz:25461/5408139643/6347205386/61802
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ EMOTION" tvg-logo="" group-title="FRANCE",FR: CINE+ EMOTION
+http://xtiptv.xyz:25461/5408139643/6347205386/61803
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="FRANCE",FR: CINE+ CLASSIC
+http://xtiptv.xyz:25461/5408139643/6347205386/61804
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCE",FR: SERIE CLUB HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61805
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="" group-title="FRANCE",FR: OCS MAX
+http://xtiptv.xyz:25461/5408139643/6347205386/61806
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANTS" tvg-logo="" group-title="FRANCE",FR: OCS GEANTS
+http://xtiptv.xyz:25461/5408139643/6347205386/61807
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="FRANCE",FR: OCS CITY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61808
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FRANCE",FR: OCS CITY
+http://xtiptv.xyz:25461/5408139643/6347205386/61809
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC" tvg-logo="" group-title="FRANCE",FR: OCS CHOC
+http://xtiptv.xyz:25461/5408139643/6347205386/61810
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA HD" tvg-logo="" group-title="FRANCE",FR: TCM CINEMA HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61811
+#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION HD" tvg-logo="" group-title="FRANCE",FR: ACTION HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61812
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="FRANCE",FR: 13EME RUE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61813
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FRANCE",FR: SYFY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61814
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61815
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL DECALE HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL DECALE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61816
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="" group-title="FRANCE",FR: ALTICE STUDIO HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61817
+#EXTINF:-1 tvg-id="" tvg-name="FR: ELLE GIRL HD" tvg-logo="" group-title="FRANCE",FR: ELLE GIRL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61818
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+ HD" tvg-logo="" group-title="FRANCE",FR: COMEDIE+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61819
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="" group-title="FRANCE",FR: TREK HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61820
+#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto La Chaine HD" tvg-logo="" group-title="FRANCE",FR: Auto Moto La Chaine HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61821
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA TV" tvg-logo="" group-title="FRANCE",FR: USHUAIA TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61822
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FRANCE",FR: CRIME DISTRICT HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61823
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="" group-title="FRANCE",FR: E! ENTERTAINMENT HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61824
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61825
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE HD" tvg-logo="" group-title="FRANCE",FR: VOYAGE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61826
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="" group-title="FRANCE",FR: TOUTE L'HISTOIRE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61827
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE TV" tvg-logo="" group-title="FRANCE",FR: SCIENCE ET VIE TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61828
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic Wild HD" tvg-logo="" group-title="FRANCE",FR: National Geographic Wild HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61829
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic Channel HD" tvg-logo="" group-title="FRANCE",FR: National Geographic Channel HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61830
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="" group-title="FRANCE",FR: CHASSE ET PECHE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61831
+#EXTINF:-1 tvg-id="" tvg-name="FR: HISTOIRE" tvg-logo="" group-title="FRANCE",FR: HISTOIRE
+http://xtiptv.xyz:25461/5408139643/6347205386/61832
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="FRANCE",FR: ANIMAUX HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61833
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE HD" tvg-logo="" group-title="FRANCE",FR: MY CUISINE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61834
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET HD" tvg-logo="" group-title="FRANCE",FR: BET HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61835
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS HD" tvg-logo="" group-title="FRANCE",FR: EURONEWS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61836
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE" tvg-logo="" group-title="FRANCE",FR: TV5 MONDE
+http://xtiptv.xyz:25461/5408139643/6347205386/61837
+#EXTINF:-1 tvg-id="" tvg-name="FR: I24 NEWS HD" tvg-logo="" group-title="FRANCE",FR: I24 NEWS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61838
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM PARIS HD" tvg-logo="" group-title="FRANCE",FR: BFM PARIS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61839
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="" group-title="FRANCE",FR: BFM BUSINESS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61840
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J" tvg-logo="" group-title="FRANCE",FR: CANAL J
+http://xtiptv.xyz:25461/5408139643/6347205386/61841
+#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI HD" tvg-logo="" group-title="FRANCE",FR: PIWI HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61842
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE" tvg-logo="" group-title="FRANCE",FR: GAME ONE
+http://xtiptv.xyz:25461/5408139643/6347205386/61843
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61844
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON TEEN HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON TEEN HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61845
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="" group-title="FRANCE",FR: NICKELODEON JUNIOR
+http://xtiptv.xyz:25461/5408139643/6347205386/61846
+#EXTINF:-1 tvg-id="" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="FRANCE",FR: MANGAS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61847
+#EXTINF:-1 tvg-id="" tvg-name="FR: CARTOON NETWORK" tvg-logo="" group-title="FRANCE",FR: CARTOON NETWORK
+http://xtiptv.xyz:25461/5408139643/6347205386/61848
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG" tvg-logo="" group-title="FRANCE",FR: BOOMERANG
+http://xtiptv.xyz:25461/5408139643/6347205386/61849
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE",FR: BOING
+http://xtiptv.xyz:25461/5408139643/6347205386/61850
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="" group-title="FRANCE",FR: DISNEY JUNIOR HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61851
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61852
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="FRANCE",FR: DISNEY CHANNEL
+http://xtiptv.xyz:25461/5408139643/6347205386/61853
+#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HD" tvg-logo="" group-title="FRANCE",FR: J-ONE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61854
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG" tvg-logo="" group-title="FRANCE",FR: GONG
+http://xtiptv.xyz:25461/5408139643/6347205386/61855
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG MAX" tvg-logo="" group-title="FRANCE",FR: GONG MAX
+http://xtiptv.xyz:25461/5408139643/6347205386/61856
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMI" tvg-logo="" group-title="FRANCE",FR: TOONAMI
+http://xtiptv.xyz:25461/5408139643/6347205386/61857
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCE",FR: MTV HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61858
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="" group-title="FRANCE",FR: MTV HITS
+http://xtiptv.xyz:25461/5408139643/6347205386/61859
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="FRANCE",FR: M6 MUSIC
+http://xtiptv.xyz:25461/5408139643/6347205386/61860
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="FRANCE",FR: RFM TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61861
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="FRANCE",FR: MCM
+http://xtiptv.xyz:25461/5408139643/6347205386/61862
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS" tvg-logo="" group-title="FRANCE",FR: NRJ HITS
+http://xtiptv.xyz:25461/5408139643/6347205386/61863
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO" tvg-logo="" group-title="FRANCE",FR: MEZZO
+http://xtiptv.xyz:25461/5408139643/6347205386/61864
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO LIVE" tvg-logo="" group-title="FRANCE",FR: MEZZO LIVE
+http://xtiptv.xyz:25461/5408139643/6347205386/61865
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="FRANCE",FR: INFOSPORT+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61866
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: GOLF CHANNEL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61867
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61868
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61869
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 10" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS MAX 10
+http://xtiptv.xyz:25461/5408139643/6347205386/61870
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61871
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61872
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61873
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 4 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61874
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASONS HD" tvg-logo="" group-title="FRANCE",FR: SEASONS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61875
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE",FR: FRANCE 24
+http://xtiptv.xyz:25461/5408139643/6347205386/61876
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="" group-title="FRANCE",FR: FRANCE INFO HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61877
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF 1" tvg-logo="" group-title="FRANCE",FR: TF 1
+http://xtiptv.xyz:25461/5408139643/6347205386/61878
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB 1" tvg-logo="" group-title="FRANCE",FR: AB 1
+http://xtiptv.xyz:25461/5408139643/6347205386/61879
+#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi" tvg-logo="" group-title="FRANCE",FR: Piwi
+http://xtiptv.xyz:25461/5408139643/6347205386/61880
+#EXTINF:-1 tvg-id="" tvg-name="FR: CLUB" tvg-logo="" group-title="FRANCE",FR: CLUB
+http://xtiptv.xyz:25461/5408139643/6347205386/61881
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli HD" tvg-logo="" group-title="FRANCE",FR: Gulli HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61882
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="" group-title="FRANCE",FR: Mangas
+http://xtiptv.xyz:25461/5408139643/6347205386/61883
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="" group-title="FRANCE",FR: Teva HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61884
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FRANCE",FR: 6TER HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61885
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="FRANCE",FR: FRANCE 5
+http://xtiptv.xyz:25461/5408139643/6347205386/61886
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 RUE HD" tvg-logo="" group-title="FRANCE",FR: 13 RUE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61887
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="" group-title="FRANCE",FR: TCM CINEMA
+http://xtiptv.xyz:25461/5408139643/6347205386/61888
+#EXTINF:-1 tvg-id="" tvg-name="FR: Season HD" tvg-logo="" group-title="FRANCE",FR: Season HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61889
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANCE",FR: France 4 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61890
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O HD" tvg-logo="" group-title="FRANCE",FR: France O HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61891
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61892
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61893
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR SPORT 3" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 3
+http://xtiptv.xyz:25461/5408139643/6347205386/61894
+#EXTINF:-1 tvg-id="" tvg-name="FR: E Entertainment" tvg-logo="" group-title="FRANCE",FR: E Entertainment
+http://xtiptv.xyz:25461/5408139643/6347205386/61895
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Europe HD" tvg-logo="" group-title="FRANCE",FR: TV5 Monde Europe HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61896
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE" tvg-logo="" group-title="FRANCE",FR: DISCOVERY SCIENCE
+http://xtiptv.xyz:25461/5408139643/6347205386/61897
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 1 HD" tvg-logo="" group-title="FRANCE",FR: SFR Sport 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61898
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR Sport 2 HD" tvg-logo="" group-title="FRANCE",FR: SFR Sport 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61899
+#EXTINF:-1 tvg-id="" tvg-name="FR: SPORTS" tvg-logo="" group-title="FRANCE",FR: SPORTS
+http://xtiptv.xyz:25461/5408139643/6347205386/61900
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFO SPORT" tvg-logo="" group-title="FRANCE",FR: INFO SPORT
+http://xtiptv.xyz:25461/5408139643/6347205386/61901
+#EXTINF:-1 tvg-id="" tvg-name="FR: EuroSport 1 HD" tvg-logo="" group-title="FRANCE",FR: EuroSport 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61902
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="FRANCE",FR: Eurosport 2
+http://xtiptv.xyz:25461/5408139643/6347205386/61903
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS=1" tvg-logo="" group-title="FRANCE",FR: EURONEWS=1
+http://xtiptv.xyz:25461/5408139643/6347205386/61904
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINSport 1 HD" tvg-logo="" group-title="FRANCE",FR: beINSport 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61905
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINSport 2 HD" tvg-logo="" group-title="FRANCE",FR: beINSport 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61906
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport max 4" tvg-logo="" group-title="FRANCE",FR: Bein Sport max 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61907
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 10" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 10
+http://xtiptv.xyz:25461/5408139643/6347205386/61908
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 5" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 5
+http://xtiptv.xyz:25461/5408139643/6347205386/61909
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 6" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 6
+http://xtiptv.xyz:25461/5408139643/6347205386/61910
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 7" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 7
+http://xtiptv.xyz:25461/5408139643/6347205386/61911
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 8" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 8
+http://xtiptv.xyz:25461/5408139643/6347205386/61912
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 9" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 9
+http://xtiptv.xyz:25461/5408139643/6347205386/61913
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Music M6 MUSIC" tvg-logo="" group-title="FRANCE",FR: MTV Music M6 MUSIC
+http://xtiptv.xyz:25461/5408139643/6347205386/61914
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCE",FR: M6 Music
+http://xtiptv.xyz:25461/5408139643/6347205386/61915
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12" tvg-logo="" group-title="FRANCE",FR: NRJ 12
+http://xtiptv.xyz:25461/5408139643/6347205386/61916
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON" tvg-logo="" group-title="FRANCE",FR: TELETOON
+http://xtiptv.xyz:25461/5408139643/6347205386/61917
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="" group-title="FRANCE",FR: EURONEWS
+http://xtiptv.xyz:25461/5408139643/6347205386/61918
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="" group-title="FRANCE",FR: BFM TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61919
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM" tvg-logo="" group-title="FRANCE",FR: BFM
+http://xtiptv.xyz:25461/5408139643/6347205386/61920
+#EXTINF:-1 tvg-id="" tvg-name="FR: BoomeRang" tvg-logo="" group-title="FRANCE",FR: BoomeRang
+http://xtiptv.xyz:25461/5408139643/6347205386/61921
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI" tvg-logo="" group-title="FRANCE",FR: TIJI
+http://xtiptv.xyz:25461/5408139643/6347205386/61922
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE",FR: BOING
+http://xtiptv.xyz:25461/5408139643/6347205386/61923
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="" group-title="FRANCE",FR: Disney Channel
+http://xtiptv.xyz:25461/5408139643/6347205386/61924
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney xd HD" tvg-logo="" group-title="FRANCE",FR: Disney xd HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61925
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA
+http://xtiptv.xyz:25461/5408139643/6347205386/61926
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon NetWork" tvg-logo="" group-title="FRANCE",FR: Cartoon NetWork
+http://xtiptv.xyz:25461/5408139643/6347205386/61927
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE" tvg-logo="" group-title="FRANCE",FR: SCIENCE ET VIE
+http://xtiptv.xyz:25461/5408139643/6347205386/61928
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geo" tvg-logo="" group-title="FRANCE",FR: National Geo
+http://xtiptv.xyz:25461/5408139643/6347205386/61929
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE l HISTOIRE" tvg-logo="" group-title="FRANCE",FR: TOUTE l HISTOIRE
+http://xtiptv.xyz:25461/5408139643/6347205386/61930
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete HD" tvg-logo="" group-title="FRANCE",FR: Planete HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61931
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete A and E HD" tvg-logo="" group-title="FRANCE",FR: Planete A and E HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61932
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geo Wild" tvg-logo="" group-title="FRANCE",FR: National Geo Wild
+http://xtiptv.xyz:25461/5408139643/6347205386/61933
+#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="FRANCE",FR: Animaux HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61934
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse Peche" tvg-logo="" group-title="FRANCE",FR: Chasse Peche
+http://xtiptv.xyz:25461/5408139643/6347205386/61935
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61936
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FRANCE",FR: SYFY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61937
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FRANCE",FR: OCS CITY
+http://xtiptv.xyz:25461/5408139643/6347205386/61938
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="FRANCE",FR: OCS CHOC HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61939
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="" group-title="FRANCE",FR: OCS MAX
+http://xtiptv.xyz:25461/5408139643/6347205386/61940
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61941
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine Comedie HD" tvg-logo="" group-title="FRANCE",FR: Orange Cine Comedie HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61942
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine Action HD" tvg-logo="" group-title="FRANCE",FR: Orange Cine Action HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61943
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 2" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 2
+http://xtiptv.xyz:25461/5408139643/6347205386/61944
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 3" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 3
+http://xtiptv.xyz:25461/5408139643/6347205386/61945
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 4" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61946
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 6
+http://xtiptv.xyz:25461/5408139643/6347205386/61947
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 13" tvg-logo="" group-title="FRANCE",FR: CANAL PLAY 13
+http://xtiptv.xyz:25461/5408139643/6347205386/61948
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCE",FR: SERIE CLUB HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61949
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="FRANCE",FR: OCS Geants HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61950
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine  Premier HD" tvg-logo="" group-title="FRANCE",FR: Cine  Premier HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61951
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Plus Famiz HD" tvg-logo="" group-title="FRANCE",FR: Cine Plus Famiz HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61952
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE",FR: FRANCE 24
+http://xtiptv.xyz:25461/5408139643/6347205386/61953
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE POLAR" tvg-logo="" group-title="FRANCE",FR: CINE POLAR
+http://xtiptv.xyz:25461/5408139643/6347205386/61954
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Plus Emotion HD" tvg-logo="" group-title="FRANCE",FR: Cine Plus Emotion HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61955
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FX" tvg-logo="" group-title="FRANCE",FR: CINE FX
+http://xtiptv.xyz:25461/5408139643/6347205386/61956
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Classic HD" tvg-logo="" group-title="FRANCE",FR: Cine Classic HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61957
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Plus Sport HD" tvg-logo="" group-title="FRANCE",FR: Canal Plus Sport HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61958
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Plus Series HD" tvg-logo="" group-title="FRANCE",FR: Canal Plus Series HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61959
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Plus Decale HD" tvg-logo="" group-title="FRANCE",FR: Canal Plus Decale HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61960
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="FRANCE",FR: Paramount Channel
+http://xtiptv.xyz:25461/5408139643/6347205386/61961
+#EXTINF:-1 tvg-id="" tvg-name="FR: Science et Vie TV" tvg-logo="" group-title="FRANCE",FR: Science et Vie TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61962
+#EXTINF:-1 tvg-id="" tvg-name="FR: Seasons" tvg-logo="" group-title="FRANCE",FR: Seasons
+http://xtiptv.xyz:25461/5408139643/6347205386/61963
+#EXTINF:-1 tvg-id="" tvg-name="FR: Voyage TV" tvg-logo="" group-title="FRANCE",FR: Voyage TV
+http://xtiptv.xyz:25461/5408139643/6347205386/61964
+#EXTINF:-1 tvg-id="" tvg-name="FR: NUMERO 23" tvg-logo="" group-title="FRANCE",FR: NUMERO 23
+http://xtiptv.xyz:25461/5408139643/6347205386/61965
+#EXTINF:-1 tvg-id="" tvg-name="FR: I 24" tvg-logo="" group-title="FRANCE",FR: I 24
+http://xtiptv.xyz:25461/5408139643/6347205386/61966
+#EXTINF:-1 tvg-id="" tvg-name="FR: HD1" tvg-logo="" group-title="FRANCE",FR: HD1
+http://xtiptv.xyz:25461/5408139643/6347205386/61967
+#EXTINF:-1 tvg-id="" tvg-name="FR: D8 C8 Backup" tvg-logo="" group-title="FRANCE",FR: D8 C8 Backup
+http://xtiptv.xyz:25461/5408139643/6347205386/61968
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR SPORT 4" tvg-logo="" group-title="FRANCE",FR: SFR SPORT 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61969
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIFE" tvg-logo="" group-title="FRANCE",FR: EQUIDIA LIFE
+http://xtiptv.xyz:25461/5408139643/6347205386/61970
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL HD" tvg-logo="" group-title="FRANCE",FR: CANAL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61971
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL W9" tvg-logo="" group-title="FRANCE",FR: LOCAL W9
+http://xtiptv.xyz:25461/5408139643/6347205386/61972
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL TMC" tvg-logo="" group-title="FRANCE",FR: LOCAL TMC
+http://xtiptv.xyz:25461/5408139643/6347205386/61973
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL TF1" tvg-logo="" group-title="FRANCE",FR: LOCAL TF1
+http://xtiptv.xyz:25461/5408139643/6347205386/61974
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL RTS Un" tvg-logo="" group-title="FRANCE",FR: LOCAL RTS Un
+http://xtiptv.xyz:25461/5408139643/6347205386/61975
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL RTS Deux" tvg-logo="" group-title="FRANCE",FR: LOCAL RTS Deux
+http://xtiptv.xyz:25461/5408139643/6347205386/61976
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL Gulli" tvg-logo="" group-title="FRANCE",FR: LOCAL Gulli
+http://xtiptv.xyz:25461/5408139643/6347205386/61977
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL M6 HD" tvg-logo="" group-title="FRANCE",FR: LOCAL M6 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61978
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL France" tvg-logo="" group-title="FRANCE",FR: LOCAL France
+http://xtiptv.xyz:25461/5408139643/6347205386/61979
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL France 5" tvg-logo="" group-title="FRANCE",FR: LOCAL France 5
+http://xtiptv.xyz:25461/5408139643/6347205386/61980
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL France 4" tvg-logo="" group-title="FRANCE",FR: LOCAL France 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61981
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL France 3" tvg-logo="" group-title="FRANCE",FR: LOCAL France 3
+http://xtiptv.xyz:25461/5408139643/6347205386/61982
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL France 2" tvg-logo="" group-title="FRANCE",FR: LOCAL France 2
+http://xtiptv.xyz:25461/5408139643/6347205386/61983
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL Euronews Fr" tvg-logo="" group-title="FRANCE",FR: LOCAL Euronews Fr
+http://xtiptv.xyz:25461/5408139643/6347205386/61984
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL Canal Sport" tvg-logo="" group-title="FRANCE",FR: LOCAL Canal Sport
+http://xtiptv.xyz:25461/5408139643/6347205386/61985
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL Canal" tvg-logo="" group-title="FRANCE",FR: LOCAL Canal
+http://xtiptv.xyz:25461/5408139643/6347205386/61986
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOCAL 6ter HD" tvg-logo="" group-title="FRANCE",FR: LOCAL 6ter HD
+http://xtiptv.xyz:25461/5408139643/6347205386/61987
+#EXTINF:-1 tvg-id="" tvg-name="FR: I tele" tvg-logo="" group-title="FRANCE",FR: I tele
+http://xtiptv.xyz:25461/5408139643/6347205386/61988
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 1" tvg-logo="" group-title="FRANCE",FR: A la carte 1
+http://xtiptv.xyz:25461/5408139643/6347205386/61989
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 2" tvg-logo="" group-title="FRANCE",FR: A la carte 2
+http://xtiptv.xyz:25461/5408139643/6347205386/61990
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 3" tvg-logo="" group-title="FRANCE",FR: A la carte 3
+http://xtiptv.xyz:25461/5408139643/6347205386/61991
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 4" tvg-logo="" group-title="FRANCE",FR: A la carte 4
+http://xtiptv.xyz:25461/5408139643/6347205386/61992
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 5" tvg-logo="" group-title="FRANCE",FR: A la carte 5
+http://xtiptv.xyz:25461/5408139643/6347205386/61993
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 6" tvg-logo="" group-title="FRANCE",FR: A la carte 6
+http://xtiptv.xyz:25461/5408139643/6347205386/61994
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 7" tvg-logo="" group-title="FRANCE",FR: A la carte 7
+http://xtiptv.xyz:25461/5408139643/6347205386/61995
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 8" tvg-logo="" group-title="FRANCE",FR: A la carte 8
+http://xtiptv.xyz:25461/5408139643/6347205386/61996
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 9" tvg-logo="" group-title="FRANCE",FR: A la carte 9
+http://xtiptv.xyz:25461/5408139643/6347205386/61997
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 10" tvg-logo="" group-title="FRANCE",FR: A la carte 10
+http://xtiptv.xyz:25461/5408139643/6347205386/61998
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 11" tvg-logo="" group-title="FRANCE",FR: A la carte 11
+http://xtiptv.xyz:25461/5408139643/6347205386/61999
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 12" tvg-logo="" group-title="FRANCE",FR: A la carte 12
+http://xtiptv.xyz:25461/5408139643/6347205386/62000
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 13" tvg-logo="" group-title="FRANCE",FR: A la carte 13
+http://xtiptv.xyz:25461/5408139643/6347205386/62001
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 14" tvg-logo="" group-title="FRANCE",FR: A la carte 14
+http://xtiptv.xyz:25461/5408139643/6347205386/62002
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 15" tvg-logo="" group-title="FRANCE",FR: A la carte 15
+http://xtiptv.xyz:25461/5408139643/6347205386/62003
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 16" tvg-logo="" group-title="FRANCE",FR: A la carte 16
+http://xtiptv.xyz:25461/5408139643/6347205386/62004
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 17" tvg-logo="" group-title="FRANCE",FR: A la carte 17
+http://xtiptv.xyz:25461/5408139643/6347205386/62005
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 18" tvg-logo="" group-title="FRANCE",FR: A la carte 18
+http://xtiptv.xyz:25461/5408139643/6347205386/62006
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 19" tvg-logo="" group-title="FRANCE",FR: A la carte 19
+http://xtiptv.xyz:25461/5408139643/6347205386/62007
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la carte 20" tvg-logo="" group-title="FRANCE",FR: A la carte 20
+http://xtiptv.xyz:25461/5408139643/6347205386/62008
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62009
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FRANCE",FR: FRANCE 3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62010
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HDL" tvg-logo="" group-title="FRANCE",FR: C8 HDL
+http://xtiptv.xyz:25461/5408139643/6347205386/62011
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="FRANCE",FR: W9 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62012
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="FRANCE",FR: W9
+http://xtiptv.xyz:25461/5408139643/6347205386/62013
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="" group-title="FRANCE",FR: TFX HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62014
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP/PUBLIC SENAT" tvg-logo="" group-title="FRANCE",FR: LCP/PUBLIC SENAT
+http://xtiptv.xyz:25461/5408139643/6347205386/62015
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="" group-title="FRANCE",FR: BFM TV HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62016
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HD" tvg-logo="" group-title="FRANCE",FR: CSTAR HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62017
+#EXTINF:-1 tvg-id="" tvg-name="FR: GULLI" tvg-logo="" group-title="FRANCE",FR: GULLI
+http://xtiptv.xyz:25461/5408139643/6347205386/62018
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="FRANCE",FR: TF1 SERIES FILMS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62019
+#EXTINF:-1 tvg-id="" tvg-name="FR: L' EQUIPE 21 HD" tvg-logo="" group-title="FRANCE",FR: L' EQUIPE 21 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62020
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FRANCE",FR: 6TER HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62021
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="" group-title="FRANCE",FR: RMC DECOUVERTE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62022
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FRANCE",FR: CHERIE 25 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62023
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI HD" tvg-logo="" group-title="FRANCE",FR: LCI HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62024
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA" tvg-logo="" group-title="FRANCE",FR: TEVA
+http://xtiptv.xyz:25461/5408139643/6347205386/62025
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="FRANCE",FR: AB1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62026
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="FRANCE",FR: AB3 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62027
+#EXTINF:-1 tvg-id="" tvg-name="FR: ABXplore HD" tvg-logo="" group-title="FRANCE",FR: ABXplore HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62028
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62029
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ HD" tvg-logo="" group-title="FRANCE",FR: POLAR+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62030
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV HD" tvg-logo="" group-title="FRANCE",FR: WARNER TV HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62031
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH" tvg-logo="" group-title="FRANCE",FR: TV BREIZH
+http://xtiptv.xyz:25461/5408139643/6347205386/62032
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ CINEMA" tvg-logo="" group-title="FRANCE",FR: CANAL+ CINEMA
+http://xtiptv.xyz:25461/5408139643/6347205386/62033
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="FRANCE",FR: CANAL+ SERIES
+http://xtiptv.xyz:25461/5408139643/6347205386/62034
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="FRANCE",FR: CANAL+ FAMILY
+http://xtiptv.xyz:25461/5408139643/6347205386/62035
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="FRANCE",FR: CANAL+ DECALE
+http://xtiptv.xyz:25461/5408139643/6347205386/62036
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="FRANCE",FR: CINE+ PREMIER
+http://xtiptv.xyz:25461/5408139643/6347205386/62037
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+FRISSON" tvg-logo="" group-title="FRANCE",FR: CINE+FRISSON
+http://xtiptv.xyz:25461/5408139643/6347205386/62038
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ EMOTION" tvg-logo="" group-title="FRANCE",FR: CINE+ EMOTION
+http://xtiptv.xyz:25461/5408139643/6347205386/62039
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FRANCE",FR: SERIE CLUB HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62040
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="" group-title="FRANCE",FR: OCS MAX
+http://xtiptv.xyz:25461/5408139643/6347205386/62041
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANTS" tvg-logo="" group-title="FRANCE",FR: OCS GEANTS
+http://xtiptv.xyz:25461/5408139643/6347205386/62042
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC" tvg-logo="" group-title="FRANCE",FR: OCS CHOC
+http://xtiptv.xyz:25461/5408139643/6347205386/62043
+#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION HD" tvg-logo="" group-title="FRANCE",FR: ACTION HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62044
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="FRANCE",FR: 13EME RUE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62045
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FRANCE",FR: SYFY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62046
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62047
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL DECALE HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL DECALE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62048
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO HD" tvg-logo="" group-title="FRANCE",FR: ALTICE STUDIO HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62049
+#EXTINF:-1 tvg-id="" tvg-name="FR: ES1 HD" tvg-logo="" group-title="FRANCE",FR: ES1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62050
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+ HD" tvg-logo="" group-title="FRANCE",FR: COMEDIE+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62051
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="" group-title="FRANCE",FR: TREK HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62052
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA TV" tvg-logo="" group-title="FRANCE",FR: USHUAIA TV
+http://xtiptv.xyz:25461/5408139643/6347205386/62053
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FRANCE",FR: CRIME DISTRICT HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62054
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="" group-title="FRANCE",FR: E! ENTERTAINMENT HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62055
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HDL" tvg-logo="" group-title="FRANCE",FR: PLANETE+ HDL
+http://xtiptv.xyz:25461/5408139643/6347205386/62056
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE" tvg-logo="" group-title="FRANCE",FR: VOYAGE
+http://xtiptv.xyz:25461/5408139643/6347205386/62057
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L'HISTOIRE HD" tvg-logo="" group-title="FRANCE",FR: TOUTE L'HISTOIRE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62058
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE TV" tvg-logo="" group-title="FRANCE",FR: SCIENCE ET VIE TV
+http://xtiptv.xyz:25461/5408139643/6347205386/62059
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic Wild" tvg-logo="" group-title="FRANCE",FR: National Geographic Wild
+http://xtiptv.xyz:25461/5408139643/6347205386/62060
+#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic Channel HD" tvg-logo="" group-title="FRANCE",FR: National Geographic Channel HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62061
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="" group-title="FRANCE",FR: CHASSE ET PECHE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62062
+#EXTINF:-1 tvg-id="" tvg-name="FR: HISTOIRE" tvg-logo="" group-title="FRANCE",FR: HISTOIRE
+http://xtiptv.xyz:25461/5408139643/6347205386/62063
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX HD" tvg-logo="" group-title="FRANCE",FR: ANIMAUX HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62064
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE HD" tvg-logo="" group-title="FRANCE",FR: MY CUISINE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62065
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET HD" tvg-logo="" group-title="FRANCE",FR: BET HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62066
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS HD" tvg-logo="" group-title="FRANCE",FR: EURONEWS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62067
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE" tvg-logo="" group-title="FRANCE",FR: TV5 MONDE
+http://xtiptv.xyz:25461/5408139643/6347205386/62068
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP 100%" tvg-logo="" group-title="FRANCE",FR: LCP 100%
+http://xtiptv.xyz:25461/5408139643/6347205386/62069
+#EXTINF:-1 tvg-id="" tvg-name="FR: I24 NEWS HD" tvg-logo="" group-title="FRANCE",FR: I24 NEWS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62070
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM PARIS HD" tvg-logo="" group-title="FRANCE",FR: BFM PARIS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62071
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS" tvg-logo="" group-title="FRANCE",FR: BFM BUSINESS
+http://xtiptv.xyz:25461/5408139643/6347205386/62072
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J HD" tvg-logo="" group-title="FRANCE",FR: CANAL J HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62073
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI HD" tvg-logo="" group-title="FRANCE",FR: TIJI HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62074
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON + HD" tvg-logo="" group-title="FRANCE",FR: TELETOON + HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62075
+#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI+ HD" tvg-logo="" group-title="FRANCE",FR: PIWI+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62076
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE HD" tvg-logo="" group-title="FRANCE",FR: GAME ONE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62077
+#EXTINF:-1 tvg-id="" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="FRANCE",FR: MANGAS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62078
+#EXTINF:-1 tvg-id="" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="" group-title="FRANCE",FR: CARTOON NETWORK HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62079
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG HD" tvg-logo="" group-title="FRANCE",FR: BOOMERANG HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62080
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING HD" tvg-logo="" group-title="FRANCE",FR: BOING HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62081
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="" group-title="FRANCE",FR: DISNEY JUNIOR HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62082
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62083
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: DISNEY CHANNEL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62084
+#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HD" tvg-logo="" group-title="FRANCE",FR: J-ONE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62085
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG HD" tvg-logo="" group-title="FRANCE",FR: GONG HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62086
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG MAX HD" tvg-logo="" group-title="FRANCE",FR: GONG MAX HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62087
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMI" tvg-logo="" group-title="FRANCE",FR: TOONAMI
+http://xtiptv.xyz:25461/5408139643/6347205386/62088
+#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto La Chaine HD" tvg-logo="" group-title="FRANCE",FR: Auto Moto La Chaine HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62089
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCE",FR: MTV HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62090
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="" group-title="FRANCE",FR: MTV HITS
+http://xtiptv.xyz:25461/5408139643/6347205386/62091
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="FRANCE",FR: M6 MUSIC
+http://xtiptv.xyz:25461/5408139643/6347205386/62092
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN HD" tvg-logo="" group-title="FRANCE",FR: TRACE URBAN HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62093
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL HD" tvg-logo="" group-title="FRANCE",FR: TRACE TROPICAL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62094
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA HD" tvg-logo="" group-title="FRANCE",FR: TRACE AFRICA HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62095
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="FRANCE",FR: RFM TV
+http://xtiptv.xyz:25461/5408139643/6347205386/62096
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="FRANCE",FR: MCM
+http://xtiptv.xyz:25461/5408139643/6347205386/62097
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS" tvg-logo="" group-title="FRANCE",FR: NRJ HITS
+http://xtiptv.xyz:25461/5408139643/6347205386/62098
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO" tvg-logo="" group-title="FRANCE",FR: MEZZO
+http://xtiptv.xyz:25461/5408139643/6347205386/62099
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO LIVE" tvg-logo="" group-title="FRANCE",FR: MEZZO LIVE
+http://xtiptv.xyz:25461/5408139643/6347205386/62100
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport News HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62101
+#EXTINF:-1 tvg-id="" tvg-name="FRFRANCE CULTURE MIDI" tvg-logo="" group-title="FRANCE",FRFRANCE CULTURE MIDI
+http://xtiptv.xyz:25461/5408139643/6347205386/62102
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASONS HD" tvg-logo="" group-title="FRANCE",FR: SEASONS HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62103
+#EXTINF:-1 tvg-id="" tvg-name="FR: Melody" tvg-logo="" group-title="FRANCE",FR: Melody
+http://xtiptv.xyz:25461/5408139643/6347205386/62104
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE",FR: FRANCE 24
+http://xtiptv.xyz:25461/5408139643/6347205386/62105
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="" group-title="FRANCE",FR: FRANCE INFO HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62106
+#EXTINF:-1 tvg-id="" tvg-name="FR: Baby tv" tvg-logo="" group-title="FRANCE",FR: Baby tv
+http://xtiptv.xyz:25461/5408139643/6347205386/62107
+#EXTINF:-1 tvg-id="" tvg-name="FR: avatar realms tv" tvg-logo="" group-title="FRANCE",FR: avatar realms tv
+http://xtiptv.xyz:25461/5408139643/6347205386/62108
+#EXTINF:-1 tvg-id="" tvg-name="FR: south park tv" tvg-logo="" group-title="FRANCE",FR: south park tv
+http://xtiptv.xyz:25461/5408139643/6347205386/62109
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="FRANCE",FR: CINE+ CLASSIC
+http://xtiptv.xyz:25461/5408139643/6347205386/62110
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 5 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62111
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 6 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62112
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS MAX 9
+http://xtiptv.xyz:25461/5408139643/6347205386/62113
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 7 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62114
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 8 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62115
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 9 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62116
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 10 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62117
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 11 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62118
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 12 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62119
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 13 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62120
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="FRANCE",FR: GOLF+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62121
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA" tvg-logo="" group-title="FRANCE",FR: EQUIDIA
+http://xtiptv.xyz:25461/5408139643/6347205386/62122
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24/24 HD" tvg-logo="" group-title="FRANCE",FR: FOOT+ 24/24 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62123
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 1 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62124
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 2 HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62125
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ SPORT HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62126
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND" tvg-logo="" group-title="FRANCE",FR: VICELAND
+http://xtiptv.xyz:25461/5408139643/6347205386/62127
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ CI HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62128
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY FAMILY HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY FAMILY HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62129
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY INVESTIGATION HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62130
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY SCIENCE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62131
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ AE HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ AE HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62132
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62133
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY CHANNEL HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62134
+#EXTINF:-1 tvg-id="" tvg-name="FR: Public Senat 24h/24" tvg-logo="" group-title="FRANCE",FR: Public Senat 24h/24
+http://xtiptv.xyz:25461/5408139643/6347205386/62135
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA HD" tvg-logo="" group-title="FRANCE",FR: TCM CINEMA HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62136
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62137
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON TEEN HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON TEEN HD
+http://xtiptv.xyz:25461/5408139643/6347205386/62138
