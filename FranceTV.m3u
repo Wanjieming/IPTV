@@ -30,6 +30,18 @@ http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" FRANCE",   TF1 FHD
 http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/14
 
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 HD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 5 HD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 FHD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 5 FHD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
+
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 3 HD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 3 HD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 FHD" tvg-logo="" group-title="SPORTS FR",RMC SPORT 3 FHD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
+
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/tf1.png" group-title="FRANCE | LIVE",   FR| TF1 FHD
 http://topiptv.net:5890/aziz/1234/464
 
