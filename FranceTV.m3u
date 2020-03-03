@@ -1,4 +1,340 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="|FR| VOYAGE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title="FRANCA",|FR| VOYAGE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5488
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VH1 HD" tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="FRANCA",|FR| VH1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5489
+#EXTINF:-1 tvg-id="ushuaia.tv.fr" tvg-name="|FR| USHUAÏA TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv_hd.jpg" group-title="FRANCA",|FR| USHUAÏA TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5490
+#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name="|FR| TV5 MONDE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv5_monde.jpg" group-title="FRANCA",|FR| TV5 MONDE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5491
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_breizh.jpg" group-title="FRANCA",|FR| TV BREIZH HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5492
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="https://www.telesatellite.com/images/logos/trek.gif" group-title="FRANCA",|FR| TREK HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5493
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="|FR| TRACE URBAN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trace_urban_hd.jpg" group-title="FRANCA",|FR| TRACE URBAN HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5494
+#EXTINF:-1 tvg-id="trace.tropical.fr" tvg-name="|FR| TRACE TROPICAL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trace_tropical_hd.jpg" group-title="FRANCA",|FR| TRACE TROPICAL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5495
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE TOCA HD" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" group-title="FRANCA",|FR| TRACE TOCA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5496
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE NAIJA HD" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-naija-1.png" group-title="FRANCA",|FR| TRACE NAIJA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5497
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE MZIKI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWn4hNHikWkIjefgI0vvGc7NVDwF2-kiP6x03QwZ-Pi6rlyXAf&s" group-title="FRANCA",|FR| TRACE MZIKI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5498
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE GOSPEL HD" tvg-logo="https://pbs.twimg.com/profile_images/668915000799571968/hPPK_EDN_400x400.png" group-title="FRANCA",|FR| TRACE GOSPEL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5499
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TRACE AFRICA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trace_africa.jpg" group-title="FRANCA",|FR| TRACE AFRICA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5500
+#EXTINF:-1 tvg-id="toute.l.histoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE HD" tvg-logo="https://d3v4jsc54141g1.cloudfront.net/uploads/mentor/avatar/65859/normal_toutel_histoire.png" group-title="FRANCA",|FR| TOUTE L'HISTOIRE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5501
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="|FR| TOONAMI HD" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/toonami-tv.jpg" group-title="FRANCA",|FR| TOONAMI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5502
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="https://static1.ozap.com/companies/5/53/89/75/@/4558507-logo-de-tmc-depuis-septembre-2016-entity_default-2.png" group-title="FRANCA",|FR| TMC HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5503
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC  1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tmc1.png/120px-Tmc1.png" group-title="FRANCA",|FR| TMC  1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5504
+#EXTINF:-1 tvg-id="tiji.fe" tvg-name="|FR| TIJI HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="FRANCA",|FR| TIJI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5505
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="https://www.stream4free.live/images/avatars/tfx.png" group-title="FRANCA",|FR| TFX HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5506
+#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-name="|FR| TF1 SÉRIE FILM HD" tvg-logo="https://pbs.twimg.com/profile_images/1116255797888147456/TXXf8VOl_400x400.jpg" group-title="FRANCA",|FR| TF1 SÉRIE FILM HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5507
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="FRANCA",|FR| TF1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5508
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="|FR| TF1  1 HD" tvg-logo="https://www.hdnumerique.com/medias/articles/500/tf1-plus-1_1.jpg" group-title="FRANCA",|FR| TF1  1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5509
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="|FR| TCM CINÉMA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcm_cinema_fr_hd.jpg" group-title="FRANCA",|FR| TCM CINÉMA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5510
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="|FR| TÉVA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teva_hd.jpg" group-title="FRANCA",|FR| TÉVA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5511
+#EXTINF:-1 tvg-id="teletoon.plus.fr" tvg-name="|FR| TÉLÉTOON  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_teletoon.jpg" group-title="FRANCA",|FR| TÉLÉTOON  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5512
+#EXTINF:-1 tvg-id="sy.fy.fr" tvg-name="|FR| SY FY HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_universal_fr.jpg" group-title="FRANCA",|FR| SY FY HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5513
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="|FR| SERIECLUB HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/serie_club.jpg" group-title="FRANCA",|FR| SERIECLUB HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5514
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="|FR| SEASONS HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/seasons.jpg" group-title="FRANCA",|FR| SEASONS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5515
+#EXTINF:-1 tvg-id="sciences.vie.tv.fr" tvg-name="|FR| SCIENCE ET VIE HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/11/Science-Vie.jpg" group-title="FRANCA",|FR| SCIENCE ET VIE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5516
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl9.jpg" group-title="FRANCA",|FR| RTL9 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5517
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="https://pbs.twimg.com/profile_images/1036382911812050944/aXig0iiM_400x400.jpg" group-title="FRANCA",|FR| RMC STORY HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5518
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="|FR| RMC SPORT NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_RMC_Sport_News_2018.svg/120px-Logo_RMC_Sport_News_2018.svg.png" group-title="FRANCA",|FR| RMC SPORT NEWS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5519
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/120px-Logo_RMC_Sport_4_2018.svg.png" group-title="FRANCA",|FR| RMC SPORT 4 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5520
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/120px-Logo_RMC_Sport_3_2018.svg.png" group-title="FRANCA",|FR| RMC SPORT 3 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5521
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/120px-Logo_RMC_Sport_2_2018.svg.png" group-title="FRANCA",|FR| RMC SPORT 2 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5522
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/120px-Logo_RMC_Sport_1_2018.svg.png" group-title="FRANCA",|FR| RMC SPORT 1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5523
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="|FR| RMC DÉCOUVERTE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rmc_decouverte.jpg" group-title="FRANCA",|FR| RMC DÉCOUVERTE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5524
+#EXTINF:-1 tvg-id="rfm.tv.fr" tvg-name="|FR| RFM TV HD" tvg-logo="https://masdenadal.com/wp-content/uploads/2019/02/rfm-small-logo.jpg" group-title="FRANCA",|FR| RFM TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5525
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="|FR| POLAR  HD" tvg-logo="https://tvmannen.es/iptv_channels/2258113_files/polar.png" group-title="FRANCA",|FR| POLAR  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5526
+#EXTINF:-1 tvg-id="planete.plus.fr" tvg-name="|FR| PLANÈTE  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_planete_hd.jpg" group-title="FRANCA",|FR| PLANÈTE  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5527
+#EXTINF:-1 tvg-id="planete.plus.ci.fr" tvg-name="|FR| PLANÈTE  CI HD" tvg-logo="http://www.astronomie-planete.com/images/chaine-planete_9.jpg" group-title="FRANCA",|FR| PLANÈTE  CI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5528
+#EXTINF:-1 tvg-id="planete.plus.a.e.fr" tvg-name="|FR| PLANÈTE  A&E HD" tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="FRANCA",|FR| PLANÈTE  A&E HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5529
+#EXTINF:-1 tvg-id="piwi.plus.fr" tvg-name="|FR| PIWI  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_piwi_plus.jpg" group-title="FRANCA",|FR| PIWI  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5530
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PITCHOUN TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1052124468703842304/RoW4JHqv_400x400.jpg" group-title="FRANCA",|FR| PITCHOUN TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5531
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="|FR| PARIS PREMIÈRE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paris_premiere_hd.jpg" group-title="FRANCA",|FR| PARIS PREMIÈRE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5532
+#EXTINF:-1 tvg-id="paramount.channel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paramount_channel_fr.jpg" group-title="FRANCA",|FR| PARAMOUNT CHANNEL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5533
+#EXTINF:-1 tvg-id="paramount.channel.decale.fr" tvg-name="|FR| PARAMOUNT CHANNEL DÉCALÉ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paramount_channel_fr.jpg" group-title="FRANCA",|FR| PARAMOUNT CHANNEL DÉCALÉ HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5534
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OFIVE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ofive_tv.jpg" group-title="FRANCA",|FR| OFIVE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5535
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="https://www.acces.tv/wp-content/uploads/2016/07/OCS-max-1.png" group-title="FRANCA",|FR| OCS MAX HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5536
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="|FR| OCS GÉANTS HD" tvg-logo="https://3.bp.blogspot.com/-_kAfPqVLObk/WKJx5FukPXI/AAAAAAAABYc/VY8cwssJUG0ftBFbAx8LqaJYJy31X8D7ACLcB/s1600/OCS%2BG%25C3%25A9ants%2BHD.png" group-title="FRANCA",|FR| OCS GÉANTS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5537
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/ocs-city.jpg" group-title="FRANCA",|FR| OCS CITY HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5538
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_choc.jpg" group-title="FRANCA",|FR| OCS CHOC HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5539
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="|FR| NRJ12 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj12_hd.jpg" group-title="FRANCA",|FR| NRJ12 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5540
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj_hits.jpg" group-title="FRANCA",|FR| NRJ HITS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5541
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NOTÉLÉ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/noot_tv.jpg" group-title="FRANCA",|FR| NOTÉLÉ HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5542
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_junior_fr.jpg" group-title="FRANCA",|FR| NICKELODEON JUNIOR HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5543
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_fr.jpg" group-title="FRANCA",|FR| NICKELODEON HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5544
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="|FR| NICKELODEON 4TEEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-nickelodeon-4teen-nouvelle-chaine-100-series.jpg" group-title="FRANCA",|FR| NICKELODEON 4TEEN HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5545
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="|FR| NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="FRANCA",|FR| NATIONAL GEOGRAPHIC HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5546
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name="|FR| NAT GEO WILD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" group-title="FRANCA",|FR| NAT GEO WILD HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5547
+#EXTINF:-1 tvg-id="my.cuisine.fr" tvg-name="|FR| MY CUISINE HD" tvg-logo="https://pbs.twimg.com/profile_images/870582889028739072/qTpOYPoj.jpg" group-title="FRANCA",|FR| MY CUISINE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5548
+#EXTINF:-1 tvg-id="mtv.rocks.fr" tvg-name="|FR| MTV ROCKS HD" tvg-logo="http://tematicmediagroup.com/cz/images_channels/mtv_rocks.jpg" group-title="FRANCA",|FR| MTV ROCKS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5549
+#EXTINF:-1 tvg-id="mtv.hits.fr" tvg-name="|FR| MTV HITS HD" tvg-logo="https://pa1.narvii.com/6287/48e2bbd05a29c16f5d9e0ac21282be612818fb54_hq.gif" group-title="FRANCA",|FR| MTV HITS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5550
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_fr.jpg" group-title="FRANCA",|FR| MTV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5551
+#EXTINF:-1 tvg-id="mezzo.live.hd.fr" tvg-name="|FR| MEZZO LIVE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mezzo_live_hd.jpg" group-title="FRANCA",|FR| MEZZO LIVE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5552
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="|FR| MEZZO HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mezzo.jpg" group-title="FRANCA",|FR| MEZZO HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5553
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="|FR| MCM TOP HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_top.jpg" group-title="FRANCA",|FR| MCM TOP HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5554
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="|FR| MCM HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_fr.jpg" group-title="FRANCA",|FR| MCM HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5555
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mangas.jpg" group-title="FRANCA",|FR| MANGAS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5556
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="|FR| M6 MUSIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_music_fr.jpg" group-title="FRANCA",|FR| M6 MUSIC HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5557
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr_hd.jpg" group-title="FRANCA",|FR| M6 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5558
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUXE TV HD" tvg-logo="https://pbs.twimg.com/profile_images/433981468004454400/gQw3VHVi.jpeg" group-title="FRANCA",|FR| LUXE TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5559
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LUCKY JACK HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lucky_jack_tv.jpg" group-title="FRANCA",|FR| LUCKY JACK HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5560
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LCP HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="FRANCA",|FR| LCP HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5561
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="|FR| LCI HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lci.jpg" group-title="FRANCA",|FR| LCI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5562
+#EXTINF:-1 tvg-id="l.equipe.fr" tvg-name="|FR| L'ÉQUIPE 21 HD" tvg-logo="http://idata.over-blog.com/0/00/74/35/21/equipe-tv.jpg" group-title="FRANCA",|FR| L'ÉQUIPE 21 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5563
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="|FR| KTO HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kto.jpg" group-title="FRANCA",|FR| KTO HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5564
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="|FR| J-ONE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/j_one_fr.jpg" group-title="FRANCA",|FR| J-ONE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5565
+#EXTINF:-1 tvg-id="infosport.plus.fr" tvg-name="|FR| INFOSPORT  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_infosport_plus.jpg" group-title="FRANCA",|FR| INFOSPORT  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5566
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="|FR| I24 NEWS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24.jpg" group-title="FRANCA",|FR| I24 NEWS
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5567
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/histoire.jpg" group-title="FRANCA",|FR| HISTOIRE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5568
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="|FR| GULLI HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gulli.jpg" group-title="FRANCA",|FR| GULLI HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5569
+#EXTINF:-1 tvg-id="gong.max.fr" tvg-name="|FR| GONG MAX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gong_base_fr.jpg" group-title="FRANCA",|FR| GONG MAX HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5570
+#EXTINF:-1 tvg-id="gong.fr" tvg-name="|FR| GONG HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gong_base_fr.jpg" group-title="FRANCA",|FR| GONG HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5571
+#EXTINF:-1 tvg-id="golf.channel.fr" tvg-name="|FR| GOLF CHANNEL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/golf_channel_fr.jpg" group-title="FRANCA",|FR| GOLF CHANNEL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5572
+#EXTINF:-1 tvg-id="golf.plus.fr" tvg-name="|FR| GOLF  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus_hd.jpg" group-title="FRANCA",|FR| GOLF  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5573
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GINX ESPORTS HD" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQF8BjiqKjL6_A/company-logo_200_200/0?e=2159024400&v=beta&t=GFwXLlFKvAELsiWlyZnNmMQucMPqndNtmoCBiDYnTYU" group-title="FRANCA",|FR| GINX ESPORTS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5574
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="|FR| GAME ONE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one.jpg" group-title="FRANCA",|FR| GAME ONE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5575
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="|FR| GAME ONE  1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one_music_hd.jpg" group-title="FRANCA",|FR| GAME ONE  1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5576
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="|FR| FRANCE INFO HD" tvg-logo="https://www.olivier-veran.fr/wp-content/uploads/2018/03/c300.png" group-title="FRANCA",|FR| FRANCE INFO HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5577
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="|FR| FRANCE Ô HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="FRANCA",|FR| FRANCE Ô HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5578
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="FRANCA",|FR| FRANCE 5 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5579
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="FRANCA",|FR| FRANCE 4 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5580
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3_hd.jpg" group-title="FRANCA",|FR| FRANCE 3 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5581
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="|FR| FRANCE 24 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24.jpg" group-title="FRANCA",|FR| FRANCE 24 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5582
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2_hd.jpg" group-title="FRANCA",|FR| FRANCE 2 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5583
+#EXTINF:-1 tvg-id="foot.plus.24.24.fr" tvg-name="|FR| FOOT  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_fr_foot_plus.jpg" group-title="FRANCA",|FR| FOOT  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5584
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FASHION TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="FRANCA",|FR| FASHION TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5585
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg" group-title="FRANCA",|FR| EUROSPORT 2 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5586
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="https://www.sky-angebote.info/wp-content/uploads/2019/07/eurosport-1-hd-logo.jpg" group-title="FRANCA",|FR| EUROSPORT 1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5587
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="|FR| EURONEWS HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euronews.jpg" group-title="FRANCA",|FR| EURONEWS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5588
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ES1 HD" tvg-logo="https://www.megazap.fr/photo/art/grande/19420071-23312190.jpg?v=1515654381" group-title="FRANCA",|FR| ES1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5589
+#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/equidia_life.jpg" group-title="FRANCA",|FR| EQUIDIA LIVE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5590
+#EXTINF:-1 tvg-id="elle.girl.fr" tvg-name="|FR| ELLE GIRL HD" tvg-logo="http://www.lagardere.com/fichiers/fckeditor/Image/centre_presse/communique_presse/Audiovisuel/ELLE_girl/Logo-Elle-Girl_400.jpg" group-title="FRANCA",|FR| ELLE GIRL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5591
+#EXTINF:-1 tvg-id="e.entertainment.fr" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_fr.jpg" group-title="FRANCA",|FR| E! ENTERTAINMENT HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5592
+#EXTINF:-1 tvg-id="disney.xd.fr" tvg-name="|FR| DISNEY XD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_fr_hd.jpg" group-title="FRANCA",|FR| DISNEY XD HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5593
+#EXTINF:-1 tvg-id="disney.junior.fr" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_fr_hd.jpg" group-title="FRANCA",|FR| DISNEY JUNIOR HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5594
+#EXTINF:-1 tvg-id="disney.cinema.fr" tvg-name="|FR| DISNEY CINÉMA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="FRANCA",|FR| DISNEY CINÉMA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5595
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_fr_hd.jpg" group-title="FRANCA",|FR| DISNEY CHANNEL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5596
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="|FR| DISCOVERY SCIENCE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="FRANCA",|FR| DISCOVERY SCIENCE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5597
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ID_2017.png/revision/latest/scale-to-width-down/200?cb=20171210082627" group-title="FRANCA",|FR| DISCOVERY INVESTIGATION HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5598
+#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="https://p.pngsee.com/uploadpng/small/112-1124454_discovery-family-logo-discovery-family-channel-logo-hd.png" group-title="FRANCA",|FR| DISCOVERY FAMILY HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5599
+#EXTINF:-1 tvg-id="discovery.channel.fr" tvg-name="|FR| DISCOVERY CHANNEL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_fr.jpg" group-title="FRANCA",|FR| DISCOVERY CHANNEL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5600
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HD" tvg-logo="https://image.winudf.com/v2/image/ZnIuY2FuYWxwbHVzLmQxN19pY29uXzE1MTIyMDkzNTVfMDAy/icon.png?w=170&fakeurl=1" group-title="FRANCA",|FR| CSTAR HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5601
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://pbs.twimg.com/profile_images/1027190623936360448/gqgArK_C_400x400.jpg" group-title="FRANCA",|FR| CRIME DISTRICT HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5602
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL HD" tvg-logo="https://pbs.twimg.com/profile_images/1023931175759499264/dPwQp5hx_400x400.jpg" group-title="FRANCA",|FR| COMEDY CENTRAL HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5603
+#EXTINF:-1 tvg-id="comedie.plus.fr" tvg-name="|FR| COMÉDIE  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_comedie_plus.jpg" group-title="FRANCA",|FR| COMÉDIE  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5604
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="|FR| CNEWS HD" tvg-logo="https://yaelbraunpivet.fr/wp-content/uploads/2018/02/LOGO-CNEWS-1.png" group-title="FRANCA",|FR| CNEWS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5605
+#EXTINF:-1 tvg-id="cine.plus.premier.fr" tvg-name="|FR| CINÉ  PREMIER HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_premier_hd.jpg" group-title="FRANCA",|FR| CINÉ  PREMIER HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5606
+#EXTINF:-1 tvg-id="cine.plus.frisson.fr" tvg-name="|FR| CINÉ  FRISSON HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_frisson_hd.jpg" group-title="FRANCA",|FR| CINÉ  FRISSON HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5607
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| CINÉ  FAMIZ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_famiz.jpg" group-title="FRANCA",|FR| CINÉ  FAMIZ HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5608
+#EXTINF:-1 tvg-id="cine.plus.club.fr" tvg-name="|FR| CINÉ  CLUB HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_club.jpg" group-title="FRANCA",|FR| CINÉ  CLUB HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5609
+#EXTINF:-1 tvg-id="cine.plus.classic.fr" tvg-name="|FR| CINÉ  CLASSIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_classic.jpg" group-title="FRANCA",|FR| CINÉ  CLASSIC HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5610
+#EXTINF:-1 tvg-id="cine.plus.emotion.fr" tvg-name="|FR| CINÉ  ÉMOTION HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_emotion_hd.jpg" group-title="FRANCA",|FR| CINÉ  ÉMOTION HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5611
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="|FR| CHÉRIE 25 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cherie_25_fr.jpg" group-title="FRANCA",|FR| CHÉRIE 25 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5612
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="|FR| W9 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/chasse_et_peche.jpg" group-title="FRANCA",|FR| W9 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5613
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CGTN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="FRANCA",|FR| CGTN HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5614
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_fr.jpg" group-title="FRANCA",|FR| CARTOON NETWORK HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5615
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="|FR| CANAL J HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_j.jpg" group-title="FRANCA",|FR| CANAL J HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5616
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| CANAL  SPORT HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_sport_hd.jpg" group-title="FRANCA",|FR| CANAL  SPORT HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5617
+#EXTINF:-1 tvg-id="canal.plus.series.fr" tvg-name="|FR| CANAL  SÉRIES HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_series.jpg" group-title="FRANCA",|FR| CANAL  SÉRIES HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5618
+#EXTINF:-1 tvg-id="canal.plus.fr" tvg-name="|FR| CANAL  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_hd.jpg" group-title="FRANCA",|FR| CANAL  HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5619
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| CANAL  FAMILY HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_family_hd.jpg" group-title="FRANCA",|FR| CANAL  FAMILY HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5620
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| CANAL  DÉCALÉ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_decale_hd.jpg" group-title="FRANCA",|FR| CANAL  DÉCALÉ HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5621
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="|FR| CANAL  CINÉMA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cinema_hd.jpg" group-title="FRANCA",|FR| CANAL  CINÉMA HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5622
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="https://pbs.twimg.com/profile_images/979360951085469698/mDiCGZ8J_400x400.jpg" group-title="FRANCA",|FR| C8 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5623
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_fr.jpg" group-title="FRANCA",|FR| BOOMERANG HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5624
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="|FR| BOOMERANG  1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="FRANCA",|FR| BOOMERANG  1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5625
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="|FR| BOING HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boing_fr.jpg" group-title="FRANCA",|FR| BOING HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5626
+#EXTINF:-1 tvg-id="bfm.tv.fr" tvg-name="|FR| BFM TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bfm_tv_hd.jpg" group-title="FRANCA",|FR| BFM TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5627
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM PARIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/langfr-170px-BFM_Paris_logo_2016.svg.png" group-title="FRANCA",|FR| BFM PARIS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5628
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="|FR| BFM BUSINESS HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bfm_business.jpg" group-title="FRANCA",|FR| BFM BUSINESS HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5629
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="|FR| BET HD" tvg-logo="http://idata.over-blog.com/0/00/74/35/0001c/3/bet-logo.jpg" group-title="FRANCA",|FR| BET HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5630
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="|FR| BEIN SPORTS MAX 9 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 9 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5631
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="|FR| BEIN SPORTS MAX 8 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 8 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5632
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="|FR| BEIN SPORTS MAX 7 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 7 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5633
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="|FR| BEIN SPORTS MAX 6 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 6 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5634
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="|FR| BEIN SPORTS MAX 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 5 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5635
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="|FR| BEIN SPORTS MAX 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 4 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5636
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="|FR| BEIN SPORTS MAX 10 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="FRANCA",|FR| BEIN SPORTS MAX 10 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5637
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport3_id.jpg" group-title="FRANCA",|FR| BEIN SPORTS 3 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5638
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2_hd.jpg" group-title="FRANCA",|FR| BEIN SPORTS 2 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5639
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1_hd.jpg" group-title="FRANCA",|FR| BEIN SPORTS 1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5640
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BBLACK CARIBBEAN TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bblk_fr.jpg" group-title="FRANCA",|FR| BBLACK CARIBBEAN TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5641
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BBLACK AFRICA TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bblk_fr.jpg" group-title="FRANCA",|FR| BBLACK AFRICA TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5642
+#EXTINF:-1 tvg-id="baby.tv.fr" tvg-name="|FR| BABY TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_first_tv.jpg" group-title="FRANCA",|FR| BABY TV HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5643
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTOMOTO HD" tvg-logo="https://img.over-blog-kiwi.com/1/49/54/19/20180715/ob_6ff6ef_chaine-tv-automoto.jpg" group-title="FRANCA",|FR| AUTOMOTO HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5644
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arte_fr_hd.jpg" group-title="FRANCA",|FR| ARTE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5645
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANTENNE RÉUNION HD" tvg-logo="https://pbs.twimg.com/profile_images/526996215926255617/Yl9fnDZR.png" group-title="FRANCA",|FR| ANTENNE RÉUNION HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5646
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animaux.jpg" group-title="FRANCA",|FR| ANIMAUX HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5647
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="https://img.generation-nt.com/altice-studio_00E1009601648455.png" group-title="FRANCA",|FR| ALTICE STUDIO HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5648
+#EXTINF:-1 tvg-id="alsace.20.fr" tvg-name="|FR| ALSACE 20 HD" tvg-logo="https://pbs.twimg.com/profile_images/1090637899576545282/NtBB0suZ.jpg" group-title="FRANCA",|FR| ALSACE 20 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5649
+#EXTINF:-1 tvg-id="action.fr" tvg-name="|FR| ACTION HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/action_fr.jpg" group-title="FRANCA",|FR| ACTION HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5650
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ABXPLORE HD" tvg-logo="https://rmb.be/files/pictures/brands/logo/47/47-thumb.00b6.jpg" group-title="FRANCA",|FR| ABXPLORE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5651
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="|FR| AB3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab3.jpg" group-title="FRANCA",|FR| AB3 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5652
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab1.jpg" group-title="FRANCA",|FR| AB1 HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5653
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="FRANCA",|FR| 6TER HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5654
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="|FR| 13E RUE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/13eme_rue_universal_hd.jpg" group-title="FRANCA",|FR| 13E RUE HD
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5655
 #EXTINF:-1 tvg-id="" tvg-name="[FR] TF1 [2K]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TF1_HD.png" group-title="FRANCA",[FR] TF1 [2K]
 http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3731
 #EXTINF:-1 tvg-id="" tvg-name="[FR] FRANCE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1200px-France_2_2018.svg.png" group-title="FRANCA",[FR] FRANCE 2 HD
