@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="Playboy.pt" tvg-name="PlayBoy pt" tvg-logo="http://i.imgur.com/nw6N0ui.png" group-title="For adults",PlayBoy pt
+http://fibra.bz:8880/tiagofrmartins/893857/500
+#EXTINF:-1 tvg-ID="venus.pt" tvg-name="venus pt" tvg-logo="http://i.imgur.com/iffs8Q2.png" group-title="For adults",venus pt
+http://fibra.bz:8880/tiagofrmartins/893857/512
+#EXTINF:-1 tvg-ID="Hot.pt" tvg-name="Hot pt" tvg-logo="http://i.imgur.com/HY55k6K.png" group-title="For adults",Hot pt
+http://fibra.bz:8880/tiagofrmartins/893857/507
+#EXTINF:-1 tvg-ID="" tvg-name="Penthouse 1 HD" tvg-logo="http://i.imgur.com/KEGQHQr.png" group-title="For adults",Penthouse 1 HD
+http://fibra.bz:8880/tiagofrmartins/893857/1163
+#EXTINF:-1 tvg-ID="" tvg-name="Penthouse 2 HD" tvg-logo="" group-title="For adults",Penthouse 2 HD
+http://fibra.bz:8880/tiagofrmartins/893857/1278
+#EXTINF:-1 tvg-ID="" tvg-name="RedLight HD" tvg-logo="" group-title="For adults",RedLight HD
+http://fibra.bz:8880/tiagofrmartins/893857/975
+#EXTINF:-1 tvg-ID="" tvg-name="Hustler HD" tvg-logo="" group-title="For adults",Hustler HD
+http://fibra.bz:8880/tiagofrmartins/893857/974
+#EXTINF:-1 tvg-ID="" tvg-name="xXx channel 1" tvg-logo="" group-title="For adults",xXx channel 1
+http://fibra.bz:8880/tiagofrmartins/893857/959
+#EXTINF:-1 tvg-ID="" tvg-name="xXx channel 2" tvg-logo="" group-title="For adults",xXx channel 2
+http://fibra.bz:8880/tiagofrmartins/893857/962
+#EXTINF:-1 tvg-ID="" tvg-name="xXx channel 3" tvg-logo="" group-title="For adults",xXx channel 3
+http://fibra.bz:8880/tiagofrmartins/893857/969
+#EXTINF:-1 tvg-ID="" tvg-name="xXx channel 4" tvg-logo="" group-title="For adults",xXx channel 4
+http://fibra.bz:8880/tiagofrmartins/893857/970
+#EXTINF:-1 tvg-ID="" tvg-name="xXx channel 5" tvg-logo="" group-title="For adults",xXx channel 5
+http://fibra.bz:8880/tiagofrmartins/893857/4620
 #EXTINF:-1 tvg-id="Playboy HD" tvg-name="⁽⁺¹⁸⁾ Playboy Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/PLAYBOY_HD.png" group-title="ADULTS",⁽⁺¹⁸⁾ Playboy Tv ᴴᴰ
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/170
 #EXTINF:-1 tvg-id="Playboy HD" tvg-name="⁽⁺¹⁸⁾ Playboy Tv" tvg-logo="http://picons.smartswebapp.com/PT_NewGlass/PLAYBOY_TV.png" group-title="ADULTS",⁽⁺¹⁸⁾ Playboy Tv
