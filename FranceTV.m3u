@@ -1,4 +1,442 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR:  TF1 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/61dsTJXnwbb2DceBFTOQTG4jSZIQjIDx.png" group-title="FRANCE",FR:  TF1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/280
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: TF1" tvg-logo="https://www.orangefab.com/wp-content/uploads/2017/07/tf1-logo.png" group-title="FRANCE",FR: TF1
+http://gold4ever.io:8080/michel123/123michel/281
+#EXTINF:-1 tvg-id="FRANCE 2-FR" tvg-name="FR:  FRANCE 2 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/RtSvqaG9LGmvszujXUiMcwegG4mMEQB6.png" group-title="FRANCE",FR:  FRANCE 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/282
+#EXTINF:-1 tvg-id="FRANCE 2-FR" tvg-name="FR: FRANCE 2" tvg-logo="http://emmanuel.info/wp-content/uploads/2018/03/FRANCE2.png" group-title="FRANCE",FR: FRANCE 2
+http://gold4ever.io:8080/michel123/123michel/283
+#EXTINF:-1 tvg-id="FRANCE 3-FR" tvg-name="FR:  FRANCE 3 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/Aj4kGPro126gq0JM8vs53WiQF1QmlL8H.png" group-title="FRANCE",FR:  FRANCE 3 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/284
+#EXTINF:-1 tvg-id="FRANCE 4-FR" tvg-name="FR: FRANCE 4 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/OGMZiuWG5z1EFdE9TVrZFI30xf1vCqEB.png" group-title="FRANCE",FR: FRANCE 4 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/285
+#EXTINF:-1 tvg-id="FRANCE 5-FR" tvg-name="FR: FRANCE 5 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/pzEnQtNGlOe8Wx2jLJhnFsxohustGncS.png" group-title="FRANCE",FR: FRANCE 5 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/286
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="FR:  FRANCE 0" tvg-logo="http://www.francetvpro.fr/sites/default/files/styles/ftvpro_newsletter_94_35/public/images/2018/04/23/france_O_logo_rvb_O_couleur_noir.png" group-title="FRANCE",FR:  FRANCE 0
+http://gold4ever.io:8080/michel123/123michel/287
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/PG4QN7u2ruIUNFvY8ZRsUlomiVkxzheS.png" group-title="FRANCE",FR: ARTE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/288
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo-arte-schief.svg/1280px-Logo-arte-schief.svg.png" group-title="FRANCE",FR: ARTE
+http://gold4ever.io:8080/michel123/123michel/289
+#EXTINF:-1 tvg-id="M6-FR" tvg-name="FR:  M6 ᴴᴰ" tvg-logo="http://zebra-films.fr/wp-content/uploads/2016/02/LOGOM6.png" group-title="FRANCE",FR:  M6 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/290
+#EXTINF:-1 tvg-id="M6-FR" tvg-name="FR: M6" tvg-logo="http://zebra-films.fr/wp-content/uploads/2016/02/LOGOM6.png" group-title="FRANCE",FR: M6
+http://gold4ever.io:8080/michel123/123michel/291
+#EXTINF:-1 tvg-id="TV BREIZH-FR" tvg-name="FR: TV Breizh ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TV Breizh ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/535
+#EXTINF:-1 tvg-id="W9-FR" tvg-name="FR: W9 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/A8BM8QnVUXph8NWkTuBm4kNCuqDz90uZ.png" group-title="FRANCE",FR: W9 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/292
+#EXTINF:-1 tvg-id="W9-FR" tvg-name="FR: W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="FRANCE",FR: W9
+http://gold4ever.io:8080/michel123/123michel/293
+#EXTINF:-1 tvg-id="NRJ 12-FR" tvg-name="FR:  NRJ 12 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/LkTCa7KXZO3Voz766GbJWjkbKqrkHdXa.png" group-title="FRANCE",FR:  NRJ 12 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/294
+#EXTINF:-1 tvg-id="NRJ 12-FR" tvg-name="FR: NRJ 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ea/NRJ12.png" group-title="FRANCE",FR: NRJ 12
+http://gold4ever.io:8080/michel123/123michel/295
+#EXTINF:-1 tvg-id="C8-FR" tvg-name="FR: C8 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/f1YvZicDRhjpYNOrlegBbadp0XZo1xcr.png" group-title="FRANCE",FR: C8 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/297
+#EXTINF:-1 tvg-id="C8-FR" tvg-name="FR: C8" tvg-logo="http://cdn.programme-television.org/var/premiere/storage/images/tele-7-jours/news-tv/d8-le-5-septembre-la-chaine-devient-c8-4353034/77926999-1-fre-FR/D8-le-5-septembre-la-chaine-devient-C8_news_full.png" group-title="FRANCE",FR: C8
+http://gold4ever.io:8080/michel123/123michel/298
+#EXTINF:-1 tvg-id="CSTAR-FR" tvg-name="FR: CSTAR ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/0bwBzKOqht3K6m8wNjgB1SVXGsiQppSZ.png" group-title="FRANCE",FR: CSTAR ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/299
+#EXTINF:-1 tvg-id="CSTAR-FR" tvg-name="FR: CSTAR" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="FRANCE",FR: CSTAR
+http://gold4ever.io:8080/michel123/123michel/300
+#EXTINF:-1 tvg-id="Chérie 25-FR" tvg-name="FR: CHERIE 25 ᴴᴰ" tvg-logo="https://alex-magicien.fr/wp-content/uploads/2017/03/logo-cherie-25-c-est-mon-choix-570x570.png" group-title="FRANCE",FR: CHERIE 25 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/303
+#EXTINF:-1 tvg-id="Chérie 25-FR" tvg-name="FR: CHERIE 25" tvg-logo="https://alex-magicien.fr/wp-content/uploads/2017/03/logo-cherie-25-c-est-mon-choix-570x570.png" group-title="FRANCE",FR: CHERIE 25
+http://gold4ever.io:8080/michel123/123michel/304
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/cqfPr3ReIRmUv55KGNAeCG8d8dG9hyAY.png" group-title="FRANCE",FR: 6TER ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/307
+#EXTINF:-1 tvg-id="6ter-FR" tvg-name="FR: 6TER" tvg-logo="https://m6pub.fr/wp-content/uploads/2016/01/Logo-6ter-3D.png" group-title="FRANCE",FR: 6TER
+http://gold4ever.io:8080/michel123/123michel/308
+#EXTINF:-1 tvg-id="13eme RUE-FR" tvg-name="FR: 13EME RUE ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/xAluCK3jFK5nKPnYhUz3w627tFZovBgV.png" group-title="FRANCE",FR: 13EME RUE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/309
+#EXTINF:-1 tvg-id="13eme RUE-FR" tvg-name="FR: 13EME RUE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/1200px-Logo_13e_Rue_%282017%29.svg.png" group-title="FRANCE",FR: 13EME RUE
+http://gold4ever.io:8080/michel123/123michel/310
+#EXTINF:-1 tvg-id="TEVA-FR" tvg-name="FR:  TEVA ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/p5Tu0G8am9kTb77PJEBT59GohQ7oAZeO.png" group-title="FRANCE",FR:  TEVA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/311
+#EXTINF:-1 tvg-id="TEVA-FR" tvg-name="FR: TEVA" tvg-logo="http://data.nimages.fr/tevaq2g.png" group-title="FRANCE",FR: TEVA
+http://gold4ever.io:8080/michel123/123michel/312
+#EXTINF:-1 tvg-id="TMC-FR" tvg-name="FR: TMC ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/PeDiysmN2yC9yb2xHzfj0GSBuqfNjUTM.PNG" group-title="FRANCE",FR: TMC ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/313
+#EXTINF:-1 tvg-id="TMC-FR" tvg-name="FR: TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="FRANCE",FR: TMC
+http://gold4ever.io:8080/michel123/123michel/314
+#EXTINF:-1 tvg-id="RTL9-FR" tvg-name="FR: RTL9 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RTL9 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/315
+#EXTINF:-1 tvg-id="RTL9-FR" tvg-name="FR: RTL9" tvg-logo="" group-title="FRANCE",FR: RTL9
+http://gold4ever.io:8080/michel123/123michel/316
+#EXTINF:-1 tvg-id="PARIS PREMIERE-FR" tvg-name="FR: PARIS PREMIERE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/320
+#EXTINF:-1 tvg-id="PARIS PREMIERE-FR" tvg-name="FR: PARIS PREMIERE" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE
+http://gold4ever.io:8080/michel123/123michel/321
+#EXTINF:-1 tvg-id="RTS Un-FR" tvg-name="FR: RTS 1 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/iuwGcYpnQjqLFLiSTPf46FFXOAt3Duje.jpg" group-title="FRANCE",FR: RTS 1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/322
+#EXTINF:-1 tvg-id="RTS Un-FR" tvg-name="FR: RTS 1" tvg-logo="http://www.mediafire.com/convkey/59bd/n0ll856sx355b4izg.jpg" group-title="FRANCE",FR: RTS 1
+http://gold4ever.io:8080/michel123/123michel/323
+#EXTINF:-1 tvg-id="RTS Deux-FR" tvg-name="FR: RTS 2 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/pt1g7EPOZYnQ3lXAK6MJxcASOoP6zCdt.jpg" group-title="FRANCE",FR: RTS 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/324
+#EXTINF:-1 tvg-id="RTS Deux-FR" tvg-name="FR: RTS 2" tvg-logo="http://www.mediafire.com/convkey/6dd1/6awstmbjxg41az2zg.jpg" group-title="FRANCE",FR: RTS 2
+http://gold4ever.io:8080/michel123/123michel/325
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- DIVERTISSEMENT ----★●•" tvg-logo="" group-title="FRANCE",•●★--- DIVERTISSEMENT ----★●•
+http://gold4ever.io:8080/michel123/123michel/326
+#EXTINF:-1 tvg-id="TFX-FR" tvg-name="FR: TFX ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/ezZIx8aQIfrcq2Am4tEs5XIMhWsviScb.jpg" group-title="FRANCE",FR: TFX ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/296
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR: TF1 SERIES FILMS ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/0iDiTGaHNQl4puHFZyUAxMEqCO0BHkBd.jpg" group-title="FRANCE",FR: TF1 SERIES FILMS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/305
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR: TF1 SERIES FILMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_TF1_S%C3%A9ries_Films_2018.jpg" group-title="FRANCE",FR: TF1 SERIES FILMS
+http://gold4ever.io:8080/michel123/123michel/306
+#EXTINF:-1 tvg-id="serieclub-FR" tvg-name="FR: SERIE CLUB ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/RjAlPHcuhzSFQImBniyOKgkE1RX0Y0tP.png" group-title="FRANCE",FR: SERIE CLUB ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/317
+#EXTINF:-1 tvg-id="serieclub-FR" tvg-name="FR: SERIE CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Serie_club_2007_logo.svg/1280px-Serie_club_2007_logo.svg.png" group-title="FRANCE",FR: SERIE CLUB
+http://gold4ever.io:8080/michel123/123michel/318
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL-FR" tvg-name="FR: PARAMOUNT CHANNEL ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/3hu2lb2bRh6jXR3RgB9VlnZEQqzinhWY.png" group-title="FRANCE",FR: PARAMOUNT CHANNEL ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/319
+#EXTINF:-1 tvg-id="Comédie+-FR" tvg-name="FR:  COMEDIE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR:  COMEDIE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/327
+#EXTINF:-1 tvg-id="RMC Découverte-FR" tvg-name="FR: RMC STORY ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC STORY ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/5969
+#EXTINF:-1 tvg-id="AB1-FR" tvg-name="FR: AB1 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: AB1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/328
+#EXTINF:-1 tvg-id="AB3-FR" tvg-name="FR: AB3 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: AB3 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/330
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: BRAVA" tvg-logo="" group-title="FRANCE",FR: BRAVA
+http://gold4ever.io:8080/michel123/123michel/331
+#EXTINF:-1 tvg-id="Ultra Nature [4K]-FR" tvg-name="FR: LOVE NATURE UHD" tvg-logo="" group-title="FRANCE",FR: LOVE NATURE UHD
+http://gold4ever.io:8080/michel123/123michel/332
+#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="" group-title="FRANCE",FR: E!
+http://gold4ever.io:8080/michel123/123michel/333
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- FR: Sport ----★●•" tvg-logo="" group-title="FRANCE",•●★--- FR: Sport ----★●•
+http://gold4ever.io:8080/michel123/123michel/334
+#EXTINF:-1 tvg-id="RMC Sport 1-FR" tvg-name="FR: RMC Sport 1 ᴴᴰ" tvg-logo="http://gold4ever.io:8080/images/fDLENjHwXAfnGGs5vtoaAlAfMvtcSXBT.png" group-title="FRANCE",FR: RMC Sport 1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/335
+#EXTINF:-1 tvg-id="RMC Sport 1-FR" tvg-name="FR: RMC Sport 1" tvg-logo="" group-title="FRANCE",FR: RMC Sport 1
+http://gold4ever.io:8080/michel123/123michel/336
+#EXTINF:-1 tvg-id="RMC Sport 2-FR" tvg-name="FR: RMC Sport 2 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC Sport 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/337
+#EXTINF:-1 tvg-id="RMC Sport 2-FR" tvg-name="FR: RMC Sport 2" tvg-logo="" group-title="FRANCE",FR: RMC Sport 2
+http://gold4ever.io:8080/michel123/123michel/338
+#EXTINF:-1 tvg-id="RMC Sport 3-FR" tvg-name="FR: RMC Sport 3 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC Sport 3 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/339
+#EXTINF:-1 tvg-id="RMC Sport 3-FR" tvg-name="FR: RMC Sport 3" tvg-logo="" group-title="FRANCE",FR: RMC Sport 3
+http://gold4ever.io:8080/michel123/123michel/340
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC SPORT ACCESS 3" tvg-logo="" group-title="FRANCE",FR: RMC SPORT ACCESS 3
+http://gold4ever.io:8080/michel123/123michel/341
+#EXTINF:-1 tvg-id="RMC Sport 4-FR" tvg-name="FR: RMC Sport 4 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC Sport 4 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/342
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="FR: RMC SPORT LIVE 5 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 5 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/345
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT LIVE 6 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC SPORT LIVE 6 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/346
+#EXTINF:-1 tvg-id="BEIN SPORTS 1-FR" tvg-name="FR: BEIN SPORTS 1 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/357
+#EXTINF:-1 tvg-id="BEIN SPORTS 1-FR" tvg-name="FR: BEIN SPORTS 1" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 1
+http://gold4ever.io:8080/michel123/123michel/358
+#EXTINF:-1 tvg-id="BEIN SPORTS 2-FR" tvg-name="FR: BEIN SPORTS 2 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/359
+#EXTINF:-1 tvg-id="BEIN SPORTS 2-FR" tvg-name="FR: BEIN SPORTS 2" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 2
+http://gold4ever.io:8080/michel123/123michel/360
+#EXTINF:-1 tvg-id="beIN SPORTS 3-FR" tvg-name="FR: BEIN SPORTS 3 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/361
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: BEIN SPORTS 3" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS 3
+http://gold4ever.io:8080/michel123/123michel/362
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 4 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BEIN MAX 4 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/363
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 5 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BEIN MAX 5 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/365
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: ELEVEN SPORT 1 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/372
+#EXTINF:-1 tvg-id="eleven.fr" tvg-name="FR: ELEVEN SPORT 2 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/373
+#EXTINF:-1 tvg-id="eleven.fr" tvg-name="FR: ELEVEN SPORT 3 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ELEVEN SPORT 3 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/374
+#EXTINF:-1 tvg-id="Eurosport 1-FR" tvg-name="FR: EUROSPORT 1 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 1 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/375
+#EXTINF:-1 tvg-id="Eurosport 1-FR" tvg-name="FR: EUROSPORT 1" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 1
+http://gold4ever.io:8080/michel123/123michel/376
+#EXTINF:-1 tvg-id="Eurosport 2-FR" tvg-name="FR: EUROSPORT 2 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 2 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/377
+#EXTINF:-1 tvg-id="Eurosport 2-FR" tvg-name="FR: EUROSPORT 2" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 2
+http://gold4ever.io:8080/michel123/123michel/378
+#EXTINF:-1 tvg-id="" tvg-name="FR: ES1" tvg-logo="" group-title="FRANCE",FR: ES1
+http://gold4ever.io:8080/michel123/123michel/2332
+#EXTINF:-1 tvg-id="OLTV-FR" tvg-name="FR: OL TV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: OL TV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/379
+#EXTINF:-1 tvg-id="OLTV-FR" tvg-name="FR: OL TV" tvg-logo="" group-title="FRANCE",FR: OL TV
+http://gold4ever.io:8080/michel123/123michel/380
+#EXTINF:-1 tvg-id="Canal+ Sport-FR" tvg-name="FR: CANAL + SPORT ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + SPORT ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/383
+#EXTINF:-1 tvg-id="Canal+ Sport-FR" tvg-name="FR: CANAL + SPORT" tvg-logo="" group-title="FRANCE",FR: CANAL + SPORT
+http://gold4ever.io:8080/michel123/123michel/384
+#EXTINF:-1 tvg-id="Infosport+-FR" tvg-name="FR:  INFOSPORT + ᴴᴰ" tvg-logo="" group-title="FRANCE",FR:  INFOSPORT + ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/385
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: RMC SPORT NEWS" tvg-logo="" group-title="FRANCE",FR: RMC SPORT NEWS
+http://gold4ever.io:8080/michel123/123michel/5971
+#EXTINF:-1 tvg-id="extreme.fr" tvg-name="FR: EXTREME SPORTS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: EXTREME SPORTS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/387
+#EXTINF:-1 tvg-id="Foot+ 24/24-FR" tvg-name="FR: FOOT+24" tvg-logo="" group-title="FRANCE",FR: FOOT+24
+http://gold4ever.io:8080/michel123/123michel/388
+#EXTINF:-1 tvg-id="L'Equipe-FR" tvg-name="FR: L'EQUIPE 21 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: L'EQUIPE 21 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/389
+#EXTINF:-1 tvg-id="Golf+-FR" tvg-name="FR: GOLF + HD" tvg-logo="" group-title="FRANCE",FR: GOLF + HD
+http://gold4ever.io:8080/michel123/123michel/390
+#EXTINF:-1 tvg-id="AB Moteurs-FR" tvg-name="FR: AB MOTEURS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: AB MOTEURS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/391
+#EXTINF:-1 tvg-id="Motorsport TV-FR" tvg-name="FR: MOTORSPORT.TV" tvg-logo="" group-title="FRANCE",FR: MOTORSPORT.TV
+http://gold4ever.io:8080/michel123/123michel/392
+#EXTINF:-1 tvg-id="EQUIDIA-FR" tvg-name="FR: EQUIDIA LIVE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: EQUIDIA LIVE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/393
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- INFOS----★●•" tvg-logo="" group-title="FRANCE",•●★--- INFOS----★●•
+http://gold4ever.io:8080/michel123/123michel/394
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: BFM PARIS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BFM PARIS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/395
+#EXTINF:-1 tvg-id="BFMTV-FR" tvg-name="FR: BFM TV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BFM TV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/396
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: BFM BUSINESS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BFM BUSINESS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/397
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FR: FRANCE 24 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: FRANCE 24 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/399
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE",FR: FRANCE 24
+http://gold4ever.io:8080/michel123/123michel/400
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FR: FRANCE INFO ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: FRANCE INFO ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/401
+#EXTINF:-1 tvg-id="TV5MONDE-FR" tvg-name="FR TV5 MONDE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR TV5 MONDE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/402
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: I24 ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: I24 ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/403
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: LCI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: LCI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/405
+#EXTINF:-1 tvg-id="" tvg-name="•●★---ENFANTS----★●•" tvg-logo="" group-title="FRANCE",•●★---ENFANTS----★●•
+http://gold4ever.io:8080/michel123/123michel/406
+#EXTINF:-1 tvg-id="Toonami-FR" tvg-name="FR: TOONAMI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TOONAMI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/407
+#EXTINF:-1 tvg-id="DISNEY CHANNEL-FR" tvg-name="FR: DISNEY CHANNEL ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISNEY CHANNEL ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/408
+#EXTINF:-1 tvg-id="DISNEY CHANNEL-FR" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="FRANCE",FR: DISNEY CHANNEL
+http://gold4ever.io:8080/michel123/123michel/409
+#EXTINF:-1 tvg-id="Disney Cinema-FR" tvg-name="FR: DISNEY CINEMA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/410
+#EXTINF:-1 tvg-id="Disney Cinema-FR" tvg-name="FR: DISNEY CINEMA" tvg-logo="" group-title="FRANCE",FR: DISNEY CINEMA
+http://gold4ever.io:8080/michel123/123michel/411
+#EXTINF:-1 tvg-id="Disney Junior-FR" tvg-name="FR: DISNEY JUNIOR ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISNEY JUNIOR ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/412
+#EXTINF:-1 tvg-id="Disney Junior-FR" tvg-name="FR: DISNEY JUNIOR" tvg-logo="" group-title="FRANCE",FR: DISNEY JUNIOR
+http://gold4ever.io:8080/michel123/123michel/413
+#EXTINF:-1 tvg-id="Disney XD-FR" tvg-name="FR: DISNEY XD ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISNEY XD ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/414
+#EXTINF:-1 tvg-id="Nickelodéon-FR" tvg-name="FR: NICKELODEON ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: NICKELODEON ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/415
+#EXTINF:-1 tvg-id="Nickelodéon-FR" tvg-name="FR: NICKELODEON" tvg-logo="" group-title="FRANCE",FR: NICKELODEON
+http://gold4ever.io:8080/michel123/123michel/416
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="FR: NICKELODEON JUNIOR ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: NICKELODEON JUNIOR ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/417
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="FR: NICKELODEON JR" tvg-logo="" group-title="FRANCE",FR: NICKELODEON JR
+http://gold4ever.io:8080/michel123/123michel/418
+#EXTINF:-1 tvg-id="Nickelodéon Teen-FR" tvg-name="FR: NICKLODEON 4TEEN ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: NICKLODEON 4TEEN ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/419
+#EXTINF:-1 tvg-id="BOOMERANG-FR" tvg-name="FR: BOOMERANG ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BOOMERANG ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/420
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR: BOOMERANG" tvg-logo="" group-title="FRANCE",FR: BOOMERANG
+http://gold4ever.io:8080/michel123/123michel/421
+#EXTINF:-1 tvg-id="CARTOON NETWORK-FR" tvg-name="FR: CARTOON NETWORK ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CARTOON NETWORK ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/422
+#EXTINF:-1 tvg-id="CARTOON NETWORK-FR" tvg-name="FR: CARTOON NETWORK" tvg-logo="" group-title="FRANCE",FR: CARTOON NETWORK
+http://gold4ever.io:8080/michel123/123michel/423
+#EXTINF:-1 tvg-id="TéléToon+-FR" tvg-name="FR: TELETOON ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TELETOON ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/424
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="FR: TELETOON" tvg-logo="" group-title="FRANCE",FR: TELETOON
+http://gold4ever.io:8080/michel123/123michel/425
+#EXTINF:-1 tvg-id="Mangas-FR" tvg-name="FR: MANGAS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: MANGAS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/426
+#EXTINF:-1 tvg-id="Mangas-FR" tvg-name="FR:  MANGAS" tvg-logo="" group-title="FRANCE",FR:  MANGAS
+http://gold4ever.io:8080/michel123/123michel/427
+#EXTINF:-1 tvg-id="TIJI-FR" tvg-name="FR: TIJI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TIJI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/429
+#EXTINF:-1 tvg-id="TIJI-FR" tvg-name="FR: TIJI" tvg-logo="" group-title="FRANCE",FR: TIJI
+http://gold4ever.io:8080/michel123/123michel/430
+#EXTINF:-1 tvg-id="Piwi+-FR" tvg-name="FR: PIWI + ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PIWI + ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/431
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="FR: PIWI" tvg-logo="" group-title="FRANCE",FR: PIWI
+http://gold4ever.io:8080/michel123/123michel/432
+#EXTINF:-1 tvg-id="Gulli-FR" tvg-name="FR: GULLI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: GULLI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/433
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR: GULLI" tvg-logo="" group-title="FRANCE",FR: GULLI
+http://gold4ever.io:8080/michel123/123michel/434
+#EXTINF:-1 tvg-id="CANAL J-FR" tvg-name="FR: CANAL J ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL J ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/435
+#EXTINF:-1 tvg-id="BOING-FR" tvg-name="FR: BOING ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: BOING ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/436
+#EXTINF:-1 tvg-id="" tvg-name="FR: PITCHOUN ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PITCHOUN ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/438
+#EXTINF:-1 tvg-id="GAME ONE-FR" tvg-name="FR: GAME ONE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: GAME ONE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/439
+#EXTINF:-1 tvg-id="" tvg-name="•●★---MUSIQUE----★●•" tvg-logo="" group-title="FRANCE",•●★---MUSIQUE----★●•
+http://gold4ever.io:8080/michel123/123michel/441
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="FR: M6 MUSIC ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: M6 MUSIC ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/442
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR: TRACE-URBAN ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE-URBAN ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/450
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR: TRACE-AFRICA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE-AFRICA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/449
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: TRACE URBAN ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE URBAN ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/448
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR: TRACE TROPICAL ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE TROPICAL ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/447
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR: TRACE TOCA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE TOCA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/446
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="FR: TRACE NAIJA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE NAIJA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/445
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE MZIKI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TRACE MZIKI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/444
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: MTV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/454
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV BASE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: MTV BASE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/453
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV MUSIC" tvg-logo="" group-title="FRANCE",FR: MTV MUSIC
+http://gold4ever.io:8080/michel123/123michel/455
+#EXTINF:-1 tvg-id="" tvg-name="FR: DJAZZ TV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DJAZZ TV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/458
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: MEZZO ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: MEZZO ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/459
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- DECOUVERTE ----★●•" tvg-logo="" group-title="FRANCE",•●★--- DECOUVERTE ----★●•
+http://gold4ever.io:8080/michel123/123michel/460
+#EXTINF:-1 tvg-id="RMC Découverte-FR" tvg-name="FR: RMC DECOUVERTE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC DECOUVERTE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/461
+#EXTINF:-1 tvg-id="Crime District-FR" tvg-name="FR: Crime District ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: Crime District ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/462
+#EXTINF:-1 tvg-id="Crime District-FR" tvg-name="FR: CRIME DISTRICT" tvg-logo="" group-title="FRANCE",FR: CRIME DISTRICT
+http://gold4ever.io:8080/michel123/123michel/463
+#EXTINF:-1 tvg-id="Planète+ Aventure Expérience-FR" tvg-name="FR: PLANETE + A&E ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PLANETE + A&E ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/466
+#EXTINF:-1 tvg-id="Planète+ Aventure Expérience-FR" tvg-name="FR: PLANET + AE" tvg-logo="" group-title="FRANCE",FR: PLANET + AE
+http://gold4ever.io:8080/michel123/123michel/467
+#EXTINF:-1 tvg-id="Planète+-FR" tvg-name="FR: PLANETE + ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PLANETE + ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/468
+#EXTINF:-1 tvg-id="Planète+-FR" tvg-name="FR:  PLANETE +" tvg-logo="" group-title="FRANCE",FR:  PLANETE +
+http://gold4ever.io:8080/michel123/123michel/469
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation-FR" tvg-name="FR: PLANETE + CI ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: PLANETE + CI ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/465
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation-FR" tvg-name="FR: PLANETE + CI" tvg-logo="" group-title="FRANCE",FR: PLANETE + CI
+http://gold4ever.io:8080/michel123/123michel/464
+#EXTINF:-1 tvg-id="National Geographic-FR" tvg-name="FR: NAT GEO ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: NAT GEO ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/471
+#EXTINF:-1 tvg-id="National Geographic-FR" tvg-name="FR: NAT GEO" tvg-logo="" group-title="FRANCE",FR: NAT GEO
+http://gold4ever.io:8080/michel123/123michel/472
+#EXTINF:-1 tvg-id="Nat Geo Wild-FR" tvg-name="FR: NATGEO WILD ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: NATGEO WILD ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/473
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO WILD" tvg-logo="" group-title="FRANCE",FR: NAT GEO WILD
+http://gold4ever.io:8080/michel123/123michel/474
+#EXTINF:-1 tvg-id="Discovery Channel-FR" tvg-name="FR: DISCOVERY ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISCOVERY ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/475
+#EXTINF:-1 tvg-id="Discovery Channel-FR" tvg-name="FR:  DISCOVERY" tvg-logo="" group-title="FRANCE",FR:  DISCOVERY
+http://gold4ever.io:8080/michel123/123michel/476
+#EXTINF:-1 tvg-id="Discovery Science-FR" tvg-name="FR:  DISCOVERY SCIENCE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR:  DISCOVERY SCIENCE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/477
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR:  DISCOVERY SCIENCE" tvg-logo="" group-title="FRANCE",FR:  DISCOVERY SCIENCE
+http://gold4ever.io:8080/michel123/123michel/478
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: DISCOVERY FAMILY ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISCOVERY FAMILY ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/479
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: DISCOVERY INVESTIGATION ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: DISCOVERY INVESTIGATION ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/480
+#EXTINF:-1 tvg-id="RMC Découverte-FR" tvg-name="FR: RMC DECOUVERTE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: RMC DECOUVERTE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/5970
+#EXTINF:-1 tvg-id="Toute lhistoire-FR" tvg-name="FR: TOUTE L'HISTOIRE" tvg-logo="" group-title="FRANCE",FR: TOUTE L'HISTOIRE
+http://gold4ever.io:8080/michel123/123michel/481
+#EXTINF:-1 tvg-id="Seasons-FR" tvg-name="FR: SEASONS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: SEASONS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/482
+#EXTINF:-1 tvg-id="Science & Vie TV-FR" tvg-name="FR: SCIENCES & VIE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: SCIENCES & VIE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/483
+#EXTINF:-1 tvg-id="Histoire-FR" tvg-name="FR: HISTOIRE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: HISTOIRE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/484
+#EXTINF:-1 tvg-id="USHUAIA TV-FR" tvg-name="FR: USHUAIA TV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: USHUAIA TV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/485
+#EXTINF:-1 tvg-id="Voyage-FR" tvg-name="FR: VOYAGE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: VOYAGE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/486
+#EXTINF:-1 tvg-id="Voyage-FR" tvg-name="FR: VOYAGE" tvg-logo="" group-title="FRANCE",FR: VOYAGE
+http://gold4ever.io:8080/michel123/123michel/487
+#EXTINF:-1 tvg-id="Animaux-FR" tvg-name="FR: ANIMAUX ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ANIMAUX ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/488
+#EXTINF:-1 tvg-id="Animaux-FR" tvg-name="FR:  ANIMAUX" tvg-logo="" group-title="FRANCE",FR:  ANIMAUX
+http://gold4ever.io:8080/michel123/123michel/489
+#EXTINF:-1 tvg-id="CHASSE PECHE-FR" tvg-name="FR: CHASSE & PECHE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CHASSE & PECHE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/490
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- CINEMA&CANAL+ ----★●•" tvg-logo="" group-title="FRANCE",•●★--- CINEMA&CANAL+ ----★●•
+http://gold4ever.io:8080/michel123/123michel/491
+#EXTINF:-1 tvg-id="CANAL+-FR" tvg-name="FR: CANAL + ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/492
+#EXTINF:-1 tvg-id="CANAL+-FR" tvg-name="FR: CANAL +" tvg-logo="" group-title="FRANCE",FR: CANAL +
+http://gold4ever.io:8080/michel123/123michel/493
+#EXTINF:-1 tvg-id="C+ CINEMA-FR" tvg-name="FR: CANAL + CINEMA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + CINEMA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/494
+#EXTINF:-1 tvg-id="C+ CINEMA-FR" tvg-name="FR: CANAL + CINEMA" tvg-logo="" group-title="FRANCE",FR: CANAL + CINEMA
+http://gold4ever.io:8080/michel123/123michel/495
+#EXTINF:-1 tvg-id="C+ DECALE-FR" tvg-name="FR: CANAL + DECALE ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + DECALE ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/496
+#EXTINF:-1 tvg-id="C+ DECALE-FR" tvg-name="FR: CANAL + DECALE" tvg-logo="" group-title="FRANCE",FR: CANAL + DECALE
+http://gold4ever.io:8080/michel123/123michel/497
+#EXTINF:-1 tvg-id="C+ FAMILY-FR" tvg-name="FR: CANAL + FAMILY ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + FAMILY ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/498
+#EXTINF:-1 tvg-id="C+ FAMILY-FR" tvg-name="FR: CANAL + FAMILY" tvg-logo="" group-title="FRANCE",FR: CANAL + FAMILY
+http://gold4ever.io:8080/michel123/123michel/499
+#EXTINF:-1 tvg-id="C+ SERIES-FR" tvg-name="FR: CANAL + SERIES ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CANAL + SERIES ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/500
+#EXTINF:-1 tvg-id="C+ SERIES-FR" tvg-name="FR: CANAL + SERIE" tvg-logo="" group-title="FRANCE",FR: CANAL + SERIE
+http://gold4ever.io:8080/michel123/123michel/501
+#EXTINF:-1 tvg-id="Ciné+ Club-FR" tvg-name="FR: CINE + CLUB ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + CLUB ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/502
+#EXTINF:-1 tvg-id="Ciné+ Club-FR" tvg-name="FR: CINE + CLUB" tvg-logo="" group-title="FRANCE",FR: CINE + CLUB
+http://gold4ever.io:8080/michel123/123michel/503
+#EXTINF:-1 tvg-id="Ciné+ Emotion-FR" tvg-name="FR: CINE + EMOTION" tvg-logo="" group-title="FRANCE",FR: CINE + EMOTION
+http://gold4ever.io:8080/michel123/123michel/504
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="FR: CINE + FAMIZ" tvg-logo="" group-title="FRANCE",FR: CINE + FAMIZ
+http://gold4ever.io:8080/michel123/123michel/505
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: CINE + FX ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + FX ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/506
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: CINE + FX" tvg-logo="" group-title="FRANCE",FR: CINE + FX
+http://gold4ever.io:8080/michel123/123michel/507
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: CINE + POLAR ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + POLAR ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/508
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="FR: CINE + POLAR" tvg-logo="" group-title="FRANCE",FR: CINE + POLAR
+http://gold4ever.io:8080/michel123/123michel/510
+#EXTINF:-1 tvg-id="Ciné+ Classic-FR" tvg-name="FR: CINE + CLASSIC ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + CLASSIC ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/511
+#EXTINF:-1 tvg-id="Ciné+ Classic-FR" tvg-name="FR: CINE + CLASSIC" tvg-logo="" group-title="FRANCE",FR: CINE + CLASSIC
+http://gold4ever.io:8080/michel123/123michel/512
+#EXTINF:-1 tvg-id="Ciné+ Premier-FR" tvg-name="FR: CINE + PREMIER ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + PREMIER ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/513
+#EXTINF:-1 tvg-id="Ciné+ Premier-FR" tvg-name="FR: CINE + PREMIER" tvg-logo="" group-title="FRANCE",FR: CINE + PREMIER
+http://gold4ever.io:8080/michel123/123michel/514
+#EXTINF:-1 tvg-id="Ciné+ Emotion-FR" tvg-name="FR: CINE + EMOTION ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + EMOTION ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/515
+#EXTINF:-1 tvg-id="Ciné+ Famiz-FR" tvg-name="FR: CINE + FAMIZ ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + FAMIZ ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/516
+#EXTINF:-1 tvg-id="Ciné+ Frisson-FR" tvg-name="FR: CINE + FRISSON ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: CINE + FRISSON ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/517
+#EXTINF:-1 tvg-id="OCS MAX-FR" tvg-name="FR: OCS MAX ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: OCS MAX ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/523
+#EXTINF:-1 tvg-id="OCS GEANTS-FR" tvg-name="FR: OCS GEANTS ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: OCS GEANTS ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/522
+#EXTINF:-1 tvg-id="OCS CITY, génération HBO-FR" tvg-name="FR: OCS City ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: OCS City ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/520
+#EXTINF:-1 tvg-id="OCS CITY, génération HBO-FR" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FRANCE",FR: OCS CITY
+http://gold4ever.io:8080/michel123/123michel/521
+#EXTINF:-1 tvg-id="OCS CHOC-FR" tvg-name="FR: OCS CHOC ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: OCS CHOC ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/518
+#EXTINF:-1 tvg-id="OCS CHOC-FR" tvg-name="FR: OCS CHOC" tvg-logo="" group-title="FRANCE",FR: OCS CHOC
+http://gold4ever.io:8080/michel123/123michel/519
+#EXTINF:-1 tvg-id="Syfy-FR" tvg-name="FR: SYFY ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: SYFY ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/524
+#EXTINF:-1 tvg-id="TCM CINEMA-FR" tvg-name="FR: TCM CINEMA ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: TCM CINEMA ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/525
+#EXTINF:-1 tvg-id="Altice Studio-FR" tvg-name="FR: ALTICE STUDIO ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ALTICE STUDIO ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/526
+#EXTINF:-1 tvg-id="ACTION-FR" tvg-name="FR: ACTION ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: ACTION ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/527
+#EXTINF:-1 tvg-id="ACTION-FR" tvg-name="FR: ACTION" tvg-logo="" group-title="FRANCE",FR: ACTION
+http://gold4ever.io:8080/michel123/123michel/528
+#EXTINF:-1 tvg-id="TF1-FR" tvg-name="FR: WARNER TV ᴴᴰ" tvg-logo="" group-title="FRANCE",FR: WARNER TV ᴴᴰ
+http://gold4ever.io:8080/michel123/123michel/529
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER TV" tvg-logo="" group-title="FRANCE",FR: WARNER TV
+http://gold4ever.io:8080/michel123/123michel/530
 #EXTINF:-1 tvg-id="voyage.fr" tvg-name="|FR| VOYAGE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title="FRANCA",|FR| VOYAGE HD
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5488
 #EXTINF:-1 tvg-id="" tvg-name="|FR| VH1 HD" tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title="FRANCA",|FR| VH1 HD
