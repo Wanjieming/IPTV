@@ -1,4 +1,308 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR_TF1" tvg-logo="" group-title="FRANCE",FR_TF1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7025
+#EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.2" tvg-logo="" group-title="FRANCE",FR_FRANCE.2
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7026
+#EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.3" tvg-logo="" group-title="FRANCE",FR_FRANCE.3
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7027
+#EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.4" tvg-logo="" group-title="FRANCE",FR_FRANCE.4
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7028
+#EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.5" tvg-logo="" group-title="FRANCE",FR_FRANCE.5
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7029
+#EXTINF:-1 tvg-id="" tvg-name="FR_M6" tvg-logo="" group-title="FRANCE",FR_M6
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7030
+#EXTINF:-1 tvg-id="" tvg-name="FR_ARTE" tvg-logo="" group-title="FRANCE",FR_ARTE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7031
+#EXTINF:-1 tvg-id="" tvg-name="FR_C8" tvg-logo="" group-title="FRANCE",FR_C8
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7032
+#EXTINF:-1 tvg-id="" tvg-name="FR_W9" tvg-logo="" group-title="FRANCE",FR_W9
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7033
+#EXTINF:-1 tvg-id="" tvg-name="FR_TMC" tvg-logo="" group-title="FRANCE",FR_TMC
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7034
+#EXTINF:-1 tvg-id="" tvg-name="FR_TFX" tvg-logo="" group-title="FRANCE",FR_TFX
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7035
+#EXTINF:-1 tvg-id="" tvg-name="FR_NRJ12" tvg-logo="" group-title="FRANCE",FR_NRJ12
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7036
+#EXTINF:-1 tvg-id="" tvg-name="FR_CSTAR" tvg-logo="" group-title="FRANCE",FR_CSTAR
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7037
+#EXTINF:-1 tvg-id="" tvg-name="FR_GULLI" tvg-logo="" group-title="FRANCE",FR_GULLI
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7038
+#EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.O" tvg-logo="" group-title="FRANCE",FR_FRANCE.O
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7039
+#EXTINF:-1 tvg-id="" tvg-name="FR_TF1.SERIES.FILMS" tvg-logo="" group-title="FRANCE",FR_TF1.SERIES.FILMS
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7040
+#EXTINF:-1 tvg-id="" tvg-name="---●★| CINEMA |★●---" tvg-logo="" group-title="FRANCE",---●★| CINEMA |★●---
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7041
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL+" tvg-logo="" group-title="FRANCE",FR_CANAL+
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7042
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL.CINEMA" tvg-logo="" group-title="FRANCE",FR_CANAL.CINEMA
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7043
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL.DECALE" tvg-logo="" group-title="FRANCE",FR_CANAL.DECALE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7044
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL.FAMILY" tvg-logo="" group-title="FRANCE",FR_CANAL.FAMILY
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7045
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL.SERIES" tvg-logo="" group-title="FRANCE",FR_CANAL.SERIES
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7046
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.CLASSIC" tvg-logo="" group-title="FRANCE",FR_CINE.CLASSIC
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7048
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.EMOTION" tvg-logo="" group-title="FRANCE",FR_CINE.EMOTION
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7049
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.FAMIZ" tvg-logo="" group-title="FRANCE",FR_CINE.FAMIZ
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7050
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.FRISSON" tvg-logo="" group-title="FRANCE",FR_CINE.FRISSON
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7051
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.PREMIER" tvg-logo="" group-title="FRANCE",FR_CINE.PREMIER
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7052
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE+.CLUB" tvg-logo="" group-title="FRANCE",FR_CINE+.CLUB
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7053
+#EXTINF:-1 tvg-id="" tvg-name="FR_CINE.POLAR" tvg-logo="" group-title="FRANCE",FR_CINE.POLAR
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7054
+#EXTINF:-1 tvg-id="" tvg-name="FR_OCS.CHOC" tvg-logo="" group-title="FRANCE",FR_OCS.CHOC
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7055
+#EXTINF:-1 tvg-id="" tvg-name="FR_OCS.CITY" tvg-logo="" group-title="FRANCE",FR_OCS.CITY
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7056
+#EXTINF:-1 tvg-id="" tvg-name="FR_OCS.GEANTS" tvg-logo="" group-title="FRANCE",FR_OCS.GEANTS
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7057
+#EXTINF:-1 tvg-id="" tvg-name="FR_OCS.MAX" tvg-logo="" group-title="FRANCE",FR_OCS.MAX
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7058
+#EXTINF:-1 tvg-id="" tvg-name="FR_WARNER.TV" tvg-logo="" group-title="FRANCE",FR_WARNER.TV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7059
+#EXTINF:-1 tvg-id="" tvg-name="FR_13EME.RUE" tvg-logo="" group-title="FRANCE",FR_13EME.RUE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7060
+#EXTINF:-1 tvg-id="" tvg-name="FR_AB1" tvg-logo="" group-title="FRANCE",FR_AB1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7061
+#EXTINF:-1 tvg-id="" tvg-name="FR_AB3" tvg-logo="" group-title="FRANCE",FR_AB3
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7062
+#EXTINF:-1 tvg-id="" tvg-name="FR_ACTION" tvg-logo="" group-title="FRANCE",FR_ACTION
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7063
+#EXTINF:-1 tvg-id="" tvg-name="FR_COMEDIE" tvg-logo="" group-title="FRANCE",FR_COMEDIE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7064
+#EXTINF:-1 tvg-id="" tvg-name="FR_PARAMOUNT.CHANNEL" tvg-logo="" group-title="FRANCE",FR_PARAMOUNT.CHANNEL
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7065
+#EXTINF:-1 tvg-id="" tvg-name="FR_PARIS.PREMIERE" tvg-logo="" group-title="FRANCE",FR_PARIS.PREMIERE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7066
+#EXTINF:-1 tvg-id="" tvg-name="FR_RTL9" tvg-logo="" group-title="FRANCE",FR_RTL9
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7067
+#EXTINF:-1 tvg-id="" tvg-name="FR_SERIE.CLUB" tvg-logo="" group-title="FRANCE",FR_SERIE.CLUB
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7068
+#EXTINF:-1 tvg-id="" tvg-name="FR_SYFY" tvg-logo="" group-title="FRANCE",FR_SYFY
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7069
+#EXTINF:-1 tvg-id="" tvg-name="FR_TCM.CINEMA" tvg-logo="" group-title="FRANCE",FR_TCM.CINEMA
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7070
+#EXTINF:-1 tvg-id="" tvg-name="FR_TEVA" tvg-logo="" group-title="FRANCE",FR_TEVA
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7071
+#EXTINF:-1 tvg-id="" tvg-name="FR_NOLLYWOOD" tvg-logo="" group-title="FRANCE",FR_NOLLYWOOD
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7072
+#EXTINF:-1 tvg-id="" tvg-name="---●★| DECOUVERTE |★●---" tvg-logo="" group-title="FRANCE",---●★| DECOUVERTE |★●---
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7073
+#EXTINF:-1 tvg-id="" tvg-name="FR_MYCUISINE" tvg-logo="" group-title="FRANCE",FR_MYCUISINE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7074
+#EXTINF:-1 tvg-id="" tvg-name="FR_ANIMAUX" tvg-logo="" group-title="FRANCE",FR_ANIMAUX
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7075
+#EXTINF:-1 tvg-id="" tvg-name="FR_CHASSE.ET.PECHE" tvg-logo="" group-title="FRANCE",FR_CHASSE.ET.PECHE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7076
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISCOVERY" tvg-logo="" group-title="FRANCE",FR_DISCOVERY
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7077
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISCOVERY.SCIENCE" tvg-logo="" group-title="FRANCE",FR_DISCOVERY.SCIENCE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7078
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISCOVERY.FAMILY" tvg-logo="" group-title="FRANCE",FR_DISCOVERY.FAMILY
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7079
+#EXTINF:-1 tvg-id="" tvg-name="FR_NAT.GEO.WILD" tvg-logo="" group-title="FRANCE",FR_NAT.GEO.WILD
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7080
+#EXTINF:-1 tvg-id="" tvg-name="FR_NATIONAL.GEO" tvg-logo="" group-title="FRANCE",FR_NATIONAL.GEO
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7081
+#EXTINF:-1 tvg-id="" tvg-name="FR_NON.STOP.PEOPLE.SD" tvg-logo="" group-title="FRANCE",FR_NON.STOP.PEOPLE.SD
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7082
+#EXTINF:-1 tvg-id="" tvg-name="FR_PLANETE+" tvg-logo="" group-title="FRANCE",FR_PLANETE+
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7083
+#EXTINF:-1 tvg-id="" tvg-name="FR_PLANETE.CI" tvg-logo="" group-title="FRANCE",FR_PLANETE.CI
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7084
+#EXTINF:-1 tvg-id="" tvg-name="FR_PLANETE+.AE" tvg-logo="" group-title="FRANCE",FR_PLANETE+.AE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7085
+#EXTINF:-1 tvg-id="" tvg-name="FR_CRIME.DISTRICT" tvg-logo="" group-title="FRANCE",FR_CRIME.DISTRICT
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7086
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC.DECOUVERTE" tvg-logo="" group-title="FRANCE",FR_RMC.DECOUVERTE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7087
+#EXTINF:-1 tvg-id="" tvg-name="FR_SCIENCE.ET.VIE" tvg-logo="" group-title="FRANCE",FR_SCIENCE.ET.VIE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7088
+#EXTINF:-1 tvg-id="" tvg-name="FR_TOUTE L'HISTOIRE" tvg-logo="" group-title="FRANCE",FR_TOUTE L'HISTOIRE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7089
+#EXTINF:-1 tvg-id="" tvg-name="FR_TREK" tvg-logo="" group-title="FRANCE",FR_TREK
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7090
+#EXTINF:-1 tvg-id="" tvg-name="FR_SEASONS" tvg-logo="" group-title="FRANCE",FR_SEASONS
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7091
+#EXTINF:-1 tvg-id="" tvg-name="FR_USHUAIA.TV" tvg-logo="" group-title="FRANCE",FR_USHUAIA.TV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7092
+#EXTINF:-1 tvg-id="" tvg-name="FR_VOYAGE" tvg-logo="" group-title="FRANCE",FR_VOYAGE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7093
+#EXTINF:-1 tvg-id="" tvg-name="---●★| SPORT |★●---" tvg-logo="" group-title="FRANCE",---●★| SPORT |★●---
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7094
+#EXTINF:-1 tvg-id="" tvg-name="FR_CANAL.SPORT" tvg-logo="" group-title="FRANCE",FR_CANAL.SPORT
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7047
+#EXTINF:-1 tvg-id="" tvg-name="FR_BEIN.SPORTS.1" tvg-logo="" group-title="FRANCE",FR_BEIN.SPORTS.1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7095
+#EXTINF:-1 tvg-id="" tvg-name="FR_BEIN.SPORTS.2" tvg-logo="" group-title="FRANCE",FR_BEIN.SPORTS.2
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7096
+#EXTINF:-1 tvg-id="" tvg-name="FR_BEIN.SPORTS.3" tvg-logo="" group-title="FRANCE",FR_BEIN.SPORTS.3
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7097
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC.SPORT.1" tvg-logo="" group-title="FRANCE",FR_RMC.SPORT.1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7098
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC.SPORT.2" tvg-logo="" group-title="FRANCE",FR_RMC.SPORT.2
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7099
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC.SPORT.3" tvg-logo="" group-title="FRANCE",FR_RMC.SPORT.3
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7100
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC.SPORT.4" tvg-logo="" group-title="FRANCE",FR_RMC.SPORT.4
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7101
+#EXTINF:-1 tvg-id="" tvg-name="FR_EQUIDIA.LIVE" tvg-logo="" group-title="FRANCE",FR_EQUIDIA.LIVE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7102
+#EXTINF:-1 tvg-id="" tvg-name="FR_EUROSPORT.1" tvg-logo="" group-title="FRANCE",FR_EUROSPORT.1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7103
+#EXTINF:-1 tvg-id="" tvg-name="FR_EUROSPORT.2" tvg-logo="" group-title="FRANCE",FR_EUROSPORT.2
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7104
+#EXTINF:-1 tvg-id="" tvg-name="FR_FOOT24" tvg-logo="" group-title="FRANCE",FR_FOOT24
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7105
+#EXTINF:-1 tvg-id="" tvg-name="FR_INFOSPORT" tvg-logo="" group-title="FRANCE",FR_INFOSPORT
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7106
+#EXTINF:-1 tvg-id="" tvg-name="---●★| DISNEY-FR |★●---" tvg-logo="" group-title="FRANCE",---●★| DISNEY-FR |★●---
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7107
+#EXTINF:-1 tvg-id="" tvg-name="FR_TOONAMI" tvg-logo="" group-title="FRANCE",FR_TOONAMI
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7108
+#EXTINF:-1 tvg-id="" tvg-name="FR_BOOMERANG" tvg-logo="" group-title="FRANCE",FR_BOOMERANG
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7109
+#EXTINF:-1 tvg-id="" tvg-name="FR_CARTOON.NETWORK" tvg-logo="" group-title="FRANCE",FR_CARTOON.NETWORK
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7110
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY.CINEMA" tvg-logo="" group-title="FRANCE",FR_DISNEY.CINEMA
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7111
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY.CHANNEL" tvg-logo="" group-title="FRANCE",FR_DISNEY.CHANNEL
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7112
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY.JUNIOR" tvg-logo="" group-title="FRANCE",FR_DISNEY.JUNIOR
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7113
+#EXTINF:-1 tvg-id="" tvg-name="FR_Canal.J" tvg-logo="" group-title="FRANCE",FR_Canal.J
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7114
+#EXTINF:-1 tvg-id="" tvg-name="FR_DISNEY.XD" tvg-logo="" group-title="FRANCE",FR_DISNEY.XD
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7115
+#EXTINF:-1 tvg-id="" tvg-name="FR_GAME.ONE" tvg-logo="" group-title="FRANCE",FR_GAME.ONE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7116
+#EXTINF:-1 tvg-id="" tvg-name="FR_MANGA" tvg-logo="" group-title="FRANCE",FR_MANGA
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7117
+#EXTINF:-1 tvg-id="" tvg-name="FR_NICKELODEON" tvg-logo="" group-title="FRANCE",FR_NICKELODEON
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7118
+#EXTINF:-1 tvg-id="" tvg-name="FR_NICKElODEON.JUNIOR" tvg-logo="" group-title="FRANCE",FR_NICKElODEON.JUNIOR
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7119
+#EXTINF:-1 tvg-id="" tvg-name="FR_NICKELODEON.4TEEN" tvg-logo="" group-title="FRANCE",FR_NICKELODEON.4TEEN
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7120
+#EXTINF:-1 tvg-id="" tvg-name="FR_PIWI+" tvg-logo="" group-title="FRANCE",FR_PIWI+
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7121
+#EXTINF:-1 tvg-id="" tvg-name="FR_TIJI" tvg-logo="" group-title="FRANCE",FR_TIJI
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7122
+#EXTINF:-1 tvg-id="" tvg-name="FR_TELETOON" tvg-logo="" group-title="FRANCE",FR_TELETOON
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7123
+#EXTINF:-1 tvg-id="" tvg-name="FR_TELETOON+" tvg-logo="" group-title="FRANCE",FR_TELETOON+
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7124
+#EXTINF:-1 tvg-id="" tvg-name="FR_M6.MUSIC" tvg-logo="" group-title="FRANCE",FR_M6.MUSIC
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7125
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nrj Hits" tvg-logo="" group-title="FRANCE",FR: Nrj Hits
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/10089
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace.Tropical" tvg-logo="" group-title="FRANCE",FR_Trace.Tropical
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7126
+#EXTINF:-1 tvg-id="" tvg-name="FR_VH1.Classic" tvg-logo="" group-title="FRANCE",FR_VH1.Classic
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7127
+#EXTINF:-1 tvg-id="" tvg-name="FR_Brava.tv" tvg-logo="" group-title="FRANCE",FR_Brava.tv
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7128
+#EXTINF:-1 tvg-id="" tvg-name="FR_MTV.HITS" tvg-logo="" group-title="FRANCE",FR_MTV.HITS
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7129
+#EXTINF:-1 tvg-id="" tvg-name="FR_MTV.FRANCE" tvg-logo="" group-title="FRANCE",FR_MTV.FRANCE
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7130
+#EXTINF:-1 tvg-id="" tvg-name="FR_MCM.TOP" tvg-logo="" group-title="FRANCE",FR_MCM.TOP
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7131
+#EXTINF:-1 tvg-id="" tvg-name="FR_Alsace 20" tvg-logo="" group-title="FRANCE",FR_Alsace 20
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6981
+#EXTINF:-1 tvg-id="" tvg-name="FR_Bblack! Africa" tvg-logo="" group-title="FRANCE",FR_Bblack! Africa
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6982
+#EXTINF:-1 tvg-id="" tvg-name="FR_Bblack! Caribbean" tvg-logo="" group-title="FRANCE",FR_Bblack! Caribbean
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6983
+#EXTINF:-1 tvg-id="" tvg-name="FR_Bblack! Classik" tvg-logo="" group-title="FRANCE",FR_Bblack! Classik
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6984
+#EXTINF:-1 tvg-id="" tvg-name="FR_BFM Business" tvg-logo="" group-title="FRANCE",FR_BFM Business
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6985
+#EXTINF:-1 tvg-id="" tvg-name="FR_BFM Lyon" tvg-logo="" group-title="FRANCE",FR_BFM Lyon
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6986
+#EXTINF:-1 tvg-id="" tvg-name="FR_BFM Paris" tvg-logo="" group-title="FRANCE",FR_BFM Paris
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6987
+#EXTINF:-1 tvg-id="" tvg-name="FR_BipTV" tvg-logo="" group-title="FRANCE",FR_BipTV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6988
+#EXTINF:-1 tvg-id="" tvg-name="FR_Canal J" tvg-logo="" group-title="FRANCE",FR_Canal J
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6989
+#EXTINF:-1 tvg-id="" tvg-name="FR_CGTN Fran" tvg-logo="" group-title="FRANCE",FR_CGTN Fran
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6990
+#EXTINF:-1 tvg-id="" tvg-name="FR_D5TV" tvg-logo="" group-title="FRANCE",FR_D5TV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6991
+#EXTINF:-1 tvg-id="" tvg-name="FR_Ere TV" tvg-logo="" group-title="FRANCE",FR_Ere TV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6992
+#EXTINF:-1 tvg-id="" tvg-name="FR_Espace Francophone" tvg-logo="" group-title="FRANCE",FR_Espace Francophone
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6993
+#EXTINF:-1 tvg-id="" tvg-name="FR_France 24" tvg-logo="" group-title="FRANCE",FR_France 24
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6994
+#EXTINF:-1 tvg-id="" tvg-name="FR_Fashion TV 1" tvg-logo="" group-title="FRANCE",FR_Fashion TV 1
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6995
+#EXTINF:-1 tvg-id="" tvg-name="FR_Fashion TV 1 hd" tvg-logo="" group-title="FRANCE",FR_Fashion TV 1 hd
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6996
+#EXTINF:-1 tvg-id="" tvg-name="FR_Fashion TV (HD)" tvg-logo="" group-title="FRANCE",FR_Fashion TV (HD)
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6997
+#EXTINF:-1 tvg-id="" tvg-name="FR_Fashion TV (UHD)" tvg-logo="" group-title="FRANCE",FR_Fashion TV (UHD)
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6998
+#EXTINF:-1 tvg-id="" tvg-name="FR_Gong" tvg-logo="" group-title="FRANCE",FR_Gong
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/6999
+#EXTINF:-1 tvg-id="" tvg-name="FR_Gong Max" tvg-logo="" group-title="FRANCE",FR_Gong Max
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7000
+#EXTINF:-1 tvg-id="" tvg-name="FR_Grand Lille TV" tvg-logo="" group-title="FRANCE",FR_Grand Lille TV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7001
+#EXTINF:-1 tvg-id="" tvg-name="FR_i24 News" tvg-logo="" group-title="FRANCE",FR_i24 News
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7002
+#EXTINF:-1 tvg-id="" tvg-name="FR_ILTV" tvg-logo="" group-title="FRANCE",FR_ILTV
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7003
+#EXTINF:-1 tvg-id="" tvg-name="FR_La Chaine Normande" tvg-logo="" group-title="FRANCE",FR_La Chaine Normande
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7004
+#EXTINF:-1 tvg-id="" tvg-name="FR_Monaco Info" tvg-logo="" group-title="FRANCE",FR_Monaco Info
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7005
+#EXTINF:-1 tvg-id="" tvg-name="FR_RMC Info Talk Sport" tvg-logo="" group-title="FRANCE",FR_RMC Info Talk Sport
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7006
+#EXTINF:-1 tvg-id="" tvg-name="FR_Stad'Afric" tvg-logo="" group-title="FRANCE",FR_Stad'Afric
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7007
+#EXTINF:-1 tvg-id="" tvg-name="FR_Tebeo" tvg-logo="" group-title="FRANCE",FR_Tebeo
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7008
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Africa" tvg-logo="" group-title="FRANCE",FR_Trace Africa
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7009
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Gospel" tvg-logo="" group-title="FRANCE",FR_Trace Gospel
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7010
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Kitoko" tvg-logo="" group-title="FRANCE",FR_Trace Kitoko
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7011
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Mziki" tvg-logo="" group-title="FRANCE",FR_Trace Mziki
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7012
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Naija" tvg-logo="" group-title="FRANCE",FR_Trace Naija
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7013
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Toca" tvg-logo="" group-title="FRANCE",FR_Trace Toca
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7014
+#EXTINF:-1 tvg-id="" tvg-name="FR_Trace Tropical" tvg-logo="" group-title="FRANCE",FR_Trace Tropical
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7015
+#EXTINF:-1 tvg-id="" tvg-name="FR_TV3V" tvg-logo="" group-title="FRANCE",FR_TV3V
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7016
+#EXTINF:-1 tvg-id="" tvg-name="FR_TV5 Monde Info" tvg-logo="" group-title="FRANCE",FR_TV5 Monde Info
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7017
+#EXTINF:-1 tvg-id="" tvg-name="FR_TV5 Monde Maghreb-Orient" tvg-logo="" group-title="FRANCE",FR_TV5 Monde Maghreb-Orient
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7018
+#EXTINF:-1 tvg-id="" tvg-name="FR_TV7 Colmar" tvg-logo="" group-title="FRANCE",FR_TV7 Colmar
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7019
+#EXTINF:-1 tvg-id="" tvg-name="FR_TV8 Montblanc" tvg-logo="" group-title="FRANCE",FR_TV8 Montblanc
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7020
+#EXTINF:-1 tvg-id="" tvg-name="FR_TVPI" tvg-logo="" group-title="FRANCE",FR_TVPI
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7021
+#EXTINF:-1 tvg-id="" tvg-name="FR_TVR Bretagne" tvg-logo="" group-title="FRANCE",FR_TVR Bretagne
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7022
+#EXTINF:-1 tvg-id="" tvg-name="FR_viaVosges" tvg-logo="" group-title="FRANCE",FR_viaVosges
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7023
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="FRANCE",FR: Cherie 25
+http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/10526
 #EXTINF:-1 tvg-id="" tvg-name="FR: TV5 FR" tvg-logo="" group-title="★●•★●• FRANCE ●•★●•★",FR: TV5 FR
 http://3livesfree.xyz:8880/vancas/vancas/14375
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="★●•★●• FRANCE ●•★●•★",FR: TF1 HD
