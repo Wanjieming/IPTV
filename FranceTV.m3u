@@ -1,4 +1,612 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1seriesfilms.png" group-title="France",TF1 Series HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1638
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1seriesfilms.png" group-title="France",TF1 Series FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9153
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 HD" tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="France",TF1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1603
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 FHD" tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="France",TF1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8975
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1plus.png" group-title="France",TF1 +1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9152
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FRANCE 2 HD" tvg-logo="http://supertv.io:25461/logo/france2.png" group-title="France",FRANCE 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1604
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FRANCE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="France",FRANCE 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8977
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FRANCE 3 HD" tvg-logo="http://supertv.io:25461/logo/france3.png" group-title="France",FRANCE 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1605
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="France",FRANCE 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8979
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FRANCE 4 HD" tvg-logo="http://supertv.io:25461/logo/france4.png" group-title="France",FRANCE 4 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1606
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FRANCE 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="France",FRANCE 4 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8981
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FRANCE 5 HD" tvg-logo="http://supertv.io:25461/logo/france5.png" group-title="France",FRANCE 5 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1607
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="France",FRANCE 5 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8983
+#EXTINF:-1 tvg-id="France O FR" tvg-name="FRANCE Ô HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="France",FRANCE Ô HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8985
+#EXTINF:-1 tvg-id="FranceInfo FR" tvg-name="FRANCE Ô FHD" tvg-logo="http://supertv.io:25461/logo/franceo.png" group-title="France",FRANCE Ô FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1608
+#EXTINF:-1 tvg-id="France 24 FR" tvg-name="France 24" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="France",France 24
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1720
+#EXTINF:-1 tvg-id="FranceInfo FR" tvg-name="FRANCE INFO SD" tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="France",FRANCE INFO SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9214
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL9 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="France",RTL9 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1641
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="France",RTL9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9161
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 HD" tvg-logo="http://supertv.io:25461/logo/m6.png" group-title="France",M6 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1609
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/m6.png" group-title="France",M6 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8986
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="ARTE HD" tvg-logo="http://supertv.io:25461/logo/arte.png" group-title="France",ARTE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1610
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="ARTE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="France",ARTE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8996
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="C8 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="France",C8 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1611
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="C8 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="France",C8 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9154
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="France",W9 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1635
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="France",W9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9168
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6TER HD" tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="France",6TER HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1634
+#EXTINF:-1 tvg-id="" tvg-name="6TER FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="France",6TER FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8994
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="AB1 HD" tvg-logo="" group-title="France",AB1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1646
+#EXTINF:-1 tvg-id="AB 3" tvg-name="AB3 HD" tvg-logo="" group-title="France",AB3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1645
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="13EME RUE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="France",13EME RUE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1647
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="France",13EME RUE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9132
+#EXTINF:-1 tvg-id="RougeTV" tvg-name="Rouge TV" tvg-logo="https://julien-matthey.com/wp-content/uploads/2016/11/Rouge-TV-Logo-2-960x720.jpeg" group-title="France",Rouge TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1649
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIER HD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="France",PARIS PREMIER HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8869
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="PARIS PREMIERE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="France",PARIS PREMIERE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8988
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC HD" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="France",TMC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1636
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC FHD" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="France",TMC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8990
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC  1 HD" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="France",TMC  1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1637
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="France",TV BREIZH HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8867
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="TV BREIZH FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="France",TV BREIZH FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8992
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="USHUAIA TV HD" tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="France",USHUAIA TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8876
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="USHUAIA  FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="France",USHUAIA  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9187
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="France",TFX HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8871
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="France",TFX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9166
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="CANAL + SD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="France",CANAL + SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8999
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="CANAL + HD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="France",CANAL + HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1613
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="CANAL + FHD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="France",CANAL + FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8998
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="CANAL + FAMILY HD" tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="France",CANAL + FAMILY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1617
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="CANAL + FAMILY FHD" tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="France",CANAL + FAMILY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9002
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="CANAL + CINEMA HD" tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="France",CANAL + CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1614
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="CANAL + CINEMA FHD" tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="France",CANAL + CINEMA FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9004
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="CANAL + SPORT SD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="France",CANAL + SPORT SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9108
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="CANAL + SPORT HD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="France",CANAL + SPORT HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1615
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="CANAL + SPORT FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="France",CANAL + SPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9104
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="CANAL + SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="France",CANAL + SERIES HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1616
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="CANAL + SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="France",CANAL + SERIES FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9131
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="CANAL + DECALE HD" tvg-logo="http://x.iptv-pure.com/canalplusdecale.png" group-title="France",CANAL + DECALE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1618
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="CANAL + DECALE FHD" tvg-logo="http://x.iptv-pure.com/canalplusdecale.png" group-title="France",CANAL + DECALE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9000
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ12 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="France",NRJ12 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9145
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ12 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="France",NRJ12 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9144
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="DISNEY XD HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="France",DISNEY XD HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1677
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="DISNEY XD FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="France",DISNEY XD FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9246
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="France",DISNEY JUNIOR HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1678
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="France",DISNEY JUNIOR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9247
+#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="DISNEY CINEMA HD" tvg-logo="" group-title="France",DISNEY CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1679
+#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="DISNEY CINEMA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneycinema.png" group-title="France",DISNEY CINEMA FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9248
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="France",DISNEY CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1680
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="France",DISNEY CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9243
+#EXTINF:-1 tvg-id="Disney Channel Plus1 FR" tvg-name="DISNEY CHANNEL +1  FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannelplus1.png" group-title="France",DISNEY CHANNEL +1  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9245
+#EXTINF:-1 tvg-id="TIJI FR" tvg-name="TIJI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="France",TIJI HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1682
+#EXTINF:-1 tvg-id="TIJI FR" tvg-name="TIJI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="France",TIJI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9260
+#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="PIWI  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="France",PIWI  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1683
+#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="PIWI+ FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="France",PIWI+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9257
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="NICKELODEON HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="France",NICKELODEON HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1685
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="NICKELODEON FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="France",NICKELODEON FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9255
+#EXTINF:-1 tvg-id="Nickelodeon Plus1 FR" tvg-name="NICKELODEON+1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjuniorplus1.png" group-title="France",NICKELODEON+1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9249
+#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="France",NICKELODEON JUNIOR HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9251
+#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="NICKELODEON JUNIOR FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="France",NICKELODEON JUNIOR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9250
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4 TEEN FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon4teen.png" group-title="France",NICKELODEON 4 TEEN FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9252
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="BOOMERANG HD" tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="France",BOOMERANG HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8205
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="BOOMERANG FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="France",BOOMERANG FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9261
+#EXTINF:-1 tvg-id="Mangas FR" tvg-name="MANGAS HD" tvg-logo="" group-title="France",MANGAS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1688
+#EXTINF:-1 tvg-id="" tvg-name="BOING HD" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="France",BOING HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1694
+#EXTINF:-1 tvg-id="" tvg-name="BOING FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="France",BOING FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9262
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J HD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="France",Canal J HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8858
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="CANAL J FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="France",CANAL J FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9259
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="TOONAMI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="France",TOONAMI HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1681
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="TOONAMI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="France",TOONAMI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9253
+#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TELETOON+ HD" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="France",TELETOON+ HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1729
+#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TELETOON+ FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="France",TELETOON+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9254
+#EXTINF:-1 tvg-id="TeleToonPlus Plus1 FR" tvg-name="TELETOON+1" tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="France",TELETOON+1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9256
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="France",CARTOON NETWORK FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9263
+#EXTINF:-1 tvg-id="Game One FR" tvg-name="GAME ONE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="France",GAME ONE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9264
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="J ONE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/jone.png" group-title="France",J ONE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9267
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="GULLI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/gulli.png" group-title="France",GULLI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9268
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG (LIVE)" tvg-logo="https://pbs.twimg.com/profile_images/922177599278784512/AVnpgYog_400x400.jpg" group-title="France",PEPPA PIG (LIVE)
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9274
+#EXTINF:-1 tvg-id="" tvg-name="DORA L'EXPLORATRICE (LIVE )" tvg-logo="https://d3ofq03apmfb8c.cloudfront.net/data/avatars/m/10/10088.jpg?1339212337" group-title="France",DORA L'EXPLORATRICE (LIVE )
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9275
+#EXTINF:-1 tvg-id="" tvg-name="TOM AND JERRY" tvg-logo="https://orig00.deviantart.net/bdd2/f/2017/345/c/b/tom_and_jerry_folder_icon_v1_by_alexartchanimte7-dbwgnwb.png" group-title="France",TOM AND JERRY
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9277
+#EXTINF:-1 tvg-id="" tvg-name="MASHA ET MICHKA (LIVE )" tvg-logo="https://lh3.googleusercontent.com/4v2HARgzYQjCK18bgbgjyXsGKY4ThhkdrDngQboHQdMES7SVRgflraP9dNRUFEZ2LlQ=s256" group-title="France",MASHA ET MICHKA (LIVE )
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9278
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="OCS GEANTS HD" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="France",OCS GEANTS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1628
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="OCS GEANTS FHD" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="France",OCS GEANTS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9008
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="OCS CITY HD" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="France",OCS CITY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1629
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="OCS CITY FHD" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="France",OCS CITY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9010
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="OCS CHOC HD" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="France",OCS CHOC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1630
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="OCS CHOC FHD" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="France",OCS CHOC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9012
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="OCS MAX HD" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="France",OCS MAX HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8861
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="OCS MAX FHD" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="France",OCS MAX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9006
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="CINE+ PREMIER HD" tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="France",CINE+ PREMIER HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9015
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="CINE+ PREMIER FHD" tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="France",CINE+ PREMIER FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9014
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="CINE+ FRISSON HD" tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="France",CINE+ FRISSON HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9017
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="CINE+ FRISSON FHD" tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="France",CINE+ FRISSON FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9016
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="CINE+ FAMIZ HD" tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="France",CINE+ FAMIZ HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9019
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="CINE+ FAMIZ FHD" tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="France",CINE+ FAMIZ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9018
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="CINE+ EMOTION HD" tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="France",CINE+ EMOTION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9021
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="CINE+ EMOTION FHD" tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="France",CINE+ EMOTION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9020
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="CINE+ CLUB HD" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="France",CINE+ CLUB HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9023
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="CINE+ CLUB FHD" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="France",CINE+ CLUB FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9022
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="CINE+ CLASSIC HD" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="France",CINE+ CLASSIC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9031
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="CINE+ CLASSIC FHD" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="France",CINE+ CLASSIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9030
+#EXTINF:-1 tvg-id="Action FR" tvg-name="ACTION HD" tvg-logo="http://f.iptv-pure.com/action.png" group-title="France",ACTION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1631
+#EXTINF:-1 tvg-id="" tvg-name="ACTION FHD" tvg-logo="http://f.iptv-pure.com/action.png" group-title="France",ACTION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9024
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="France",WARNER TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8860
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="France",WARNER TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9026
+#EXTINF:-1 tvg-id="Cine Polar FR" tvg-name="POLAR+  HD" tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="France",POLAR+  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1626
+#EXTINF:-1 tvg-id="Cine Polar FR" tvg-name="POLAR+  FHD" tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="France",POLAR+  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9027
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="TCM CINEMA HD" tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="France",TCM CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9029
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="TCM CINEMA FHD" tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="France",TCM CINEMA FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9028
+#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="ALTICE STUDIO FHD" tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="France",ALTICE STUDIO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9032
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="France",PARAMOUNT CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1632
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="France",PARAMOUNT CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9033
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="France",PARAMOUNT DECALE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8862
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE FHD" tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="France",PARAMOUNT DECALE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9035
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="COMEDIE PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="France",COMEDIE PLUS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8859
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="COMEDIE PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="France",COMEDIE PLUS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1644
+#EXTINF:-1 tvg-id="serieclub FR" tvg-name="SERIE CLUB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="France",SERIE CLUB HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8863
+#EXTINF:-1 tvg-id="serieclub FR" tvg-name="SERIE CLUB FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="France",SERIE CLUB FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9130
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="France",CRIME DISTRICT HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1642
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="CRIME DISTRICT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="France",CRIME DISTRICT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9197
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="France",COMEDY CENTRAL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1643
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 1" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9036
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 2" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9037
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 3" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9038
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9039
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9040
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 6" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9041
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 7" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9042
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 8" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9043
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 9" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 9
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9044
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 10" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 10
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9045
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 11" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 11
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9046
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 12" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 12
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9047
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 13" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 13
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9048
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 14" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 14
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9049
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 15" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 15
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9050
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 16" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="France",CANALPLAY 16
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9051
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE (S" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE (S
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9052
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 1" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9053
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 2" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9054
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 3" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9055
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 4" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9056
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 5" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9057
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 6" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9058
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 7" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9059
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 8" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="France",ORANGE CINE 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9060
+#EXTINF:-1 tvg-id="Syfy HD FR" tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="France",SYFY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9133
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/250px-SundanceTV.svg.png" group-title="France",SUNDANCE TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9134
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS FHD" tvg-logo="https://www.n9ws.com/images/upload/rmcsport-040718101703.png" group-title="France",RMC SPORT NEWS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9071
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT 1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="France",RMC SPORT 1 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9073
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="France",RMC SPORT 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1652
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="France",RMC SPORT 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9072
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC SPORT 2 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="France",RMC SPORT 2 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9075
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC SPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="France",RMC SPORT 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1653
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC SPORT 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="France",RMC SPORT 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9074
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC SPORT 3 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="France",RMC SPORT 3 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9077
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC SPORT 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="France",RMC SPORT 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1654
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC SPORT 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="France",RMC SPORT 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9076
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="RMC SPORT 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="France",RMC SPORT 4 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1655
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="RMC SPORT 4 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="France",RMC SPORT 4 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9078
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive5.png" group-title="France",RMC SPORT LIVE 5 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9079
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive6.png" group-title="France",RMC SPORT LIVE 6 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9080
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive7.png" group-title="France",RMC SPORT LIVE 7 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9081
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive8.png" group-title="France",RMC SPORT LIVE 8 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9082
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive9.png" group-title="France",RMC SPORT LIVE 9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9083
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive10.png" group-title="France",RMC SPORT LIVE 10 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9084
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 11 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive11.png" group-title="France",RMC SPORT LIVE 11 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9085
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive12.png" group-title="France",RMC SPORT LIVE 12 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9086
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 13 FHD" tvg-logo="" group-title="France",RMC SPORT LIVE 13 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9087
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 14 FHD" tvg-logo="" group-title="France",RMC SPORT LIVE 14 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9088
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 15 FHD" tvg-logo="" group-title="France",RMC SPORT LIVE 15 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9089
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16 FHD" tvg-logo="" group-title="France",RMC SPORT LIVE 16 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9090
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="France",RMC DECOUVERTE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1664
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC DECOUVERTE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="France",RMC DECOUVERTE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9190
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="France",RMC STORY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1665
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="France",RMC STORY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9164
+#EXTINF:-1 tvg-id="" tvg-name="RMC Info Talk Sport" tvg-logo="https://i.imgur.com/AAa56m6.png" group-title="France",RMC Info Talk Sport
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1726
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="BEINSPORTS 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="France",BEINSPORTS 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1656
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="BEINSPORTS 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="France",BEINSPORTS 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9091
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="BEINSPORTS 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="France",BEINSPORTS 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1657
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="BEINSPORTS 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="France",BEINSPORTS 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9093
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="BEINSPORT 3 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="France",BEINSPORT 3 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9096
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="BEINSPORTS 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="France",BEINSPORTS 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1658
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="BEINSPORTS 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="France",BEINSPORTS 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9095
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="BEINSPORT MAX 4" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax4.png" group-title="France",BEINSPORT MAX 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9097
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="BEINSPORT MAX 5" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax5.png" group-title="France",BEINSPORT MAX 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9098
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="BEINSPORT MAX 6" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax6.png" group-title="France",BEINSPORT MAX 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9099
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="BEINSPORT MAX 7" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax7.png" group-title="France",BEINSPORT MAX 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9100
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="BEINSPORT MAX 8" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax8.png" group-title="France",BEINSPORT MAX 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9101
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="BEINSPORT MAX 9" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax9.png" group-title="France",BEINSPORT MAX 9
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9102
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="France",EUROSPORT 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1659
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="France",EUROSPORT 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9124
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="France",EUROSPORT 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1660
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="France",EUROSPORT 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9125
+#EXTINF:-1 tvg-id="Auto Motor Sport BG" tvg-name="AUTOMOTO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/abmoteurs.png" group-title="France",AUTOMOTO HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1695
+#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FOOT  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/140px-Foot%2B_2011.svg.png" group-title="France",FOOT  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1692
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="INFOSPORT  HD" tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="France",INFOSPORT  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1661
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="INFOSPORT FHD" tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="France",INFOSPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9118
+#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FOOT+24 SD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_CanalSatFoot_fr.jpg" group-title="France",FOOT+24 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9107
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="France",MULTISPORTS 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9110
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="France",MULTISPORTS 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9111
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="France",MULTISPORTS 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9112
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="France",MULTISPORTS 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9113
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="http://logo.premium-ott.com:8000/logo/multisports5.png" group-title="France",MULTISPORTS 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9114
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" tvg-logo="http://logo.premium-ott.com:8000/logo/multisports6.png" group-title="France",MULTISPORTS 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9115
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="France",NBA TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9116
+#EXTINF:-1 tvg-id="BFM Sport FR" tvg-name="BFM SPORT FHD" tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="France",BFM SPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9117
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="LEQUIPE 21 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="France",LEQUIPE 21 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9119
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS" tvg-logo="http://logo.premium-ott.com:8000/logo/extremesports.png" group-title="France",EXTREME SPORTS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9122
+#EXTINF:-1 tvg-id="" tvg-name="MOTORSPORT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Motorsport.tv_Logo.png/280px-Motorsport.tv_Logo.png" group-title="France",MOTORSPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9123
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="EQUIDIA LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Equidia_Live_2011.gif" group-title="France",EQUIDIA LIVE
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9127
+#EXTINF:-1 tvg-id="GolfPlus FR" tvg-name="GOLF+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/150px-Golf%2B.svg.png" group-title="France",GOLF+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9128
+#EXTINF:-1 tvg-id="Golf Channel FR" tvg-name="GOLF CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Golf_Channel_2014.png/200px-Logo_Golf_Channel_2014.png" group-title="France",GOLF CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9129
+#EXTINF:-1 tvg-id="" tvg-name="Trace Kitoko" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="France",Trace Kitoko
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1731
+#EXTINF:-1 tvg-id="" tvg-name="Trace Mziki" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="France",Trace Mziki
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1732
+#EXTINF:-1 tvg-id="" tvg-name="Trace Naija" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="France",Trace Naija
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1733
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="France",Trace Tropical
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1734
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="Trace Urbain" tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="France",Trace Urbain
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9219
+#EXTINF:-1 tvg-id="Trace Africa FR" tvg-name="Trace Africa" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="France",Trace Africa
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1730
+#EXTINF:-1 tvg-id="" tvg-name="RT FRANCE FHD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDeU9nBYHqaRKqVIhN9vkxkz__DDKrSgVQzGw=s288-mo-c-c0xffffffff-rj-k-no" group-title="France",RT FRANCE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9217
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="M6 MUSIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/190px-M6_Music_2012.png" group-title="France",M6 MUSIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9218
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_gospel-1.png/280px-Logo_gospel-1.png" group-title="France",MTV LIVE
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9221
+#EXTINF:-1 tvg-id="MTV HD FR" tvg-name="MTV HD" tvg-logo="http://iptv.magikserv.com/picons/FR/mtvhd.png" group-title="France",MTV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8864
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="France",MTV HITS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9242
+#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM TOP FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcmtop.png" group-title="France",MCM TOP FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9232
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rfmtv.png" group-title="France",RFM TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9233
+#EXTINF:-1 tvg-id="NRJ Hits FR" tvg-name="NRJ HITS" tvg-logo="http://logo.premium-ott.com:8000/logo/nrjhits.png" group-title="France",NRJ HITS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9234
+#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="MEZZO LIVE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mezzolive.png" group-title="France",MEZZO LIVE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9235
+#EXTINF:-1 tvg-id="Melody FR" tvg-name="MELODY TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/melody.png" group-title="France",MELODY TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9238
+#EXTINF:-1 tvg-id="Canal Star FR" tvg-name="CSTAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="France",CSTAR HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8872
+#EXTINF:-1 tvg-id="Canal Star FR" tvg-name="CSTAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="France",CSTAR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9156
+#EXTINF:-1 tvg-id="" tvg-name="TV3V" tvg-logo="https://i.imgur.com/0wgzN59.png" group-title="France",TV3V
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1735
+#EXTINF:-1 tvg-id="" tvg-name="L'EQUIPE MOTEUR" tvg-logo="" group-title="France",L'EQUIPE MOTEUR
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1662
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="HISTOIRE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="France",HISTOIRE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9199
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="TOUTE L'HISTOIRE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/toutelhistoire.png" group-title="France",TOUTE L'HISTOIRE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9200
+#EXTINF:-1 tvg-id="My Cuisine FR" tvg-name="MY CUISINE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mycuisine.png" group-title="France",MY CUISINE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9139
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="PLANETE+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/120px-PlanetePlus_2011.svg.png" group-title="France",PLANETE+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9176
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="PLANETE+ CI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="France",PLANETE+ CI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9177
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="PLANETE+  A&E SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="France",PLANETE+  A&E SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9808
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="PLANETE+  A&E HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="France",PLANETE+  A&E HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9809
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="PLANETE+ A&E FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusaande.png" group-title="France",PLANETE+ A&E FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9178
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="France",DISCOVERY CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1672
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="DISCOVERY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="France",DISCOVERY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9179
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="France",DISCOVERY SCIENCE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8874
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="France",DISCOVERY SCIENCE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9180
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="France",DISCOVERY INVESTIGATION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1670
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="France",DISCOVERY INVESTIGATION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9181
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="France",DISCOVERY FAMILY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1671
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="France",DISCOVERY FAMILY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9182
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="SCIENCES & VIE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/scienceetvie.png" group-title="France",SCIENCES & VIE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9185
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="France",NATIONAL GEOGRAPHIC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1668
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="France",NAT GEO WILD HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1669
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="NAT GEO WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="France",NAT GEO WILD FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9183
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="NATIONAL GEOGRAFIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="France",NATIONAL GEOGRAFIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9184
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="ANIMAUX FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/animaux.png" group-title="France",ANIMAUX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9186
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcm.png" group-title="France",MCM HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1687
+#EXTINF:-1 tvg-id="" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/3SPiQ7U.png" group-title="France",BFM Lyon
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1702
+#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFM TV HD" tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="France",BFM TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/7358
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM BUISINESS" tvg-logo="http://logo.premium-ott.com:8000/logo/bfmbusiness.png" group-title="France",BFM BUISINESS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9207
+#EXTINF:-1 tvg-id="" tvg-name="BipTV" tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="France",BipTV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1704
+#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="France",D5TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1706
+#EXTINF:-1 tvg-id="" tvg-name="Espace Francophone" tvg-logo="https://i.imgur.com/sdF6uxL.png" group-title="France",Espace Francophone
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1719
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV UHD" tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="France",Fashion TV UHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1721
+#EXTINF:-1 tvg-id="" tvg-name="Grand Lille TV" tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/09/logo-gltv-w.png" group-title="France",Grand Lille TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1723
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5 Monde Info
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1736
+#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="TV5 MONDE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/220px-TV5MONDE_logo.png" group-title="France",TV5 MONDE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9149
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="https://i.imgur.com/pZluyZ0.png" group-title="France",TV7 Colmar
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1738
+#EXTINF:-1 tvg-id="" tvg-name="ILTV" tvg-logo="https://i.imgur.com/yDdOr52.png" group-title="France",ILTV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1724
+#EXTINF:-1 tvg-id="Tebeo" tvg-name="Tebeo" tvg-logo="https://i.imgur.com/JkBlOjq.png" group-title="France",Tebeo
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1728
+#EXTINF:-1 tvg-id="E! FR" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="France",E! ENTERTAINMENT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9140
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="BET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png" group-title="France",BET FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9147
+#EXTINF:-1 tvg-id="Viceland FR" tvg-name="VICELAND FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Viceland_Logo.png/200px-Viceland_Logo.png" group-title="France",VICELAND FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9148
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="CHERIE 25 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="France",CHERIE 25 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9150
+#EXTINF:-1 tvg-id="Weo TV FR" tvg-name="WEO FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/weo.png" group-title="France",WEO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9159
+#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 MONT BLANC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/8_Mont-Blanc_logo_2013.png/150px-8_Mont-Blanc_logo_2013.png" group-title="France",TV8 MONT BLANC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9160
+#EXTINF:-1 tvg-id="" tvg-name="LUXE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/200px-Luxe_TV_Logo.svg.png" group-title="France",LUXE TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9170
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="VOYAGE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/voyage.png" group-title="France",VOYAGE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9192
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="CHASSE ET PECHE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="France",CHASSE ET PECHE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1673
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="CHASSE ET PECHE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="France",CHASSE ET PECHE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9194
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="France",LA CHAINE METEO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9202
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="EURONEWS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="France",EURONEWS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9203
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lci.png" group-title="France",LCI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9208
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="France",LCP FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9210
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP100%" tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="France",LCP100%
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9212
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS SD" tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="France",CNEWS SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9213
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="FRANCE",FR: TF1 HD
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/854
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="FRANCE",FR: TF1 +1
