@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM", Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Ben Tre TV
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",BPTV 1
+http://118.69.197.145/hls/bptv1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Da Nang TV 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Quang Nam TV
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",SET TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",VBS TV 57.6 (US) (Opt-1)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",VBS TV 57.6 (US) (Opt-2)
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lU2lhKO.png" group-title="VIETNAM",VNA TV 57.3 (US)
+http://livestream.vnvn.net/vnatv573.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", AnGiangTV
 http://vietcago.net/vstv/angiangtv1.m3u8
 
