@@ -1,4 +1,332 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="ᶠᴿ˸ TF1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TF1.png" group-title="FRANÇA",ᶠᴿ˸ TF1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33278
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="ᶠᴿ˸ TF1 +1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TF1.png" group-title="FRANÇA",ᶠᴿ˸ TF1 +1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33279
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="ᶠᴿ˸ France 2 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/FRANCE2_WHITE.png" group-title="FRANÇA",ᶠᴿ˸ France 2 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33348
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="ᶠᴿ˸ France 3 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/FRANCE3_WHITE.png" group-title="FRANÇA",ᶠᴿ˸ France 3 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33346
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="ᶠᴿ˸ France 4 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/FRANCE4_WHITE.png" group-title="FRANÇA",ᶠᴿ˸ France 4 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33345
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="ᶠᴿ˸ France 5 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/FRANCE5_WHITE.png" group-title="FRANÇA",ᶠᴿ˸ France 5 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33344
+#EXTINF:-1 tvg-id="France O FR" tvg-name="ᶠᴿ˸ France Ô ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/FRANCE_Ô_WHITE.png" group-title="FRANÇA",ᶠᴿ˸ France Ô ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33343
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="ᶠᴿ˸ M6 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/M6_HD.png" group-title="FRANÇA",ᶠᴿ˸ M6 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33323
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ᶠᴿ˸ Arte ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ARTE_HD.png" group-title="FRANÇA",ᶠᴿ˸ Arte ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33406
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="ᶠᴿ˸ Canal+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CANAL+_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33384
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="ᶠᴿ˸ Canal+ Cinéma ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CANAL+_CINEMA_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ Cinéma ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33387
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="ᶠᴿ˸ Canal+ Sport ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Canal+_Sport_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ Sport ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33382
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="ᶠᴿ˸ Canal+ Séries ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CANAL+_SERIES_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ Séries ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33383
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="ᶠᴿ˸ Canal+ Family ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Canal+_Family_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ Family ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33385
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="ᶠᴿ˸ Canal+ Décalé ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CANAL+_DECALE_HD.png" group-title="FRANÇA",ᶠᴿ˸ Canal+ Décalé ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33386
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="ᶠᴿ˸ Ciné+ Premier ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CINE+_PREMIER_HD.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Premier ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33371
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="ᶠᴿ˸ Ciné+ Frisson ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CINE+_FRISSON_HD.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Frisson ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33372
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="ᶠᴿ˸ Ciné+ Émotion ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CINE+_EMOTION_HD.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Émotion ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33376
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="ᶠᴿ˸ Ciné+ Famiz ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CINE+_FAMIZ.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Famiz ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33373
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="ᶠᴿ˸ Ciné+ Club ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CINE+_CLUB.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Club ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33374
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="ᶠᴿ˸ Ciné+ Classic ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Cine+_Classic.png" group-title="FRANÇA",ᶠᴿ˸ Ciné+ Classic ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33375
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="ᶠᴿ˸ OCS Max ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/OCS_Max_HD.png" group-title="FRANÇA",ᶠᴿ˸ OCS Max ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33304
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="ᶠᴿ˸ OCS City ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/OCS_City_HD.png" group-title="FRANÇA",ᶠᴿ˸ OCS City ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33306
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="ᶠᴿ˸ OCS Choc ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/OCS_Choc_HD.png" group-title="FRANÇA",ᶠᴿ˸ OCS Choc ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33307
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="ᶠᴿ˸ OCS Géants ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/OCS_Geants_HD.png" group-title="FRANÇA",ᶠᴿ˸ OCS Géants ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33305
+#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="ᶠᴿ˸ Altice Studio ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ALTICE_STUDIO.png" group-title="FRANÇA",ᶠᴿ˸ Altice Studio ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33409
+#EXTINF:-1 tvg-id="DisneyMagic.fr" tvg-name="ᶠᴿ˸ Disney Cinéma ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DisneyCinema.png" group-title="FRANÇA",ᶠᴿ˸ Disney Cinéma ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33360
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="ᶠᴿ˸ TCM Cinema ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TCM_Cinema.png" group-title="FRANÇA",ᶠᴿ˸ TCM Cinema ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33280
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="ᶠᴿ˸ Paramount Channel ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Paramount_Channel.png" group-title="FRANÇA",ᶠᴿ˸ Paramount Channel ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33302
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="ᶠᴿ˸ Paramount Channel Décalé ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Paramount_Decale.png" group-title="FRANÇA",ᶠᴿ˸ Paramount Channel Décalé ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33303
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ᶠᴿ˸ Action ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ACTION.png" group-title="FRANÇA",ᶠᴿ˸ Action ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33410
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="ᶠᴿ˸ Polar+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Polar+.png" group-title="FRANÇA",ᶠᴿ˸ Polar+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33296
+#EXTINF:-1 tvg-id="Crime District FR" tvg-name="ᶠᴿ˸ Crime District ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CrimeDistrict.png" group-title="FRANÇA",ᶠᴿ˸ Crime District ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33367
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="ᶠᴿ˸ Comédie+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Comedie+.png" group-title="FRANÇA",ᶠᴿ˸ Comédie+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33369
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="ᶠᴿ˸ Comedy Central ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ComedyCentral.png" group-title="FRANÇA",ᶠᴿ˸ Comedy Central ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33368
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="ᶠᴿ˸ 13ème Rue ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/13EME_RUE.png" group-title="FRANÇA",ᶠᴿ˸ 13ème Rue ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33415
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="ᶠᴿ˸ Syfy ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/SYFY.png" group-title="FRANÇA",ᶠᴿ˸ Syfy ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33283
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="ᶠᴿ˸ Warner Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/WB_TV.png" group-title="FRANÇA",ᶠᴿ˸ Warner Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33257
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="ᶠᴿ˸ SerieClub ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Serie_club_hd.png" group-title="FRANÇA",ᶠᴿ˸ SerieClub ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33284
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="ᶠᴿ˸ MTV ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MTV.png" group-title="FRANÇA",ᶠᴿ˸ MTV ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33317
+#EXTINF:-1 tvg-id="ELLEGirl.fr" tvg-name="ᶠᴿ˸ Elle Girl ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ElleGirlTV.png" group-title="FRANÇA",ᶠᴿ˸ Elle Girl ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33356
+#EXTINF:-1 tvg-id="E! FR" tvg-name="ᶠᴿ˸ E! Entertainment ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/E!_HD.png" group-title="FRANÇA",ᶠᴿ˸ E! Entertainment ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33357
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="ᶠᴿ˸ MCM ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MCM.png" group-title="FRANÇA",ᶠᴿ˸ MCM ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33320
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="ᶠᴿ˸ Game ONE ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Game_One.png" group-title="FRANÇA",ᶠᴿ˸ Game ONE ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33340
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Game ONE +1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Game_One_+1.png" group-title="FRANÇA",ᶠᴿ˸ Game ONE +1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33341
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="ᶠᴿ˸ J-ONE ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/J_ONE.png" group-title="FRANÇA",ᶠᴿ˸ J-ONE ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33330
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="ᶠᴿ˸ Mangas ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Mangas.png" group-title="FRANÇA",ᶠᴿ˸ Mangas ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33321
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="ᶠᴿ˸ AB1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB1.png" group-title="FRANÇA",ᶠᴿ˸ AB1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33413
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="ᶠᴿ˸ AB3 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB3.png" group-title="FRANÇA",ᶠᴿ˸ AB3 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33412
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="ᶠᴿ˸ Tv Breizh ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TV_Breizh_HD.png" group-title="FRANÇA",ᶠᴿ˸ Tv Breizh ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33263
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="ᶠᴿ˸ Téva ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Teva_HD.png" group-title="FRANÇA",ᶠᴿ˸ Téva ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33281
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="ᶠᴿ˸ Paris Première ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Paris_Premiere_HD.png" group-title="FRANÇA",ᶠᴿ˸ Paris Première ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33301
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="ᶠᴿ˸ RTL9 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RTL9.png" group-title="FRANÇA",ᶠᴿ˸ RTL9 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33287
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="ᶠᴿ˸ BET ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Bet.png" group-title="FRANÇA",ᶠᴿ˸ BET ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33395
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="ᶠᴿ˸ C8 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/C8.png" group-title="FRANÇA",ᶠᴿ˸ C8 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33388
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="ᶠᴿ˸ W9 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/W9.png" group-title="FRANÇA",ᶠᴿ˸ W9 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33258
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="ᶠᴿ˸ TMC ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TMC.png" group-title="FRANÇA",ᶠᴿ˸ TMC ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33273
+#EXTINF:-1 tvg-id="TMCplus1.fr" tvg-name="ᶠᴿ˸ TMC +1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TMC+1.png" group-title="FRANÇA",ᶠᴿ˸ TMC +1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33274
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="ᶠᴿ˸ TFX ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TFX.png" group-title="FRANÇA",ᶠᴿ˸ TFX ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33276
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="ᶠᴿ˸ NRJ12 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NRJ12_HD.png" group-title="FRANÇA",ᶠᴿ˸ NRJ12 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33308
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="ᶠᴿ˸ CStar ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CStar.png" group-title="FRANÇA",ᶠᴿ˸ CStar ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33366
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="ᶠᴿ˸ TF1 Serie Film ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TF1_SeriesFilms.png" group-title="FRANÇA",ᶠᴿ˸ TF1 Serie Film ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33277
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="ᶠᴿ˸ 6TER ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/6TER.png" group-title="FRANÇA",ᶠᴿ˸ 6TER ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33414
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="ᶠᴿ˸ RMC Story ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Story.png" group-title="FRANÇA",ᶠᴿ˸ RMC Story ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33288
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="ᶠᴿ˸ Chérie 25 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Cherie25.png" group-title="FRANÇA",ᶠᴿ˸ Chérie 25 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33377
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Lucky Jack ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Lucky_Jack_TV.png" group-title="FRANÇA",ᶠᴿ˸ Lucky Jack ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33325
+#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="ᶠᴿ˸ Tv5 Monde ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TV5Monde.png" group-title="FRANÇA",ᶠᴿ˸ Tv5 Monde ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33262
+#EXTINF:-1 tvg-id="ABXplore.be" tvg-name="ᶠᴿ˸ ABXplore ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ABXPLORE.png" group-title="FRANÇA",ᶠᴿ˸ ABXplore ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33411
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="ᶠᴿ˸ Planète+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Planete+_HD.png" group-title="FRANÇA",ᶠᴿ˸ Planète+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33297
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="ᶠᴿ˸ Planète+ CI ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Planete+_CI.png" group-title="FRANÇA",ᶠᴿ˸ Planète+ CI ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33298
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="ᶠᴿ˸ Planète+ A&E ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Planete+_A&E.png" group-title="FRANÇA",ᶠᴿ˸ Planète+ A&E ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33299
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="ᶠᴿ˸ National Geographic ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NationalGeographicChannel_HD.png" group-title="FRANÇA",ᶠᴿ˸ National Geographic ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33313
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="ᶠᴿ˸ Nat Geo Wild ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NatGeoWild_HD.png" group-title="FRANÇA",ᶠᴿ˸ Nat Geo Wild ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33314
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="ᶠᴿ˸ Discovery Channel ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DiscoveryChannelHD.png" group-title="FRANÇA",ᶠᴿ˸ Discovery Channel ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33365
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="ᶠᴿ˸ Discovery Science ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DiscoveryScience.png" group-title="FRANÇA",ᶠᴿ˸ Discovery Science ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33362
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="ᶠᴿ˸ Discovery Family ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DiscoveryFamily.png" group-title="FRANÇA",ᶠᴿ˸ Discovery Family ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33364
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="ᶠᴿ˸ Discovery Investigation ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DiscoveryInvestigation.png" group-title="FRANÇA",ᶠᴿ˸ Discovery Investigation ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33363
+#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="ᶠᴿ˸ My Cuisine ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MyCuisine.png" group-title="FRANÇA",ᶠᴿ˸ My Cuisine ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33315
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="ᶠᴿ˸ Voyage ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/VOYAGE.png" group-title="FRANÇA",ᶠᴿ˸ Voyage ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33259
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="ᶠᴿ˸ Ushuaia Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Ushuaia_TV.png" group-title="FRANÇA",ᶠᴿ˸ Ushuaia Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33261
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="ᶠᴿ˸ Histoire ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Histoire.png" group-title="FRANÇA",ᶠᴿ˸ Histoire ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33333
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="ᶠᴿ˸ Toute L'Histoire ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Toute_L`Histoire.png" group-title="FRANÇA",ᶠᴿ˸ Toute L'Histoire ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33271
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="ᶠᴿ˸ Science Et Vie ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Science&Vie.png" group-title="FRANÇA",ᶠᴿ˸ Science Et Vie ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33286
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ᶠᴿ˸ Animaux ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ANIMAUX.png" group-title="FRANÇA",ᶠᴿ˸ Animaux ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33408
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="ᶠᴿ˸ Trek ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trek.png" group-title="FRANÇA",ᶠᴿ˸ Trek ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33264
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="ᶠᴿ˸ Seasons ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Seasons.png" group-title="FRANÇA",ᶠᴿ˸ Seasons ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33285
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="ᶠᴿ˸ Chasse & Pêche ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Chasse&Peche.png" group-title="FRANÇA",ᶠᴿ˸ Chasse & Pêche ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33378
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="ᶠᴿ˸ RMC Découverte ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Decouverte_HD24.png" group-title="FRANÇA",ᶠᴿ˸ RMC Découverte ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33294
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Luxe Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Luxe_TV.png" group-title="FRANÇA",ᶠᴿ˸ Luxe Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33324
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Fashion Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Fashiontv.png" group-title="FRANÇA",ᶠᴿ˸ Fashion Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33350
+#EXTINF:-1 tvg-id="Canal News FR" tvg-name="ᶠᴿ˸ CNews ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CNews.png" group-title="FRANÇA",ᶠᴿ˸ CNews ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33370
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="ᶠᴿ˸ BFM Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BFM_TV.png" group-title="FRANÇA",ᶠᴿ˸ BFM Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33392
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="ᶠᴿ˸ LCI ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/LCI_HD.png" group-title="FRANÇA",ᶠᴿ˸ LCI ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33327
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="ᶠᴿ˸ France Info ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Franceinfo.png" group-title="FRANÇA",ᶠᴿ˸ France Info ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33342
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="ᶠᴿ˸ Euronews ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Euronews.png" group-title="FRANÇA",ᶠᴿ˸ Euronews ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33353
+#EXTINF:-1 tvg-id="France 24 FR" tvg-name="ᶠᴿ˸ France 24 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/France24.png" group-title="FRANÇA",ᶠᴿ˸ France 24 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33347
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="ᶠᴿ˸ LCP ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/LCP.png" group-title="FRANÇA",ᶠᴿ˸ LCP ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33326
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="ᶠᴿ˸ BFM Business ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BFM_Business.png" group-title="FRANÇA",ᶠᴿ˸ BFM Business ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33394
+#EXTINF:-1 tvg-id="I24news FR" tvg-name="ᶠᴿ˸ I24 News" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/i24_News.png" group-title="FRANÇA",ᶠᴿ˸ I24 News
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33332
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="ᶠᴿ˸ KTO ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/KTO.png" group-title="FRANÇA",ᶠᴿ˸ KTO ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33329
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="ᶠᴿ˸ RMC Sport 1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Sport1.png" group-title="FRANÇA",ᶠᴿ˸ RMC Sport 1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33293
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="ᶠᴿ˸ RMC Sport 2 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Sport2.png" group-title="FRANÇA",ᶠᴿ˸ RMC Sport 2 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33292
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="ᶠᴿ˸ RMC Sport 3 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Sport3.png" group-title="FRANÇA",ᶠᴿ˸ RMC Sport 3 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33291
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="ᶠᴿ˸ RMC Sport 4 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Sport4.png" group-title="FRANÇA",ᶠᴿ˸ RMC Sport 4 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33290
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="ᶠᴿ˸ BeIN Sports 1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSports1HD.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports 1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33405
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="ᶠᴿ˸ BeIN Sports 2 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSports2HD.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports 2 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33404
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="ᶠᴿ˸ BeIN Sports 3 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSports3HD.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports 3 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33403
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="ᶠᴿ˸ Infosport+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Infosport+.png" group-title="FRANÇA",ᶠᴿ˸ Infosport+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33331
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ᶠᴿ˸ Eurosport 1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Eurosport1HD.png" group-title="FRANÇA",ᶠᴿ˸ Eurosport 1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33352
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ᶠᴿ˸ Eurosport 2 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Eurosport2HD.png" group-title="FRANÇA",ᶠᴿ˸ Eurosport 2 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33351
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="ᶠᴿ˸ Equidia Live ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/EquidiaLive.png" group-title="FRANÇA",ᶠᴿ˸ Equidia Live ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33355
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="ᶠᴿ˸ Golf Channel ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Golf.png" group-title="FRANÇA",ᶠᴿ˸ Golf Channel ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33337
+#EXTINF:-1 tvg-id="GolfPlus FR" tvg-name="ᶠᴿ˸ Golf+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Golf+.png" group-title="FRANÇA",ᶠᴿ˸ Golf+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33338
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="ᶠᴿ˸ Foot+ 24/24 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Foot+_24.png" group-title="FRANÇA",ᶠᴿ˸ Foot+ 24/24 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33349
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="ᶠᴿ˸ L'Équipe 21 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Léquipe21.png" group-title="FRANÇA",ᶠᴿ˸ L'Équipe 21 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33328
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="ᶠᴿ˸ RMC Sport News ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RMC_Sport_News.png" group-title="FRANÇA",ᶠᴿ˸ RMC Sport News ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33289
+#EXTINF:-1 tvg-id="GINX eSports TV UK" tvg-name="ᶠᴿ˸ Ginx Esports ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Ginx.png" group-title="FRANÇA",ᶠᴿ˸ Ginx Esports ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33339
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="ᶠᴿ˸ ES1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ES1.png" group-title="FRANÇA",ᶠᴿ˸ ES1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33354
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 4 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax4.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 4 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33401
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 5 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax5.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 5 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33400
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 6 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax6.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 6 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33399
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 7 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax7.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 7 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33398
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 8 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax8.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 8 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33397
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 9 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax9.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 9 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33396
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="ᶠᴿ˸ BeIN Sports MAX 10 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BeinSportsMax10.png" group-title="FRANÇA",ᶠᴿ˸ BeIN Sports MAX 10 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33402
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="ᶠᴿ˸ Disney Junior ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DisneyJuniorHD.png" group-title="FRANÇA",ᶠᴿ˸ Disney Junior ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33359
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="ᶠᴿ˸ Piwi+ ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Piwi+.png" group-title="FRANÇA",ᶠᴿ˸ Piwi+ ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33300
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="ᶠᴿ˸ Nickelodeon Junior ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nick_JR_HD.png" group-title="FRANÇA",ᶠᴿ˸ Nickelodeon Junior ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33310
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="ᶠᴿ˸ Tiji ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Tiji.png" group-title="FRANÇA",ᶠᴿ˸ Tiji ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33275
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="ᶠᴿ˸ Boomerang ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Boomerang.png" group-title="FRANÇA",ᶠᴿ˸ Boomerang ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33389
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="ᶠᴿ˸ Boomerang +1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Boomerang+1.png" group-title="FRANÇA",ᶠᴿ˸ Boomerang +1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33390
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="ᶠᴿ˸ Cartoon Network ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CartoonNetwork.png" group-title="FRANÇA",ᶠᴿ˸ Cartoon Network ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33380
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="ᶠᴿ˸ Nickelodeon ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nicklodeon_HD.png" group-title="FRANÇA",ᶠᴿ˸ Nickelodeon ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33311
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="ᶠᴿ˸ Télétoon ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TeleToon+.png" group-title="FRANÇA",ᶠᴿ˸ Télétoon ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33282
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="ᶠᴿ˸ Disney XD ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DisneyXD.png" group-title="FRANÇA",ᶠᴿ˸ Disney XD ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33358
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="ᶠᴿ˸ Canal J ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CANAL_J.png" group-title="FRANÇA",ᶠᴿ˸ Canal J ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33381
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="ᶠᴿ˸ Boing ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Boing.png" group-title="FRANÇA",ᶠᴿ˸ Boing ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33391
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="ᶠᴿ˸ Toonami ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Toonami.png" group-title="FRANÇA",ᶠᴿ˸ Toonami ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33272
+#EXTINF:-1 tvg-id="Nick4teens.fr" tvg-name="ᶠᴿ˸ Nickelodeon 4 teen ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nickelodeon4Tenn.png" group-title="FRANÇA",ᶠᴿ˸ Nickelodeon 4 teen ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33312
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="ᶠᴿ˸ Disney Channel ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DisneyChannelHD.png" group-title="FRANÇA",ᶠᴿ˸ Disney Channel ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33361
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="ᶠᴿ˸ Gulli ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Gulli.png" group-title="FRANÇA",ᶠᴿ˸ Gulli ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33334
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="ᶠᴿ˸ Gong ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Gong.png" group-title="FRANÇA",ᶠᴿ˸ Gong ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33336
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-name="ᶠᴿ˸ Gong Max ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Gong_Max.png" group-title="FRANÇA",ᶠᴿ˸ Gong Max ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33335
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="ᶠᴿ˸ NRJ Hits ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NRJ_Hits.png" group-title="FRANÇA",ᶠᴿ˸ NRJ Hits ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33309
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="ᶠᴿ˸ M6 Music ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/M6_Music.png" group-title="FRANÇA",ᶠᴿ˸ M6 Music ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33322
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="ᶠᴿ˸ Trace Urban ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Urban.png" group-title="FRANÇA",ᶠᴿ˸ Trace Urban ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33265
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="ᶠᴿ˸ MCM TOP ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MCM_TOP.png" group-title="FRANÇA",ᶠᴿ˸ MCM TOP ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33319
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="ᶠᴿ˸ RFM Tv ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RFM_TV.png" group-title="FRANÇA",ᶠᴿ˸ RFM Tv ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33295
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="ᶠᴿ˸ MTV Hits ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MTV_Hits.png" group-title="FRANÇA",ᶠᴿ˸ MTV Hits ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33316
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ VH1 ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/VH1.png" group-title="FRANÇA",ᶠᴿ˸ VH1 ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33260
+#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="ᶠᴿ˸ Mezzo Live ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Mezzo_Live_HD.png" group-title="FRANÇA",ᶠᴿ˸ Mezzo Live ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33318
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="ᶠᴿ˸ Trace Africa ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Africa.png" group-title="FRANÇA",ᶠᴿ˸ Trace Africa ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33270
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="ᶠᴿ˸ Trace Tropical ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Tropical.png" group-title="FRANÇA",ᶠᴿ˸ Trace Tropical ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33266
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Trace Mzikiᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Mziki.png" group-title="FRANÇA",ᶠᴿ˸ Trace Mzikiᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33269
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Trace Naija ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Naija.png" group-title="FRANÇA",ᶠᴿ˸ Trace Naija ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33268
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Trace Toca ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Trace_Toca.png" group-title="FRANÇA",ᶠᴿ˸ Trace Toca ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33267
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ BFM Paris ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/BFM_Paris.png" group-title="FRANÇA",ᶠᴿ˸ BFM Paris ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33393
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ CGTN ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CGTN.png" group-title="FRANÇA",ᶠᴿ˸ CGTN ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33379
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="ᶠᴿ˸ Antenne Réunion ᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/ANTEMME_REUNION.png" group-title="FRANÇA",ᶠᴿ˸ Antenne Réunion ᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33407
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="ᶠᴿ˸ Walt Disney Studio ᶠᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/WALT_DISNEY.png" group-title="FRANÇA",ᶠᴿ˸ Walt Disney Studio ᶠᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33416
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Netflix Play ᶠᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NETFLIX_TV.png" group-title="FRANÇA",ᶠᴿ˸ Netflix Play ᶠᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33417
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Marvel Tv ᶠᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/MARVEL.png" group-title="FRANÇA",ᶠᴿ˸ Marvel Tv ᶠᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33418
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Les Simpson Tv ᶠᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/THE_SIMPSONS.png" group-title="FRANÇA",ᶠᴿ˸ Les Simpson Tv ᶠᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33419
+#EXTINF:-1 tvg-id="" tvg-name="ᶠᴿ˸ Dragon Ball Z Tv ᶠᴴᴰ" tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DRAGONBALL_Z.png" group-title="FRANÇA",ᶠᴿ˸ Dragon Ball Z Tv ᶠᴴᴰ
+http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33420
 #EXTINF:-1 tvg-id="" tvg-name="FR_TF1" tvg-logo="" group-title="FRANCE",FR_TF1
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7025
 #EXTINF:-1 tvg-id="" tvg-name="FR_FRANCE.2" tvg-logo="" group-title="FRANCE",FR_FRANCE.2
