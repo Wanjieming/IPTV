@@ -1,4 +1,524 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="FRANCE",FR: TF1 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/854
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="FRANCE",FR: TF1 +1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/855
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 Series HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1seriesfilms.png" group-title="FRANCE",FR: TF1 Series HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/856
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tfx.png" group-title="FRANCE",FR: TFX HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/857
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/m6.png" group-title="FRANCE",FR: M6 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/858
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 HD" tvg-logo="http://premium-ott.com:8000/logo/france2.png" group-title="FRANCE",FR: France 2 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/859
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3 HD" tvg-logo="http://163.172.101.124:8012/logos/france3.png" group-title="FRANCE",FR: France 3 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/860
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="http://premium-ott.com:8000/logo/france4.png" group-title="FRANCE",FR: France 4 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/861
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="http://premium-ott.com:8000/logo/france5.png" group-title="FRANCE",FR: France 5 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/862
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/franceo.png" group-title="FRANCE",FR: France O HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/863
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tmc.png" group-title="FRANCE",FR: TMC HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/864
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tmc.png" group-title="FRANCE",FR: TMC +1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/865
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6Ter HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/6ter.png" group-title="FRANCE",FR: 6Ter HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/866
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/d8.png" group-title="FRANCE",FR: C8 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/867
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/w9.png" group-title="FRANCE",FR: W9 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/868
+#EXTINF:-1 tvg-id="" tvg-name="FR: C star HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cstar.png" group-title="FRANCE",FR: C star HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/869
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrj12.png" group-title="FRANCE",FR: NRJ 12 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/870
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cherie25.png" group-title="FRANCE",FR: Cherie 25
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/871
+#EXTINF:-1 tvg-id="" tvg-name="FR: Serie Club" tvg-logo="http://iptv-belge.ddns.net:8012/logos/serieclub.png" group-title="FRANCE",FR: Serie Club
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/872
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="http://iptv-belge.ddns.net:8012/logos/parispremiere.png" group-title="FRANCE",FR: Paris Premiere
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/873
+#EXTINF:-1 tvg-id="" tvg-name="FR: E ! Fr" tvg-logo="http://iptv-belge.ddns.net:8012/logos/eentertainment.png" group-title="FRANCE",FR: E ! Fr
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/874
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva" tvg-logo="http://iptv-belge.ddns.net:8012/logos/teva.png" group-title="FRANCE",FR: Teva
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/875
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV Breizh" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tvbreizh.png" group-title="FRANCE",FR: TV Breizh
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/876
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rmc Story" tvg-logo="http://iptv-belge.ddns.net:8012/logos/numero23.png" group-title="FRANCE",FR: Rmc Story
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/877
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB 1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ab1.png" group-title="FRANCE",FR: AB 1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/878
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB 3" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ab3.png" group-title="FRANCE",FR: AB 3
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/879
+#EXTINF:-1 tvg-id="" tvg-name="FR: Arte" tvg-logo="http://iptv-belge.ddns.net:8012/logos/arte.png" group-title="FRANCE",FR: Arte
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/880
+#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="http://iptv-belge.ddns.net:8012/logos/kto.png" group-title="FRANCE",FR: KTO
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/881
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sundance" tvg-logo="" group-title="FRANCE",FR: Sundance
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/882
+#EXTINF:-1 tvg-id="" tvg-name="FR: ES Tv" tvg-logo="" group-title="FRANCE",FR: ES Tv
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/883
+#EXTINF:-1 tvg-id="" tvg-name="FR: Demain" tvg-logo="" group-title="FRANCE",FR: Demain
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/884
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6ter SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/6ter.png" group-title="FRANCE",FR: 6ter SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/885
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/d8.png" group-title="FRANCE",FR: C8 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/886
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cstar SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cstar.png" group-title="FRANCE",FR: Cstar SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/887
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/france2.png" group-title="FRANCE",FR: France 2 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/888
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 3 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/france3.png" group-title="FRANCE",FR: France 3 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/889
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/france4.png" group-title="FRANCE",FR: France 4 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/890
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/france5.png" group-title="FRANCE",FR: France 5 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/891
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/franceo.png" group-title="FRANCE",FR: France O SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/892
+#EXTINF:-1 tvg-id="" tvg-name="FR: Lequipe 21 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/lequipe21.png" group-title="FRANCE",FR: Lequipe 21 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/893
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cherie25.png" group-title="FRANCE",FR: Cherie 25 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/894
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/m6.png" group-title="FRANCE",FR: M6 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/895
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrj12.png" group-title="FRANCE",FR: NRJ 12 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/896
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="FRANCE",FR: TF1 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/897
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 Series SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1seriesfilms.png" group-title="FRANCE",FR: TF1 Series SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/898
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tfx.png" group-title="FRANCE",FR: TFX SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/899
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tmc.png" group-title="FRANCE",FR: TMC SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/900
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/w9.png" group-title="FRANCE",FR: W9 SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/901
+#EXTINF:-1 tvg-id="" tvg-name="----------- INFO-----------" tvg-logo="" group-title="FRANCE",----------- INFO-----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/902
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="http://iptv-belge.ddns.net:8012/logos/bfmtv.png" group-title="FRANCE",FR: BFM TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/903
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Business" tvg-logo="http://iptv-belge.ddns.net:8012/logos/bfmbusiness.png" group-title="FRANCE",FR: BFM Business
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/904
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cnews" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cnews.png" group-title="FRANCE",FR: Cnews
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/905
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 24" tvg-logo="http://iptv-belge.ddns.net:8012/logos/france24.png" group-title="FRANCE",FR: France 24
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/906
+#EXTINF:-1 tvg-id="" tvg-name="FR: France Info" tvg-logo="http://iptv-belge.ddns.net:8012/logos/franceinfo.png" group-title="FRANCE",FR: France Info
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/907
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="http://iptv-belge.ddns.net:8012/logos/lci.png" group-title="FRANCE",FR: LCI
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/908
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP" tvg-logo="http://iptv-belge.ddns.net:8012/logos/lcp.png" group-title="FRANCE",FR: LCP
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/909
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tv5monde.png" group-title="FRANCE",FR: TV5 Monde
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/910
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Info" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tv5monde.png" group-title="FRANCE",FR: TV5 Monde Info
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/911
+#EXTINF:-1 tvg-id="" tvg-name="----------- CINEMA -----------" tvg-logo="" group-title="FRANCE",----------- CINEMA -----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/912
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ HD Backup" tvg-logo="" group-title="FRANCE",FR: Canal+ HD Backup
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/913
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalpluscinema.png" group-title="FRANCE",FR: Canal+ Cinema HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/914
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Decale HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplusdecale.png" group-title="FRANCE",FR: Canal+ Decale HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/915
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Family HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplusfamily.png" group-title="FRANCE",FR: Canal+ Family HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/916
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Serie HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplusseries.png" group-title="FRANCE",FR: Canal+ Serie HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/917
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Premier HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cinepluspremier.png" group-title="FRANCE",FR: Cine+ Premier HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/918
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Frisson HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cineplusfrisson.png" group-title="FRANCE",FR: Cine+ Frisson HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/919
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Famiz HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cineplusfamiz.png" group-title="FRANCE",FR: Cine+ Famiz HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/920
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Club HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cineplusclub.png" group-title="FRANCE",FR: Cine+ Club HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/921
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Classic" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cineplusclassic.png" group-title="FRANCE",FR: Cine+ Classic
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/922
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine+ Emotion" tvg-logo="http://iptv-belge.ddns.net:8012/logos/cineplusemotion.png" group-title="FRANCE",FR: Cine+ Emotion
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/923
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="http://iptv-belge.ddns.net:8012/logos/paramount.png" group-title="FRANCE",FR: Paramount Channel
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/924
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT DECALE" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT DECALE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/925
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurochannel" tvg-logo="" group-title="FRANCE",FR: Eurochannel
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/926
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tcmcinema.png" group-title="FRANCE",FR: TCM
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/927
+#EXTINF:-1 tvg-id="" tvg-name="FR: Action" tvg-logo="http://iptv-belge.ddns.net:8012/logos/action.png" group-title="FRANCE",FR: Action
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/928
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rtl9.png" group-title="FRANCE",FR: RTL 9
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/929
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedy Central" tvg-logo="" group-title="FRANCE",FR: Comedy Central
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/930
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/931
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 2" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 2
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/932
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 3" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 3
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/933
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 4" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 4
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/934
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 5" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 5
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/935
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 6" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 6
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/936
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 7" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 7
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/937
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 8" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 8
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/938
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 9" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 9
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/939
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 10" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 10
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/940
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 11" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 11
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/941
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 12" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 12
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/942
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 13" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 13
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/943
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 14" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplay.png" group-title="FRANCE",FR: A La Carte 14
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/944
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 15" tvg-logo="" group-title="FRANCE",FR: A La Carte 15
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/945
+#EXTINF:-1 tvg-id="" tvg-name="----------- DECOUVERTE -----------" tvg-logo="" group-title="FRANCE",----------- DECOUVERTE -----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/946
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete +" tvg-logo="http://iptv-belge.ddns.net:8012/logos/planeteplus.png" group-title="FRANCE",FR: Planete +
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/947
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete + A&E" tvg-logo="http://iptv-belge.ddns.net:8012/logos/planeteplusaande.png" group-title="FRANCE",FR: Planete + A&E
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/948
+#EXTINF:-1 tvg-id="" tvg-name="FR: Planete+ Ci" tvg-logo="http://iptv-belge.ddns.net:8012/logos/planeteplusci.png" group-title="FRANCE",FR: Planete+ Ci
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/949
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Family HD" tvg-logo="http://iptv-belge.ddns.net:8012/discoveryfamily/fox.png" group-title="FRANCE",FR: Discovery Family HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/950
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Sciences" tvg-logo="http://iptv-belge.ddns.net:8012/logos/discoveryscience.png" group-title="FRANCE",FR: Discovery Sciences
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/951
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo Fr" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nationalgeographic.png" group-title="FRANCE",FR: Nat Geo Fr
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/952
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo Wild" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nationalgeowild.png" group-title="FRANCE",FR: Nat Geo Wild
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/953
+#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District" tvg-logo="" group-title="FRANCE",FR: Crime District
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/954
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ushuaia.png" group-title="FRANCE",FR: Ushuaia
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/955
+#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux" tvg-logo="http://iptv-belge.ddns.net:8012/logos/animaux.png" group-title="FRANCE",FR: Animaux
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/956
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse et Peche" tvg-logo="http://iptv-belge.ddns.net:8012/logos/chasseetpeche.png" group-title="FRANCE",FR: Chasse et Peche
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/957
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rmcdecouverte.png" group-title="FRANCE",FR: RMC Decouverte
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/958
+#EXTINF:-1 tvg-id="" tvg-name="FR: Sciences & Vie" tvg-logo="http://iptv-belge.ddns.net:8012/logos/scienceetvie.png" group-title="FRANCE",FR: Sciences & Vie
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/959
+#EXTINF:-1 tvg-id="" tvg-name="FR: Histoire" tvg-logo="http://iptv-belge.ddns.net:8012/logos/histoire.png" group-title="FRANCE",FR: Histoire
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/960
+#EXTINF:-1 tvg-id="" tvg-name="FR: Voyage" tvg-logo="" group-title="FRANCE",FR: Voyage
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/961
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toute l'histoire" tvg-logo="http://iptv-belge.ddns.net:8012/logos/toutelhistoire.png" group-title="FRANCE",FR: Toute l'histoire
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/962
+#EXTINF:-1 tvg-id="" tvg-name="FR: Trek" tvg-logo="http://iptv-belge.ddns.net:8012/logos/trek.png" group-title="FRANCE",FR: Trek
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/963
+#EXTINF:-1 tvg-id="" tvg-name="----------- SPORT -----------" tvg-logo="" group-title="FRANCE",----------- SPORT -----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/964
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplussport.png" group-title="FRANCE",FR: Canal+ Sport HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/965
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Info" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rmcsportinfo.png" group-title="FRANCE",FR: RMC Sport Info
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/966
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rmcsport1.png" group-title="FRANCE",FR: RMC SPORT 1 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/967
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rmcsport2.png" group-title="FRANCE",FR: RMC SPORT 2 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/968
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/rmcsport3.png" group-title="FRANCE",FR: RMC SPORT 3 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/969
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 4-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 4-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/970
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 5-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/971
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 6-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/972
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 7-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/973
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 8-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/974
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 9-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/975
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 10-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/976
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 11-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 11-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/977
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 12-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/978
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 13-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 13-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/979
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 14-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 14-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/980
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 15-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 15-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/981
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16-HD" tvg-logo="" group-title="FRANCE",RMC SPORT LIVE 16-HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/982
+#EXTINF:-1 tvg-id="" tvg-name="FR: Lequipe 21 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/lequipe21.png" group-title="FRANCE",FR: Lequipe 21 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/983
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 HD BACKUP" tvg-logo="" group-title="FRANCE",FR: Bein Sport 1 HD BACKUP
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/984
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports1.png" group-title="FRANCE",FR: Bein Sport 1 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/985
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports2.png" group-title="FRANCE",FR: Bein Sport 2 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/986
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3 HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports3.png" group-title="FRANCE",FR: Bein Sport 3 HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/987
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 FR SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports1.png" group-title="FRANCE",FR: Bein Sport 1 FR SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/988
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2 FR SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports2.png" group-title="FRANCE",FR: Bein Sport 2 FR SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/989
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3 FR SD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsports3.png" group-title="FRANCE",FR: Bein Sport 3 FR SD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/990
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 4" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax4.png" group-title="FRANCE",FR: beIN SPORT MAX 4
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/991
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 5" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax5.png" group-title="FRANCE",FR: beIN SPORT MAX 5
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/992
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 6" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax6.png" group-title="FRANCE",FR: beIN SPORT MAX 6
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/993
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 7" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax7.png" group-title="FRANCE",FR: beIN SPORT MAX 7
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/994
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 8" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax8.png" group-title="FRANCE",FR: beIN SPORT MAX 8
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/995
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 9" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax9.png" group-title="FRANCE",FR: beIN SPORT MAX 9
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/996
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORT MAX 10" tvg-logo="http://iptv-belge.ddns.net:8012/logos/beinsportsmax10.png" group-title="FRANCE",FR: beIN SPORT MAX 10
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/997
+#EXTINF:-1 tvg-id="" tvg-name="FR: Infosport" tvg-logo="http://iptv-belge.ddns.net:8012/logos/infosportplus.png" group-title="FRANCE",FR: Infosport
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/998
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/eurosport1.png" group-title="FRANCE",FR: Eurosport 1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/999
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="http://iptv-belge.ddns.net:8012/logos/eurosport2.png" group-title="FRANCE",FR: Eurosport 2
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1000
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ 24/24" tvg-logo="http://iptv-belge.ddns.net:8012/logos/footplus24.png" group-title="FRANCE",FR: Foot+ 24/24
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1001
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel" tvg-logo=":0:1:1D6:26AC:13F:820000:0:0:0:" group-title="FRANCE",FR: Golf Channel
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1002
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+" tvg-logo="http://iptv-belge.ddns.net:8012/logos/golfplus.png" group-title="FRANCE",FR: Golf+
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1003
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="http://iptv-belge.ddns.net:8012/logos/equidialive.png" group-title="FRANCE",FR: Equidia Live
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1004
+#EXTINF:-1 tvg-id="" tvg-name="FR: Automoto" tvg-logo="http://iptv-belge.ddns.net:8012/logos/abmoteurs.png" group-title="FRANCE",FR: Automoto
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1005
+#EXTINF:-1 tvg-id="" tvg-name="FR: Motors TV" tvg-logo="http://iptv-belge.ddns.net:8012/logos/motorsporttv.png" group-title="FRANCE",FR: Motors TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1006
+#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV" tvg-logo="http://iptv-belge.ddns.net:8012/logos/omtv.png" group-title="FRANCE",FR: OL TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1007
+#EXTINF:-1 tvg-id="" tvg-name="----------- ENFANTS -----------" tvg-logo="" group-title="FRANCE",----------- ENFANTS -----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1008
+#EXTINF:-1 tvg-id="" tvg-name="FR: Baby TV" tvg-logo="" group-title="FRANCE",FR: Baby TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1009
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="http://iptv-belge.ddns.net:8012/logos/boomerang.png" group-title="FRANCE",FR: Boomerang
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1010
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/boomerang.png" group-title="FRANCE",FR: Boomerang +1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1011
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalj.png" group-title="FRANCE",FR: Canal J
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1012
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="FRANCE",FR: Cartoon Network
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1013
+#EXTINF:-1 tvg-id="" tvg-name="FR: Game One" tvg-logo="http://iptv-belge.ddns.net:8012/logos/gameone.png" group-title="FRANCE",FR: Game One
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1014
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="http://iptv-belge.ddns.net:8012/logos/gulli.png" group-title="FRANCE",FR: Gulli
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1015
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="http://iptv-belge.ddns.net:8012/logos/mangas.png" group-title="FRANCE",FR: Mangas
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1016
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon Fr" tvg-logo="" group-title="FRANCE",FR: Nickelodeon Fr
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1017
+#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi+" tvg-logo="http://iptv-belge.ddns.net:8012/logos/piwiplus.png" group-title="FRANCE",FR: Piwi+
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1018
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teletoon+" tvg-logo="http://iptv-belge.ddns.net:8012/logos/teletoonplus.png" group-title="FRANCE",FR: Teletoon+
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1019
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tiji.png" group-title="FRANCE",FR: Tiji
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1020
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toonami" tvg-logo="http://iptv-belge.ddns.net:8012/logos/toonami.png" group-title="FRANCE",FR: Toonami
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1021
+#EXTINF:-1 tvg-id="" tvg-name="----------- MUSIQUE -----------" tvg-logo="" group-title="FRANCE",----------- MUSIQUE -----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1022
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Boutique" tvg-logo="" group-title="FRANCE",FR: M6 Boutique
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1023
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV France" tvg-logo="http://iptv-belge.ddns.net:8012/logos/mtv.png" group-title="FRANCE",FR: MTV France
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1024
+#EXTINF:-1 tvg-id="" tvg-name="FR: LUCKY JACK" tvg-logo="" group-title="FRANCE",FR: LUCKY JACK
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1025
+#EXTINF:-1 tvg-id="" tvg-name="FR: Clubbing" tvg-logo="" group-title="FRANCE",FR: Clubbing
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1026
+#EXTINF:-1 tvg-id="" tvg-name="FR: OKLM" tvg-logo="" group-title="FRANCE",FR: OKLM
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1027
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="http://iptv-belge.ddns.net:8012/logos/m6music.png" group-title="FRANCE",FR: M6 Music
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1028
+#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Urban" tvg-logo="http://iptv-belge.ddns.net:8012/logos/traceurban.png" group-title="FRANCE",FR: Trace Urban
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1029
+#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Tropical" tvg-logo="http://iptv-belge.ddns.net:8012/logos/tracetropical.png" group-title="FRANCE",FR: Trace Tropical
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1030
+#EXTINF:-1 tvg-id="" tvg-name="FR: Classica" tvg-logo="" group-title="FRANCE",FR: Classica
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1031
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mezzo" tvg-logo="" group-title="FRANCE",FR: Mezzo
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1032
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="http://iptv-belge.ddns.net:8012/logos/mcm.png" group-title="FRANCE",FR: MCM
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1033
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM Top" tvg-logo="" group-title="FRANCE",FR: MCM Top
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1034
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="FRANCE",FR: RFM TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1035
+#EXTINF:-1 tvg-id="" tvg-name="FR: MFM" tvg-logo="" group-title="FRANCE",FR: MFM
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1036
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVM3" tvg-logo="" group-title="FRANCE",FR: TVM3
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1037
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ TV" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrjhits.png" group-title="FRANCE",FR: NRJ TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1038
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrjhits.png" group-title="FRANCE",FR: NRJ Hits
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1039
+#EXTINF:-1 tvg-id="" tvg-name="FR: Game One +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/gameone.png" group-title="FRANCE",FR: Game One +1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1040
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Choc" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ocschoc.png" group-title="FRANCE",FR: OCS Choc
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1041
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS City" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ocscity.png" group-title="FRANCE",FR: OCS City
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1042
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Geant" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ocsgeants.png" group-title="FRANCE",FR: OCS Geant
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1043
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max" tvg-logo="http://iptv-belge.ddns.net:8012/logos/ocsmax.png" group-title="FRANCE",FR: OCS Max
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1044
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/canalplus.png" group-title="FRANCE",FR: Canal+ HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1045
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Showcase" tvg-logo="http://iptv-belge.ddns.net:8012/logos/discovery.png" group-title="FRANCE",FR: Discovery Showcase
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1046
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="http://iptv-belge.ddns.net:8012/logos/disneychannel.png" group-title="FRANCE",FR: Disney Channel
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1047
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior" tvg-logo="http://iptv-belge.ddns.net:8012/logos/disneyjunior.png" group-title="FRANCE",FR: Disney Junior
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1048
+#EXTINF:-1 tvg-id="" tvg-name="FR: My Cuisine HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/mycuisine.png" group-title="FRANCE",FR: My Cuisine HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1049
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon Junior" tvg-logo="http://iptv-belge.ddns.net:8012/logos/nickelodeonjunior.png" group-title="FRANCE",FR: Nickelodeon Junior
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1050
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13eme Rue" tvg-logo="http://iptv-belge.ddns.net:8012/logos/13emerue.png" group-title="FRANCE",FR: 13eme Rue
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1051
+#EXTINF:-1 tvg-id="" tvg-name="FR: Syfy" tvg-logo="http://iptv-belge.ddns.net:8012/logos/syfy.png" group-title="FRANCE",FR: Syfy
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1052
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema Backup" tvg-logo="" group-title="FRANCE",FR: Canal+ Cinema Backup
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1053
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Decale Backup" tvg-logo="" group-title="FRANCE",FR: Canal+ Decale Backup
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1054
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Family Backup" tvg-logo="" group-title="FRANCE",FR: Canal+ Family Backup
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1055
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Series Backup" tvg-logo="" group-title="FRANCE",FR: Canal+ Series Backup
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1056
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rmc Sport 1 FHD" tvg-logo="" group-title="FRANCE",FR: Rmc Sport 1 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1057
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 FHD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT 2 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1058
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT 3 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1059
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 FHD" tvg-logo="" group-title="FRANCE",FR: RMC SPORT 4 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1060
+#EXTINF:-1 tvg-id="" tvg-name="FR: Altice Studio" tvg-logo="" group-title="FRANCE",FR: Altice Studio
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1061
+#EXTINF:-1 tvg-id="" tvg-name="FR: Beinsport 1 FHD" tvg-logo="" group-title="FRANCE",FR: Beinsport 1 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1062
+#EXTINF:-1 tvg-id="" tvg-name="FR: Beinsport 2 FHD" tvg-logo="" group-title="FRANCE",FR: Beinsport 2 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1063
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bet" tvg-logo="" group-title="FRANCE",FR: Bet
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1064
+#EXTINF:-1 tvg-id="" tvg-name="FR: DIscovery Investigation HD" tvg-logo="http://iptv-belge.ddns.net:8012/logos/discoveryinvestigation.png" group-title="FRANCE",FR: DIscovery Investigation HD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1065
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel +1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/disneychannelplus1.png" group-title="FRANCE",FR: Disney Channel +1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1066
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema" tvg-logo="http://iptv-belge.ddns.net:8012/logos/disneycinema.png" group-title="FRANCE",FR: Disney Cinema
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1067
+#EXTINF:-1 tvg-id="" tvg-name="FR: Polar+ FHD" tvg-logo="" group-title="FRANCE",FR: Polar+ FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1068
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rmc Sport Access 1" tvg-logo="http://iptv-belge.ddns.net:8012/logos/sfrsport1.png" group-title="FRANCE",FR: Rmc Sport Access 1
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1069
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rmc Sport Access 2" tvg-logo="http://iptv-belge.ddns.net:8012/logos/sfrsport2.png" group-title="FRANCE",FR: Rmc Sport Access 2
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1070
+#EXTINF:-1 tvg-id="" tvg-name="FR: Rmc Sport Access 3" tvg-logo="http://iptv-belge.ddns.net:8012/logos/sfrsport3.png" group-title="FRANCE",FR: Rmc Sport Access 3
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1071
+#EXTINF:-1 tvg-id="" tvg-name="FR: Warner TV" tvg-logo="" group-title="FRANCE",FR: Warner TV
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1072
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tele Melody" tvg-logo="" group-title="FRANCE",FR: Tele Melody
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1073
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 FHD" tvg-logo="" group-title="FRANCE",FR: France 2 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1074
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FHD" tvg-logo="" group-title="FRANCE",FR: TF1 FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1075
+#EXTINF:-1 tvg-id="" tvg-name="FR: Seasons" tvg-logo="http://iptv-belge.ddns.net:8012/logos/seasons.png" group-title="FRANCE",FR: Seasons
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1076
+#EXTINF:-1 tvg-id="" tvg-name="FR: Viceland FHD" tvg-logo="" group-title="FRANCE",FR: Viceland FHD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1077
+#EXTINF:-1 tvg-id="" tvg-name="----------- PLAY KIDS-----------" tvg-logo="" group-title="FRANCE",----------- PLAY KIDS-----------
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1078
+#EXTINF:-1 tvg-id="" tvg-name="FR: DRAGON BALL" tvg-logo="" group-title="FRANCE",FR: DRAGON BALL
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1079
+#EXTINF:-1 tvg-id="" tvg-name="FR: DRAGON BALL KAI (SAGA BOUBOU)" tvg-logo="" group-title="FRANCE",FR: DRAGON BALL KAI (SAGA BOUBOU)
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1080
+#EXTINF:-1 tvg-id="" tvg-name="FR: DRAGON BALL KAI (SAGA FREEZER - CELL)" tvg-logo="" group-title="FRANCE",FR: DRAGON BALL KAI (SAGA FREEZER - CELL)
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1081
+#EXTINF:-1 tvg-id="" tvg-name="FR: LES CHEVALIERS DU ZODIAQUE" tvg-logo="" group-title="FRANCE",FR: LES CHEVALIERS DU ZODIAQUE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1082
+#EXTINF:-1 tvg-id="" tvg-name="FR: KEN LE SURVIVANT" tvg-logo="" group-title="FRANCE",FR: KEN LE SURVIVANT
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1083
+#EXTINF:-1 tvg-id="" tvg-name="FR: INSPECTEUR GADGET" tvg-logo="" group-title="FRANCE",FR: INSPECTEUR GADGET
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1084
+#EXTINF:-1 tvg-id="" tvg-name="FR: LES MYSTÉRIEUSES CITES D'OR" tvg-logo="" group-title="FRANCE",FR: LES MYSTÉRIEUSES CITES D'OR
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1085
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKY LARSON" tvg-logo="" group-title="FRANCE",FR: NICKY LARSON
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1086
+#EXTINF:-1 tvg-id="" tvg-name="FR: OLIVE ET TOM" tvg-logo="" group-title="FRANCE",FR: OLIVE ET TOM
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1087
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOMSAWYER" tvg-logo="" group-title="FRANCE",FR: TOMSAWYER
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1088
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOM ET JERRY" tvg-logo="" group-title="FRANCE",FR: TOM ET JERRY
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1089
+#EXTINF:-1 tvg-id="" tvg-name="FR: DENVER LE DERNIER DINOSAURE" tvg-logo="" group-title="FRANCE",FR: DENVER LE DERNIER DINOSAURE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1090
+#EXTINF:-1 tvg-id="" tvg-name="FR: LARVA" tvg-logo="" group-title="FRANCE",FR: LARVA
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1091
+#EXTINF:-1 tvg-id="" tvg-name="FR: LES LAPINS CRÉTINS" tvg-logo="" group-title="FRANCE",FR: LES LAPINS CRÉTINS
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1092
+#EXTINF:-1 tvg-id="" tvg-name="FR: BARBAPAPA" tvg-logo="" group-title="FRANCE",FR: BARBAPAPA
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1093
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA MAISON DE MICKEY" tvg-logo="" group-title="FRANCE",FR: LA MAISON DE MICKEY
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1094
+#EXTINF:-1 tvg-id="" tvg-name="FR: DONALD" tvg-logo="" group-title="FRANCE",FR: DONALD
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1095
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLUTO" tvg-logo="" group-title="FRANCE",FR: PLUTO
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1096
+#EXTINF:-1 tvg-id="" tvg-name="FR: LOONEY TUNES" tvg-logo="" group-title="FRANCE",FR: LOONEY TUNES
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1097
+#EXTINF:-1 tvg-id="" tvg-name="FR: MASHA ET MICHKA" tvg-logo="" group-title="FRANCE",FR: MASHA ET MICHKA
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1098
+#EXTINF:-1 tvg-id="" tvg-name="FR: PEPPA PIG" tvg-logo="" group-title="FRANCE",FR: PEPPA PIG
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1099
+#EXTINF:-1 tvg-id="" tvg-name="FR: PETIT OURS BRUN" tvg-logo="" group-title="FRANCE",FR: PETIT OURS BRUN
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1100
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCHOUPI" tvg-logo="" group-title="FRANCE",FR: TCHOUPI
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1101
+#EXTINF:-1 tvg-id="" tvg-name="FR: TROTRO" tvg-logo="" group-title="FRANCE",FR: TROTRO
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1102
+#EXTINF:-1 tvg-id="" tvg-name="FR: MINUSCULE" tvg-logo="" group-title="FRANCE",FR: MINUSCULE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1103
+#EXTINF:-1 tvg-id="" tvg-name="FR: MINUS ET CORTEX" tvg-logo="" group-title="FRANCE",FR: MINUS ET CORTEX
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1104
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA GARDE DU ROI LION" tvg-logo="" group-title="FRANCE",FR: LA GARDE DU ROI LION
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1105
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCOOBY-DOO" tvg-logo="" group-title="FRANCE",FR: SCOOBY-DOO
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1106
+#EXTINF:-1 tvg-id="" tvg-name="FR: PAT' PATROUILLE" tvg-logo="" group-title="FRANCE",FR: PAT' PATROUILLE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1107
+#EXTINF:-1 tvg-id="" tvg-name="FR: SUPER WINGS" tvg-logo="" group-title="FRANCE",FR: SUPER WINGS
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1108
+#EXTINF:-1 tvg-id="" tvg-name="FR: MIRACULOUS" tvg-logo="" group-title="FRANCE",FR: MIRACULOUS
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1109
+#EXTINF:-1 tvg-id="" tvg-name="FR: SPIRIT" tvg-logo="" group-title="FRANCE",FR: SPIRIT
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1110
+#EXTINF:-1 tvg-id="" tvg-name="FR: LES PYJAMASQUES" tvg-logo="" group-title="FRANCE",FR: LES PYJAMASQUES
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1111
+#EXTINF:-1 tvg-id="" tvg-name="FR: TALIA - AMIS MAGIQUE" tvg-logo="" group-title="FRANCE",FR: TALIA - AMIS MAGIQUE
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1112
+#EXTINF:-1 tvg-id="" tvg-name="FR: TROLLS" tvg-logo="" group-title="FRANCE",FR: TROLLS
+http://tv3.ddns.net:8080/PedroCorreiaS/88336/1113
 #EXTINF:-1 tvg-id="" tvg-name="FR: TV5 FR" tvg-logo="" group-title="★●•★●• FRANCE ●•★●•★",FR: TV5 FR
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14375
 #EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="★●•★●• FRANCE ●•★●•★",FR: TF1 HD
@@ -4891,347 +5411,4 @@ http://xtiptv.xyz:25461/5408139643/6347205386/62086
 http://xtiptv.xyz:25461/5408139643/6347205386/62087
 #EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMI" tvg-logo="" group-title="FRANCE",FR: TOONAMI
 http://xtiptv.xyz:25461/5408139643/6347205386/62088
-#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto La Chaine HD" tvg-logo="" group-title="FRANCE",FR: Auto Moto La Chaine HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62089
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCE",FR: MTV HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62090
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="" group-title="FRANCE",FR: MTV HITS
-http://xtiptv.xyz:25461/5408139643/6347205386/62091
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="FRANCE",FR: M6 MUSIC
-http://xtiptv.xyz:25461/5408139643/6347205386/62092
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN HD" tvg-logo="" group-title="FRANCE",FR: TRACE URBAN HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62093
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL HD" tvg-logo="" group-title="FRANCE",FR: TRACE TROPICAL HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62094
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA HD" tvg-logo="" group-title="FRANCE",FR: TRACE AFRICA HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62095
-#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="FRANCE",FR: RFM TV
-http://xtiptv.xyz:25461/5408139643/6347205386/62096
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="FRANCE",FR: MCM
-http://xtiptv.xyz:25461/5408139643/6347205386/62097
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS" tvg-logo="" group-title="FRANCE",FR: NRJ HITS
-http://xtiptv.xyz:25461/5408139643/6347205386/62098
-#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO" tvg-logo="" group-title="FRANCE",FR: MEZZO
-http://xtiptv.xyz:25461/5408139643/6347205386/62099
-#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO LIVE" tvg-logo="" group-title="FRANCE",FR: MEZZO LIVE
-http://xtiptv.xyz:25461/5408139643/6347205386/62100
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport News HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62101
-#EXTINF:-1 tvg-id="" tvg-name="FRFRANCE CULTURE MIDI" tvg-logo="" group-title="FRANCE",FRFRANCE CULTURE MIDI
-http://xtiptv.xyz:25461/5408139643/6347205386/62102
-#EXTINF:-1 tvg-id="" tvg-name="FR: SEASONS HD" tvg-logo="" group-title="FRANCE",FR: SEASONS HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62103
-#EXTINF:-1 tvg-id="" tvg-name="FR: Melody" tvg-logo="" group-title="FRANCE",FR: Melody
-http://xtiptv.xyz:25461/5408139643/6347205386/62104
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="FRANCE",FR: FRANCE 24
-http://xtiptv.xyz:25461/5408139643/6347205386/62105
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="" group-title="FRANCE",FR: FRANCE INFO HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62106
-#EXTINF:-1 tvg-id="" tvg-name="FR: Baby tv" tvg-logo="" group-title="FRANCE",FR: Baby tv
-http://xtiptv.xyz:25461/5408139643/6347205386/62107
-#EXTINF:-1 tvg-id="" tvg-name="FR: avatar realms tv" tvg-logo="" group-title="FRANCE",FR: avatar realms tv
-http://xtiptv.xyz:25461/5408139643/6347205386/62108
-#EXTINF:-1 tvg-id="" tvg-name="FR: south park tv" tvg-logo="" group-title="FRANCE",FR: south park tv
-http://xtiptv.xyz:25461/5408139643/6347205386/62109
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="FRANCE",FR: CINE+ CLASSIC
-http://xtiptv.xyz:25461/5408139643/6347205386/62110
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 5 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62111
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 6 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62112
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9" tvg-logo="" group-title="FRANCE",FR: BEIN SPORTS MAX 9
-http://xtiptv.xyz:25461/5408139643/6347205386/62113
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 7 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62114
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 8 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62115
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 9 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62116
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 10 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62117
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 11 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62118
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 12 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62119
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport Live 13 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62120
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="FRANCE",FR: GOLF+ HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62121
-#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA" tvg-logo="" group-title="FRANCE",FR: EQUIDIA
-http://xtiptv.xyz:25461/5408139643/6347205386/62122
-#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24/24 HD" tvg-logo="" group-title="FRANCE",FR: FOOT+ 24/24 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62123
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 1 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62124
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="" group-title="FRANCE",FR: EUROSPORT 2 HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62125
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ SPORT HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62126
-#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND" tvg-logo="" group-title="FRANCE",FR: VICELAND
-http://xtiptv.xyz:25461/5408139643/6347205386/62127
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ CI HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62128
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY FAMILY HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY FAMILY HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62129
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY INVESTIGATION HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62130
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY SCIENCE HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62131
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ AE HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ AE HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62132
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="" group-title="FRANCE",FR: PLANETE+ HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62133
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: DISCOVERY CHANNEL HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62134
-#EXTINF:-1 tvg-id="" tvg-name="FR: Public Senat 24h/24" tvg-logo="" group-title="FRANCE",FR: Public Senat 24h/24
-http://xtiptv.xyz:25461/5408139643/6347205386/62135
-#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA HD" tvg-logo="" group-title="FRANCE",FR: TCM CINEMA HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62136
-#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62137
-#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON TEEN HD" tvg-logo="" group-title="FRANCE",FR: NICKELODEON TEEN HD
-http://xtiptv.xyz:25461/5408139643/6347205386/62138
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 1 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/15
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 2 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/16
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 3 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/17
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 4 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/18
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 5 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/19
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 6 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/20
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 7 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/21
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 8 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/22
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 9 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/23
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 -4K" tvg-logo="" group-title="beinsport",beIN SPORTS 10 -4K
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/24
-#EXTINF:-1 tvg-id="" tvg-name="beinsport1" tvg-logo="" group-title="beinsd",beinsport1
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1786
-#EXTINF:-1 tvg-id="" tvg-name="beinsport2" tvg-logo="" group-title="beinsd",beinsport2
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1787
-#EXTINF:-1 tvg-id="" tvg-name="beinsport3" tvg-logo="" group-title="beinsd",beinsport3
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1788
-#EXTINF:-1 tvg-id="" tvg-name="beinsport4" tvg-logo="" group-title="beinsd",beinsport4
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1789
-#EXTINF:-1 tvg-id="" tvg-name="beinsport hd" tvg-logo="" group-title="beinsd",beinsport hd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1790
-#EXTINF:-1 tvg-id="" tvg-name="Ksa sport 3" tvg-logo="" group-title="beinsd",Ksa sport 3
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1791
-#EXTINF:-1 tvg-id="" tvg-name="beinsport5 sd" tvg-logo="" group-title="beinsd",beinsport5 sd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1792
-#EXTINF:-1 tvg-id="" tvg-name="beinsport6 sd" tvg-logo="" group-title="beinsd",beinsport6 sd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1793
-#EXTINF:-1 tvg-id="" tvg-name="beinsport 8 sd" tvg-logo="" group-title="beinsd",beinsport 8 sd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1794
-#EXTINF:-1 tvg-id="" tvg-name="beinsport 9 sd" tvg-logo="" group-title="beinsd",beinsport 9 sd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1795
-#EXTINF:-1 tvg-id="" tvg-name="beinsport 10 sd" tvg-logo="" group-title="beinsd",beinsport 10 sd
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1796
-#EXTINF:-1 tvg-id="" tvg-name="rai1" tvg-logo="" group-title="beinsd",rai1
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1797
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sports 4" tvg-logo="" group-title="canalsat",FR: RMC Sports 4
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/46
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sports 3" tvg-logo="" group-title="canalsat",FR: RMC Sports 3
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/47
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sports 2" tvg-logo="" group-title="canalsat",FR: RMC Sports 2
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/48
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sports 1" tvg-logo="" group-title="canalsat",FR: RMC Sports 1
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/49
-#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE l'HISTOIRE" tvg-logo="" group-title="canalsat",FR: TOUTE l'HISTOIRE
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/50
-#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="canalsat",FR: W9 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/51
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Info" tvg-logo="" group-title="canalsat",FR: TV5 Monde Info
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/53
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 Series Films HD" tvg-logo="" group-title="canalsat",FR: TF1 Series Films HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/56
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia TV HD" tvg-logo="" group-title="canalsat",FR: Ushuaia TV HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/57
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="canalsat",FR: TV5 MONDE HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/58
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV Breizh HD" tvg-logo="" group-title="canalsat",FR: TV Breizh HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/59
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="canalsat",FR: TMC HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/61
-#EXTINF:-1 tvg-id="" tvg-name="FR: TiJi HD" tvg-logo="" group-title="canalsat",FR: TiJi HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/62
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="canalsat",FR: TF1 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/63
-#EXTINF:-1 tvg-id="" tvg-name="FR: Teva HD" tvg-logo="" group-title="canalsat",FR: Teva HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/64
-#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema HD" tvg-logo="" group-title="canalsat",FR: TCM Cinema HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/65
-#EXTINF:-1 tvg-id="" tvg-name="FR: Teletoon HD" tvg-logo="" group-title="canalsat",FR: Teletoon HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/66
-#EXTINF:-1 tvg-id="" tvg-name="FR: SyFy Universal HD" tvg-logo="" group-title="canalsat",FR: SyFy Universal HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/67
-#EXTINF:-1 tvg-id="" tvg-name="FR: Seasons HD" tvg-logo="" group-title="canalsat",FR: Seasons HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/68
-#EXTINF:-1 tvg-id="" tvg-name="FR: Science & Vie HD" tvg-logo="" group-title="canalsat",FR: Science & Vie HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/69
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9 HD" tvg-logo="" group-title="canalsat",FR: RTL 9 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/70
-#EXTINF:-1 tvg-id="" tvg-name="FR: Planete HD" tvg-logo="" group-title="canalsat",FR: Planete HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/71
-#EXTINF:-1 tvg-id="" tvg-name="FR: Planete A&E HD" tvg-logo="" group-title="canalsat",FR: Planete A&E HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/73
-#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi+ HD" tvg-logo="" group-title="canalsat",FR: Piwi+ HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/74
-#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="canalsat",FR: Paris Premiere HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/75
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max HD" tvg-logo="" group-title="canalsat",FR: OCS Max HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/77
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music HD" tvg-logo="" group-title="canalsat",FR: M6 Music HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/78
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS City HD" tvg-logo="" group-title="canalsat",FR: OCS City HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/79
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="canalsat",FR: OCS CHOC HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/80
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="" group-title="canalsat",FR: LCI
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/81
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits HD" tvg-logo="" group-title="canalsat",FR: NRJ Hits HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/82
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon HD" tvg-logo="" group-title="canalsat",FR: Nickelodeon HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/84
-#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic" tvg-logo="" group-title="canalsat",FR: National Geographic
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/86
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo Wild HD" tvg-logo="" group-title="canalsat",FR: Nat Geo Wild HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/87
-#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas HD" tvg-logo="" group-title="canalsat",FR: Mangas HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/89
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="canalsat",FR: M6 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/90
-#EXTINF:-1 tvg-id="" tvg-name="FR: L'equipe TV HD" tvg-logo="" group-title="canalsat",FR: L'equipe TV HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/91
-#EXTINF:-1 tvg-id="" tvg-name="FR: BET France HD" tvg-logo="" group-title="canalsat",FR: BET France HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/92
-#EXTINF:-1 tvg-id="" tvg-name="FR: Infosport HD" tvg-logo="" group-title="canalsat",FR: Infosport HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/94
-#EXTINF:-1 tvg-id="" tvg-name="FR: HD1 HD" tvg-logo="" group-title="canalsat",FR: HD1 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/96
-#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli HD" tvg-logo="" group-title="canalsat",FR: Gulli HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/97
-#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+ HD" tvg-logo="" group-title="canalsat",FR: Golf+ HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/98
-#EXTINF:-1 tvg-id="" tvg-name="FR: Game One HD" tvg-logo="" group-title="canalsat",FR: Game One HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/100
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="" group-title="canalsat",FR: France 5 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/101
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 3 HD" tvg-logo="" group-title="canalsat",FR: France 3 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/103
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 24 HD" tvg-logo="" group-title="canalsat",FR: France 24 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/104
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 HD" tvg-logo="" group-title="canalsat",FR: France 2 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/105
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 0 HD" tvg-logo="" group-title="canalsat",FR: France 0 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/106
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot 24 HD" tvg-logo="" group-title="canalsat",FR: Foot 24 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/107
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2 France HD" tvg-logo="" group-title="canalsat",FR: Eurosport 2 France HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/108
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1 France HD" tvg-logo="" group-title="canalsat",FR: Eurosport 1 France HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/109
-#EXTINF:-1 tvg-id="" tvg-name="FR: Euronews" tvg-logo="" group-title="canalsat",FR: Euronews
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/110
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live HD" tvg-logo="" group-title="canalsat",FR: Equidia Live HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/111
-#EXTINF:-1 tvg-id="" tvg-name="FR: E! Entertainment HD" tvg-logo="" group-title="canalsat",FR: E! Entertainment HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/113
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD HD" tvg-logo="" group-title="canalsat",FR: Disney XD HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/114
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior HD" tvg-logo="" group-title="canalsat",FR: Disney Junior HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/115
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="canalsat",FR: Disney Channel HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/117
-#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="canalsat",FR: Discovery Science HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/118
-#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Channel HD" tvg-logo="" group-title="canalsat",FR: Discovery Channel HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/119
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cong" tvg-logo="" group-title="canalsat",FR: Cong
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/120
-#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District HD" tvg-logo="" group-title="canalsat",FR: Crime District HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/121
-#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie+HD" tvg-logo="" group-title="canalsat",FR: Comedie+HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/122
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Premier HD" tvg-logo="" group-title="canalsat",FR: Cine Premier HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/123
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Frisson HD" tvg-logo="" group-title="canalsat",FR: Cine Frisson HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/124
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Famiz HD" tvg-logo="" group-title="canalsat",FR: Cine Famiz HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/125
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Emotion HD" tvg-logo="" group-title="canalsat",FR: Cine Emotion HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/126
-#EXTINF:-1 tvg-id="" tvg-name="FR: serie Club HD" tvg-logo="" group-title="canalsat",FR: serie Club HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/127
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Classic HD" tvg-logo="" group-title="canalsat",FR: Cine Classic HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/128
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25 HD" tvg-logo="" group-title="canalsat",FR: Cherie 25 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/129
-#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse & Peche" tvg-logo="" group-title="canalsat",FR: Chasse & Peche
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/130
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network HD" tvg-logo="" group-title="canalsat",FR: Cartoon Network HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/131
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="canalsat",FR: Canal J HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/132
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+Sport HD" tvg-logo="" group-title="canalsat",FR: Canal+Sport HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/133
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+Series HD" tvg-logo="" group-title="canalsat",FR: Canal+Series HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/134
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+HD" tvg-logo="" group-title="canalsat",FR: Canal+HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/135
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+Family HD" tvg-logo="" group-title="canalsat",FR: Canal+Family HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/136
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+Decale HD" tvg-logo="" group-title="canalsat",FR: Canal+Decale HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/137
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+Cinema HD" tvg-logo="" group-title="canalsat",FR: Canal+Cinema HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/138
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="canalsat",FR: AB3 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/139
-#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang France HD" tvg-logo="" group-title="canalsat",FR: Boomerang France HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/140
-#EXTINF:-1 tvg-id="" tvg-name="FR: Boing France HD" tvg-logo="" group-title="canalsat",FR: Boing France HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/141
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFMTV" tvg-logo="" group-title="canalsat",FR: BFMTV
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/142
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="" group-title="canalsat",FR: BFM BUSINESS HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/143
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 9HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 9HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/144
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 8HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 8HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/145
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 7HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 7HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/146
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 6HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 6HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/147
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 5HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 5HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/148
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 4HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 4HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/149
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS Max 10HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS Max 10HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/150
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 3HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS 3HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/151
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 2HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS 2HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/152
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 1HD" tvg-logo="" group-title="canalsat",FR: beIN SPORTS 1HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/153
-#EXTINF:-1 tvg-id="" tvg-name="FR: Arte HD" tvg-logo="" group-title="canalsat",FR: Arte HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/154
-#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="canalsat",FR: Animaux HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/155
-#EXTINF:-1 tvg-id="" tvg-name="FR: Action HD" tvg-logo="" group-title="canalsat",FR: Action HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/156
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="canalsat",FR: AB1 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/158
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEURS HD" tvg-logo="" group-title="canalsat",FR: AB MOTEURS HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/159
-#EXTINF:-1 tvg-id="" tvg-name="FR: 13eme Rue HD" tvg-logo="" group-title="canalsat",FR: 13eme Rue HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/160
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="canalsat",FR: France 4 HD
-http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/102
+#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto La Chaine HD" tvg-logo="" group-title=
