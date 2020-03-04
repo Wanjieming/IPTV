@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tf1Sériesfilms.png" group-title="DiogoHenriques", TF1 Séries
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="DiogoHenriques", TF1 Séries Films
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9153
 
 #EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="DiogoHenriques", TF1
@@ -42,13 +42,13 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1608
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="DiogoHenriques", France 24
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1720
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="DiogoHenriques", FRANCE INFO
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="DiogoHenriques", Franceinfo
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9214
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/RTL 9.png" group-title="DiogoHenriques", RTL 9
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1641
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/RTL 9.png" group-title="DiogoHenriques", RTL 9
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9161
 
 #EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/m6.png" group-title="DiogoHenriques", M6
@@ -81,10 +81,10 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1634
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="DiogoHenriques", 6TER
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8994
 
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB1
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB 1
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1646
 
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB3
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB 3
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1645
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="DiogoHenriques", 13eme RUE
@@ -108,16 +108,16 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8990
 #EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC  1
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1637
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TvBreizh
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8867
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TvBreizh
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8992
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA TV
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Ushuaïa.png" group-title="DiogoHenriques", Ushuaïa TV
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8876
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA 
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Ushuaïa.png" group-title="DiogoHenriques", Ushuaïa 
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9187
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="DiogoHenriques", TFX
@@ -162,10 +162,10 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="DiogoHenriques", CANAL+ Séries
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9131
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/NRJ 12.png" group-title="DiogoHenriques", NRJ 12
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9145
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/NRJ 12.png" group-title="DiogoHenriques", NRJ 12
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9144
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="DiogoHenriques", DISNEY XD
@@ -198,28 +198,28 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1683
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="DiogoHenriques", PIWI+
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9257
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="DiogoHenriques", NICKELODEON
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Nickelodéon.png" group-title="DiogoHenriques", Nickelodéon
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9255
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjuniorplus1.png" group-title="DiogoHenriques", NICKELODEON+1
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Nickelodéonjuniorplus1.png" group-title="DiogoHenriques", Nickelodéon+1
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9249
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Nickelodéonjunior.png" group-title="DiogoHenriques", Nickelodéon JUNIOR
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9251
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Nickelodéonjunior.png" group-title="DiogoHenriques", Nickelodéon JUNIOR
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9250
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon4teen.png" group-title="DiogoHenriques", NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Nickelodéon4teen.png" group-title="DiogoHenriques", Nickelodéon 4 TEEN
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9252
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Boomerang.png" group-title="DiogoHenriques", Boomerang
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8205
 
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/Boomerang.png" group-title="DiogoHenriques", Boomerang
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9261
 
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", MANGAS
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", Mangas
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1688
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="DiogoHenriques", BOING
@@ -279,22 +279,22 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1628
 #EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="DiogoHenriques", OCS GEANTS
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9008
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS City
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1629
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS City
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9010
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS Choc
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1630
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS Choc
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9012
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS Max
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8861
 
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS Max
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9006
 
 #EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="DiogoHenriques", Ciné+ PREMIER
@@ -878,10 +878,8 @@ http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9208
 
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9210
-
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP100%
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9212
-
 #EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="DiogoHenriques", CNEWS
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9213
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1
@@ -902,7 +900,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49167
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49168
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name="TFX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Sansat",TFX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49169
-#EXTINF:-1 tvg-ID="tf1Sériesfilms.fr" tvg-name="TF1 Séries FILMS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat",TF1 Séries FILMS
+#EXTINF:-1 tvg-ID="tf1Sériesfilms.fr" tvg-name="TF1 Séries Films" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat",TF1 Séries Films
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49170
 #EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6TER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Sansat",6TER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49171
@@ -918,11 +916,11 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49175
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49176
 #EXTINF:-1 tvg-ID="" tvg-name="RTS DEUX" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="Sansat",RTS DEUX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49177
-#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1
+#EXTINF:-1 tvg-ID="AB 1.fr" tvg-name="AB 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49178
-#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="AB3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_1006_451_35_C00000_0_0_0.png" group-title="Sansat",AB3
+#EXTINF:-1 tvg-ID="AB 3.fr" tvg-name="AB 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_1006_451_35_C00000_0_0_0.png" group-title="Sansat",AB 3
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49179
-#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="Sansat",TV BREIZH
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="TvBreizh" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="Sansat",TvBreizh
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49180
 #EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Sansat",TV5 MONDE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49181
@@ -942,9 +940,9 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49187
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49188
 #EXTINF:-1 tvg-ID="teva.fr" tvg-name="TEVA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="Sansat",TEVA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49189
-#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1
+#EXTINF:-1 tvg-ID="AB 1.fr" tvg-name="AB 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49190
-#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",NRJ 12
+#EXTINF:-1 tvg-ID="NRJ 12.fr" tvg-name="NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",NRJ 12
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49191
 #EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="Chérie 25" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Sansat",Chérie 25
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49192
@@ -1098,13 +1096,13 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49261
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49262
 #EXTINF:-1 tvg-ID="cineplusfamiz.fr" tvg-name="CINE  FAMIZ" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  FAMIZ
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49263
-#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="OCS CITY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat",OCS CITY
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="OCS City" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat",OCS City
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49264
 #EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="OCS GEANTS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="Sansat",OCS GEANTS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49265
-#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="OCS MAX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat",OCS MAX
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="OCS Max" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat",OCS Max
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49266
-#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="OCS CHOC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat",OCS CHOC
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="OCS Choc" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat",OCS Choc
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49267
 #EXTINF:-1 tvg-ID="action.fr" tvg-name="ACTION" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Sansat",ACTION
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49268
@@ -1128,7 +1126,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49276
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49277
 #EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="SERIE CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="Sansat",SERIE CLUB
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49278
-#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="RTL 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat",RTL 9
+#EXTINF:-1 tvg-ID="RTL 9.fr" tvg-name="RTL 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat",RTL 9
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49279
 #EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49280
@@ -1170,7 +1168,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49301
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49302
 #EXTINF:-1 tvg-ID="" tvg-name="OCS GO CINEMA 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",OCS GO CINEMA 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49303
-#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="USHUAIA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="Sansat",USHUAIA
+#EXTINF:-1 tvg-ID="Ushuaïatv.fr" tvg-name="Ushuaïa" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="Sansat",Ushuaïa
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49309
 #EXTINF:-1 tvg-ID="" tvg-name="VICELAND" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="Sansat",VICELAND
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49310
@@ -1222,7 +1220,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52527
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52528
 #EXTINF:-1 tvg-ID="voyage.fr" tvg-name="VOYAGE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="Sansat",VOYAGE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49332
-#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 
+#EXTINF:-1 tvg-ID="Nickelodéon.fr" tvg-name="Nickelodéon " tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",Nickelodéon 
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49334
 #EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49335
@@ -1248,21 +1246,21 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49344
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49345
 #EXTINF:-1 tvg-ID="" tvg-name="TELE TOON +1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="Sansat",TELE TOON +1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49346
-#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOOMERANG
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="Boomerang" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",Boomerang
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49347
 #EXTINF:-1 tvg-ID="boing.fr" tvg-name="BOING" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19A_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOING
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49348
 #EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="Sansat",CARTOON NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49349
-#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="NICKELODEON 4 TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-ID="Nickelodéon4teen.fr" tvg-name="Nickelodéon 4 TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="Sansat",Nickelodéon 4 TEEN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49350
-#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 1
+#EXTINF:-1 tvg-ID="Nickelodéon.fr" tvg-name="Nickelodéon 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",Nickelodéon 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49351
-#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON JUNIOR
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="Nickelodéon JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="Sansat",Nickelodéon JUNIOR
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49352
 #EXTINF:-1 tvg-ID="toonami.fr" tvg-name="TOONAMI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",TOONAMI
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49353
-#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="MANGAS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="Sansat",MANGAS
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="Mangas" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="Sansat",Mangas
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49354
 #EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C6_43C_1_C00000_0_0_0.png" group-title="Sansat",TRACE URBAN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49356
@@ -1316,7 +1314,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42308
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42309
 #EXTINF:-1 tvg-ID="tfx.fr" tvg-name=" TFX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TFX
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42310
-#EXTINF:-1 tvg-ID="tf1Sériesfilms.fr" tvg-name=" TF1 Séries FILMS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TF1 Séries FILMS
+#EXTINF:-1 tvg-ID="tf1Sériesfilms.fr" tvg-name="TF1 Séries Films" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TF1 Séries Films
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42311
 #EXTINF:-1 tvg-ID="6ter.fr" tvg-name=" 6TER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", 6TER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42312
@@ -1332,9 +1330,9 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42316
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42317
 #EXTINF:-1 tvg-ID="teva.fr" tvg-name=" TEVA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TEVA
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42318
-#EXTINF:-1 tvg-ID="ab1.fr" tvg-name=" AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", AB1
+#EXTINF:-1 tvg-ID="AB 1.fr" tvg-name=" AB 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", AB 1
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42319
-#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name=" NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", NRJ 12
+#EXTINF:-1 tvg-ID="NRJ 12.fr" tvg-name=" NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", NRJ 12
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42320
 #EXTINF:-1 tvg-ID="cherie25.fr" tvg-name=" Chérie 25" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Chérie 25
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42321
@@ -1344,7 +1342,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42322
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42324
 #EXTINF:-1 tvg-ID="" tvg-name=" CNEWS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", CNEWS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42325
-#EXTINF:-1 tvg-ID="" tvg-name=" FRANCE INFO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", FRANCE INFO
+#EXTINF:-1 tvg-ID="" tvg-name=" Franceinfo" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Franceinfo
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42326
 #EXTINF:-1 tvg-ID="" tvg-name=" LCI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", LCI
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42327
@@ -1426,17 +1424,17 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42367
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42368
 #EXTINF:-1 tvg-ID="" tvg-name=" Ciné+ PREMIER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Ciné+ PREMIER
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42369
-#EXTINF:-1 tvg-ID="" tvg-name=" OCS CITY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS CITY
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS City" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS City
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42370
-#EXTINF:-1 tvg-ID="" tvg-name=" OCS CHOC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS CHOC
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS Choc" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS Choc
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42371
 #EXTINF:-1 tvg-ID="" tvg-name=" OCS GEANTS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS GEANTS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42372
-#EXTINF:-1 tvg-ID="" tvg-name=" OCS MAX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS MAX
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS Max" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", OCS Max
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42373
 #EXTINF:-1 tvg-ID="" tvg-name=" Comédie+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Comédie+
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42374
-#EXTINF:-1 tvg-ID="" tvg-name=" RTL9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", RTL9
+#EXTINF:-1 tvg-ID="" tvg-name=" RTL 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", RTL 9
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42375
 #EXTINF:-1 tvg-ID="" tvg-name=" SERIE CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", SERIE CLUB
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42376
@@ -1462,11 +1460,11 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42386
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42387
 #EXTINF:-1 tvg-ID="" tvg-name=" VOYAGE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", VOYAGE
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42388
-#EXTINF:-1 tvg-ID="" tvg-name=" TV BREIZH" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TV BREIZH
+#EXTINF:-1 tvg-ID="" tvg-name=" TvBreizh" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TvBreizh
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42389
 #EXTINF:-1 tvg-ID="" tvg-name=" Toute L Histoire" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Toute L Histoire
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42390
-#EXTINF:-1 tvg-ID="" tvg-name=" USHUAIA TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", USHUAIA TV
+#EXTINF:-1 tvg-ID="" tvg-name=" Ushuaïa TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Ushuaïa TV
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42391
 #EXTINF:-1 tvg-ID="" tvg-name=" SEASONS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", SEASONS
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42392
@@ -1476,7 +1474,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42393
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42394
 #EXTINF:-1 tvg-ID="" tvg-name=" RMC STORY" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", RMC STORY
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42395
-#EXTINF:-1 tvg-ID="" tvg-name=" BOOMERANG" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", BOOMERANG
+#EXTINF:-1 tvg-ID="" tvg-name=" Boomerang" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", Boomerang
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42397
 #EXTINF:-1 tvg-ID="" tvg-name=" CARTOON NETWORK" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", CARTOON NETWORK
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42398
@@ -1494,11 +1492,11 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42403
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42404
 #EXTINF:-1 tvg-ID="" tvg-name=" DISNEY XD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24B9_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", DISNEY XD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42405
-#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", NICKELODEON
+#EXTINF:-1 tvg-ID="" tvg-name=" Nickelodéon" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Nickelodéon
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42406
-#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-ID="" tvg-name=" Nickelodéon JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Nickelodéon JUNIOR
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42407
-#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", NICKELODEON TEEN
+#EXTINF:-1 tvg-ID="" tvg-name=" Nickelodéon TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Nickelodéon TEEN
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42409
 #EXTINF:-1 tvg-ID="" tvg-name=" TéléToon+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TéléToon+
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42410
@@ -1508,7 +1506,7 @@ http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42411
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42412
 #EXTINF:-1 tvg-ID="" tvg-name=" CANAL J" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", CANAL J
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42413
-#EXTINF:-1 tvg-ID="" tvg-name=" MANGAS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", MANGAS
+#EXTINF:-1 tvg-ID="" tvg-name=" Mangas" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", Mangas
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42414
 #EXTINF:-1 tvg-ID="" tvg-name=" GULLI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL", GULLI
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42415
@@ -1578,10 +1576,10 @@ http://hostiptv.com:8089/roch/roch123/19395
 #EXTINF:-1 tvg-logo="" group-title="roch", 6TER
 http://hostiptv.com:8089/roch/roch123/19396
 
-#EXTINF:-1 tvg-logo="" group-title="roch", TV BREIZH
+#EXTINF:-1 tvg-logo="" group-title="roch", TvBreizh
 http://hostiptv.com:8089/roch/roch123/19397
 
-#EXTINF:-1 tvg-logo="" group-title="roch", TV BREIZH
+#EXTINF:-1 tvg-logo="" group-title="roch", TvBreizh
 http://hostiptv.com:8089/roch/roch123/19398
 
 #EXTINF:-1 tvg-logo="" group-title="roch", TV5 MONDE
@@ -1596,10 +1594,10 @@ http://hostiptv.com:8089/roch/roch123/19402
 #EXTINF:-1 tvg-logo="" group-title="roch", TFX
 http://hostiptv.com:8089/roch/roch123/19403
 
-#EXTINF:-1 tvg-logo="" group-title="roch", AB1
+#EXTINF:-1 tvg-logo="" group-title="roch", AB 1
 http://hostiptv.com:8089/roch/roch123/19404
 
-#EXTINF:-1 tvg-logo="" group-title="roch", AB1
+#EXTINF:-1 tvg-logo="" group-title="roch", AB 1
 http://hostiptv.com:8089/roch/roch123/19405
 
 #EXTINF:-1 tvg-logo="" group-title="roch", RTL 9
@@ -1629,10 +1627,10 @@ http://hostiptv.com:8089/roch/roch123/19450
 #EXTINF:-1 tvg-logo="" group-title="roch", POLAR
 http://hostiptv.com:8089/roch/roch123/19451
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS Max
 http://hostiptv.com:8089/roch/roch123/19452
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS Max
 http://hostiptv.com:8089/roch/roch123/19453
 
 #EXTINF:-1 tvg-logo="" group-title="roch", OCS GEANTS
@@ -1641,16 +1639,16 @@ http://hostiptv.com:8089/roch/roch123/19454
 #EXTINF:-1 tvg-logo="" group-title="roch", OCS GEANTS
 http://hostiptv.com:8089/roch/roch123/19455
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS CITY
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS City
 http://hostiptv.com:8089/roch/roch123/19456
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS CITY
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS City
 http://hostiptv.com:8089/roch/roch123/19457
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS CHOC
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS Choc
 http://hostiptv.com:8089/roch/roch123/19458
 
-#EXTINF:-1 tvg-logo="" group-title="roch", OCS CHOC
+#EXTINF:-1 tvg-logo="" group-title="roch", OCS Choc
 http://hostiptv.com:8089/roch/roch123/19459
 
 #EXTINF:-1 tvg-logo="" group-title="roch", Comédie
@@ -1698,10 +1696,10 @@ http://hostiptv.com:8089/roch/roch123/19474
 #EXTINF:-1 tvg-logo="" group-title="roch", NRJ 12
 http://hostiptv.com:8089/roch/roch123/19475
 
-#EXTINF:-1 tvg-logo="" group-title="roch", AB3
+#EXTINF:-1 tvg-logo="" group-title="roch", AB 3
 http://hostiptv.com:8089/roch/roch123/19476
 
-#EXTINF:-1 tvg-logo="" group-title="roch", AB3
+#EXTINF:-1 tvg-logo="" group-title="roch", AB 3
 http://hostiptv.com:8089/roch/roch123/19477
 
 #EXTINF:-1 tvg-logo="" group-title="roch", Canalplay1
@@ -1899,10 +1897,10 @@ http://hostiptv.com:8089/roch/roch123/19545
 #EXTINF:-1 tvg-logo="" group-title="roch", FRANCE 24
 http://hostiptv.com:8089/roch/roch123/19546
 
-#EXTINF:-1 tvg-logo="" group-title="roch", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title="roch", Franceinfo
 http://hostiptv.com:8089/roch/roch123/19547
 
-#EXTINF:-1 tvg-logo="" group-title="roch", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title="roch", Franceinfo
 http://hostiptv.com:8089/roch/roch123/19548
 
 #EXTINF:-1 tvg-logo="" group-title="roch", EURONEWS
@@ -2124,19 +2122,19 @@ http://hostiptv.com:8089/roch/roch123/19632
 #EXTINF:-1 tvg-logo="" group-title="roch", PARAMOUNT Décalé
 http://hostiptv.com:8089/roch/roch123/19633
 
-#EXTINF:-1 tvg-logo="" group-title="roch", NICKELODEON FR
+#EXTINF:-1 tvg-logo="" group-title="roch", Nickelodéon FR
 http://hostiptv.com:8089/roch/roch123/19634
 
-#EXTINF:-1 tvg-logo="" group-title="roch", NICKELODEON FR
+#EXTINF:-1 tvg-logo="" group-title="roch", Nickelodéon FR
 http://hostiptv.com:8089/roch/roch123/19635
 
-#EXTINF:-1 tvg-logo="" group-title="roch", NICKELODEON JUNIOR FR
+#EXTINF:-1 tvg-logo="" group-title="roch", Nickelodéon JUNIOR FR
 http://hostiptv.com:8089/roch/roch123/19636
 
-#EXTINF:-1 tvg-logo="" group-title="roch", NICKELODEON JUNIOR FR
+#EXTINF:-1 tvg-logo="" group-title="roch", Nickelodéon JUNIOR FR
 http://hostiptv.com:8089/roch/roch123/19637
 
-#EXTINF:-1 tvg-logo="" group-title="roch", NICKELODEON TEEN FR
+#EXTINF:-1 tvg-logo="" group-title="roch", Nickelodéon TEEN FR
 http://hostiptv.com:8089/roch/roch123/19638
 
 #EXTINF:-1 tvg-logo="" group-title="roch", MANGA
@@ -2199,10 +2197,10 @@ http://hostiptv.com:8089/roch/roch123/19659
 #EXTINF:-1 tvg-logo="" group-title="roch", CANAL J
 http://hostiptv.com:8089/roch/roch123/19660
 
-#EXTINF:-1 tvg-logo="" group-title="roch", BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title="roch", Boomerang
 http://hostiptv.com:8089/roch/roch123/19661
 
-#EXTINF:-1 tvg-logo="" group-title="roch", BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title="roch", Boomerang
 http://hostiptv.com:8089/roch/roch123/19662
 
 #EXTINF:-1 tvg-logo="" group-title="roch", J-ONE
@@ -2328,7 +2326,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/854
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="PedroCorreiaS", TF1 +1
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/855
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1Sériesfilms.png" group-title="PedroCorreiaS", TF1 Séries
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="PedroCorreiaS", TF1 Séries Films
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/856
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tfx.png" group-title="PedroCorreiaS", TFX
@@ -2370,7 +2368,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/868
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/cstar.png" group-title="PedroCorreiaS", C star
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/869
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrj12.png" group-title="PedroCorreiaS", NRJ 12
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/NRJ 12.png" group-title="PedroCorreiaS", NRJ 12
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/870
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/cherie25.png" group-title="PedroCorreiaS", Chérie 25
@@ -2388,16 +2386,16 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/874
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/teva.png" group-title="PedroCorreiaS", Teva
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/875
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tvbreizh.png" group-title="PedroCorreiaS", TV Breizh
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tvbreizh.png" group-title="PedroCorreiaS", TvBreizh
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/876
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/numero23.png" group-title="PedroCorreiaS", Rmc Story
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/877
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/ab1.png" group-title="PedroCorreiaS", AB 1
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/AB 1.png" group-title="PedroCorreiaS", AB 1
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/878
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/ab3.png" group-title="PedroCorreiaS", AB 3
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/AB 3.png" group-title="PedroCorreiaS", AB 3
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/879
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/arte.png" group-title="PedroCorreiaS", Arte
@@ -2448,13 +2446,13 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/894
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/m6.png" group-title="PedroCorreiaS", M6
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/895
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/nrj12.png" group-title="PedroCorreiaS", NRJ 12
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/NRJ 12.png" group-title="PedroCorreiaS", NRJ 12
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/896
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="PedroCorreiaS", TF1
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/897
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1Sériesfilms.png" group-title="PedroCorreiaS", TF1 Séries
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="PedroCorreiaS", TF1 Séries Films
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/898
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tfx.png" group-title="PedroCorreiaS", TFX
@@ -2481,7 +2479,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/905
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/france24.png" group-title="PedroCorreiaS", France 24
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/906
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/franceinfo.png" group-title="PedroCorreiaS", France Info
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/franceinfo.png" group-title="PedroCorreiaS", Franceinfo
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/907
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/lci.png" group-title="PedroCorreiaS", LCI
@@ -2544,7 +2542,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/927
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/action.png" group-title="PedroCorreiaS", Action
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/928
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/rtl9.png" group-title="PedroCorreiaS", RTL 9
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/RTL 9.png" group-title="PedroCorreiaS", RTL 9
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/929
 
 #EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Comedy Central
@@ -2619,7 +2617,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/953
 #EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Crime District
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/954
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/ushuaia.png" group-title="PedroCorreiaS", Ushuaia
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/Ushuaïa.png" group-title="PedroCorreiaS", Ushuaïa
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/955
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/animaux.png" group-title="PedroCorreiaS", Animaux
@@ -2778,10 +2776,10 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/1007
 #EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Baby TV
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1009
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/boomerang.png" group-title="PedroCorreiaS", Boomerang
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/Boomerang.png" group-title="PedroCorreiaS", Boomerang
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1010
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/boomerang.png" group-title="PedroCorreiaS", Boomerang +1
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/Boomerang.png" group-title="PedroCorreiaS", Boomerang +1
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1011
 
 #EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Cartoon Network
@@ -2793,10 +2791,10 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/1014
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/gulli.png" group-title="PedroCorreiaS", Gulli
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1015
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/mangas.png" group-title="PedroCorreiaS", Mangas
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/Mangas.png" group-title="PedroCorreiaS", Mangas
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1016
 
-#EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Nickelodeon Fr
+#EXTINF:-1 tvg-logo="" group-title="PedroCorreiaS", Nickelodéon Fr
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1017
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/piwiplus.png" group-title="PedroCorreiaS", Piwi+
@@ -2886,7 +2884,7 @@ http://tv3.ddns.net:8080/PedroCorreiaS/88336/1048
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/mycuisine.png" group-title="PedroCorreiaS", My Cuisine
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1049
 
-#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/nickelodeonjunior.png" group-title="PedroCorreiaS", Nickelodeon Junior
+#EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/Nickelodéonjunior.png" group-title="PedroCorreiaS", Nickelodéon Junior
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/1050
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/13emerue.png" group-title="PedroCorreiaS", 13eme RUE
@@ -3105,7 +3103,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14385
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Chérie 25
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14386
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", TV BREIZH
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", TvBreizh
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14387
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", ARTE
@@ -3138,7 +3136,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14396
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS.GEANTS-HD
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14397
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS Max
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14398
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", CINE CLASSIC
@@ -3165,13 +3163,13 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14406
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", CANAL J
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14409
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Nickelodéon
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14411
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Nickelodéon 4 TEEN
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14412
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", MANGAS
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Mangas
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14413
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", DISNEY XD
@@ -3195,7 +3193,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14419
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", BOOMRANG
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14420
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NRJ12
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NRJ 12
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14421
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", DISNEY CHANNEL
@@ -3216,7 +3214,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14426
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", ACTION
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14427
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", RTL9-HD
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", RTL 9-HD
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14428
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", SYFY-HD
@@ -3225,7 +3223,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14429
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", SERIE CLUB
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14430
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", RTL9-HD
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", RTL 9-HD
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14431
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Elle.Girl-HD
@@ -3276,7 +3274,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14446
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", DISCOVERY
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14447
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", USHUAIA
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Ushuaïa
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14448
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Planète + A&E
@@ -3363,13 +3361,13 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14475
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", RTS DEUX
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14476
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB3
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB 3
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14477
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", BFM-PARIS FR
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14478
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Franceinfo
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14479
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Francophonie 24
@@ -3396,7 +3394,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14486
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", LCP
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14487
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB1
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB 1
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14488
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", TF1
@@ -3447,10 +3445,10 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14503
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", ALTICE STUDIO
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14504
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB1
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB 1
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14505
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB3
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", AB 3
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14506
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", W9
@@ -3498,16 +3496,16 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14520
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", CINE CLASSIC
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14521
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS Max
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14522
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS GEANT
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14523
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS CITY
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS City
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14524
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS CHOC
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", OCS Choc
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14525
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", TCM Cinema
@@ -3624,7 +3622,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14562
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Chasse et pêche
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14563
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Ushuaia tv
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Ushuaïa tv
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14564
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", ANIMAUX
@@ -3651,7 +3649,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14571
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", CNEWS
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14572
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Franceinfo
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14573
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", DISNEY CHANNEL
@@ -3666,10 +3664,10 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14576
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Disney Cinema
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14577
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Nickelodéon
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14578
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Nickelodéon JUNIOR
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14579
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", GULLI
@@ -3678,7 +3676,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14580
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Cartoon Network
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14581
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Boomerang
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14582
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Piwi
@@ -3741,7 +3739,7 @@ http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14601
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", BOING FRANCE
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14602
 
-#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", BOOMERANG 1
+#EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Boomerang 1
 http://3livesfree.xyz:8880/2438joaquim/2438joaquim/14603
 
 #EXTINF:-1 tvg-logo="" group-title=" 2438joaquim", Canal+ Séries
@@ -3897,13 +3895,13 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5488
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title=" Jz3IOfzQry", VH1
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5489
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv_hd.jpg" group-title=" Jz3IOfzQry", USHUAÏA TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Ushuaïa_tv_hd.jpg" group-title=" Jz3IOfzQry", USHUAÏA TV
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5490
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv5_monde.jpg" group-title=" Jz3IOfzQry", TV5 MONDE
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5491
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_breizh.jpg" group-title=" Jz3IOfzQry", TV BREIZH
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_breizh.jpg" group-title=" Jz3IOfzQry", TvBreizh
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5492
 
 #EXTINF:-1 tvg-logo="https://www.telesatellite.com/images/logos/trek.gif" group-title=" Jz3IOfzQry", TREK
@@ -3978,7 +3976,7 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5515
 #EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/11/Science-Vie.jpg" group-title=" Jz3IOfzQry", SCIENCE ET VIE
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5516
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl9.jpg" group-title=" Jz3IOfzQry", RTL9
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/RTL 9.jpg" group-title=" Jz3IOfzQry", RTL 9
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5517
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036382911812050944/aXig0iiM_400x400.jpg" group-title=" Jz3IOfzQry", RMC STORY
@@ -4035,19 +4033,19 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5534
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ofive_tv.jpg" group-title=" Jz3IOfzQry", OFIVE
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5535
 
-#EXTINF:-1 tvg-logo="https://www.acces.tv/wp-content/uploads/2016/07/OCS-max-1.png" group-title=" Jz3IOfzQry", OCS MAX
+#EXTINF:-1 tvg-logo="https://www.acces.tv/wp-content/uploads/2016/07/OCS-max-1.png" group-title=" Jz3IOfzQry", OCS Max
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5536
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-_kAfPqVLObk/WKJx5FukPXI/AAAAAAAABYc/VY8cwssJUG0ftBFbAx8LqaJYJy31X8D7ACLcB/s1600/OCS%2BG%25C3%25A9ants%2BHD.png" group-title=" Jz3IOfzQry", OCS GÉANTS
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5537
 
-#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/ocs-city.jpg" group-title=" Jz3IOfzQry", OCS CITY
+#EXTINF:-1 tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/ocs-city.jpg" group-title=" Jz3IOfzQry", OCS City
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5538
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_choc.jpg" group-title=" Jz3IOfzQry", OCS CHOC
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_choc.jpg" group-title=" Jz3IOfzQry", OCS Choc
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5539
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj12_hd.jpg" group-title=" Jz3IOfzQry", NRJ12
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/NRJ 12_hd.jpg" group-title=" Jz3IOfzQry", NRJ 12
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5540
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj_hits.jpg" group-title=" Jz3IOfzQry", NRJ HITS
@@ -4056,13 +4054,13 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5541
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/noot_tv.jpg" group-title=" Jz3IOfzQry", NOTÉLÉ
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5542
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_junior_fr.jpg" group-title=" Jz3IOfzQry", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Nickelodéon_junior_fr.jpg" group-title=" Jz3IOfzQry", Nickelodéon JUNIOR
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5543
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_fr.jpg" group-title=" Jz3IOfzQry", NICKELODEON
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Nickelodéon_fr.jpg" group-title=" Jz3IOfzQry", Nickelodéon
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5544
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-nickelodeon-4teen-nouvelle-chaine-100-Séries.jpg" group-title=" Jz3IOfzQry", NICKELODEON 4TEEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-Nickelodéon-4teen-nouvelle-chaine-100-Séries.jpg" group-title=" Jz3IOfzQry", Nickelodéon 4TEEN
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5545
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title=" Jz3IOfzQry", NATIONAL GEOGRAPHIC
@@ -4095,7 +4093,7 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5554
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_fr.jpg" group-title=" Jz3IOfzQry", MCM
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5555
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mangas.jpg" group-title=" Jz3IOfzQry", MANGAS
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Mangas.jpg" group-title=" Jz3IOfzQry", Mangas
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5556
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_music_fr.jpg" group-title=" Jz3IOfzQry", M6 MUSIC
@@ -4158,7 +4156,7 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5575
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one_music_hd.jpg" group-title=" Jz3IOfzQry", GAME ONE  1
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5576
 
-#EXTINF:-1 tvg-logo="https://www.olivier-veran.fr/wp-content/uploads/2018/03/c300.png" group-title=" Jz3IOfzQry", FRANCE INFO
+#EXTINF:-1 tvg-logo="https://www.olivier-veran.fr/wp-content/uploads/2018/03/c300.png" group-title=" Jz3IOfzQry", Franceinfo
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5577
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title=" Jz3IOfzQry", FRANCE Ô
@@ -4299,10 +4297,10 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5622
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979360951085469698/mDiCGZ8J_400x400.jpg" group-title=" Jz3IOfzQry", C8
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5623
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_fr.jpg" group-title=" Jz3IOfzQry", BOOMERANG
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Boomerang_fr.jpg" group-title=" Jz3IOfzQry", Boomerang
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5624
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title=" Jz3IOfzQry", BOOMERANG  1
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_Boomerang-cartoon_m.png" group-title=" Jz3IOfzQry", Boomerang  1
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5625
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boing_fr.jpg" group-title=" Jz3IOfzQry", BOING
@@ -4383,10 +4381,10 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5650
 #EXTINF:-1 tvg-logo="https://rmb.be/files/pictures/brands/logo/47/47-thumb.00b6.jpg" group-title=" Jz3IOfzQry", ABXPLORE
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5651
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab3.jpg" group-title=" Jz3IOfzQry", AB3
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/AB 3.jpg" group-title=" Jz3IOfzQry", AB 3
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5652
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab1.jpg" group-title=" Jz3IOfzQry", AB1
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/AB 1.jpg" group-title=" Jz3IOfzQry", AB 1
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5653
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title=" Jz3IOfzQry", 6TER
@@ -4530,13 +4528,13 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33330
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Mangas.png" group-title="Pedropinto1409", Mangas
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33321
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB1.png" group-title="Pedropinto1409", AB1
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB 1.png" group-title="Pedropinto1409", AB 1
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33413
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB3.png" group-title="Pedropinto1409", AB3
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/AB 3.png" group-title="Pedropinto1409", AB 3
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33412
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TV_Breizh_HD.png" group-title="Pedropinto1409", Tv Breizh
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TV_Breizh_HD.png" group-title="Pedropinto1409", TvBreizh
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33263
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Teva_HD.png" group-title="Pedropinto1409", Téva
@@ -4545,7 +4543,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33281
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Paris_Premiere_HD.png" group-title="Pedropinto1409", Paris Première
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33301
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RTL9.png" group-title="Pedropinto1409", RTL9
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/RTL 9.png" group-title="Pedropinto1409", RTL 9
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33287
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Bet.png" group-title="Pedropinto1409", BET
@@ -4566,7 +4564,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33274
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TFX.png" group-title="Pedropinto1409", TFX
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33276
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NRJ12_HD.png" group-title="Pedropinto1409", NRJ12
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/NRJ 12_HD.png" group-title="Pedropinto1409", NRJ 12
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33308
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CStar.png" group-title="Pedropinto1409", CStar
@@ -4626,7 +4624,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33315
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/VOYAGE.png" group-title="Pedropinto1409", Voyage
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33259
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Ushuaia_TV.png" group-title="Pedropinto1409", Ushuaia Tv
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Ushuaïa_TV.png" group-title="Pedropinto1409", Ushuaïa Tv
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33261
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Histoire.png" group-title="Pedropinto1409", Histoire
@@ -4668,7 +4666,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33392
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/LCI_HD.png" group-title="Pedropinto1409", LCI
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33327
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Franceinfo.png" group-title="Pedropinto1409", France Info
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Franceinfo.png" group-title="Pedropinto1409", Franceinfo
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33342
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Euronews.png" group-title="Pedropinto1409", Euronews
@@ -4770,7 +4768,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33359
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Piwi+.png" group-title="Pedropinto1409", Piwi+
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33300
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nick_JR_HD.png" group-title="Pedropinto1409", Nickelodeon Junior
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nick_JR_HD.png" group-title="Pedropinto1409", Nickelodéon Junior
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33310
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Tiji.png" group-title="Pedropinto1409", Tiji
@@ -4785,7 +4783,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33390
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/CartoonNetwork.png" group-title="Pedropinto1409", Cartoon Network
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33380
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nicklodeon_HD.png" group-title="Pedropinto1409", Nickelodeon
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nicklodeon_HD.png" group-title="Pedropinto1409", Nickelodéon
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33311
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TéléToon+.png" group-title="Pedropinto1409", Télétoon
@@ -4803,7 +4801,7 @@ http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33391
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Toonami.png" group-title="Pedropinto1409", Toonami
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33272
 
-#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nickelodeon4Tenn.png" group-title="Pedropinto1409", Nickelodeon 4 teen
+#EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/Nickelodéon4Tenn.png" group-title="Pedropinto1409", Nickelodéon 4 teen
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33312
 
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/DisneyChannelHD.png" group-title="Pedropinto1409", Disney Channel
@@ -4914,7 +4912,7 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7034
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", TFX
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7035
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", NRJ12
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", NRJ 12
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7036
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", CSTAR
@@ -4983,10 +4981,10 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7059
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", 13eme RUE
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7060
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", AB1
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", AB 1
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7061
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", AB3
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", AB 3
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7062
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", ACTION
@@ -5001,7 +4999,7 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7065
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", PARIS.PREMIERE
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7066
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", RTL9
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", RTL 9
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7067
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", SERIE.CLUB
@@ -5073,7 +5071,7 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7090
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", SEASONS
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7091
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", USHUAIA.TV
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", Ushuaïa.TV
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7092
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", VOYAGE
@@ -5121,7 +5119,7 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7106
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", TOONAMI
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7108
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", Boomerang
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7109
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", CARTOON.NETWORK
@@ -5148,13 +5146,13 @@ http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7116
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", MANGA
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7117
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", Nickelodéon
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7118
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", NICKElODEON.JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", Nickelodéon.JUNIOR
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7119
 
-#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", NICKELODEON.4TEEN
+#EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", Nickelodéon.4TEEN
 http://super20.hopto.me:8080/Ricardo_Oliveira_2/aiv02AM9wy/7120
 
 #EXTINF:-1 tvg-logo="" group-title="Ricardo_Oliveira_2", PIWI+
@@ -5355,7 +5353,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14385
 #EXTINF:-1 tvg-logo="" group-title="vancas", Chérie 25
 http://3livesfree.xyz:8880/vancas/vancas/14386
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", TV BREIZH
+#EXTINF:-1 tvg-logo="" group-title="vancas", TvBreizh
 http://3livesfree.xyz:8880/vancas/vancas/14387
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", ARTE
@@ -5388,7 +5386,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14396
 #EXTINF:-1 tvg-logo="" group-title="vancas", OCS.GEANTS-HD
 http://3livesfree.xyz:8880/vancas/vancas/14397
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="vancas", OCS Max
 http://3livesfree.xyz:8880/vancas/vancas/14398
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", CINE CLASSIC
@@ -5424,16 +5422,16 @@ http://3livesfree.xyz:8880/vancas/vancas/14408
 #EXTINF:-1 tvg-logo="" group-title="vancas", CANAL J
 http://3livesfree.xyz:8880/vancas/vancas/14409
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NICKELODEON JUN
+#EXTINF:-1 tvg-logo="" group-title="vancas", Nickelodéon JUN
 http://3livesfree.xyz:8880/vancas/vancas/14410
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title="vancas", Nickelodéon
 http://3livesfree.xyz:8880/vancas/vancas/14411
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NICKELODEON 4 TEEN
+#EXTINF:-1 tvg-logo="" group-title="vancas", Nickelodéon 4 TEEN
 http://3livesfree.xyz:8880/vancas/vancas/14412
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", MANGAS
+#EXTINF:-1 tvg-logo="" group-title="vancas", Mangas
 http://3livesfree.xyz:8880/vancas/vancas/14413
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", DISNEY XD
@@ -5457,7 +5455,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14419
 #EXTINF:-1 tvg-logo="" group-title="vancas", BOOMRANG
 http://3livesfree.xyz:8880/vancas/vancas/14420
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NRJ12
+#EXTINF:-1 tvg-logo="" group-title="vancas", NRJ 12
 http://3livesfree.xyz:8880/vancas/vancas/14421
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", DISNEY CHANNEL
@@ -5478,7 +5476,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14426
 #EXTINF:-1 tvg-logo="" group-title="vancas", ACTION
 http://3livesfree.xyz:8880/vancas/vancas/14427
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", RTL9-HD
+#EXTINF:-1 tvg-logo="" group-title="vancas", RTL 9-HD
 http://3livesfree.xyz:8880/vancas/vancas/14428
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", SYFY-HD
@@ -5487,7 +5485,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14429
 #EXTINF:-1 tvg-logo="" group-title="vancas", SERIE CLUB
 http://3livesfree.xyz:8880/vancas/vancas/14430
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", RTL9-HD
+#EXTINF:-1 tvg-logo="" group-title="vancas", RTL 9-HD
 http://3livesfree.xyz:8880/vancas/vancas/14431
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", Elle.Girl-HD
@@ -5538,7 +5536,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14446
 #EXTINF:-1 tvg-logo="" group-title="vancas", DISCOVERY
 http://3livesfree.xyz:8880/vancas/vancas/14447
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", USHUAIA
+#EXTINF:-1 tvg-logo="" group-title="vancas", Ushuaïa
 http://3livesfree.xyz:8880/vancas/vancas/14448
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", Planète + A&E
@@ -5625,13 +5623,13 @@ http://3livesfree.xyz:8880/vancas/vancas/14475
 #EXTINF:-1 tvg-logo="" group-title="vancas", RTS DEUX
 http://3livesfree.xyz:8880/vancas/vancas/14476
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", AB3
+#EXTINF:-1 tvg-logo="" group-title="vancas", AB 3
 http://3livesfree.xyz:8880/vancas/vancas/14477
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", BFM-PARIS FR
 http://3livesfree.xyz:8880/vancas/vancas/14478
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title="vancas", Franceinfo
 http://3livesfree.xyz:8880/vancas/vancas/14479
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", Francophonie 24
@@ -5658,7 +5656,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14486
 #EXTINF:-1 tvg-logo="" group-title="vancas", LCP
 http://3livesfree.xyz:8880/vancas/vancas/14487
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", AB1
+#EXTINF:-1 tvg-logo="" group-title="vancas", AB 1
 http://3livesfree.xyz:8880/vancas/vancas/14488
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", TF1
@@ -5709,10 +5707,10 @@ http://3livesfree.xyz:8880/vancas/vancas/14503
 #EXTINF:-1 tvg-logo="" group-title="vancas", ALTICE STUDIO
 http://3livesfree.xyz:8880/vancas/vancas/14504
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", AB1
+#EXTINF:-1 tvg-logo="" group-title="vancas", AB 1
 http://3livesfree.xyz:8880/vancas/vancas/14505
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", AB3
+#EXTINF:-1 tvg-logo="" group-title="vancas", AB 3
 http://3livesfree.xyz:8880/vancas/vancas/14506
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", W9
@@ -5760,16 +5758,16 @@ http://3livesfree.xyz:8880/vancas/vancas/14520
 #EXTINF:-1 tvg-logo="" group-title="vancas", CINE CLASSIC
 http://3livesfree.xyz:8880/vancas/vancas/14521
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="vancas", OCS Max
 http://3livesfree.xyz:8880/vancas/vancas/14522
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", OCS GEANT
 http://3livesfree.xyz:8880/vancas/vancas/14523
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", OCS CITY
+#EXTINF:-1 tvg-logo="" group-title="vancas", OCS City
 http://3livesfree.xyz:8880/vancas/vancas/14524
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", OCS CHOC
+#EXTINF:-1 tvg-logo="" group-title="vancas", OCS Choc
 http://3livesfree.xyz:8880/vancas/vancas/14525
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", TCM Cinema
@@ -5886,7 +5884,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14562
 #EXTINF:-1 tvg-logo="" group-title="vancas", Chasse et pêche
 http://3livesfree.xyz:8880/vancas/vancas/14563
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", Ushuaia tv
+#EXTINF:-1 tvg-logo="" group-title="vancas", Ushuaïa tv
 http://3livesfree.xyz:8880/vancas/vancas/14564
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", ANIMAUX
@@ -5913,7 +5911,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14571
 #EXTINF:-1 tvg-logo="" group-title="vancas", CNEWS
 http://3livesfree.xyz:8880/vancas/vancas/14572
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title="vancas", Franceinfo
 http://3livesfree.xyz:8880/vancas/vancas/14573
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", DISNEY CHANNEL
@@ -5928,10 +5926,10 @@ http://3livesfree.xyz:8880/vancas/vancas/14576
 #EXTINF:-1 tvg-logo="" group-title="vancas", Disney Cinema
 http://3livesfree.xyz:8880/vancas/vancas/14577
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title="vancas", Nickelodéon
 http://3livesfree.xyz:8880/vancas/vancas/14578
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="vancas", Nickelodéon JUNIOR
 http://3livesfree.xyz:8880/vancas/vancas/14579
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", GULLI
@@ -5940,7 +5938,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14580
 #EXTINF:-1 tvg-logo="" group-title="vancas", Cartoon Network
 http://3livesfree.xyz:8880/vancas/vancas/14581
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", BOOMERANG
+#EXTINF:-1 tvg-logo="" group-title="vancas", Boomerang
 http://3livesfree.xyz:8880/vancas/vancas/14582
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", Piwi
@@ -6003,7 +6001,7 @@ http://3livesfree.xyz:8880/vancas/vancas/14601
 #EXTINF:-1 tvg-logo="" group-title="vancas", BOING FRANCE
 http://3livesfree.xyz:8880/vancas/vancas/14602
 
-#EXTINF:-1 tvg-logo="" group-title="vancas", BOOMERANG 1
+#EXTINF:-1 tvg-logo="" group-title="vancas", Boomerang 1
 http://3livesfree.xyz:8880/vancas/vancas/14603
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", Canal+ Séries
@@ -6159,7 +6157,7 @@ http://topiptv.net:5890/aziz/1234/464
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/tf1.png" group-title="Aziz", TF1
 http://topiptv.net:5890/aziz/1234/465
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1_65x24.png" group-title="Aziz", TF1 H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1_65x24.png" group-title="Aziz", TF1
 http://topiptv.net:5890/aziz/1234/56260
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="Aziz", FRANCE 2
@@ -6168,7 +6166,7 @@ http://topiptv.net:5890/aziz/1234/467
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="Aziz", FRANCE 2
 http://topiptv.net:5890/aziz/1234/468
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="Aziz", FRANCE 2 H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f2-64x55.png" group-title="Aziz", FRANCE 2
 http://topiptv.net:5890/aziz/1234/56261
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="Aziz", FRANCE 3
@@ -6177,7 +6175,7 @@ http://topiptv.net:5890/aziz/1234/469
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="Aziz", FRANCE 3
 http://topiptv.net:5890/aziz/1234/470
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="Aziz", FRANCE 3 H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="Aziz", FRANCE 3
 http://topiptv.net:5890/aziz/1234/56262
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f3-64x55.png" group-title="Aziz", FRANCE 3 NOA
@@ -6189,7 +6187,7 @@ http://topiptv.net:5890/aziz/1234/471
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="Aziz", FRANCE 4
 http://topiptv.net:5890/aziz/1234/472
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="Aziz", FRANCE 4 H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f4-64x55.png" group-title="Aziz", FRANCE 4
 http://topiptv.net:5890/aziz/1234/56263
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="Aziz", FRANCE 5
@@ -6198,7 +6196,7 @@ http://topiptv.net:5890/aziz/1234/473
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="Aziz", FRANCE 5
 http://topiptv.net:5890/aziz/1234/474
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="Aziz", FRANCE5 H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/f5-64x55.png" group-title="Aziz", FRANCE5
 http://topiptv.net:5890/aziz/1234/56264
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="Aziz", FRANCE O
@@ -6207,7 +6205,7 @@ http://topiptv.net:5890/aziz/1234/475
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="Aziz", FRANCE O
 http://topiptv.net:5890/aziz/1234/476
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="Aziz", FRANCEO H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/fO-64x55.png" group-title="Aziz", FRANCEO
 http://topiptv.net:5890/aziz/1234/56273
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/w9.png" group-title="Aziz", W9
@@ -6216,7 +6214,7 @@ http://topiptv.net:5890/aziz/1234/479
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/w9.png" group-title="Aziz", W9
 http://topiptv.net:5890/aziz/1234/480
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/W9_52x25.png" group-title="Aziz", W9 H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/W9_52x25.png" group-title="Aziz", W9
 http://topiptv.net:5890/aziz/1234/56267
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG" group-title="Aziz", M6
@@ -6225,7 +6223,7 @@ http://topiptv.net:5890/aziz/1234/477
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG" group-title="Aziz", M6
 http://topiptv.net:5890/aziz/1234/478
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/m6_45x35.png" group-title="Aziz", M6 H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/m6_45x35.png" group-title="Aziz", M6
 http://topiptv.net:5890/aziz/1234/56265
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/c8-49x25.gif" group-title="Aziz", C8
@@ -6234,7 +6232,7 @@ http://topiptv.net:5890/aziz/1234/481
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/c8-49x25.gif" group-title="Aziz", C8
 http://topiptv.net:5890/aziz/1234/482
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png" group-title="Aziz", C8 H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/C8.fr.png" group-title="Aziz", C8
 http://topiptv.net:5890/aziz/1234/56268
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cstar-85x25.gif" group-title="Aziz", CSTAR
@@ -6243,7 +6241,7 @@ http://topiptv.net:5890/aziz/1234/483
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cstar-85x25.gif" group-title="Aziz", CSTAR
 http://topiptv.net:5890/aziz/1234/484
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CStar.fr.png" group-title="Aziz", CSTAR H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CStar.fr.png" group-title="Aziz", CSTAR
 http://topiptv.net:5890/aziz/1234/56270
 
 #EXTINF:-1 tvg-logo="https://www.rts.ch/2019/08/30/01/11/6938587.image/3x1/scale/width/400" group-title="Aziz", RTS UN
@@ -6255,7 +6253,7 @@ http://topiptv.net:5890/aziz/1234/487
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="Aziz", 6TER
 http://topiptv.net:5890/aziz/1234/489
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="Aziz", 6TER H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/6ter_54x24.png" group-title="Aziz", 6TER
 http://topiptv.net:5890/aziz/1234/56281
 
 #EXTINF:-1 tvg-logo="" group-title="Aziz", --FR| INFORMATION | LIVE --
@@ -6270,7 +6268,7 @@ http://topiptv.net:5890/aziz/1234/495
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="Aziz", CNEWS
 http://topiptv.net:5890/aziz/1234/496
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="Aziz", CNEWS H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cnews-95x24.gif" group-title="Aziz", CNEWS
 http://topiptv.net:5890/aziz/1234/56269
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/il/i24news-85x42.png" group-title="Aziz", I24 NEWS
@@ -6282,16 +6280,16 @@ http://topiptv.net:5890/aziz/1234/503
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/lci-95x34.gif" group-title="Aziz", LCI
 http://topiptv.net:5890/aziz/1234/504
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/lci-95x34.gif" group-title="Aziz", LCI H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/lci-95x34.gif" group-title="Aziz", LCI
 http://topiptv.net:5890/aziz/1234/56271
 
-#EXTINF:-1 tvg-logo="http://www.lcp.fr/sites/default/themes/lcp/images/logo-lcp.svg" group-title="Aziz", LCP H265
+#EXTINF:-1 tvg-logo="http://www.lcp.fr/sites/default/themes/lcp/images/logo-lcp.svg" group-title="Aziz", LCP
 http://topiptv.net:5890/aziz/1234/56259
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/TV5Monde-95x13.png" group-title="Aziz", TV5MONDE
 http://topiptv.net:5890/aziz/1234/501
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/franceinfo-95x15.png" group-title="Aziz", FRANCE INFO
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/franceinfo-95x15.png" group-title="Aziz", Franceinfo
 http://topiptv.net:5890/aziz/1234/502
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/BFM_TV_58x24.png" group-title="Aziz", BFM TV
@@ -6300,22 +6298,22 @@ http://topiptv.net:5890/aziz/1234/498
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/BFM_TV_58x24.png" group-title="Aziz", BFM TV
 http://topiptv.net:5890/aziz/1234/499
 
-#EXTINF:-1 tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFMTV.svg" group-title="Aziz", BFMTV H265
+#EXTINF:-1 tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFMTV.svg" group-title="Aziz", BFMTV
 http://topiptv.net:5890/aziz/1234/56272
 
-#EXTINF:-1 tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFM-Paris.svg" group-title="Aziz", BFM PARIS H265
+#EXTINF:-1 tvg-logo="https://static.bfmtv.com/ressources/img/logo/header/BFM-Paris.svg" group-title="Aziz", BFM PARIS
 http://topiptv.net:5890/aziz/1234/56340
 
 #EXTINF:-1 tvg-logo="" group-title="Aziz", --FR| DIVERTISSE | LIVE --
 http://topiptv.net:5890/aziz/1234/505
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="Aziz", TF1 Séries FILMS
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="Aziz", TF1 Séries Films
 http://topiptv.net:5890/aziz/1234/506
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="Aziz", TF1 Séries FILMS
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="Aziz", TF1 Séries Films
 http://topiptv.net:5890/aziz/1234/507
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SériesFilms.fr.png" group-title="Aziz", TF1 Séries FILMS H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/TF1SériesFilms.fr.png" group-title="Aziz", TF1 Séries Films
 http://topiptv.net:5890/aziz/1234/56279
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="Aziz", TFX
@@ -6324,7 +6322,7 @@ http://topiptv.net:5890/aziz/1234/508
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="Aziz", TFX
 http://topiptv.net:5890/aziz/1234/509
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="Aziz", TFX H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tfx-95x35.gif" group-title="Aziz", TFX
 http://topiptv.net:5890/aziz/1234/56278
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/teva-95x42.png" group-title="Aziz", TEVA
@@ -6333,13 +6331,13 @@ http://topiptv.net:5890/aziz/1234/491
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/teva-95x42.png" group-title="Aziz", TEVA
 http://topiptv.net:5890/aziz/1234/492
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Aziz", TEVA H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Teva.fr.png" group-title="Aziz", TEVA
 http://topiptv.net:5890/aziz/1234/56307
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rtl9-95x46.png" group-title="Aziz", RTL 9
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/RTL 9-95x46.png" group-title="Aziz", RTL 9
 http://topiptv.net:5890/aziz/1234/490
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lu/RTL9.lu.png" group-title="Aziz", RTL9 H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/lu/RTL 9.lu.png" group-title="Aziz", RTL 9
 http://topiptv.net:5890/aziz/1234/56282
 
 #EXTINF:-1 tvg-logo="https://www.13emerue.fr/sites/all/themes/pint_themes/base_13thstreet_v2/logo-fr.png" group-title="Aziz", 13eme RUE
@@ -6348,16 +6346,16 @@ http://topiptv.net:5890/aziz/1234/518
 #EXTINF:-1 tvg-logo="https://www.13emerue.fr/sites/all/themes/pint_themes/base_13thstreet_v2/logo-fr.png" group-title="Aziz", 13eme RUE
 http://topiptv.net:5890/aziz/1234/519
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/ab1-95x36.png" group-title="Aziz", AB1
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/AB 1-95x36.png" group-title="Aziz", AB 1
 http://topiptv.net:5890/aziz/1234/522
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/ab1-95x36.png" group-title="Aziz", AB1
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/AB 1-95x36.png" group-title="Aziz", AB 1
 http://topiptv.net:5890/aziz/1234/523
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/be/AB3_43x46.png" group-title="Aziz", AB3
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/be/AB 3_43x46.png" group-title="Aziz", AB 3
 http://topiptv.net:5890/aziz/1234/524
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/be/AB3_43x46.png" group-title="Aziz", AB3
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/be/AB 3_43x46.png" group-title="Aziz", AB 3
 http://topiptv.net:5890/aziz/1234/525
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Aziz", ACTION
@@ -6366,19 +6364,19 @@ http://topiptv.net:5890/aziz/1234/545
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Aziz", ACTION
 http://topiptv.net:5890/aziz/1234/546
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Aziz", ACTION H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Aziz", ACTION
 http://topiptv.net:5890/aziz/1234/56304
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="Aziz", ARTE
 http://topiptv.net:5890/aziz/1234/515
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="Aziz", ARTE H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/arte_90x22.png" group-title="Aziz", ARTE
 http://topiptv.net:5890/aziz/1234/56266
 
 #EXTINF:-1 tvg-logo="http://onebox.optimum.net/sites/default/files/Altice-horz-logo.png" group-title="Aziz", ALTICE STUDIO
 http://topiptv.net:5890/aziz/1234/510
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/NRJ12_36x37.png" group-title="Aziz", NRJ 12
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/NRJ 12_36x37.png" group-title="Aziz", NRJ 12
 http://topiptv.net:5890/aziz/1234/685
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/bet-85x27.png" group-title="Aziz", BET*
@@ -6429,7 +6427,7 @@ http://topiptv.net:5890/aziz/1234/526
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rmc-story-95x50.png" group-title="Aziz", RMC STORY
 http://topiptv.net:5890/aziz/1234/527
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCStory.fr.png" group-title="Aziz", RMC STORY H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCStory.fr.png" group-title="Aziz", RMC STORY
 http://topiptv.net:5890/aziz/1234/56283
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/serie-club-89x55.png" group-title="Aziz", SERIE CLUB
@@ -6456,31 +6454,31 @@ http://topiptv.net:5890/aziz/1234/540
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="Aziz", TMC
 http://topiptv.net:5890/aziz/1234/541
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="Aziz", TMC H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="Aziz", TMC
 http://topiptv.net:5890/aziz/1234/56280
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/sundancetv-95x19.png" group-title="Aziz", SUNDANCE TV
 http://topiptv.net:5890/aziz/1234/511
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="Aziz", TV BREIZH
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="Aziz", TvBreizh
 http://topiptv.net:5890/aziz/1234/533
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="Aziz", TV BREIZH
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tvBreizh-95x20.png" group-title="Aziz", TvBreizh
 http://topiptv.net:5890/aziz/1234/534
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/warner-54x52.png" group-title="Aziz", WARNER TV
 http://topiptv.net:5890/aziz/1234/532
 
-#EXTINF:-1 tvg-logo="https://imgur.com/guM6jQ3.png" group-title="Aziz", NRJ12 H265
+#EXTINF:-1 tvg-logo="https://imgur.com/guM6jQ3.png" group-title="Aziz", NRJ 12
 http://topiptv.net:5890/aziz/1234/56277
 
-#EXTINF:-1 tvg-logo="" group-title="Aziz", MY CUISINE H265
+#EXTINF:-1 tvg-logo="" group-title="Aziz", MY CUISINE
 http://topiptv.net:5890/aziz/1234/56308
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/AlticeStudio.fr.png" group-title="Aziz", ALTICE STUDIO H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/AlticeStudio.fr.png" group-title="Aziz", ALTICE STUDIO
 http://topiptv.net:5890/aziz/1234/56331
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Aziz", WARNER TV H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="Aziz", WARNER TV
 http://topiptv.net:5890/aziz/1234/56332
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="Aziz", CANAL+
@@ -6489,7 +6487,7 @@ http://topiptv.net:5890/aziz/1234/553
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="Aziz", CANAL+
 http://topiptv.net:5890/aziz/1234/554
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="Aziz", CANAL+ H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_plus.png" group-title="Aziz", CANAL+
 http://topiptv.net:5890/aziz/1234/56293
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="Aziz", CANAL+ CINEMA
@@ -6498,7 +6496,7 @@ http://topiptv.net:5890/aziz/1234/555
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="Aziz", CANAL+ CINEMA
 http://topiptv.net:5890/aziz/1234/556
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="Aziz", CANAL+ CINEMA H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_cinema.png" group-title="Aziz", CANAL+ CINEMA
 http://topiptv.net:5890/aziz/1234/56292
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_Décalé.png" group-title="Aziz", CANAL+ Décalé
@@ -6507,7 +6505,7 @@ http://topiptv.net:5890/aziz/1234/557
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_Décalé.png" group-title="Aziz", CANAL+ Décalé
 http://topiptv.net:5890/aziz/1234/558
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_Décalé.png" group-title="Aziz", CANAL+ Décalé H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_Décalé.png" group-title="Aziz", CANAL+ Décalé
 http://topiptv.net:5890/aziz/1234/56301
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="Aziz", CANAL+ FAMILY
@@ -6516,13 +6514,13 @@ http://topiptv.net:5890/aziz/1234/559
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="Aziz", CANAL+ FAMILY
 http://topiptv.net:5890/aziz/1234/560
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="Aziz", CANAL+ FAMILY h265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_family.png" group-title="Aziz", CANAL+ FAMILY
 http://topiptv.net:5890/aziz/1234/56300
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="Aziz", CANAL+ Séries
 http://topiptv.net:5890/aziz/1234/562
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="Aziz", CANAL+ Séries H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_serie.png" group-title="Aziz", CANAL+ Séries
 http://topiptv.net:5890/aziz/1234/56294
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="Aziz", --FR| Ciné+ | LIVE --
@@ -6531,7 +6529,7 @@ http://topiptv.net:5890/aziz/1234/1423
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="Aziz", Ciné+ PREMIER
 http://topiptv.net:5890/aziz/1234/564
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="Aziz", Ciné+ PREMIER H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG" group-title="Aziz", Ciné+ PREMIER
 http://topiptv.net:5890/aziz/1234/56306
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG" group-title="Aziz", Ciné+ CLUB
@@ -6546,13 +6544,13 @@ http://topiptv.net:5890/aziz/1234/569
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="Aziz", Ciné+ CLASSIC
 http://topiptv.net:5890/aziz/1234/570
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="Aziz", Ciné+ CLASSIC H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG" group-title="Aziz", Ciné+ CLASSIC
 http://topiptv.net:5890/aziz/1234/56319
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="Aziz", Ciné+ EMOTION
 http://topiptv.net:5890/aziz/1234/572
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="Aziz", Ciné+ EMOTION H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG" group-title="Aziz", Ciné+ EMOTION
 http://topiptv.net:5890/aziz/1234/56305
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="Aziz", Ciné+ FRISSON
@@ -6561,7 +6559,7 @@ http://topiptv.net:5890/aziz/1234/573
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="Aziz", Ciné+ FRISSON
 http://topiptv.net:5890/aziz/1234/574
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="Aziz", Ciné+ FRISSON H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/91X68/CHN43FB_398.PNG" group-title="Aziz", Ciné+ FRISSON
 http://topiptv.net:5890/aziz/1234/56302
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="Aziz", Ciné+ FAMIZ
@@ -6570,25 +6568,25 @@ http://topiptv.net:5890/aziz/1234/567
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="Aziz", Ciné+ FAMIZ
 http://topiptv.net:5890/aziz/1234/568
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="Aziz", Ciné+ FAMIZ H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG" group-title="Aziz", Ciné+ FAMIZ
 http://topiptv.net:5890/aziz/1234/56318
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="Aziz", OCS CHOC
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="Aziz", OCS Choc
 http://topiptv.net:5890/aziz/1234/575
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="Aziz", OCS Choc
 http://topiptv.net:5890/aziz/1234/576
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="Aziz", OCS CHOC H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSChoc.fr.png" group-title="Aziz", OCS Choc
 http://topiptv.net:5890/aziz/1234/56317
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS CITY
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS City
 http://topiptv.net:5890/aziz/1234/577
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS CITY
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS City
 http://topiptv.net:5890/aziz/1234/578
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS CITY H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSCity.fr.png" group-title="Aziz", OCS City
 http://topiptv.net:5890/aziz/1234/56315
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="Aziz", OCS GEANTS
@@ -6597,16 +6595,16 @@ http://topiptv.net:5890/aziz/1234/579
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="Aziz", OCS GEANTS
 http://topiptv.net:5890/aziz/1234/580
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="Aziz", OCS GEANTS H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSGeants.fr.png" group-title="Aziz", OCS GEANTS
 http://topiptv.net:5890/aziz/1234/56316
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="Aziz", OCS MAX
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="Aziz", OCS Max
 http://topiptv.net:5890/aziz/1234/581
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="Aziz", OCS Max
 http://topiptv.net:5890/aziz/1234/582
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="Aziz", OCS MAX H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/OCSMax.fr.png" group-title="Aziz", OCS Max
 http://topiptv.net:5890/aziz/1234/56314
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="Aziz", CANAL+ SPORT
@@ -6615,7 +6613,7 @@ http://topiptv.net:5890/aziz/1234/584
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="Aziz", CANAL+ SPORT
 http://topiptv.net:5890/aziz/1234/585
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="Aziz", CANAL+ SPORT H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/canal_sport.png" group-title="Aziz", CANAL+ SPORT
 http://topiptv.net:5890/aziz/1234/56295
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="Aziz", beIN SPORTS 1
@@ -6624,7 +6622,7 @@ http://topiptv.net:5890/aziz/1234/58334
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="Aziz", beIN SPORTS 1
 http://topiptv.net:5890/aziz/1234/587
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="Aziz", beIN SPORTS 1 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="Aziz", beIN SPORTS 1
 http://topiptv.net:5890/aziz/1234/56285
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="Aziz", beIN SPORTS 2
@@ -6633,13 +6631,13 @@ http://topiptv.net:5890/aziz/1234/588
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="Aziz", beIN SPORTS 2
 http://topiptv.net:5890/aziz/1234/589
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="Aziz", beIN SPORTS 2 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="Aziz", beIN SPORTS 2
 http://topiptv.net:5890/aziz/1234/56286
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="Aziz", beIN SPORTS 3
 http://topiptv.net:5890/aziz/1234/591
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="Aziz", beIN SPORTS 3 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="Aziz", beIN SPORTS 3
 http://topiptv.net:5890/aziz/1234/56287
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="Aziz", beIN SPORTS MAX 5
@@ -6672,7 +6670,7 @@ http://topiptv.net:5890/aziz/1234/601
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="Aziz", RMC SPORT 1
 http://topiptv.net:5890/aziz/1234/602
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="Aziz", RMC SPORT1 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_1.png" group-title="Aziz", RMC SPORT1
 http://topiptv.net:5890/aziz/1234/56288
 
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/124.png" group-title="Aziz", RMC SPORT ACCESS 1
@@ -6684,7 +6682,7 @@ http://topiptv.net:5890/aziz/1234/603
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="Aziz", RMC SPORT 2
 http://topiptv.net:5890/aziz/1234/604
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="Aziz", RMC SPORT2 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_2.png" group-title="Aziz", RMC SPORT2
 http://topiptv.net:5890/aziz/1234/56289
 
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/71.png" group-title="Aziz", RMC SPORT ACCESS 2
@@ -6696,7 +6694,7 @@ http://topiptv.net:5890/aziz/1234/605
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="Aziz", RMC SPORT 3
 http://topiptv.net:5890/aziz/1234/606
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="Aziz", RMC SPORT3 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_3.png" group-title="Aziz", RMC SPORT3
 http://topiptv.net:5890/aziz/1234/56290
 
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/129.png" group-title="Aziz", RMC SPORT ACCESS 3
@@ -6708,7 +6706,7 @@ http://topiptv.net:5890/aziz/1234/607
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="Aziz", RMC SPORT 4
 http://topiptv.net:5890/aziz/1234/608
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="Aziz", RMC SPORT4 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/rmcsport_4.png" group-title="Aziz", RMC SPORT4
 http://topiptv.net:5890/aziz/1234/56291
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_756.PNG" group-title="Aziz", RMC SPORT 5
@@ -6753,7 +6751,7 @@ http://topiptv.net:5890/aziz/1234/624
 #EXTINF:-1 tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="Aziz", EQUIDIA LIVE
 http://topiptv.net:5890/aziz/1234/625
 
-#EXTINF:-1 tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="Aziz", EQUIDIA H265
+#EXTINF:-1 tvg-logo="https://wp19-images-ch-dynamic.horizon.tv/channellogos/02/equidia.png" group-title="Aziz", EQUIDIA
 http://topiptv.net:5890/aziz/1234/56313
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="Aziz", EUROSPORT 1
@@ -6762,7 +6760,7 @@ http://topiptv.net:5890/aziz/1234/626
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="Aziz", EUROSPORT 1
 http://topiptv.net:5890/aziz/1234/627
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="Aziz", EUROSPORT H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_1.png" group-title="Aziz", EUROSPORT
 http://topiptv.net:5890/aziz/1234/56334
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="Aziz", EUROSPORT 2
@@ -6771,7 +6769,7 @@ http://topiptv.net:5890/aziz/1234/628
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="Aziz", EUROSPORT 2
 http://topiptv.net:5890/aziz/1234/629
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="Aziz", EUROSPORT2 H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/eurosport_2.png" group-title="Aziz", EUROSPORT2
 http://topiptv.net:5890/aziz/1234/56335
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/FootPlus24.fr.png" group-title="Aziz", FOOT+ 24/24
@@ -6786,7 +6784,7 @@ http://topiptv.net:5890/aziz/1234/622
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="Aziz", L'EQUIPE
 http://topiptv.net:5890/aziz/1234/623
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="Aziz", L'EQUIPE H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/equipe_21.png" group-title="Aziz", L'EQUIPE
 http://topiptv.net:5890/aziz/1234/56275
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/multisport_1.png" group-title="Aziz", MULTI SPORTS 1HD
@@ -6810,13 +6808,13 @@ http://topiptv.net:5890/aziz/1234/620
 #EXTINF:-1 tvg-logo="" group-title="Aziz", --FR| DOCUMENTAIRE | LIVE --
 http://topiptv.net:5890/aziz/1234/637
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="Aziz", USHUAIA
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/Ushuaïa-95x18.png" group-title="Aziz", Ushuaïa
 http://topiptv.net:5890/aziz/1234/643
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="Aziz", USHUAIA
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/Ushuaïa-95x18.png" group-title="Aziz", Ushuaïa
 http://topiptv.net:5890/aziz/1234/644
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="Aziz", USHUAIA H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/Ushuaïa-95x18.png" group-title="Aziz", Ushuaïa
 http://topiptv.net:5890/aziz/1234/56326
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="Aziz", ANIMAUX
@@ -6825,7 +6823,7 @@ http://topiptv.net:5890/aziz/1234/645
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="Aziz", ANIMAUX
 http://topiptv.net:5890/aziz/1234/646
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="Aziz", ANIMAUX H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/animaux-95x23.png" group-title="Aziz", ANIMAUX
 http://topiptv.net:5890/aziz/1234/56296
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/seasons-95x38.gif" group-title="Aziz", SEASON
@@ -6858,7 +6856,7 @@ http://topiptv.net:5890/aziz/1234/647
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/PlanètePlus-91x55.png" group-title="Aziz", Planète+
 http://topiptv.net:5890/aziz/1234/648
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/PlanètePlus-91x55.png" group-title="Aziz", Planète+ H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/PlanètePlus-91x55.png" group-title="Aziz", Planète+
 http://topiptv.net:5890/aziz/1234/56320
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="Aziz", Planète+ A&E
@@ -6867,7 +6865,7 @@ http://topiptv.net:5890/aziz/1234/649
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="Aziz", Planète+ A&E
 http://topiptv.net:5890/aziz/1234/650
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PlanèteAction.fr.png" group-title="Aziz", Planète+A&E H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PlanèteAction.fr.png" group-title="Aziz", Planète+A&E
 http://topiptv.net:5890/aziz/1234/56327
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="Aziz", Planète+ CI
@@ -6876,7 +6874,7 @@ http://topiptv.net:5890/aziz/1234/651
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="Aziz", Planète+ CI
 http://topiptv.net:5890/aziz/1234/652
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PlanèteJustice.fr.png" group-title="Aziz", Planète + CI H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PlanèteJustice.fr.png" group-title="Aziz", Planète + CI
 http://topiptv.net:5890/aziz/1234/56328
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="Aziz", SCIENCE ET VIE
@@ -6885,7 +6883,7 @@ http://topiptv.net:5890/aziz/1234/661
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="Aziz", SCIENCE&VIE
 http://topiptv.net:5890/aziz/1234/662
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="Aziz", SCIENCES&VIE H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="Aziz", SCIENCES&VIE
 http://topiptv.net:5890/aziz/1234/56330
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="Aziz", DISCOVERY CHANNEL
@@ -6894,7 +6892,7 @@ http://topiptv.net:5890/aziz/1234/665
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="Aziz", DISCOVERY
 http://topiptv.net:5890/aziz/1234/666
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="Aziz", DISCOVERY H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryChannel.fr.png" group-title="Aziz", DISCOVERY
 http://topiptv.net:5890/aziz/1234/56321
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="Aziz", DISCOVERY INVESTIGATION
@@ -6903,13 +6901,13 @@ http://topiptv.net:5890/aziz/1234/669
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="Aziz", DISCOVERY INV
 http://topiptv.net:5890/aziz/1234/670
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="Aziz", DISCOVERY INVES H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryInvestigation.fr.png" group-title="Aziz", DISCOVERY INVES
 http://topiptv.net:5890/aziz/1234/56324
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryFamily.fr.png" group-title="Aziz", DISCOVERY FAMILY
 http://topiptv.net:5890/aziz/1234/671
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryFamily.fr.png" group-title="Aziz", DISCOVERY FAMILY H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DiscoveryFamily.fr.png" group-title="Aziz", DISCOVERY FAMILY
 http://topiptv.net:5890/aziz/1234/56322
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="Aziz", DISCOVERY SCIENCE
@@ -6918,7 +6916,7 @@ http://topiptv.net:5890/aziz/1234/667
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="Aziz", DISCOVERY SCIENCE
 http://topiptv.net:5890/aziz/1234/668
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="Aziz", DISCOVERY SCIENCE H265
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/discovery_science.png" group-title="Aziz", DISCOVERY SCIENCE
 http://topiptv.net:5890/aziz/1234/56323
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CrimeDistrict.fr.png" group-title="Aziz", CRIME DISTRICT
@@ -6933,7 +6931,7 @@ http://topiptv.net:5890/aziz/1234/653
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rmc_decouverte_73x30.png" group-title="Aziz", RMC Découverte
 http://topiptv.net:5890/aziz/1234/654
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="Aziz", RMC Découverte H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/RMCdecouverte.fr.png" group-title="Aziz", RMC Découverte
 http://topiptv.net:5890/aziz/1234/56284
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="Aziz", NATIONAL GEO
@@ -6942,7 +6940,7 @@ http://topiptv.net:5890/aziz/1234/655
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="Aziz", NATIONAL GEO
 http://topiptv.net:5890/aziz/1234/656
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="Aziz", NATIONAL GEO CHANNEL H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="Aziz", NATIONAL GEO CHANNEL
 http://topiptv.net:5890/aziz/1234/56309
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="Aziz", NAT GEO WILD
@@ -6951,19 +6949,19 @@ http://topiptv.net:5890/aziz/1234/657
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="Aziz", NAT GEO WILD
 http://topiptv.net:5890/aziz/1234/658
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="Aziz", NAT GEO WILD H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="Aziz", NAT GEO WILD
 http://topiptv.net:5890/aziz/1234/56297
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="Aziz", Toute l'histoire
 http://topiptv.net:5890/aziz/1234/674
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="Aziz", TOUTE L HISTOIRE H265
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="Aziz", TOUTE L HISTOIRE
 http://topiptv.net:5890/aziz/1234/56276
 
 #EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/chassePeche-95x44.gif" group-title="Aziz", Chasse et pêche
 http://topiptv.net:5890/aziz/1234/675
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/chassePeche-95x44.gif" group-title="Aziz", CHASSE & PECHE H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/chassePeche-95x44.gif" group-title="Aziz", CHASSE & PECHE
 http://topiptv.net:5890/aziz/1234/56329
 
 #EXTINF:-1 tvg-logo="" group-title="Aziz", --FR| ENFANT | LIVE --
@@ -6975,13 +6973,13 @@ http://topiptv.net:5890/aziz/1234/735
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boing.fr.png" group-title="Aziz", BOING
 http://topiptv.net:5890/aziz/1234/736
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", BOOMERANG
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", Boomerang
 http://topiptv.net:5890/aziz/1234/733
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", BOOMERANG
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", Boomerang
 http://topiptv.net:5890/aziz/1234/734
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", BOOMERANG H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Boomerang.fr.png" group-title="Aziz", Boomerang
 http://topiptv.net:5890/aziz/1234/56303
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" group-title="Aziz", CANAL J
@@ -6990,7 +6988,7 @@ http://topiptv.net:5890/aziz/1234/715
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CanalJ.fr.png" group-title="Aziz", CANAL J
 http://topiptv.net:5890/aziz/1234/716
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalJ-50x50.png" group-title="Aziz", CANALJ H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalJ-50x50.png" group-title="Aziz", CANALJ
 http://topiptv.net:5890/aziz/1234/56325
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DisneyChannel.fr.png" group-title="Aziz", DISNEY CHANNEL
@@ -6999,7 +6997,7 @@ http://topiptv.net:5890/aziz/1234/737
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DisneyChannel.fr.png" group-title="Aziz", DISNEY CHANNEL
 http://topiptv.net:5890/aziz/1234/738
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/disney-channel-85x38.png" group-title="Aziz", DISNEY CHANNEL H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/disney-channel-85x38.png" group-title="Aziz", DISNEY CHANNEL
 http://topiptv.net:5890/aziz/1234/56310
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DisneyCinema.fr.png" group-title="Aziz", DISNEY CINEMA
@@ -7014,7 +7012,7 @@ http://topiptv.net:5890/aziz/1234/741
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DisneyJunior.fr.png" group-title="Aziz", DISNEY JUNIOR
 http://topiptv.net:5890/aziz/1234/742
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/de/DisneyJunior_95x34.png" group-title="Aziz", DISNEY JUNIOR H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/de/DisneyJunior_95x34.png" group-title="Aziz", DISNEY JUNIOR
 http://topiptv.net:5890/aziz/1234/56311
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/DisneyXD.fr.png" group-title="Aziz", DISNEY XD
@@ -7029,7 +7027,7 @@ http://topiptv.net:5890/aziz/1234/749
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="Aziz", CARTOON NETWORK
 http://topiptv.net:5890/aziz/1234/750
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="Aziz", CARTOON NETWORK H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/CartoonNetwork.fr.png" group-title="Aziz", CARTOON NETWORK
 http://topiptv.net:5890/aziz/1234/56299
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="Aziz", GAME ONE
@@ -7038,7 +7036,7 @@ http://topiptv.net:5890/aziz/1234/719
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="Aziz", GAME ONE
 http://topiptv.net:5890/aziz/1234/720
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="Aziz", GAME ONE H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/GameOne.fr.png" group-title="Aziz", GAME ONE
 http://topiptv.net:5890/aziz/1234/56339
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="Aziz", GULLI
@@ -7047,13 +7045,13 @@ http://topiptv.net:5890/aziz/1234/725
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Gulli.fr.png" group-title="Aziz", GULLI
 http://topiptv.net:5890/aziz/1234/726
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/gulli_45x43.png" group-title="Aziz", GULLI H265
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/gulli_45x43.png" group-title="Aziz", GULLI
 http://topiptv.net:5890/aziz/1234/56274
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/mangas.png" group-title="Aziz", MANGAS
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/Mangas.png" group-title="Aziz", Mangas
 http://topiptv.net:5890/aziz/1234/721
 
-#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/mangas.png" group-title="Aziz", MANGAS
+#EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/Mangas.png" group-title="Aziz", Mangas
 http://topiptv.net:5890/aziz/1234/722
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/PIWI.fr.png" group-title="Aziz", PIWI+
@@ -7083,10 +7081,10 @@ http://topiptv.net:5890/aziz/1234/717
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/JONE.fr.png" group-title="Aziz", J-ONE
 http://topiptv.net:5890/aziz/1234/718
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon.fr.png" group-title="Aziz", NICKELODEON
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodéon.fr.png" group-title="Aziz", Nickelodéon
 http://topiptv.net:5890/aziz/1234/745
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon.fr.png" group-title="Aziz", NICKELODEON
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodéon.fr.png" group-title="Aziz", Nickelodéon
 http://topiptv.net:5890/aziz/1234/746
 
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="Aziz", NICK JUNIOR
@@ -7095,13 +7093,13 @@ http://topiptv.net:5890/aziz/1234/747
 #EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="Aziz", FR|Nick Junior
 http://topiptv.net:5890/aziz/1234/69730
 
-#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="Aziz", NICK JUNIOR H265
+#EXTINF:-1 tvg-logo="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG" group-title="Aziz", NICK JUNIOR
 http://topiptv.net:5890/aziz/1234/56336
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon4Teen.fr.png" group-title="Aziz", Nickelodeon 4 TEEN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodéon4Teen.fr.png" group-title="Aziz", Nickelodéon 4 TEEN
 http://topiptv.net:5890/aziz/1234/748
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodeon4Teen.fr.png" group-title="Aziz", NICKELODEON 4TEEN H265
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/Nickelodéon4Teen.fr.png" group-title="Aziz", Nickelodéon 4TEEN
 http://topiptv.net:5890/aziz/1234/56337
 
 #EXTINF:-1 tvg-logo="" group-title="Aziz", --FR|  FR MUSIC | LIVE --
@@ -7113,7 +7111,7 @@ http://topiptv.net:5890/aziz/1234/677
 #EXTINF:-1 tvg-logo="https://imgur.com/FNfywkS.png" group-title="Aziz", M6 MUSIC
 http://topiptv.net:5890/aziz/1234/679
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FNfywkS.png" group-title="Aziz", M6 MUSIC H265
+#EXTINF:-1 tvg-logo="https://imgur.com/FNfywkS.png" group-title="Aziz", M6 MUSIC
 http://topiptv.net:5890/aziz/1234/56298
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cN3GYUB.png" group-title="Aziz", MCM
@@ -7122,7 +7120,7 @@ http://topiptv.net:5890/aziz/1234/680
 #EXTINF:-1 tvg-logo="https://imgur.com/LdYXye5.png" group-title="Aziz", MCM TOP
 http://topiptv.net:5890/aziz/1234/681
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LdYXye5.png" group-title="Aziz", MCM TOP H265
+#EXTINF:-1 tvg-logo="https://imgur.com/LdYXye5.png" group-title="Aziz", MCM TOP
 http://topiptv.net:5890/aziz/1234/56312
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vuwe53E.png" group-title="Aziz", NRJ HITS
@@ -7332,7 +7330,7 @@ http://k.lf.mk:8037/live/ksport-restram/486278768/471.ts
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", Paramount Channel
 http://k.lf.mk:8037/live/ksport-restram/486278768/470.ts
 
-#EXTINF:-1 tvg-logo="" group-title="ksport-restram", OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="ksport-restram", OCS Max
 http://k.lf.mk:8037/live/ksport-restram/486278768/469.ts
 
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", TFX (NT1)
@@ -7341,10 +7339,10 @@ http://k.lf.mk:8037/live/ksport-restram/486278768/468.ts
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", NRJ HITS
 http://k.lf.mk:8037/live/ksport-restram/486278768/467.ts
 
-#EXTINF:-1 tvg-logo="" group-title="ksport-restram", Nickelodeon Junior
+#EXTINF:-1 tvg-logo="" group-title="ksport-restram", Nickelodéon Junior
 http://k.lf.mk:8037/live/ksport-restram/486278768/466.ts
 
-#EXTINF:-1 tvg-logo="" group-title="ksport-restram", Nickelodeon
+#EXTINF:-1 tvg-logo="" group-title="ksport-restram", Nickelodéon
 http://k.lf.mk:8037/live/ksport-restram/486278768/465.ts
 
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", Nat Geo
@@ -7404,10 +7402,10 @@ http://k.lf.mk:8037/live/ksport-restram/486278768/446.ts
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", Action
 http://k.lf.mk:8037/live/ksport-restram/486278768/445.ts
 
-#EXTINF:-1 tvg-logo="" group-title="ksport-restram", AB3
+#EXTINF:-1 tvg-logo="" group-title="ksport-restram", AB 3
 http://k.lf.mk:8037/live/ksport-restram/486278768/444.ts
 
-#EXTINF:-1 tvg-logo="" group-title="ksport-restram", AB1
+#EXTINF:-1 tvg-logo="" group-title="ksport-restram", AB 1
 http://k.lf.mk:8037/live/ksport-restram/486278768/443.ts
 
 #EXTINF:-1 tvg-logo="" group-title="ksport-restram", 13eme Rue
@@ -7428,9 +7426,9 @@ http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/777
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/220
 #EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteurs" tvg-logo="http://www.sat-address.com/f/pics/Stations/AB-Moteurs_o.jpg" group-title="gjsjAXYWgJ", AB Moteurs
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1222
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1" tvg-logo="http://www.sat-address.com/f/pics/Stations/AB-1_o.jpg" group-title="gjsjAXYWgJ", AB1
+#EXTINF:-1 tvg-id="AB 1.fr" tvg-name="FR: AB 1" tvg-logo="http://www.sat-address.com/f/pics/Stations/AB-1_o.jpg" group-title="gjsjAXYWgJ", AB 1
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1214
-#EXTINF:-1 tvg-id="AB3.be" tvg-name="FR: AB3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab3.jpg" group-title="gjsjAXYWgJ", AB3
+#EXTINF:-1 tvg-id="AB 3.be" tvg-name="FR: AB 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/AB 3.jpg" group-title="gjsjAXYWgJ", AB 3
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1215
 #EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/action_fr.jpg" group-title="gjsjAXYWgJ", ACTION
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/227
@@ -7536,7 +7534,7 @@ http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1225
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/540
 #EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: National Geographic Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="gjsjAXYWgJ", National Geographic Channel
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/198
-#EXTINF:-1 tvg-id="NRJHitsBelgique,be" tvg-name="FR: NRJ 12" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj12.jpg" group-title="gjsjAXYWgJ", NRJ 12
+#EXTINF:-1 tvg-id="NRJHitsBelgique,be" tvg-name="FR: NRJ 12" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/NRJ 12.jpg" group-title="gjsjAXYWgJ", NRJ 12
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/221
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Paramount-Channel-France_o.jpg" group-title="gjsjAXYWgJ", Paramount Channel
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1221
@@ -7546,7 +7544,7 @@ http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/197
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/267
 #EXTINF:-1 tvg-id="Planète.fr" tvg-name="FR: Planète+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_Planète_hd.jpg" group-title="gjsjAXYWgJ", Planète+
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/196
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR: RTL 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl9.jpg" group-title="gjsjAXYWgJ", RTL 9
+#EXTINF:-1 tvg-id="RTL 9.fr" tvg-name="FR: RTL 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/RTL 9.jpg" group-title="gjsjAXYWgJ", RTL 9
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/776
 #EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="" group-title="gjsjAXYWgJ", RMC SPORT 1
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1058926
@@ -7580,9 +7578,9 @@ http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1219
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/853
 #EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tmc.jpg" group-title="gjsjAXYWgJ", TMC
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/192a
-#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="FR: TV Breizh" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV-Breizh_o.jpg" group-title="gjsjAXYWgJ", TV Breizh
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="FR: TvBreizh" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV-Breizh_o.jpg" group-title="gjsjAXYWgJ", TvBreizh
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1216
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: Ushuaia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv_hd.jpg" group-title="gjsjAXYWgJ", Ushuaia TV
+#EXTINF:-1 tvg-id="UshuaïaTV.fr" tvg-name="FR: Ushuaïa TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Ushuaïa_tv_hd.jpg" group-title="gjsjAXYWgJ", Ushuaïa TV
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1180
 #EXTINF:-1 tvg-id="Voyage.fr" tvg-name="FR: Voyage" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title="gjsjAXYWgJ", Voyage
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1181
