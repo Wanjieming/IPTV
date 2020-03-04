@@ -1,5 +1,632 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49161
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49162
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49163
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 4 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49164
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 5 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49165
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Sansat",M6 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49166
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FRANCE O HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2082_432_1_C00000_0_0_0.png" group-title="Sansat",FRANCE O HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49167
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="Sansat",PARIS PREMIERE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49168
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="TFX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Sansat",TFX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49169
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat",TF1 SERIES FILMS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49170
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Sansat",6TER HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49171
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat",TMC HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49172
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="C8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="Sansat",C8 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49173
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="W9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Sansat",W9 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49174
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="ARTE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Sansat",ARTE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49175
+#EXTINF:-1 tvg-ID="" tvg-name="RTS UN HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4333_300C_13E_820000_0_0_0.png" group-title="Sansat",RTS UN HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49176
+#EXTINF:-1 tvg-ID="" tvg-name="RTS DEUX HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="Sansat",RTS DEUX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49177
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49178
+#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="AB3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_1006_451_35_C00000_0_0_0.png" group-title="Sansat",AB3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49179
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="Sansat",TV BREIZH HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49180
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Sansat",TV5 MONDE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49181
+#EXTINF:-1 tvg-ID="" tvg-name="13EME RUE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_724_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",13EME RUE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49182
+#EXTINF:-1 tvg-ID="" tvg-name="LFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/lfmTV.png" group-title="Sansat",LFM TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49183
+#EXTINF:-1 tvg-ID="" tvg-name="TVM3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/TVM3.png" group-title="Sansat",TVM3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49184
+#EXTINF:-1 tvg-ID="" tvg-name="BET HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F41_42E_1_C00000_0_0_0.png" group-title="Sansat",BET HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49185
+#EXTINF:-1 tvg-ID="" tvg-name="BFM BUSINESS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Sansat",BFM BUSINESS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49186
+#EXTINF:-1 tvg-ID="" tvg-name="BFM PARIS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="Sansat",BFM PARIS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49187
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="CSTAR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="Sansat",CSTAR HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49188
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="TEVA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="Sansat",TEVA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49189
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49190
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",NRJ 12 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49191
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="Cherie 25 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Sansat",Cherie 25 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49192
+#EXTINF:-1 tvg-ID="canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANAL 31 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49193
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/cliquetv.png" group-title="Sansat",CLIQUE TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49194
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="COMEDIE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="Sansat",COMEDIE  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49195
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",GAME ONE  1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49196
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="GAME ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",GAME ONE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49197
+#EXTINF:-1 tvg-ID="idf1.fr" tvg-name="IDF 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/IDFTV.png" group-title="Sansat",IDF 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49198
+#EXTINF:-1 tvg-ID="" tvg-name="J ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B2_43E_1_C00000_0_0_0.png" group-title="Sansat",J ONE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49199
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/mycuisine.png" group-title="Sansat",MY CUISINE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49201
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CA_444_1_C00000_0_0_0.png" group-title="Sansat",NOVELAS TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49202
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="BFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Sansat",BFM TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49204
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="CNEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Sansat",CNEWS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49205
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FRANCEINFO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Sansat",FRANCEINFO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49206
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="LCI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Sansat",LCI HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49207
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="France 24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Sansat",France 24 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49208
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name="LCP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Sansat",LCP HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49209
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="I24 Francis HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Sansat",I24 Francis HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49210
+#EXTINF:-1 tvg-ID="" tvg-name="RT France" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_18EF_3F4_1_C00000_0_0_0.png" group-title="Sansat",RT France
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/51047
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name="EuroNews" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="Sansat",EuroNews
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52075
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE EUROPE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="Sansat",TV5 MONDE EUROPE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49211
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49213
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49214
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49215
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 4 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49216
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="RMC SPORT 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 5 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49217
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="RMC SPORT 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 6 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49218
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="RMC SPORT 7 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 7 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49219
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="RMC SPORT 8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 8 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49220
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="RMC SPORT 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 9 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49221
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="RMC SPORT 10 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 10 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49222
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="RMC SPORT 11 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 11 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49223
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="RMC SPORT 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 12 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49224
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="RMC SPORT 13 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 13 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49225
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="RMC SPORT 14 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 14 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49226
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="RMC SPORT 15 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 15 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49227
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name="RMC SPORT NEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",RMC SPORT NEWS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49228
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49229
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49230
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49231
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 4
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52518
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 5
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52519
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 6
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52520
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 7
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52521
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 8
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52522
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2073_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 9
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52523
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2074_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 10
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52524
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="Sansat",EUROSPORT 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49232
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="Sansat",EUROSPORT 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49233
+#EXTINF:-1 tvg-ID="multisports1.fr" tvg-name="MULTI SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4D_42E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49234
+#EXTINF:-1 tvg-ID="multisports2.fr" tvg-name="MULTI SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D1_434_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 2 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49235
+#EXTINF:-1 tvg-ID="multisports3.fr" tvg-name="MULTI SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1971_44E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 3 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49236
+#EXTINF:-1 tvg-ID="multisports4.fr" tvg-name="MULTI SPORTS 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220B_44C_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 4 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49237
+#EXTINF:-1 tvg-ID="multisports5.fr" tvg-name="MULTI SPORTS 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26C1_43E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 5 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49238
+#EXTINF:-1 tvg-ID="multisports6.fr" tvg-name="MULTI SPORTS 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19DD_444_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 6 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49239
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="CANAL  SPORT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  SPORT HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49240
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="OL TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4E_42E_1_C00000_0_0_0.png" group-title="Sansat",OL TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49241
+#EXTINF:-1 tvg-ID="" tvg-name="AUTOMOTO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="Sansat",AUTOMOTO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49242
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="INFO SPORT  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="Sansat",INFO SPORT  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49243
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="EQUIDIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D4_444_1_C00000_0_0_0.png" group-title="Sansat",EQUIDIA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49244
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="Equipe 21 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="Sansat",Equipe 21 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49245
+#EXTINF:-1 tvg-ID="extreme.fr" tvg-name="EXTREME SPORTS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196D_44E_1_C00000_0_0_0.png" group-title="Sansat",EXTREME SPORTS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49246
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="FOOT  24/24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="Sansat",FOOT  24/24 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49247
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="GOLF+   HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="Sansat",GOLF+   HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49248
+#EXTINF:-1 tvg-ID="" tvg-name="TELECLUB ZOOM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/teleclubzoom.png" group-title="Sansat",TELECLUB ZOOM HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49250
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT TV HD" tvg-logo="http://vodkom.com:25461/images/Astra19/motorsportstv.png" group-title="Sansat",MOTORSPORT TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49251
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="CANAL+  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL+  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49253
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="CANAL  CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  CINEMA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49254
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="CANAL  DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  DECALE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49255
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  FAMILY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49256
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="CANAL  SERIES HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  SERIES HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49257
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="CINE  FRISSON HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  FRISSON HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49258
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="CINE  PREMIER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Sansat",CINE  PREMIER HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49259
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="CINE  CLASSIC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  CLASSIC HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49260
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="CINE  CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Sansat",CINE  CLUB HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49261
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="CINE  EMOTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Sansat",CINE  EMOTION HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49262
+#EXTINF:-1 tvg-ID="cineplusfamiz.fr" tvg-name="CINE  FAMIZ HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  FAMIZ HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49263
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="OCS CITY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat",OCS CITY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49264
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="OCS GEANTS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="Sansat",OCS GEANTS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49265
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="OCS MAX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat",OCS MAX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49266
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat",OCS CHOC HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49267
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="ACTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Sansat",ACTION HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49268
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/alticestudios.png" group-title="Sansat",ALTICE STUDIO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49269
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="Sansat",COMEDY CENTRAL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49270
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="SYFY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_71F_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",SYFY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49271
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Sansat",TCM CINEMA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49272
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Sansat",WARNER TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49273
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat",TMC HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49274
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206E_432_1_C00000_0_0_0.png" group-title="Sansat",POLAR  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49275
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Sansat",PARAMOUNT CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49276
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Sansat",PARAMOUNT DECALE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49277
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="Sansat",SERIE CLUB HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49278
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="RTL 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat",RTL 9 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49279
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 1 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49280
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 2 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49281
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 3 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49282
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 4 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49283
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 5 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49284
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 1 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49285
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 2 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49286
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 3 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49287
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 4 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49288
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 5 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49289
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA AVENTURE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA AVENTURE FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49291
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49292
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 1 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49296
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 2 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49297
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 3 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49298
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 4 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49299
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 5 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49300
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 6 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 6 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49301
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 7 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 7 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49302
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GO CINEMA 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",OCS GO CINEMA 1 FHD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49303
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="USHUAIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="Sansat",USHUAIA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49309
+#EXTINF:-1 tvg-ID="" tvg-name="VICELAND HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="Sansat",VICELAND HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49310
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="Sansat",ANIMAUX HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49311
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="CHASSE ET PECHE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="Sansat",CHASSE ET PECHE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49312
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY ID HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY ID HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49313
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_58F_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49314
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_594_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY FAMILY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49315
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY INVESTIGATION HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49316
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_593_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49317
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",CRIME DISTRICT HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49318
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="HISTOIRE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F46_42E_1_C00000_0_0_0.png" group-title="Sansat",HISTOIRE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49319
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_725_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",E! ENTERTAINMENT HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49320
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AD_43E_1_C00000_0_0_0.png" group-title="Sansat",MUSEUM HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49321
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="Sansat",NAT GEO WILD HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49322
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="NATIONAL GEO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="Sansat",NATIONAL GEO HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49323
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="PLANETE  A&E HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  A&E HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49324
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="PLANETE  CI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  CI HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49325
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="PLANETE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49326
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",RMC DECOUVERTE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49327
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="RMC STORY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Sansat",RMC STORY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49328
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",SCIENCE ET VIE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49329
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="Sansat",SEASONS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49330
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="TOUTE L HISTORIE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="Sansat",TOUTE L HISTORIE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49331
+#EXTINF:-1 tvg-ID="" tvg-name="MY ZEN TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BF_43C_1_C00000_0_0_0.png" group-title="Sansat",MY ZEN TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52527
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name="NON STOP PEOPLE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BD_43C_1_C00000_0_0_0.png" group-title="Sansat",NON STOP PEOPLE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52528
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="VOYAGE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="Sansat",VOYAGE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49332
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49334
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49335
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="Sansat",DISNEY JUNIOR HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49336
+#EXTINF:-1 tvg-ID="disneycinema.fr" tvg-name="DISNEY CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BA_43C_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CINEMA HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49337
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C0_43C_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL  1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49338
+#EXTINF:-1 tvg-ID="disneyxd.fr" tvg-name="DISNEY XD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24B9_43C_1_C00000_0_0_0.png" group-title="Sansat",DISNEY XD HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49339
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="CANAL J HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="Sansat",CANAL J HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49340
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="PIWI +  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="Sansat",PIWI +  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49341
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_749C_41C_1_C00000_0_0_0.png" group-title="Sansat",BABY TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49342
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="GULLI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",GULLI HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49343
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",TIJI HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49344
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="TELE TOON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="Sansat",TELE TOON  HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49345
+#EXTINF:-1 tvg-ID="" tvg-name="TELE TOON +1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="Sansat",TELE TOON +1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49346
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOOMERANG HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49347
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="BOING HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19A_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOING HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49348
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="Sansat",CARTOON NETWORK HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49349
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="NICKELODEON 4 TEEN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 4 TEEN HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49350
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 1 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49351
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON JUNIOR HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49352
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="TOONAMI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",TOONAMI HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49353
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="Sansat",MANGAS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49354
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C6_43C_1_C00000_0_0_0.png" group-title="Sansat",TRACE URBAN HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49356
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="MCM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220A_44C_1_C00000_0_0_0.png" group-title="Sansat",MCM HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49357
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="MCM TOP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2209_44C_1_C00000_0_0_0.png" group-title="Sansat",MCM TOP HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49358
+#EXTINF:-1 tvg-ID="melody.fr" tvg-name="MELODY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2206_44C_1_C00000_0_0_0.png" group-title="Sansat",MELODY HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49359
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO FR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4A_42E_1_C00000_0_0_0.png" group-title="Sansat",MEZZO FR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/51817
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="NRJ HITS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200C_430_1_C00000_0_0_0.png" group-title="Sansat",NRJ HITS HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49360
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="RFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2202_44C_1_C00000_0_0_0.png" group-title="Sansat",RFM TV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49361
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV LIVE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="Sansat",MTV LIVE HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49362
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="Sansat",MTV HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49363
+#EXTINF:-1 tvg-ID="" tvg-name="C STAR HIT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C2_43C_1_C00000_0_0_0.png" group-title="Sansat",C STAR HIT HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49365
+#EXTINF:-1 tvg-ID="Mezzo Live HD FR" tvg-name="MEZZO LIVE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_7823_428_1_C00000_0_0_0.png" group-title="Sansat",MEZZO LIVE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52515
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="SUNDANCE TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200D_430_1_C00000_0_0_0.png" group-title="Sansat",SUNDANCE TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52516
+#EXTINF:-1 tvg-ID="Trace Tropical FR" tvg-name="TRACE LATINA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/tarcelatina.png" group-title="Sansat",TRACE LATINA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52517
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7602_408_1_C00000_0_0_0.png" group-title="Sansat",CLASSICA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52525
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",TREK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49368
+#EXTINF:-1 tvg-ID="" tvg-name="M6 MUSIC" tvg-logo="" group-title="Sansat",M6 MUSIC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52578
+#EXTINF:-1 tvg-ID="" tvg-name="NOLLYWOOD TV" tvg-logo="" group-title="Sansat",NOLLYWOOD TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/52846
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=" TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TF1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42302
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name=" FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42303
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name=" FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42304
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name=" FRANCE 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 4
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42305
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name=" FRANCE 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 5
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42306
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name=" M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", M6 HD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42307
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name=" FRANCE O" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2082_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE O
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42308
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name=" PARIS PREMIERE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PARIS PREMIERE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42309
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name=" TFX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TFX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42310
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name=" TF1 SERIES FILMS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TF1 SERIES FILMS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42311
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name=" 6TER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", 6TER
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42312
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name=" TMC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TMC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42313
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name=" C8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", C8
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42314
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name=" W9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", W9
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42315
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name=" ARTE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", ARTE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42316
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name=" CSTAR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CSTAR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42317
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name=" TEVA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TEVA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42318
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name=" AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", AB1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42319
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name=" NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", NRJ 12
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42320
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name=" Cherie 25" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", Cherie 25
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42321
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name=" TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TREK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42322
+#EXTINF:-1 tvg-ID="" tvg-name=" BFM TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BFM TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42324
+#EXTINF:-1 tvg-ID="" tvg-name=" CNEWS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CNEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42325
+#EXTINF:-1 tvg-ID="" tvg-name=" FRANCE INFO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE INFO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42326
+#EXTINF:-1 tvg-ID="" tvg-name=" LCI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LCI
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42327
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD",FRANCE 24
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42328
+#EXTINF:-1 tvg-ID="" tvg-name=" LCP" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LCP
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42329
+#EXTINF:-1 tvg-ID="" tvg-name=" I24 Francis" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", I24 Francis
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42330
+#EXTINF:-1 tvg-ID="" tvg-name=" TV5 MONDE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TV5 MONDE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42331
+#EXTINF:-1 tvg-ID="" tvg-name=" TV5MONDE EUROPE" tvg-logo="" group-title="EU FRANCE FULL HD", TV5MONDE EUROPE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42332
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT NEWS" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT NEWS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42334
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42335
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42336
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42337
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 4
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42338
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42339
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42340
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42341
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC0_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 4
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42342
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC1_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 5
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42343
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_323_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 6
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42344
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_324_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 7
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42345
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_325_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 8
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42346
+#EXTINF:-1 tvg-ID="" tvg-name=" BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_326_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 9
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42347
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", EUROSPORT 1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42349
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", EUROSPORT 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42350
+#EXTINF:-1 tvg-ID="" tvg-name=" GOLF+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", GOLF+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42351
+#EXTINF:-1 tvg-ID="" tvg-name=" FOOT+ 24/24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FOOT+ 24/24
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42352
+#EXTINF:-1 tvg-ID="" tvg-name=" INFOSPORT+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", INFOSPORT+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42353
+#EXTINF:-1 tvg-ID="" tvg-name=" LEQUIPE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LEQUIPE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42354
+#EXTINF:-1 tvg-ID="" tvg-name=" AUTOMOTO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", AUTOMOTO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42355
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42357
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ CINEMA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42358
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ DECALE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ DECALE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42359
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ FAMILY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ FAMILY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42360
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SERIES" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ SERIES
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42361
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SPORT" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ SPORT
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42362
+#EXTINF:-1 tvg-ID="" tvg-name=" CHASSE ET PECHE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CHASSE ET PECHE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42363
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLASSIC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ CLASSIC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42364
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ CLUB
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42365
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ EMOTION" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ EMOTION
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42366
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FAMIZ" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ FAMIZ
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42367
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FRISSON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ FRISSON
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42368
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ PREMIER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ PREMIER
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42369
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CITY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS CITY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42370
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CHOC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS CHOC
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42371
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS GEANTS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS GEANTS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42372
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS MAX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS MAX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42373
+#EXTINF:-1 tvg-ID="" tvg-name=" COMEDIE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", COMEDIE+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42374
+#EXTINF:-1 tvg-ID="" tvg-name=" RTL9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RTL9
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42375
+#EXTINF:-1 tvg-ID="" tvg-name=" SERIE CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", SERIE CLUB
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42376
+#EXTINF:-1 tvg-ID="" tvg-name=" Science et Vie" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", Science et Vie
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42377
+#EXTINF:-1 tvg-ID="" tvg-name=" TCM CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TCM CINEMA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42378
+#EXTINF:-1 tvg-ID="" tvg-name=" WARNER TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", WARNER TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42379
+#EXTINF:-1 tvg-ID="" tvg-name=" PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PARAMOUNT CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42380
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NATIONAL GEO
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42382
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEOGRAPHIC  WILD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NATIONAL GEOGRAPHIC  WILD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42383
+#EXTINF:-1 tvg-ID="" tvg-name=" ANIMAUX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", ANIMAUX
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42384
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42385
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ A&E" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+ A&E
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42386
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ CI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+ CI
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42387
+#EXTINF:-1 tvg-ID="" tvg-name=" VOYAGE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", VOYAGE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42388
+#EXTINF:-1 tvg-ID="" tvg-name=" TV BREIZH" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TV BREIZH
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42389
+#EXTINF:-1 tvg-ID="" tvg-name=" Toute L Histoire" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", Toute L Histoire
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42390
+#EXTINF:-1 tvg-ID="" tvg-name=" USHUAIA TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", USHUAIA TV
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42391
+#EXTINF:-1 tvg-ID="" tvg-name=" SEASONS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", SEASONS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42392
+#EXTINF:-1 tvg-ID="" tvg-name=" VICELAND" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", VICELAND
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42393
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC DECOUVERTE" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC DECOUVERTE
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42394
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC STORY" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC STORY
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42395
+#EXTINF:-1 tvg-ID="" tvg-name=" BOOMERANG" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BOOMERANG
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42397
+#EXTINF:-1 tvg-ID="" tvg-name=" CARTOON NETWORK" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CARTOON NETWORK
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42398
+#EXTINF:-1 tvg-ID="" tvg-name=" PIWI+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PIWI+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42399
+#EXTINF:-1 tvg-ID="" tvg-name=" TIJI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TIJI
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42400
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY CHANNEL
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42401
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY CHANNEL+1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C0_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY CHANNEL+1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42402
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BA_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY CINEMA
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42403
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY JUNIOR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42404
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY XD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24B9_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY XD
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42405
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42406
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON JUNIOR
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42407
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON TEEN
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42409
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TELETOON+
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42410
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TELETOON+1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42411
+#EXTINF:-1 tvg-ID="" tvg-name=" TOONAMI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TOONAMI
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42412
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL J" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL J
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42413
+#EXTINF:-1 tvg-ID="" tvg-name=" MANGAS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", MANGAS
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42414
+#EXTINF:-1 tvg-ID="" tvg-name=" GULLI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", GULLI
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42415
 #EXTINF:-1 tvg-logo="" group-title="roch", TF1 HD
 http://hostiptv.com:8089/roch/roch123/19375
 
