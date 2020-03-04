@@ -1,4 +1,889 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tf1seriesfilms.png" group-title="DiogoHenriques", TF1 Series FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9153
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="DiogoHenriques", TF1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1603
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="DiogoHenriques", TF1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8975
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tf1plus.png" group-title="DiogoHenriques", TF1 +1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9152
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france2.png" group-title="DiogoHenriques", FRANCE 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1604
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="DiogoHenriques", FRANCE 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8977
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france3.png" group-title="DiogoHenriques", FRANCE 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1605
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="DiogoHenriques", FRANCE 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8979
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="DiogoHenriques", FRANCE 4 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8981
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france5.png" group-title="DiogoHenriques", FRANCE 5 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1607
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="DiogoHenriques", FRANCE 5 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8983
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="DiogoHenriques", FRANCE Ô HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8985
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/franceo.png" group-title="DiogoHenriques", FRANCE Ô FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1608
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="DiogoHenriques", France 24
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1720
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="DiogoHenriques", FRANCE INFO SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9214
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1641
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9161
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/m6.png" group-title="DiogoHenriques", M6 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1609
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/m6.png" group-title="DiogoHenriques", M6 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8986
+
+#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/arte.png" group-title="DiogoHenriques", ARTE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1610
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="DiogoHenriques", ARTE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8996
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="DiogoHenriques", C8 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1611
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="DiogoHenriques", C8 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9154
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="DiogoHenriques", W9 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1635
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="DiogoHenriques", W9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9168
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="DiogoHenriques", 6TER HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1634
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="DiogoHenriques", 6TER FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8994
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1646
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1645
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="DiogoHenriques", 13EME RUE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1647
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="DiogoHenriques", 13EME RUE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9132
+
+#EXTINF:-1 tvg-logo="https://julien-matthey.com/wp-content/uploads/2016/11/Rouge-TV-Logo-2-960x720.jpeg" group-title="DiogoHenriques", Rouge TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1649
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="DiogoHenriques", PARIS PREMIERE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8988
+
+#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1636
+
+#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8990
+
+#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC  1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1637
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8867
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8992
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8876
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9187
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="DiogoHenriques", TFX HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8871
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="DiogoHenriques", TFX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9166
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8999
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1613
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8998
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="DiogoHenriques", CANAL+ FAMILY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1617
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="DiogoHenriques", CANAL+ FAMILY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9002
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="DiogoHenriques", CANAL+ CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1614
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="DiogoHenriques", CANAL+ CINEMA FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9004
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9108
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1615
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9104
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="DiogoHenriques", CANAL+ SERIES HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="DiogoHenriques", CANAL+ SERIES FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9131
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9145
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9144
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="DiogoHenriques", DISNEY XD HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1677
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="DiogoHenriques", DISNEY XD FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9246
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="DiogoHenriques", DISNEY JUNIOR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9247
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", DISNEY CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1679
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="DiogoHenriques", DISNEY CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1680
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="DiogoHenriques", DISNEY CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9243
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannelplus1.png" group-title="DiogoHenriques", DISNEY CHANNEL +1  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9245
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="DiogoHenriques", TIJI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9260
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="DiogoHenriques", PIWI  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1683
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="DiogoHenriques", PIWI+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9257
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="DiogoHenriques", NICKELODEON FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9255
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjuniorplus1.png" group-title="DiogoHenriques", NICKELODEON+1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9249
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9251
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9250
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon4teen.png" group-title="DiogoHenriques", NICKELODEON 4 TEEN FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9252
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8205
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9261
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", MANGAS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1688
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="DiogoHenriques", BOING HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1694
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="DiogoHenriques", BOING FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9262
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="DiogoHenriques", Canal J HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8858
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="DiogoHenriques", CANAL J FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9259
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="DiogoHenriques", TOONAMI HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1681
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="DiogoHenriques", TOONAMI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9253
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="DiogoHenriques", TELETOON+ HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1729
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="DiogoHenriques", TELETOON+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9254
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="DiogoHenriques", TELETOON+1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9256
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="DiogoHenriques", CARTOON NETWORK FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9263
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="DiogoHenriques", GAME ONE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9264
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/jone.png" group-title="DiogoHenriques", J ONE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9267
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/gulli.png" group-title="DiogoHenriques", GULLI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9268
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/922177599278784512/AVnpgYog_400x400.jpg" group-title="DiogoHenriques", PEPPA PIG (LIVE)
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9274
+
+#EXTINF:-1 tvg-logo="https://d3ofq03apmfb8c.cloudfront.net/data/avatars/m/10/10088.jpg?1339212337" group-title="DiogoHenriques", DORA L'EXPLORATRICE (LIVE )
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9275
+
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/bdd2/f/2017/345/c/b/tom_and_jerry_folder_icon_v1_by_alexartchanimte7-dbwgnwb.png" group-title="DiogoHenriques", TOM AND JERRY
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9277
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4v2HARgzYQjCK18bgbgjyXsGKY4ThhkdrDngQboHQdMES7SVRgflraP9dNRUFEZ2LlQ=s256" group-title="DiogoHenriques", MASHA ET MICHKA (LIVE )
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9278
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="DiogoHenriques", OCS GEANTS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1628
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="DiogoHenriques", OCS GEANTS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9008
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1629
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9010
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1630
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9012
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8861
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9006
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="DiogoHenriques", CINE+ PREMIER HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9015
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="DiogoHenriques", CINE+ PREMIER FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9014
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="DiogoHenriques", CINE+ FRISSON HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9017
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="DiogoHenriques", CINE+ FRISSON FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9016
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="DiogoHenriques", CINE+ FAMIZ HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9019
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="DiogoHenriques", CINE+ FAMIZ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9018
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="DiogoHenriques", CINE+ EMOTION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9021
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="DiogoHenriques", CINE+ EMOTION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9020
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="DiogoHenriques", CINE+ CLUB HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9023
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="DiogoHenriques", CINE+ CLUB FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9022
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="DiogoHenriques", CINE+ CLASSIC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9031
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="DiogoHenriques", CINE+ CLASSIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9030
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/action.png" group-title="DiogoHenriques", ACTION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1631
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/action.png" group-title="DiogoHenriques", ACTION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9024
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="DiogoHenriques", WARNER TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8860
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="DiogoHenriques", WARNER TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9026
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="DiogoHenriques", POLAR+  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1626
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="DiogoHenriques", POLAR+  FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9027
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="DiogoHenriques", TCM CINEMA HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9029
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="DiogoHenriques", TCM CINEMA FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9028
+
+#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="DiogoHenriques", ALTICE STUDIO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9032
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="DiogoHenriques", PARAMOUNT CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1632
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="DiogoHenriques", PARAMOUNT CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9033
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="DiogoHenriques", PARAMOUNT DECALE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8862
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="DiogoHenriques", PARAMOUNT DECALE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9035
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="DiogoHenriques", COMEDIE PLUS HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8859
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="DiogoHenriques", COMEDIE PLUS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1644
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="DiogoHenriques", SERIE CLUB HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8863
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="DiogoHenriques", SERIE CLUB FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9130
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="DiogoHenriques", CRIME DISTRICT HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1642
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="DiogoHenriques", CRIME DISTRICT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9197
+
+#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="DiogoHenriques", COMEDY CENTRAL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1643
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9036
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9037
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9038
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9039
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9040
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9041
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9042
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9043
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 9
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9044
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 10
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9045
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 11
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9046
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 12
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9047
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 13
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9048
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 14
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9049
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 15
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9050
+
+#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 16
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9051
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE (S
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9052
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9053
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9054
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9055
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9056
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9057
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9058
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9059
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9060
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="DiogoHenriques", SYFY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9133
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/250px-SundanceTV.svg.png" group-title="DiogoHenriques", SUNDANCE TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9134
+
+#EXTINF:-1 tvg-logo="https://www.n9ws.com/images/upload/rmcsport-040718101703.png" group-title="DiogoHenriques", RMC SPORT NEWS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9071
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9073
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1652
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9072
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9075
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1653
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9074
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9077
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1654
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9076
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="DiogoHenriques", RMC SPORT 4 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1655
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="DiogoHenriques", RMC SPORT 4 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9078
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive5.png" group-title="DiogoHenriques", RMC SPORT LIVE 5 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9079
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive6.png" group-title="DiogoHenriques", RMC SPORT LIVE 6 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9080
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive7.png" group-title="DiogoHenriques", RMC SPORT LIVE 7 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9081
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive8.png" group-title="DiogoHenriques", RMC SPORT LIVE 8 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9082
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive9.png" group-title="DiogoHenriques", RMC SPORT LIVE 9 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9083
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive10.png" group-title="DiogoHenriques", RMC SPORT LIVE 10 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9084
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive11.png" group-title="DiogoHenriques", RMC SPORT LIVE 11 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9085
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive12.png" group-title="DiogoHenriques", RMC SPORT LIVE 12 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9086
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 13 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9087
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 14 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9088
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 15 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9089
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 16 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9090
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="DiogoHenriques", RMC DECOUVERTE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1664
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="DiogoHenriques", RMC DECOUVERTE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9190
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="DiogoHenriques", RMC STORY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1665
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="DiogoHenriques", RMC STORY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9164
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAa56m6.png" group-title="DiogoHenriques", RMC Info Talk Sport
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1726
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="DiogoHenriques", BEINSPORTS 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1656
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="DiogoHenriques", BEINSPORTS 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9091
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="DiogoHenriques", BEINSPORTS 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1657
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="DiogoHenriques", BEINSPORTS 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9093
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORT 3 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9096
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORTS 3 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1658
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORTS 3 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9095
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax4.png" group-title="DiogoHenriques", BEINSPORT MAX 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9097
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax5.png" group-title="DiogoHenriques", BEINSPORT MAX 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9098
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax6.png" group-title="DiogoHenriques", BEINSPORT MAX 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9099
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax7.png" group-title="DiogoHenriques", BEINSPORT MAX 7
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9100
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax8.png" group-title="DiogoHenriques", BEINSPORT MAX 8
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9101
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax9.png" group-title="DiogoHenriques", BEINSPORT MAX 9
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9102
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="DiogoHenriques", EUROSPORT 1 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1659
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="DiogoHenriques", EUROSPORT 1 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9124
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="DiogoHenriques", EUROSPORT 2 HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1660
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="DiogoHenriques", EUROSPORT 2 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9125
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/abmoteurs.png" group-title="DiogoHenriques", AUTOMOTO HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1695
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/140px-Foot%2B_2011.svg.png" group-title="DiogoHenriques", FOOT  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1692
+
+#EXTINF:-1 tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="DiogoHenriques", INFOSPORT  HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1661
+
+#EXTINF:-1 tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="DiogoHenriques", INFOSPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9118
+
+#EXTINF:-1 tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_CanalSatFoot_fr.jpg" group-title="DiogoHenriques", FOOT+24 SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9107
+
+#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 1
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9110
+
+#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 2
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9111
+
+#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 3
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9112
+
+#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 4
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9113
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/multisports5.png" group-title="DiogoHenriques", MULTISPORTS 5
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9114
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/multisports6.png" group-title="DiogoHenriques", MULTISPORTS 6
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9115
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="DiogoHenriques", NBA TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9116
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="DiogoHenriques", BFM SPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9117
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="DiogoHenriques", LEQUIPE 21 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9119
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/extremesports.png" group-title="DiogoHenriques", EXTREME SPORTS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9122
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Motorsport.tv_Logo.png/280px-Motorsport.tv_Logo.png" group-title="DiogoHenriques", MOTORSPORT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9123
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Equidia_Live_2011.gif" group-title="DiogoHenriques", EQUIDIA LIVE
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9127
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/150px-Golf%2B.svg.png" group-title="DiogoHenriques", GOLF+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9128
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Golf_Channel_2014.png/200px-Logo_Golf_Channel_2014.png" group-title="DiogoHenriques", GOLF CHANNEL FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9129
+
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="DiogoHenriques", Trace Kitoko
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1731
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="DiogoHenriques", Trace Mziki
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1732
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="DiogoHenriques", Trace Naija
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1733
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="DiogoHenriques", Trace Tropical
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1734
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="DiogoHenriques", Trace Urbain
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9219
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="DiogoHenriques", Trace Africa
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1730
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDeU9nBYHqaRKqVIhN9vkxkz__DDKrSgVQzGw=s288-mo-c-c0xffffffff-rj-k-no" group-title="DiogoHenriques", RT FRANCE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9217
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/190px-M6_Music_2012.png" group-title="DiogoHenriques", M6 MUSIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_gospel-1.png/280px-Logo_gospel-1.png" group-title="DiogoHenriques", MTV LIVE
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9221
+
+#EXTINF:-1 tvg-logo="http://iptv.magikserv.com/picons/FR/mtvhd.png" group-title="DiogoHenriques", MTV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8864
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="DiogoHenriques", MTV HITS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9242
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mcmtop.png" group-title="DiogoHenriques", MCM TOP FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9232
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rfmtv.png" group-title="DiogoHenriques", RFM TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9233
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrjhits.png" group-title="DiogoHenriques", NRJ HITS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9234
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mezzolive.png" group-title="DiogoHenriques", MEZZO LIVE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9235
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/melody.png" group-title="DiogoHenriques", MELODY TV FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9238
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="DiogoHenriques", CSTAR HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8872
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="DiogoHenriques", CSTAR FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9156
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0wgzN59.png" group-title="DiogoHenriques", TV3V
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1735
+
+#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", L'EQUIPE MOTEUR
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1662
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="DiogoHenriques", HISTOIRE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9199
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toutelhistoire.png" group-title="DiogoHenriques", TOUTE L'HISTOIRE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9200
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mycuisine.png" group-title="DiogoHenriques", MY CUISINE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9139
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/120px-PlanetePlus_2011.svg.png" group-title="DiogoHenriques", PLANETE+ FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9176
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="DiogoHenriques", PLANETE+ CI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9177
+
+#EXTINF:-1 tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="DiogoHenriques", PLANETE+  A&E SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9808
+
+#EXTINF:-1 tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="DiogoHenriques", PLANETE+  A&E HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9809
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusaande.png" group-title="DiogoHenriques", PLANETE+ A&E FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9178
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="DiogoHenriques", DISCOVERY CHANNEL HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1672
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="DiogoHenriques", DISCOVERY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9179
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="DiogoHenriques", DISCOVERY SCIENCE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8874
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="DiogoHenriques", DISCOVERY SCIENCE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9180
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="DiogoHenriques", DISCOVERY INVESTIGATION HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1670
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="DiogoHenriques", DISCOVERY INVESTIGATION FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9181
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="DiogoHenriques", DISCOVERY FAMILY HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1671
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="DiogoHenriques", DISCOVERY FAMILY FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9182
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/scienceetvie.png" group-title="DiogoHenriques", SCIENCES & VIE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9185
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NATIONAL GEOGRAPHIC HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1668
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NAT GEO WILD HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1669
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NAT GEO WILD FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9183
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NATIONAL GEOGRAFIC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9184
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/animaux.png" group-title="DiogoHenriques", ANIMAUX FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9186
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mcm.png" group-title="DiogoHenriques", MCM HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1687
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SPiQ7U.png" group-title="DiogoHenriques", BFM Lyon
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1702
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="DiogoHenriques", BFM TV HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/7358
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/bfmbusiness.png" group-title="DiogoHenriques", BFM BUISINESS
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9207
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="DiogoHenriques", BipTV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1704
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="DiogoHenriques", D5TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1706
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdF6uxL.png" group-title="DiogoHenriques", Espace Francophone
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1719
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="DiogoHenriques", Fashion TV UHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1721
+
+#EXTINF:-1 tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/09/logo-gltv-w.png" group-title="DiogoHenriques", Grand Lille TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1723
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="DiogoHenriques", TV5 Monde Info
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1736
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/220px-TV5MONDE_logo.png" group-title="DiogoHenriques", TV5 MONDE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9149
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pZluyZ0.png" group-title="DiogoHenriques", TV7 Colmar
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1738
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDdOr52.png" group-title="DiogoHenriques", ILTV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1724
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkBlOjq.png" group-title="DiogoHenriques", Tebeo
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1728
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="DiogoHenriques", E! ENTERTAINMENT FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9140
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png" group-title="DiogoHenriques", BET FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9147
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Viceland_Logo.png/200px-Viceland_Logo.png" group-title="DiogoHenriques", VICELAND FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="DiogoHenriques", CHERIE 25 FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9150
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/weo.png" group-title="DiogoHenriques", WEO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9159
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/8_Mont-Blanc_logo_2013.png/150px-8_Mont-Blanc_logo_2013.png" group-title="DiogoHenriques", TV8 MONT BLANC FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/200px-Luxe_TV_Logo.svg.png" group-title="DiogoHenriques", LUXE TV
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9170
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/voyage.png" group-title="DiogoHenriques", VOYAGE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9192
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="DiogoHenriques", CHASSE ET PECHE HD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1673
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="DiogoHenriques", CHASSE ET PECHE FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9194
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="DiogoHenriques", LA CHAINE METEO FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9202
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="DiogoHenriques", EURONEWS FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9203
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lci.png" group-title="DiogoHenriques", LCI FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9208
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP FHD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9210
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP100%
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9212
+
+#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="DiogoHenriques", CNEWS SD
+http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9213
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
 http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49161
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
@@ -1436,891 +2321,6 @@ http://hostiptv.com:8089/roch/roch123/19709
 
 #EXTINF:-1 tvg-logo="" group-title="roch", TV8 MONT-BLANC HD
 http://hostiptv.com:8089/roch/roch123/19710
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tf1seriesfilms.png" group-title="DiogoHenriques", TF1 Series FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9153
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="DiogoHenriques", TF1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1603
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="DiogoHenriques", TF1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8975
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tf1plus.png" group-title="DiogoHenriques", TF1 +1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9152
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france2.png" group-title="DiogoHenriques", FRANCE 2 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1604
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="DiogoHenriques", FRANCE 2 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8977
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france3.png" group-title="DiogoHenriques", FRANCE 3 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1605
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="DiogoHenriques", FRANCE 3 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8979
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="DiogoHenriques", FRANCE 4 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8981
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/france5.png" group-title="DiogoHenriques", FRANCE 5 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1607
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="DiogoHenriques", FRANCE 5 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8983
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="DiogoHenriques", FRANCE Ô HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8985
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/franceo.png" group-title="DiogoHenriques", FRANCE Ô FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1608
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="DiogoHenriques", France 24
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1720
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="DiogoHenriques", FRANCE INFO SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9214
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1641
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="DiogoHenriques", RTL9 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9161
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/m6.png" group-title="DiogoHenriques", M6 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1609
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/m6.png" group-title="DiogoHenriques", M6 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8986
-
-#EXTINF:-1 tvg-logo="http://supertv.io:25461/logo/arte.png" group-title="DiogoHenriques", ARTE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1610
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="DiogoHenriques", ARTE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8996
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="DiogoHenriques", C8 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1611
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="DiogoHenriques", C8 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9154
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="DiogoHenriques", W9 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1635
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="DiogoHenriques", W9 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9168
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="DiogoHenriques", 6TER HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1634
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="DiogoHenriques", 6TER FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8994
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1646
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", AB3 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1645
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="DiogoHenriques", 13EME RUE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1647
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="DiogoHenriques", 13EME RUE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9132
-
-#EXTINF:-1 tvg-logo="https://julien-matthey.com/wp-content/uploads/2016/11/Rouge-TV-Logo-2-960x720.jpeg" group-title="DiogoHenriques", Rouge TV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1649
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="DiogoHenriques", PARIS PREMIERE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8988
-
-#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1636
-
-#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8990
-
-#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="DiogoHenriques", TMC  1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1637
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8867
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="DiogoHenriques", TV BREIZH FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8992
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA TV HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8876
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="DiogoHenriques", USHUAIA  FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9187
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="DiogoHenriques", TFX HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8871
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="DiogoHenriques", TFX FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9166
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8999
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1613
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="DiogoHenriques", CANAL+ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8998
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="DiogoHenriques", CANAL+ FAMILY HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1617
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="DiogoHenriques", CANAL+ FAMILY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9002
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="DiogoHenriques", CANAL+ CINEMA HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1614
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="DiogoHenriques", CANAL+ CINEMA FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9004
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9108
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1615
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="DiogoHenriques", CANAL+ SPORT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9104
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="DiogoHenriques", CANAL+ SERIES HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1616
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="DiogoHenriques", CANAL+ SERIES FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9131
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9145
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="DiogoHenriques", NRJ12 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9144
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="DiogoHenriques", DISNEY XD HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1677
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="DiogoHenriques", DISNEY XD FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9246
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="DiogoHenriques", DISNEY JUNIOR FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9247
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", DISNEY CINEMA HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1679
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="DiogoHenriques", DISNEY CHANNEL HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1680
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="DiogoHenriques", DISNEY CHANNEL FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9243
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannelplus1.png" group-title="DiogoHenriques", DISNEY CHANNEL +1  FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9245
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="DiogoHenriques", TIJI FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9260
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="DiogoHenriques", PIWI  HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1683
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="DiogoHenriques", PIWI+ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9257
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="DiogoHenriques", NICKELODEON FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9255
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjuniorplus1.png" group-title="DiogoHenriques", NICKELODEON+1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9249
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9251
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="DiogoHenriques", NICKELODEON JUNIOR FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9250
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon4teen.png" group-title="DiogoHenriques", NICKELODEON 4 TEEN FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9252
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8205
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="DiogoHenriques", BOOMERANG FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9261
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", MANGAS HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1688
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="DiogoHenriques", BOING HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1694
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="DiogoHenriques", BOING FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9262
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="DiogoHenriques", Canal J HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8858
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="DiogoHenriques", CANAL J FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9259
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="DiogoHenriques", TOONAMI HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1681
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="DiogoHenriques", TOONAMI FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9253
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="DiogoHenriques", TELETOON+ HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1729
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="DiogoHenriques", TELETOON+ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9254
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="DiogoHenriques", TELETOON+1
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9256
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="DiogoHenriques", CARTOON NETWORK FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9263
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="DiogoHenriques", GAME ONE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9264
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/jone.png" group-title="DiogoHenriques", J ONE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9267
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/gulli.png" group-title="DiogoHenriques", GULLI FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9268
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/922177599278784512/AVnpgYog_400x400.jpg" group-title="DiogoHenriques", PEPPA PIG (LIVE)
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9274
-
-#EXTINF:-1 tvg-logo="https://d3ofq03apmfb8c.cloudfront.net/data/avatars/m/10/10088.jpg?1339212337" group-title="DiogoHenriques", DORA L'EXPLORATRICE (LIVE )
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9275
-
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/bdd2/f/2017/345/c/b/tom_and_jerry_folder_icon_v1_by_alexartchanimte7-dbwgnwb.png" group-title="DiogoHenriques", TOM AND JERRY
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9277
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4v2HARgzYQjCK18bgbgjyXsGKY4ThhkdrDngQboHQdMES7SVRgflraP9dNRUFEZ2LlQ=s256" group-title="DiogoHenriques", MASHA ET MICHKA (LIVE )
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9278
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="DiogoHenriques", OCS GEANTS HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1628
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="DiogoHenriques", OCS GEANTS FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9008
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1629
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="DiogoHenriques", OCS CITY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9010
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1630
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="DiogoHenriques", OCS CHOC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9012
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8861
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="DiogoHenriques", OCS MAX FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9006
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="DiogoHenriques", CINE+ PREMIER HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9015
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="DiogoHenriques", CINE+ PREMIER FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9014
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="DiogoHenriques", CINE+ FRISSON HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9017
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="DiogoHenriques", CINE+ FRISSON FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9016
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="DiogoHenriques", CINE+ FAMIZ HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9019
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="DiogoHenriques", CINE+ FAMIZ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9018
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="DiogoHenriques", CINE+ EMOTION HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9021
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="DiogoHenriques", CINE+ EMOTION FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9020
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="DiogoHenriques", CINE+ CLUB HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9023
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="DiogoHenriques", CINE+ CLUB FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9022
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="DiogoHenriques", CINE+ CLASSIC HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9031
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="DiogoHenriques", CINE+ CLASSIC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9030
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/action.png" group-title="DiogoHenriques", ACTION HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1631
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/action.png" group-title="DiogoHenriques", ACTION FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9024
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="DiogoHenriques", WARNER TV HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8860
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="DiogoHenriques", WARNER TV FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9026
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="DiogoHenriques", POLAR+  HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1626
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="DiogoHenriques", POLAR+  FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9027
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="DiogoHenriques", TCM CINEMA HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9029
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="DiogoHenriques", TCM CINEMA FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9028
-
-#EXTINF:-1 tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="DiogoHenriques", ALTICE STUDIO FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9032
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="DiogoHenriques", PARAMOUNT CHANNEL HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1632
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="DiogoHenriques", PARAMOUNT CHANNEL FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9033
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="DiogoHenriques", PARAMOUNT DECALE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8862
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="DiogoHenriques", PARAMOUNT DECALE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9035
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="DiogoHenriques", COMEDIE PLUS HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8859
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="DiogoHenriques", COMEDIE PLUS FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1644
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="DiogoHenriques", SERIE CLUB HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8863
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="DiogoHenriques", SERIE CLUB FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9130
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="DiogoHenriques", CRIME DISTRICT HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1642
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="DiogoHenriques", CRIME DISTRICT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9197
-
-#EXTINF:-1 tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="DiogoHenriques", COMEDY CENTRAL HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1643
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 1
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9036
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 2
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9037
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 3
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9038
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 4
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9039
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 5
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9040
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 6
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9041
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 7
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9042
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 8
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9043
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 9
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9044
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 10
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9045
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 11
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9046
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 12
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9047
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 13
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9048
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 14
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9049
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 15
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9050
-
-#EXTINF:-1 tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="DiogoHenriques", CANALPLAY 16
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9051
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE (S
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9052
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 1
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9053
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 2
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9054
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 3
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9055
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 4
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9056
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 5
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9057
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 6
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9058
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 7
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9059
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="DiogoHenriques", ORANGE CINE 8
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9060
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="DiogoHenriques", SYFY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9133
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/250px-SundanceTV.svg.png" group-title="DiogoHenriques", SUNDANCE TV FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9134
-
-#EXTINF:-1 tvg-logo="https://www.n9ws.com/images/upload/rmcsport-040718101703.png" group-title="DiogoHenriques", RMC SPORT NEWS FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9071
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9073
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1652
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="DiogoHenriques", RMC SPORT 1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9072
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9075
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1653
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="DiogoHenriques", RMC SPORT 2 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9074
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9077
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1654
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="DiogoHenriques", RMC SPORT 3 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9076
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="DiogoHenriques", RMC SPORT 4 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1655
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="DiogoHenriques", RMC SPORT 4 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9078
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive5.png" group-title="DiogoHenriques", RMC SPORT LIVE 5 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9079
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive6.png" group-title="DiogoHenriques", RMC SPORT LIVE 6 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9080
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive7.png" group-title="DiogoHenriques", RMC SPORT LIVE 7 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9081
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive8.png" group-title="DiogoHenriques", RMC SPORT LIVE 8 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9082
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive9.png" group-title="DiogoHenriques", RMC SPORT LIVE 9 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9083
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive10.png" group-title="DiogoHenriques", RMC SPORT LIVE 10 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9084
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive11.png" group-title="DiogoHenriques", RMC SPORT LIVE 11 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9085
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive12.png" group-title="DiogoHenriques", RMC SPORT LIVE 12 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9086
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 13 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9087
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 14 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9088
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 15 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9089
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", RMC SPORT LIVE 16 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9090
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="DiogoHenriques", RMC DECOUVERTE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1664
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="DiogoHenriques", RMC DECOUVERTE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9190
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="DiogoHenriques", RMC STORY HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1665
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="DiogoHenriques", RMC STORY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9164
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAa56m6.png" group-title="DiogoHenriques", RMC Info Talk Sport
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1726
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="DiogoHenriques", BEINSPORTS 1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1656
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="DiogoHenriques", BEINSPORTS 1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9091
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="DiogoHenriques", BEINSPORTS 2 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1657
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="DiogoHenriques", BEINSPORTS 2 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9093
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORT 3 SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9096
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORTS 3 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1658
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="DiogoHenriques", BEINSPORTS 3 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9095
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax4.png" group-title="DiogoHenriques", BEINSPORT MAX 4
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9097
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax5.png" group-title="DiogoHenriques", BEINSPORT MAX 5
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9098
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax6.png" group-title="DiogoHenriques", BEINSPORT MAX 6
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9099
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax7.png" group-title="DiogoHenriques", BEINSPORT MAX 7
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9100
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax8.png" group-title="DiogoHenriques", BEINSPORT MAX 8
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9101
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax9.png" group-title="DiogoHenriques", BEINSPORT MAX 9
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9102
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="DiogoHenriques", EUROSPORT 1 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1659
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="DiogoHenriques", EUROSPORT 1 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9124
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="DiogoHenriques", EUROSPORT 2 HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1660
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="DiogoHenriques", EUROSPORT 2 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9125
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/abmoteurs.png" group-title="DiogoHenriques", AUTOMOTO HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1695
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/140px-Foot%2B_2011.svg.png" group-title="DiogoHenriques", FOOT  HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1692
-
-#EXTINF:-1 tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="DiogoHenriques", INFOSPORT  HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1661
-
-#EXTINF:-1 tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="DiogoHenriques", INFOSPORT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9118
-
-#EXTINF:-1 tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_CanalSatFoot_fr.jpg" group-title="DiogoHenriques", FOOT+24 SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9107
-
-#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 1
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9110
-
-#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 2
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9111
-
-#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 3
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9112
-
-#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="DiogoHenriques", MULTISPORTS 4
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9113
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/multisports5.png" group-title="DiogoHenriques", MULTISPORTS 5
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9114
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/multisports6.png" group-title="DiogoHenriques", MULTISPORTS 6
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9115
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="DiogoHenriques", NBA TV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9116
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="DiogoHenriques", BFM SPORT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9117
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="DiogoHenriques", LEQUIPE 21 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9119
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/extremesports.png" group-title="DiogoHenriques", EXTREME SPORTS
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9122
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Motorsport.tv_Logo.png/280px-Motorsport.tv_Logo.png" group-title="DiogoHenriques", MOTORSPORT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9123
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Equidia_Live_2011.gif" group-title="DiogoHenriques", EQUIDIA LIVE
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9127
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/150px-Golf%2B.svg.png" group-title="DiogoHenriques", GOLF+ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9128
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Golf_Channel_2014.png/200px-Logo_Golf_Channel_2014.png" group-title="DiogoHenriques", GOLF CHANNEL FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9129
-
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="DiogoHenriques", Trace Kitoko
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1731
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="DiogoHenriques", Trace Mziki
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1732
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="DiogoHenriques", Trace Naija
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1733
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="DiogoHenriques", Trace Tropical
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1734
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="DiogoHenriques", Trace Urbain
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9219
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="DiogoHenriques", Trace Africa
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1730
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDeU9nBYHqaRKqVIhN9vkxkz__DDKrSgVQzGw=s288-mo-c-c0xffffffff-rj-k-no" group-title="DiogoHenriques", RT FRANCE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9217
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/190px-M6_Music_2012.png" group-title="DiogoHenriques", M6 MUSIC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9218
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_gospel-1.png/280px-Logo_gospel-1.png" group-title="DiogoHenriques", MTV LIVE
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9221
-
-#EXTINF:-1 tvg-logo="http://iptv.magikserv.com/picons/FR/mtvhd.png" group-title="DiogoHenriques", MTV HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8864
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="DiogoHenriques", MTV HITS FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9242
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mcmtop.png" group-title="DiogoHenriques", MCM TOP FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9232
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/rfmtv.png" group-title="DiogoHenriques", RFM TV FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9233
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/nrjhits.png" group-title="DiogoHenriques", NRJ HITS
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9234
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mezzolive.png" group-title="DiogoHenriques", MEZZO LIVE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9235
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/melody.png" group-title="DiogoHenriques", MELODY TV FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9238
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="DiogoHenriques", CSTAR HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8872
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="DiogoHenriques", CSTAR FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9156
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0wgzN59.png" group-title="DiogoHenriques", TV3V
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1735
-
-#EXTINF:-1 tvg-logo="" group-title="DiogoHenriques", L'EQUIPE MOTEUR
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1662
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="DiogoHenriques", HISTOIRE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9199
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/toutelhistoire.png" group-title="DiogoHenriques", TOUTE L'HISTOIRE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9200
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mycuisine.png" group-title="DiogoHenriques", MY CUISINE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9139
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/120px-PlanetePlus_2011.svg.png" group-title="DiogoHenriques", PLANETE+ FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9176
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="DiogoHenriques", PLANETE+ CI FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9177
-
-#EXTINF:-1 tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="DiogoHenriques", PLANETE+  A&E SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9808
-
-#EXTINF:-1 tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="DiogoHenriques", PLANETE+  A&E HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9809
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusaande.png" group-title="DiogoHenriques", PLANETE+ A&E FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9178
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="DiogoHenriques", DISCOVERY CHANNEL HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1672
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="DiogoHenriques", DISCOVERY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9179
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="DiogoHenriques", DISCOVERY SCIENCE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/8874
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="DiogoHenriques", DISCOVERY SCIENCE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9180
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="DiogoHenriques", DISCOVERY INVESTIGATION HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1670
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="DiogoHenriques", DISCOVERY INVESTIGATION FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9181
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="DiogoHenriques", DISCOVERY FAMILY HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1671
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="DiogoHenriques", DISCOVERY FAMILY FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9182
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/scienceetvie.png" group-title="DiogoHenriques", SCIENCES & VIE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9185
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NATIONAL GEOGRAPHIC HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1668
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NAT GEO WILD HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1669
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NAT GEO WILD FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9183
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="DiogoHenriques", NATIONAL GEOGRAFIC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9184
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/animaux.png" group-title="DiogoHenriques", ANIMAUX FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9186
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/mcm.png" group-title="DiogoHenriques", MCM HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1687
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3SPiQ7U.png" group-title="DiogoHenriques", BFM Lyon
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1702
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/756517377110597635/xuzNZgyR.jpg" group-title="DiogoHenriques", BFM TV HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/7358
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/bfmbusiness.png" group-title="DiogoHenriques", BFM BUISINESS
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9207
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="DiogoHenriques", BipTV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1704
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="DiogoHenriques", D5TV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1706
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sdF6uxL.png" group-title="DiogoHenriques", Espace Francophone
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1719
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="DiogoHenriques", Fashion TV UHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1721
-
-#EXTINF:-1 tvg-logo="https://www.grandlille.tv/wp-content/uploads/2018/09/logo-gltv-w.png" group-title="DiogoHenriques", Grand Lille TV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1723
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="DiogoHenriques", TV5 Monde Info
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1736
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/220px-TV5MONDE_logo.png" group-title="DiogoHenriques", TV5 MONDE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9149
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pZluyZ0.png" group-title="DiogoHenriques", TV7 Colmar
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1738
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDdOr52.png" group-title="DiogoHenriques", ILTV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1724
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JkBlOjq.png" group-title="DiogoHenriques", Tebeo
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1728
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="DiogoHenriques", E! ENTERTAINMENT FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9140
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png" group-title="DiogoHenriques", BET FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9147
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Viceland_Logo.png/200px-Viceland_Logo.png" group-title="DiogoHenriques", VICELAND FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9148
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="DiogoHenriques", CHERIE 25 FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9150
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/weo.png" group-title="DiogoHenriques", WEO FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9159
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/8_Mont-Blanc_logo_2013.png/150px-8_Mont-Blanc_logo_2013.png" group-title="DiogoHenriques", TV8 MONT BLANC FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9160
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/200px-Luxe_TV_Logo.svg.png" group-title="DiogoHenriques", LUXE TV
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9170
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/voyage.png" group-title="DiogoHenriques", VOYAGE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9192
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="DiogoHenriques", CHASSE ET PECHE HD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/1673
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="DiogoHenriques", CHASSE ET PECHE FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9194
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="DiogoHenriques", LA CHAINE METEO FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9202
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="DiogoHenriques", EURONEWS FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9203
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lci.png" group-title="DiogoHenriques", LCI FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9208
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP FHD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9210
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="DiogoHenriques", LCP100%
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9212
-
-#EXTINF:-1 tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="DiogoHenriques", CNEWS SD
-http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9213
 
 #EXTINF:-1 tvg-logo="http://iptv-belge.ddns.net:8012/logos/tf1.png" group-title="PedroCorreiaS", TF1 HD
 http://tv3.ddns.net:8080/PedroCorreiaS/88336/854
@@ -4395,120 +4395,6 @@ http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5654
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/13eme_rue_universal_hd.jpg" group-title=" Jz3IOfzQry", 13E RUE HD
 http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5655
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TF1_HD.png" group-title=" MiguelMatiasGoncalves", TF1 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3731
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1200px-France_2_2018.svg.png" group-title=" MiguelMatiasGoncalves", FRANCE 2 HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3732
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png" group-title=" MiguelMatiasGoncalves", FRANCE 3 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3733
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title=" MiguelMatiasGoncalves", FRANCE 5
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3735
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180510/jyq/kisspng-m6-group-logo-television-france-5af438a3640588.6829789515259547234097.jpg" group-title=" MiguelMatiasGoncalves",  M6 HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3737
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/AB1_logo.svg/1200px-AB1_logo.svg.png" group-title=" MiguelMatiasGoncalves",  AB1
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3739
-
-#EXTINF:-1 tvg-logo="http://apps.iptv.lu/images/channel/original/600.png" group-title=" MiguelMatiasGoncalves", C8 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3740
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/1200px-13th_Street_Universal.svg.png" group-title=" MiguelMatiasGoncalves", 13EME RUE HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3741
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title=" MiguelMatiasGoncalves", RTL9 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3742
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Serie_club_2007_logo.svg/1280px-Serie_club_2007_logo.svg.png" group-title=" MiguelMatiasGoncalves", SERIES CLUB
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3744
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_TF1_S%C3%A9ries_Films_2018.jpg" group-title=" MiguelMatiasGoncalves", TF1 SERIES CINEMA HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3746
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180622/cxi/kisspng-tmc-logo-france-television-channel-50-50-5b2cb251469552.3280258315296558892891.jpg" group-title=" MiguelMatiasGoncalves", TMC HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3747
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FkxrK4ghaOI/UYtqsBTrsdI/AAAAAAAAZlw/GNfFDp60HOg/s1600/TCM+Cin%C3%A9ma+logo+2013.png" group-title=" MiguelMatiasGoncalves", TCM CINEMA
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3748
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1280px-W9-Logo.svg.png" group-title=" MiguelMatiasGoncalves", W9
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3749
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Canal%2B_HD_France.svg/1280px-Canal%2B_HD_France.svg.png" group-title=" MiguelMatiasGoncalves", CANAL+ HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3750
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title=" MiguelMatiasGoncalves", RMC SPORT 1 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3752
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title=" MiguelMatiasGoncalves", RMC Sport 2 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3753
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title=" MiguelMatiasGoncalves", RMC SPORT 3 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3754
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title=" MiguelMatiasGoncalves", RMC Sport 4 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3755
-
-#EXTINF:-1 tvg-logo="https://masr140.net/wp-content/uploads/2017/01/bein-Sport-max1.png" group-title=" MiguelMatiasGoncalves", beIN SPORTS 1 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3756
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title=" MiguelMatiasGoncalves", BEIN SPORT  2 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3757
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180616/gqu/kisspng-bein-sports-1-bein-channels-network-bein-sports-2-5b248fb693adb7.0500261815291227426049.jpg" group-title=" MiguelMatiasGoncalves", BEIN SPORT 3 [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3758
-
-#EXTINF:-1 tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/OCS_Geants.png" group-title=" MiguelMatiasGoncalves",  OCS GEANT
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3760
-
-#EXTINF:-1 tvg-logo="http://www.logospng.com/images/182/fichierlogo-disney-cinema-2015png-mdash-wikip-233dia-182469.png" group-title=" MiguelMatiasGoncalves", DISNEY CINEMA HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3761
-
-#EXTINF:-1 tvg-logo="https://www.blue21.nl/wp-content/uploads/2015/10/800px-Arte-Logo.png" group-title=" MiguelMatiasGoncalves", Arte HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3764
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/1024px-OCS_Choc.svg.png" group-title=" MiguelMatiasGoncalves", OCS CHOC HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3765
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20181118/yvw/kisspng-logo-television-channel-m6-hogar-tv-attractive-barcelona-armchair-view-larger-fullscre-5bf1085da4d254.7452727215425229736751.jpg" group-title=" MiguelMatiasGoncalves", CHERIE 25
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3766
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/TFX_logo.png" group-title=" MiguelMatiasGoncalves", TFX [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3767
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title=" MiguelMatiasGoncalves", CINE EMOTION HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3770
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/Piwi_2011.png/revision/latest?cb=20111123103615" group-title=" MiguelMatiasGoncalves", KIDS: PIWI
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3773
-
-#EXTINF:-1 tvg-logo="http://www.sclance.com/pngs/one-png/one_png_958296.png" group-title=" MiguelMatiasGoncalves", GAME ONE [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3774
-
-#EXTINF:-1 tvg-logo="http://www.vimn.com/press/sites/default/files/styles/background/public/1B_Nickelodeon_Logo_REV.png?itok=faCF7Skp" group-title=" MiguelMatiasGoncalves", NICKELODEON HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3775
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Historia_CMYKblack.png" group-title=" MiguelMatiasGoncalves", HISTOIRE [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3778
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_Chaine_Voyage.jpg" group-title=" MiguelMatiasGoncalves", VOYAGE
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3779
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180530/coi/kisspng-television-channel-canal-sport-high-definition-te-5b0eec4fee0c25.5539563215277046559751.jpg" group-title=" MiguelMatiasGoncalves", CANAL SPORT HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3784
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Canal%2B_S%C3%A9ries.svg" group-title=" MiguelMatiasGoncalves", CANAL SERIES HD
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3785
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png" group-title=" MiguelMatiasGoncalves", SYFY
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3786
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/z5UtOjWiNgXGLSMAFiKiLY3nzfeIJzBX7BxeyTf5__drVk4fnUvdTD0HPduGHPcHMAE" group-title=" MiguelMatiasGoncalves", RMC SPORT NEWS [2K]
-http://themastertecnology.co:8080/MiguelMatiasGoncalves/LRszpTlgVv/3787
-
 #EXTINF:-1 tvg-logo="http://picons.smartswebapp.com/FR_GLASS/TF1.png" group-title="Pedropinto1409", TF1 HD
 http://oskinhatv.com:8080/Pedropinto1409/J4sUnDswbl/33278
 
@@ -6266,363 +6152,6 @@ http://3livesfree.xyz:8880/vancas/vancas/14651
 
 #EXTINF:-1 tvg-logo="" group-title="vancas", TMC
 http://3livesfree.xyz:8880/vancas/vancas/14652
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TF 1
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/197
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE 2
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/198
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE 3
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/199
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE 4
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/200
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE 5
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/201
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE 6
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/202
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORT 1
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/203
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORT 2
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/204
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 4
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/206
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 5
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/207
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 6
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/208
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 7
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/209
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 8
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/210
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 9
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/211
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BEINSPORTS MAX 10
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/212
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCEO HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/290
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", ARTE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/291
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", PARIS-PREMIERE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/292
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TV-BREIZH HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/293
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", NRJ12 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/294
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", 6TER FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/295
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", France 24 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/296
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", i24 News
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/297
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TV5 MONDE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/298
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", EURONEWS HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/299
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FRANCE INFO HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/300
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CHERIE 25 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/301
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", LCI HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/302
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CNEWS_HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/303
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BFM-PARIS HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/304
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BFM TV HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/305
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", BOOMERANG HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/306
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Game One
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/307
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+ J HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/308
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CARTOON NETWORK
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/309
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISNEY CHANNEL
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/310
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISNEY CINEMA HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/311
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISNEY JUNIOR HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/312
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISNEY XD HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/313
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", J-ONE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/314
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", MANGAS HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/315
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TELETOON +
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/316
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TIJI HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/317
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", NICKELODEON HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/318
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+ SPORT HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/319
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC SPORT 1FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/320
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC SPORT 2FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/321
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC SPORT 3 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/322
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC SPORT 4 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/323
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", EQUIDIA LIVE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/324
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", EUROSPORT 1 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/325
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", EUROSPORT 2 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/326
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", FOOT +  24 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/327
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC Sport News HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/328
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", INFOSPORT + HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/329
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", POLAR + HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/330
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+CINEMA FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/331
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TMC HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/332
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TF1 SERIE FILM HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/333
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Paramount Channel HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/334
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", OCS_CITY-HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/335
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", OCS CHOC HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/336
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", OCS GEANT HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/337
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", OCS MAX HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/338
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE + CLUB HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/339
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE + EMOTION HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/340
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE + CLASSIC HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/341
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE+FAMIZ HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/342
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE+FRISSON HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/343
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CINE+PREMIER HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/344
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Comedie + FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/345
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+ DECALE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/346
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+ FAMILY HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/347
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+ SERIES HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/348
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CANAL+HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/349
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CRIME DISTRICT
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/350
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", PLANETE + CI HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/351
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", WARNER HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/352
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RTL 9 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/353
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", SERIE CLUB HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/354
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", SYFY HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/355
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TFX HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/356
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", 13EME RUE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/357
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TEVA HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/358
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", C8-HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/359
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", W9 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/360
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", ACTION HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/361
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", AB1 FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/362
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", AB3 HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/363
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CSTAR HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/364
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", PLANETE + HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/365
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", PLANETE + A&E HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/366
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISCOVERY SCIENCE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/367
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISCOVERY FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/368
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC STORY HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/369
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", TOUTE L'HISTOIRE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/370
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", SCIENCES & VIE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/371
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", HISTOIRE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/372
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", LCP
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/373
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", NATIONAL-GEO WILD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/374
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", NATIONAL GEOGRAPHIC HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/375
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISCOVERY-FAMILY FHD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/376
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", DISCOVERY-INVESTIGATION HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/377
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", CHASSE & PECHE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/378
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", E! ENTERTAINEMENT HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/379
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", RMC DECOUVERTE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/380
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Voyage HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/381
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", ANIMAUX HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/382
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", AB EXPLORE HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/383
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", NRJ12 HITS HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/384
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Africa
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/385
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Gospel
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/386
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Kitoko
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/387
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Mziki
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/388
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Naija
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/389
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Toca
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/390
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", Trace Tropical
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/391
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", MCM Top
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/392
-
-#EXTINF:-1 tvg-logo="" group-title="Joeltc", MTV HD
-http://geral.dyndns.tv:8080/Joeltc/l0PhWW84mr/393
 
 #EXTINF:-1 tvg-logo="http://channelstream.net/images/prog/channel/tf1.png" group-title="Aziz", TF1 FHD
 http://topiptv.net:5890/aziz/1234/464
