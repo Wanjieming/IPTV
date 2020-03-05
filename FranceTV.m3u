@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="DiogoHenriques", Conan
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
 
 #EXTINF:-1 tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="DiogoHenriques", TF1 Séries Films
 http://alienserver.dynu.net:8000/DiogoHenriques/Diogo/9153
