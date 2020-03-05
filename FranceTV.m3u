@@ -5953,3 +5953,295 @@ http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1180
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/1181
 #EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/w9_fr.jpg" group-title="gjsjAXYWgJ", W9
 http://78.129.252.96:2052/gjsjAXYWgJ/ZZ3O4DPr1u/774
+
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1" tvg-logo="http://supertv.io:25461/logo/tf1.png" group-title="Miguel", TF1
+http://supertv.io:25461/live/miguel/miguel/32.ts
+#EXTINF:-1 tvg-ID="france.2.fr" tvg-name="FRANCE 2" tvg-logo="http://supertv.io:25461/logo/france2.png" group-title="Miguel", FRANCE 2
+http://supertv.io:25461/live/miguel/miguel/34.ts
+#EXTINF:-1 tvg-ID="france.3.fr" tvg-name="FRANCE 3" tvg-logo="http://supertv.io:25461/logo/france3.png" group-title="Miguel", FRANCE 3
+http://supertv.io:25461/live/miguel/miguel/35.ts
+#EXTINF:-1 tvg-ID="france.4.fr" tvg-name="FRANCE 4" tvg-logo="http://supertv.io:25461/logo/france4.png" group-title="Miguel", FRANCE 4
+http://supertv.io:25461/live/miguel/miguel/36.ts
+#EXTINF:-1 tvg-ID="france.5.fr" tvg-name="FRANCE 5" tvg-logo="http://supertv.io:25461/logo/france5.png" group-title="Miguel", FRANCE 5
+http://supertv.io:25461/live/miguel/miguel/37.ts
+#EXTINF:-1 tvg-ID="france.o.fr" tvg-name="FRANCE Ô" tvg-logo="http://supertv.io:25461/logo/franceo.png" group-title="Miguel", FRANCE Ô
+http://supertv.io:25461/live/miguel/miguel/38.ts
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="M6" tvg-logo="http://supertv.io:25461/logo/m6.png" group-title="Miguel", M6
+http://supertv.io:25461/live/miguel/miguel/39.ts
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="ARTE" tvg-logo="http://supertv.io:25461/logo/arte.png" group-title="Miguel", ARTE
+http://supertv.io:25461/live/miguel/miguel/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="C8" tvg-logo="" group-title="Miguel", C8
+http://supertv.io:25461/live/miguel/miguel/89.ts
+#EXTINF:-1 tvg-ID="canal.plus.fr" tvg-name="CANAL+" tvg-logo="http://iptv.magikserv.com/picons/FR/canalplushd.png" group-title="Miguel", CANAL+
+http://supertv.io:25461/live/miguel/miguel/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL + FHD" tvg-logo="" group-title="Miguel",FR: CANAL + FHD
+http://supertv.io:25461/live/miguel/miguel/1352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ CINÉMA" tvg-logo="" group-title="Miguel", CANAL+ CINÉMA
+http://supertv.io:25461/live/miguel/miguel/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="Miguel", CANAL+ SPORT
+http://supertv.io:25461/live/miguel/miguel/44.ts
+#EXTINF:-1 tvg-ID="canal+.series.fr" tvg-name="CANAL+ SÉRIES" tvg-logo="" group-title="Miguel", CANAL+ SÉRIES
+http://supertv.io:25461/live/miguel/miguel/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="Miguel", CANAL+ FAMILY
+http://supertv.io:25461/live/miguel/miguel/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ DÉCALÉ" tvg-logo="" group-title="Miguel", CANAL+ DÉCALÉ
+http://supertv.io:25461/live/miguel/miguel/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel TV" tvg-logo="" group-title="Miguel", La Casa de Papel TV
+http://supertv.io:25461/live/miguel/miguel/1711.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINÉ+ PREMIER" tvg-logo="" group-title="Miguel", CINÉ+ PREMIER
+http://supertv.io:25461/live/miguel/miguel/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINÉ+ FRISSON" tvg-logo="" group-title="Miguel", CINÉ+ FRISSON
+http://supertv.io:25461/live/miguel/miguel/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINÉ+ FAMIZ" tvg-logo="" group-title="Miguel", CINÉ+ FAMIZ
+http://supertv.io:25461/live/miguel/miguel/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINÉ+ CLUB" tvg-logo="" group-title="Miguel", CINÉ+ CLUB
+http://supertv.io:25461/live/miguel/miguel/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINÉ  CLASSIC" tvg-logo="" group-title="Miguel", CINÉ  CLASSIC
+http://supertv.io:25461/live/miguel/miguel/54.ts
+#EXTINF:-1 tvg-ID="cine.plus.emotion.fr" tvg-name="CINÉ+ ÉMOTION" tvg-logo="http://iptv.magikserv.com/picons/FR/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Miguel", CINÉ+ ÉMOTION
+http://supertv.io:25461/live/miguel/miguel/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| WALT DISNEY STUDIO FHD" tvg-logo="" group-title="Miguel",|EXCLU| WALT DISNEY STUDIO FHD
+http://supertv.io:25461/live/miguel/miguel/2518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| TITOUNIS TV FHD - DESSINS ANIMÉS" tvg-logo="" group-title="Miguel",|EXCLU| TITOUNIS TV FHD - DESSINS ANIMÉS
+http://supertv.io:25461/live/miguel/miguel/2517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| TITOUNIS TV FHD - COMPTINES" tvg-logo="" group-title="Miguel",|EXCLU| TITOUNIS TV FHD - COMPTINES
+http://supertv.io:25461/live/miguel/miguel/2516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| STUDIO MOVIE UHD (4K)" tvg-logo="" group-title="Miguel",|EXCLU| STUDIO MOVIE UHD (4K)
+http://supertv.io:25461/live/miguel/miguel/2515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| PETIT OURS BRUN TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| PETIT OURS BRUN TV FHD
+http://supertv.io:25461/live/miguel/miguel/2514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| PEPPA PIG TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| PEPPA PIG TV FHD
+http://supertv.io:25461/live/miguel/miguel/2513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| PAW PATROL TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| PAW PATROL TV FHD
+http://supertv.io:25461/live/miguel/miguel/2512.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| NETFLIX PLAY FHD" tvg-logo="" group-title="Miguel",|EXCLU| NETFLIX PLAY FHD
+http://supertv.io:25461/live/miguel/miguel/2511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| MASHA ET MICHKA TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| MASHA ET MICHKA TV FHD
+http://supertv.io:25461/live/miguel/miguel/2510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| MARVEL TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| MARVEL TV FHD
+http://supertv.io:25461/live/miguel/miguel/2509.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| LES SIMPSON TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| LES SIMPSON TV FHD
+http://supertv.io:25461/live/miguel/miguel/2508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="|EXCLU| DRAGON BALL Z TV FHD" tvg-logo="" group-title="Miguel",|EXCLU| DRAGON BALL Z TV FHD
+http://supertv.io:25461/live/miguel/miguel/2507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR " tvg-logo="" group-title="Miguel", POLAR 
+http://supertv.io:25461/live/miguel/miguel/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="Miguel", OCS MAX
+http://supertv.io:25461/live/miguel/miguel/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GÉANTS" tvg-logo="" group-title="Miguel", OCS GÉANTS
+http://supertv.io:25461/live/miguel/miguel/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="Miguel", OCS CITY
+http://supertv.io:25461/live/miguel/miguel/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC" tvg-logo="" group-title="Miguel", OCS CHOC
+http://supertv.io:25461/live/miguel/miguel/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="Miguel", ACTION
+http://supertv.io:25461/live/miguel/miguel/64.ts
+#EXTINF:-1 tvg-ID="altice.studio.fr" tvg-name="Altice Studio" tvg-logo="http://iptv.magikserv.com/picons/FR/altice.png" group-title="Miguel", Altice Studio
+http://supertv.io:25461/live/miguel/miguel/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIÈRE" tvg-logo="" group-title="Miguel", PARIS PREMIÈRE
+http://supertv.io:25461/live/miguel/miguel/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="Miguel", PARAMOUNT CHANNEL
+http://supertv.io:25461/live/miguel/miguel/62.ts
+#EXTINF:-1 tvg-ID="paramount.channel.decale.fr" tvg-name="Paramount Channel Decale" tvg-logo="https://rp-live.orange.fr/otv_logos/logo_webtv_livetv_paramount.png" group-title="Miguel", Paramount Channel Decale
+http://supertv.io:25461/live/miguel/miguel/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV" tvg-logo="" group-title="Miguel", WARNER TV
+http://supertv.io:25461/live/miguel/miguel/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="6TER" tvg-logo="" group-title="Miguel", 6TER
+http://supertv.io:25461/live/miguel/miguel/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="" group-title="Miguel", W9
+http://supertv.io:25461/live/miguel/miguel/90.ts
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="Miguel", TMC
+http://supertv.io:25461/live/miguel/miguel/91.ts
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC  1" tvg-logo="http://iptv.magikserv.com/picons/FR/tmc.png" group-title="Miguel", TMC  1
+http://supertv.io:25461/live/miguel/miguel/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TFX" tvg-logo="" group-title="Miguel", TFX
+http://supertv.io:25461/live/miguel/miguel/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 SÉRIE FILM" tvg-logo="" group-title="Miguel", TF1 SÉRIE FILM
+http://supertv.io:25461/live/miguel/miguel/96.ts
+#EXTINF:-1 tvg-ID="tcm.cinema.fr" tvg-name="TCM CINÉMA" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="Miguel", TCM CINÉMA
+http://supertv.io:25461/live/miguel/miguel/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TÉVA" tvg-logo="" group-title="Miguel", TÉVA
+http://supertv.io:25461/live/miguel/miguel/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SY FY" tvg-logo="" group-title="Miguel", SY FY
+http://supertv.io:25461/live/miguel/miguel/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SERIECLUB" tvg-logo="" group-title="Miguel", SERIECLUB
+http://supertv.io:25461/live/miguel/miguel/73.ts
+#EXTINF:-1 tvg-ID="sy.fy.fr" tvg-name="SyFy" tvg-logo="http://plugintv.dyndns.tv/picons/picons_30w/SYFY.png" group-title="Miguel", SyFy
+http://supertv.io:25461/live/miguel/miguel/864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL9" tvg-logo="" group-title="Miguel", RTL9
+http://supertv.io:25461/live/miguel/miguel/87.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CSTAR" tvg-logo="" group-title="Miguel", CSTAR
+http://supertv.io:25461/live/miguel/miguel/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME DISTRICT" tvg-logo="" group-title="Miguel", CRIME DISTRICT
+http://supertv.io:25461/live/miguel/miguel/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Miguel", COMEDY CENTRAL
+http://supertv.io:25461/live/miguel/miguel/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMÉDIE " tvg-logo="" group-title="Miguel", COMÉDIE 
+http://supertv.io:25461/live/miguel/miguel/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AB3" tvg-logo="" group-title="Miguel", AB3
+http://supertv.io:25461/live/miguel/miguel/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="" group-title="Miguel", AB1
+http://supertv.io:25461/live/miguel/miguel/82.ts
+#EXTINF:-1 tvg-ID="13e.rue.fr" tvg-name="13E RUE" tvg-logo="http://iptv.magikserv.com/picons/FR/1_0_19_7F_D_85_C00000_0_0_0.png" group-title="Miguel", 13E RUE
+http://supertv.io:25461/live/miguel/miguel/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHÉRIE 25" tvg-logo="" group-title="Miguel", CHÉRIE 25
+http://supertv.io:25461/live/miguel/miguel/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ELLE GIRL" tvg-logo="" group-title="Miguel", ELLE GIRL
+http://supertv.io:25461/live/miguel/miguel/75.ts
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="NRJ12" tvg-logo="http://iptv.magikserv.com/picons/FR/1_0_19_2200_44C_1_C00000_0_0_0.png" group-title="Miguel", NRJ12
+http://supertv.io:25461/live/miguel/miguel/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RFM TV" tvg-logo="" group-title="Miguel", RFM TV
+http://supertv.io:25461/live/miguel/miguel/190.ts
+#EXTINF:-1 tvg-ID="rouge.tv.ch" tvg-name="Rouge TV" tvg-logo="https://julien-matthey.com/wp-content/uploads/2016/11/Rouge-TV-Logo-2-960x720.jpeg" group-title="Miguel", Rouge TV
+http://supertv.io:25461/live/miguel/miguel/717.ts
+#EXTINF:-1 tvg-ID="rmc.sport.news.fr" tvg-name="RMC SPORT NEWS" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiqzN7Wj__mAhXGb1AKHQpXBAMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.teleclub.ch%2Fromandie%2Fsender%2Fbfm-sport%2F&psig=AOvVaw0iqCcCObw2pxPZME_7G-O8&ust=1578954919818711" group-title="Miguel", RMC SPORT NEWS
+http://supertv.io:25461/live/miguel/miguel/154.ts
+#EXTINF:-1 tvg-ID="rmc.sport.1.fr" tvg-name="RMC SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/Logo_RMC_Sport_1_2018.svg" group-title="Miguel", RMC SPORT 1
+http://supertv.io:25461/live/miguel/miguel/138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 2" tvg-logo="" group-title="Miguel", RMC SPORT 2
+http://supertv.io:25461/live/miguel/miguel/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 3" tvg-logo="" group-title="Miguel", RMC SPORT 3
+http://supertv.io:25461/live/miguel/miguel/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 4" tvg-logo="" group-title="Miguel", RMC SPORT 4
+http://supertv.io:25461/live/miguel/miguel/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="Miguel", BEIN SPORTS 1
+http://supertv.io:25461/live/miguel/miguel/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="Miguel", BEIN SPORTS 2
+http://supertv.io:25461/live/miguel/miguel/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="Miguel", BEIN SPORTS 3
+http://supertv.io:25461/live/miguel/miguel/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Miguel", EUROSPORT 1
+http://supertv.io:25461/live/miguel/miguel/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Miguel", EUROSPORT 2
+http://supertv.io:25461/live/miguel/miguel/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT " tvg-logo="" group-title="Miguel", INFOSPORT 
+http://supertv.io:25461/live/miguel/miguel/145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOOT " tvg-logo="" group-title="Miguel", FOOT 
+http://supertv.io:25461/live/miguel/miguel/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="L'ÉQUIPE 21" tvg-logo="" group-title="Miguel", L'ÉQUIPE 21
+http://supertv.io:25461/live/miguel/miguel/153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC DÉCOUVERTE" tvg-logo="" group-title="Miguel", RMC DÉCOUVERTE
+http://supertv.io:25461/live/miguel/miguel/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC STORY" tvg-logo="" group-title="Miguel", RMC STORY
+http://supertv.io:25461/live/miguel/miguel/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTOIRE" tvg-logo="" group-title="Miguel", HISTOIRE
+http://supertv.io:25461/live/miguel/miguel/116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANÈTE " tvg-logo="" group-title="Miguel", PLANÈTE 
+http://supertv.io:25461/live/miguel/miguel/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANÈTE  CI" tvg-logo="" group-title="Miguel", PLANÈTE  CI
+http://supertv.io:25461/live/miguel/miguel/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANÈTE  A&E" tvg-logo="" group-title="Miguel", PLANÈTE  A&E
+http://supertv.io:25461/live/miguel/miguel/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Miguel", NATIONAL GEOGRAPHIC
+http://supertv.io:25461/live/miguel/miguel/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Miguel", NAT GEO WILD
+http://supertv.io:25461/live/miguel/miguel/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Miguel", DISCOVERY SCIENCE
+http://supertv.io:25461/live/miguel/miguel/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="" group-title="Miguel", DISCOVERY INVESTIGATION
+http://supertv.io:25461/live/miguel/miguel/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY FAMILY" tvg-logo="" group-title="Miguel", DISCOVERY FAMILY
+http://supertv.io:25461/live/miguel/miguel/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Miguel", DISCOVERY CHANNEL
+http://supertv.io:25461/live/miguel/miguel/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USHUAÏA TV" tvg-logo="" group-title="Miguel", USHUAÏA TV
+http://supertv.io:25461/live/miguel/miguel/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEASONS" tvg-logo="" group-title="Miguel", SEASONS
+http://supertv.io:25461/live/miguel/miguel/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCE ET VIE" tvg-logo="" group-title="Miguel", SCIENCE ET VIE
+http://supertv.io:25461/live/miguel/miguel/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VOYAGE" tvg-logo="" group-title="Miguel", VOYAGE
+http://supertv.io:25461/live/miguel/miguel/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE ET PÊCHE" tvg-logo="" group-title="Miguel", CHASSE ET PÊCHE
+http://supertv.io:25461/live/miguel/miguel/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE" tvg-logo="http://iptv.magikserv.com/picons/FR/mycuisine.png" group-title="Miguel", MY CUISINE
+http://supertv.io:25461/live/miguel/miguel/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE" tvg-logo="" group-title="Miguel", TV5 MONDE
+http://supertv.io:25461/live/miguel/miguel/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV BREIZH" tvg-logo="" group-title="Miguel", TV BREIZH
+http://supertv.io:25461/live/miguel/miguel/84.ts
+#EXTINF:-1 tvg-ID="france.24.fr" tvg-name="FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Miguel", FRANCE 24
+http://supertv.io:25461/live/miguel/miguel/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TREK" tvg-logo="" group-title="Miguel", TREK
+http://supertv.io:25461/live/miguel/miguel/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE L'HISTOIRE" tvg-logo="" group-title="Miguel", TOUTE L'HISTOIRE
+http://supertv.io:25461/live/miguel/miguel/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="Miguel", ANIMAUX
+http://supertv.io:25461/live/miguel/miguel/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="Miguel", DISNEY XD
+http://supertv.io:25461/live/miguel/miguel/176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Miguel", DISNEY JUNIOR
+http://supertv.io:25461/live/miguel/miguel/167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINÉMA" tvg-logo="" group-title="Miguel", DISNEY CINÉMA
+http://supertv.io:25461/live/miguel/miguel/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Miguel", DISNEY CHANNEL
+http://supertv.io:25461/live/miguel/miguel/181.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TOONAMI" tvg-logo="" group-title="Miguel", TOONAMI
+http://supertv.io:25461/live/miguel/miguel/179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TÉLÉTOON " tvg-logo="http://iptv.magikserv.com/picons/FR/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="Miguel", TÉLÉTOON 
+http://supertv.io:25461/live/miguel/miguel/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TIJI" tvg-logo="http://iptv.magikserv.com/picons/FR/tiji.png" group-title="Miguel", TIJI
+http://supertv.io:25461/live/miguel/miguel/170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PIWI+" tvg-logo="" group-title="Miguel", PIWI+
+http://supertv.io:25461/live/miguel/miguel/168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ Hits" tvg-logo="" group-title="Miguel", NRJ Hits
+http://supertv.io:25461/live/miguel/miguel/196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="http://iptv.magikserv.com/picons/FR/nickelodeonplus1.png" group-title="Miguel", NICKELODEON
+http://supertv.io:25461/live/miguel/miguel/174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Miguel", CARTOON NETWORK
+http://supertv.io:25461/live/miguel/miguel/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="Miguel", CANAL J
+http://supertv.io:25461/live/miguel/miguel/177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS" tvg-logo="" group-title="Miguel", MTV HITS
+http://supertv.io:25461/live/miguel/miguel/191.ts
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV" tvg-logo="http://iptv.magikserv.com/picons/FR/mtvhd.png" group-title="Miguel", MTV
+http://supertv.io:25461/live/miguel/miguel/74.ts
+#EXTINF:-1 tvg-ID="mcm.top.fr" tvg-name="MCM TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/663px-MCM_Top_Logo.svg.png" group-title="Miguel", MCM TOP
+http://supertv.io:25461/live/miguel/miguel/189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCM" tvg-logo="" group-title="Miguel", MCM
+http://supertv.io:25461/live/miguel/miguel/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="" group-title="Miguel", MANGAS
+http://supertv.io:25461/live/miguel/miguel/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LUXE TV" tvg-logo="" group-title="Miguel", LUXE TV
+http://supertv.io:25461/live/miguel/miguel/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LCP" tvg-logo="" group-title="Miguel", LCP
+http://supertv.io:25461/live/miguel/miguel/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KTO" tvg-logo="" group-title="Miguel", KTO
+http://supertv.io:25461/live/miguel/miguel/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="J-ONE" tvg-logo="" group-title="Miguel", J-ONE
+http://supertv.io:25461/live/miguel/miguel/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="I24 NEWS" tvg-logo="" group-title="Miguel", I24 NEWS
+http://supertv.io:25461/live/miguel/miguel/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GONG" tvg-logo="" group-title="Miguel", GONG
+http://supertv.io:25461/live/miguel/miguel/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF CHANNEL" tvg-logo="" group-title="Miguel", GOLF CHANNEL
+http://supertv.io:25461/live/miguel/miguel/150.ts
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://iptv.magikserv.com/picons/FR/franceinfo.png" group-title="Miguel", FRANCE INFO
+http://supertv.io:25461/live/miguel/miguel/130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FASHION TV" tvg-logo="" group-title="Miguel", FASHION TV
+http://supertv.io:25461/live/miguel/miguel/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS" tvg-logo="" group-title="Miguel", EURONEWS
+http://supertv.io:25461/live/miguel/miguel/131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ES1" tvg-logo="" group-title="Miguel", ES1
+http://supertv.io:25461/live/miguel/miguel/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA LIVE" tvg-logo="" group-title="Miguel", EQUIDIA LIVE
+http://supertv.io:25461/live/miguel/miguel/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN" tvg-logo="" group-title="Miguel", CGTN
+http://supertv.io:25461/live/miguel/miguel/209.ts
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="BOOMERANG" tvg-logo="https://www.pinclipart.com/picdir/middle/214-2146336_new-boomerang-logo-recreation-boomerang-channel-logo-png.png" group-title="Miguel", BOOMERANG
+http://supertv.io:25461/live/miguel/miguel/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG  1" tvg-logo="" group-title="Miguel", BOOMERANG  1
+http://supertv.io:25461/live/miguel/miguel/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="Miguel", BOING
+http://supertv.io:25461/live/miguel/miguel/178.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BFM TV" tvg-logo="" group-title="Miguel", BFM TV
+http://supertv.io:25461/live/miguel/miguel/128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BFM PARIS" tvg-logo="" group-title="Miguel", BFM PARIS
+http://supertv.io:25461/live/miguel/miguel/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BFM BUSINESS" tvg-logo="" group-title="Miguel", BFM BUSINESS
+http://supertv.io:25461/live/miguel/miguel/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="http://iptv.magikserv.com/picons/FR/bet.png" group-title="Miguel", BET
+http://supertv.io:25461/live/miguel/miguel/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AUTOMOTO" tvg-logo="" group-title="Miguel", AUTOMOTO
+http://supertv.io:25461/live/miguel/miguel/148.ts
