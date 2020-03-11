@@ -2589,7 +2589,7 @@ http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/1101
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13845
 #EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="EUROSPORT 1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="PirlGZuLaZ",EUROSPORT 1 SD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/57859
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL+  SD" tvg-logo="" group-title=""PirlGZuLaZ",CANAL+  SD
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="CANAL+ SD" tvg-logo="" group-title="PirlGZuLaZ",CANAL+ SD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/39549
 #EXTINF:-1 tvg-ID="" tvg-name="LA CHAINE DU PERE NOÊL HD" tvg-logo="http://www.canalplus-afrique.com/var/canalplus_cos/storage/images/programmes/jeunesse/la-chaine-du-pere-noel-2017/images/logo/138612275-2-fre-FR/logo.png" group-title="PirlGZuLaZ",LA CHAINE DU PERE NOÊL HD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/48784
@@ -2627,7 +2627,7 @@ http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/28344
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24957
 #EXTINF:-1 tvg-ID="toonami.fr" tvg-name="TOONAMI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="PirlGZuLaZ",TOONAMI FHD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13850
-#EXTINF:-1 tvg-ID="Toonami" tvg-name="|FR|TOONAMI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="FRENCH KIDS | LIVE",|FR|TOONAMI HD
+#EXTINF:-1 tvg-ID="Toonami" tvg-name="|FR|TOONAMI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="PirlGZuLaZ",TOONAMI HD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/24956
 #EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="TELETOON+ FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="PirlGZuLaZ",TELETOON+ FHD
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13855
