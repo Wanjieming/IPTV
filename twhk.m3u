@@ -1,9 +1,107 @@
 #EXTM3U
-#EXTINF:-1, National Geo People
-http://111.13.111.192/125.227.198.89:8030
-
-#EXTINF:-1, Discovery Asia
-http://111.13.111.192/125.227.198.89:8028
-
-#EXTINF:-1, CTV HD
-http://111.13.111.192/125.227.198.89:8021
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB HD" tvg-logo="" group-title="TAIWAN",TW:TVB HD
+http://xtream.in:9000/sami/sami/94837
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB2" tvg-logo="" group-title="TAIWAN",TW:TVB2
+http://xtream.in:9000/sami/sami/94838
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB1" tvg-logo="" group-title="TAIWAN",TW:TVB1
+http://xtream.in:9000/sami/sami/94839
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVBE" tvg-logo="" group-title="TAIWAN",TW:TVBE
+http://xtream.in:9000/sami/sami/94840
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB Pearl" tvg-logo="" group-title="TAIWAN",TW:TVB Pearl
+http://xtream.in:9000/sami/sami/94841
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB Drama" tvg-logo="" group-title="TAIWAN",TW:TVB Drama
+http://xtream.in:9000/sami/sami/94842
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVB Chinese" tvg-logo="" group-title="TAIWAN",TW:TVB Chinese
+http://xtream.in:9000/sami/sami/94843
+#EXTINF:-1 tvg-ID="" tvg-name="TW:Phoenix Hong Kong Channel" tvg-logo="" group-title="TAIWAN",TW:Phoenix Hong Kong Channel
+http://xtream.in:9000/sami/sami/94844
+#EXTINF:-1 tvg-ID="" tvg-name="TW:BabyTV Mandarin" tvg-logo="" group-title="TAIWAN",TW:BabyTV Mandarin
+http://xtream.in:9000/sami/sami/94845
+#EXTINF:-1 tvg-ID="" tvg-name="TW:Formosa TV" tvg-logo="" group-title="TAIWAN",TW:Formosa TV
+http://xtream.in:9000/sami/sami/94846
+#EXTINF:-1 tvg-ID="" tvg-name="TW:SETi" tvg-logo="" group-title="TAIWAN",TW:SETi
+http://xtream.in:9000/sami/sami/94847
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TTV" tvg-logo="" group-title="TAIWAN",TW:TTV
+http://xtream.in:9000/sami/sami/94848
+#EXTINF:-1 tvg-ID="" tvg-name="TW:ET Global" tvg-logo="" group-title="TAIWAN",TW:ET Global
+http://xtream.in:9000/sami/sami/94849
+#EXTINF:-1 tvg-ID="" tvg-name="TW:ET Drama" tvg-logo="" group-title="TAIWAN",TW:ET Drama
+http://xtream.in:9000/sami/sami/94850
+#EXTINF:-1 tvg-ID="" tvg-name="TW:ET Financial News" tvg-logo="" group-title="TAIWAN",TW:ET Financial News
+http://xtream.in:9000/sami/sami/94851
+#EXTINF:-1 tvg-ID="" tvg-name="TW:ET China" tvg-logo="" group-title="TAIWAN",TW:ET China
+http://xtream.in:9000/sami/sami/94852
+#EXTINF:-1 tvg-ID="" tvg-name="TW:CTS America" tvg-logo="" group-title="TAIWAN",TW:CTS America
+http://xtream.in:9000/sami/sami/94853
+#EXTINF:-1 tvg-ID="" tvg-name="TW:ET News" tvg-logo="" group-title="TAIWAN",TW:ET News
+http://xtream.in:9000/sami/sami/94854
+#EXTINF:-1 tvg-ID="" tvg-name="TW:Skylink Television" tvg-logo="" group-title="TAIWAN",TW:Skylink Television
+http://xtream.in:9000/sami/sami/94855
+#EXTINF:-1 tvg-ID="" tvg-name="TW:Skylink Television 2" tvg-logo="" group-title="TAIWAN",TW:Skylink Television 2
+http://xtream.in:9000/sami/sami/94856
+#EXTINF:-1 tvg-ID="" tvg-name="TW:iCiTi" tvg-logo="" group-title="TAIWAN",TW:iCiTi
+http://xtream.in:9000/sami/sami/94857
+#EXTINF:-1 tvg-ID="" tvg-name="TW:Yoyo TV" tvg-logo="" group-title="TAIWAN",TW:Yoyo TV
+http://xtream.in:9000/sami/sami/94858
+#EXTINF:-1 tvg-ID="" tvg-name="TW:USTV" tvg-logo="" group-title="TAIWAN",TW:USTV
+http://xtream.in:9000/sami/sami/94859
+#EXTINF:-1 tvg-ID="" tvg-name="TW:TVBS" tvg-logo="" group-title="TAIWAN",TW:TVBS
+http://xtream.in:9000/sami/sami/94860
+#EXTINF:-1 tvg-ID="" tvg-name="TW:BabyFirst臺灣" tvg-logo="" group-title="TAIWAN",TW:BabyFirst臺灣
+http://xtream.in:9000/sami/sami/94861
+#EXTINF:-1 tvg-ID="" tvg-name="TW:FTV News" tvg-logo="" group-title="TAIWAN",TW:FTV News
+http://xtream.in:9000/sami/sami/94862
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV1" tvg-logo="" group-title="TAIWAN",TW:GOOD TV1
+http://xtream.in:9000/sami/sami/94863
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV10" tvg-logo="" group-title="TAIWAN",TW:GOOD TV10
+http://xtream.in:9000/sami/sami/94864
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV13" tvg-logo="" group-title="TAIWAN",TW:GOOD TV13
+http://xtream.in:9000/sami/sami/94865
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV14" tvg-logo="" group-title="TAIWAN",TW:GOOD TV14
+http://xtream.in:9000/sami/sami/94866
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV2" tvg-logo="" group-title="TAIWAN",TW:GOOD TV2
+http://xtream.in:9000/sami/sami/94867
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV3" tvg-logo="" group-title="TAIWAN",TW:GOOD TV3
+http://xtream.in:9000/sami/sami/94868
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV5" tvg-logo="" group-title="TAIWAN",TW:GOOD TV5
+http://xtream.in:9000/sami/sami/94869
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV6" tvg-logo="" group-title="TAIWAN",TW:GOOD TV6
+http://xtream.in:9000/sami/sami/94870
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV7" tvg-logo="" group-title="TAIWAN",TW:GOOD TV7
+http://xtream.in:9000/sami/sami/94871
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV8" tvg-logo="" group-title="TAIWAN",TW:GOOD TV8
+http://xtream.in:9000/sami/sami/94872
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD TV9" tvg-logo="" group-title="TAIWAN",TW:GOOD TV9
+http://xtream.in:9000/sami/sami/94873
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD卡通" tvg-logo="" group-title="TAIWAN",TW:GOOD卡通
+http://xtream.in:9000/sami/sami/94874
+#EXTINF:-1 tvg-ID="" tvg-name="TW:GOOD生活台" tvg-logo="" group-title="TAIWAN",TW:GOOD生活台
+http://xtream.in:9000/sami/sami/94875
+#EXTINF:-1 tvg-ID="" tvg-name="TW:NTD TV" tvg-logo="" group-title="TAIWAN",TW:NTD TV
+http://xtream.in:9000/sami/sami/94876
+#EXTINF:-1 tvg-ID="" tvg-name="TW:NYX Media 1" tvg-logo="" group-title="TAIWAN",TW:NYX Media 1
+http://xtream.in:9000/sami/sami/94877
+#EXTINF:-1 tvg-ID="" tvg-name="TW:NYX Media 2" tvg-logo="" group-title="TAIWAN",TW:NYX Media 2
+http://xtream.in:9000/sami/sami/94878
+#EXTINF:-1 tvg-ID="" tvg-name="TW:唯心电视台wxtv" tvg-logo="" group-title="TAIWAN",TW:唯心电视台wxtv
+http://xtream.in:9000/sami/sami/94879
+#EXTINF:-1 tvg-ID="" tvg-name="TW:大愛二台" tvg-logo="" group-title="TAIWAN",TW:大愛二台
+http://xtream.in:9000/sami/sami/94880
+#EXTINF:-1 tvg-ID="" tvg-name="TW:奇妙电视" tvg-logo="" group-title="TAIWAN",TW:奇妙电视
+http://xtream.in:9000/sami/sami/94881
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天卡通" tvg-logo="" group-title="TAIWAN",TW:靖天卡通
+http://xtream.in:9000/sami/sami/94882
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天國際" tvg-logo="" group-title="TAIWAN",TW:靖天國際
+http://xtream.in:9000/sami/sami/94883
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天戲劇" tvg-logo="" group-title="TAIWAN",TW:靖天戲劇
+http://xtream.in:9000/sami/sami/94884
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天日本" tvg-logo="" group-title="TAIWAN",TW:靖天日本
+http://xtream.in:9000/sami/sami/94885
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天歡樂" tvg-logo="" group-title="TAIWAN",TW:靖天歡樂
+http://xtream.in:9000/sami/sami/94886
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天資訊" tvg-logo="" group-title="TAIWAN",TW:靖天資訊
+http://xtream.in:9000/sami/sami/94887
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖天電影" tvg-logo="" group-title="TAIWAN",TW:靖天電影
+http://xtream.in:9000/sami/sami/94888
+#EXTINF:-1 tvg-ID="" tvg-name="TW:靖洋卡通" tvg-logo="" group-title="TAIWAN",TW:靖洋卡通
+http://xtream.in:9000/sami/sami/94889
