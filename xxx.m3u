@@ -1,4 +1,5 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="" tvg-name="XXX:BRAZERS TV EUROPE" tvg-logo="" group-title="XXX",XXX:BRAZERS TV EUROPE
 http://212.8.252.59:88/mario/mario/7590
 #EXTINF:-1 tvg-id="" tvg-name="XXX:BABES TV" tvg-logo="" group-title="XXX",XXX:BABES TV
@@ -97,6 +98,8 @@ http://212.8.252.59:88/mario/mario/4628
 http://212.8.252.59:88/mario/mario/4613
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Trans" tvg-logo="" group-title="XXX",XXX:Trans
 http://212.8.252.59:88/mario/mario/4621
+=======
+>>>>>>> 3f1bc2c1ce5cf48ce4e1185d77dfbd6982619ff6
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Hustler HD (18+)" tvg-logo="noimage.png" group-title="Adult",XXX:Hustler HD (18+)
 http://hypersonic.mytvpro.org:83/68027114/75659469/423755
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Redlight HD (18+)" tvg-logo="noimage.png" group-title="Adult",XXX:Redlight HD (18+)
@@ -575,6 +578,7 @@ http://hypersonic.mytvpro.org:83/68027114/75659469/522945
 http://hypersonic.mytvpro.org:83/68027114/75659469/522949
 #EXTINF:-1 tvg-id="" tvg-name="Visit-X TV" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="Adult",Visit-X TV
 http://hypersonic.mytvpro.org:83/68027114/75659469/522950
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Hustler HD (18+)" tvg-logo="" group-title="ADULTS ONLY 18+",XXX:Hustler HD (18+)
 http://bestever.vodiptv.org:83/745929229/374236758/380153
 #EXTINF:-1 tvg-id="" tvg-name="XXX:Redlight HD (18+)" tvg-logo="" group-title="ADULTS ONLY 18+",XXX:Redlight HD (18+)
@@ -1005,6 +1009,8 @@ http://bestever.vodiptv.org:83/745929229/374236758/380366
 http://bestever.vodiptv.org:83/745929229/374236758/380367
 #EXTINF:-1 tvg-id="" tvg-name="XXX_2: ADULT 110" tvg-logo="" group-title="ADULTS ONLY 18+",XXX_2: ADULT 110
 http://bestever.vodiptv.org:83/745929229/374236758/380368
+=======
+>>>>>>> 3f1bc2c1ce5cf48ce4e1185d77dfbd6982619ff6
 #EXTINF:-1 tvg-id="" tvg-name="▬ For Adults [18+] ▬" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/onlyadults.png" group-title="Live: For Adults",▬ For Adults [18+] ▬
 http://tv.swedeniptv.tvip.xyz:80/wRufTOsXVO9583/WJFDiC6862/16509
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD (18+) US" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/penthouse1hd.png" group-title="Live: For Adults",Penthouse Gold HD (18+) US
