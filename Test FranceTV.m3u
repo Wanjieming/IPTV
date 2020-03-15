@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49161
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49162
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49163
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=" TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", TF1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42302
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name=" FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", FRANCE 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42303
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name=" FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL", FRANCE 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/42304
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title=" Jz3IOfzQry", VOYAGE
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5488
+
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/vh1.png" group-title=" Jz3IOfzQry", VH1
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5489
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/Ushuaïa_tv_hd.jpg" group-title=" Jz3IOfzQry", USHUAÏA TV
+http://abds.codisa.cf:8080/Jz3IOfzQry/Rs2PqnN4uZ/5490
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", FRANCE 3
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", M6
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", TMC
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
+
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="" group-title="jokeriptv",Luxe TV
+http://jockeriptv.com:8080/567567/567567/3453
+#EXTINF:-1 tvg-id="" tvg-name="POLAR +" tvg-logo="" group-title="jokeriptv",POLAR +
+http://jockeriptv.com:8080/567567/567567/3454
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK AFRICA" tvg-logo="" group-title="jokeriptv",BBLACK AFRICA
+http://jockeriptv.com:8080/567567/567567/3455
+
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 FHD" tvg-logo="http://f.iptv-pure.com/tf1.png" group-title="PirlGZuLaZ",TF1 FHD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13847
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="PirlGZuLaZ",TF1 HD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13917
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="PirlGZuLaZ",TF1 SD
+http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/13817
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="bestever",FR: 13 EME RUE HD
+http://bestever.vodiptv.org:83/745929229/374236758/376279
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="bestever",FR: 6TER HD
+http://bestever.vodiptv.org:83/745929229/374236758/376280
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="bestever",FR: A LA CARTE 1
+http://bestever.vodiptv.org:83/745929229/374236758/376392
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="xtream", TF1 HD
+http://xtream.in:9000/sami/sami/91312
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="xtream", TF1 SERIES FILMS HD
+http://xtream.in:9000/sami/sami/91313
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 2" tvg-logo="" group-title="xtream", France 2
+http://xtream.in:9000/sami/sami/91314
+
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="" group-title="mody", AB1
+http://s1.falcon-iptv.com:25461/mody/mody/44580
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1" tvg-logo="" group-title="mody", BEINSPORT 1
+http://s1.falcon-iptv.com:25461/mody/mody/44581
+#EXTINF:-1 tvg-id="" tvg-name="BET FRANCE" tvg-logo="" group-title="mody", BET FRANCE
+http://s1.falcon-iptv.com:25461/mody/mody/44582
+
+#EXTINF:-1 tvg-id="6880" tvg-name="FR - ACTION HD" tvg-logo="" group-title="flavio", ACTION HD
+http://vgllive.com:888/live/flavio/fds43D2dsf2/6880.mpegts
+#EXTINF:-1 tvg-id="6904" tvg-name="FR - C8 HD" tvg-logo="" group-title="flavio", C8 HD
+http://vgllive.com:888/live/flavio/fds43D2dsf2/6904.mpegts
+#EXTINF:-1 tvg-id="6839" tvg-name="FR-C8" tvg-logo="" group-title="flavio", C8
+http://vgllive.com:888/live/flavio/fds43D2dsf2/6839.mpegts
+
+
