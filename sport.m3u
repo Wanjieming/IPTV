@@ -1,5 +1,108 @@
 #EXTM3U
-<<<<<<< HEAD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTNEWS.png" group-title="beIN Sports HD",beIN Sports News
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/465
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Global" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTS.png" group-title="beIN Sports HD",beIN Sports Global
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/464
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTNBA.png" group-title="beIN Sports HD",beIN Sports NBA
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/463
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_01_hd.png" group-title="beIN Sports HD",beIN Sports 1 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/462
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_01_hd.png" group-title="beIN Sports HD",beIN Sports 1 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/461
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT21.2MB.png" group-title="beIN Sports HD",beIN Sports 2 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/460
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT21.2MB.png" group-title="beIN Sports HD",beIN Sports 2 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/459
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT3720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 3 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/458
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT3720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 3 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/457
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 4 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/456
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 4 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/455
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_05_hd.png" group-title="beIN Sports HD",beIN Sports 5 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/454
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_05_hd.png" group-title="beIN Sports HD",beIN Sports 5 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/453
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_06_hd.png" group-title="beIN Sports HD",beIN Sports 6 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/452
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_06_hd.png" group-title="beIN Sports HD",beIN Sports 6 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/451
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_07_hd.png" group-title="beIN Sports HD",beIN Sports 7 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/450
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_07_hd.png" group-title="beIN Sports HD",beIN Sports 7 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/449
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_08_hd.png" group-title="beIN Sports HD",beIN Sports 8 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/448
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_08_hd.png" group-title="beIN Sports HD",beIN Sports 8 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/447
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_09_hd.png" group-title="beIN Sports HD",beIN Sports 9 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/446
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_09_hd.png" group-title="beIN Sports HD",beIN Sports 9 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/445
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_10_hd.png" group-title="beIN Sports HD",beIN Sports 10 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/444
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_10_hd.png" group-title="beIN Sports HD",beIN Sports 10 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/443
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_11_hd.png" group-title="beIN Sports HD",beIN Sports 11 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/442
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_12_hd.png" group-title="beIN Sports HD",beIN Sports 12 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/441
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 13 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_13_hd.png" group-title="beIN Sports HD",beIN Sports 13 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/440
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 14 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_14_hd.png" group-title="beIN Sports HD",beIN Sports 14 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/439
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 15 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_15_hd.png" group-title="beIN Sports HD",beIN Sports 15 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/438
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 16 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_16_hd.png" group-title="beIN Sports HD",beIN Sports 16 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/437
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 17 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_17_hd.png" group-title="beIN Sports HD",beIN Sports 17 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/436
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 1 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports1ar.png" group-title="beIN Sports FHD",beIN Sports HD 1 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46225
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 2 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports2ar.png" group-title="beIN Sports FHD",beIN Sports HD 2 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46223
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 3 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports3ar.png" group-title="beIN Sports FHD",beIN Sports HD 3 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46221
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 4 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports4ar.png" group-title="beIN Sports FHD",beIN Sports HD 4 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46219
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 5 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports5ar.png" group-title="beIN Sports FHD",beIN Sports HD 5 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46217
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 6 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports6ar.png" group-title="beIN Sports FHD",beIN Sports HD 6 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46215
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 7 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports7ar.png" group-title="beIN Sports FHD",beIN Sports HD 7 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46213
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 8 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports8ar.png" group-title="beIN Sports FHD",beIN Sports HD 8 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46211
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 9 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports9ar.png" group-title="beIN Sports FHD",beIN Sports HD 9 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46209
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 10 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports10ar.png" group-title="beIN Sports FHD",beIN Sports HD 10 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46207
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81900
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 2 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 2 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81901
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 4 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 4 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81902
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 5 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 5 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81903
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 6 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 6 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81904
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 7 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 7 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81905
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 8 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 8 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-1.png" group-title="beIN Sports FHD",BEIN SPORTS 1 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84317
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-2.png" group-title="beIN Sports FHD",BEIN SPORTS 2 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84318
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-3.png" group-title="beIN Sports FHD",BEIN SPORTS 3 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84319
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-4.png" group-title="beIN Sports FHD",BEIN SPORTS 4 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84320
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-5.png" group-title="beIN Sports FHD",BEIN SPORTS 5 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84321
 #EXTINF:-1 tvg-id="" tvg-name="AR: NILE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nile_Sport_%D9%86%D8%A7%D9%8A%D9%84_%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.png" group-title="  International Sports",AR: NILE SPORT
 http://hypersonic.mytvpro.org:83/68027114/75659469/419350
 #EXTINF:-1 tvg-id="" tvg-name="AR: ON SPORT" tvg-logo="https://4.bp.blogspot.com/-AdabBvaBxKQ/WY7E6wY-QlI/AAAAAAAAVaM/WJhIt1lcGjkB3wX9JLob83WB8dCSF9S9gCLcBGAs/s400/%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2588%25D9%2586%2B%25D8%25AA%25D9%258A%2B%25D9%2581%25D9%258A%2B%25D8%25B3%25D8%25A8%25D9%2588%25D8%25B1%25D8%25AA%2B%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D8%25A9%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2B%25D8%25AF%25D9%258A%25D8%25B2%25D8%25A7%25D8%25AF%2B%25D9%2585%25D9%2588%25D8%25AF%25D8%25B1%25D9%2586.jpg" group-title="  International Sports",AR: ON SPORT
