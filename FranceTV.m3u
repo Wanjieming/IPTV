@@ -3839,3 +3839,551 @@ http://o.ddns.me:31000/0034644400510/scEFNFZ4lm/414
 http://o.ddns.me:31000/0034644400510/scEFNFZ4lm/1056
 #EXTINF:-1 tvg-id="" tvg-name=" BRAVA" tvg-logo="" group-title="(DDNS ME)",  BRAVA
 http://o.ddns.me:31000/0034644400510/scEFNFZ4lm/7034
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" tvg-logo="http://pici.life/FR/tf1hd.png" group-title="iptvpanel",TF1
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12857
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="France 2" tvg-logo="http://pici.life/FR/france2hd.png" group-title="iptvpanel",France 2
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5669
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="France 3" tvg-logo="http://pici.life/FR/france3.png" group-title="iptvpanel",France 3
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12858
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="France 4" tvg-logo="http://pici.life/FR/France_4_HD.png" group-title="iptvpanel",France 4
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5667
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" tvg-logo="http://pici.life/FR/M6_hd.png" group-title="iptvpanel",M6
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5653
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6Ter" tvg-logo="http://pici.life/FR/6ter.png" group-title="iptvpanel",6Ter
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13004
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8" tvg-logo="http://pici.life/FR/c8.png" group-title="iptvpanel",C8
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13006
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9" tvg-logo="http://pici.life/w9hd.png" group-title="iptvpanel",W9
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5601
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL 9" tvg-logo="http://pici.life/FR/rtl9.png" group-title="iptvpanel",RTL 9
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5620
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX" tvg-logo="http://pici.life/FR/TFX.png" group-title="iptvpanel",TFX
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/50868
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12" tvg-logo="http://pici.life/fr/NRJ12.fr.png" group-title="iptvpanel",NRJ 12
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5641
+#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue" tvg-logo="http://pici.life/fr/13RUE.fr.png" group-title="iptvpanel",13Eme Rue
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5717
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC" tvg-logo="http://pici.life/tcmhd_2.png" group-title="iptvpanel",TMC
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5607
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://pici.life/tcmhd_2.png" group-title="iptvpanel",TCM
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5613
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 Series Films" tvg-logo="http://pici.life/fr/HD1.fr.png" group-title="iptvpanel",TF1 Series Films
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5662
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 FR" tvg-logo="http://pici.life/fr/AB1.fr.png" group-title="iptvpanel",AB1 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5715
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="AB3" tvg-logo="http://pici.life/fr/AB3.fr.png" group-title="iptvpanel",AB3
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5714
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte" tvg-logo="http://pici.life/Picon/artehd_2.png" group-title="iptvpanel",Arte
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12862
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="France 5" tvg-logo="http://pici.life/FR/France_5_HD.png" group-title="iptvpanel",France 5
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5666
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="France O FR" tvg-logo="http://pici.life/fr/FranceO.fr.png" group-title="iptvpanel",France O FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5664
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="http://pici.life/FR/action.png" group-title="iptvpanel",Action
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13003
+#EXTINF:-1 tvg-id="numero23.fr" tvg-name="RMC Story HD FR" tvg-logo="http://pici.life/fr/Numero23.fr.png" group-title="iptvpanel",RMC Story HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5638
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie 25" tvg-logo="http://pici.life/fr/Cherie25.fr.png" group-title="iptvpanel",Cherie 25
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5693
+#EXTINF:-1 tvg-id="RTS Un HD FR" tvg-name="RTS Un HD FR" tvg-logo="http://pici.life/fr/RTSUn.fr.png" group-title="iptvpanel",RTS Un HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5619
+#EXTINF:-1 tvg-id="RTS Deux HD FR" tvg-name="RTS Deux FR" tvg-logo="http://pici.life/fr/RTSDeux.fr.png" group-title="iptvpanel",RTS Deux FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5618
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="Comedie+ HD FR" tvg-logo="http://pici.life/fr/ComediePlus.fr.png" group-title="iptvpanel",Comedie+ HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5687
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS Choc" tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="iptvpanel",OCS Choc
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5637
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City" tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="iptvpanel",OCS City
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5636
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Geants" tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="iptvpanel",OCS Geants
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5635
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max" tvg-logo="http://pici.life/fr/OCSMax.fr.png" group-title="iptvpanel",OCS Max
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5634
+#EXTINF:-1 tvg-id="" tvg-name="Atice Studio HD FR" tvg-logo="http://pici.life/FR/Atice_Studio.png" group-title="iptvpanel",Atice Studio HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/50064
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+" tvg-logo="http://pici.life/PL/canalplushd.png" group-title="iptvpanel",Canal+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12860
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="Canal Decale HD FR" tvg-logo="http://pici.life/fr/CANALplusDECALE.fr.png" group-title="iptvpanel",Canal Decale HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5699
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="Canal Cinema" tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="iptvpanel",Canal Cinema
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12996
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family" tvg-logo="http://pici.life/FR/Canal+_Family_HD.png" group-title="iptvpanel",Canal+ Family
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12970
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="Canal Series HD FR" tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="iptvpanel",Canal Series HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12995
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="Cine Club" tvg-logo="http://pici.life/Logo/cineclub.png" group-title="iptvpanel",Cine Club
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12994
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Cine+ Classic" tvg-logo="http://pici.life/FR/cineplusclassic.png" group-title="iptvpanel",Cine+ Classic
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12969
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="Cine+ Club" tvg-logo="http://pici.life/FR/cineplusclub.png" group-title="iptvpanel",Cine+ Club
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16925
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="Cine+ Emotion" tvg-logo="http://pici.life/FR/CINE+_EMOTION_HD.png" group-title="iptvpanel",Cine+ Emotion
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5691
+#EXTINF:-1 tvg-id="cineplusfamiz.fr" tvg-name="Cine+ Famiz" tvg-logo="http://pici.life/FR/cineplusfamiz.png" group-title="iptvpanel",Cine+ Famiz
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12859
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Polar" tvg-logo="http://pici.life/fr/Polar.fr.png" group-title="iptvpanel",Cine+ Polar
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5689
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="Cine+ Premier" tvg-logo="http://pici.life/FR/CINE+_PREMIER_HD.png" group-title="iptvpanel",Cine+ Premier
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5688
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy" tvg-logo="http://pici.life/syfyhd_2.png" group-title="iptvpanel",Syfy
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12968
+#EXTINF:-1 tvg-id="" tvg-name="Série Club" tvg-logo="http://pici.life/FR/serieclubhd.png" group-title="iptvpanel",Série Club
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16892
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva" tvg-logo="http://pici.life/FR/teva.png" group-title="iptvpanel",Teva
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13002
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="Elle Girl" tvg-logo="http://pici.life/FR/elle-girl.png" group-title="iptvpanel",Elle Girl
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12856
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Decale" tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="iptvpanel",Paramount Decale
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16895
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel" tvg-logo="http://pici.life/FR/paramountchannel.png" group-title="iptvpanel",Paramount Channel
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16896
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinema" tvg-logo="http://pici.life/FR/tcm.png" group-title="iptvpanel",TCM Cinema
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13001
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV Breizh" tvg-logo="http://pici.life/FR/tvbreizh.png" group-title="iptvpanel",TV Breizh
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5605
+#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue HD FR" tvg-logo="http://pici.life/FR/13emerue.png" group-title="iptvpanel",13Eme Rue HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12973
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="Paris Premiere" tvg-logo="http://pici.life/fr/ParisPremiere.fr.png" group-title="iptvpanel",Paris Premiere
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5626
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://pici.life/discoverychannelhd_2.png" group-title="iptvpanel",Discovery
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12997
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family" tvg-logo="http://pici.life/picon/discoveryfamilyarb.png" group-title="iptvpanel",Discovery Family
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16921
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="Discovery Investigation" tvg-logo="http://pici.life/investigationdiscoveryhd_2.png" group-title="iptvpanel",Discovery Investigation
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/9034
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="Discovery Science" tvg-logo="http://pici.life/discoverysciencehd_2.png" group-title="iptvpanel",Discovery Science
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5682
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux HD FR" tvg-logo="http://pici.life/fr/Animaux.fr.png" group-title="iptvpanel",Animaux HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5712
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="Nat Geo Wild" tvg-logo="http://pici.life/FR/natgeowild.png" group-title="iptvpanel",Nat Geo Wild
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16906
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="National Geographic" tvg-logo="http://pici.life/FR/nationalgeo.png" group-title="iptvpanel",National Geographic
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16905
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute l'Histoire" tvg-logo="http://pici.life/FR/toutelhistoire.png" group-title="iptvpanel",Toute l'Histoire
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13000
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="Histoire" tvg-logo="http://pici.life/FR/histoire.png" group-title="iptvpanel",Histoire
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16916
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="Science et Vie" tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="iptvpanel",Science et Vie
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16894
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Season" tvg-logo="http://pici.life/FR/seasons.png" group-title="iptvpanel",Season
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16893
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC Decouverte" tvg-logo="http://pici.life/fr/RMCdecouverte.fr.png" group-title="iptvpanel",RMC Decouverte
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5621
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek" tvg-logo="http://pici.life/FR/trek.png" group-title="iptvpanel",Trek
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13005
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="Ushuaia TV HD FR" tvg-logo="http://pici.life/fr/UshuaiaTV.fr.png" group-title="iptvpanel",Ushuaia TV HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5603
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage" tvg-logo="http://pici.life/FR/voyage.png" group-title="iptvpanel",Voyage
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16883
+#EXTINF:-1 tvg-id="planetejustice.fr" tvg-name="Planete Plus CI" tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="iptvpanel",Planete Plus CI
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5622
+#EXTINF:-1 tvg-id="planeteaction.fr" tvg-name="Planete+  A&E" tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="iptvpanel",Planete+  A&E
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12998
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planète+ Crime Investigation" tvg-logo="http://pici.life/FR/planeteplusci.png" group-title="iptvpanel",Planète+ Crime Investigation
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12942
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="Crime District" tvg-logo="http://pici.life/Logo/Crime-District.png" group-title="iptvpanel",Crime District
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16923
+#EXTINF:-1 tvg-id="" tvg-name="Boing HD FR" tvg-logo="http://pici.life/fr/Boing.fr.png" group-title="iptvpanel",Boing HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5705
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang HD FR" tvg-logo="http://pici.life/fr/Boomerang.fr.png" group-title="iptvpanel",Boomerang HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5704
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="Canal J HD FR" tvg-logo="http://pici.life/fr/CanalJ.fr.png" group-title="iptvpanel",Canal J HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5702
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="Cartoon Network" tvg-logo="http://pici.life/cartoonnethd.png" group-title="iptvpanel",Cartoon Network
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12943
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli" tvg-logo="http://pici.life/FR/gulli.png" group-title="iptvpanel",Gulli
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16917
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel +1 FR" tvg-logo="http://pici.life/FR/disneychannel.png" group-title="iptvpanel",Disney Channel +1 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12947
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="Disney Channel" tvg-logo="http://pici.life/disneychannelhd_2.png" group-title="iptvpanel",Disney Channel
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5681
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="Disney Cinema" tvg-logo="http://pici.life/FR/disneycinema.png" group-title="iptvpanel",Disney Cinema
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12946
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="Disney Junior" tvg-logo="http://pici.life/disneyjnrhd_2.png" group-title="iptvpanel",Disney Junior
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5679
+#EXTINF:-1 tvg-id="DisneyXD.fr" tvg-name="Disney XD" tvg-logo="http://pici.life/FR/disneyxd.png" group-title="iptvpanel",Disney XD
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16920
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas HD FR" tvg-logo="http://pici.life/FR/mangas.png" group-title="iptvpanel",Mangas HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/625363
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1" tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="iptvpanel",Nickelodeon +1
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16904
+#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="Nickelodeon 4 Teen" tvg-logo="http://pici.life/FR/nickelodeon4teen.png" group-title="iptvpanel",Nickelodeon 4 Teen
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16903
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="http://pici.life/FR/nickelodeon.png" group-title="iptvpanel",Nickelodeon
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16902
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="Nickelodeon Junior FR" tvg-logo="http://pici.life/fr/NickJr.fr.png" group-title="iptvpanel",Nickelodeon Junior FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5642
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi+" tvg-logo="http://pici.life/FR/piwiplus.png" group-title="iptvpanel",Piwi+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12944
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="Tiji HD FR" tvg-logo="http://pici.life/fr/Tiji.fr.png" group-title="iptvpanel",Tiji HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5609
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="Toonami" tvg-logo="http://pici.life/FR/Tonami.jpg" group-title="iptvpanel",Toonami
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16890
+#EXTINF:-1 tvg-id="" tvg-name="TéléToon+" tvg-logo="http://pici.life/FR/teletoonplus.png" group-title="iptvpanel",TéléToon+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16891
+#EXTINF:-1 tvg-id="" tvg-name="Zouzous FR" tvg-logo="http://pici.life/zouzous.png" group-title="iptvpanel",Zouzous FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5599
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Africa FR" tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="iptvpanel",BBlack Africa FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/14275
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Classic FR" tvg-logo="http://pici.life/FR/bblack-africa.png" group-title="iptvpanel",BBlack Classic FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/14274
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="Bet HD FR" tvg-logo="http://pici.life/bet.png" group-title="iptvpanel",Bet HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7941
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar HD FR" tvg-logo="http://pici.life/fr/CineStarAfrique.fr.png" group-title="iptvpanel",CStar HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5686
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 Music FR" tvg-logo="http://pici.life/fr/M6Music.fr.png" group-title="iptvpanel",M6 Music FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5654
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ Hits HD FR" tvg-logo="http://pici.life/fr/NRJHits.fr.png" group-title="iptvpanel",NRJ Hits HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5640
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM" tvg-logo="http://pici.life/Logo/MCM_logo.png" group-title="iptvpanel",MCM
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16912
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM Top" tvg-logo="http://pici.life/Logo/Mcm_top_logo.png" group-title="iptvpanel",MCM Top
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16911
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV" tvg-logo="http://pici.life/mtvhd_2.png" group-title="iptvpanel",MTV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7942
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="MTV Hits" tvg-logo="http://pici.life/FR/mtvhits.png" group-title="iptvpanel",MTV Hits
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16910
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV FR" tvg-logo="http://pici.life/FR/Clubbing%20tv.png" group-title="iptvpanel",Clubbing TV FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12939
+#EXTINF:-1 tvg-id="traceafrica.fr" tvg-name="Trace Africa" tvg-logo="http://pici.life/FR/Trace_Africa.png" group-title="iptvpanel",Trace Africa
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16889
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="Trace Tropical" tvg-logo="http://pici.life/FR/Trace_Tropical.png" group-title="iptvpanel",Trace Tropical
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16887
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="Trace Urban" tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="iptvpanel",Trace Urban
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16886
+#EXTINF:-1 tvg-id="One TV FR" tvg-name="ONE TV" tvg-logo="http://pici.life/picon/onehd.png" group-title="iptvpanel",ONE TV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16898
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV FR" tvg-logo="" group-title="iptvpanel",Rouge TV FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/643095
+#EXTINF:-1 tvg-id="stingrayiconcerts.fr" tvg-name="Stingray Brava" tvg-logo="http://pici.life/FR/Stingray_Brava.png" group-title="iptvpanel",Stingray Brava
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12933
+#EXTINF:-1 tvg-id="" tvg-name="Brava" tvg-logo="http://pici.life/bravahd.png" group-title="iptvpanel",Brava
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7940
+#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo" tvg-logo="http://pici.life/FR/mezzolivehd.png" group-title="iptvpanel",Mezzo
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5652
+#EXTINF:-1 tvg-id="" tvg-name="6Ter HD FR" tvg-logo="http://pici.life/fr/6ter.fr.png" group-title="iptvpanel",6Ter HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5716
+#EXTINF:-1 tvg-id="action.fr" tvg-name="Action FR" tvg-logo="http://pici.life/fr/Action.fr.png" group-title="iptvpanel",Action FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8629
+#EXTINF:-1 tvg-id="alsace20.fr" tvg-name="Alsace 20 FR" tvg-logo="http://pici.life/alsace_20_fr.png" group-title="iptvpanel",Alsace 20 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12941
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="http://pici.life/artehd_2.png" group-title="iptvpanel",Arte HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5711
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="http://pici.life/fr/BFMBusiness.fr.png" group-title="iptvpanel",BFM Business FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5707
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="iptvpanel",BFM TV FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5706
+#EXTINF:-1 tvg-id="Be Curious TV FR" tvg-name="Be Curious TV" tvg-logo="http://pici.life/Picon/becurious.png" group-title="iptvpanel",Be Curious TV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12861
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 HD FR" tvg-logo="http://pici.life/fr/C8.fr.png" group-title="iptvpanel",C8 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5703
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS" tvg-logo="http://pici.life/FR/cnews.png" group-title="iptvpanel",CNEWS
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16924
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNews HD FR" tvg-logo="http://pici.life/FR/cnews.png" group-title="iptvpanel",CNews HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5661
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ Cinema HD FR" tvg-logo="http://pici.life/FR/Canal+_Cin%C3%A9ma_HD.png" group-title="iptvpanel",Canal+ Cinema HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5700
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="Canal+ HD FR" tvg-logo="http://pici.life/canalplushd.png" group-title="iptvpanel",Canal+ HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/57012
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="Canal+ Family HD FR" tvg-logo="http://pici.life/fr/CANALplusFamily.fr.png" group-title="iptvpanel",Canal+ Family HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8628
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="Canal+ Series HD FR" tvg-logo="http://pici.life/FR/CANAL_+_SERIES_HD.jpg" group-title="iptvpanel",Canal+ Series HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5697
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="Chasse E Peche HD FR" tvg-logo="http://pici.life/fr/ChassePeche.fr.png" group-title="iptvpanel",Chasse E Peche HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5694
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD FR" tvg-logo="" group-title="iptvpanel",Cine Action HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Classic HD FR" tvg-logo="http://pici.life/cineclassic.PNG" group-title="iptvpanel",Cine Classic HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7943
+#EXTINF:-1 tvg-id="cinefx.fr" tvg-name="Cine FX HD FR" tvg-logo="http://pici.life/FR/CINE_FX_HD.jpg" group-title="iptvpanel",Cine FX HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5692
+#EXTINF:-1 tvg-id="" tvg-name="Cine Famiz FR" tvg-logo="http://pici.life/fr/CinePlusFamiz.fr.png" group-title="iptvpanel",Cine Famiz FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8624
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD FR" tvg-logo="" group-title="iptvpanel",Warner TV HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/655432
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="Cine+ Frisson HD FR" tvg-logo="http://pici.life/FR/CINE+_FRISSON_HD.png" group-title="iptvpanel",Cine+ Frisson HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5690
+#EXTINF:-1 tvg-id="" tvg-name="D8" tvg-logo="http://pici.life/FR/d8_hd.png" group-title="iptvpanel",D8
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5684
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="Discovery HD FR" tvg-logo="http://pici.life/fr/DiscoveryChannel.fr.png" group-title="iptvpanel",Discovery HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5683
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="Disney Cinema HD FR" tvg-logo="http://pici.life/fr/DisneyCinema.fr.png" group-title="iptvpanel",Disney Cinema HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8617
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="Disney Junior HD FR" tvg-logo="http://pici.life/FR/disneyjunior.png" group-title="iptvpanel",Disney Junior HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12945
+#EXTINF:-1 tvg-id="disneyxd.fr" tvg-name="Disney XD HD FR" tvg-logo="http://pici.life/fr/DisneyXD.fr.png" group-title="iptvpanel",Disney XD HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8614
+#EXTINF:-1 tvg-id="" tvg-name="Djazz TV" tvg-logo="http://pici.life/djazz.png" group-title="iptvpanel",Djazz TV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7939
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! Entertainment FR" tvg-logo="http://pici.life/fr/EEntertainment.fr.png" group-title="iptvpanel",E! Entertainment FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5678
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 FR" tvg-logo="http://pici.life/FR/france24.png" group-title="iptvpanel",France 24 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5665
+#EXTINF:-1 tvg-id="" tvg-name="France 24 News FR" tvg-logo="http://pici.life/fr/France24.fr.png" group-title="iptvpanel",France 24 News FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8630
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English FR" tvg-logo="http://pici.life/fr/France24English.fr.png" group-title="iptvpanel",France 24 English FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8559
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 HD FR" tvg-logo="http://pici.life/fr/France3.fr.png" group-title="iptvpanel",France 3 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5668
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="France Info FR" tvg-logo="http://pici.life/FR/France%20info.png" group-title="iptvpanel",France Info FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12971
+#EXTINF:-1 tvg-id="" tvg-name="i24NEWS FR" tvg-logo="http://pici.life/FR/i24news.png" group-title="iptvpanel",i24NEWS FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12931
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One" tvg-logo="http://pici.life/FR/gameone.png" group-title="iptvpanel",Game One
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16919
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="Game One FR" tvg-logo="http://pici.life/fr/GameOne.fr.png" group-title="iptvpanel",Game One FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5663
+#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="http://pici.life/FR/GONG.png" group-title="iptvpanel",Gong FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8558
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="Gulli FR" tvg-logo="http://pici.life/fr/Gulli.fr.png" group-title="iptvpanel",Gulli FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8615
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="Histoire FR" tvg-logo="http://pici.life/fr/Histoire.fr.png" group-title="iptvpanel",Histoire FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8570
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO FR" tvg-logo="http://pici.life/fr/KTO.fr.png" group-title="iptvpanel",KTO FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5659
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP FR" tvg-logo="http://pici.life/fr/LaChaineParlementaire.fr.png" group-title="iptvpanel",LCP FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5655
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCi HD FR" tvg-logo="http://pici.life/fr/LCI.fr.png" group-title="iptvpanel",LCi HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5656
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande FR" tvg-logo="http://pici.life/fr/LaChaineMeteo.fr.png" group-title="iptvpanel",La Chaine Normande FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5658
+#EXTINF:-1 tvg-id="La Une FR" tvg-name="La Une HD FR" tvg-logo="http://pici.life/launehd_2.png" group-title="iptvpanel",La Une HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5657
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV HD FR" tvg-logo="http://pici.life/FR/Luxe_TV.png" group-title="iptvpanel",Luxe TV HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16913
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD FR" tvg-logo="http://pici.life/MCM_logo.png" group-title="iptvpanel",MCM HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12967
+#EXTINF:-1 tvg-id="MTV Hits HD FR" tvg-name="MTV Hits FR" tvg-logo="http://pici.life/fr/MTV.fr.png" group-title="iptvpanel",MTV Hits FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8568
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music FR" tvg-logo="http://pici.life/FR/MTV_Music.png" group-title="iptvpanel",MTV Music FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12965
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="Mangas FR" tvg-logo="http://pici.life/fr/Mangas.fr.png" group-title="iptvpanel",Mangas FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8616
+#EXTINF:-1 tvg-id="My Cuisine FR" tvg-name="My Cuisine" tvg-logo="http://pici.life/FR/My_cuisine.PNG" group-title="iptvpanel",My Cuisine
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16908
+#EXTINF:-1 tvg-id="nt1.fr" tvg-name="NT1 FR" tvg-logo="http://pici.life/fr/NT1.fr.png" group-title="iptvpanel",NT1 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5639
+#EXTINF:-1 tvg-id="NatGeo.fr" tvg-name="Nat Geo HD FR" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="iptvpanel",Nat Geo HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8632
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="Nat Geo Wild HD FR" tvg-logo="http://pici.life/natgeowildhd.png" group-title="iptvpanel",Nat Geo Wild HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5645
+#EXTINF:-1 tvg-id="" tvg-name="National Geo" tvg-logo="http://pici.life/nationalgeographichd_2.png" group-title="iptvpanel",National Geo
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12999
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="National Geographic HD FR" tvg-logo="http://pici.life/nationalgeographichd.png" group-title="iptvpanel",National Geographic HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5644
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon FR" tvg-logo="http://pici.life/fr/Nickelodeon.fr.png" group-title="iptvpanel",Nickelodeon FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5643
+#EXTINF:-1 tvg-id="Non Stop People FR" tvg-name="Non Stop People" tvg-logo="http://pici.life/FR/Non_Stop_People.png" group-title="iptvpanel",Non Stop People
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16901
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS Choc HD FR" tvg-logo="http://pici.life/fr/OCSChoc.fr.png" group-title="iptvpanel",OCS Choc HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8618
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS City HD FR" tvg-logo="http://pici.life/fr/OCSCity.fr.png" group-title="iptvpanel",OCS City HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8619
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Geants HD FR" tvg-logo="http://pici.life/fr/OCSGeants.fr.png" group-title="iptvpanel",OCS Geants HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8620
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS Max HD FR" tvg-logo="http://pici.life/FR/ocsmax.png" group-title="iptvpanel",OCS Max HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/38016
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="Paramount Channel HD FR" tvg-logo="http://pici.life/fr/ParamountChannel.fr.png" group-title="iptvpanel",Paramount Channel HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5627
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi HD FR" tvg-logo="http://pici.life/fr/PIWI.fr.png" group-title="iptvpanel",Piwi HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5625
+#EXTINF:-1 tvg-id="" tvg-name="Planete A&E HD FR" tvg-logo="http://pici.life/FR/planeteplusaande.png" group-title="iptvpanel",Planete A&E HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8563
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="Planete+ HD FR" tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="iptvpanel",Planete+ HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5624
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planete-HD FR" tvg-logo="http://pici.life/FR/planeteplushd.png" group-title="iptvpanel",Planete-HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8572
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM HD FR" tvg-logo="http://pici.life/FR/RFM.png" group-title="iptvpanel",RFM HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12964
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 FR" tvg-logo="http://pici.life/rtl9.png" group-title="iptvpanel",RTL9 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7945
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="Science Et Vie TV HD FR" tvg-logo="http://pici.life/FR/scienceetvie.png" group-title="iptvpanel",Science Et Vie TV HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5615
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="Seasons HD FR" tvg-logo="http://pici.life/fr/Seasons.fr.png" group-title="iptvpanel",Seasons HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5617
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="Serie Club FR" tvg-logo="http://pici.life/fr/serieclub.fr.png" group-title="iptvpanel",Serie Club FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8622
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="Syfy FR" tvg-logo="http://pici.life/fr/Syfy.fr.png" group-title="iptvpanel",Syfy FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5614
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM Cinema FR" tvg-logo="http://pici.life/fr/TCM.fr.png" group-title="iptvpanel",TCM Cinema FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8621
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD FR" tvg-logo="http://pici.life/fr/TF1.fr.png" group-title="iptvpanel",TF1 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5610
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD FR" tvg-logo="http://pici.life/FR/TFX.png" group-title="iptvpanel",TFX HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/50867
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV 5 Monde" tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="iptvpanel",TV 5 Monde
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5604
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV 5 Monde FR" tvg-logo="http://pici.life/fr/TV5Monde.fr.png" group-title="iptvpanel",TV 5 Monde FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8631
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 Mont Blanc" tvg-logo="http://pici.life/picon/tv8_2.png" group-title="iptvpanel",TV8 Mont Blanc
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16885
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva FR" tvg-logo="http://pici.life/fr/Teva.fr.png" group-title="iptvpanel",Teva FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5611
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="Toute L Historie FR" tvg-logo="http://pici.life/fr/TouteHistoire.fr.png" group-title="iptvpanel",Toute L Historie FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5606
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD FR" tvg-logo="http://pici.life/FR/trace_urban_hd.png" group-title="iptvpanel",Trace Urban HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12963
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="Tele Toon Plus FR" tvg-logo="http://pici.life/fr/TeleToonPlus.fr.png" group-title="iptvpanel",Tele Toon Plus FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5612
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek FR" tvg-logo="http://pici.life/fr/Trek.fr.png" group-title="iptvpanel",Trek FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5608
+#EXTINF:-1 tvg-id="" tvg-name="Téva HD FR" tvg-logo="http://pici.life/FR/teva.png" group-title="iptvpanel",Téva HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12949
+#EXTINF:-1 tvg-id="Viceland FR" tvg-name="Viceland" tvg-logo="http://pici.life/FR/Viceland.png" group-title="iptvpanel",Viceland
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16884
+#EXTINF:-1 tvg-id="Vosges TV FR" tvg-name="Vosges Télévision HD FR" tvg-logo="http://pici.life/FR/vosges_television.png" group-title="iptvpanel",Vosges Télévision HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12932
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="Voyage TV HD FR" tvg-logo="http://pici.life/fr/Voyage.fr.png" group-title="iptvpanel",Voyage TV HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5602
+#EXTINF:-1 tvg-id="Weo TV FR" tvg-name="Weo HD FR" tvg-logo="http://pici.life/FR/weotv.png" group-title="iptvpanel",Weo HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5600
+#EXTINF:-1 tvg-id="AB Moteurs FR" tvg-name="Automoto HD FR" tvg-logo="http://pici.life/fr/ABMoteurs.fr.png" group-title="iptvpanel",Automoto HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5713
+#EXTINF:-1 tvg-id="" tvg-name="Automoto HD (Backup) FR" tvg-logo="" group-title="iptvpanel",Automoto HD (Backup) FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/648390
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="Canal Sport" tvg-logo="http://pici.life/fr/CANALplusSPORT.fr.png" group-title="iptvpanel",Canal Sport
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8569
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="Canal+ Sport" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="iptvpanel",Canal+ Sport
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16926
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="Canal+ Sport HD FR" tvg-logo="http://pici.life/FR/Canalsporthd.png" group-title="iptvpanel",Canal+ Sport HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5696
+#EXTINF:-1 tvg-id="BFM Sport FR" tvg-name="BFM Sport FR" tvg-logo="http://pici.life/fr/BFMTV.fr.png" group-title="iptvpanel",BFM Sport FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8560
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN Sports 1" tvg-logo="http://pici.life/fr/BeinSports1.fr.png" group-title="iptvpanel",beIN Sports 1
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5710
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://pici.life/ES/Bein_sports_hd.png" group-title="iptvpanel",beIN Sports 1 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12961
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2" tvg-logo="http://pici.life/FR/beIN_SPORTS_2%20hd.png" group-title="iptvpanel",beIN Sports 2
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12958
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="beIN Sports 2 FR" tvg-logo="http://pici.life/FR/bein_sports_2.png" group-title="iptvpanel",beIN Sports 2 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12959
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://pici.life/fr/BeinSports2.fr.png" group-title="iptvpanel",beIN Sports 2 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5709
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://pici.life/fr/BeinSports3.fr.png" group-title="iptvpanel",beIN Sports 3
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5708
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="beIN Sports 3 HD FR" tvg-logo="http://pici.life/FR/Logo_beIN_SPORTS_3%20hd.png" group-title="iptvpanel",beIN Sports 3 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12957
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 Max FR" tvg-logo="http://pici.life/fr/Bein4Max.fr.png" group-title="iptvpanel",beIN Sports 4 Max FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8562
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="beIN Sports MAX 6" tvg-logo="http://pici.life/fr/Bein6Max.fr.png" group-title="iptvpanel",beIN Sports MAX 6
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8538
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 Max FR" tvg-logo="http://pici.life/fr/Bein7Max.fr.png" group-title="iptvpanel",beIN Sports 7 Max FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/8537
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 10 FR" tvg-logo="http://pici.life/FR/BEINSPORTS-MAX-10.jpg" group-title="iptvpanel",beIN Sports Max 10 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12953
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN Sports Max 8 FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="iptvpanel",beIN Sports Max 8 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12956
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="beIN Sports Max 8 HD FR" tvg-logo="http://pici.life/FR/Bein-sports-max-8.jpg" group-title="iptvpanel",beIN Sports Max 8 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12955
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 9 FR" tvg-logo="http://pici.life/FR/Bein%20sport%20max9.jpg" group-title="iptvpanel",beIN Sports Max 9 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12954
+#EXTINF:-1 tvg-id="Equidia Life HD FR" tvg-name="Equidia Life HD FR" tvg-logo="http://pici.life/FR/equidialive.png" group-title="iptvpanel",Equidia Life HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12950
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="Equidia Live FR" tvg-logo="http://pici.life/fr/EquidiaLive.fr.png" group-title="iptvpanel",Equidia Live FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5675
+#EXTINF:-1 tvg-id="" tvg-name="Equipe 21 HD FR" tvg-logo="http://pici.life/FR/EQUIPE_21.png" group-title="iptvpanel",Equipe 21 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5674
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="Equipe FR" tvg-logo="http://pici.life/FR/Equipe_Logo.png" group-title="iptvpanel",Equipe FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5676
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="EuroSport 1 FR" tvg-logo="" group-title="Sports",EuroSport 1 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/7137
+#EXTINF:-1 tvg-id="euronews FR" tvg-name="Euronews" tvg-logo="http://pici.life/FR/euronews.png" group-title="iptvpanel",Euronews
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5673
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="Eurosport 1" tvg-logo="http://pici.life/FR/eurosport1hd.png" group-title="iptvpanel",Eurosport 1
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5672
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="Eurosport 2" tvg-logo="http://pici.life/FR/eurosport2hd.png" group-title="iptvpanel",Eurosport 2
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5671
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="Eurosport 2 FR" tvg-logo="http://pici.life/eurosport2_2.png" group-title="iptvpanel",Eurosport 2 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12951
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC Sport 1" tvg-logo="http://pici.life/FR/RMC_Sport_1.png" group-title="iptvpanel",RMC Sport 1
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/625254
+#EXTINF:-1 tvg-id="RMC Sport 2 FR" tvg-name="RMC Sport 2 HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_2.png" group-title="iptvpanel",RMC Sport 2 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/86352
+#EXTINF:-1 tvg-id="RMC Sport 3 FR" tvg-name="RMC Sport 3" tvg-logo="http://pici.life/fr/SFRSport3.fr.png" group-title="iptvpanel",RMC Sport 3
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/625250
+#EXTINF:-1 tvg-id="RMC Sport 4 FR" tvg-name="RMC Sport 4" tvg-logo="http://pici.life/FR/RMC_Sport_4.png" group-title="iptvpanel",RMC Sport 4
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/625253
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News HD FR" tvg-logo="http://pici.life/FR/RMC_Sport_News.png" group-title="iptvpanel",RMC Sport News HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/624939
+#EXTINF:-1 tvg-id="Trace Sport Stars FR" tvg-name="Trace Sport Stars HD FR" tvg-logo="http://pici.life/FR/Trace_Sport_Stars.png" group-title="iptvpanel",Trace Sport Stars HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16888
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="Foot + 24 FR" tvg-logo="http://pici.life/fr/FootPlus24.fr.png" group-title="iptvpanel",Foot + 24 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5670
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="Info Sport+" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="iptvpanel",Info Sport+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12952
+#EXTINF:-1 tvg-id="" tvg-name="Infosport+" tvg-logo="http://pici.life/FR/infosportplus.png" group-title="iptvpanel",Infosport+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16915
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="Infosport+ FR" tvg-logo="http://pici.life/fr/Infosport.fr.png" group-title="iptvpanel",Infosport+ FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5660
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://pici.life/picon/golfchannel_2.png" group-title="iptvpanel",Golf Channel
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16918
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="Golf+" tvg-logo="http://pici.life/FR/GOLF+_HD.jpg" group-title="iptvpanel",Golf+
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12948
+#EXTINF:-1 tvg-id="" tvg-name="OL TV" tvg-logo="http://pici.life/FR/OLTV.png" group-title="iptvpanel",OL TV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/16900
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="OLTV" tvg-logo="http://pici.life/fr/OLTV.fr.png" group-title="iptvpanel",OLTV
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5633
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 1 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12930
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 2 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12929
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3 FR" tvg-logo="http://pici.life/FR/A%20la%20carte%203.png" group-title="iptvpanel",A La Carte 3 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12928
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 4 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12927
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5 HD FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 5 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12926
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 6 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12925
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 7" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 7
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12924
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 8 FR" tvg-logo="http://pici.life/FR/A%20la%20carte.png" group-title="iptvpanel",A La Carte 8 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/12923
+#EXTINF:-1 tvg-id="" tvg-name="Movies 1 HD FR" tvg-logo="http://pici.life/DE/%20MOVIES%201%20HD%20.png" group-title="iptvpanel",Movies 1 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5651
+#EXTINF:-1 tvg-id="" tvg-name="Movies 5 HD FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="iptvpanel",Movies 5 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5648
+#EXTINF:-1 tvg-id="" tvg-name="Movies 6 FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="iptvpanel",Movies 6 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5647
+#EXTINF:-1 tvg-id="" tvg-name="Movies 7 FR" tvg-logo="http://pici.life/DE/Movies%20hd.png" group-title="iptvpanel",Movies 7 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5646
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 1 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="iptvpanel",OCS Go Cinema 1 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13015
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 2 FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="iptvpanel",OCS Go Cinema 2 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13014
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 3 FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="iptvpanel",OCS Go Cinema 3 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13013
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 4 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="iptvpanel",OCS Go Cinema 4 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13012
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 5 HD FR" tvg-logo="http://pici.life/FR/OCS-GO.jpg" group-title="iptvpanel",OCS Go Cinema 5 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13011
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 1 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13023
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 2 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 2 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13022
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 3 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13021
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 4 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13020
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 5 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13019
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 6 HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema 6 HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13018
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Action FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema Action FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5631
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema Aventure FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5630
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema CEst Fait HD FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema CEst Fait HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5629
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema FR" tvg-logo="http://pici.life/FR/Orange%20cinema.jpg" group-title="iptvpanel",Orange Cinema FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5632
+#EXTINF:-1 tvg-id="" tvg-name="Christmas 24 FR" tvg-logo="http://pici.life/uk/Movies24.uk.png" group-title="iptvpanel",Christmas 24 FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/6576
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="Cartoon Network FR" tvg-logo="http://pici.life/fr/CartoonNetwork.fr.png" group-title="iptvpanel",Cartoon Network FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/5695
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" tvg-logo="http://pici.life/FR/cstar.png" group-title="iptvpanel",C Star
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/13007
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="J-One HD FR" tvg-logo="http://pici.life/FR/JONE.png" group-title="iptvpanel",J-One HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/625364
+#EXTINF:-1 tvg-id="" tvg-name="RT France HD FR" tvg-logo="" group-title="iptvpanel",RT France HD FR
+http://tv.iptvpanel.tv:8080/Janohti/3a4goviw5h/648935
