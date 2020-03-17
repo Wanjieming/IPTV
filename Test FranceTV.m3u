@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49161
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49162
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 3
+http://www.sansat.net:25461/02025567678532/qSpJjntzmBHbaRI/49163
+
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", FRANCE 3
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", M6
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
+
+#EXTINF:-1 tvg-logo="" group-title="iptv7", TMC
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
+
+#EXTINF:-1 tvg-id="" tvg-name="Luxe TV" tvg-logo="" group-title="jokeriptv",Luxe TV
+http://jockeriptv.com:8080/567567/567567/3453
+#EXTINF:-1 tvg-id="" tvg-name="POLAR +" tvg-logo="" group-title="jokeriptv",POLAR +
+http://jockeriptv.com:8080/567567/567567/3454
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK AFRICA" tvg-logo="" group-title="jokeriptv",BBLACK AFRICA
+http://jockeriptv.com:8080/567567/567567/3455
+
+#EXTINF:-1 tvg-id="" tvg-name="Orange Enquete Exlusive" tvg-logo="" group-title="Rolando",Orange Enquete Exlusive
+http://mylatinotv.com:8080/Rolando/51286877/19101
+#EXTINF:-1 tvg-id="" tvg-name="Orange Documentaire" tvg-logo="" group-title="Rolando",Orange Documentaire
+http://mylatinotv.com:8080/Rolando/51286877/19102
+#EXTINF:-1 tvg-id="" tvg-name="Orange Comment C'Est Fait" tvg-logo="" group-title="Rolando",Orange Comment C'Est Fait
+http://mylatinotv.com:8080/Rolando/51286877/19103
+
+
+
+
+
+
+
+
