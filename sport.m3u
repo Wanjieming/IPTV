@@ -1,4 +1,455 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTNEWS.png" group-title="beIN Sports HD",beIN Sports News
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/465
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Global" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTS.png" group-title="beIN Sports HD",beIN Sports Global
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/464
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORTNBA.png" group-title="beIN Sports HD",beIN Sports NBA
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/463
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_01_hd.png" group-title="beIN Sports HD",beIN Sports 1 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/462
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_01_hd.png" group-title="beIN Sports HD",beIN Sports 1 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/461
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT21.2MB.png" group-title="beIN Sports HD",beIN Sports 2 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/460
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT21.2MB.png" group-title="beIN Sports HD",beIN Sports 2 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/459
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT3720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 3 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/458
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT3720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 3 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/457
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 4 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/456
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD" tvg-logo="http://sky.alpa.ws:91/logo/BEIN/BEINSPORT4720HD%c2%b2.png" group-title="beIN Sports HD",beIN Sports 4 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/455
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_05_hd.png" group-title="beIN Sports HD",beIN Sports 5 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/454
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_05_hd.png" group-title="beIN Sports HD",beIN Sports 5 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/453
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_06_hd.png" group-title="beIN Sports HD",beIN Sports 6 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/452
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_06_hd.png" group-title="beIN Sports HD",beIN Sports 6 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/451
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_07_hd.png" group-title="beIN Sports HD",beIN Sports 7 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/450
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_07_hd.png" group-title="beIN Sports HD",beIN Sports 7 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/449
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_08_hd.png" group-title="beIN Sports HD",beIN Sports 8 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/448
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_08_hd.png" group-title="beIN Sports HD",beIN Sports 8 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/447
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_09_hd.png" group-title="beIN Sports HD",beIN Sports 9 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/446
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_09_hd.png" group-title="beIN Sports HD",beIN Sports 9 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/445
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_10_hd.png" group-title="beIN Sports HD",beIN Sports 10 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/444
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 SD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_10_hd.png" group-title="beIN Sports HD",beIN Sports 10 SD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/443
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_11_hd.png" group-title="beIN Sports HD",beIN Sports 11 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/442
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_12_hd.png" group-title="beIN Sports HD",beIN Sports 12 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/441
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 13 HD" tvg-logo="http://5.9.40.180:89/bein_logo/be_in_mena_sports_13_hd.png" group-title="beIN Sports HD",beIN Sports 13 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/440
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 14 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_14_hd.png" group-title="beIN Sports HD",beIN Sports 14 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/439
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 15 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_15_hd.png" group-title="beIN Sports HD",beIN Sports 15 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/438
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 16 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_16_hd.png" group-title="beIN Sports HD",beIN Sports 16 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/437
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 17 HD" tvg-logo="http://5.9.40.180:71/bein_logo/be_in_mena_sports_17_hd.png" group-title="beIN Sports HD",beIN Sports 17 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/436
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 1 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports1ar.png" group-title="beIN Sports FHD",beIN Sports HD 1 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46225
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 2 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports2ar.png" group-title="beIN Sports FHD",beIN Sports HD 2 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46223
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 3 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports3ar.png" group-title="beIN Sports FHD",beIN Sports HD 3 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46221
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 4 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports4ar.png" group-title="beIN Sports FHD",beIN Sports HD 4 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46219
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 5 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports5ar.png" group-title="beIN Sports FHD",beIN Sports HD 5 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46217
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 6 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports6ar.png" group-title="beIN Sports FHD",beIN Sports HD 6 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46215
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 7 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports7ar.png" group-title="beIN Sports FHD",beIN Sports HD 7 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46213
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 8 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports8ar.png" group-title="beIN Sports FHD",beIN Sports HD 8 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46211
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 9 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports9ar.png" group-title="beIN Sports FHD",beIN Sports HD 9 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46209
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD 10 FHD" tvg-logo="http://sky.alpa.ws:91/picons/beinsports10ar.png" group-title="beIN Sports FHD",beIN Sports HD 10 FHD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/46207
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81900
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 2 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 2 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81901
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 4 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 4 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81902
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 5 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 5 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81903
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 6 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 6 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81904
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 7 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 7 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81905
+#EXTINF:-1 tvg-id="" tvg-name="|US| beIN Sports 8 HD" tvg-logo="" group-title="beIN Sports ESP/USA",|US| beIN Sports 8 HD
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/81906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-1.png" group-title="beIN Sports FHD",BEIN SPORTS 1 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84317
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-2.png" group-title="beIN Sports FHD",BEIN SPORTS 2 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84318
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-3.png" group-title="beIN Sports FHD",BEIN SPORTS 3 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84319
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-4.png" group-title="beIN Sports FHD",BEIN SPORTS 4 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84320
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 H265" tvg-logo="http://iptv.smartgotv.com/picons/beinh265-5.png" group-title="beIN Sports FHD",BEIN SPORTS 5 H265
+http://ip.sawiptv.com:2540/452116554501167/452116554501167/84321
+#EXTINF:-1 tvg-id="" tvg-name="AR: NILE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nile_Sport_%D9%86%D8%A7%D9%8A%D9%84_%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.png" group-title="  International Sports",AR: NILE SPORT
+http://hypersonic.mytvpro.org:83/68027114/75659469/419350
+#EXTINF:-1 tvg-id="" tvg-name="AR: ON SPORT" tvg-logo="https://4.bp.blogspot.com/-AdabBvaBxKQ/WY7E6wY-QlI/AAAAAAAAVaM/WJhIt1lcGjkB3wX9JLob83WB8dCSF9S9gCLcBGAs/s400/%25D8%25AA%25D8%25B1%25D8%25AF%25D8%25AF%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2588%25D9%2586%2B%25D8%25AA%25D9%258A%2B%25D9%2581%25D9%258A%2B%25D8%25B3%25D8%25A8%25D9%2588%25D8%25B1%25D8%25AA%2B%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D8%25A9%2B%25D9%2585%25D9%2588%25D9%2582%25D8%25B9%2B%25D8%25AF%25D9%258A%25D8%25B2%25D8%25A7%25D8%25AF%2B%25D9%2585%25D9%2588%25D8%25AF%25D8%25B1%25D9%2586.jpg" group-title="  International Sports",AR: ON SPORT
+http://hypersonic.mytvpro.org:83/68027114/75659469/419351
+#EXTINF:-1 tvg-id="Arenasport3.rs" tvg-name="Arena Sport 1  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 1  HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419352
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Arena Sport 2  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 2  HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419353
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 SRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 2 SRB
+http://hypersonic.mytvpro.org:83/68027114/75659469/419354
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 SRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 3 SRB
+http://hypersonic.mytvpro.org:83/68027114/75659469/419355
+#EXTINF:-1 tvg-id="Arenasport4.rs" tvg-name="Arena Sport 4  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 4  HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419356
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 SRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 4 SRB
+http://hypersonic.mytvpro.org:83/68027114/75659469/419357
+#EXTINF:-1 tvg-id="Arenasport5.rs" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 5 HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419358
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 SRB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Arena_sport.png" group-title="  International Sports",Arena Sport 5 SRB
+http://hypersonic.mytvpro.org:83/68027114/75659469/419359
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="  International Sports",Astro Super Sport 1HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419360
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="  International Sports",Astro Super Sport 2HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419361
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="  International Sports",Astro Super Sport 3HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419362
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Astro_SuperSport_TV_Channel_Logo.png" group-title="  International Sports",Astro Super Sport 4HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419363
+#EXTINF:-1 tvg-id="" tvg-name="AU | SKY RACING 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="  International Sports",AU | SKY RACING 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419364
+#EXTINF:-1 tvg-id="" tvg-name="AU | SKY RACING 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="  International Sports",AU | SKY RACING 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419365
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="https://i.etsystatic.com/11015912/r/il/b7ac33/1303226734/il_794xN.1303226734_c2vo.jpg" group-title="  International Sports",Barca TV
+http://hypersonic.mytvpro.org:83/68027114/75659469/419366
+#EXTINF:-1 tvg-id="SportKlub1.rs" tvg-name="CRO: Sport Klub 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419371
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419372
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="CRO: Sport Klub 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 3
+http://hypersonic.mytvpro.org:83/68027114/75659469/419373
+#EXTINF:-1 tvg-id="SportKlub4.rs" tvg-name="CRO: Sport Klub 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 4
+http://hypersonic.mytvpro.org:83/68027114/75659469/419374
+#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-name="CRO: Sport Klub 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 5
+http://hypersonic.mytvpro.org:83/68027114/75659469/419375
+#EXTINF:-1 tvg-id="" tvg-name="CRO: Sport Klub 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="  International Sports",CRO: Sport Klub 6
+http://hypersonic.mytvpro.org:83/68027114/75659469/419376
+#EXTINF:-1 tvg-id="EirSport2.ie" tvg-name="EIR Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Eirsportlogo.png/330px-Eirsportlogo.png" group-title="  International Sports",EIR Sport 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419377
+#EXTINF:-1 tvg-id="EirSport1.ie" tvg-name="EIR Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Eirsportlogo.png/330px-Eirsportlogo.png" group-title="  International Sports",EIR Sports 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419378
+#EXTINF:-1 tvg-id="fightsports.us" tvg-name="Fight Channel" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/09/FIGHT-CHANNEL-WORLD-HD-logo-e1506332740512.png" group-title="  International Sports",Fight Channel
+http://hypersonic.mytvpro.org:83/68027114/75659469/419379
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="Gol Tv ESP" tvg-logo="http://app.iptvpro.xyz:83/images/4cb96d37306551052023fe28e2c39cdd.png" group-title="  International Sports",Gol Tv ESP
+http://hypersonic.mytvpro.org:83/68027114/75659469/419380
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV PERU" tvg-logo="https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg" group-title="  International Sports",GOL TV PERU
+http://hypersonic.mytvpro.org:83/68027114/75659469/419381
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419382
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419383
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 3
+http://hypersonic.mytvpro.org:83/68027114/75659469/419384
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 4
+http://hypersonic.mytvpro.org:83/68027114/75659469/419385
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 5
+http://hypersonic.mytvpro.org:83/68027114/75659469/419386
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 6
+http://hypersonic.mytvpro.org:83/68027114/75659469/419387
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 7
+http://hypersonic.mytvpro.org:83/68027114/75659469/419388
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 8
+http://hypersonic.mytvpro.org:83/68027114/75659469/419389
+#EXTINF:-1 tvg-id="" tvg-name="GR: OTE SPORT 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Cosmote_Sport.png" group-title="  International Sports",GR: OTE SPORT 9
+http://hypersonic.mytvpro.org:83/68027114/75659469/419390
+#EXTINF:-1 tvg-id="" tvg-name="IN:VIP Star sports HD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/300px-Star_Television_logo.svg.png" group-title="  International Sports",IN:VIP Star sports HD1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419391
+#EXTINF:-1 tvg-id="13Ulica.pl" tvg-name="IN:VIP Star sports HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/300px-Star_Television_logo.svg.png" group-title="  International Sports",IN:VIP Star sports HD2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419392
+#EXTINF:-1 tvg-id="" tvg-name="IN:VIP Star sports HD3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/300px-Star_Television_logo.svg.png" group-title="  International Sports",IN:VIP Star sports HD3
+http://hypersonic.mytvpro.org:83/68027114/75659469/419393
+#EXTINF:-1 tvg-id="" tvg-name="IN:VIP Star sports HD4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star_Television_logo.svg/300px-Star_Television_logo.svg.png" group-title="  International Sports",IN:VIP Star sports HD4
+http://hypersonic.mytvpro.org:83/68027114/75659469/419394
+#EXTINF:-1 tvg-id="" tvg-name="MotoGP Moviestar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/330px-Logo_Movistar.svg.png" group-title="  International Sports",MotoGP Moviestar
+http://hypersonic.mytvpro.org:83/68027114/75659469/419395
+#EXTINF:-1 tvg-id="" tvg-name="OSN Sports Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/OSN_Sports_2013.jpg/375px-OSN_Sports_2013.jpg" group-title="  International Sports",OSN Sports Cricket HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419396
+#EXTINF:-1 tvg-id="" tvg-name="Planet Sports" tvg-logo="https://scps.a1.hr/o/a1-planetsport-theme/images/og-image.jpg" group-title="  International Sports",Planet Sports
+http://hypersonic.mytvpro.org:83/68027114/75659469/419397
+#EXTINF:-1 tvg-id="" tvg-name="POL: ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ELEVEN.png/150px-ELEVEN.png" group-title="  International Sports",POL: ELEVEN SPORTS 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419398
+#EXTINF:-1 tvg-id="" tvg-name="POL: ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ELEVEN.png/150px-ELEVEN.png" group-title="  International Sports",POL: ELEVEN SPORTS 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419399
+#EXTINF:-1 tvg-id="" tvg-name="POL: ELEVEN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ELEVEN.png/150px-ELEVEN.png" group-title="  International Sports",POL: ELEVEN SPORTS 3
+http://hypersonic.mytvpro.org:83/68027114/75659469/419400
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://www.stickpng.com/assets/images/584a9b47b080d7616d298778.png" group-title="  International Sports",Real Madrid TV
+http://hypersonic.mytvpro.org:83/68027114/75659469/419401
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/330px-Setanta-logo.jpg" group-title="  International Sports",SETANTA Sports FHD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419402
+#EXTINF:-1 tvg-id="SetantaSports.my" tvg-name="SETANTA Sports Plus FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="  International Sports",SETANTA Sports Plus FHD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419403
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://static.iptvbase.net/system/1.0/data/images/content/1/video_103_0_79x59.jpg" group-title="  International Sports",STAR SPORTS 2 HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419404
+#EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="VIASAT Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Viasat_logo_2017.png" group-title="  International Sports",VIASAT Football HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419405
+#EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="VIASAT Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Viasat_logo_2017.png" group-title="  International Sports",VIASAT Sport HD
+http://hypersonic.mytvpro.org:83/68027114/75659469/419406
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET 1 (Match Time Only)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/willowtv.png" group-title="  International Sports",WILLOW CRICKET 1 (Match Time Only)
+http://hypersonic.mytvpro.org:83/68027114/75659469/419407
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET 2 (Match Time Only)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/willowtv.png" group-title="  International Sports",WILLOW CRICKET 2 (Match Time Only)
+http://hypersonic.mytvpro.org:83/68027114/75659469/419408
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET 3 (Match Time Only)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/willowtv.png" group-title="  International Sports",WILLOW CRICKET 3 (Match Time Only)
+http://hypersonic.mytvpro.org:83/68027114/75659469/419409
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET 4 (Match Time Only)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/willowtv.png" group-title="  International Sports",WILLOW CRICKET 4 (Match Time Only)
+http://hypersonic.mytvpro.org:83/68027114/75659469/419410
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET 5 (Match Time Only)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/willowtv.png" group-title="  International Sports",WILLOW CRICKET 5 (Match Time Only)
+http://hypersonic.mytvpro.org:83/68027114/75659469/419411
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  1
+http://hypersonic.mytvpro.org:83/68027114/75659469/419413
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  2
+http://hypersonic.mytvpro.org:83/68027114/75659469/419414
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  3
+http://hypersonic.mytvpro.org:83/68027114/75659469/419415
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  4
+http://hypersonic.mytvpro.org:83/68027114/75659469/419416
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  5
+http://hypersonic.mytvpro.org:83/68027114/75659469/419417
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  6" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  6
+http://hypersonic.mytvpro.org:83/68027114/75659469/419418
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  8" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  8
+http://hypersonic.mytvpro.org:83/68027114/75659469/419419
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  9" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  9
+http://hypersonic.mytvpro.org:83/68027114/75659469/419420
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport 10" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport 10
+http://hypersonic.mytvpro.org:83/68027114/75659469/419421
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport 11" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport 11
+http://hypersonic.mytvpro.org:83/68027114/75659469/419422
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport 12" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport 12
+http://hypersonic.mytvpro.org:83/68027114/75659469/419423
+#EXTINF:-1 tvg-id="" tvg-name="RSA Supersport Blitz" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA Supersport Blitz
+http://hypersonic.mytvpro.org:83/68027114/75659469/419424
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport MáXimo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport MáXimo
+http://hypersonic.mytvpro.org:83/68027114/75659469/419425
+#EXTINF:-1 tvg-id="" tvg-name="RSA SuperSport  7" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2d/SSN.png" group-title="  International Sports",RSA SuperSport  7
+http://hypersonic.mytvpro.org:83/68027114/75659469/419453
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name=" beIN Sports Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports Global
+http://hypersonic.mytvpro.org:83/68027114/75659469/521840
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name=" beIN Sports N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports N
+http://hypersonic.mytvpro.org:83/68027114/75659469/521841
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name=" beIN Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports News
+http://hypersonic.mytvpro.org:83/68027114/75659469/521842
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name=" beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports USA
+http://hypersonic.mytvpro.org:83/68027114/75659469/521843
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",FR: Bein Sports 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/521844
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="  beIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 1
+http://hypersonic.mytvpro.org:83/68027114/75659469/521845
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="  beIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 2
+http://hypersonic.mytvpro.org:83/68027114/75659469/521846
+#EXTINF:-1 tvg-id="beinsports3.us" tvg-name="  beIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 3
+http://hypersonic.mytvpro.org:83/68027114/75659469/521847
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="  beIN Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 4
+http://hypersonic.mytvpro.org:83/68027114/75659469/521848
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="  beIN Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 5
+http://hypersonic.mytvpro.org:83/68027114/75659469/521849
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="  beIN Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 6
+http://hypersonic.mytvpro.org:83/68027114/75659469/521850
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="  beIN Sports 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 7
+http://hypersonic.mytvpro.org:83/68027114/75659469/521851
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="  beIN Sports 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 8
+http://hypersonic.mytvpro.org:83/68027114/75659469/521852
+#EXTINF:-1 tvg-id="beinsports9.us" tvg-name="  beIN Sports 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports",  beIN Sports 9
+http://hypersonic.mytvpro.org:83/68027114/75659469/521853
+#EXTINF:-1 tvg-id="beinsports10.us" tvg-name=" beIN Sports 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports 10
+http://hypersonic.mytvpro.org:83/68027114/75659469/521854
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name=" beIN Sports 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports 11
+http://hypersonic.mytvpro.org:83/68027114/75659469/521855
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports 12
+http://hypersonic.mytvpro.org:83/68027114/75659469/521856
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="  International Sports", beIN Sports 13
+http://hypersonic.mytvpro.org:83/68027114/75659469/521857
+#EXTINF:-1 tvg-id="STAD3" tvg-name="Stadium 3" tvg-logo="https://imgx.fubo.tv/station_logos/stadium-3_c.png" group-title="  International Sports",Stadium 3
+http://hypersonic.mytvpro.org:83/68027114/75659469/524909
+#EXTINF:-1 tvg-id="BENFC" tvg-name="Benfica TV" tvg-logo="https://imgx.fubo.tv/station_logos/benfica_tv_c.png" group-title="  International Sports",Benfica TV
+http://hypersonic.mytvpro.org:83/68027114/75659469/524234
+#EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN" tvg-logo="https://imgx.fubo.tv/station_logos/nbcsn_c.png" group-title="   NBC Sports Networks",NBCSN
+http://hypersonic.mytvpro.org:83/68027114/75659469/524335
+#EXTINF:-1 tvg-id="[test]ukdsport.uk" tvg-name="DSport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/DSport_logo.png" group-title="  International Sports",DSport
+http://hypersonic.mytvpro.org:83/68027114/75659469/405605
+#EXTINF:-1 tvg-id="FMC-1" tvg-name="Match Centre #1" tvg-logo="https://myfubo.com/images/fubotv.png" group-title="   Match Center",Match Centre #1
+http://hypersonic.mytvpro.org:83/68027114/75659469/528455
+#EXTINF:-1 tvg-id="FMC-2" tvg-name="Match Centre #2" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #2
+http://hypersonic.mytvpro.org:83/68027114/75659469/528456
+#EXTINF:-1 tvg-id="FMC-3" tvg-name="Match Centre #3" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #3
+http://hypersonic.mytvpro.org:83/68027114/75659469/528457
+#EXTINF:-1 tvg-id="FMC-4" tvg-name="Match Centre #4" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #4
+http://hypersonic.mytvpro.org:83/68027114/75659469/528458
+#EXTINF:-1 tvg-id="FMC-5" tvg-name="Match Centre #5" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #5
+http://hypersonic.mytvpro.org:83/68027114/75659469/528459
+#EXTINF:-1 tvg-id="FMC-6" tvg-name="Match Centre #6" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #6
+http://hypersonic.mytvpro.org:83/68027114/75659469/528460
+#EXTINF:-1 tvg-id="FMC-7" tvg-name="Match Centre #7" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #7
+http://hypersonic.mytvpro.org:83/68027114/75659469/528461
+#EXTINF:-1 tvg-id="FMC-8" tvg-name="Match Centre #8" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #8
+http://hypersonic.mytvpro.org:83/68027114/75659469/528462
+#EXTINF:-1 tvg-id="FMC-9" tvg-name="Match Centre #9" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #9
+http://hypersonic.mytvpro.org:83/68027114/75659469/528463
+#EXTINF:-1 tvg-id="FMC-10" tvg-name="Match Centre #10" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #10
+http://hypersonic.mytvpro.org:83/68027114/75659469/528464
+#EXTINF:-1 tvg-id="FMC-11" tvg-name="Match Centre #11" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #11
+http://hypersonic.mytvpro.org:83/68027114/75659469/528465
+#EXTINF:-1 tvg-id="FMC-12" tvg-name="Match Centre #12" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #12
+http://hypersonic.mytvpro.org:83/68027114/75659469/528466
+#EXTINF:-1 tvg-id="FMC-13" tvg-name="Match Centre #13" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #13
+http://hypersonic.mytvpro.org:83/68027114/75659469/528467
+#EXTINF:-1 tvg-id="FMC-14" tvg-name="Match Centre #14" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #14
+http://hypersonic.mytvpro.org:83/68027114/75659469/528468
+#EXTINF:-1 tvg-id="FMC-15" tvg-name="Match Centre #15" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #15
+http://hypersonic.mytvpro.org:83/68027114/75659469/528469
+#EXTINF:-1 tvg-id="FMC-16" tvg-name="Match Centre #16" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #16
+http://hypersonic.mytvpro.org:83/68027114/75659469/528470
+#EXTINF:-1 tvg-id="FMC-17" tvg-name="Match Centre #17" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #17
+http://hypersonic.mytvpro.org:83/68027114/75659469/528471
+#EXTINF:-1 tvg-id="FMC-18" tvg-name="Match Centre #18" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #18
+http://hypersonic.mytvpro.org:83/68027114/75659469/528472
+#EXTINF:-1 tvg-id="FMC-19" tvg-name="Match Centre #19" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #19
+http://hypersonic.mytvpro.org:83/68027114/75659469/528473
+#EXTINF:-1 tvg-id="FMC-20" tvg-name="Match Centre #20" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #20
+http://hypersonic.mytvpro.org:83/68027114/75659469/528474
+#EXTINF:-1 tvg-id="FMC-21" tvg-name="Match Centre #21" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #21
+http://hypersonic.mytvpro.org:83/68027114/75659469/528475
+#EXTINF:-1 tvg-id="FMC-22" tvg-name="Match Centre #22" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #22
+http://hypersonic.mytvpro.org:83/68027114/75659469/528476
+#EXTINF:-1 tvg-id="FMC-23" tvg-name="Match Centre #23" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #23
+http://hypersonic.mytvpro.org:83/68027114/75659469/528477
+#EXTINF:-1 tvg-id="FMC-24" tvg-name="Match Centre #24" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #24
+http://hypersonic.mytvpro.org:83/68027114/75659469/528478
+#EXTINF:-1 tvg-id="FMC-25" tvg-name="Match Centre #25" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #25
+http://hypersonic.mytvpro.org:83/68027114/75659469/528479
+#EXTINF:-1 tvg-id="FMC-26" tvg-name="Match Centre #26" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #26
+http://hypersonic.mytvpro.org:83/68027114/75659469/528480
+#EXTINF:-1 tvg-id="FMC-27" tvg-name="Match Centre #27" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #27
+http://hypersonic.mytvpro.org:83/68027114/75659469/528481
+#EXTINF:-1 tvg-id="FMC-28" tvg-name="Match Centre #28" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #28
+http://hypersonic.mytvpro.org:83/68027114/75659469/528482
+#EXTINF:-1 tvg-id="FMC-29" tvg-name="Match Centre #29" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #29
+http://hypersonic.mytvpro.org:83/68027114/75659469/528483
+#EXTINF:-1 tvg-id="FMC-30" tvg-name="Match Centre #30" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #30
+http://hypersonic.mytvpro.org:83/68027114/75659469/528484
+#EXTINF:-1 tvg-id="FMC-31" tvg-name="Match Centre #31" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #31
+http://hypersonic.mytvpro.org:83/68027114/75659469/528485
+#EXTINF:-1 tvg-id="FMC-32" tvg-name="Match Centre #32" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #32
+http://hypersonic.mytvpro.org:83/68027114/75659469/528486
+#EXTINF:-1 tvg-id="FMC-33" tvg-name="Match Centre #33" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #33
+http://hypersonic.mytvpro.org:83/68027114/75659469/528487
+#EXTINF:-1 tvg-id="FMC-34" tvg-name="Match Centre #34" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #34
+http://hypersonic.mytvpro.org:83/68027114/75659469/528488
+#EXTINF:-1 tvg-id="FMC-35" tvg-name="Match Centre #35" tvg-logo="http://app.iptvpro.xyz:83/images/7126f8f365efc128852346242a8696e8.png" group-title="   Match Center",Match Centre #35
+http://hypersonic.mytvpro.org:83/68027114/75659469/528489
+#EXTINF:-1 tvg-id="ZONFUT" tvg-name="Zona Futbol" tvg-logo="https://imgx.fubo.tv/station_logos/zona-futbol_new_c.png" group-title="  International Sports",Zona Futbol
+http://hypersonic.mytvpro.org:83/68027114/75659469/531325
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="VIP FHD BOXNATION" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD BOXNATION
+http://bestever.vodiptv.org:83/745929229/374236758/374165
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="VIP FHD BT SPORTS 1 " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD BT SPORTS 1 
+http://bestever.vodiptv.org:83/745929229/374236758/382173
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="VIP FHD BT SPORTS 2" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD BT SPORTS 2
+http://bestever.vodiptv.org:83/745929229/374236758/382157
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="VIP FHD BT SPORTS 3 " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD BT SPORTS 3 
+http://bestever.vodiptv.org:83/745929229/374236758/382161
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="VIP FHD EUROSPORTS 1" tvg-logo="" group-title="VIP HD/FHD UK ENTERTAINMENT",VIP FHD EUROSPORTS 1
+http://bestever.vodiptv.org:83/745929229/374236758/374141
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="VIP FHD EUROSPORTS 1" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD EUROSPORTS 1
+http://bestever.vodiptv.org:83/745929229/374236758/374182
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="VIP FHD EUROSPORTS 2" tvg-logo="" group-title="VIP HD/FHD UK ENTERTAINMENT",VIP FHD EUROSPORTS 2
+http://bestever.vodiptv.org:83/745929229/374236758/374142
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="VIP FHD EUROSPORTS 2" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD EUROSPORTS 2
+http://bestever.vodiptv.org:83/745929229/374236758/374183
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="VIP FHD FREESPORTS" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD FREESPORTS
+http://bestever.vodiptv.org:83/745929229/374236758/374186
+#EXTINF:-1 tvg-id="abudhabi.ae" tvg-name="VIP FHD LIVERPOOL FC TV" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD LIVERPOOL FC TV
+http://bestever.vodiptv.org:83/745929229/374236758/374195
+#EXTINF:-1 tvg-id="" tvg-name="VIP FHD MTV LIVE" tvg-logo="" group-title="VIP HD/FHD UK ENTERTAINMENT",VIP FHD MTV LIVE
+http://bestever.vodiptv.org:83/745929229/374236758/374199
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="VIP FHD MUTV" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD MUTV
+http://bestever.vodiptv.org:83/745929229/374236758/374115
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="VIP FHD PREMIER SPORTS" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD PREMIER SPORTS
+http://bestever.vodiptv.org:83/745929229/374236758/374120
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="VIP FHD PREMIER SPORTS" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD PREMIER SPORTS
+http://bestever.vodiptv.org:83/745929229/374236758/374205
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="VIP FHD PREMIER SPORTS 2" tvg-logo="" group-title="VIP HD/FHD UK ENTERTAINMENT",VIP FHD PREMIER SPORTS 2
+http://bestever.vodiptv.org:83/745929229/374236758/374144
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="VIP FHD RACING TV" tvg-logo="" group-title="VIP HD/FHD UK ENTERTAINMENT",VIP FHD RACING TV
+http://bestever.vodiptv.org:83/745929229/374236758/374121
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="VIP FHD RACING TV" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD RACING TV
+http://bestever.vodiptv.org:83/745929229/374236758/374207
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="VIP FHD SKY SPORTS ACTION" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS ACTION
+http://bestever.vodiptv.org:83/745929229/374236758/382169
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="VIP FHD SKY SPORTS ARENA" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS ARENA
+http://bestever.vodiptv.org:83/745929229/374236758/382168
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="VIP FHD SKY SPORTS CRICKET " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS CRICKET 
+http://bestever.vodiptv.org:83/745929229/374236758/382167
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP FHD SKY SPORTS F1" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS F1
+http://bestever.vodiptv.org:83/745929229/374236758/382166
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="VIP FHD SKY SPORTS FOOTBALL" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS FOOTBALL
+http://bestever.vodiptv.org:83/745929229/374236758/382165
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="VIP FHD SKY SPORTS GOLF" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS GOLF
+http://bestever.vodiptv.org:83/745929229/374236758/382164
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="VIP FHD Sky Sports Main Event" tvg-logo="http://picon.helixhosting.ninja/30943.png" group-title="VIP HD/FHD UK SPORTS",VIP FHD Sky Sports Main Event
+http://bestever.vodiptv.org:83/745929229/374236758/309260
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="VIP FHD SKY SPORTS MIX " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS MIX 
+http://bestever.vodiptv.org:83/745929229/374236758/382171
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP FHD SKY SPORTS NEWS" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS NEWS
+http://bestever.vodiptv.org:83/745929229/374236758/382170
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="VIP FHD SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP FHD SKY SPORTS PREMIER LEAGUE
+http://bestever.vodiptv.org:83/745929229/374236758/382163
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="VIP FHD Sky Sports Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Skysportsracing.svg/375px-Skysportsracing.svg.png" group-title="VIP HD/FHD UK SPORTS",VIP FHD Sky Sports Racing
+http://bestever.vodiptv.org:83/745929229/374236758/331503
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="VIP HD BT SPORTS 1 " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD BT SPORTS 1 
+http://bestever.vodiptv.org:83/745929229/374236758/382160
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="VIP HD BT SPORTS 2" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD BT SPORTS 2
+http://bestever.vodiptv.org:83/745929229/374236758/382156
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="VIP HD BT SPORTS 3 " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD BT SPORTS 3 
+http://bestever.vodiptv.org:83/745929229/374236758/382162
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="VIP HD BT Sports ESPN" tvg-logo="http://picon.helixhosting.ninja/30923.png" group-title="VIP HD/FHD UK SPORTS",VIP HD BT Sports ESPN
+http://bestever.vodiptv.org:83/745929229/374236758/303852
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="VIP HD SKY SPORTS FOOTBALL" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS FOOTBALL
+http://bestever.vodiptv.org:83/745929229/374236758/382176
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="VIP HD SKY SPORTS GOLF" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS GOLF
+http://bestever.vodiptv.org:83/745929229/374236758/382175
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="VIP HD Sky Sports Main Event" tvg-logo="http://picon.helixhosting.ninja/30932.png" group-title="VIP HD/FHD UK SPORTS",VIP HD Sky Sports Main Event
+http://bestever.vodiptv.org:83/745929229/374236758/309259
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="VIP HD SKY SPORTS MIX" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS MIX
+http://bestever.vodiptv.org:83/745929229/374236758/382172
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="VIP HD SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS PREMIER LEAGUE
+http://bestever.vodiptv.org:83/745929229/374236758/382174
+#EXTINF:-1 tvg-id="3ABN.us" tvg-name="VIP HD Sky Sports Racing" tvg-logo="https://pbs.twimg.com/profile_images/1069595610859388928/1fxqrGGz.jpg" group-title="VIP HD/FHD UK SPORTS",VIP HD Sky Sports Racing
+http://bestever.vodiptv.org:83/745929229/374236758/363773
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP HD SKY SPORTS F1" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS F1
+http://bestever.vodiptv.org:83/745929229/374236758/382177
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="VIP HD SKY SPORTS CRICKET" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS CRICKET
+http://bestever.vodiptv.org:83/745929229/374236758/382178
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="VIP HD SKY SPORTS ARENA" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS ARENA
+http://bestever.vodiptv.org:83/745929229/374236758/382179
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="VIP HD SKY SPORTS ACTION" tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS ACTION
+http://bestever.vodiptv.org:83/745929229/374236758/382180
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP HD SKY SPORTS NEWS " tvg-logo="" group-title="VIP HD/FHD UK SPORTS",VIP HD SKY SPORTS NEWS 
+http://bestever.vodiptv.org:83/745929229/374236758/382181
+=======
 #EXTINF:-1 tvg-id="" tvg-name="Sport:KLUB 3" tvg-logo="" group-title="Sports Inter",Sport:KLUB 3
 http://s1.falcon-iptv.com:25461/mody/mody/34803
 #EXTINF:-1 tvg-id="" tvg-name="Sport:KLUB 1" tvg-logo="" group-title="Sports Inter",Sport:KLUB 1
@@ -959,6 +1410,7 @@ http://hypersonic.mytvpro.org:83/68027114/75659469/528488
 http://hypersonic.mytvpro.org:83/68027114/75659469/528489
 #EXTINF:-1 tvg-id="ZONFUT" tvg-name="Zona Futbol" tvg-logo="https://imgx.fubo.tv/station_logos/zona-futbol_new_c.png" group-title="hypersonic",Zona Futbol
 http://hypersonic.mytvpro.org:83/68027114/75659469/531325
+>>>>>>> 3f1bc2c1ce5cf48ce4e1185d77dfbd6982619ff6
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1 FHD" tvg-logo="" group-title="mantul",FOX Sport 1 FHD
 http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/784.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Sport 1" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" group-title="mantul",FOX Sport 1
