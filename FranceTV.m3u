@@ -4745,3 +4745,80 @@ http://novaiptv.vip:80/son.stn.sn_7/819018282/7783
 http://novaiptv.vip:80/son.stn.sn_7/819018282/7885
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="" group-title="novaiptv",W9
 http://novaiptv.vip:80/son.stn.sn_7/819018282/7884
+#EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="yacineff1022",TF1
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="" group-title="yacineff1022",MANGAS
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC DECOUVERTE" tvg-logo="" group-title="yacineff1022",RMC DECOUVERTE
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETECI" tvg-logo="" group-title="yacineff1022",PLANETECI
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="France2" tvg-logo="" group-title="yacineff1022",France2
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="" group-title="yacineff1022",W9
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 4" tvg-logo="" group-title="yacineff1022",RMC Sport 4
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 3" tvg-logo="" group-title="yacineff1022",RMC Sport 3
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 2" tvg-logo="" group-title="yacineff1022",RMC Sport 2
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 1" tvg-logo="" group-title="yacineff1022",RMC Sport 1
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKLODEON JR" tvg-logo="" group-title="yacineff1022",NICKLODEON JR
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKLODEON" tvg-logo="" group-title="yacineff1022",NICKLODEON
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild" tvg-logo="" group-title="yacineff1022",National Geographic Wild
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="yacineff1022",M6
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="yacineff1022",Disney XD
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="yacineff1022",DISNEY JUNIOR
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="yacineff1022",CARTOON NETWORK
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="" group-title="yacineff1022",CANAL PLAY 5
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="yacineff1022",CANAL PLAY 4
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="" group-title="yacineff1022",CANAL PLAY 2
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="yacineff1022",CANAL PLAY 1
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="yacineff1022",CANAL PLAY 3
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="yacineff1022",CANAL J
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SERIES" tvg-logo="" group-title="yacineff1022",CANAL SERIES
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL FAMILY" tvg-logo="" group-title="yacineff1022",CANAL FAMILY
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECALE" tvg-logo="" group-title="yacineff1022",CANAL DECALE
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CINEMA" tvg-logo="" group-title="yacineff1022",CANAL CINEMA
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL +" tvg-logo="" group-title="yacineff1022",CANAL +
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG-HD" tvg-logo="" group-title="yacineff1022",BOOMERANG-HD
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="yacineff1022",ACTION
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER" tvg-logo="" group-title="yacineff1022",CINE PREMIER
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Emotion" tvg-logo="" group-title="yacineff1022",Cine Emotion
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="yacineff1022",CARTOON NETWORK
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL Sport" tvg-logo="" group-title="yacineff1022",CANAL Sport
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein FR1" tvg-logo="" group-title="yacineff1022",Bein FR 1
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein FR 2" tvg-logo="" group-title="yacineff1022",Bein FR 2
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein FR 3" tvg-logo="" group-title="yacineff1022",Bein FR 3
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="yacineff1022",ANIMAUX
+http://frryacineuuk.ddns.net:8000/live/yacineff1022/yacineff1022/32.ts
