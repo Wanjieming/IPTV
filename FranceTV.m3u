@@ -700,9 +700,9 @@ http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/42413
 http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/42414
 #EXTINF:-1 tvg-ID="" tvg-name=" GULLI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="Pandar", GULLI
 http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/42415
-EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="iptvtool", TF1
+EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="iptvtool", TF1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156576
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="iptvtool", M6
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="iptvtool", M6
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156577
 #EXTINF:-1 tvg-id="" tvg-name="FR:ANCE2" tvg-logo="" group-title="iptvtool", France2
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156578
@@ -714,67 +714,67 @@ http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156580
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156581
 #EXTINF:-1 tvg-id="" tvg-name="FR:ANCE Ô" tvg-logo="" group-title="iptvtool", France Ô
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156582
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+" tvg-logo="" group-title="iptvtool", CANAL+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="" group-title="iptvtool", CANAL+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156583
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLUS SPORT" tvg-logo="" group-title="iptvtool", CANAL PLUS SPORT
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLUS SPORT" tvg-logo="" group-title="iptvtool", CANAL PLUS SPORT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156584
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT" tvg-logo="" group-title="iptvtool", CANAL+ SPORT
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="iptvtool", CANAL+ SPORT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156585
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+Cinéma" tvg-logo="" group-title="iptvtool", CANAL+Cinéma
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+Cinéma" tvg-logo="" group-title="iptvtool", CANAL+Cinéma
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156586
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FAMILY" tvg-logo="" group-title="iptvtool", CANAL+ FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="iptvtool", CANAL+ FAMILY
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156587
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SERIES" tvg-logo="" group-title="iptvtool", CANAL+ SERIES
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES" tvg-logo="" group-title="iptvtool", CANAL+ SERIES
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156588
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="iptvtool", CANAL+ DECALE
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE" tvg-logo="" group-title="iptvtool", CANAL+ DECALE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156589
-#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION" tvg-logo="" group-title="iptvtool", ACTION
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="" group-title="iptvtool", ACTION
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156590
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ISSON" tvg-logo="" group-title="iptvtool", CINE+ISSON
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ISSON" tvg-logo="" group-title="iptvtool", CINE+ISSON
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156591
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ EMOTION" tvg-logo="" group-title="iptvtool", CINE+ EMOTION
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION" tvg-logo="" group-title="iptvtool", CINE+ EMOTION
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156592
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FAMIZ" tvg-logo="" group-title="iptvtool", CINE+ FAMIZ
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ" tvg-logo="" group-title="iptvtool", CINE+ FAMIZ
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156593
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné CLUB" tvg-logo="" group-title="iptvtool", Ciné CLUB
+#EXTINF:-1 tvg-id="" tvg-name="Ciné CLUB" tvg-logo="" group-title="iptvtool", Ciné CLUB
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156594
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIERE" tvg-logo="" group-title="iptvtool", CINE+ PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIERE" tvg-logo="" group-title="iptvtool", CINE+ PREMIERE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156595
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIERE" tvg-logo="" group-title="iptvtool", CINE+ PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIERE" tvg-logo="" group-title="iptvtool", CINE+ PREMIERE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156596
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLASSIC" tvg-logo="" group-title="iptvtool", CINE+ CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC" tvg-logo="" group-title="iptvtool", CINE+ CLASSIC
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156597
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC" tvg-logo="" group-title="iptvtool", OCS CHOC
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="" group-title="iptvtool", OCS CHOC
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156598
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="iptvtool", OCS CITY
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="" group-title="iptvtool", OCS CITY
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156599
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANT" tvg-logo="" group-title="iptvtool", OCS GEANT
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT" tvg-logo="" group-title="iptvtool", OCS GEANT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156600
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="" group-title="iptvtool", OCS MAX
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="" group-title="iptvtool", OCS MAX
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156601
-#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION-FHD" tvg-logo="" group-title="iptvtool", ACTION-FHD
+#EXTINF:-1 tvg-id="" tvg-name="ACTION-FHD" tvg-logo="" group-title="iptvtool", ACTION-FHD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156602
-#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinéma" tvg-logo="" group-title="iptvtool", TCM Cinéma
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinéma" tvg-logo="" group-title="iptvtool", TCM Cinéma
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156603
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT1" tvg-logo="" group-title="iptvtool", BEIN SPORT1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="" group-title="iptvtool", BEIN SPORT1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156604
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT2" tvg-logo="" group-title="iptvtool", BEIN SPORT2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="" group-title="iptvtool", BEIN SPORT2
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156605
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT3" tvg-logo="" group-title="iptvtool", BEIN SPORT3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3" tvg-logo="" group-title="iptvtool", BEIN SPORT3
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156606
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEINSPORT1" tvg-logo="" group-title="iptvtool", BEINSPORT1
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT1" tvg-logo="" group-title="iptvtool", BEINSPORT1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156607
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEINSPORT3" tvg-logo="" group-title="iptvtool", BEINSPORT3
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT3" tvg-logo="" group-title="iptvtool", BEINSPORT3
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156608
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 4
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156609
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 5
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156610
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 6
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156611
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 7
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156612
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8" tvg-logo="" group-title="iptvtool", BEIN SPORT MAX 8
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156613
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1" tvg-logo="" group-title="iptvtool",|FR| RMC SPORT 1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/147233
@@ -822,183 +822,183 @@ http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/147253
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/147254
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 FHD" tvg-logo="" group-title="iptvtool",RMC SPORT 1 FHD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/135320
-#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+" tvg-logo="" group-title="iptvtool", INFOSPORT+
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT+" tvg-logo="" group-title="iptvtool", INFOSPORT+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156614
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ 24/24" tvg-logo="" group-title="iptvtool", Foot+ 24/24
+#EXTINF:-1 tvg-id="" tvg-name="Foot+ 24/24" tvg-logo="" group-title="iptvtool", Foot+ 24/24
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156615
-#EXTINF:-1 tvg-id="" tvg-name="FR: L\'EQUIPE 21" tvg-logo="" group-title="iptvtool", L\'EQUIPE 21
+#EXTINF:-1 tvg-id="" tvg-name="L\'EQUIPE 21" tvg-logo="" group-title="iptvtool", L\'EQUIPE 21
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156616
-#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT1" tvg-logo="" group-title="iptvtool", EUROSPORT1
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1" tvg-logo="" group-title="iptvtool", EUROSPORT1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156617
-#EXTINF:-1 tvg-id="" tvg-name="FR: KOMBAT SPORT" tvg-logo="" group-title="iptvtool", KOMBAT SPORT
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT" tvg-logo="" group-title="iptvtool", KOMBAT SPORT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156618
-#EXTINF:-1 tvg-id="" tvg-name="FR: TFX UHD" tvg-logo="" group-title="iptvtool", TFX UHD
+#EXTINF:-1 tvg-id="" tvg-name="TFX UHD" tvg-logo="" group-title="iptvtool", TFX UHD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156619
-#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIVE" tvg-logo="" group-title="iptvtool", EQUIDIA LIVE
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE" tvg-logo="" group-title="iptvtool", EQUIDIA LIVE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156620
-#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV" tvg-logo="" group-title="iptvtool", OL TV
+#EXTINF:-1 tvg-id="" tvg-name="OL TV" tvg-logo="" group-title="iptvtool", OL TV
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156621
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL" tvg-logo="" group-title="iptvtool", GOLF CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="" group-title="iptvtool", GOLF CHANNEL
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156622
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEUR" tvg-logo="" group-title="iptvtool", AB MOTEUR
+#EXTINF:-1 tvg-id="" tvg-name="AB MOTEUR" tvg-logo="" group-title="iptvtool", AB MOTEUR
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156623
-#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY" tvg-logo="" group-title="iptvtool", SYFY
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="iptvtool", SYFY
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156624
-#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME RUE" tvg-logo="" group-title="iptvtool", 13EME RUE
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="" group-title="iptvtool", 13EME RUE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156625
-#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB" tvg-logo="" group-title="iptvtool", SERIE CLUB
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="" group-title="iptvtool", SERIE CLUB
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156626
-#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA" tvg-logo="" group-title="iptvtool", TEVA
+#EXTINF:-1 tvg-id="" tvg-name="TEVA" tvg-logo="" group-title="iptvtool", TEVA
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156627
-#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+" tvg-logo="" group-title="iptvtool", COMEDIE+
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+" tvg-logo="" group-title="iptvtool", COMEDIE+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156628
-#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+" tvg-logo="" group-title="iptvtool", COMEDIE+
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+" tvg-logo="" group-title="iptvtool", COMEDIE+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156629
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="" group-title="iptvtool", TMC
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="iptvtool", TMC
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156630
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9" tvg-logo="" group-title="iptvtool", RTL9
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="" group-title="iptvtool", RTL9
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156631
-#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="iptvtool", W9
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="" group-title="iptvtool", W9
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156632
-#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="" group-title="iptvtool", E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="iptvtool", E!
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156633
-#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL" tvg-logo="" group-title="iptvtool", PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="iptvtool", PARAMOUNT CHANNEL
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156634
-#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE" tvg-logo="" group-title="iptvtool", PARIS PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="" group-title="iptvtool", PARIS PREMIERE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156635
-#EXTINF:-1 tvg-id="" tvg-name="FR: ELLE GIRL" tvg-logo="" group-title="iptvtool", ELLE GIRL
+#EXTINF:-1 tvg-id="" tvg-name="ELLE GIRL" tvg-logo="" group-title="iptvtool", ELLE GIRL
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156636
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH" tvg-logo="" group-title="iptvtool", TV BREIZH
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH" tvg-logo="" group-title="iptvtool", TV BREIZH
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156637
-#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR" tvg-logo="" group-title="iptvtool", CSTAR
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="" group-title="iptvtool", CSTAR
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156638
-#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="" group-title="iptvtool", C8
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="iptvtool", C8
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156639
-#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="" group-title="iptvtool", TFX
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="iptvtool", TFX
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156640
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIES FILMS SD" tvg-logo="" group-title="iptvtool", TF1 SERIES FILMS SD
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FILMS SD" tvg-logo="" group-title="iptvtool", TF1 SERIES FILMS SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156641
-#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER" tvg-logo="" group-title="iptvtool", 6TER
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="" group-title="iptvtool", 6TER
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156642
-#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25" tvg-logo="" group-title="iptvtool", CHERIE 25
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="" group-title="iptvtool", CHERIE 25
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156643
-#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT" tvg-logo="" group-title="iptvtool", CRIME DISTRICT
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="" group-title="iptvtool", CRIME DISTRICT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156644
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="" group-title="iptvtool", AB1
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="" group-title="iptvtool", AB1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156645
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="" group-title="iptvtool", AB3
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="" group-title="iptvtool", AB3
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156646
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+" tvg-logo="" group-title="iptvtool", PLANETE+
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+" tvg-logo="" group-title="iptvtool", PLANETE+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156647
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E" tvg-logo="" group-title="iptvtool", PLANETE+ A&E
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ A&E" tvg-logo="" group-title="iptvtool", PLANETE+ A&E
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156648
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI" tvg-logo="" group-title="iptvtool", PLANETE+ CI
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CI" tvg-logo="" group-title="iptvtool", PLANETE+ CI
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156649
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+" tvg-logo="" group-title="iptvtool", PLANETE+
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+" tvg-logo="" group-title="iptvtool", PLANETE+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156650
-#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCES & VIE" tvg-logo="" group-title="iptvtool", SCIENCES & VIE
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE" tvg-logo="" group-title="iptvtool", SCIENCES & VIE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156651
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY" tvg-logo="" group-title="iptvtool", DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="iptvtool", DISCOVERY
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156652
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE SD" tvg-logo="" group-title="iptvtool", DISCOVERY SCIENCE SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="" group-title="iptvtool", DISCOVERY SCIENCE SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156653
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY SCIENCE" tvg-logo="" group-title="iptvtool", DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="iptvtool", DISCOVERY SCIENCE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156654
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION" tvg-logo="" group-title="iptvtool", DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="" group-title="iptvtool", DISCOVERY INVESTIGATION
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156655
-#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="iptvtool", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="iptvtool", NATIONAL GEOGRAPHIC
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156656
-#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEO" tvg-logo="" group-title="iptvtool", NATIONAL GEO
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO" tvg-logo="" group-title="iptvtool", NATIONAL GEO
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156657
-#EXTINF:-1 tvg-id="" tvg-name="FR: NATIONAL GEO WILD" tvg-logo="" group-title="iptvtool", NATIONAL GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD" tvg-logo="" group-title="iptvtool", NATIONAL GEO WILD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156658
-#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO WILD" tvg-logo="" group-title="iptvtool", NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="iptvtool", NAT GEO WILD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156659
-#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="" group-title="iptvtool", ANIMAUX
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="" group-title="iptvtool", ANIMAUX
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156660
-#EXTINF:-1 tvg-id="" tvg-name="FR: Toute l\'histoire" tvg-logo="" group-title="iptvtool", Toute l\'histoire
+#EXTINF:-1 tvg-id="" tvg-name="Toute l\'histoire" tvg-logo="" group-title="iptvtool", Toute l\'histoire
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156661
-#EXTINF:-1 tvg-id="" tvg-name="FR: Toute l\'histoire" tvg-logo="" group-title="iptvtool", Toute l\'histoire
+#EXTINF:-1 tvg-id="" tvg-name="Toute l\'histoire" tvg-logo="" group-title="iptvtool", Toute l\'histoire
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156662
-#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA TV" tvg-logo="" group-title="iptvtool", USHUAIA TV
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV" tvg-logo="" group-title="iptvtool", USHUAIA TV
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156663
-#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE TV" tvg-logo="" group-title="iptvtool", VOYAGE TV
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE TV" tvg-logo="" group-title="iptvtool", VOYAGE TV
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156664
-#EXTINF:-1 tvg-id="" tvg-name="FR: SEASONS" tvg-logo="" group-title="iptvtool", SEASONS
+#EXTINF:-1 tvg-id="" tvg-name="SEASONS" tvg-logo="" group-title="iptvtool", SEASONS
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156665
-#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE" tvg-logo="" group-title="iptvtool", CHASSE ET PECHE
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE ET PECHE" tvg-logo="" group-title="iptvtool", CHASSE ET PECHE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156666
-#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE SD" tvg-logo="" group-title="iptvtool", CHASSE ET PECHE SD
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE ET PECHE SD" tvg-logo="" group-title="iptvtool", CHASSE ET PECHE SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156667
-#EXTINF:-1 tvg-id="" tvg-name="FR: WEO" tvg-logo="" group-title="iptvtool", WEO
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="" group-title="iptvtool", WEO
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156668
-#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="" group-title="iptvtool", KTO
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="" group-title="iptvtool", KTO
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156669
-#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="" group-title="iptvtool", ARTE
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="" group-title="iptvtool", ARTE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156670
-#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="" group-title="iptvtool", ARTE
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="" group-title="iptvtool", ARTE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156671
-#EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMIE" tvg-logo="" group-title="iptvtool", TOONAMIE
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMIE" tvg-logo="" group-title="iptvtool", TOONAMIE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156672
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="iptvtool", Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="iptvtool", Cartoon Network
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156673
-#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI+" tvg-logo="" group-title="iptvtool", PIWI+
+#EXTINF:-1 tvg-id="" tvg-name="PIWI+" tvg-logo="" group-title="iptvtool", PIWI+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156674
-#EXTINF:-1 tvg-id="" tvg-name="FR: TéléTOON+" tvg-logo="" group-title="iptvtool", TéléTOON+
+#EXTINF:-1 tvg-id="" tvg-name="TéléTOON+" tvg-logo="" group-title="iptvtool", TéléTOON+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156675
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network SD" tvg-logo="" group-title="iptvtool", Cartoon Network SD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="" group-title="iptvtool", Cartoon Network SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156676
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon" tvg-logo="" group-title="iptvtool", Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="iptvtool", Nickelodeon
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156677
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon Junior" tvg-logo="" group-title="iptvtool", Nickelodeon Junior
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior" tvg-logo="" group-title="iptvtool", Nickelodeon Junior
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156678
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J" tvg-logo="" group-title="iptvtool", CANAL J
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="" group-title="iptvtool", CANAL J
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156679
-#EXTINF:-1 tvg-id="" tvg-name="FR: BOING" tvg-logo="" group-title="iptvtool", BOING
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="iptvtool", BOING
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156680
-#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI SD" tvg-logo="" group-title="iptvtool", TIJI SD
+#EXTINF:-1 tvg-id="" tvg-name="TIJI SD" tvg-logo="" group-title="iptvtool", TIJI SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156681
-#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON 4TEEN FHD" tvg-logo="" group-title="iptvtool", NICKELODEON 4TEEN FHD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4TEEN FHD" tvg-logo="" group-title="iptvtool", NICKELODEON 4TEEN FHD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156682
-#EXTINF:-1 tvg-id="" tvg-name="FR: MANGAS" tvg-logo="" group-title="iptvtool", MANGAS
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS" tvg-logo="" group-title="iptvtool", MANGAS
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156683
-#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="" group-title="iptvtool", Gulli
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="iptvtool", Gulli
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156684
-#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG" tvg-logo="" group-title="iptvtool", BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="" group-title="iptvtool", BOOMERANG
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156685
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="" group-title="iptvtool", DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="iptvtool", DISNEY CHANNEL
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156686
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinéma" tvg-logo="" group-title="iptvtool", Disney Cinéma
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinéma" tvg-logo="" group-title="iptvtool", Disney Cinéma
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156687
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney CinémaGIC" tvg-logo="" group-title="iptvtool", Disney CinémaGIC
+#EXTINF:-1 tvg-id="" tvg-name="Disney CinémaGIC" tvg-logo="" group-title="iptvtool", Disney CinémaGIC
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156688
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY JUNIOR" tvg-logo="" group-title="iptvtool", DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="iptvtool", DISNEY JUNIOR
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156689
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD" tvg-logo="" group-title="iptvtool", Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="iptvtool", Disney XD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156690
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="" group-title="iptvtool", LCI
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="" group-title="iptvtool", LCI
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156691
-#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS SD" tvg-logo="" group-title="iptvtool", CNEWS SD
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS SD" tvg-logo="" group-title="iptvtool", CNEWS SD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156692
-#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="" group-title="iptvtool", EURONEWS
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="" group-title="iptvtool", EURONEWS
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156693
-#EXTINF:-1 tvg-id="" tvg-name="FR: PUBLIC SENAT" tvg-logo="" group-title="iptvtool", PUBLIC SENAT
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC SENAT" tvg-logo="" group-title="iptvtool", PUBLIC SENAT
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156694
-#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS SD*" tvg-logo="" group-title="iptvtool", CNEWS SD*
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS SD*" tvg-logo="" group-title="iptvtool", CNEWS SD*
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156695
 #EXTINF:-1 tvg-id="" tvg-name="FR:ance24" tvg-logo="" group-title="iptvtool", France24
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156696
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE EUROPE" tvg-logo="" group-title="iptvtool", TV5 MONDE EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE EUROPE" tvg-logo="" group-title="iptvtool", TV5 MONDE EUROPE
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156697
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE INFO" tvg-logo="" group-title="iptvtool", TV5 MONDE INFO
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE INFO" tvg-logo="" group-title="iptvtool", TV5 MONDE INFO
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156698
 #EXTINF:-1 tvg-id="" tvg-name="FR:ance 24 ENGLISH" tvg-logo="" group-title="iptvtool", France 24 ENGLISH
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156699
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="" group-title="iptvtool", BFM TV
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="" group-title="iptvtool", BFM TV
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156700
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+" tvg-logo="" group-title="iptvtool", CANAL+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="" group-title="iptvtool", CANAL+
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156701
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FHD" tvg-logo="" group-title="iptvtool", CANAL+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FHD" tvg-logo="" group-title="iptvtool", CANAL+ FHD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/156702
 #EXTINF:-1 tvg-id="" tvg-name="(FR)Eurosport2" tvg-logo="" group-title="iptvtool", Eurosport2
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/147269
@@ -1680,73 +1680,611 @@ http://195.181.161.111:80/NbPwiHLYxQ/Krfc9jWoHG/6149
 http://195.181.161.111:80/NbPwiHLYxQ/Krfc9jWoHG/6150
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="" group-title="NbPwiHLYxQ", Arte
 http://195.181.161.111:80/NbPwiHLYxQ/Krfc9jWoHG/6151
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTI1" tvg-logo="" group-title="F9d7CDqoRi",RTI1
+#EXTINF:-1 tvg-id="" tvg-name="RTI1" tvg-logo="" group-title="F9d7CDqoRi",RTI1
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6147
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTI 2" tvg-logo="" group-title="F9d7CDqoRi",RTI 2
+#EXTINF:-1 tvg-id="" tvg-name="RTI 2" tvg-logo="" group-title="F9d7CDqoRi",RTI 2
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6146
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV 5 Monde" tvg-logo="" group-title="F9d7CDqoRi",TV 5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde" tvg-logo="" group-title="F9d7CDqoRi",TV 5 Monde
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6225
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="" group-title="F9d7CDqoRi",TMC
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="F9d7CDqoRi",TMC
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6215
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="" group-title="F9d7CDqoRi",TF1
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="F9d7CDqoRi",TF1
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6230
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Un" tvg-logo="" group-title="F9d7CDqoRi",RTS Un
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="" group-title="F9d7CDqoRi",RTS Un
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6239
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Deux" tvg-logo="" group-title="F9d7CDqoRi",RTS Deux
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="" group-title="F9d7CDqoRi",RTS Deux
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6241
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="" group-title="F9d7CDqoRi",AB1
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="" group-title="F9d7CDqoRi",AB1
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6128
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="F9d7CDqoRi",RMC Decouverte
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte" tvg-logo="" group-title="F9d7CDqoRi",RMC Decouverte
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6125
-#EXTINF:-1 tvg-id="" tvg-name="FR: Numero 23" tvg-logo="" group-title="F9d7CDqoRi",Numero 23
+#EXTINF:-1 tvg-id="" tvg-name="Numero 23" tvg-logo="" group-title="F9d7CDqoRi",Numero 23
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6216
-#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic" tvg-logo="" group-title="F9d7CDqoRi",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="F9d7CDqoRi",National Geographic
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6153
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRj12" tvg-logo="" group-title="F9d7CDqoRi",NRj12
+#EXTINF:-1 tvg-id="" tvg-name="NRj12" tvg-logo="" group-title="F9d7CDqoRi",NRj12
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6137
-#EXTINF:-1 tvg-id="" tvg-name="FR: Leman Bleu" tvg-logo="" group-title="F9d7CDqoRi",Leman Bleu
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="" group-title="F9d7CDqoRi",Leman Bleu
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6155
-#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIPE" tvg-logo="" group-title="F9d7CDqoRi",EQUIPE
+#EXTINF:-1 tvg-id="" tvg-name="EQUIPE" tvg-logo="" group-title="F9d7CDqoRi",EQUIPE
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6234
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Tele" tvg-logo="" group-title="F9d7CDqoRi",La Tele
+#EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="" group-title="F9d7CDqoRi",La Tele
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6229
-#EXTINF:-1 tvg-id="" tvg-name="FR: L EQUIPE" tvg-logo="" group-title="F9d7CDqoRi",L EQUIPE
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE" tvg-logo="" group-title="F9d7CDqoRi",L EQUIPE
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6222
 #EXTINF:-1 tvg-id="" tvg-name="FR:1" tvg-logo="" group-title="F9d7CDqoRi",HD1
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6120
-#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="" group-title="F9d7CDqoRi",Gulli
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="F9d7CDqoRi",Gulli
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6160
-#EXTINF:-1 tvg-id="" tvg-name="FR: France O" tvg-logo="" group-title="F9d7CDqoRi",France O
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="" group-title="F9d7CDqoRi",France O
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6238
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 5" tvg-logo="" group-title="F9d7CDqoRi",France 5
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="F9d7CDqoRi",France 5
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6235
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 4" tvg-logo="" group-title="F9d7CDqoRi",France 4
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="" group-title="F9d7CDqoRi",France 4
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6236
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 3" tvg-logo="" group-title="F9d7CDqoRi",France 3
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="F9d7CDqoRi",France 3
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6237
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="F9d7CDqoRi",M6
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="F9d7CDqoRi",M6
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6224
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 2" tvg-logo="" group-title="F9d7CDqoRi",France 2
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="F9d7CDqoRi",France 2
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6240
-#EXTINF:-1 tvg-id="" tvg-name="FR: Euronews fr" tvg-logo="" group-title="F9d7CDqoRi",Euronews fr
+#EXTINF:-1 tvg-id="" tvg-name="Euronews fr" tvg-logo="" group-title="F9d7CDqoRi",Euronews fr
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6223
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="F9d7CDqoRi",Cherie 25
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="" group-title="F9d7CDqoRi",Cherie 25
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6214
-#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25" tvg-logo="" group-title="F9d7CDqoRi",CHERIE 25
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="" group-title="F9d7CDqoRi",CHERIE 25
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6122
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="F9d7CDqoRi",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="F9d7CDqoRi",Cartoon Network
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6157
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Cinema" tvg-logo="" group-title="F9d7CDqoRi",Canal+ Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="" group-title="F9d7CDqoRi",Canal+ Cinema
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6206
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J" tvg-logo="" group-title="F9d7CDqoRi",Canal J
+#EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="" group-title="F9d7CDqoRi",Canal J
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6159
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9" tvg-logo="" group-title="F9d7CDqoRi",RTL9
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="" group-title="F9d7CDqoRi",RTL9
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6227
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL FAMILY" tvg-logo="" group-title="F9d7CDqoRi",CANAL FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FAMILY" tvg-logo="" group-title="F9d7CDqoRi",CANAL FAMILY
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6209
-#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="" group-title="F9d7CDqoRi",C8
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="F9d7CDqoRi",C8
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6149
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="" group-title="F9d7CDqoRi",BFM TV
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="" group-title="F9d7CDqoRi",BFM TV
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6150
-#EXTINF:-1 tvg-id="" tvg-name="FR: Arte" tvg-logo="" group-title="F9d7CDqoRi",Arte
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="" group-title="F9d7CDqoRi",Arte
 http://195.181.161.119:80/F9d7CDqoRi/ch6anfQsWw/6151
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="kadirberisha",TF1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1159
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="kadirberisha",M6
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/985
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="kadirberisha",France 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/949
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="kadirberisha",France 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/950
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="" group-title="kadirberisha",France 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/951
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="kadirberisha",France 5
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/952
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="" group-title="kadirberisha",France O
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2163
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://iptvgjolli.com/France/6TER.png" group-title="kadirberisha",6TER
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9746
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere" tvg-logo="" group-title="kadirberisha",Paris Premiere
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2718
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="" group-title="kadirberisha",PARIS PREMIERE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/11118
+#EXTINF:-1 tvg-id="" tvg-name="1" tvg-logo="" group-title="kadirberisha",1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3027
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="" group-title="kadirberisha",NRJ12
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25879
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://iptvgjolli.com/France/ARTEHD.png" group-title="kadirberisha",Arte
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1298
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE INFO" tvg-logo="" group-title="kadirberisha",TV5 MONDE INFO
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26043
+#EXTINF:-1 tvg-id="" tvg-name="VIA MIRABELLE TV" tvg-logo="" group-title="kadirberisha",VIA MIRABELLE TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25765
+#EXTINF:-1 tvg-id="" tvg-name="KTO (France)" tvg-logo="" group-title="kadirberisha",KTO (France)
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25766
+#EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="" group-title="kadirberisha",Canal+
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1639
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="" group-title="kadirberisha",Canal+ Cinema
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1209
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinéma 1" tvg-logo="" group-title="kadirberisha",Canal+ Cinéma 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9782
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="" group-title="kadirberisha",Canal+ Decale
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1282
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="kadirberisha",CANAL+ FAMILY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1924
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="" group-title="kadirberisha",Canal+ Series
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3036
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson" tvg-logo="" group-title="kadirberisha",Cine+ Frisson
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3029
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion." tvg-logo="" group-title="kadirberisha",Cine+ Emotion.
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3031
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier" tvg-logo="" group-title="kadirberisha",Cine+ Premier
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3028
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic." tvg-logo="" group-title="kadirberisha",Cine+ Classic.
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3032
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz" tvg-logo="" group-title="kadirberisha",Cine+ Famiz
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1278
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Star." tvg-logo="" group-title="kadirberisha",Cine+ Star.
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1283
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ FX" tvg-logo="" group-title="kadirberisha",Cine+ FX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3050
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="" group-title="kadirberisha",OCS MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1291
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="" group-title="kadirberisha",OCS CHOC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2723
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="" group-title="kadirberisha",OCS CITY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1923
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="" group-title="kadirberisha",OCS GEANTS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1292
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="" group-title="kadirberisha",TCM CINEMA
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/908
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue" tvg-logo="https://iptvgjolli.com/France/13-EME-RUE.png" group-title="kadirberisha",13eme Rue
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1211
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema" tvg-logo="" group-title="kadirberisha",Disney Cinema
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1285
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="kadirberisha",Disney Channel
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1286
+#EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="https://iptvgjolli.com/France/CANAL-J-FHD.png" group-title="kadirberisha",Canal J
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1287
+#EXTINF:-1 tvg-id="" tvg-name="Piwi +" tvg-logo="" group-title="kadirberisha",Piwi +
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1289
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="" group-title="kadirberisha",Nat Geo
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1290
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="kadirberisha",TMC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1294
+#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="" group-title="kadirberisha",NT1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1296
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://iptvgjolli.com/France/ACTIONHD.png" group-title="kadirberisha",Action
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1299
+#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://iptvgjolli.com/France/ANIMAUX.png" group-title="kadirberisha",Animaux
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1300
+#EXTINF:-1 tvg-id="" tvg-name="Planete-HD" tvg-logo="" group-title="kadirberisha",Planete-HD
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2716
+#EXTINF:-1 tvg-id="" tvg-name="Planete-A-and-E-HD" tvg-logo="" group-title="kadirberisha",Planete-A-and-E-HD
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2717
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://iptvgjolli.com/italy/PARAMOUNT.png" group-title="kadirberisha",PARAMOUNT CHANNEL
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2719
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="" group-title="kadirberisha",Serie Club
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2720
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comedie" tvg-logo="" group-title="kadirberisha",Cine Comedie
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2721
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action" tvg-logo="" group-title="kadirberisha",Cine Action
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2722
+#EXTINF:-1 tvg-id="" tvg-name="National Geo Wild" tvg-logo="" group-title="kadirberisha",National Geo Wild
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3023
+#EXTINF:-1 tvg-id="" tvg-name="National Geo" tvg-logo="" group-title="kadirberisha",National Geo
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3024
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="kadirberisha",DISCOVERY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3025
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE" tvg-logo="" group-title="kadirberisha",HISTOIRE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3026
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="" group-title="kadirberisha",CHERIE 25
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3033
+#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche" tvg-logo="https://iptvgjolli.com/France/CHASSEANDPECHE.png" group-title="kadirberisha",Chasse & Peche
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3034
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="kadirberisha",MTV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3059
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="kadirberisha",Disney Junior
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3791
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="kadirberisha",Disney XD
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3792
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior" tvg-logo="" group-title="kadirberisha",Nickelodeon Junior
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3793
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="kadirberisha",Nickelodeon
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3794
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="kadirberisha",Gulli
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3795
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://iptvgjolli.com/France/BOOMERANGFHD.png" group-title="kadirberisha",Boomerang
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3796
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://iptvgjolli.com/France/BOING.png" group-title="kadirberisha",Boing
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3797
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://iptvgjolli.com/France/CARTOONNETWORK.png" group-title="kadirberisha",Cartoon Network
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3798
+#EXTINF:-1 tvg-id="" tvg-name="TeleToon+" tvg-logo="" group-title="kadirberisha",TeleToon+
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3799
+#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="" group-title="kadirberisha",Mangas
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3800
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="" group-title="kadirberisha",M6 Music
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3801
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://iptvgjolli.com/France/AB1.png" group-title="kadirberisha",AB1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3802
+#EXTINF:-1 tvg-id="" tvg-name="France 24 News" tvg-logo="" group-title="kadirberisha",France 24 News
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3803
+#EXTINF:-1 tvg-id="" tvg-name="MB Live TV" tvg-logo="" group-title="kadirberisha",MB Live TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3805
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="" group-title="kadirberisha",TIJI
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3832
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde" tvg-logo="" group-title="kadirberisha",TV 5 Monde
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3833
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS (iTele)" tvg-logo="" group-title="kadirberisha",C NEWS (iTele)
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3834
+#EXTINF:-1 tvg-id="" tvg-name="RTS LA UN" tvg-logo="" group-title="kadirberisha",RTS LA UN
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3835
+#EXTINF:-1 tvg-id="" tvg-name="RTS LA DEUX" tvg-logo="" group-title="kadirberisha",RTS LA DEUX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3836
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte" tvg-logo="" group-title="kadirberisha",RMC Decouverte
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/4633
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="kadirberisha",Syfy
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7469
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="kadirberisha",C8
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8582
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://iptvgjolli.com/France/BFMHD.png" group-title="kadirberisha",BFM TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8584
+#EXTINF:-1 tvg-id="" tvg-name="France 24 English" tvg-logo="" group-title="kadirberisha",France 24 English
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8869
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="" group-title="kadirberisha",WEO
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8872
+#EXTINF:-1 tvg-id="" tvg-name="GONG" tvg-logo="" group-title="kadirberisha",GONG
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8875
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE ET VIE" tvg-logo="" group-title="kadirberisha",SCIENCE ET VIE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9734
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://iptvgjolli.com/France/AB3.png" group-title="kadirberisha",AB3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9745
+#EXTINF:-1 tvg-id="" tvg-name="Canal Decale" tvg-logo="https://iptvgjolli.com/France/CANALDECALEHD.png" group-title="kadirberisha",Canal Decale
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9747
+#EXTINF:-1 tvg-id="" tvg-name=" Equidia Life" tvg-logo="" group-title="kadirberisha", Equidia Life
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9751
+#EXTINF:-1 tvg-id="" tvg-name="Planete A&E" tvg-logo="" group-title="kadirberisha",Planete A&E
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9752
+#EXTINF:-1 tvg-id="" tvg-name="E Entertainment" tvg-logo="" group-title="kadirberisha",E Entertainment
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9753
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="" group-title="kadirberisha",MTV HITS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/10718
+#EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="" group-title="kadirberisha",Voyage
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/10780
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="" group-title="kadirberisha",NRJ Hits
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/10966
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CINEMA" tvg-logo="https://iptvgjolli.com/France/CANALCINEMA.png" group-title="kadirberisha",CANAL CINEMA
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/11119
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://iptvgjolli.com/France/BET.png" group-title="kadirberisha",BET
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/12484
+#EXTINF:-1 tvg-id="" tvg-name="MCM" tvg-logo="" group-title="kadirberisha",MCM
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/13937
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="" group-title="kadirberisha",MCM TOP
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/13938
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="" group-title="kadirberisha",TOONAMI
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/13939
+#EXTINF:-1 tvg-id="" tvg-name="Be Black TV" tvg-logo="" group-title="kadirberisha",Be Black TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/17125
+#EXTINF:-1 tvg-id="" tvg-name="C STAR" tvg-logo="" group-title="kadirberisha",C STAR
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/19779
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="" group-title="kadirberisha",RTL9
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/22285
+#EXTINF:-1 tvg-id="" tvg-name="TREK" tvg-logo="" group-title="kadirberisha",TREK
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/22661
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="kadirberisha",Euronews
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/23648
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MontBlanc 2" tvg-logo="" group-title="kadirberisha",TV8 MontBlanc 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25748
+#EXTINF:-1 tvg-id="" tvg-name="Weo TV" tvg-logo="" group-title="kadirberisha",Weo TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25751
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeaux" tvg-logo="" group-title="kadirberisha",TV7 Bordeaux
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25756
+#EXTINF:-1 tvg-id="" tvg-name="teleGrenoble Isere" tvg-logo="" group-title="kadirberisha",teleGrenoble Isere
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25759
+#EXTINF:-1 tvg-id="" tvg-name="BIP TV (Berry Issoudun Premiere)" tvg-logo="" group-title="kadirberisha",BIP TV (Berry Issoudun Premiere)
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25761
+#EXTINF:-1 tvg-id="" tvg-name="TVR TV Rennes 35" tvg-logo="" group-title="kadirberisha",TVR TV Rennes 35
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25762
+#EXTINF:-1 tvg-id="" tvg-name="MATELE TV" tvg-logo="" group-title="kadirberisha",MATELE TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25763
+#EXTINF:-1 tvg-id="" tvg-name="tebesud TV" tvg-logo="" group-title="kadirberisha",tebesud TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25764
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="" group-title="kadirberisha",TV7 Colmar
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25769
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="kadirberisha",CGTN
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25770
+#EXTINF:-1 tvg-id="" tvg-name="FASHION MIDNITE" tvg-logo="" group-title="kadirberisha",FASHION MIDNITE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25771
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo TV [480p]" tvg-logo="" group-title="kadirberisha",Mezzo TV [480p]
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25772
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top [480p]" tvg-logo="" group-title="kadirberisha",MCM Top [480p]
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25773
+#EXTINF:-1 tvg-id="" tvg-name="GONG MAX" tvg-logo="" group-title="kadirberisha",GONG MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25774
+#EXTINF:-1 tvg-id="" tvg-name="CPAC" tvg-logo="" group-title="kadirberisha",CPAC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25775
+#EXTINF:-1 tvg-id="" tvg-name="Bblack! Caribbean" tvg-logo="https://iptvgjolli.com/France/BBLACK.png" group-title="kadirberisha",Bblack! Caribbean
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25777
+#EXTINF:-1 tvg-id="" tvg-name="Bblack! Africa" tvg-logo="https://iptvgjolli.com/France/BBLACK.png" group-title="kadirberisha",Bblack! Africa
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25778
+#EXTINF:-1 tvg-id="" tvg-name="RT France" tvg-logo="" group-title="kadirberisha",RT France
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25779
+#EXTINF:-1 tvg-id="" tvg-name="Francophonie 24" tvg-logo="" group-title="kadirberisha",Francophonie 24
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25780
+#EXTINF:-1 tvg-id="" tvg-name="Tebeo TV" tvg-logo="" group-title="kadirberisha",Tebeo TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25783
+#EXTINF:-1 tvg-id="" tvg-name="Grand Lille TV" tvg-logo="" group-title="kadirberisha",Grand Lille TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25784
+#EXTINF:-1 tvg-id="" tvg-name="via Occitanie TV" tvg-logo="" group-title="kadirberisha",via Occitanie TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25786
+#EXTINF:-1 tvg-id="" tvg-name="TVPi" tvg-logo="" group-title="kadirberisha",TVPi
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25787
+#EXTINF:-1 tvg-id="" tvg-name="ALSACE 20" tvg-logo="https://iptvgjolli.com/France/ALTICESTUDIO.png" group-title="kadirberisha",ALSACE 20
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25488
+#EXTINF:-1 tvg-id="" tvg-name="Vitrine CanalPlay Live" tvg-logo="" group-title="kadirberisha",Vitrine CanalPlay Live
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21494
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 1" tvg-logo="" group-title="kadirberisha",CANALPLAY 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21495
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 2" tvg-logo="" group-title="kadirberisha",CANALPLAY 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21496
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 3" tvg-logo="" group-title="kadirberisha",CANALPLAY 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21497
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4" tvg-logo="" group-title="kadirberisha",CANALPLAY 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21498
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5" tvg-logo="" group-title="kadirberisha",CANALPLAY 5
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21499
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 6" tvg-logo="" group-title="kadirberisha",CANALPLAY 6
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21500
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 7" tvg-logo="" group-title="kadirberisha",CANALPLAY 7
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21501
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 8" tvg-logo="" group-title="kadirberisha",CANALPLAY 8
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21502
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 9" tvg-logo="" group-title="kadirberisha",CANALPLAY 9
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21503
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 10" tvg-logo="" group-title="kadirberisha",CANALPLAY 10
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21504
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 11" tvg-logo="" group-title="kadirberisha",CANALPLAY 11
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21505
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 12" tvg-logo="" group-title="kadirberisha",CANALPLAY 12
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21506
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 13" tvg-logo="" group-title="kadirberisha",CANALPLAY 13
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21507
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 14" tvg-logo="" group-title="kadirberisha",CANALPLAY 14
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21508
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 15" tvg-logo="" group-title="kadirberisha",CANALPLAY 15
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21509
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 16" tvg-logo="" group-title="kadirberisha",CANALPLAY 16
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/21510
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 17" tvg-logo="" group-title="kadirberisha",CANALPLAY 17
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/22320
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 18" tvg-logo="" group-title="kadirberisha",CANALPLAY 18
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/22321
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 1" tvg-logo="" group-title="kadirberisha",CANALPLAY MULTIVISION 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/23012
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 2" tvg-logo="" group-title="kadirberisha",CANALPLAY MULTIVISION 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/23013
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 3" tvg-logo="" group-title="kadirberisha",CANALPLAY MULTIVISION 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/23014
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="" group-title="kadirberisha",RMC SPORT NEWS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8585
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="" group-title="kadirberisha",RMC SPORT 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7345
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="" group-title="kadirberisha",RMC SPORT 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7346
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="" group-title="kadirberisha",RMC SPORT 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7344
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="" group-title="kadirberisha",RMC SPORT 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/22467
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1" tvg-logo="https://iptvgjolli.com/France/BEINSPORT1.png" group-title="kadirberisha",beIN SPORTS 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1476
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2" tvg-logo="https://iptvgjolli.com/France/BEINSPORT2.png" group-title="kadirberisha",beIN SPORTS 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1477
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3" tvg-logo="https://iptvgjolli.com/France/BEINSPORT3.png" group-title="kadirberisha",beIN SPORTS 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1208
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 4 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9730
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 5 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7471
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 6 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7472
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 7 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/7473
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 8 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/11020
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 9 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/11021
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 MAX" tvg-logo="" group-title="kadirberisha",beIN SPORTS 10 MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/11522
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="" group-title="kadirberisha",Antenne Reunion
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26013
+#EXTINF:-1 tvg-id="" tvg-name="ILTV" tvg-logo="" group-title="kadirberisha",ILTV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26015
+#EXTINF:-1 tvg-id="" tvg-name="TVFIL78" tvg-logo="" group-title="kadirberisha",TVFIL78
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26016
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY" tvg-logo="" group-title="kadirberisha",MY COMEDY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26017
+#EXTINF:-1 tvg-id="" tvg-name="TVM3" tvg-logo="" group-title="kadirberisha",TVM3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26044
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="" group-title="kadirberisha",TF1 Series Films
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25882
+#EXTINF:-1 tvg-id="" tvg-name="IDF 1" tvg-logo="" group-title="kadirberisha",IDF 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25878
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="" group-title="kadirberisha",LCI
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25880
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="https://iptvgjolli.com/France/CANAL+SPORT.png" group-title="kadirberisha",Canal+ Sport
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1280
+#EXTINF:-1 tvg-id="" tvg-name="Foot+ 24/24" tvg-logo="" group-title="kadirberisha",Foot+ 24/24
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/1478
+#EXTINF:-1 tvg-id="" tvg-name="Canal Plus Sport" tvg-logo="" group-title="kadirberisha",Canal Plus Sport
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3037
+#EXTINF:-1 tvg-id="" tvg-name="LCP" tvg-logo="" group-title="kadirberisha",LCP
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/8583
+#EXTINF:-1 tvg-id="" tvg-name="VIA LMTV SARTHE" tvg-logo="" group-title="kadirberisha",VIA LMTV SARTHE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25747
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MontBlanc 1" tvg-logo="" group-title="kadirberisha",TV8 MontBlanc 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25749
+#EXTINF:-1 tvg-id="" tvg-name="TL7" tvg-logo="" group-title="kadirberisha",TL7
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25750
+#EXTINF:-1 tvg-id="" tvg-name="Provence Azur" tvg-logo="" group-title="kadirberisha",Provence Azur
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25752
+#EXTINF:-1 tvg-id="" tvg-name="Public Senat" tvg-logo="" group-title="kadirberisha",Public Senat
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25755
+#EXTINF:-1 tvg-id="" tvg-name="TV Vendee" tvg-logo="" group-title="kadirberisha",TV Vendee
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25758
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" group-title="kadirberisha",RTL
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25768
+#EXTINF:-1 tvg-id="" tvg-name="Via Vosges TV" tvg-logo="" group-title="kadirberisha",Via Vosges TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25782
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="" group-title="kadirberisha", TF1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25739
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1" tvg-logo="" group-title="kadirberisha", TF1 +1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25881
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="" group-title="kadirberisha", TF1 Series Films
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25737
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="kadirberisha", M6
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25741
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="" group-title="kadirberisha", M6 Music
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25742
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="" group-title="kadirberisha", FRANCE 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25743
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3" tvg-logo="" group-title="kadirberisha", FRANCE 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25744
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" tvg-logo="" group-title="kadirberisha", FRANCE 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25745
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5" tvg-logo="" group-title="kadirberisha", FRANCE 5
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25746
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="kadirberisha", C8
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25868
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="https://iptvgjolli.com/France/CANAL+.png" group-title="kadirberisha", CANAL+
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25863
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT" tvg-logo="https://iptvgjolli.com/France/CANAL+SPORT.png" group-title="kadirberisha", CANAL+ SPORT
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25858
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="" group-title="kadirberisha", RMC SPORT NEWS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25826
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT access 1" tvg-logo="" group-title="kadirberisha", RMC SPORT access 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25825
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTACESS  2" tvg-logo="" group-title="kadirberisha", RMC SPORTACESS  2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25824
+#EXTINF:-1 tvg-id="" tvg-name="FR; RMC SPORT ACESS 3" tvg-logo="https://iptvgjolli.com/italy/RADIOBRUNOTV.png" group-title="VIP-FRANCE",FR; RMC SPORT ACESS 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/9640
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCES 4" tvg-logo="" group-title="kadirberisha", RMC SPORT ACCES 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25822
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 5
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/4774
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 6" tvg-logo="" group-title="kadirberisha", RMC SPORT 6
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25817
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 7" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 7
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2417
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT8" tvg-logo="" group-title="kadirberisha", RMC SPORT8
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25818
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 9" tvg-logo="" group-title="kadirberisha", RMC SPORT 9
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25816
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 10" tvg-logo="" group-title="kadirberisha", RMC SPORT 10
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25819
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 11" tvg-logo="" group-title="kadirberisha", RMC SPORT 11
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25821
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 12" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 12
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/3720
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 13" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 13
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/4067
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 14" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 14
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/4823
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 15" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 15
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/4825
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 16" tvg-logo="" group-title="VIP-FRANCE",RMC SPORT 16
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/2419
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY" tvg-logo="" group-title="kadirberisha", RMC STORY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25865
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://iptvgjolli.com/France/BEINSPORT1.png" group-title="kadirberisha", BEIN SPORTS 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25803
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://iptvgjolli.com/France/BEINSPORT2.png" group-title="kadirberisha", BEIN SPORTS 2
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25802
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://iptvgjolli.com/France/BEINSPORT3.png" group-title="kadirberisha", BEIN SPORTS 3
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25801
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 4" tvg-logo="https://iptvgjolli.com/France/BEINMAX4.png" group-title="kadirberisha", BEIN MAX 4
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25800
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 5" tvg-logo="https://iptvgjolli.com/France/BEINMAX5.png" group-title="kadirberisha", BEIN MAX 5
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25799
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 6" tvg-logo="https://iptvgjolli.com/France/BEINMAX6.png" group-title="kadirberisha", BEIN MAX 6
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25798
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 7" tvg-logo="https://iptvgjolli.com/France/BEINMAX7.png" group-title="kadirberisha", BEIN MAX 7
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25797
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 8" tvg-logo="https://iptvgjolli.com/France/BEINMAX8.png" group-title="kadirberisha", BEIN MAX 8
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25796
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 9" tvg-logo="https://iptvgjolli.com/France/BEINMAX9.png" group-title="kadirberisha", BEIN MAX 9
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25795
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="kadirberisha", COMEDY CENTRAL
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25827
+#EXTINF:-1 tvg-id="" tvg-name="VICELAND" tvg-logo="" group-title="kadirberisha", VICELAND
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25828
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="" group-title="kadirberisha", PARIS PREMIERE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25830
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="" group-title="kadirberisha", SERIE CLUB
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25831
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://iptvgjolli.com/France/AB1.png" group-title="kadirberisha", AB1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25832
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="" group-title="kadirberisha", RTL9
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25833
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="https://iptvgjolli.com/France/13-EME-RUE.png" group-title="kadirberisha", 13EME RUE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25835
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="kadirberisha", SYFY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25837
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+ " tvg-logo="" group-title="kadirberisha", COMEDIE+ 
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25838
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV" tvg-logo="" group-title="kadirberisha", CLIQUE TV
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25839
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="" group-title="kadirberisha", TCM CINEMA
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25840
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="https://iptvgjolli.com/France/ACTIONHD.png" group-title="kadirberisha", ACTION
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25841
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE" tvg-logo="" group-title="kadirberisha", PARAMOUNT DECALE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25842
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="" group-title="kadirberisha", CRIME DISTRICT
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25845
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT" tvg-logo="" group-title="kadirberisha", OCS GEANT
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25848
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="" group-title="kadirberisha", OCS CHOC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25849
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="" group-title="kadirberisha", OCS CITY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25850
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="" group-title="kadirberisha", OCS MAX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25851
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC" tvg-logo="" group-title="kadirberisha", CINE+ CLASSIC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25852
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLUB" tvg-logo="" group-title="kadirberisha", CINE+ CLUB
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25853
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ" tvg-logo="" group-title="kadirberisha", CINE+ FAMIZ
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25854
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION" tvg-logo="" group-title="kadirberisha", CINE+ EMOTION
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25855
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FRISSON" tvg-logo="" group-title="kadirberisha", CINE+ FRISSON
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25856
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIER" tvg-logo="" group-title="kadirberisha", CINE+ PREMIER
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25857
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES" tvg-logo="" group-title="kadirberisha", CANAL+ SERIES
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25859
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="kadirberisha", CANAL+ FAMILY
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25860
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+  DECALE" tvg-logo="" group-title="kadirberisha", CANAL+  DECALE
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25861
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="" group-title="kadirberisha", CHERIE 25
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25864
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="kadirberisha", TMC
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25866
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="https://iptvgjolli.com/France/C-STAR.png" group-title="kadirberisha", CSTAR
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25867
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="kadirberisha", TFX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25869
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="" group-title="kadirberisha", NRJ12
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25870
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://iptvgjolli.com/France/6TER.png" group-title="kadirberisha", 6TER
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25873
+#EXTINF:-1 tvg-id="" tvg-name="M6 Boutique" tvg-logo="" group-title="kadirberisha", M6 Boutique
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25874
+#EXTINF:-1 tvg-id="" tvg-name="M6 Clips" tvg-logo="" group-title="kadirberisha", M6 Clips
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25875
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="kadirberisha", TFX
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25883
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="" group-title="kadirberisha", EURONEWS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25952
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://iptvgjolli.com/France/BOOMERANGFHD.png" group-title="kadirberisha", Boomerang
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26425
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="VIP-FRANCE",DISNEY CINEMA
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/29970
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel +1" tvg-logo="" group-title="kadirberisha", Disney Channel +1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26409
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="" group-title="kadirberisha", RFM
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26410
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family" tvg-logo="" group-title="kadirberisha", Discovery Family
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26412
+#EXTINF:-1 tvg-id="" tvg-name="Warner Bros" tvg-logo="" group-title="kadirberisha", Warner Bros
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26413
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="kadirberisha", Eurosport 1
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26423
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS" tvg-logo="" group-title="kadirberisha", CNEWS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/26421
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA" tvg-logo="https://iptvgjolli.com/France/BRAVAHD.png" group-title="kadirberisha", BRAVA
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/25953
+#EXTINF:-1 tvg-id="" tvg-name="SEASONS" tvg-logo="" group-title="VIP-FRANCE",SEASONS
+http://client.ksporttv.com:1557/kadirberisha/1jE2t6d4SE/29971
