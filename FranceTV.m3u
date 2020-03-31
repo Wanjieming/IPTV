@@ -1,5 +1,52 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-ID="" tvg-name="FR: W9" tvg-logo="http://img.miptv.ws/fr/w9.png" group-title="srvbr",FR: W9
+http://a.srvbr.me:8880/227885/227885/5733
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER" tvg-logo="http://img.miptv.ws/fr/6ter.png" group-title="srvbr",FR: 6TER
+http://a.srvbr.me:8880/227885/227885/5755
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB MOTEURS" tvg-logo="http://img.miptv.ws/fr/abmoteurs.png" group-title="srvbr",FR: AB MOTEURS
+http://a.srvbr.me:8880/227885/227885/5753
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1" tvg-logo="http://img.miptv.ws/fr/ab1.png" group-title="srvbr",FR: AB1
+http://a.srvbr.me:8880/227885/227885/5754
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ARTE" tvg-logo="http://img.miptv.ws/fr/arte.png" group-title="srvbr",FR: ARTE
+http://a.srvbr.me:8880/227885/227885/5752
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL 8" tvg-logo="http://img.miptv.ws/fr/canal8.png" group-title="srvbr",FR: CANAL 8
+http://a.srvbr.me:8880/227885/227885/5748
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FX" tvg-logo="http://img.miptv.ws/fr/cinefx.png" group-title="srvbr",FR: CINE FX
+http://a.srvbr.me:8880/227885/227885/5751
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE POLAR" tvg-logo="http://img.miptv.ws/fr/cinepolar.png" group-title="srvbr",FR: CINE POLAR
+http://a.srvbr.me:8880/227885/227885/5750
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CSTAR" tvg-logo="http://img.miptv.ws/fr/cstar.png" group-title="srvbr",FR: CSTAR
+http://a.srvbr.me:8880/227885/227885/5749
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE O" tvg-logo="http://img.miptv.ws/fr/franceo.png" group-title="srvbr",FR: FRANCE O
+http://a.srvbr.me:8880/227885/227885/5743
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 2" tvg-logo="http://img.miptv.ws/fr/france2.png" group-title="srvbr",FR: FRANCE 2
+http://a.srvbr.me:8880/227885/227885/5747
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 24" tvg-logo="http://img.miptv.ws/fr/france24.png" group-title="srvbr",FR: FRANCE 24
+http://a.srvbr.me:8880/227885/227885/5742
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 3" tvg-logo="http://img.miptv.ws/fr/france3.png" group-title="srvbr",FR: FRANCE 3
+http://a.srvbr.me:8880/227885/227885/5746
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 4" tvg-logo="http://img.miptv.ws/fr/france4.png" group-title="srvbr",FR: FRANCE 4
+http://a.srvbr.me:8880/227885/227885/5745
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 5" tvg-logo="http://img.miptv.ws/fr/france5.png" group-title="srvbr",FR: FRANCE 5
+http://a.srvbr.me:8880/227885/227885/5744
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L EQUIPE 21" tvg-logo="http://img.miptv.ws/fr/lequipe.png" group-title="srvbr",FR: L EQUIPE 21
+http://a.srvbr.me:8880/227885/227885/5740
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6" tvg-logo="http://img.miptv.ws/fr/m6.png" group-title="srvbr",FR: M6
+http://a.srvbr.me:8880/227885/227885/5739
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NRJ12" tvg-logo="http://img.miptv.ws/fr/nrj12.png" group-title="srvbr",FR: NRJ12
+http://a.srvbr.me:8880/227885/227885/5738
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NT1 (TFX)" tvg-logo="http://img.miptv.ws/fr/nt1.png" group-title="srvbr",FR: NT1 (TFX)
+http://a.srvbr.me:8880/227885/227885/5737
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL9" tvg-logo="http://img.miptv.ws/fr/rtl9.png" group-title="srvbr",FR: RTL9
+http://a.srvbr.me:8880/227885/227885/5736
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1" tvg-logo="http://img.miptv.ws/fr/tf1.png" group-title="srvbr",FR: TF1
+http://a.srvbr.me:8880/227885/227885/5735
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 SERIES FILMS" tvg-logo="http://img.miptv.ws/fr/tf1sf.png" group-title="srvbr",FR: TF1 SERIES FILMS
+http://a.srvbr.me:8880/227885/227885/5741
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TMC" tvg-logo="http://img.miptv.ws/fr/tmc.png" group-title="srvbr",FR: TMC
+http://a.srvbr.me:8880/227885/227885/5734
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 MONDE" tvg-logo="http://img.miptv.ws/fr/tv5monde.png" group-title="srvbr",FR: TV5 MONDE
+http://a.srvbr.me:8880/227885/227885/5732
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Versailles",France 2
 http://84.22.33.254/unicast.france2/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France3.fr.png" group-title="Versailles",France 3
