@@ -1,4 +1,390 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="BEINSPORT 1" tvg-logo="[" group-title="bestv",BEINSPORT 1
+http://bestv.nl:8080/collin/collin/14901
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="BEINSPORT 2" tvg-logo="[""]" group-title="bestv",BEINSPORT 2
+http://bestv.nl:8080/collin/collin/14902
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="BEINSPORT 3" tvg-logo="[""]" group-title="bestv",BEINSPORT 3
+http://bestv.nl:8080/collin/collin/14903
+#EXTINF:-1 tvg-ID="BeInSportMax4.fr" tvg-name="BEINSPORT MAX 4" tvg-logo="" group-title="bestv",BEINSPORT MAX 4
+http://bestv.nl:8080/collin/collin/23106
+#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="BEINSPORT MAX 5" tvg-logo="" group-title="bestv",BEINSPORT MAX 5
+http://bestv.nl:8080/collin/collin/23142
+#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="BEINSPORT MAX 6" tvg-logo="" group-title="bestv",BEINSPORT MAX 6
+http://bestv.nl:8080/collin/collin/23141
+#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="BEINSPORT MAX 7" tvg-logo="" group-title="bestv",BEINSPORT MAX 7
+http://bestv.nl:8080/collin/collin/23140
+#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="BEINSPORT MAX 8" tvg-logo="" group-title="bestv",BEINSPORT MAX 8
+http://bestv.nl:8080/collin/collin/23139
+#EXTINF:-1 tvg-ID="BeInSportMax9.fr" tvg-name="BEINSPORT MAX 9" tvg-logo="" group-title="bestv",BEINSPORT MAX 9
+http://bestv.nl:8080/collin/collin/23138
+#EXTINF:-1 tvg-ID="BeInSportMax10.fr" tvg-name="BEINSPORT MAX 10" tvg-logo="" group-title="bestv",BEINSPORT MAX 10
+http://bestv.nl:8080/collin/collin/23137
+#EXTINF:-1 tvg-ID="RMC Sport 1 FR" tvg-name="RMC SPORT UHD 4K" tvg-logo="" group-title="bestv",RMC SPORT UHD 4K
+http://bestv.nl:8080/collin/collin/29093
+#EXTINF:-1 tvg-ID="RMCSportNews.fr" tvg-name="RMC SPORT News " tvg-logo="[" group-title="bestv",RMC SPORT News 
+http://bestv.nl:8080/collin/collin/19424
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 1 " tvg-logo="" group-title="bestv",RMC SPORT 1 
+http://bestv.nl:8080/collin/collin/23126
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="RMC SPORT 1 " tvg-logo="" group-title="bestv",RMC SPORT 1 
+http://bestv.nl:8080/collin/collin/7285
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="RMC SPORT 2 " tvg-logo="" group-title="bestv",RMC SPORT 2 
+http://bestv.nl:8080/collin/collin/23125
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="RMC SPORT 2 " tvg-logo="[""]" group-title="bestv",RMC SPORT 2 
+http://bestv.nl:8080/collin/collin/7286
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="RMC SPORT 3 " tvg-logo="[""]" group-title="bestv",RMC SPORT 3 
+http://bestv.nl:8080/collin/collin/23124
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="RMC SPORT 3 " tvg-logo="[" group-title="bestv",RMC SPORT 3 
+http://bestv.nl:8080/collin/collin/7427
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="RMC SPORT 4 " tvg-logo="" group-title="bestv",RMC SPORT 4 
+http://bestv.nl:8080/collin/collin/23123
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="RMC SPORT 4 " tvg-logo="[" group-title="bestv",RMC SPORT 4 
+http://bestv.nl:8080/collin/collin/7504
+#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="RMC SPORT Accees 1 " tvg-logo="[""]" group-title="bestv",RMC SPORT Accees 1 
+http://bestv.nl:8080/collin/collin/19425
+#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="RMC SPORT Accees 2 " tvg-logo="[""]" group-title="bestv",RMC SPORT Accees 2 
+http://bestv.nl:8080/collin/collin/23795
+#EXTINF:-1 tvg-ID="RMCSportAccess3.fr" tvg-name="RMC SPORT Accees 3 " tvg-logo="[""]" group-title="bestv",RMC SPORT Accees 3 
+http://bestv.nl:8080/collin/collin/23794
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 5  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 5  Live
+http://bestv.nl:8080/collin/collin/19366
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RMC Sport 6  Live" tvg-logo="[" group-title="bestv",RMC Sport 6  Live
+http://bestv.nl:8080/collin/collin/19365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="RMC Sport 7  Live" tvg-logo="[" group-title="bestv",RMC Sport 7  Live
+http://bestv.nl:8080/collin/collin/19364
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 8  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 8  Live
+http://bestv.nl:8080/collin/collin/19363
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 9  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 9  Live
+http://bestv.nl:8080/collin/collin/19362
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 10  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 10  Live
+http://bestv.nl:8080/collin/collin/19361
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 11  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 11  Live
+http://bestv.nl:8080/collin/collin/19360
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 12  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 12  Live
+http://bestv.nl:8080/collin/collin/19359
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 13  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 13  Live
+http://bestv.nl:8080/collin/collin/20383
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sport 14  Live" tvg-logo="[""]" group-title="bestv",RMC Sport 14  Live
+http://bestv.nl:8080/collin/collin/20384
+#EXTINF:-1 tvg-ID="NULL" tvg-name="MB Live 4K" tvg-logo="" group-title="bestv",MB Live 4K
+http://bestv.nl:8080/collin/collin/27953
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 UHD 4K" tvg-logo="" group-title="bestv",TF1 UHD 4K
+http://bestv.nl:8080/collin/collin/29091
+#EXTINF:-1 tvg-ID="" tvg-name="13eme Rue " tvg-logo="" group-title="bestv",13eme Rue 
+http://bestv.nl:8080/collin/collin/23177
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6ter " tvg-logo="[""]" group-title="bestv",6ter 
+http://bestv.nl:8080/collin/collin/20473
+#EXTINF:-1 tvg-ID="Aplus International FR" tvg-name="A+ " tvg-logo="" group-title="bestv",A+ 
+http://bestv.nl:8080/collin/collin/16095
+#EXTINF:-1 tvg-ID="AB1  FR" tvg-name="AB1 " tvg-logo="" group-title="bestv",AB1 
+http://bestv.nl:8080/collin/collin/20463
+#EXTINF:-1 tvg-ID="ab3.be" tvg-name="AB3 " tvg-logo="[""]" group-title="bestv",AB3 
+http://bestv.nl:8080/collin/collin/20462
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AB_EXPLORE " tvg-logo="" group-title="bestv",AB_EXPLORE 
+http://bestv.nl:8080/collin/collin/23134
+#EXTINF:-1 tvg-ID="" tvg-name="Action " tvg-logo="[""]" group-title="bestv",Action 
+http://bestv.nl:8080/collin/collin/20474
+#EXTINF:-1 tvg-ID="Altice Studio FR" tvg-name="Altice Studio " tvg-logo="[""]" group-title="bestv",Altice Studio 
+http://bestv.nl:8080/collin/collin/18643
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX " tvg-logo="[""]" group-title="bestv",ANIMAUX 
+http://bestv.nl:8080/collin/collin/20447
+#EXTINF:-1 tvg-ID="" tvg-name="Arte " tvg-logo="[""]" group-title="bestv",Arte 
+http://bestv.nl:8080/collin/collin/20461
+#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="BE Curious " tvg-logo="" group-title="bestv",BE Curious 
+http://bestv.nl:8080/collin/collin/16096
+#EXTINF:-1 tvg-ID="BET  FR" tvg-name="BET* " tvg-logo="[""]" group-title="bestv",BET* 
+http://bestv.nl:8080/collin/collin/18638
+#EXTINF:-1 tvg-ID="" tvg-name="Boing " tvg-logo="" group-title="bestv",Boing 
+http://bestv.nl:8080/collin/collin/23160
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang " tvg-logo="" group-title="bestv",Boomerang 
+http://bestv.nl:8080/collin/collin/20450
+#EXTINF:-1 tvg-ID="" tvg-name="BRAVA " tvg-logo="" group-title="bestv",BRAVA 
+http://bestv.nl:8080/collin/collin/23131
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="C Star " tvg-logo="[""]" group-title="bestv",C Star 
+http://bestv.nl:8080/collin/collin/20471
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="C8 " tvg-logo="" group-title="bestv",C8 
+http://bestv.nl:8080/collin/collin/20472
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CANAL  CINEMA " tvg-logo="" group-title="bestv",CANAL  CINEMA 
+http://bestv.nl:8080/collin/collin/23173
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CANAL  DECALE " tvg-logo="" group-title="bestv",CANAL  DECALE 
+http://bestv.nl:8080/collin/collin/23172
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CANAL  Family " tvg-logo="" group-title="bestv",CANAL  Family 
+http://bestv.nl:8080/collin/collin/23171
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="CANAL+ " tvg-logo="[" group-title="bestv",CANAL+ 
+http://bestv.nl:8080/collin/collin/20470
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CANAL  SERIES_FHD" tvg-logo="" group-title="bestv",CANAL  SERIES_FHD
+http://bestv.nl:8080/collin/collin/23169
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT " tvg-logo="[" group-title="bestv",CANAL+ SPORT 
+http://bestv.nl:8080/collin/collin/20469
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL ALPHA JU " tvg-logo="" group-title="bestv",CANAL ALPHA JU 
+http://bestv.nl:8080/collin/collin/23170
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J " tvg-logo="" group-title="bestv",CANAL J 
+http://bestv.nl:8080/collin/collin/23161
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network " tvg-logo="[""]" group-title="bestv",Cartoon Network 
+http://bestv.nl:8080/collin/collin/20452
+#EXTINF:-1 tvg-ID="" tvg-name="Cherie 25 " tvg-logo="[""]" group-title="bestv",Cherie 25 
+http://bestv.nl:8080/collin/collin/20448
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="Cine+ Premier " tvg-logo="[""]" group-title="bestv",Cine+ Premier 
+http://bestv.nl:8080/collin/collin/20468
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Classic " tvg-logo="" group-title="bestv",Cine Classic 
+http://bestv.nl:8080/collin/collin/23163
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Club " tvg-logo="" group-title="bestv",Cine Club 
+http://bestv.nl:8080/collin/collin/23164
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Emotion " tvg-logo="" group-title="bestv",Cine Emotion 
+http://bestv.nl:8080/collin/collin/23165
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Famiz " tvg-logo="" group-title="bestv",Cine Famiz 
+http://bestv.nl:8080/collin/collin/23166
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Frisson " tvg-logo="" group-title="bestv",Cine Frisson 
+http://bestv.nl:8080/collin/collin/23167
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Cine POLAR " tvg-logo="" group-title="bestv",Cine POLAR 
+http://bestv.nl:8080/collin/collin/23168
+#EXTINF:-1 tvg-ID="" tvg-name="Comedie  " tvg-logo="[""]" group-title="bestv",Comedie  
+http://bestv.nl:8080/collin/collin/20459
+#EXTINF:-1 tvg-ID="" tvg-name="Crime District " tvg-logo="[""]" group-title="bestv",Crime District 
+http://bestv.nl:8080/collin/collin/23157
+#EXTINF:-1 tvg-ID="NULL" tvg-name="CSTAR Hite France " tvg-logo="" group-title="bestv",CSTAR Hite France 
+http://bestv.nl:8080/collin/collin/23174
+#EXTINF:-1 tvg-ID="NULL" tvg-name="D24 " tvg-logo="" group-title="bestv",D24 
+http://bestv.nl:8080/collin/collin/18656
+#EXTINF:-1 tvg-ID="DiscoveryFamily.fr" tvg-name="Discovery Family " tvg-logo="[""]" group-title="bestv",Discovery Family 
+http://bestv.nl:8080/collin/collin/16098
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY " tvg-logo="" group-title="bestv",DISCOVERY 
+http://bestv.nl:8080/collin/collin/23148
+#EXTINF:-1 tvg-ID="Discovery Investigation FR" tvg-name="Discovery ID " tvg-logo="[""]" group-title="bestv",Discovery ID 
+http://bestv.nl:8080/collin/collin/18639
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science " tvg-logo="[""]" group-title="bestv",Discovery Science 
+http://bestv.nl:8080/collin/collin/23147
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel " tvg-logo="[""]" group-title="bestv",Disney Channel 
+http://bestv.nl:8080/collin/collin/20457
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinema " tvg-logo="[""]" group-title="bestv",Disney Cinema 
+http://bestv.nl:8080/collin/collin/20451
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR " tvg-logo="" group-title="bestv",DISNEY JUNIOR 
+http://bestv.nl:8080/collin/collin/23158
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD " tvg-logo="" group-title="bestv",Disney XD 
+http://bestv.nl:8080/collin/collin/23162
+#EXTINF:-1 tvg-ID="" tvg-name="ELLE GIRL " tvg-logo="" group-title="bestv",ELLE GIRL 
+http://bestv.nl:8080/collin/collin/23151
+#EXTINF:-1 tvg-ID="ES1.fr" tvg-name="ES1 " tvg-logo="" group-title="bestv",ES1 
+http://bestv.nl:8080/collin/collin/18662
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA LIVE " tvg-logo="" group-title="bestv",EQUIDIA LIVE 
+http://bestv.nl:8080/collin/collin/20437
+#EXTINF:-1 tvg-ID="NULL" tvg-name="FASHION " tvg-logo="" group-title="bestv",FASHION 
+http://bestv.nl:8080/collin/collin/18649
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="France 2 " tvg-logo="[""]" group-title="bestv",France 2 
+http://bestv.nl:8080/collin/collin/20483
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="France 3 " tvg-logo="" group-title="bestv",France 3 
+http://bestv.nl:8080/collin/collin/20482
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="France 4 " tvg-logo="" group-title="bestv",France 4 
+http://bestv.nl:8080/collin/collin/20481
+#EXTINF:-1 tvg-ID="" tvg-name="France 5 " tvg-logo="" group-title="bestv",France 5 
+http://bestv.nl:8080/collin/collin/20480
+#EXTINF:-1 tvg-ID="FranceO.fr" tvg-name="France O " tvg-logo="[""]" group-title="bestv",France O 
+http://bestv.nl:8080/collin/collin/20479
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE " tvg-logo="" group-title="bestv",GAME ONE 
+http://bestv.nl:8080/collin/collin/23153
+#EXTINF:-1 tvg-ID="" tvg-name="GENERATIONS TV " tvg-logo="" group-title="bestv",GENERATIONS TV 
+http://bestv.nl:8080/collin/collin/23130
+#EXTINF:-1 tvg-ID="" tvg-name="Golf Channel " tvg-logo="" group-title="bestv",Golf Channel 
+http://bestv.nl:8080/collin/collin/23145
+#EXTINF:-1 tvg-ID="" tvg-name="Gulli " tvg-logo="" group-title="bestv",Gulli 
+http://bestv.nl:8080/collin/collin/23152
+#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT  " tvg-logo="[""]" group-title="bestv",INFOSPORT  
+http://bestv.nl:8080/collin/collin/20433
+#EXTINF:-1 tvg-ID="" tvg-name="J-ONE " tvg-logo="" group-title="bestv",J-ONE 
+http://bestv.nl:8080/collin/collin/20449
+#EXTINF:-1 tvg-ID="" tvg-name="LEMAN BLEU " tvg-logo="" group-title="bestv",LEMAN BLEU 
+http://bestv.nl:8080/collin/collin/23128
+#EXTINF:-1 tvg-ID="NULL" tvg-name="LUXE " tvg-logo="" group-title="bestv",LUXE 
+http://bestv.nl:8080/collin/collin/16100
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="M6 " tvg-logo="" group-title="bestv",M6 
+http://bestv.nl:8080/collin/collin/20478
+#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="Manga " tvg-logo="" group-title="bestv",Manga 
+http://bestv.nl:8080/collin/collin/20453
+#EXTINF:-1 tvg-ID="" tvg-name="MULTISPORTS 1HD" tvg-logo="" group-title="bestv",MULTISPORTS 1HD
+http://bestv.nl:8080/collin/collin/18657
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO LIVE " tvg-logo="" group-title="bestv",MEZZO LIVE 
+http://bestv.nl:8080/collin/collin/23143
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT TV " tvg-logo="" group-title="bestv",MOTORSPORT TV 
+http://bestv.nl:8080/collin/collin/23136
+#EXTINF:-1 tvg-ID="" tvg-name="MOUV TV " tvg-logo="" group-title="bestv",MOUV TV 
+http://bestv.nl:8080/collin/collin/23132
+#EXTINF:-1 tvg-ID="" tvg-name="MTV France " tvg-logo="[""]" group-title="bestv",MTV France 
+http://bestv.nl:8080/collin/collin/20460
+#EXTINF:-1 tvg-ID="My Cuisine FR" tvg-name="MY Cuisine " tvg-logo="[""]" group-title="bestv",MY Cuisine 
+http://bestv.nl:8080/collin/collin/16102
+#EXTINF:-1 tvg-ID="" tvg-name="MY ZEN " tvg-logo="" group-title="bestv",MY ZEN 
+http://bestv.nl:8080/collin/collin/16101
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONA GEO " tvg-logo="[""]" group-title="bestv",NATIONA GEO 
+http://bestv.nl:8080/collin/collin/20441
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO WILD " tvg-logo="" group-title="bestv",NATIONAL GEO WILD 
+http://bestv.nl:8080/collin/collin/23150
+#EXTINF:-1 tvg-ID="" tvg-name="Nautical Channel " tvg-logo="" group-title="bestv",Nautical Channel 
+http://bestv.nl:8080/collin/collin/23129
+#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="NOVELAS " tvg-logo="[""]" group-title="bestv",NOVELAS 
+http://bestv.nl:8080/collin/collin/18663
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ_12 " tvg-logo="" group-title="bestv",NRJ_12 
+http://bestv.nl:8080/collin/collin/20434
+#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="OCS CHOC " tvg-logo="[""]" group-title="bestv",OCS CHOC 
+http://bestv.nl:8080/collin/collin/20464
+#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="OCS City " tvg-logo="[""]" group-title="bestv",OCS City 
+http://bestv.nl:8080/collin/collin/20465
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT " tvg-logo="[""]" group-title="bestv",OCS GEANT 
+http://bestv.nl:8080/collin/collin/20466
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Max " tvg-logo="[""]" group-title="bestv",OCS Max 
+http://bestv.nl:8080/collin/collin/20467
+#EXTINF:-1 tvg-ID="" tvg-name="OL TV " tvg-logo="" group-title="bestv",OL TV 
+http://bestv.nl:8080/collin/collin/23135
+#EXTINF:-1 tvg-ID="" tvg-name="One TV " tvg-logo="" group-title="bestv",One TV 
+http://bestv.nl:8080/collin/collin/23159
+#EXTINF:-1 tvg-ID="" tvg-name="OUATCH " tvg-logo="" group-title="bestv",OUATCH 
+http://bestv.nl:8080/collin/collin/18658
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL " tvg-logo="" group-title="bestv",PARAMOUNT CHANNEL 
+http://bestv.nl:8080/collin/collin/23149
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE " tvg-logo="[""]" group-title="bestv",PARIS PREMIERE 
+http://bestv.nl:8080/collin/collin/20439
+#EXTINF:-1 tvg-ID="" tvg-name="Piwi " tvg-logo="" group-title="bestv",Piwi 
+http://bestv.nl:8080/collin/collin/23154
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE  A&E " tvg-logo="[""]" group-title="bestv",PLANETE  A&E 
+http://bestv.nl:8080/collin/collin/20442
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE  CI " tvg-logo="" group-title="bestv",PLANETE  CI 
+http://bestv.nl:8080/collin/collin/20443
+#EXTINF:-1 tvg-ID="" tvg-name="Planete  " tvg-logo="[""]" group-title="bestv",Planete  
+http://bestv.nl:8080/collin/collin/20444
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Decouvert " tvg-logo="" group-title="bestv",RMC Decouvert 
+http://bestv.nl:8080/collin/collin/20445
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Story " tvg-logo="[""]" group-title="bestv",RMC_Story 
+http://bestv.nl:8080/collin/collin/20436
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="RTL9 " tvg-logo="[""]" group-title="bestv",RTL9 
+http://bestv.nl:8080/collin/collin/20476
+#EXTINF:-1 tvg-ID="" tvg-name="Science et Vie " tvg-logo="[""]" group-title="bestv",Science et Vie 
+http://bestv.nl:8080/collin/collin/20438
+#EXTINF:-1 tvg-ID="NULL" tvg-name="SEASON " tvg-logo="" group-title="bestv",SEASON 
+http://bestv.nl:8080/collin/collin/20440
+#EXTINF:-1 tvg-ID="" tvg-name="SERIE CLUB " tvg-logo="[""]" group-title="bestv",SERIE CLUB 
+http://bestv.nl:8080/collin/collin/20454
+#EXTINF:-1 tvg-ID="NULL" tvg-name="SUNDANCE " tvg-logo="" group-title="bestv",SUNDANCE 
+http://bestv.nl:8080/collin/collin/23127
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy " tvg-logo="" group-title="bestv",Syfy 
+http://bestv.nl:8080/collin/collin/23175
+#EXTINF:-1 tvg-ID="" tvg-name="TCM Cinema " tvg-logo="" group-title="bestv",TCM Cinema 
+http://bestv.nl:8080/collin/collin/23156
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="TEVA " tvg-logo="" group-title="bestv",TEVA 
+http://bestv.nl:8080/collin/collin/20475
+#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="TF1 " tvg-logo="" group-title="bestv",TF1 
+http://bestv.nl:8080/collin/collin/11372
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 SERIES FILMS " tvg-logo="" group-title="bestv",TF1 SERIES FILMS 
+http://bestv.nl:8080/collin/collin/23178
+#EXTINF:-1 tvg-ID="" tvg-name="TFX " tvg-logo="" group-title="bestv",TFX 
+http://bestv.nl:8080/collin/collin/23144
+#EXTINF:-1 tvg-ID="" tvg-name="TIJI " tvg-logo="" group-title="bestv",TIJI 
+http://bestv.nl:8080/collin/collin/23155
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="TMC " tvg-logo="" group-title="bestv",TMC 
+http://bestv.nl:8080/collin/collin/20455
+#EXTINF:-1 tvg-ID="Toonami FR" tvg-name="Toonami " tvg-logo="" group-title="bestv",Toonami 
+http://bestv.nl:8080/collin/collin/16105
+#EXTINF:-1 tvg-ID="TraceSport.fr" tvg-name="Trace Sport Stars " tvg-logo="" group-title="bestv",Trace Sport Stars 
+http://bestv.nl:8080/collin/collin/16104
+#EXTINF:-1 tvg-ID="" tvg-name="TREK " tvg-logo="" group-title="bestv",TREK 
+http://bestv.nl:8080/collin/collin/23176
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE " tvg-logo="" group-title="bestv",TV5 MONDE 
+http://bestv.nl:8080/collin/collin/23146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="TVBREIZH " tvg-logo="" group-title="bestv",TVBREIZH 
+http://bestv.nl:8080/collin/collin/20446
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="Ushuaia TV " tvg-logo="" group-title="bestv",Ushuaia TV 
+http://bestv.nl:8080/collin/collin/20458
+#EXTINF:-1 tvg-ID="" tvg-name="VAR AZUR " tvg-logo="" group-title="bestv",VAR AZUR 
+http://bestv.nl:8080/collin/collin/23133
+#EXTINF:-1 tvg-ID="Viceland FR" tvg-name="VICELAND " tvg-logo="[""]" group-title="bestv",VICELAND 
+http://bestv.nl:8080/collin/collin/16103
+#EXTINF:-1 tvg-ID="Voyage.fr" tvg-name="Voyage " tvg-logo="[""]" group-title="bestv",Voyage 
+http://bestv.nl:8080/collin/collin/20456
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="W9 " tvg-logo="" group-title="bestv",W9 
+http://bestv.nl:8080/collin/collin/20477
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="WARNER " tvg-logo="[" group-title="bestv",WARNER 
+http://bestv.nl:8080/collin/collin/18644
+#EXTINF:-1 tvg-ID="" tvg-name="Vitrine CanalPlay Live" tvg-logo="" group-title="bestv",Vitrine CanalPlay Live
+http://bestv.nl:8080/collin/collin/35100
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 1" tvg-logo="" group-title="bestv",CANALPLAY 1
+http://bestv.nl:8080/collin/collin/35101
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 2" tvg-logo="" group-title="bestv",CANALPLAY 2
+http://bestv.nl:8080/collin/collin/35102
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 3" tvg-logo="" group-title="bestv",CANALPLAY 3
+http://bestv.nl:8080/collin/collin/35103
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 4" tvg-logo="" group-title="bestv",CANALPLAY 4
+http://bestv.nl:8080/collin/collin/35104
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 5" tvg-logo="" group-title="bestv",CANALPLAY 5
+http://bestv.nl:8080/collin/collin/35105
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 6" tvg-logo="" group-title="bestv",CANALPLAY 6
+http://bestv.nl:8080/collin/collin/35106
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 7" tvg-logo="" group-title="bestv",CANALPLAY 7
+http://bestv.nl:8080/collin/collin/35107
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 8 " tvg-logo="" group-title="bestv",CANALPLAY 8 
+http://bestv.nl:8080/collin/collin/35108
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 9" tvg-logo="" group-title="bestv",CANALPLAY 9
+http://bestv.nl:8080/collin/collin/35109
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 10" tvg-logo="" group-title="bestv",CANALPLAY 10
+http://bestv.nl:8080/collin/collin/35110
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 11" tvg-logo="" group-title="bestv",CANALPLAY 11
+http://bestv.nl:8080/collin/collin/35111
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 12" tvg-logo="" group-title="bestv",CANALPLAY 12
+http://bestv.nl:8080/collin/collin/35112
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 13" tvg-logo="" group-title="bestv",CANALPLAY 13
+http://bestv.nl:8080/collin/collin/35113
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 14" tvg-logo="" group-title="bestv",CANALPLAY 14
+http://bestv.nl:8080/collin/collin/35114
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 15 " tvg-logo="" group-title="bestv",CANALPLAY 15 
+http://bestv.nl:8080/collin/collin/35115
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 16" tvg-logo="" group-title="bestv",CANALPLAY 16
+http://bestv.nl:8080/collin/collin/35116
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 17 " tvg-logo="" group-title="bestv",CANALPLAY 17 
+http://bestv.nl:8080/collin/collin/35117
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 18 " tvg-logo="" group-title="bestv",CANALPLAY 18 
+http://bestv.nl:8080/collin/collin/35118
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY MULTIVISION 1 " tvg-logo="" group-title="bestv",CANALPLAY MULTIVISION 1 
+http://bestv.nl:8080/collin/collin/35119
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY MULTIVISION 2 " tvg-logo="" group-title="bestv",CANALPLAY MULTIVISION 2 
+http://bestv.nl:8080/collin/collin/35120
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY MULTIVISION 3 " tvg-logo="" group-title="bestv",CANALPLAY MULTIVISION 3 
+http://bestv.nl:8080/collin/collin/35121
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 1 " tvg-logo="" group-title="bestv",Movies 1 
+http://bestv.nl:8080/collin/collin/28888
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 2 " tvg-logo="" group-title="bestv",Movies 2 
+http://bestv.nl:8080/collin/collin/28887
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 3 " tvg-logo="" group-title="bestv",Movies 3 
+http://bestv.nl:8080/collin/collin/28886
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 4 " tvg-logo="" group-title="bestv",Movies 4 
+http://bestv.nl:8080/collin/collin/28885
+#EXTINF:-1 tvg-ID="" tvg-name="Movies 5 " tvg-logo="" group-title="bestv",Movies 5 
+http://bestv.nl:8080/collin/collin/28884
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Go Cinema 1 " tvg-logo="" group-title="bestv",OCS Go Cinema 1 
+http://bestv.nl:8080/collin/collin/28883
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Go Cinema 2 " tvg-logo="" group-title="bestv",OCS Go Cinema 2 
+http://bestv.nl:8080/collin/collin/28882
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Go Cinema 3 " tvg-logo="" group-title="bestv",OCS Go Cinema 3 
+http://bestv.nl:8080/collin/collin/28881
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Go Cinema 4 " tvg-logo="" group-title="bestv",OCS Go Cinema 4 
+http://bestv.nl:8080/collin/collin/28880
+#EXTINF:-1 tvg-ID="" tvg-name="OCS Go Cinema 5 " tvg-logo="" group-title="bestv",OCS Go Cinema 5 
+http://bestv.nl:8080/collin/collin/28879
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 1 " tvg-logo="" group-title="bestv",Orange Cinema 1 
+http://bestv.nl:8080/collin/collin/28878
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 2 " tvg-logo="" group-title="bestv",Orange Cinema 2 
+http://bestv.nl:8080/collin/collin/28877
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 3 " tvg-logo="" group-title="bestv",Orange Cinema 3 
+http://bestv.nl:8080/collin/collin/28876
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 4 " tvg-logo="" group-title="bestv",Orange Cinema 4 
+http://bestv.nl:8080/collin/collin/28875
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 5 " tvg-logo="" group-title="bestv",Orange Cinema 5 
+http://bestv.nl:8080/collin/collin/28874
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema 6 " tvg-logo="" group-title="bestv",Orange Cinema 6 
+http://bestv.nl:8080/collin/collin/28873
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema Action " tvg-logo="" group-title="bestv",Orange Cinema Action 
+http://bestv.nl:8080/collin/collin/28872
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema Aventure " tvg-logo="" group-title="bestv",Orange Cinema Aventure 
+http://bestv.nl:8080/collin/collin/28871
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema CEst Fait " tvg-logo="" group-title="bestv",Orange Cinema CEst Fait 
+http://bestv.nl:8080/collin/collin/28870
+#EXTINF:-1 tvg-ID="" tvg-name="Orange Cinema " tvg-logo="" group-title="bestv",Orange Cinema 
+http://bestv.nl:8080/collin/collin/28869
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://f.iptv-pure.com/tf1.png" group-title="kouetche",TF1 FHD
 http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13847
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="kouetche",TF1 HD
