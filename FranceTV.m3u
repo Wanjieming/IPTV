@@ -1,4 +1,1659 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://f.iptv-pure.com/tf1.png" group-title="kouetche",TF1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13847
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="kouetche",TF1 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13917
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="|FR| TF1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="kouetche",TF1 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13817
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="kouetche",FRANCE 2 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13739
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="kouetche",FRANCE 2 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13916
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="|FR| FRANCE 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/100px-France_2_2018.svg.png" group-title="kouetche",FRANCE 2 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1007
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="kouetche",FRANCE 3 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13738
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="kouetche",FRANCE 3 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13915
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="|FR| FRANCE 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/100px-France_3_2018.svg.png" group-title="kouetche",FRANCE 3 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1008
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="kouetche",FRANCE 4 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13737
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="kouetche",FRANCE 4 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13914
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="|FR| FRANCE 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/100px-France_4_2018.svg.png" group-title="kouetche",FRANCE 4 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1009
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="kouetche",FRANCE 5 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13736
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="kouetche",FRANCE 5 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13913
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="|FR| FRANCE 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/100px-France_5_2018.svg.png" group-title="kouetche",FRANCE 5 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1013
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="|FR| FRANCE Ô HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="kouetche",FRANCE Ô HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13735
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="|FR| FRANCE Ô SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="kouetche",FRANCE Ô SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1021
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/m6.png" group-title="kouetche",M6 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13726
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/m6.png" group-title="kouetche",M6 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14003
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="|FR| M6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/M6_2009.svg/150px-M6_2009.svg.png" group-title="kouetche",M6 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/90
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="kouetche",PARIS PREMIERE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13824
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="kouetche",PARIS PREMIERE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13993
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="|FR| PARIS PREMIERE SD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="kouetche",PARIS PREMIERE SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1030
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tmc.png" group-title="kouetche",TMC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13696
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tmc.png" group-title="kouetche",TMC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13979
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="|FR| TMC SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tmc.png" group-title="kouetche",TMC SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1014
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="kouetche",TV BREIZH HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13693
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="kouetche",TV BREIZH FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13975
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="|FR| TV BREIZH SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tvbreizh.png" group-title="kouetche",TV BREIZH SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1032
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="kouetche",6TER FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13793
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="kouetche",6TER HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14046
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| 6TER SD" tvg-logo="http://logo.premium-ott.com:8000/logo/6ter.png" group-title="kouetche",6TER SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1024
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="kouetche",ARTE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13788
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="kouetche",ARTE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14043
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| ARTE SD" tvg-logo="http://logo.premium-ott.com:8000/logo/arte.png" group-title="kouetche",ARTE SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/426
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •----• CINEMA FRANCE •----• |FR|" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="kouetche",•----• CINEMA FRANCE •----• |FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24927
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="|FR| CANAL + FHD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="kouetche",CANAL + FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14157
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="kouetche",CANAL+ HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14167
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="|FR| CANAL + SD" tvg-logo="http://f.iptv-pure.com/canal+.png" group-title="kouetche",CANAL + SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28345
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="|FR| CANAL + DECALE FHD" tvg-logo="http://x.iptv-pure.com/canalplusdecale.png" group-title="kouetche",CANAL + DECALE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13768
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="|FR| CANAL + DECALE HD" tvg-logo="http://x.iptv-pure.com/canalplusdecale.png" group-title="kouetche",CANAL + DECALE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14035
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="|FR| CANAL + DECALE SD" tvg-logo="http://x.iptv-pure.com/canalplusdecale.png" group-title="kouetche",CANAL + DECALE SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28346
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="|FR| CANAL + FAMILY FHD" tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="kouetche",CANAL + FAMILY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13767
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANAL + FAMILY HD" tvg-logo="" group-title="kouetche",CANAL + FAMILY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/61011
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="|FR| CANAL + FAMILY SD" tvg-logo="http://x.iptv-pure.com/canalplusfamily.png" group-title="kouetche",CANAL + FAMILY SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14033
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL + CINEMA FHD" tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="kouetche",CANAL + CINEMA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13769
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL + CINEMA HD" tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="kouetche",CANAL + CINEMA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28942
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="|FR| CANAL + CINEMA SD" tvg-logo="http://x.iptv-pure.com/canalpluscinema.png" group-title="kouetche",CANAL + CINEMA SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28347
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="|FR| OCS MAX FHD" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="kouetche",OCS MAX FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13825
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="kouetche",OCS MAX HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13996
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="|FR| OCS MAX SD" tvg-logo="http://f.iptv-pure.com/ocsmax.png" group-title="kouetche",OCS MAX SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/38198
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="|FR| OCS GEANTS FHD" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="kouetche",OCS GEANTS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13833
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="|FR| OCS GEANTS HD" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="kouetche",OCS GEANTS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13846
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="|FR| OCS GEANT SD" tvg-logo="http://f.iptv-pure.com/ocsgeants.png" group-title="kouetche",OCS GEANT SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/38199
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="|FR| OCS CITY FHD" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="kouetche",OCS CITY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13827
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="kouetche",OCS CITY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13994
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="|FR| OCS CITY SD" tvg-logo="http://f.iptv-pure.com/ocscity.png" group-title="kouetche",OCS CITY SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/38200
+#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="|FR| OCS CHOC FHD" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="kouetche",OCS CHOC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13834
+#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="kouetche",OCS CHOC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13995
+#EXTINF:-1 tvg-ID="OCS CHOC" tvg-name="|FR| OCS CHOC SD" tvg-logo="http://f.iptv-pure.com/ocschoc.png" group-title="kouetche",OCS CHOC SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/38201
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER FHD" tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="kouetche",CINE+ PREMIER FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13759
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER HD" tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="kouetche",CINE+ PREMIER HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14021
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="|FR| CINE+ PREMIER SD" tvg-logo="http://x.iptv-pure.com/cinepluspremier.png" group-title="kouetche",CINE+ PREMIER SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28332
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON FHD" tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="kouetche",CINE+ FRISSON FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13754
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="kouetche",CINE+ FRISSON HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14023
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="|FR| CINE+ FRISSON SD" tvg-logo="http://x.iptv-pure.com/cineplusfrisson.png" group-title="kouetche",CINE+ FRISSON SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28331
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="|FR| CINE+ FAMIZ FHD" tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="kouetche",CINE+ FAMIZ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13755
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="|FR| CINE+ FAMIZ HD" tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="kouetche",CINE+ FAMIZ HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13941
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="|FR| CINE+ FAMIZ SD" tvg-logo="http://x.iptv-pure.com/cineplusfamiz.png" group-title="kouetche",CINE+ FAMIZ SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28329
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION FHD" tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="kouetche",CINE+ EMOTION FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13756
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="kouetche",CINE+ EMOTION HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14024
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="|FR| CINE+ EMOTION SD" tvg-logo="http://x.iptv-pure.com/cineplusemotion.png" group-title="kouetche",CINE+ EMOTION SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28330
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB FHD " tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="kouetche",CINE+ CLUB FHD 
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/47556
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="kouetche",CINE+ CLUB HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14025
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="|FR| CINE+ CLUB SD" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="kouetche",CINE+ CLUB SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28328
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="|FR| ACTION FHD" tvg-logo="http://f.iptv-pure.com/action.png" group-title="kouetche",ACTION FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13790
+#EXTINF:-1 tvg-ID="ACTION" tvg-name="|FR| ACTION HD" tvg-logo="http://f.iptv-pure.com/action.png" group-title="kouetche",ACTION HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14045
+#EXTINF:-1 tvg-ID="ACTION" tvg-name="|FR| ACTION SD" tvg-logo="http://f.iptv-pure.com/action.png" group-title="kouetche",ACTION SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28334
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| WARNER TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="kouetche",WARNER TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13784
+#EXTINF:-1 tvg-ID="TF1" tvg-name="|FR| POLAR+  FHD" tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="kouetche",POLAR+  FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13763
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| POLAR+ HD" tvg-logo="http://f.iptv-pure.com/polarplus.png" group-title="kouetche",POLAR+ HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25041
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA FHD" tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="kouetche",TCM CINEMA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13697
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA HD" tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="kouetche",TCM CINEMA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13980
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="|FR| TCM CINEMA SD" tvg-logo="http://x.iptv-pure.com/tcm.png" group-title="kouetche",TCM CINEMA SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28337
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC FHD" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="kouetche",CINE+ CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13758
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="kouetche",CINE+ CLASSIC HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14026
+#EXTINF:-1 tvg-ID="TF1" tvg-name="|FR| CINE+ CLASSIC SD" tvg-logo="http://f.iptv-pure.com/cineplusclassic.png" group-title="kouetche",CINE+ CLASSIC SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28327
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="|FR| ALTICE STUDIO FHD" tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="kouetche",ALTICE STUDIO FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13787
+#EXTINF:-1 tvg-ID="AlticeStudio.fr" tvg-name="|FR| ALTICE STUDIO HD" tvg-logo="http://f.iptv-pure.com/alticestudios.png" group-title="kouetche",ALTICE STUDIO HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28413
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="kouetche",PARAMOUNT CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13713
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="kouetche",PARAMOUNT CHANNEL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13911
+#EXTINF:-1 tvg-ID="PARAMOUNT CHANNEL" tvg-name="|FR| PARAMOUNT CHANNEL SD" tvg-logo="http://logo.premium-ott.com:8000/logo/paramount.png" group-title="kouetche",PARAMOUNT CHANNEL SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28340
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| PARAMOUNT DECALE FHD" tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="kouetche",PARAMOUNT DECALE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13829
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| PARAMOUNT DECALE HD" tvg-logo="http://x.iptv-pure.com/paramountdecale.png" group-title="kouetche",PARAMOUNT DECALE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28339
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 1 " tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 1 
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13970
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 2 " tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 2 
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13962
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 3 " tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 3 
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13961
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 4" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 4
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13960
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 5" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 5
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13959
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 6" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 6
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13958
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 7" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 7
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13957
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 8" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 8
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13956
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 9" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 9
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13955
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 10" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 10
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13969
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 11" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 11
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13968
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 12" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 12
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13967
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 13" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 13
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13966
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 14" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 14
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13965
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 15" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 15
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13964
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CANALPLAY 16" tvg-logo="https://www.zeguigui.com/weblog/uploads/canal-play.png" group-title="kouetche",CANALPLAY 16
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13963
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •----• ORANGE CINE •----• |FR|" tvg-logo="" group-title="kouetche",•----• ORANGE CINE •----• |FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24928
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE (Série: The Witcher 24/7)" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE (Série: The Witcher 24/7)
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13926
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 1" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 1
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13925
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 2" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13924
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 3" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 3
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13923
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 4" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 4
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13922
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 5" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 5
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13921
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 6" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 6
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13920
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 7" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 7
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13919
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ORANGE CINE 8" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="kouetche",ORANGE CINE 8
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13918
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 1" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 1
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13949
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 2" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13947
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 3" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 3
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13946
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 4" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 4
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13945
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 5" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 5
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13954
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 6" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 6
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13953
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 7" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 7
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13952
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 8" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 8
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13951
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 9" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 9
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13950
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ALACARTE 10" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="kouetche",ALACARTE 10
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13948
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •------• SPORT FRANCE •------• |FR|  " tvg-logo="" group-title="kouetche",•------• SPORT FRANCE •------• |FR|  
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24929
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name="|FR| RMC SPORT NEWS FHD" tvg-logo="https://www.n9ws.com/images/upload/rmcsport-040718101703.png" group-title="kouetche",RMC SPORT NEWS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/35031
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="kouetche",RMC SPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32713
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="kouetche",RMC SPORT 1 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32718
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="|FR| RMC SPORT 1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="kouetche",RMC SPORT 1 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/39589
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="kouetche",RMC SPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32714
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="kouetche",RMC SPORT 2HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32719
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="|FR| RMC SPORT 2 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport2.png" group-title="kouetche",RMC SPORT 2 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/39588
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="kouetche",RMC SPORT 3 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32715
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="kouetche",RMC SPORT 3 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32720
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="|FR| RMC SPORT 3 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport3.png" group-title="kouetche",RMC SPORT 3 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/39587
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="|FR| RMC SPORT 4 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="kouetche",RMC SPORT 4 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32716
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="kouetche",RMC SPORT 4 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32721
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RMC SPORT 4K" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport4.png" group-title="kouetche",RMC SPORT 4K
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37942
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive5.png" group-title="kouetche",RMC SPORT LIVE 5 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/32717
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive6.png" group-title="kouetche",RMC SPORT LIVE 6 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37941
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive7.png" group-title="kouetche",RMC SPORT LIVE 7 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37940
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive8.png" group-title="kouetche",RMC SPORT LIVE 8 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37939
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive9.png" group-title="kouetche",RMC SPORT LIVE 9 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37938
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive10.png" group-title="kouetche",RMC SPORT LIVE 10 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37937
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive11.png" group-title="kouetche",RMC SPORT LIVE 11 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37936
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsportlive12.png" group-title="kouetche",RMC SPORT LIVE 12 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37935
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 FHD" tvg-logo="" group-title="kouetche",RMC SPORT LIVE 13 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37934
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 FHD" tvg-logo="" group-title="kouetche",RMC SPORT LIVE 14 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37933
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="|FR| RMC SPORT LIVE 15 FHD" tvg-logo="" group-title="kouetche",RMC SPORT LIVE 15 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/37932
+#EXTINF:-1 tvg-ID="rmcsportlive16.fr" tvg-name="|FR| RMC SPORT LIVE 16 FHD" tvg-logo="" group-title="kouetche",RMC SPORT LIVE 16 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/35340
+#EXTINF:-1 tvg-ID="BEIN SPORTS 1" tvg-name="|FR| BEIN SPORTS 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="kouetche",BEIN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14160
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="kouetche",BEIN SPORTS 1 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28941
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="|FR| BEIN SPORTS 1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="kouetche",BEIN SPORTS 1 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/92
+#EXTINF:-1 tvg-ID="BEIN SPORTS 2" tvg-name="|FR| BEIN SPORTS 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="kouetche",BEIN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14159
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="" group-title="kouetche",BEIN SPORTS 2 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28943
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="|FR| BEIN SPORTS 2 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports2.png" group-title="kouetche",BEIN SPORTS 2 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/93
+#EXTINF:-1 tvg-ID="BEIN SPORTS 3" tvg-name="|FR| BEIN SPORTS 3 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="kouetche",BEIN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14158
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="kouetche",BEIN SPORTS 3 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14163
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="|FR| BEIN SPORTS 3 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports3.png" group-title="kouetche",BEIN SPORTS 3 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/94
+#EXTINF:-1 tvg-ID="beIN SPORTS MAX 4 FR" tvg-name="|FR| BEIN SPORTS MAX 4" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax4.png" group-title="kouetche",BEIN SPORTS MAX 4
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/95
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BEIN SPORTS MAX 5" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax5.png" group-title="kouetche",BEIN SPORTS MAX 5
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/39882
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="|FR| BEIN SPORTS MAX 6" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax6.png" group-title="kouetche",BEIN SPORTS MAX 6
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1089
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="|FR| BEIN SPORTS MAX 7" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax7.png" group-title="kouetche",BEIN SPORTS MAX 7
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1113
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="|FR| BEIN SPORTS MAX 8" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax8.png" group-title="kouetche",BEIN SPORTS MAX 8
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1468
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="|FR| BEIN SPORTS MAX 9" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax9.png" group-title="kouetche",BEIN SPORTS MAX 9
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1469
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="|FR| BEIN SPORTS MAX 10" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax10.png" group-title="kouetche",BEIN SPORTS MAX 10
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1470
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="|FR| CANAL+ SPORT FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="kouetche",CANAL+ SPORT FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14156
+#EXTINF:-1 tvg-ID="CANALPlus Sport FR" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalplussport.png" group-title="kouetche",CANAL+ SPORT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14161
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="|FR| FOOT+ 24/24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/140px-Foot%2B_2011.svg.png" group-title="kouetche",FOOT+ 24/24 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13937
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="|FR| FOOT+ 24/24 SD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_CanalSatFoot_fr.jpg" group-title="kouetche",FOOT+ 24/24 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/425
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="|FR| CANAL+ SPORT SD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_CanalSatFoot_fr.jpg" group-title="kouetche",CANAL+ SPORT SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13936
+#EXTINF:-1 tvg-ID="multisports1.fr" tvg-name="|FR| MULTISPORTS 1" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="kouetche",MULTISPORTS 1
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13807
+#EXTINF:-1 tvg-ID="multisports2.fr" tvg-name="|FR| MULTISPORTS 2" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="kouetche",MULTISPORTS 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13802
+#EXTINF:-1 tvg-ID="multisports3.fr" tvg-name="|FR| MULTISPORTS 3" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="kouetche",MULTISPORTS 3
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13806
+#EXTINF:-1 tvg-ID="multisports4.fr" tvg-name="|FR| MULTISPORTS 4" tvg-logo="https://en.kingofsat.net/jpg/multisports-hd.jpg" group-title="kouetche",MULTISPORTS 4
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13805
+#EXTINF:-1 tvg-ID="multisports5.fr" tvg-name="|FR| MULTISPORTS 5" tvg-logo="http://logo.premium-ott.com:8000/logo/multisports5.png" group-title="kouetche",MULTISPORTS 5
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13804
+#EXTINF:-1 tvg-ID="multisports6.fr" tvg-name="|FR| MULTISPORTS 6" tvg-logo="http://logo.premium-ott.com:8000/logo/multisports6.png" group-title="kouetche",MULTISPORTS 6
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13803
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NBA TV" tvg-logo="http://logo.premium-ott.com:8000/logo/nbatv.png" group-title="kouetche",NBA TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/46216
+#EXTINF:-1 tvg-ID="FootPlus 2424 FR" tvg-name="|FR| FOOT+ 24/24 HD" tvg-logo="http://www.prensario.net/Multimedios/imgs/2004_468.jpg?v=9" group-title="kouetche",FOOT+ 24/24 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13797
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="|FR| BFM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Logo_BFMTV_2017.svg" group-title="kouetche",BFM HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13839
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="|FR| INFOSPORT FHD" tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="kouetche",INFOSPORT FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13729
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| LEQUIPE 21 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="kouetche",LEQUIPE 21 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13728
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="|FR| EQUIPE 21 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="kouetche",EQUIPE 21 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1023
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="|FR| OL TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/oltv.png" group-title="kouetche",OL TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13842
+#EXTINF:-1 tvg-ID="extreme.fr" tvg-name="|FR| EXTREME SPORTS" tvg-logo="http://logo.premium-ott.com:8000/logo/extremesports.png" group-title="kouetche",EXTREME SPORTS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13740
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| AUTOMOTO  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/abmoteurs.png" group-title="kouetche",AUTOMOTO  HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1035
+#EXTINF:-1 tvg-ID="motorstv.fr" tvg-name="|FR| MOTORSPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Motorsport.tv_Logo.png/280px-Motorsport.tv_Logo.png" group-title="kouetche",MOTORSPORT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13782
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="|FR| MOTORSPORT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Motorsport.tv_Logo.jpg/200px-Motorsport.tv_Logo.jpg" group-title="kouetche",MOTORSPORT FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13722
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="kouetche",EUROSPORT 1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13742
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="kouetche",EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14011
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="kouetche",EUROSPORT 2 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13741
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport2.png" group-title="kouetche",EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14010
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="|FR| l'equipe 21 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/lequipe21.png" group-title="kouetche",l'equipe 21 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13743
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="|FR| EQUIDIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/Equidia_Live_2011.gif" group-title="kouetche",EQUIDIA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14012
+#EXTINF:-1 tvg-ID="FranceO.fr" tvg-name="|FR| FRANCE Ô FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/100px-France_%C3%94_2018.svg.png" group-title="kouetche",FRANCE Ô FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/89
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="|FR| LUCKY JACK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/93/Lucky_Jack.tv_logo.png" group-title="kouetche",LUCKY JACK HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/42548
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •------• SPORT GOLF •------• |FR|" tvg-logo="" group-title="kouetche",•------• SPORT GOLF •------• |FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24930
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Golf%2B.svg/150px-Golf%2B.svg.png" group-title="kouetche",GOLF+ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13734
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Logo_Golf_Channel_2014.png/200px-Logo_Golf_Channel_2014.png" group-title="kouetche",GOLF CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13689
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="|FR| GOLF CHANNELS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/150px-Golf_Channel_Logo.png" group-title="kouetche",GOLF CHANNELS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13977
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •------• DIVERTISSEMENT •------• |FR|  " tvg-logo="" group-title="kouetche",•------• DIVERTISSEMENT •------• |FR|  
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24931
+#EXTINF:-1 tvg-ID="SerieClub.fr" tvg-name="|FR| SERIE CLUB FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/160px-Serieclub_%282012%29.svg.png" group-title="kouetche",SERIE CLUB FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13830
+#EXTINF:-1 tvg-ID="SerieClub.fr" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://f.iptv-pure.com/cineplusclub.png" group-title="kouetche",SERIE CLUB HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13986
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL+ SERIES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="kouetche",CANAL+ SERIES FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13766
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="|FR| CANAL + SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/808px-Canal%2B_S%C3%A9ries.svg.png" group-title="kouetche",CANAL + SERIES HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28944
+#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="kouetche",13EME RUE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13794
+#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="|FR| 13EME RUE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/13emerue.png" group-title="kouetche",13EME RUE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14048
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="kouetche",SYFY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13981
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="|FR| SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/200px-SYFY.svg.png" group-title="kouetche",SYFY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13698
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="|FR| SUNDANCE TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/250px-SundanceTV.svg.png" group-title="kouetche",SUNDANCE TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13733
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="|FR| SUNDANCE CHANNEL SD" tvg-logo="http://logo.premium-ott.com:8000/logo/sundancechannel.png" group-title="kouetche",SUNDANCE CHANNEL SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28338
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="http://logo.premium-ott.com:8000/logo/teva.png" group-title="kouetche",TEVA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/35331
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/T%C3%A9va_2014.svg/100px-T%C3%A9va_2014.svg.png" group-title="kouetche",TEVA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25039
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="|FR| TEVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/T%C3%A9va_2014.svg/100px-T%C3%A9va_2014.svg.png" group-title="kouetche",TEVA SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1031
+#EXTINF:-1 tvg-ID="COMEDIE+" tvg-name="|FR| COMEDIE+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Com%C3%A9die%2B_%282011%29.svg/120px-Com%C3%A9die%2B_%282011%29.svg.png" group-title="kouetche",COMEDIE+ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13751
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="|FR| COMEDIE  HD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_Comedie_fr.jpg" group-title="kouetche",COMEDIE  HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14019
+#EXTINF:-1 tvg-ID="MY Cuisine" tvg-name="|FR| MY CUISINE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mycuisine.png" group-title="kouetche",MY CUISINE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13781
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! ENTERTAINMENT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="kouetche",E! ENTERTAINMENT FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13746
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="|FR| E! ENTERTAINEMENT HD" tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Entertainment-Logo-1024x768.png" group-title="kouetche",E! ENTERTAINEMENT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14015
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name="|FR| NO STOP PEOPLE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_Non_Stop_People.svg/200px-Logo_Non_Stop_People.svg.png" group-title="kouetche",NO STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13780
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name="|FR| NON STOP PEOPLE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nonstoppeople.png" group-title="kouetche",NON STOP PEOPLE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13928
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| IL TV" tvg-logo="" group-title="kouetche",IL TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13934
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="kouetche",NRJ12 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13717
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="kouetche",NRJ12 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14047
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="|FR| NRJ12 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/nrj12.png" group-title="kouetche",NRJ12 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1019
+#EXTINF:-1 tvg-ID="ellegirl.fr" tvg-name="|FR| ELLE GIRL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/EGTV.jpg/280px-EGTV.jpg" group-title="kouetche",ELLE GIRL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13745
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| ELLE GIRL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/EGTV.jpg/280px-EGTV.jpg" group-title="kouetche",ELLE GIRL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14014
+#EXTINF:-1 tvg-ID="TF1" tvg-name="|FR| BET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png" group-title="kouetche",BET FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13841
+#EXTINF:-1 tvg-ID="Viceland" tvg-name="|FR| VICELAND FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Viceland_Logo.png/200px-Viceland_Logo.png" group-title="kouetche",VICELAND FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13772
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="|FR| TV 5 MONDE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/220px-TV5MONDE_logo.png" group-title="kouetche",TV 5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25042
+#EXTINF:-1 tvg-ID="TV5MONDEMaghreb-Orient.fr" tvg-name="|FR| TV 5 monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/220px-TV5MONDE_logo.png" group-title="kouetche",TV 5 monde
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1033
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="kouetche",CHERIE 25 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13760
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="kouetche",CHERIE 25 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14028
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="|FR| CHERIE 25 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="kouetche",CHERIE 25 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1027
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 +1 fhd" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1plus.png" group-title="kouetche",TF1 +1 fhd
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13732
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="|FR| TF1 SÉRIES FILMS SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1seriesfilms.png" group-title="kouetche",TF1 SÉRIES FILMS SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1022
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="kouetche",C8 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13823
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="kouetche",C8 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14036
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="|FR| C8 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/d8.png" group-title="kouetche",C8 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/188
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/200px-CStar_vector.svg.png" group-title="kouetche",CSTAR FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13749
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DIRECT8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Direct8-2010.svg/180px-Direct8-2010.svg.png" group-title="kouetche",DIRECT8
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1091
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="|FR| CSTAR HD" tvg-logo="http://logo.premium-ott.com:8000/logo/d17.png" group-title="kouetche",CSTAR HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13940
+#EXTINF:-1 tvg-ID="AzurTV.fr" tvg-name="|FR| AZUR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Azur_TV_logo_2013.png/150px-Azur_TV_logo_2013.png" group-title="kouetche",AZUR TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25043
+#EXTINF:-1 tvg-ID="Wéo" tvg-name="|FR| WEO FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/weo.png" group-title="kouetche",WEO FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13795
+#EXTINF:-1 tvg-ID="Weo TV FR" tvg-name="|FR| WEO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/weo.png" group-title="kouetche",WEO HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25045
+#EXTINF:-1 tvg-ID="tv8montblanc.fr" tvg-name="|FR| TV8 MONT BLANC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/8_Mont-Blanc_logo_2013.png/150px-8_Mont-Blanc_logo_2013.png" group-title="kouetche",TV8 MONT BLANC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13796
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="kouetche",RTL9 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13707
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="kouetche",RTL9 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13989
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="|FR| RTL9 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rtl9.png" group-title="kouetche",RTL9 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1029
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| A+  FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/aplus.png" group-title="kouetche",A+  FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13695
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="kouetche",RMC STORY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13715
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="kouetche",RMC STORY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13997
+#EXTINF:-1 tvg-ID="Numero23.fr" tvg-name="|FR| RMC STORY   SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="kouetche",RMC STORY   SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1025
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="kouetche",TFX FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13716
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="kouetche",TFX HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13998
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="|FR| TFX SD" tvg-logo="http://logo.premium-ott.com:8000/logo/tfx.png" group-title="kouetche",TFX SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1015
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="kouetche",W9 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13690
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="kouetche",W9 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13973
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="|FR| W9 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/w9.png" group-title="kouetche",W9 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/421
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LUXE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Luxe_TV_Logo.svg/200px-Luxe_TV_Logo.svg.png" group-title="kouetche",LUXE TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1054
+#EXTINF:-1 tvg-ID="alsace20.fr" tvg-name="|FR| ALSACE 20" tvg-logo="http://logo.premium-ott.com:8000/logo/alsace20.png" group-title="kouetche",ALSACE 20
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25048
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| VOSGES" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logovosgesmatin.jpg/280px-Logovosgesmatin.jpg" group-title="kouetche",VOSGES
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1102
+#EXTINF:-1 tvg-ID="m6boutique.fr" tvg-name="|FR| M6 BOUTIQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9f/M6_Boutique_logo_2016.png" group-title="kouetche",M6 BOUTIQUE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1097
+#EXTINF:-1 tvg-ID="fashiontv.fr" tvg-name="|FR| FASHION TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png" group-title="kouetche",FASHION TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1064
+#EXTINF:-1 tvg-ID="Gong FR" tvg-name="|FR| GONG" tvg-logo="http://logo.premium-ott.com:8000/logo//logo/gong.png" group-title="kouetche",GONG
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24936
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •------• DOCUMENTAIRE •------• |FR|" tvg-logo="" group-title="kouetche",•------• DOCUMENTAIRE •------• |FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24961
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/120px-PlanetePlus_2011.svg.png" group-title="kouetche",PLANETE+ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13712
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="|FR| PLANETE+  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplus.png" group-title="kouetche",PLANETE+  HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13991
+#EXTINF:-1 tvg-ID="Planète+ CI" tvg-name="|FR| PLANETE+ CI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="kouetche",PLANETE+ CI FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13710
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="|FR| PLANETE+  CI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusci.png" group-title="kouetche",PLANETE+  CI HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13992
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="|FR| PLANETE+ A&E FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusaande.png" group-title="kouetche",PLANETE+ A&E FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13711
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| PLANETE+  A&E HD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplusaande.png" group-title="kouetche",PLANETE+  A&E HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13971
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="kouetche",DISCOVERY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13748
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="|FR| DISCOVERY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discovery.png" group-title="kouetche",DISCOVERY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14017
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="|FR| DISCOVERY SCIENCE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="kouetche",DISCOVERY SCIENCE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13747
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="|FR| DISCOVERY SCIENCE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryscience.png" group-title="kouetche",DISCOVERY SCIENCE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14016
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="|FR| DISCOVERY INVESTIGATION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="kouetche",DISCOVERY INVESTIGATION FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13836
+#EXTINF:-1 tvg-ID="Discovery Investigation FR" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/150px-Logo_id.png" group-title="kouetche",DISCOVERY INVESTIGATION HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13828
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISCOVERY FAMILY FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="kouetche",DISCOVERY FAMILY FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13811
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="http://logo.premium-ott.com:8000/logo/discoveryfamily.png" group-title="kouetche",DISCOVERY FAMILY HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25047
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="|FR| NATIONAL GEO WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="kouetche",NATIONAL GEO WILD FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13719
+#EXTINF:-1 tvg-ID="Nat Geo Wild FR" tvg-name="|FR| NATIONAL GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/250px-Logo_Nat_Geo_Wild.svg.png" group-title="kouetche",NATIONAL GEO WILD HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14000
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| NATIONAL GEO FHD" tvg-logo="" group-title="kouetche",NATIONAL GEO FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13718
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="|FR| NATIONAL GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/250px-National_Geographic_Channel.svg.png" group-title="kouetche",NATIONAL GEO HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13999
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="|FR| SCIENCES & VIE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/scienceetvie.png" group-title="kouetche",SCIENCES & VIE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13987
+#EXTINF:-1 tvg-ID="ScienceVie.fr" tvg-name="|FR| SCIENCES & VIE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/scienceetvie.png" group-title="kouetche",SCIENCES & VIE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13704
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/animaux.png" group-title="kouetche",ANIMAUX FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13789
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="|FR| ANIMAUX HD" tvg-logo="http://logo.premium-ott.com:8000/logo/animaux.png" group-title="kouetche",ANIMAUX HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14044
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA  FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="kouetche",USHUAIA  FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13692
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA HD" tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="kouetche",USHUAIA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13974
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="|FR| USHUAIA SD" tvg-logo="http://logo.premium-ott.com:8000/logo/ushuaia.png" group-title="kouetche",USHUAIA SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1055
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| ULTRA NATURE" tvg-logo="" group-title="kouetche",ULTRA NATURE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25049
+#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name="|FR| RMC DECOUVERTE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="kouetche",RMC DECOUVERTE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13708
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcdecouverte.png" group-title="kouetche",RMC DECOUVERTE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13990
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="|FR| RMC STORY SD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcstory.png" group-title="kouetche",RMC STORY SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1026
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="|FR| VOYAGE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/voyage.png" group-title="kouetche",VOYAGE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13691
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="|FR| VOYAGE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/voyage.png" group-title="kouetche",VOYAGE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13972
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/trek.png" group-title="kouetche",TREK FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13694
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="|FR| TREK HD" tvg-logo="http://logo.premium-ott.com:8000/logo/trek.png" group-title="kouetche",TREK HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13976
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE&PECHE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="kouetche",CHASSE&PECHE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13837
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="|FR| CHASSE & PECHE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/chasseetpeche.png" group-title="kouetche",CHASSE & PECHE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14029
+#EXTINF:-1 tvg-ID="Seasons" tvg-name="|FR| SEASON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/120px-Seasons_logo.png" group-title="kouetche",SEASON FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13703
+#EXTINF:-1 tvg-ID="Seasons.fr" tvg-name="|FR| SEASON HD" tvg-logo="http://logo.premium-ott.com:8000/logo/seasons.png" group-title="kouetche",SEASON HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13988
+#EXTINF:-1 tvg-ID="Campagnes TV" tvg-name="|FR| CAMPAGNE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Campagnes_TV_logo_2013.png/250px-Campagnes_TV_logo_2013.png" group-title="kouetche",CAMPAGNE TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13942
+#EXTINF:-1 tvg-ID="Crime District" tvg-name="|FR| CRIME DISTRICT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="kouetche",CRIME DISTRICT FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13750
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="kouetche",CRIME DISTRICT HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14018
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MUSEUM CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Logo_museum_2017.png/220px-Logo_museum_2017.png" group-title="kouetche",MUSEUM CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13714
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="kouetche",HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13731
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="|FR| HISTOIRE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="kouetche",HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14007
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/toutelhistoire.png" group-title="kouetche",TOUTE L'HISTOIRE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13832
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="|FR| TOUTE L'HISTOIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Toute_l%27Histoire_logo_2013.png/170px-Toute_l%27Histoire_logo_2013.png" group-title="kouetche",TOUTE L'HISTOIRE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25050
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="|FR| HISTOIRE SD" tvg-logo="http://logo.premium-ott.com:8000/logo/histoire.png" group-title="kouetche",HISTOIRE SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1056
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|***FRANCE INFO***|FR|" tvg-logo="" group-title="CANAL + | LIVE",|FR|***FRANCE INFO***|FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24963
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="kouetche",LA CHAINE METEO FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13783
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| EURONEWS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="kouetche",EURONEWS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13835
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| EURONEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/euronews.png" group-title="kouetche",EURONEWS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13938
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="|FR| FRANCE 24 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/france24.png" group-title="kouetche",FRANCE 24 HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/162
+#EXTINF:-1 tvg-ID="BFMTV.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/bfmtv.png" group-title="kouetche",BFM TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13770
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="|FR| BFM TV HD" tvg-logo="http://logo.premium-ott.com:8000/logo/bfmtv.png" group-title="kouetche",BFM TV HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14039
+#EXTINF:-1 tvg-ID="BFMTV.fr" tvg-name="|FR| BFM TV SD" tvg-logo="http://logo.premium-ott.com:8000/logo/bfmtv.png" group-title="kouetche",BFM TV SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/424
+#EXTINF:-1 tvg-ID="BFMBusiness.fr" tvg-name="|FR| BFM BUISINESS" tvg-logo="http://logo.premium-ott.com:8000/logo/bfmbusiness.png" group-title="kouetche",BFM BUISINESS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1045
+#EXTINF:-1 tvg-ID="LCI" tvg-name="|FR| LCI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lci.png" group-title="kouetche",LCI FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13727
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| LCI SD" tvg-logo="http://logo.premium-ott.com:8000/logo/lci.png" group-title="kouetche",LCI SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1042
+#EXTINF:-1 tvg-ID="LCP.fr" tvg-name="|FR| LCP FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="kouetche",LCP FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13809
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| LCP" tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="kouetche",LCP
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1016
+#EXTINF:-1 tvg-ID="LCP 100%" tvg-name="|FR| LCP100%" tvg-logo="http://logo.premium-ott.com:8000/logo/lcp.png" group-title="kouetche",LCP100%
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1046
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="|FR| CNEWS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="kouetche",CNEWS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14020
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="|FR| CNEWS SD" tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="kouetche",CNEWS SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1017
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="|FR| FRANCE INFO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="kouetche",FRANCE INFO HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13935
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="|FR| FRANCE INFO SD" tvg-logo="http://logo.premium-ott.com:8000/logo/franceinfo.png" group-title="kouetche",FRANCE INFO SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1917
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="|FR| TV5 MONDE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tv5monde.png" group-title="kouetche",TV5 MONDE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25051
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="|FR| TV5 MONDE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tv5monde.png" group-title="kouetche",TV5 MONDE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25052
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| I24 NEWS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/i24news.png" group-title="kouetche",I24 NEWS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13730
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| i24 NEWS" tvg-logo="http://logo.premium-ott.com:8000/logo/i24news.png" group-title="kouetche",i24 NEWS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1050
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| RT FRANCE FHD" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDeU9nBYHqaRKqVIhN9vkxkz__DDKrSgVQzGw=s288-mo-c-c0xffffffff-rj-k-no" group-title="kouetche",RT FRANCE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/35341
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|***MUSSIC***|FR|" tvg-logo="" group-title="CANAL + | LIVE",|FR|***MUSSIC***|FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24964
+#EXTINF:-1 tvg-ID="M6Music.fr" tvg-name="|FR| M6 MUSIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/190px-M6_Music_2012.png" group-title="kouetche",M6 MUSIC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13826
+#EXTINF:-1 tvg-ID="Trace Urban HD FR" tvg-name="|FR| TRACE URBAIN HD" tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="kouetche",TRACE URBAIN HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13844
+#EXTINF:-1 tvg-ID="Trace Urban HD FR" tvg-name="|FR| TRACE URBAIN" tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="kouetche",TRACE URBAIN
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13978
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| TRACE URBAIN FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="kouetche",TRACE URBAIN FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1099
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TRACE URBAN INTER" tvg-logo="http://logo.premium-ott.com:8000/logo/traceurban.png" group-title="kouetche",TRACE URBAN INTER
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/9127
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| TRACE TROPICAL HD" tvg-logo="http://logo.premium-ott.com:8000/logo//logo/tracetropical.png" group-title="kouetche",TRACE TROPICAL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/9128
+#EXTINF:-1 tvg-ID="traceafrica.fr" tvg-name="|FR| TRACE AFRICA HD" tvg-logo="" group-title="kouetche",TRACE AFRICA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13771
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TRACE AFRICA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Trace_Africa_logo_2011.svg/150px-Trace_Africa_logo_2011.svg.png" group-title="kouetche",TRACE AFRICA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13720
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_gospel-1.png/280px-Logo_gospel-1.png" group-title="kouetche",MTV LIVE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25054
+#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="|FR| BET" tvg-logo="http://www.hipipo.com/home/wp-content/uploads/2016/10/Trace-Mziki-TV-Explains-VIDEO-Selection-Criteria..jpg" group-title="kouetche",BET
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25057
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TRACE NAIJA" tvg-logo="http://logo.premium-ott.com:8000/logo/tracenaija.png" group-title="kouetche",TRACE NAIJA
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25055
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TRACE TOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Trace_Toca_2014_logo.png/150px-Trace_Toca_2014_logo.png" group-title="kouetche",TRACE TOCA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25056
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV HITS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="kouetche",MTV HITS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/8050
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| BBLACK CLASSIK" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/0/04/Bblack_classick_logo.png/revision/latest/scale-to-width-down/200?cb=20160625144410&path-prefix=fr" group-title="kouetche",BBLACK CLASSIK
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/8052
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| INDIES LIVE MUSIC" tvg-logo="https://png.pngtree.com/element_origin_min_pic/16/09/04/1257cbaa46cd78b.jpg" group-title="kouetche",INDIES LIVE MUSIC
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/25058
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MTV MUSIC LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/200px-MTV_Music_2017_logo_Australia.svg.png" group-title="kouetche",MTV MUSIC LIVE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13930
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MTV DANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/MTV_Dance_2013_logo.svg/150px-MTV_Dance_2013_logo.svg.png" group-title="kouetche",MTV DANCE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13931
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="|FR| MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/175px-MTV_Base_2017_logo.svg.png" group-title="kouetche",MTV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13932
+#EXTINF:-1 tvg-ID="MTV" tvg-name="|FR| MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/150px-MTV_Logo_2010.svg.png" group-title="kouetche",MTV HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14009
+#EXTINF:-1 tvg-ID="MCM.fr" tvg-name="|FR| MCM FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcm.png" group-title="kouetche",MCM FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13725
+#EXTINF:-1 tvg-ID="MCM HD FR" tvg-name="|FR| MCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/MCM_logo_2017.png/175px-MCM_logo_2017.png" group-title="kouetche",MCM HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14002
+#EXTINF:-1 tvg-ID="MCM.fr" tvg-name="|FR| MCM TOP HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcmtop.png" group-title="kouetche",MCM TOP HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1037
+#EXTINF:-1 tvg-ID="MCM Top" tvg-name="|FR| MCM TOP FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mcmtop.png" group-title="kouetche",MCM TOP FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13724
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| RFM TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rfmtv.png" group-title="kouetche",RFM TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13709
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="|FR| RFM HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rfmtv.png" group-title="kouetche",RFM HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24960
+#EXTINF:-1 tvg-ID="NRJ12" tvg-name="|FR| NRJ HITS" tvg-logo="http://logo.premium-ott.com:8000/logo/nrjhits.png" group-title="kouetche",NRJ HITS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13927
+#EXTINF:-1 tvg-ID="Mezzo Live HD FR" tvg-name="|FR| MEZZO HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mezzolive.png" group-title="kouetche",MEZZO HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14001
+#EXTINF:-1 tvg-ID="Mezzo Live HD" tvg-name="|FR| MEZZO LIVE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mezzolive.png" group-title="kouetche",MEZZO LIVE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13723
+#EXTINF:-1 tvg-ID="BeIN Sports MENA News" tvg-name="|FR| BBLACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/200px-VH1_logonew.svg.png" group-title="kouetche",BBLACK
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13840
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| VH1 CLASSIC FHD" tvg-logo="http://x.iptv-pure.com/vh1classic.png" group-title="kouetche",VH1 CLASSIC FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13815
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MELODY TV FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/melody.png" group-title="kouetche",MELODY TV FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13808
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="|FR| BRAVA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/brava.png" group-title="kouetche",BRAVA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14038
+#EXTINF:-1 tvg-ID="Djazz.fr" tvg-name="|FR| DJAZZ TV" tvg-logo="http://logo.premium-ott.com:8000/logo/djazz.png" group-title="kouetche",DJAZZ TV
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13939
+#EXTINF:-1 tvg-ID="TéléSud" tvg-name="|FR| TELESUD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/T%C3%A9l%C3%A9_Sud_Vend%C3%A9e.png/150px-T%C3%A9l%C3%A9_Sud_Vend%C3%A9e.png" group-title="kouetche",TELESUD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1101
+#EXTINF:-1 tvg-ID="MTV Hits" tvg-name="|FR| MTV HITS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="kouetche",MTV HITS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13845
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| EUROSPORT 1 SD" tvg-logo="http://logo.premium-ott.com:8000/logo/eurosport1.png" group-title="kouetche",EUROSPORT 1 SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/57859
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|***** CANAL+  SD *****|FR|" tvg-logo="" group-title="CANAL+(BAS DEBIT) | LIVE",|FR|***** CANAL+  SD *****|FR|
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/39549
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LA CHAINE DU PERE NOÊL HD" tvg-logo="http://www.canalplus-afrique.com/var/canalplus_cos/storage/images/programmes/jeunesse/la-chaine-du-pere-noel-2017/images/logo/138612275-2-fre-FR/logo.png" group-title="FRENCH KIDS | LIVE",|FR| LA CHAINE DU PERE NOÊL HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/48784
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CHANNEL FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13861
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CHANNEL  HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24948
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL SD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannel.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CHANNEL SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1040
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="|FR| DISNEY CHANNEL +1  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneychannelplus1.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CHANNEL +1  HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1041
+#EXTINF:-1 tvg-ID="disneyxd.fr" tvg-name="|FR| DISNEY XD FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY XD FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13862
+#EXTINF:-1 tvg-ID="disneyxd.fr" tvg-name="|FR| DISNEY XD HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyxd.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY XD HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24942
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY JUNIOR FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13863
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneyjunior.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY JUNIOR HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24934
+#EXTINF:-1 tvg-ID="disneycinema.fr" tvg-name="|FR| DISNEY CINEMA FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/disneycinema.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CINEMA FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13860
+#EXTINF:-1 tvg-ID="disneycinema.fr" tvg-name="|FR| DISNEY CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ea/LOGO_Disney_Cinema_2015.png" group-title="FRENCH KIDS | LIVE",|FR| DISNEY CINEMA HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24940
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14037
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON+1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjuniorplus1.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON+1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13854
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="|FR| NICKELODEON JUN FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON JUN FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13851
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON JUNIOR HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24935
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="|FR| NICKELODEON JUN SD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeonjunior.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON JUN SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/28344
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="|FR| NICKELODEON 4 TEEN FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon4teen.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24957
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="|FR| TOONAMI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="FRENCH KIDS | LIVE",|FR| TOONAMI FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13850
+#EXTINF:-1 tvg-ID="Toonami" tvg-name="|FR|TOONAMI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/toonami.png" group-title="FRENCH KIDS | LIVE",|FR|TOONAMI HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24956
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELETOON+ FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="FRENCH KIDS | LIVE",|FR| TELETOON+ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13855
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| NICKELODEON FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/nickelodeon.png" group-title="FRENCH KIDS | LIVE",|FR| NICKELODEON FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24958
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="|FR| TELETOON+1 " tvg-logo="http://logo.premium-ott.com:8000/logo/teletoonplus1.png" group-title="FRENCH KIDS | LIVE",|FR| TELETOON+1 
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13869
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| PIWI+ FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="FRENCH KIDS | LIVE",|FR| PIWI+ FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13867
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="|FR| PIWI+ HD" tvg-logo="http://logo.premium-ott.com:8000/logo/piwiplus.png" group-title="FRENCH KIDS | LIVE",|FR| PIWI+ HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24937
+#EXTINF:-1 tvg-ID="Baby_TV.ar" tvg-name="|FR| MONDE DES PETITS" tvg-logo="http://163.172.43.62/logo/pro.leaderiptv.com/logo/france/baby_first_tv.png" group-title="FRENCH KIDS | LIVE",|FR| MONDE DES PETITS
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13848
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| CANAL J FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="FRENCH KIDS | LIVE",|FR| CANAL J FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13764
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="|FR| Canal J HD" tvg-logo="http://logo.premium-ott.com:8000/logo/canalj.png" group-title="FRENCH KIDS | LIVE",|FR| Canal J HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24941
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TIJI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="FRENCH KIDS | LIVE",|FR| TIJI FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13868
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="|FR| TIJI HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tiji.png" group-title="FRENCH KIDS | LIVE",|FR| TIJI HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24949
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| BOOMERANG FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="FRENCH KIDS | LIVE",|FR| BOOMERANG FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13858
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="|FR| BOOMERANG HD" tvg-logo="http://logo.premium-ott.com:8000/logo/boomerang.png" group-title="FRENCH KIDS | LIVE",|FR| BOOMERANG HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24954
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="|FR| BOING FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="FRENCH KIDS | LIVE",|FR| BOING FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13859
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="|FR| BOING HD" tvg-logo="http://logo.premium-ott.com:8000/logo/boing.png" group-title="FRENCH KIDS | LIVE",|FR| BOING HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24945
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="FRENCH KIDS | LIVE",|FR| CARTOON NETWORK FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13761
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="http://logo.premium-ott.com:8000/logo/cartoonnetwork.png" group-title="FRENCH KIDS | LIVE",|FR| CARTOON NETWORK HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24933
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="FRENCH KIDS | LIVE",|FR| GAME ONE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13856
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="FRENCH KIDS | LIVE",|FR| GAME ONE HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24952
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAMEONE" tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="FRENCH KIDS | LIVE",|FR| GAMEONE
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1034
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="|FR| GAME ONE +1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/gameone.png" group-title="FRENCH KIDS | LIVE",|FR| GAME ONE +1 FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13857
+#EXTINF:-1 tvg-ID="J-One" tvg-name="|FR| J ONE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/jone.png" group-title="FRENCH KIDS | LIVE",|FR| J ONE FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13852
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| GULLI FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/gulli.png" group-title="FRENCH KIDS | LIVE",|FR| GULLI FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13864
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="|FR| GULLI SD" tvg-logo="http://logo.premium-ott.com:8000/logo/gulli.png" group-title="FRENCH KIDS | LIVE",|FR| GULLI SD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/1020
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| GONG" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/BabyTV.png/150px-BabyTV.png" group-title="FRENCH KIDS | LIVE",|FR| GONG
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13853
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mangas.png" group-title="FRENCH KIDS | LIVE",|FR| MANGAS FHD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/13865
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="|FR| MANGAS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/mangas.png" group-title="FRENCH KIDS | LIVE",|FR| MANGAS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24932
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| CINE KIDS HD" tvg-logo="" group-title="FRENCH KIDS | LIVE",|FR| CINE KIDS HD
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24959
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISNEY ORANGE 1" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="FRENCH KIDS | LIVE",|FR| DISNEY ORANGE 1
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24939
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISNEY ORANGE 2" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="FRENCH KIDS | LIVE",|FR| DISNEY ORANGE 2
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24950
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| DISNEY ORANGE 3" tvg-logo="https://image.ibb.co/dOpVQo/logo_orange_200x200.jpg" group-title="FRENCH KIDS | LIVE",|FR| DISNEY ORANGE 3
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/24951
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| PEPPA PIG (LIVE)" tvg-logo="https://pbs.twimg.com/profile_images/922177599278784512/AVnpgYog_400x400.jpg" group-title="FRENCH KIDS | LIVE",|FR| PEPPA PIG (LIVE)
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/6700
+#EXTINF:-1 tvg-ID="" tvg-name="|FR|  DORA L'EXPLORATRICE (LIVE )" tvg-logo="https://d3ofq03apmfb8c.cloudfront.net/data/avatars/m/10/10088.jpg?1339212337" group-title="FRENCH KIDS | LIVE",|FR|  DORA L'EXPLORATRICE (LIVE )
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/6713
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LIVE LILO & STITCH (LIVE)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_hf0vVabCXhiYbehpQfXNSsdE01fdlMwOE7z2zkS2qj-wbma" group-title="FRENCH KIDS | LIVE",|FR| LIVE LILO & STITCH (LIVE)
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/6736
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| TOM AND JERRY" tvg-logo="https://orig00.deviantart.net/bdd2/f/2017/345/c/b/tom_and_jerry_folder_icon_v1_by_alexartchanimte7-dbwgnwb.png" group-title="FRENCH KIDS | LIVE",|FR| TOM AND JERRY
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/6757
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| MASHA ET MICHKA (LIVE )" tvg-logo="https://lh3.googleusercontent.com/4v2HARgzYQjCK18bgbgjyXsGKY4ThhkdrDngQboHQdMES7SVRgflraP9dNRUFEZ2LlQ=s256" group-title="FRENCH KIDS | LIVE",|FR| MASHA ET MICHKA (LIVE )
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/7185
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| LAPIN CRETIN" tvg-logo="https://videogamemarketing.files.wordpress.com/2012/03/lapins-cretins-thumbhome1.jpg" group-title="FRENCH KIDS | LIVE",|FR| LAPIN CRETIN
+http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/7258
+#EXTINF:-1 tvg-ID="" tvg-name="|FR| •------• CANALSAT HEVC •------• |FR|" tvg-logo="" group-title="FRANCE (HEVC)  | LIVE",|FR| •------• CANALSAT HEVC •------• |FR|
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",13 EME RUE HD
+http://104.218.60.145:83/Elonge/4049153347@/376279
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",6TER HD
+http://104.218.60.145:83/Elonge/4049153347@/376280
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 1
+http://104.218.60.145:83/Elonge/4049153347@/376392
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 10
+http://104.218.60.145:83/Elonge/4049153347@/376281
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 5
+http://104.218.60.145:83/Elonge/4049153347@/376390
+#EXTINF:-1 tvg-id="" tvg-name="FR: A La Carte 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="Elonge",A La Carte 6
+http://104.218.60.145:83/Elonge/4049153347@/256807
+#EXTINF:-1 tvg-id="" tvg-name="FR: A la Carte 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A la Carte 6
+http://104.218.60.145:83/Elonge/4049153347@/376391
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 7
+http://104.218.60.145:83/Elonge/4049153347@/376282
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 8
+http://104.218.60.145:83/Elonge/4049153347@/376283
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A LA CARTE 9
+http://104.218.60.145:83/Elonge/4049153347@/376284
+#EXTINF:-1 tvg-id="" tvg-name="FR: A.LA.CARTE.3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A.LA.CARTE.3
+http://104.218.60.145:83/Elonge/4049153347@/376393
+#EXTINF:-1 tvg-id="" tvg-name="FR: A.LA.CARTE.4" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",A.LA.CARTE.4
+http://104.218.60.145:83/Elonge/4049153347@/376394
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteur HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",AB Moteur HD
+http://104.218.60.145:83/Elonge/4049153347@/376285
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",AB1
+http://104.218.60.145:83/Elonge/4049153347@/376286
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",AB3
+http://104.218.60.145:83/Elonge/4049153347@/376287
+#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",ACTION
+http://104.218.60.145:83/Elonge/4049153347@/376288
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",ANIMAUX
+http://104.218.60.145:83/Elonge/4049153347@/376289
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",ARTE HD
+http://104.218.60.145:83/Elonge/4049153347@/376290
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE HD ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",ARTE HD ( 1080P )
+http://104.218.60.145:83/Elonge/4049153347@/376400
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein max 4(1)" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein max 4(1)
+http://104.218.60.145:83/Elonge/4049153347@/376265
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="FR: Bein Sp0rt Max 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="Elonge",Bein Sp0rt Max 10
+http://104.218.60.145:83/Elonge/4049153347@/195544
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="FR: Bein Sp0rt Max 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="Elonge",Bein Sp0rt Max 6
+http://104.218.60.145:83/Elonge/4049153347@/195546
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 10" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 10
+http://104.218.60.145:83/Elonge/4049153347@/376296
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 5
+http://104.218.60.145:83/Elonge/4049153347@/376295
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 6
+http://104.218.60.145:83/Elonge/4049153347@/376294
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 7
+http://104.218.60.145:83/Elonge/4049153347@/376293
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 8
+http://104.218.60.145:83/Elonge/4049153347@/376292
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Bein Sport Max 9
+http://104.218.60.145:83/Elonge/4049153347@/376291
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",BEIN SPORTS 3HD
+http://104.218.60.145:83/Elonge/4049153347@/376378
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS1 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",beIN SPORTS1 HD
+http://104.218.60.145:83/Elonge/4049153347@/376377
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINS PORTS 2HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",beINS PORTS 2HD
+http://104.218.60.145:83/Elonge/4049153347@/376376
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",BFM TV
+http://104.218.60.145:83/Elonge/4049153347@/376329
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boing" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Boing
+http://104.218.60.145:83/Elonge/4049153347@/376272
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",BOOMERANG HD
+http://104.218.60.145:83/Elonge/4049153347@/376271
+#EXTINF:-1 tvg-id="" tvg-name="FR: BRAVA HD ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",BRAVA HD ( 1080P )
+http://104.218.60.145:83/Elonge/4049153347@/376401
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",C8
+http://104.218.60.145:83/Elonge/4049153347@/376298
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Cinema" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Canal Cinema
+http://104.218.60.145:83/Elonge/4049153347@/376299
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Decale" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Canal Decale
+http://104.218.60.145:83/Elonge/4049153347@/376300
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Family" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Canal Family
+http://104.218.60.145:83/Elonge/4049153347@/376301
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL J
+http://104.218.60.145:83/Elonge/4049153347@/376304
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 1
+http://104.218.60.145:83/Elonge/4049153347@/376305
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 2
+http://104.218.60.145:83/Elonge/4049153347@/376306
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 3
+http://104.218.60.145:83/Elonge/4049153347@/376307
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 4" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 4
+http://104.218.60.145:83/Elonge/4049153347@/376308
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 5
+http://104.218.60.145:83/Elonge/4049153347@/376309
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 6
+http://104.218.60.145:83/Elonge/4049153347@/376310
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL PLAY 7
+http://104.218.60.145:83/Elonge/4049153347@/376311
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Series" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Canal Series
+http://104.218.60.145:83/Elonge/4049153347@/376302
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Sport" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Canal Sport
+http://104.218.60.145:83/Elonge/4049153347@/376303
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CANAL+ HD
+http://104.218.60.145:83/Elonge/4049153347@/376328
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Cartoon Network HD
+http://104.218.60.145:83/Elonge/4049153347@/376273
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse et Peche" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Chasse et Peche
+http://104.218.60.145:83/Elonge/4049153347@/376312
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CHERIE 25 HD
+http://104.218.60.145:83/Elonge/4049153347@/376313
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE CLASSIC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE CLASSIC
+http://104.218.60.145:83/Elonge/4049153347@/376314
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE CLASSIC HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE CLASSIC HD
+http://104.218.60.145:83/Elonge/4049153347@/376315
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE EMOTION" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE EMOTION
+http://104.218.60.145:83/Elonge/4049153347@/376316
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE EMOTION HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE EMOTION HD
+http://104.218.60.145:83/Elonge/4049153347@/376317
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FAMIZ" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE FAMIZ
+http://104.218.60.145:83/Elonge/4049153347@/376318
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cine Famiz HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Cine Famiz HD
+http://104.218.60.145:83/Elonge/4049153347@/376319
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FRISSON" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE FRISSON
+http://104.218.60.145:83/Elonge/4049153347@/376320
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FRISSON HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE FRISSON HD
+http://104.218.60.145:83/Elonge/4049153347@/376321
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE FX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE FX
+http://104.218.60.145:83/Elonge/4049153347@/376322
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE POLAR" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE POLAR
+http://104.218.60.145:83/Elonge/4049153347@/376323
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE PREMIER" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE PREMIER
+http://104.218.60.145:83/Elonge/4049153347@/376395
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE PREMIER HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CINE PREMIER HD
+http://104.218.60.145:83/Elonge/4049153347@/376324
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie +" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Comedie +
+http://104.218.60.145:83/Elonge/4049153347@/376326
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",COMEDIE HD
+http://104.218.60.145:83/Elonge/4049153347@/376325
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",CSTAR HD
+http://104.218.60.145:83/Elonge/4049153347@/376327
+#EXTINF:-1 tvg-id="" tvg-name="FR: D8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",D8
+http://104.218.60.145:83/Elonge/4049153347@/376297
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",DISCOVERY
+http://104.218.60.145:83/Elonge/4049153347@/376410
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Science HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Discovery Science HD
+http://104.218.60.145:83/Elonge/4049153347@/376274
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",DISNEY CHANNEL
+http://104.218.60.145:83/Elonge/4049153347@/376342
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CHANNEL FHD 1080" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",DISNEY CHANNEL FHD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376403
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY CINEMA" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",DISNEY CINEMA
+http://104.218.60.145:83/Elonge/4049153347@/376341
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Jr Fr" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Disney Jr Fr
+http://104.218.60.145:83/Elonge/4049153347@/376275
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Disney XD HD
+http://104.218.60.145:83/Elonge/4049153347@/376340
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA live" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",EQUIDIA live
+http://104.218.60.145:83/Elonge/4049153347@/376339
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",EURONEWS
+http://104.218.60.145:83/Elonge/4049153347@/376266
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Eurosport 1
+http://104.218.60.145:83/Elonge/4049153347@/376338
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Eurosport 2
+http://104.218.60.145:83/Elonge/4049153347@/376337
+#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2 FHD 1080" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Eurosport 2 FHD 1080
+http://104.218.60.145:83/Elonge/4049153347@/376404
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",EUROSPORT2
+http://104.218.60.145:83/Elonge/4049153347@/376336
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",FRANCE 2
+http://104.218.60.145:83/Elonge/4049153347@/376335
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",FRANCE 24
+http://104.218.60.145:83/Elonge/4049153347@/376396
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",FRANCE 3
+http://104.218.60.145:83/Elonge/4049153347@/376267
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",France 4 HD
+http://104.218.60.145:83/Elonge/4049153347@/376334
+#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",France 5 HD
+http://104.218.60.145:83/Elonge/4049153347@/376333
+#EXTINF:-1 tvg-id="" tvg-name="FR: France O HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",France O HD
+http://104.218.60.145:83/Elonge/4049153347@/376332
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",GAME ONE
+http://104.218.60.145:83/Elonge/4049153347@/376331
+#EXTINF:-1 tvg-id="" tvg-name="FR: GULLI HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",GULLI HD
+http://104.218.60.145:83/Elonge/4049153347@/376330
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: GULLI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="Elonge",GULLI HD
+http://104.218.60.145:83/Elonge/4049153347@/195509
+#EXTINF:-1 tvg-id="" tvg-name="FR: HD1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",HD1
+http://104.218.60.145:83/Elonge/4049153347@/376343
+#EXTINF:-1 tvg-id="" tvg-name="FR: i Tele" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",i Tele
+http://104.218.60.145:83/Elonge/4049153347@/376344
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",INFOSPORT
+http://104.218.60.145:83/Elonge/4049153347@/376345
+#EXTINF:-1 tvg-id="" tvg-name="FR: La Deux" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",La Deux
+http://104.218.60.145:83/Elonge/4049153347@/376346
+#EXTINF:-1 tvg-id="" tvg-name="FR: La une BE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",La une BE
+http://104.218.60.145:83/Elonge/4049153347@/376347
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",LCI
+http://104.218.60.145:83/Elonge/4049153347@/376348
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",M6
+http://104.218.60.145:83/Elonge/4049153347@/376349
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Mangas
+http://104.218.60.145:83/Elonge/4049153347@/376350
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Nat Geo HD
+http://104.218.60.145:83/Elonge/4049153347@/376276
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo Wild HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Nat Geo Wild HD
+http://104.218.60.145:83/Elonge/4049153347@/376277
+#EXTINF:-1 tvg-id="" tvg-name="FR: National geo wild" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",National geo wild
+http://104.218.60.145:83/Elonge/4049153347@/376351
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NICKELODEON HD
+http://104.218.60.145:83/Elonge/4049153347@/376397
+#EXTINF:-1 tvg-id="" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NICKELODEON JUNIOR
+http://104.218.60.145:83/Elonge/4049153347@/376352
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NRJ Hits
+http://104.218.60.145:83/Elonge/4049153347@/376353
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NRJ12 HD
+http://104.218.60.145:83/Elonge/4049153347@/376278
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NT1
+http://104.218.60.145:83/Elonge/4049153347@/376405
+#EXTINF:-1 tvg-id="" tvg-name="FR: NUMERO 23 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",NUMERO 23 HD
+http://104.218.60.145:83/Elonge/4049153347@/376354
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",OCS CHOC HD
+http://104.218.60.145:83/Elonge/4049153347@/376355
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",OCS CITY
+http://104.218.60.145:83/Elonge/4049153347@/376356
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANT" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",OCS GEANT
+http://104.218.60.145:83/Elonge/4049153347@/376357
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",OCS MAX
+http://104.218.60.145:83/Elonge/4049153347@/376358
+#EXTINF:-1 tvg-id="" tvg-name="FR: OLTV HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",OLTV HD
+http://104.218.60.145:83/Elonge/4049153347@/376359
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PARAMOUNT CHANNEL HD
+http://104.218.60.145:83/Elonge/4049153347@/376360
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PARIS PREMIERE HD
+http://104.218.60.145:83/Elonge/4049153347@/376361
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PARIS PREMIERE HD
+http://104.218.60.145:83/Elonge/4049153347@/376362
+#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PIWI HD
+http://104.218.60.145:83/Elonge/4049153347@/376363
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A&E HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PLANETE A&E HD
+http://104.218.60.145:83/Elonge/4049153347@/376365
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE CI HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PLANETE CI HD
+http://104.218.60.145:83/Elonge/4049153347@/376366
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",PLANETE HD
+http://104.218.60.145:83/Elonge/4049153347@/376364
+#EXTINF:-1 tvg-id="" tvg-name="FR: rmc decouverte" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",rmc decouverte
+http://104.218.60.145:83/Elonge/4049153347@/376368
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",RTL9
+http://104.218.60.145:83/Elonge/4049153347@/376268
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Deux" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",RTS Deux
+http://104.218.60.145:83/Elonge/4049153347@/376370
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Un" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",RTS Un
+http://104.218.60.145:83/Elonge/4049153347@/376371
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SCIENCE ET VIE HD
+http://104.218.60.145:83/Elonge/4049153347@/376372
+#EXTINF:-1 tvg-id="" tvg-name="FR: SCIENCES & VIE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SCIENCES & VIE
+http://104.218.60.145:83/Elonge/4049153347@/376373
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SERIE CLUB
+http://104.218.60.145:83/Elonge/4049153347@/376374
+#EXTINF:-1 tvg-id="" tvg-name="FR: Series Club HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Series Club HD
+http://104.218.60.145:83/Elonge/4049153347@/376375
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR sport 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SFR sport 5
+http://104.218.60.145:83/Elonge/4049153347@/376398
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR: Sport 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SFR: Sport 1
+http://104.218.60.145:83/Elonge/4049153347@/376379
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR: Sport 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SFR: Sport 2
+http://104.218.60.145:83/Elonge/4049153347@/376380
+#EXTINF:-1 tvg-id="" tvg-name="FR: SFR: Sport 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",SFR: Sport 3
+http://104.218.60.145:83/Elonge/4049153347@/376381
+#EXTINF:-1 tvg-id="" tvg-name="FR: Syfy HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Syfy HD
+http://104.218.60.145:83/Elonge/4049153347@/376382
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TCM CINEMA
+http://104.218.60.145:83/Elonge/4049153347@/376406
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON +" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TELETOON +
+http://104.218.60.145:83/Elonge/4049153347@/376269
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teva" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Teva
+http://104.218.60.145:83/Elonge/4049153347@/376383
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA/TMC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TEVA/TMC
+http://104.218.60.145:83/Elonge/4049153347@/376407
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TF1 HD
+http://104.218.60.145:83/Elonge/4049153347@/376384
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Tiji
+http://104.218.60.145:83/Elonge/4049153347@/376385
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TMC HD ( 1080P )
+http://104.218.60.145:83/Elonge/4049153347@/376402
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TOUTE L HISTOIRE
+http://104.218.60.145:83/Elonge/4049153347@/376386
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TRACE URBAN
+http://104.218.60.145:83/Elonge/4049153347@/376399
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TREK HD
+http://104.218.60.145:83/Elonge/4049153347@/376408
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TV BREIZH HD
+http://104.218.60.145:83/Elonge/4049153347@/376387
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",TV5 MONDE
+http://104.218.60.145:83/Elonge/4049153347@/376409
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",USHUAIA HD
+http://104.218.60.145:83/Elonge/4049153347@/376388
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",VOYAGE HD
+http://104.218.60.145:83/Elonge/4049153347@/376411
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",W9
+http://104.218.60.145:83/Elonge/4049153347@/376270
+#EXTINF:-1 tvg-id="" tvg-name="FR: Zouzou TV LOCAL" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="Elonge",Zouzou TV LOCAL
+http://104.218.60.145:83/Elonge/4049153347@/376389
+#EXTINF:-1 tvg-id="" tvg-name="FR: CNews HD" tvg-logo="" group-title="Elonge",CNews HD
+http://104.218.60.145:83/Elonge/4049153347@/381407
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="" group-title="iptvbest",TF1 HD
+http://iptvbest.org:80/joyce3/273769/2052
+#EXTINF:-1 tvg-id="" tvg-name="France 2 HD" tvg-logo="" group-title="iptvbest",France 2 HD
+http://iptvbest.org:80/joyce3/273769/2053
+#EXTINF:-1 tvg-id="" tvg-name="France 3 HD" tvg-logo="" group-title="iptvbest",France 3 HD
+http://iptvbest.org:80/joyce3/273769/2054
+#EXTINF:-1 tvg-id="" tvg-name="France 4 HD" tvg-logo="" group-title="iptvbest",France 4 HD
+http://iptvbest.org:80/joyce3/273769/2055
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="" group-title="iptvbest",France 5 HD
+http://iptvbest.org:80/joyce3/273769/2056
+#EXTINF:-1 tvg-id="" tvg-name="France O HD" tvg-logo="" group-title="iptvbest",France O HD
+http://iptvbest.org:80/joyce3/273769/2057
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="" group-title="iptvbest",M6 HD
+http://iptvbest.org:80/joyce3/273769/2058
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 HD" tvg-logo="" group-title="iptvbest",RTL 9 HD
+http://iptvbest.org:80/joyce3/273769/2059
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="" group-title="iptvbest",W9 HD
+http://iptvbest.org:80/joyce3/273769/2060
+#EXTINF:-1 tvg-id="" tvg-name="6 Ter HD" tvg-logo="" group-title="iptvbest",6 Ter HD
+http://iptvbest.org:80/joyce3/273769/2061
+#EXTINF:-1 tvg-id="" tvg-name="CStar HD" tvg-logo="" group-title="iptvbest",CStar HD
+http://iptvbest.org:80/joyce3/273769/2062
+#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="" group-title="iptvbest",C8 HD
+http://iptvbest.org:80/joyce3/273769/2063
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ HD" tvg-logo="" group-title="iptvbest",Canal+ HD
+http://iptvbest.org:80/joyce3/273769/2064
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema HD" tvg-logo="" group-title="iptvbest",Canal+ Cinema HD
+http://iptvbest.org:80/joyce3/273769/2065
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale HD" tvg-logo="" group-title="iptvbest",Canal+ Decale HD
+http://iptvbest.org:80/joyce3/273769/2066
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family HD" tvg-logo="" group-title="iptvbest",Canal+ Family HD
+http://iptvbest.org:80/joyce3/273769/2067
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz HD" tvg-logo="" group-title="iptvbest",Cine+ Famiz HD
+http://iptvbest.org:80/joyce3/273769/2068
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion HD" tvg-logo="" group-title="iptvbest",Cine+ Emotion HD
+http://iptvbest.org:80/joyce3/273769/2069
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson HD" tvg-logo="" group-title="iptvbest",Cine+ Frisson HD
+http://iptvbest.org:80/joyce3/273769/2070
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier HD" tvg-logo="" group-title="iptvbest",Cine+ Premier HD
+http://iptvbest.org:80/joyce3/273769/2071
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic HD" tvg-logo="" group-title="iptvbest",Cine+ Classic HD
+http://iptvbest.org:80/joyce3/273769/2072
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 1" tvg-logo="" group-title="iptvbest",A La Carte 1
+http://iptvbest.org:80/joyce3/273769/2073
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 2" tvg-logo="" group-title="iptvbest",A La Carte 2
+http://iptvbest.org:80/joyce3/273769/2074
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 3" tvg-logo="" group-title="iptvbest",A La Carte 3
+http://iptvbest.org:80/joyce3/273769/2075
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 4" tvg-logo="" group-title="iptvbest",A La Carte 4
+http://iptvbest.org:80/joyce3/273769/2076
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 5" tvg-logo="" group-title="iptvbest",A La Carte 5
+http://iptvbest.org:80/joyce3/273769/2077
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6" tvg-logo="" group-title="iptvbest",A La Carte 6
+http://iptvbest.org:80/joyce3/273769/2078
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 7" tvg-logo="" group-title="iptvbest",A La Carte 7
+http://iptvbest.org:80/joyce3/273769/2079
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 8" tvg-logo="" group-title="iptvbest",A La Carte 8
+http://iptvbest.org:80/joyce3/273769/2080
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 9" tvg-logo="" group-title="iptvbest",A La Carte 9
+http://iptvbest.org:80/joyce3/273769/2081
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 10" tvg-logo="" group-title="iptvbest",A La Carte 10
+http://iptvbest.org:80/joyce3/273769/2082
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="" group-title="iptvbest",TFX HD
+http://iptvbest.org:80/joyce3/273769/2083
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD" tvg-logo="" group-title="iptvbest",TMC HD
+http://iptvbest.org:80/joyce3/273769/2084
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="" group-title="iptvbest",Cine Action HD
+http://iptvbest.org:80/joyce3/273769/2085
+#EXTINF:-1 tvg-id="" tvg-name="Cine Polar HD" tvg-logo="" group-title="iptvbest",Cine Polar HD
+http://iptvbest.org:80/joyce3/273769/2086
+#EXTINF:-1 tvg-id="" tvg-name="Sy-fy HD" tvg-logo="" group-title="iptvbest",Sy-fy HD
+http://iptvbest.org:80/joyce3/273769/2087
+#EXTINF:-1 tvg-id="" tvg-name="Cine Club" tvg-logo="" group-title="iptvbest",Cine Club
+http://iptvbest.org:80/joyce3/273769/2088
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="iptvbest",Paramount Channel HD
+http://iptvbest.org:80/joyce3/273769/2089
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema HD" tvg-logo="" group-title="iptvbest",TCM Cinema HD
+http://iptvbest.org:80/joyce3/273769/2090
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc HD" tvg-logo="" group-title="iptvbest",OCS Choc HD
+http://iptvbest.org:80/joyce3/273769/2091
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max HD" tvg-logo="" group-title="iptvbest",OCS Max HD
+http://iptvbest.org:80/joyce3/273769/2092
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants HD" tvg-logo="" group-title="iptvbest",OCS Geants HD
+http://iptvbest.org:80/joyce3/273769/2093
+#EXTINF:-1 tvg-id="" tvg-name="OCS City HD" tvg-logo="" group-title="iptvbest",OCS City HD
+http://iptvbest.org:80/joyce3/273769/2094
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club HD" tvg-logo="" group-title="iptvbest",Serie Club HD
+http://iptvbest.org:80/joyce3/273769/2095
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Series HD" tvg-logo="" group-title="iptvbest",Canal+ Series HD
+http://iptvbest.org:80/joyce3/273769/2096
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films HD" tvg-logo="" group-title="iptvbest",TF1 Series Films HD
+http://iptvbest.org:80/joyce3/273769/2097
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue HD" tvg-logo="" group-title="iptvbest",13eme Rue HD
+http://iptvbest.org:80/joyce3/273769/2098
+#EXTINF:-1 tvg-id="" tvg-name="Teva HD" tvg-logo="" group-title="iptvbest",Teva HD
+http://iptvbest.org:80/joyce3/273769/2099
+#EXTINF:-1 tvg-id="" tvg-name="TV Breizh HD" tvg-logo="" group-title="iptvbest",TV Breizh HD
+http://iptvbest.org:80/joyce3/273769/2100
+#EXTINF:-1 tvg-id="" tvg-name="Comedie+  HD" tvg-logo="" group-title="iptvbest",Comedie+  HD
+http://iptvbest.org:80/joyce3/273769/2101
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere HD" tvg-logo="" group-title="iptvbest",Paris Premiere HD
+http://iptvbest.org:80/joyce3/273769/2102
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-logo="" group-title="iptvbest",Arte HD
+http://iptvbest.org:80/joyce3/273769/2103
+#EXTINF:-1 tvg-id="" tvg-name="Histoire HD" tvg-logo="" group-title="iptvbest",Histoire HD
+http://iptvbest.org:80/joyce3/273769/2104
+#EXTINF:-1 tvg-id="" tvg-name="Toute L'histoire" tvg-logo="" group-title="iptvbest",Toute L'histoire
+http://iptvbest.org:80/joyce3/273769/2105
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD" tvg-logo="" group-title="iptvbest",RMC Decouverte HD
+http://iptvbest.org:80/joyce3/273769/2106
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV HD" tvg-logo="" group-title="iptvbest",Ushuaia TV HD
+http://iptvbest.org:80/joyce3/273769/2107
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="iptvbest",National Geographic HD
+http://iptvbest.org:80/joyce3/273769/2108
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild HD" tvg-logo="" group-title="iptvbest",Natgeo Wild HD
+http://iptvbest.org:80/joyce3/273769/2109
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="iptvbest",Discovery HD
+http://iptvbest.org:80/joyce3/273769/2110
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="iptvbest",Discovery Science HD
+http://iptvbest.org:80/joyce3/273769/2111
+#EXTINF:-1 tvg-id="" tvg-name="Planete HD" tvg-logo="" group-title="iptvbest",Planete HD
+http://iptvbest.org:80/joyce3/273769/2112
+#EXTINF:-1 tvg-id="" tvg-name="Planete A&E HD" tvg-logo="" group-title="iptvbest",Planete A&E HD
+http://iptvbest.org:80/joyce3/273769/2113
+#EXTINF:-1 tvg-id="" tvg-name="Planete CI HD" tvg-logo="" group-title="iptvbest",Planete CI HD
+http://iptvbest.org:80/joyce3/273769/2114
+#EXTINF:-1 tvg-id="" tvg-name="Voyage HD" tvg-logo="" group-title="iptvbest",Voyage HD
+http://iptvbest.org:80/joyce3/273769/2115
+#EXTINF:-1 tvg-id="" tvg-name="Science et Vie HD" tvg-logo="" group-title="iptvbest",Science et Vie HD
+http://iptvbest.org:80/joyce3/273769/2116
+#EXTINF:-1 tvg-id="" tvg-name="Animaux HD" tvg-logo="" group-title="iptvbest",Animaux HD
+http://iptvbest.org:80/joyce3/273769/2117
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="" group-title="iptvbest",Canal+ Sport HD
+http://iptvbest.org:80/joyce3/273769/2118
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="" group-title="iptvbest",BeIN Sports 1 HD
+http://iptvbest.org:80/joyce3/273769/2119
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD (BCK)" tvg-logo="" group-title="iptvbest",beIN Sports 1 HD (BCK)
+http://iptvbest.org:80/joyce3/273769/2120
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="" group-title="iptvbest",BeIN Sports 2 HD
+http://iptvbest.org:80/joyce3/273769/2121
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD (BCK)" tvg-logo="" group-title="iptvbest",beIN Sports 2 HD (BCK)
+http://iptvbest.org:80/joyce3/273769/2122
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="" group-title="iptvbest",BeIN Sports 3 HD
+http://iptvbest.org:80/joyce3/273769/2123
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD (BCK)" tvg-logo="" group-title="iptvbest",beIN Sports 3 HD (BCK)
+http://iptvbest.org:80/joyce3/273769/2124
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 4" tvg-logo="" group-title="iptvbest",BeIN Sports Max 4
+http://iptvbest.org:80/joyce3/273769/2125
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 5" tvg-logo="" group-title="iptvbest",BeIN Sports Max 5
+http://iptvbest.org:80/joyce3/273769/2126
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 6" tvg-logo="" group-title="iptvbest",BeIN Sports Max 6
+http://iptvbest.org:80/joyce3/273769/2127
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 7" tvg-logo="" group-title="iptvbest",BeIN Sports Max 7
+http://iptvbest.org:80/joyce3/273769/2128
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 8" tvg-logo="" group-title="iptvbest",BeIN Sports Max 8
+http://iptvbest.org:80/joyce3/273769/2129
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 9" tvg-logo="" group-title="iptvbest",BeIN Sports Max 9
+http://iptvbest.org:80/joyce3/273769/2130
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Max 10" tvg-logo="" group-title="iptvbest",BeIN Sports Max 10
+http://iptvbest.org:80/joyce3/273769/2131
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="" group-title="iptvbest",RMC Sport 1 HD
+http://iptvbest.org:80/joyce3/273769/2132
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="" group-title="iptvbest",RMC Sport 2 HD
+http://iptvbest.org:80/joyce3/273769/2133
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 HD" tvg-logo="" group-title="iptvbest",RMC Sport 3 HD
+http://iptvbest.org:80/joyce3/273769/2134
+#EXTINF:-1 tvg-id="" tvg-name="L'equipe 21 HD" tvg-logo="" group-title="iptvbest",L'equipe 21 HD
+http://iptvbest.org:80/joyce3/273769/2137
+#EXTINF:-1 tvg-id="" tvg-name="Infosport HD" tvg-logo="" group-title="iptvbest",Infosport HD
+http://iptvbest.org:80/joyce3/273769/2138
+#EXTINF:-1 tvg-id="" tvg-name="Equidia Live HD" tvg-logo="" group-title="iptvbest",Equidia Live HD
+http://iptvbest.org:80/joyce3/273769/2139
+#EXTINF:-1 tvg-id="" tvg-name="Golf HD" tvg-logo="" group-title="iptvbest",Golf HD
+http://iptvbest.org:80/joyce3/273769/2140
+#EXTINF:-1 tvg-id="" tvg-name="AB Moteurs" tvg-logo="" group-title="iptvbest",AB Moteurs
+http://iptvbest.org:80/joyce3/273769/2141
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD" tvg-logo="" group-title="iptvbest",AB1 HD
+http://iptvbest.org:80/joyce3/273769/2142
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="" group-title="iptvbest",AB3 HD
+http://iptvbest.org:80/joyce3/273769/2143
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 HD" tvg-logo="" group-title="iptvbest",Cherie 25 HD
+http://iptvbest.org:80/joyce3/273769/2144
+#EXTINF:-1 tvg-id="" tvg-name="Numero 23" tvg-logo="" group-title="iptvbest",Numero 23
+http://iptvbest.org:80/joyce3/273769/2145
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="" group-title="iptvbest",E! Entertainment
+http://iptvbest.org:80/joyce3/273769/2146
+#EXTINF:-1 tvg-id="" tvg-name="Elle Girl" tvg-logo="" group-title="iptvbest",Elle Girl
+http://iptvbest.org:80/joyce3/273769/2147
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 HD" tvg-logo="" group-title="iptvbest",NRJ 12 HD
+http://iptvbest.org:80/joyce3/273769/2148
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="" group-title="iptvbest",NRJ Hits
+http://iptvbest.org:80/joyce3/273769/2149
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music Hits HD" tvg-logo="" group-title="iptvbest",M6 Music Hits HD
+http://iptvbest.org:80/joyce3/273769/2150
+#EXTINF:-1 tvg-id="" tvg-name="Trace Latina HD" tvg-logo="" group-title="iptvbest",Trace Latina HD
+http://iptvbest.org:80/joyce3/273769/2151
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD" tvg-logo="" group-title="iptvbest",Trace Urban HD
+http://iptvbest.org:80/joyce3/273769/2152
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Caribbean" tvg-logo="" group-title="iptvbest",BBlack Caribbean
+http://iptvbest.org:80/joyce3/273769/2153
+#EXTINF:-1 tvg-id="" tvg-name="BBlack Africa" tvg-logo="" group-title="iptvbest",BBlack Africa
+http://iptvbest.org:80/joyce3/273769/2154
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="iptvbest",MTV Hits
+http://iptvbest.org:80/joyce3/273769/2155
+#EXTINF:-1 tvg-id="" tvg-name="MTV France" tvg-logo="" group-title="iptvbest",MTV France
+http://iptvbest.org:80/joyce3/273769/2156
+#EXTINF:-1 tvg-id="" tvg-name="MCM" tvg-logo="" group-title="iptvbest",MCM
+http://iptvbest.org:80/joyce3/273769/2157
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="iptvbest",MTV
+http://iptvbest.org:80/joyce3/273769/2158
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD" tvg-logo="" group-title="iptvbest",Trek HD
+http://iptvbest.org:80/joyce3/273769/2159
+#EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="" group-title="iptvbest",Gulli HD
+http://iptvbest.org:80/joyce3/273769/2160
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD" tvg-logo="" group-title="iptvbest",Disney XD HD
+http://iptvbest.org:80/joyce3/273769/2161
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="" group-title="iptvbest",Disney Junior HD
+http://iptvbest.org:80/joyce3/273769/2162
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema HD" tvg-logo="" group-title="iptvbest",Disney Cinema HD
+http://iptvbest.org:80/joyce3/273769/2163
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="iptvbest",Disney Channel HD
+http://iptvbest.org:80/joyce3/273769/2164
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="iptvbest",Nickelodeon HD
+http://iptvbest.org:80/joyce3/273769/2165
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior" tvg-logo="" group-title="iptvbest",Nickelodeon Junior
+http://iptvbest.org:80/joyce3/273769/2166
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="" group-title="iptvbest",Toonami
+http://iptvbest.org:80/joyce3/273769/2167
+#EXTINF:-1 tvg-id="" tvg-name="Gong" tvg-logo="" group-title="iptvbest",Gong
+http://iptvbest.org:80/joyce3/273769/2168
+#EXTINF:-1 tvg-id="" tvg-name="J-One HD" tvg-logo="" group-title="iptvbest",J-One HD
+http://iptvbest.org:80/joyce3/273769/2169
+#EXTINF:-1 tvg-id="" tvg-name="Manga HD" tvg-logo="" group-title="iptvbest",Manga HD
+http://iptvbest.org:80/joyce3/273769/2170
+#EXTINF:-1 tvg-id="" tvg-name="Game One HD" tvg-logo="" group-title="iptvbest",Game One HD
+http://iptvbest.org:80/joyce3/273769/2171
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon HD" tvg-logo="" group-title="iptvbest",Teletoon HD
+http://iptvbest.org:80/joyce3/273769/2172
+#EXTINF:-1 tvg-id="" tvg-name="Piwi HD" tvg-logo="" group-title="iptvbest",Piwi HD
+http://iptvbest.org:80/joyce3/273769/2173
+#EXTINF:-1 tvg-id="" tvg-name="Tiji HD" tvg-logo="" group-title="iptvbest",Tiji HD
+http://iptvbest.org:80/joyce3/273769/2174
+#EXTINF:-1 tvg-id="" tvg-name="J One TV" tvg-logo="" group-title="iptvbest",J One TV
+http://iptvbest.org:80/joyce3/273769/2175
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="iptvbest",Cartoon Network HD
+http://iptvbest.org:80/joyce3/273769/2176
+#EXTINF:-1 tvg-id="" tvg-name="Canal J HD" tvg-logo="" group-title="iptvbest",Canal J HD
+http://iptvbest.org:80/joyce3/273769/2177
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="" group-title="iptvbest",Boomerang HD
+http://iptvbest.org:80/joyce3/273769/2178
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="iptvbest",Boing
+http://iptvbest.org:80/joyce3/273769/2179
+#EXTINF:-1 tvg-id="" tvg-name="Gong Base" tvg-logo="" group-title="iptvbest",Gong Base
+http://iptvbest.org:80/joyce3/273769/2180
+#EXTINF:-1 tvg-id="" tvg-name="France Info HD" tvg-logo="" group-title="iptvbest",France Info HD
+http://iptvbest.org:80/joyce3/273769/2181
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD" tvg-logo="" group-title="iptvbest",BFM TV HD
+http://iptvbest.org:80/joyce3/273769/2182
+#EXTINF:-1 tvg-id="" tvg-name="LCP/Public Senat" tvg-logo="" group-title="iptvbest",LCP/Public Senat
+http://iptvbest.org:80/joyce3/273769/2183
+#EXTINF:-1 tvg-id="" tvg-name="Cnews FR HD" tvg-logo="" group-title="iptvbest",Cnews FR HD
+http://iptvbest.org:80/joyce3/273769/2184
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Fr" tvg-logo="" group-title="iptvbest",France 24 Fr
+http://iptvbest.org:80/joyce3/273769/2186
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="" group-title="iptvbest",BFM TV
+http://iptvbest.org:80/joyce3/273769/2187
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="iptvbest",LCI HD
+http://iptvbest.org:80/joyce3/273769/2188
+#EXTINF:-1 tvg-id="" tvg-name="RT France HD" tvg-logo="" group-title="iptvbest",RT France HD
+http://iptvbest.org:80/joyce3/273769/2189
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info HD" tvg-logo="" group-title="iptvbest",TV5 Monde Info HD
+http://iptvbest.org:80/joyce3/273769/2190
+#EXTINF:-1 tvg-id="" tvg-name="I24 News HD" tvg-logo="" group-title="iptvbest",I24 News HD
+http://iptvbest.org:80/joyce3/273769/2191
+#EXTINF:-1 tvg-id="" tvg-name="Tebeo" tvg-logo="" group-title="iptvbest",Tebeo
+http://iptvbest.org:80/joyce3/273769/2192
+#EXTINF:-1 tvg-id="" tvg-name="Grand Lille TV HD" tvg-logo="" group-title="iptvbest",Grand Lille TV HD
+http://iptvbest.org:80/joyce3/273769/2193
+#EXTINF:-1 tvg-id="" tvg-name="TVPI" tvg-logo="" group-title="iptvbest",TVPI
+http://iptvbest.org:80/joyce3/273769/2194
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="edge", TF1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47834
+#EXTINF:-1 tvg-ID="NULL" tvg-name="France 2" tvg-logo="" group-title="edge", France 2
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47793
+#EXTINF:-1 tvg-ID="NULL" tvg-name="France 24" tvg-logo="" group-title="edge", France 24
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47794
+#EXTINF:-1 tvg-ID="NULL" tvg-name="France 3" tvg-logo="" group-title="edge", France 3
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47795
+#EXTINF:-1 tvg-ID="" tvg-name="France 4" tvg-logo="" group-title="edge", France 4
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47796
+#EXTINF:-1 tvg-ID="NULL" tvg-name="France 5" tvg-logo="" group-title="edge", France 5
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47797
+#EXTINF:-1 tvg-ID="NULL" tvg-name="France O" tvg-logo="" group-title="edge", France O
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47798
+#EXTINF:-1 tvg-ID="" tvg-name="Franceinfo" tvg-logo="" group-title="edge", Franceinfo
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47799
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang HD" tvg-logo="" group-title="edge", Boomerang HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47766
+#EXTINF:-1 tvg-ID="" tvg-name="C8" tvg-logo="" group-title="edge", C8
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47767
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Cinema HD" tvg-logo="" group-title="edge", Canal  Cinema HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47768
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Decale" tvg-logo="" group-title="edge", Canal  Decale
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47769
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Family" tvg-logo="" group-title="edge", Canal  Family
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47770
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  HD" tvg-logo="" group-title="edge", Canal  HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47771
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Series" tvg-logo="" group-title="edge", Canal  Series
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47772
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Sport HD" tvg-logo="" group-title="edge", Canal  Sport HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47773
+#EXTINF:-1 tvg-ID="" tvg-name="Canal J HD" tvg-logo="" group-title="edge", Canal J HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47774
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="edge", Cartoon Network HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47775
+#EXTINF:-1 tvg-ID="" tvg-name="BFM TV" tvg-logo="" group-title="edge", BFM TV
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47764
+#EXTINF:-1 tvg-ID="" tvg-name="Boing HD" tvg-logo="" group-title="edge", Boing HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47765
+#EXTINF:-1 tvg-ID="" tvg-name="Cherie 25" tvg-logo="" group-title="edge", Cherie 25
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47776
+#EXTINF:-1 tvg-ID="" tvg-name="CINE  classic HD" tvg-logo="" group-title="edge", CINE  classic HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47777
+#EXTINF:-1 tvg-ID="" tvg-name="Cine  Emotion HD" tvg-logo="" group-title="edge", Cine  Emotion HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47778
+#EXTINF:-1 tvg-ID="" tvg-name="Cine  Famiz" tvg-logo="" group-title="edge", Cine  Famiz
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47779
+#EXTINF:-1 tvg-ID="" tvg-name="CINE  Frisson" tvg-logo="" group-title="edge", CINE  Frisson
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47780
+#EXTINF:-1 tvg-ID="" tvg-name="Cine  Premier" tvg-logo="" group-title="edge", Cine  Premier
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47781
+#EXTINF:-1 tvg-ID="" tvg-name="CNews" tvg-logo="" group-title="edge", CNews
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47782
+#EXTINF:-1 tvg-ID="" tvg-name="Comedie  HD" tvg-logo="" group-title="edge", Comedie  HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47783
+#EXTINF:-1 tvg-ID="" tvg-name="CSTAR" tvg-logo="" group-title="edge", CSTAR
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47784
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science HD" tvg-logo="" group-title="edge", Discovery Science HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47785
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Cinema HD" tvg-logo="" group-title="edge", Disney Cinema HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47786
+#EXTINF:-1 tvg-ID="" tvg-name="Disney HD" tvg-logo="" group-title="edge", Disney HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47787
+#EXTINF:-1 tvg-ID="" tvg-name="E! HD" tvg-logo="" group-title="edge", E! HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47788
+#EXTINF:-1 tvg-ID="" tvg-name="Elle Girl HD" tvg-logo="" group-title="edge", Elle Girl HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47789
+#EXTINF:-1 tvg-ID="" tvg-name="Equidia Live HD" tvg-logo="" group-title="edge", Equidia Live HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47790
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="" group-title="edge", Eurosport 1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47791
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="edge", EUROSPORT 1 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47743
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="edge", Eurosport 1 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47742
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="edge", Eurosport 2
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47792
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="edge", EUROSPORT 2 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47745
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="edge", Eurosport 2 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47744
+#EXTINF:-1 tvg-ID="" tvg-name="Game One HD" tvg-logo="" group-title="edge", Game One HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47800
+#EXTINF:-1 tvg-ID="" tvg-name="Golf TV" tvg-logo="" group-title="edge", Golf TV
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47801
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Gulli" tvg-logo="" group-title="edge", Gulli
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47802
+#EXTINF:-1 tvg-ID="" tvg-name="HD1" tvg-logo="" group-title="edge", HD1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47803
+#EXTINF:-1 tvg-ID="" tvg-name="Histoire" tvg-logo="" group-title="edge", Histoire
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47804
+#EXTINF:-1 tvg-ID="" tvg-name="Infosport  FHD" tvg-logo="" group-title="edge", Infosport  FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47746
+#EXTINF:-1 tvg-ID="" tvg-name="Infosport  HD" tvg-logo="" group-title="edge", Infosport  HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47805
+#EXTINF:-1 tvg-ID="" tvg-name="L'" tvg-logo="" group-title="edge", L'
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47747
+#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="edge", LCI
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47806
+#EXTINF:-1 tvg-ID="" tvg-name="LCP" tvg-logo="" group-title="edge", LCP
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47807
+#EXTINF:-1 tvg-ID="" tvg-name="LEquipe 21" tvg-logo="" group-title="edge", LEquipe 21
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47808
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="edge", M6
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47809
+#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="" group-title="edge", Mangas
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47810
+#EXTINF:-1 tvg-ID="" tvg-name="MCM HD" tvg-logo="" group-title="edge", MCM HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47811
+#EXTINF:-1 tvg-ID="" tvg-name="MCM Top HD" tvg-logo="" group-title="edge", MCM Top HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47812
+#EXTINF:-1 tvg-ID="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="edge", Mezzo Live HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47813
+#EXTINF:-1 tvg-ID="" tvg-name="MTV France HD" tvg-logo="" group-title="edge", MTV France HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47814
+#EXTINF:-1 tvg-ID="" tvg-name="National Geo HD" tvg-logo="" group-title="edge", National Geo HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47815
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" group-title="edge", Nickelodeon
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47816
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ12" tvg-logo="" group-title="edge", NRJ12
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47817
+#EXTINF:-1 tvg-ID="" tvg-name="NT1" tvg-logo="" group-title="edge", NT1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47818
+#EXTINF:-1 tvg-ID="" tvg-name="Numero 23" tvg-logo="" group-title="edge", Numero 23
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47819
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="edge", Paramount Channel HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47820
+#EXTINF:-1 tvg-ID="" tvg-name="Planete  AE HD" tvg-logo="" group-title="edge", Planete  AE HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47821
+#EXTINF:-1 tvg-ID="" tvg-name="Planete  CI HD" tvg-logo="" group-title="edge", Planete  CI HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47822
+#EXTINF:-1 tvg-ID="" tvg-name="Planete  HD" tvg-logo="" group-title="edge", Planete  HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47823
+#EXTINF:-1 tvg-ID="" tvg-name="RFM TV HD" tvg-logo="" group-title="edge", RFM TV HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47824
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Docouverte" tvg-logo="" group-title="edge", RMC Docouverte
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47825
+#EXTINF:-1 tvg-ID="" tvg-name="Science & Vie HD" tvg-logo="" group-title="edge", Science & Vie HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47826
+#EXTINF:-1 tvg-ID="" tvg-name="Seasons HD" tvg-logo="" group-title="edge", Seasons HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47827
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 1" tvg-logo="" group-title="edge", SFR Sport 1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47828
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 2" tvg-logo="" group-title="edge", SFR Sport 2
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47829
+#EXTINF:-1 tvg-ID="" tvg-name="SFR SPORT 2 FHD" tvg-logo="" group-title="edge", SFR SPORT 2 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47749
+#EXTINF:-1 tvg-ID="" tvg-name="SFR SPORT 2 HD" tvg-logo="" group-title="edge", SFR SPORT 2 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47748
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 3" tvg-logo="" group-title="edge", SFR Sport 3
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47830
+#EXTINF:-1 tvg-ID="" tvg-name="SFR Sport 5" tvg-logo="" group-title="edge", SFR Sport 5
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47831
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy HD" tvg-logo="" group-title="edge", Syfy HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47832
+#EXTINF:-1 tvg-ID="" tvg-name="TCM Cinema HD" tvg-logo="" group-title="edge", TCM Cinema HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47833
+#EXTINF:-1 tvg-ID="" tvg-name="Tiji HD" tvg-logo="" group-title="edge", Tiji HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47835
+#EXTINF:-1 tvg-ID="" tvg-name="TMC" tvg-logo="" group-title="edge", TMC
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47836
+#EXTINF:-1 tvg-ID="" tvg-name="Trace Urban HD" tvg-logo="" group-title="edge", Trace Urban HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47837
+#EXTINF:-1 tvg-ID="" tvg-name="TV Breizh HD" tvg-logo="" group-title="edge", TV Breizh HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47838
+#EXTINF:-1 tvg-ID="" tvg-name="TV8 Mont-Blanc HD" tvg-logo="" group-title="edge", TV8 Mont-Blanc HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47839
+#EXTINF:-1 tvg-ID="" tvg-name="Voyage" tvg-logo="" group-title="edge", Voyage
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47840
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="" group-title="edge", W9
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47841
+#EXTINF:-1 tvg-ID="" tvg-name="6TER" tvg-logo="" group-title="edge", 6TER
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47758
+#EXTINF:-1 tvg-ID="" tvg-name="AB 1" tvg-logo="" group-title="edge", AB 1
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47759
+#EXTINF:-1 tvg-ID="" tvg-name="Action HD" tvg-logo="" group-title="edge", Action HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47760
+#EXTINF:-1 tvg-ID="" tvg-name="Animaux" tvg-logo="" group-title="edge", Animaux
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47761
+#EXTINF:-1 tvg-ID="" tvg-name="Arte" tvg-logo="" group-title="edge", Arte
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47762
+#EXTINF:-1 tvg-ID="" tvg-name="Be Curious TV HD" tvg-logo="" group-title="edge", Be Curious TV HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47763
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="" group-title="edge", beIN SPORTS 1 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47735
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1 HD" tvg-logo="" group-title="edge", beIN SPORTS 1 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47734
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2" tvg-logo="" group-title="edge", beIN SPORTS 2
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47736
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="edge", beIN SPORTS 2 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47738
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 2 HD" tvg-logo="" group-title="edge", beIN SPORTS 2 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47737
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3" tvg-logo="" group-title="edge", beIN SPORTS 3
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47739
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="edge", beIN SPORTS 3 FHD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47741
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 HD" tvg-logo="" group-title="edge", beIN SPORTS 3 HD
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47740
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 1 FR (1080P)" tvg-logo="" group-title="edge", beIN SPORTS HD 1 FR (1080P)
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47755
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 2 FR (1080P)" tvg-logo="" group-title="edge", beIN SPORTS HD 2 FR (1080P)
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47756
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD 3 FR (1080P)" tvg-logo="" group-title="edge", beIN SPORTS HD 3 FR (1080P)
+http://edge.19741977.network:8080/0XWLmvRCXp/k2kGqkcHrx/47757
 #EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 1 SD" tvg-logo="" group-title="abo2009", RMC SPORT 1 SD
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/265011217
 #EXTINF:-1 tvg-ID="" tvg-name=" RMC SPORT 2 SD" tvg-logo="" group-title="abo2009", RMC SPORT 2 SD
@@ -1061,53 +2716,53 @@ http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1591
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/1590
 #EXTINF:-1 tvg-ID="" tvg-name="  A LA CARTE 10" tvg-logo="http://dvb.oppserver.net/unix/xbmc/addons/vdr/stationlogos/a%20la%20carte.png" group-title="abo2009",  A LA CARTE 10
 http://localhd.tv:8081/abo2209/fGUnk6Xt8w/960
-#EXTINF:-1 tvg-ID="" tvg-name="FR: W9" tvg-logo="http://img.miptv.ws/fr/w9.png" group-title="srvbr",FR: W9
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="http://img.miptv.ws/fr/w9.png" group-title="srvbr",FR: W9
 http://a.srvbr.me:8880/227885/227885/5733
-#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER" tvg-logo="http://img.miptv.ws/fr/6ter.png" group-title="srvbr",FR: 6TER
+#EXTINF:-1 tvg-ID="" tvg-name="6TER" tvg-logo="http://img.miptv.ws/fr/6ter.png" group-title="srvbr",FR: 6TER
 http://a.srvbr.me:8880/227885/227885/5755
-#EXTINF:-1 tvg-ID="" tvg-name="FR: AB MOTEURS" tvg-logo="http://img.miptv.ws/fr/abmoteurs.png" group-title="srvbr",FR: AB MOTEURS
+#EXTINF:-1 tvg-ID="" tvg-name="AB MOTEURS" tvg-logo="http://img.miptv.ws/fr/abmoteurs.png" group-title="srvbr",FR: AB MOTEURS
 http://a.srvbr.me:8880/227885/227885/5753
-#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1" tvg-logo="http://img.miptv.ws/fr/ab1.png" group-title="srvbr",FR: AB1
+#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="http://img.miptv.ws/fr/ab1.png" group-title="srvbr",FR: AB1
 http://a.srvbr.me:8880/227885/227885/5754
-#EXTINF:-1 tvg-ID="" tvg-name="FR: ARTE" tvg-logo="http://img.miptv.ws/fr/arte.png" group-title="srvbr",FR: ARTE
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE" tvg-logo="http://img.miptv.ws/fr/arte.png" group-title="srvbr",FR: ARTE
 http://a.srvbr.me:8880/227885/227885/5752
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL 8" tvg-logo="http://img.miptv.ws/fr/canal8.png" group-title="srvbr",FR: CANAL 8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 8" tvg-logo="http://img.miptv.ws/fr/canal8.png" group-title="srvbr",FR: CANAL 8
 http://a.srvbr.me:8880/227885/227885/5748
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FX" tvg-logo="http://img.miptv.ws/fr/cinefx.png" group-title="srvbr",FR: CINE FX
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="http://img.miptv.ws/fr/cinefx.png" group-title="srvbr",FR: CINE FX
 http://a.srvbr.me:8880/227885/227885/5751
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE POLAR" tvg-logo="http://img.miptv.ws/fr/cinepolar.png" group-title="srvbr",FR: CINE POLAR
+#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="http://img.miptv.ws/fr/cinepolar.png" group-title="srvbr",FR: CINE POLAR
 http://a.srvbr.me:8880/227885/227885/5750
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CSTAR" tvg-logo="http://img.miptv.ws/fr/cstar.png" group-title="srvbr",FR: CSTAR
+#EXTINF:-1 tvg-ID="" tvg-name="CSTAR" tvg-logo="http://img.miptv.ws/fr/cstar.png" group-title="srvbr",FR: CSTAR
 http://a.srvbr.me:8880/227885/227885/5749
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE O" tvg-logo="http://img.miptv.ws/fr/franceo.png" group-title="srvbr",FR: FRANCE O
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE O" tvg-logo="http://img.miptv.ws/fr/franceo.png" group-title="srvbr",FR: FRANCE O
 http://a.srvbr.me:8880/227885/227885/5743
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 2" tvg-logo="http://img.miptv.ws/fr/france2.png" group-title="srvbr",FR: FRANCE 2
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="http://img.miptv.ws/fr/france2.png" group-title="srvbr",FR: FRANCE 2
 http://a.srvbr.me:8880/227885/227885/5747
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 24" tvg-logo="http://img.miptv.ws/fr/france24.png" group-title="srvbr",FR: FRANCE 24
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="http://img.miptv.ws/fr/france24.png" group-title="srvbr",FR: FRANCE 24
 http://a.srvbr.me:8880/227885/227885/5742
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 3" tvg-logo="http://img.miptv.ws/fr/france3.png" group-title="srvbr",FR: FRANCE 3
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="http://img.miptv.ws/fr/france3.png" group-title="srvbr",FR: FRANCE 3
 http://a.srvbr.me:8880/227885/227885/5746
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 4" tvg-logo="http://img.miptv.ws/fr/france4.png" group-title="srvbr",FR: FRANCE 4
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 4" tvg-logo="http://img.miptv.ws/fr/france4.png" group-title="srvbr",FR: FRANCE 4
 http://a.srvbr.me:8880/227885/227885/5745
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 5" tvg-logo="http://img.miptv.ws/fr/france5.png" group-title="srvbr",FR: FRANCE 5
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 5" tvg-logo="http://img.miptv.ws/fr/france5.png" group-title="srvbr",FR: FRANCE 5
 http://a.srvbr.me:8880/227885/227885/5744
-#EXTINF:-1 tvg-ID="" tvg-name="FR: L EQUIPE 21" tvg-logo="http://img.miptv.ws/fr/lequipe.png" group-title="srvbr",FR: L EQUIPE 21
+#EXTINF:-1 tvg-ID="" tvg-name="L EQUIPE 21" tvg-logo="http://img.miptv.ws/fr/lequipe.png" group-title="srvbr",FR: L EQUIPE 21
 http://a.srvbr.me:8880/227885/227885/5740
-#EXTINF:-1 tvg-ID="" tvg-name="FR: M6" tvg-logo="http://img.miptv.ws/fr/m6.png" group-title="srvbr",FR: M6
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="http://img.miptv.ws/fr/m6.png" group-title="srvbr",FR: M6
 http://a.srvbr.me:8880/227885/227885/5739
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NRJ12" tvg-logo="http://img.miptv.ws/fr/nrj12.png" group-title="srvbr",FR: NRJ12
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ12" tvg-logo="http://img.miptv.ws/fr/nrj12.png" group-title="srvbr",FR: NRJ12
 http://a.srvbr.me:8880/227885/227885/5738
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NT1 (TFX)" tvg-logo="http://img.miptv.ws/fr/nt1.png" group-title="srvbr",FR: NT1 (TFX)
+#EXTINF:-1 tvg-ID="" tvg-name="NT1 (TFX)" tvg-logo="http://img.miptv.ws/fr/nt1.png" group-title="srvbr",FR: NT1 (TFX)
 http://a.srvbr.me:8880/227885/227885/5737
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL9" tvg-logo="http://img.miptv.ws/fr/rtl9.png" group-title="srvbr",FR: RTL9
+#EXTINF:-1 tvg-ID="" tvg-name="RTL9" tvg-logo="http://img.miptv.ws/fr/rtl9.png" group-title="srvbr",FR: RTL9
 http://a.srvbr.me:8880/227885/227885/5736
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1" tvg-logo="http://img.miptv.ws/fr/tf1.png" group-title="srvbr",FR: TF1
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="http://img.miptv.ws/fr/tf1.png" group-title="srvbr",FR: TF1
 http://a.srvbr.me:8880/227885/227885/5735
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 SERIES FILMS" tvg-logo="http://img.miptv.ws/fr/tf1sf.png" group-title="srvbr",FR: TF1 SERIES FILMS
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 SERIES FILMS" tvg-logo="http://img.miptv.ws/fr/tf1sf.png" group-title="srvbr",FR: TF1 SERIES FILMS
 http://a.srvbr.me:8880/227885/227885/5741
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TMC" tvg-logo="http://img.miptv.ws/fr/tmc.png" group-title="srvbr",FR: TMC
+#EXTINF:-1 tvg-ID="" tvg-name="TMC" tvg-logo="http://img.miptv.ws/fr/tmc.png" group-title="srvbr",FR: TMC
 http://a.srvbr.me:8880/227885/227885/5734
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 MONDE" tvg-logo="http://img.miptv.ws/fr/tv5monde.png" group-title="srvbr",FR: TV5 MONDE
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE" tvg-logo="http://img.miptv.ws/fr/tv5monde.png" group-title="srvbr",FR: TV5 MONDE
 http://a.srvbr.me:8880/227885/227885/5732
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/fr/France2.fr.png" group-title="Versailles",France 2
 http://84.22.33.254/unicast.france2/index.m3u8
