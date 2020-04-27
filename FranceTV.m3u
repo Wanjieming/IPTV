@@ -1,4 +1,708 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="[FR] TF1 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="Davidhowell", TF1 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9556
+#EXTINF:-1 tvg-ID="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="Davidhowell", TF1 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2586
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="[FR] France 2 FHD" tvg-logo="" group-title="Davidhowell", France 2 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/29799
+#EXTINF:-1 tvg-ID="France2.fr" tvg-name="FR: France 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2_hd.jpg" group-title="Davidhowell", France 2 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2535
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="[FR] France 3 FHD" tvg-logo="" group-title="Davidhowell", France 3 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69636
+#EXTINF:-1 tvg-ID="France3.fr" tvg-name="FR: France 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3_hd.jpg" group-title="Davidhowell", France 3 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2583
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="[FR] France 4 FHD" tvg-logo="" group-title="Davidhowell", France 4 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69634
+#EXTINF:-1 tvg-ID="France4.fr" tvg-name="FR: France 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="Davidhowell", France 4 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2537
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="[FR] France 5 FHD" tvg-logo="" group-title="Davidhowell", France 5 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69635
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR: France 5 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="Davidhowell", France 5 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2561
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="[FR] M6 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr_hd.jpg" group-title="Davidhowell", M6 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12340
+#EXTINF:-1 tvg-ID="M6.fr" tvg-name="FR: M6 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr_hd.jpg" group-title="Davidhowell", M6 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2568
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="[FR] Arte FHD" tvg-logo="" group-title="Davidhowell", Arte FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152354
+#EXTINF:-1 tvg-ID="ARTE.fr" tvg-name="FR: Arte HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arte_fr_hd.jpg" group-title="Davidhowell", Arte HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2562
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FR: France O FHD" tvg-logo="" group-title="Davidhowell", France O FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152357
+#EXTINF:-1 tvg-ID="FranceO.fr" tvg-name="[FR] France O HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="Davidhowell", France O HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3108
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="FR: Canal+ FHD" tvg-logo="" group-title="Davidhowell", Canal+ FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17346
+#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="FR: Canal+ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_hd.jpg" group-title="Davidhowell", Canal+ HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2558
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="[FR] C8 FHD" tvg-logo="" group-title="Davidhowell", C8 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69626
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="FR: C8 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_d8.jpg" group-title="Davidhowell", C8 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2563
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="[FR] W9 FHD" tvg-logo="" group-title="Davidhowell", W9 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69633
+#EXTINF:-1 tvg-ID="W9.fr" tvg-name="FR: W9 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/w9_fr_hd.jpg" group-title="Davidhowell", W9 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2596
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="[FR] TMC FHD" tvg-logo="" group-title="Davidhowell", TMC FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/70303
+#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="FR: TMC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tmc.jpg" group-title="Davidhowell", TMC HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2578
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="[FR] TFX FHD" tvg-logo="" group-title="Davidhowell", TFX FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152341
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nt1.jpg" group-title="Davidhowell", TFX HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2564
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="[FR] NRJ 12 FHD" tvg-logo="" group-title="Davidhowell", NRJ 12 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152337
+#EXTINF:-1 tvg-ID="NRJ12.fr" tvg-name="FR: NRJ 12 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj12_hd.jpg" group-title="Davidhowell", NRJ 12 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2565
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: Paris Premiere FHD" tvg-logo="" group-title="Davidhowell", Paris Premiere FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152338
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paris_premiere_hd.jpg" group-title="Davidhowell", Paris Premiere HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2588
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="[FR] C Star FHD" tvg-logo="" group-title="Davidhowell", C Star FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152339
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR: C Star HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_d17.jpg" group-title="Davidhowell", C Star HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2575
+#EXTINF:-1 tvg-ID="TV5MondeEurope.fr" tvg-name="FR: TV5 Monde FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv5_monde_europe.jpg" group-title="Davidhowell", TV5 Monde FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9261
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 Monde Pacifique" tvg-logo="" group-title="Davidhowell", TV5 Monde Pacifique
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163724
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 Maghreb-Orient" tvg-logo="" group-title="Davidhowell", TV5 Maghreb-Orient
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163713
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 Style " tvg-logo="" group-title="Davidhowell", TV5 Style 
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163714
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="[FR] 6ter FHD" tvg-logo="" group-title="Davidhowell", 6ter FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152340
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6ter HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="Davidhowell", 6ter HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2914
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="FR: Teva FHD" tvg-logo="" group-title="Davidhowell", Teva FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69638
+#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="FR: Teva HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teva_hd.jpg" group-title="Davidhowell", Teva HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2591
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="[FR] RMC Story FHD" tvg-logo="" group-title="Davidhowell", RMC Story FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152352
+#EXTINF:-1 tvg-ID="RMCStory.fr" tvg-name="FR: RMC Story HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/numero_23_fr.jpg" group-title="Davidhowell", RMC Story HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4518
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="[FR] Cherie 25 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vosges_television.jpg" group-title="Davidhowell", Cherie 25 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9401
+#EXTINF:-1 tvg-ID="Cherie25.fr" tvg-name="FR: Cherie 25 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cherie_25_fr.jpg" group-title="Davidhowell", Cherie 25 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2552
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="[FR] TF1 Series Films FHD" tvg-logo="" group-title="Davidhowell", TF1 Series Films FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165988
+#EXTINF:-1 tvg-ID="TF1SeriesFilms.fr" tvg-name="FR: TF1 Series Films HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hd1_fr.jpg" group-title="Davidhowell", TF1 Series Films HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2587
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="FR: MTV FHD" tvg-logo="" group-title="Davidhowell", MTV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152358
+#EXTINF:-1 tvg-ID="MTV.fr" tvg-name="FR: MTV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_fr.jpg" group-title="Davidhowell", MTV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/8072
+#EXTINF:-1 tvg-ID="ellegirl.fr" tvg-name="FR: Elle Girl HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/elle_at_tv.jpg" group-title="Davidhowell", Elle Girl HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9344
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR: Comedie+ FHD" tvg-logo="" group-title="Davidhowell", Comedie+ FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152348
+#EXTINF:-1 tvg-ID="Comedie.fr" tvg-name="FR: Comedie+ HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_comedie_plus.jpg" group-title="Davidhowell", Comedie+ HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2549
+#EXTINF:-1 tvg-ID="ComedyCentral.fr" tvg-name="FR: Comedy Central FHD" tvg-logo="" group-title="Davidhowell", Comedy Central FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152349
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MyComedy HD" tvg-logo="" group-title="Davidhowell", MyComedy HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163704
+#EXTINF:-1 tvg-ID="MCM.fr" tvg-name="FR: MCM HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_fr.jpg" group-title="Davidhowell", MCM HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9347
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Be Curious HD" tvg-logo="" group-title="Davidhowell", Be Curious HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130742
+#EXTINF:-1 tvg-ID="Eentertainment.fr" tvg-name="FR: E! Entertainment HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_fr.jpg" group-title="Davidhowell", E! Entertainment HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3613
+#EXTINF:-1 tvg-ID="Viceland.fr" tvg-name="FR: Viceland FHD" tvg-logo="" group-title="Davidhowell", Viceland FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37812
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="FR: Altice Studio FHD" tvg-logo="" group-title="Davidhowell", Altice Studio FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152314
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="FR: Sundance FHD" tvg-logo="" group-title="Davidhowell", Sundance FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152347
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="FR: Game One FHD" tvg-logo="" group-title="Davidhowell", Game One FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152365
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="FR: Game One" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one.jpg" group-title="Davidhowell", Game One
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5303
+#EXTINF:-1 tvg-ID="Gong.fr" tvg-name="FR: Gong Base" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gong_base_fr.jpg" group-title="Davidhowell", Gong Base
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1448
+#EXTINF:-1 tvg-ID="GongMax.fr" tvg-name="FR: Gong Max HD" tvg-logo="" group-title="Davidhowell", Gong Max HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/122458
+#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="FR: J One FHD" tvg-logo="" group-title="Davidhowell", J One FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152414
+#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="FR: J One HD" tvg-logo="" group-title="Davidhowell", J One HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17347
+#EXTINF:-1 tvg-ID="CliqueTV.fr" tvg-name="FR: Clique TV FHD" tvg-logo="" group-title="Davidhowell", Clique TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152343
+#EXTINF:-1 tvg-ID="demaintv.fr" tvg-name="FR: Demain FHD" tvg-logo="" group-title="Davidhowell", Demain FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152345
+#EXTINF:-1 tvg-ID="LuxeTV.eu" tvg-name="FR: Luxe TV FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/luxe_tv.jpg" group-title="Davidhowell", Luxe TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9348
+#EXTINF:-1 tvg-ID="AB1.fr" tvg-name="FR: AB1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab1.jpg" group-title="Davidhowell", AB1 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5596
+#EXTINF:-1 tvg-ID="AB3.be" tvg-name="[FR] AB3 HD" tvg-logo="" group-title="Davidhowell", AB3 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69628
+#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="FR: AB3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab3.jpg" group-title="Davidhowell", AB3 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3619
+#EXTINF:-1 tvg-ID="BET.fr" tvg-name="FR: BET" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bet_us.jpg" group-title="Davidhowell", BET
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6356
+#EXTINF:-1 tvg-ID="A+.fr" tvg-name="FR: A+" tvg-logo="" group-title="Davidhowell", A+
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19577
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Novelas TV" tvg-logo="" group-title="Davidhowell", Novelas TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152361
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Alpha JU FHD" tvg-logo="" group-title="Davidhowell", Canal Alpha JU FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165416
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 3 Noa FHD" tvg-logo="" group-title="Davidhowell", France 3 Noa FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165417
+#EXTINF:-1 tvg-ID="tv8montblanc.fr" tvg-name="[FR] Mont Blanc Live FHD" tvg-logo="" group-title="Davidhowell", Mont Blanc Live FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/166265
+#EXTINF:-1 tvg-ID="NonStopPeople.fr" tvg-name="FR: Non Stop People FHD" tvg-logo="" group-title="Davidhowell", Non Stop People FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152332
+#EXTINF:-1 tvg-ID="NonStopPeople.fr" tvg-name="FR: Non Stop People" tvg-logo="" group-title="Davidhowell", Non Stop People
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19569
+#EXTINF:-1 tvg-ID="m6boutique.fr" tvg-name="[FR] M6 Boutique" tvg-logo="" group-title="Davidhowell", M6 Boutique
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165987
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="[FR] Gulli FHD" tvg-logo="" group-title="Davidhowell", Gulli FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152362
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR: Gulli" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gulli.jpg" group-title="Davidhowell", Gulli
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3045
+#EXTINF:-1 tvg-ID="BabyTV.fr" tvg-name="[FR] Baby TV" tvg-logo="" group-title="Davidhowell", Baby TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/168468
+#EXTINF:-1 tvg-ID="" tvg-name="[FR] Masha Et Michka" tvg-logo="" group-title="Davidhowell", Masha Et Michka
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/155413
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR: Piwi+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_piwi_plus.jpg" group-title="Davidhowell", Piwi+
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5784
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="FR: Nickelodeon Junior FHD" tvg-logo="" group-title="Davidhowell", Nickelodeon Junior FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152363
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="FR: Nickelodeon Junior HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_junior_fr.jpg" group-title="Davidhowell", Nickelodeon Junior HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5595
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="FR: Disney Junior FHD" tvg-logo="" group-title="Davidhowell", Disney Junior FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152368
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR: Disney Junior HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_fr_hd.jpg" group-title="Davidhowell", Disney Junior HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3317
+#EXTINF:-1 tvg-ID="Boing.fr" tvg-name="FR: Boing" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boing_fr.jpg" group-title="Davidhowell", Boing
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9342
+#EXTINF:-1 tvg-ID="Tiji.fr" tvg-name="FR: Tiji HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="Davidhowell", Tiji HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2580
+#EXTINF:-1 tvg-ID="TeleTOON.fr" tvg-name="FR: Teletoon + HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_teletoon.jpg" group-title="Davidhowell", Teletoon + HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3342
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="FR: Cartoon Network FHD" tvg-logo="" group-title="Davidhowell", Cartoon Network FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69631
+#EXTINF:-1 tvg-ID="CartoonNetwork.fr" tvg-name="FR: Cartoon Network HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_fr.jpg" group-title="Davidhowell", Cartoon Network HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2592
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="FR: Boomerang HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_fr.jpg" group-title="Davidhowell", Boomerang HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2589
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Pitchoun TV HD" tvg-logo="" group-title="Davidhowell", Pitchoun TV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130743
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="FR: Canal J FHD" tvg-logo="" group-title="Davidhowell", Canal J FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152328
+#EXTINF:-1 tvg-ID="CanalJ.fr" tvg-name="FR: Canal J HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_j.jpg" group-title="Davidhowell", Canal J HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3348
+#EXTINF:-1 tvg-ID="disneychannel.fr" tvg-name="FR: Disney Channel FHD" tvg-logo="" group-title="Davidhowell", Disney Channel FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152367
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR: Disney Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_fr.jpg" group-title="Davidhowell", Disney Channel HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5594
+#EXTINF:-1 tvg-ID="DisneyMagic.fr" tvg-name="FR: Disney Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="Davidhowell", Disney Cinema HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2545
+#EXTINF:-1 tvg-ID="DisneyXD.fr" tvg-name="FR: Disney XD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_fr_hd.jpg" group-title="Davidhowell", Disney XD HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2582
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="FR: Nickelodeon FHD" tvg-logo="" group-title="Davidhowell", Nickelodeon FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152364
+#EXTINF:-1 tvg-ID="Nickelodeon.fr" tvg-name="FR: Nickelodeon" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_fr.jpg" group-title="Davidhowell", Nickelodeon
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6354
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="FR: Nickelodeon 4Teen FHD" tvg-logo="" group-title="Davidhowell", Nickelodeon 4Teen FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152315
+#EXTINF:-1 tvg-ID="Mangas.fr" tvg-name="FR: Manga" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mangas.jpg" group-title="Davidhowell", Manga
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3618
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="FR: Toonami HD" tvg-logo="" group-title="Davidhowell", Toonami HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19572
+#EXTINF:-1 tvg-ID="MyCuisine.fr" tvg-name="FR: My Cuisine FHD" tvg-logo="" group-title="Davidhowell", My Cuisine FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19575
+#EXTINF:-1 tvg-ID="Voyage.fr" tvg-name="FR: Voyage FHD" tvg-logo="" group-title="Davidhowell", Voyage FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69637
+#EXTINF:-1 tvg-ID="Voyage.fr" tvg-name="FR: Voyage HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title="Davidhowell", Voyage HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3018
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR: Ushuaia FHD" tvg-logo="" group-title="Davidhowell", Ushuaia FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152329
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR: Ushuaia TV HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv_hd.jpg" group-title="Davidhowell", Ushuaia TV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2554
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR: Discovery FHD" tvg-logo="" group-title="Davidhowell", Discovery FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152324
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR: Discovery HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" group-title="Davidhowell", Discovery HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2548
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR: Discovery Science FHD" tvg-logo="" group-title="Davidhowell", Discovery Science FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152326
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="Davidhowell", Discovery Science HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2546
+#EXTINF:-1 tvg-ID="DiscoveryFamily.fr" tvg-name="FR: Discovery Family FHD" tvg-logo="" group-title="Davidhowell", Discovery Family FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69632
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="FR: Discovery Investigation FHD" tvg-logo="" group-title="Davidhowell", Discovery Investigation FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152327
+#EXTINF:-1 tvg-ID="DiscoveryInvestigation.fr" tvg-name="FR: Discovery Investigation HD" tvg-logo="" group-title="Davidhowell", Discovery Investigation HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19573
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR: National Geographic FHD" tvg-logo="" group-title="Davidhowell", National Geographic FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152366
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR: National Geographic HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="Davidhowell", National Geographic HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1993
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: Nat Geo Wild FHD" tvg-logo="" group-title="Davidhowell", Nat Geo Wild FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152369
+#EXTINF:-1 tvg-ID="NatGeoWildHD.fr" tvg-name="FR: Nat Geo Wild HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" group-title="Davidhowell", Nat Geo Wild HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3315
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="[FR] RMC Decouverte FHD" tvg-logo="" group-title="Davidhowell", RMC Decouverte FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152353
+#EXTINF:-1 tvg-ID="RMCdecouverte.fr" tvg-name="FR: RMC Decouverte HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rmc_decouverte.jpg" group-title="Davidhowell", RMC Decouverte HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1427
+#EXTINF:-1 tvg-ID="Trek.fr" tvg-name="FR: Trek HD" tvg-logo="" group-title="Davidhowell", Trek HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6352
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR: Sciences & Vie FHD" tvg-logo="" group-title="Davidhowell", Sciences & Vie FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152313
+#EXTINF:-1 tvg-ID="ScienceVie.fr" tvg-name="FR: Science & Vie HD" tvg-logo="" group-title="Davidhowell", Science & Vie HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3341
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="FR: Planete+ FHD" tvg-logo="" group-title="Davidhowell", Planete+ FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152323
+#EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="FR: Planete+  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_planete_hd.jpg" group-title="Davidhowell", Planete+  HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2555
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="FR: Planete + CI FHD" tvg-logo="" group-title="Davidhowell", Planete + CI FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152331
+#EXTINF:-1 tvg-ID="PLANETEJustice.fr" tvg-name="FR: Planete+ CI HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_planete.jpg" group-title="Davidhowell", Planete+ CI HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2571
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="FR: Planete+A&E FHD" tvg-logo="" group-title="Davidhowell", Planete+A&E FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152330
+#EXTINF:-1 tvg-ID="PLANETEnoLIMIT.fr" tvg-name="FR: Planete+ A&E HD" tvg-logo="" group-title="Davidhowell", Planete+ A&E HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2551
+#EXTINF:-1 tvg-ID="Automoto.fr" tvg-name="FR: Automoto La Chaine FHD" tvg-logo="" group-title="Davidhowell", Automoto La Chaine FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152131
+#EXTINF:-1 tvg-ID="ABMoteurs.fr" tvg-name="FR: Automoto La Chaine HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab_moteurs.jpg" group-title="Davidhowell", Automoto La Chaine HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/8065
+#EXTINF:-1 tvg-ID="CrimeDistrict.fr" tvg-name="FR: Crime District HD" tvg-logo="" group-title="Davidhowell", Crime District HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19574
+#EXTINF:-1 tvg-ID="Museum.fr" tvg-name="FR: Museum" tvg-logo="" group-title="Davidhowell", Museum
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152346
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: Animaux FHD" tvg-logo="" group-title="Davidhowell", Animaux FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152317
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR: Animaux" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animaux.jpg" group-title="Davidhowell", Animaux
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3324
+#EXTINF:-1 tvg-ID="Histoire.fr" tvg-name="FR: Histoire" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/histoire.jpg" group-title="Davidhowell", Histoire
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4512
+#EXTINF:-1 tvg-ID="TouteHistoire.fr" tvg-name="FR: Toute L'histoire" tvg-logo="" group-title="Davidhowell", Toute L'histoire
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3350
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="FR: Chasse Et Peche" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/chasse_et_peche.jpg" group-title="Davidhowell", Chasse Et Peche
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3611
+#EXTINF:-1 tvg-ID="Seasons.fr" tvg-name="FR: Seasons" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/seasons.jpg" group-title="Davidhowell", Seasons
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6353
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="FR: Canal+ Cinema FHD" tvg-logo="" group-title="Davidhowell", Canal+ Cinema FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152373
+#EXTINF:-1 tvg-ID="CANALplusCINEMA.fr" tvg-name="FR: Canal+ Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cinema_hd.jpg" group-title="Davidhowell", Canal+ Cinema HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2567
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR: Canal+ Decale FHD" tvg-logo="" group-title="Davidhowell", Canal+ Decale FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69629
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR: Canal+ Decale HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_decale_hd.jpg" group-title="Davidhowell", Canal+ Decale HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3058
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR: Canal+ Family FHD" tvg-logo="" group-title="Davidhowell", Canal+ Family FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69630
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR: Canal+ Family HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_family_hd.jpg" group-title="Davidhowell", Canal+ Family HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2585
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="FR: Canal+ Series FHD" tvg-logo="" group-title="Davidhowell", Canal+ Series FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152372
+#EXTINF:-1 tvg-ID="CanalplusSeries.fr" tvg-name="FR: Canal+ Series HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_series.jpg" group-title="Davidhowell", Canal+ Series HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3059
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR: Cine Premier FHD" tvg-logo="" group-title="Davidhowell", Cine Premier FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152319
+#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="FR: Cine Premier HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_premier_hd.jpg" group-title="Davidhowell", Cine Premier HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2553
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="FR: Cine Frisson FHD" tvg-logo="" group-title="Davidhowell", Cine Frisson FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152318
+#EXTINF:-1 tvg-ID="CinecinemaFrisson.fr" tvg-name="FR: Cine Frisson HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_frisson_hd.jpg" group-title="Davidhowell", Cine Frisson HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2574
+#EXTINF:-1 tvg-ID="cineplusfamiz.fr" tvg-name="FR: Cine Famiz FHD" tvg-logo="" group-title="Davidhowell", Cine Famiz FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152321
+#EXTINF:-1 tvg-ID="CinecinemaFamiz.fr" tvg-name="FR: Cine Famiz HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_famiz.jpg" group-title="Davidhowell", Cine Famiz HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="FR: Cine Emotion FHD" tvg-logo="" group-title="Davidhowell", Cine Emotion FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152320
+#EXTINF:-1 tvg-ID="CinecinemaEmotion.fr" tvg-name="FR: Cine Emotion HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_emotion_hd.jpg" group-title="Davidhowell", Cine Emotion HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2573
+#EXTINF:-1 tvg-ID="cinepolar.fr" tvg-name="FR: Cine Polar FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_polar.jpg" group-title="Davidhowell", Cine Polar FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3612
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR: Cine Classic FHD" tvg-logo="" group-title="Davidhowell", Cine Classic FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152322
+#EXTINF:-1 tvg-ID="CinePolar.fr" tvg-name="FR: Cine Classic HD" tvg-logo="" group-title="Davidhowell", Cine Classic HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2584
+#EXTINF:-1 tvg-ID="CinecinemaClub.fr" tvg-name="FR: Cine Club FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_club.jpg" group-title="Davidhowell", Cine Club FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9402
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="FR: OCS Max FHD" tvg-logo="" group-title="Davidhowell", OCS Max FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152333
+#EXTINF:-1 tvg-ID="OrangeCinemax.fr" tvg-name="FR: OCS Max HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_max_hd.jpg" group-title="Davidhowell", OCS Max HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3318
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="FR: OCS Choc FHD" tvg-logo="" group-title="Davidhowell", OCS Choc FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152336
+#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="FR: OCS Choc HD" tvg-logo="" group-title="Davidhowell", OCS Choc HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2577
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR: OCS Geants FHD" tvg-logo="" group-title="Davidhowell", OCS Geants FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152335
+#EXTINF:-1 tvg-ID="OrangeCineGeants.fr" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="Davidhowell", OCS Geants HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4515
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="FR: OCS City FHD" tvg-logo="" group-title="Davidhowell", OCS City FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152334
+#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="FR: OCS City HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_city.jpg" group-title="Davidhowell", OCS City HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4514
+#EXTINF:-1 tvg-ID="Syfy.fr" tvg-name="FR: SyFy HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_universal_fr.jpg" group-title="Davidhowell", SyFy HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2559
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="FR: Action FHD" tvg-logo="" group-title="Davidhowell", Action FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152436
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR: Action HD" tvg-logo="" group-title="Davidhowell", Action HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3335
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="FR: RTL9 FHD" tvg-logo="" group-title="Davidhowell", RTL9 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152351
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR: RTL9 HD" tvg-logo="" group-title="Davidhowell", RTL9 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3325
+#EXTINF:-1 tvg-ID="13RUE.fr" tvg-name="FR: 13e Rue HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/13eme_rue_universal.jpg" group-title="Davidhowell", 13e Rue HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3336
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="FR: TV Breiz FHD" tvg-logo="" group-title="Davidhowell", TV Breiz FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37814
+#EXTINF:-1 tvg-ID="TVBreizh.fr" tvg-name="FR: TV Breizh HD" tvg-logo="" group-title="Davidhowell", TV Breizh HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2557
+#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="FR: Warner TV FHD" tvg-logo="" group-title="Davidhowell", Warner TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152312
+#EXTINF:-1 tvg-ID="TCM.fr" tvg-name="FR: TCM Cinema HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcm_cinema_fr_hd.jpg" group-title="Davidhowell", TCM Cinema HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5304
+#EXTINF:-1 tvg-ID="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="" group-title="Davidhowell", Paramount Channel HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2547
+#EXTINF:-1 tvg-ID="SerieClub.fr" tvg-name="FR: Serie Club HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/serie_club_hd.jpg" group-title="Davidhowell", Serie Club HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3316
+#EXTINF:-1 tvg-ID="" tvg-name="---- FR Musique ----" tvg-logo="" group-title="French",---- FR Musique ----
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12361
+#EXTINF:-1 tvg-ID="m6music.fr" tvg-name="FR: M6 Music FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_music_fr.jpg" group-title="Davidhowell", M6 Music FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1469
+#EXTINF:-1 tvg-ID="NRJHits.fr" tvg-name="FR: NRJ Hits HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj_hits.jpg" group-title="Davidhowell", NRJ Hits HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/10248
+#EXTINF:-1 tvg-ID="MTVHits.fr" tvg-name="FR: MTV Hits FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_hits_uk.jpg" group-title="Davidhowell", MTV Hits FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/10192
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MTV Live FHD" tvg-logo="" group-title="Davidhowell", MTV Live FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165601
+#EXTINF:-1 tvg-ID="MCMtop.fr" tvg-name="FR: MCM Top HD" tvg-logo="" group-title="Davidhowell", MCM Top HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17342
+#EXTINF:-1 tvg-ID="RFMTV.fr" tvg-name="FR: RFM TV HD" tvg-logo="" group-title="Davidhowell", RFM TV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17343
+#EXTINF:-1 tvg-ID="" tvg-name="CH: LFM TV FHD" tvg-logo="" group-title="French",CH: LFM TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/25615
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DJing Classics" tvg-logo="" group-title="Davidhowell", DJing Classics
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37818
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DJing French Touch" tvg-logo="" group-title="Davidhowell", DJing French Touch
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37819
+#EXTINF:-1 tvg-ID="TeleMelody.fr" tvg-name="FR: Melody TV" tvg-logo="" group-title="Davidhowell", Melody TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152360
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Tropical HD" tvg-logo="" group-title="Davidhowell", Trace Tropical HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37811
+#EXTINF:-1 tvg-ID="TraceUrban.fr" tvg-name="FR: Trace Urban HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/trace_urban_french.jpg" group-title="Davidhowell", Trace Urban HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/11745
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Toca HD" tvg-logo="" group-title="Davidhowell", Trace Toca HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163710
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Naija HD" tvg-logo="" group-title="Davidhowell", Trace Naija HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163709
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Mziki HD" tvg-logo="" group-title="Davidhowell", Trace Mziki HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163708
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Kitoko HD" tvg-logo="" group-title="Davidhowell", Trace Kitoko HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163707
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Africa HD" tvg-logo="" group-title="Davidhowell", Trace Africa HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163706
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OKLM FHD" tvg-logo="" group-title="Davidhowell", OKLM FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165415
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Cstar Hits" tvg-logo="" group-title="Davidhowell", Cstar Hits
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165414
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DBM" tvg-logo="" group-title="Davidhowell", DBM
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163699
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Mezzo Live HD" tvg-logo="" group-title="Davidhowell", Mezzo Live HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/137944
+#EXTINF:-1 tvg-ID="MezzoLiveHD.fr" tvg-name="FR: Mezzo HD" tvg-logo="" group-title="Davidhowell", Mezzo HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17344
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Stingray Classica HD" tvg-logo="" group-title="Davidhowell", Stingray Classica HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17345
+#EXTINF:-1 tvg-ID="StingrayDjazz.fr" tvg-name="FR: Djazz TV FHD" tvg-logo="" group-title="Davidhowell", Djazz TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37817
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Sky Cinema Action HD" tvg-logo="https://i.ibb.co/bBG64XH/1280px-Sky-Cinema-Action-HD-Logo-2019-svg.png" group-title="Davidhowell", Sky Cinema Action HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/155446
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 1: The Predator" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_1.jpg" group-title="Davidhowell", A La Carte 1: The Predator
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3113
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 2: The Spacewalker" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_2.jpg" group-title="Davidhowell", A La Carte 2: The Spacewalker
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3112
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 3: Invaders" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_3.jpg" group-title="Davidhowell", A La Carte 3: Invaders
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3111
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 4: Equalizer 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_4.jpg" group-title="Davidhowell", A La Carte 4: Equalizer 2
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3614
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 5: Gemini" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_5.jpg" group-title="Davidhowell", A La Carte 5: Gemini
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3120
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 6: Mission : Impossible - Fallout" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_6.jpg" group-title="Davidhowell", A La Carte 6: Mission : Impossible - Fallout
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1465
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A La Carte 7: Le Roi Scorpion : Le livre des âmes" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_7.jpg" group-title="Davidhowell", A La Carte 7: Le Roi Scorpion : Le livre des âmes
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4509
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 1: Stasis" tvg-logo="" group-title="Davidhowell", Canal Play 1: Stasis
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3615
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 2: Altitude" tvg-logo="" group-title="Davidhowell", Canal Play 2: Altitude
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4517
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 3: L'ascension" tvg-logo="" group-title="Davidhowell", Canal Play 3: L'ascension
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6717
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 4: John Wick 2" tvg-logo="" group-title="Davidhowell", Canal Play 4: John Wick 2
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3616
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 5: Dode Hoek" tvg-logo="" group-title="Davidhowell", Canal Play 5: Dode Hoek
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6718
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 6: War Machine" tvg-logo="" group-title="Davidhowell", Canal Play 6: War Machine
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6719
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 7: Awakening The Zodiac" tvg-logo="" group-title="Davidhowell", Canal Play 7: Awakening The Zodiac
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6720
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange Cinema Action HD" tvg-logo="" group-title="Davidhowell", Orange Cinema Action HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12377
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange Cinema Aventure HD" tvg-logo="" group-title="Davidhowell", Orange Cinema Aventure HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12376
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Via Grand Paris FHD" tvg-logo="" group-title="Davidhowell", Via Grand Paris FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152350
+#EXTINF:-1 tvg-ID="idf1.fr" tvg-name="FR: IDF 1" tvg-logo="" group-title="Davidhowell", IDF 1
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152344
+#EXTINF:-1 tvg-ID="kto.fr" tvg-name="FR: KTO" tvg-logo="" group-title="Davidhowell", KTO
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130744
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Weo HD" tvg-logo="" group-title="Davidhowell", Weo HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3119
+#EXTINF:-1 tvg-ID="" tvg-name="FR: IL TV" tvg-logo="" group-title="Davidhowell", IL TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7656
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Nancy TV" tvg-logo="" group-title="Davidhowell", Nancy TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163721
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV Mana" tvg-logo="" group-title="Davidhowell", TV Mana
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163723
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Super Yatch TV" tvg-logo="" group-title="Davidhowell", Super Yatch TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163722
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Mirabelle TV" tvg-logo="" group-title="Davidhowell", Mirabelle TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163719
+#EXTINF:-1 tvg-ID="" tvg-name="FR: La Chaine Normande" tvg-logo="" group-title="Davidhowell", La Chaine Normande
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163718
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Via Vosges" tvg-logo="" group-title="Davidhowell", Via Vosges
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163717
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TVPI" tvg-logo="" group-title="Davidhowell", TVPI
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163716
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV7 Colmar " tvg-logo="" group-title="Davidhowell", TV7 Colmar 
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163715
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV3V" tvg-logo="" group-title="Davidhowell", TV3V
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163712
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV Rennes" tvg-logo="" group-title="Davidhowell", TV Rennes
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163711
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Dici TV" tvg-logo="" group-title="Davidhowell", Dici TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163703
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Ere TV" tvg-logo="" group-title="Davidhowell", Ere TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163702
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  EMCI TV Paris" tvg-logo="" group-title="Davidhowell",  EMCI TV Paris
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163701
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bip TV" tvg-logo="" group-title="Davidhowell", Bip TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163698
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Alsace TV" tvg-logo="" group-title="Davidhowell", Alsace TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163697
+#EXTINF:-1 tvg-ID="" tvg-name="FR: D5 TV HD" tvg-logo="" group-title="Davidhowell", D5 TV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163696
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Dieu TV" tvg-logo="" group-title="Davidhowell", Dieu TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163700
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TN TV HD" tvg-logo="" group-title="Davidhowell", TN TV HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163727
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MensUp" tvg-logo="" group-title="Davidhowell", MensUp
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163726
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Lucky Jack" tvg-logo="" group-title="Davidhowell", Lucky Jack
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163725
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Aerostar" tvg-logo="" group-title="Davidhowell", Aerostar
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/18384
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fashion TV Paris HD" tvg-logo="" group-title="Davidhowell", Fashion TV Paris HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163733
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fashion TV Midnite HD" tvg-logo="" group-title="Davidhowell", Fashion TV Midnite HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163732
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fashion Top Model HD " tvg-logo="" group-title="Davidhowell", Fashion Top Model HD 
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163731
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Fashion Destination HD" tvg-logo="" group-title="Davidhowell",  Fashion Destination HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163728
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fashion PG13 HD" tvg-logo="" group-title="Davidhowell", Fashion PG13 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163729
+#EXTINF:-1 tvg-ID="" tvg-name="FR:  Fashion PG16 HD" tvg-logo="" group-title="Davidhowell",  Fashion PG16 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163730
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="[FR] L" tvg-logo="" group-title="VIP Sports French",[FR] L
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/70629
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="FR: L'equipe 21 HD" tvg-logo="" group-title="VIP Sports French",FR: L'equipe 21 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2885
+#EXTINF:-1 tvg-ID="RMCSportNews.fr" tvg-name="FR: RMC Sport News HD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport News HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9581
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR: Infosport+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_infosport_plus.jpg" group-title="VIP Sports French",FR: Infosport+
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3148
+#EXTINF:-1 tvg-ID="" tvg-name="Corona Virus Info" tvg-logo="" group-title="French",Corona Virus Info
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/164478
+#EXTINF:-1 tvg-ID="EuronewsFR.nws" tvg-name="FR: Euronews FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/euronews.jpg" group-title="Davidhowell", Euronews FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1429
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 Monde Info" tvg-logo="" group-title="Davidhowell", TV5 Monde Info
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1466
+#EXTINF:-1 tvg-ID="France24fr.fr" tvg-name="[FR] France 24 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france24_francais.jpg" group-title="Davidhowell", France 24 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1428
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="[FR] France Info FHD" tvg-logo="" group-title="Davidhowell", France Info FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/166264
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FR: France Info" tvg-logo="" group-title="Davidhowell", France Info
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12828
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="FR: C News HD" tvg-logo="" group-title="Davidhowell", C News HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69627
+#EXTINF:-1 tvg-ID="CNews.fr" tvg-name="[FR] C News FHD" tvg-logo="" group-title="Davidhowell", C News FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2566
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="[FR] LCI FHD" tvg-logo="" group-title="Davidhowell", LCI FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152355
+#EXTINF:-1 tvg-ID="LCI.fr" tvg-name="FR: LCI HD" tvg-logo="" group-title="Davidhowell", LCI HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2570
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="[FR] BFM TV FHD" tvg-logo="" group-title="Davidhowell", BFM TV FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152356
+#EXTINF:-1 tvg-ID="BFMTV.fr" tvg-name="FR: BFM TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bfm_tv.jpg" group-title="Davidhowell", BFM TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1437
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM Paris FHD" tvg-logo="" group-title="Davidhowell", BFM Paris FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152316
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM Paris" tvg-logo="" group-title="Davidhowell", BFM Paris
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37953
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM Lyon HD" tvg-logo="" group-title="Davidhowell", BFM Lyon HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163694
+#EXTINF:-1 tvg-ID="BFMBusiness.fr" tvg-name="FR: BFM Business" tvg-logo="" group-title="Davidhowell", BFM Business
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19576
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Monaco Info" tvg-logo="" group-title="Davidhowell", Monaco Info
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163720
+#EXTINF:-1 tvg-ID="" tvg-name="[FR] RT France FHD" tvg-logo="" group-title="Davidhowell", RT France FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163705
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CGTN Francais" tvg-logo="" group-title="Davidhowell", CGTN Francais
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163695
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name="[FR] LCP FHD" tvg-logo="" group-title="Davidhowell", LCP FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165989
+#EXTINF:-1 tvg-ID="LCP.fr" tvg-name="FR: LCP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="Davidhowell", LCP
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3546
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR: Bein Sports 1 FHD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 1 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/10245
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR: Bein Sports 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1_hd.jpg" group-title="VIP Sports French",FR: Bein Sports 1 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2569
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR: Bein Sports 1" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 1
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7790
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: Bein Sports 2 FHD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 2 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/10246
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: Bein Sports 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2_hd.jpg" group-title="VIP Sports French",FR: Bein Sports 2 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2556
+#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="FR: Bein Sports 2" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 2
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7791
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR: Bein Sports 3 FHD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 3 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2590
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR: Bein Sports 3 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 3 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17070
+#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="FR: Bein Sports 3" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports 3
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7792
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="FR: Canal+ Sport FHD" tvg-logo="" group-title="VIP Sports French",FR: Canal+ Sport FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17071
+#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="FR: Canal+ Sport HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_sport_hd.jpg" group-title="VIP Sports French",FR: Canal+ Sport HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2544
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="FR: RMC Sport 1 FHD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport 1 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3110
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport 2 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3063
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport 3 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7502
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="" group-title="VIP PPV, Fight & Boxing",FR: RMC Sport 4 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/11371
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="FR: RMC Sport Live 5 FHD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport Live 5 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/111607
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="FR: RMC Sport Live 6 FHD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport Live 6 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/111606
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="FR: RMC Sport Live 7 FHD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport Live 7 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/111605
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="FR: RMC Sport Live 8 FHD" tvg-logo="" group-title="VIP Sports French",FR: RMC Sport Live 8 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/111604
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Trace Sport Stars FHD" tvg-logo="" group-title="VIP Sports French",FR: Trace Sport Stars FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37810
+#EXTINF:-1 tvg-ID="Foot24.fr" tvg-name="FR: Foot+ 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_fr_foot_plus.jpg" group-title="VIP Sports French",FR: Foot+ 24
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3620
+#EXTINF:-1 tvg-ID="Eurosport1.fr" tvg-name="FR: Eurosport 1 HD" tvg-logo="" group-title="VIP Sports French",FR: Eurosport 1 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2572
+#EXTINF:-1 tvg-ID="Eurosport2.fr" tvg-name="FR: Eurosport 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg" group-title="VIP Sports French",FR: Eurosport 2 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3314
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR: Equidia Live HD" tvg-logo="" group-title="VIP Sports French",FR: Equidia Live HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3534
+#EXTINF:-1 tvg-ID="EquidiaLife.fr" tvg-name="FR: Equidia Life HD" tvg-logo="" group-title="VIP Sports French",FR: Equidia Life HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4516
+#EXTINF:-1 tvg-ID="ExtremeSports.fr" tvg-name="FR: Extreme Sports HD" tvg-logo="" group-title="VIP Sports French",FR: Extreme Sports HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17341
+#EXTINF:-1 tvg-ID="Nautical.eu" tvg-name="FR: Nautical Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nautical_channel.jpg" group-title="VIP Sports French",FR: Nautical Channel HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9341
+#EXTINF:-1 tvg-ID="Golf.fr" tvg-name="FR: Golf Channel HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus_hd.jpg" group-title="VIP Sports French",FR: Golf Channel HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5305
+#EXTINF:-1 tvg-ID="OLTV.fr" tvg-name="FR: OL TV" tvg-logo="" group-title="VIP Sports French",FR: OL TV
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/21050
+#EXTINF:-1 tvg-ID="VOOsport1.be" tvg-name="BE: Voo Sport 1 FHD" tvg-logo="" group-title="VIP SPORTS BELGIUM",BE: Voo Sport 1 FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7646
+#EXTINF:-1 tvg-ID="VOOsport2.be" tvg-name="BE: Voo Sport 2" tvg-logo="" group-title="VIP SPORTS BELGIUM",BE: Voo Sport 2
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/22165
+#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="BE: Voo Sport World FHD" tvg-logo="" group-title="VIP SPORTS BELGIUM",BE: Voo Sport World FHD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/28828
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 4 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 4 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7793
+#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="FR: Bein Sports Max 5 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 5 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7794
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 6 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 6 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7795
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 7 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 7 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7796
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 8 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 8 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7647
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sports Max 9 HD" tvg-logo="" group-title="VIP Sports French",FR: Bein Sports Max 9 HD
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/13803
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Cocktail FM" tvg-logo="" group-title="Davidhowell", Cocktail FM
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69658
+#EXTINF:-1 tvg-ID="" tvg-name="FR : EFM Radio" tvg-logo="" group-title="Davidhowell", EFM Radio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69657
+#EXTINF:-1 tvg-ID="" tvg-name="FR : FIP (National)" tvg-logo="" group-title="Davidhowell", FIP (National)
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69661
+#EXTINF:-1 tvg-ID="" tvg-name="FR : FIP autour du rock" tvg-logo="" group-title="Davidhowell", FIP autour du rock
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69660
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Inter" tvg-logo="" group-title="Davidhowell", France Inter
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69668
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique" tvg-logo="" group-title="Davidhowell", France Musique
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69667
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique Classique easy" tvg-logo="" group-title="Davidhowell", France Musique Classique easy
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69666
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique Classique plus" tvg-logo="" group-title="Davidhowell", France Musique Classique plus
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69665
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique Concerts de Radio France" tvg-logo="" group-title="Davidhowell", France Musique Concerts de Radio France
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69664
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique La Jazz" tvg-logo="" group-title="Davidhowell", France Musique La Jazz
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69662
+#EXTINF:-1 tvg-ID="" tvg-name="FR : France Musique Musiques du monde - Ocora" tvg-logo="" group-title="Davidhowell", France Musique Musiques du monde - Ocora
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69663
+#EXTINF:-1 tvg-ID="" tvg-name="FR : FranceInfo" tvg-logo="" group-title="Davidhowell", FranceInfo
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69669
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Fun Radio" tvg-logo="" group-title="Davidhowell", Fun Radio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69655
+#EXTINF:-1 tvg-ID="" tvg-name="FR : LaLaLa Radio" tvg-logo="" group-title="Davidhowell", LaLaLa Radio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69656
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Mouv’ Xtra" tvg-logo="" group-title="Davidhowell", Mouv’ Xtra
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69659
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Paris-One Electronic" tvg-logo="" group-title="Davidhowell", Paris-One Electronic
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69654
+#EXTINF:-1 tvg-ID="" tvg-name="FR : RivieraRadio" tvg-logo="" group-title="Davidhowell", RivieraRadio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/70335
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Top FM" tvg-logo="" group-title="Davidhowell", Top FM
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69653
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio" tvg-logo="" group-title="Davidhowell", Virgin Radio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69652
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio Classiics" tvg-logo="" group-title="Davidhowell", Virgin Radio Classiics
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69651
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio Electro Shock" tvg-logo="" group-title="Davidhowell", Virgin Radio Electro Shock
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69649
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio Hits" tvg-logo="" group-title="Davidhowell", Virgin Radio Hits
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69648
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio New Music" tvg-logo="" group-title="Davidhowell", Virgin Radio New Music
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69650
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Virgin Radio Rock" tvg-logo="" group-title="Davidhowell", Virgin Radio Rock
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69647
+#EXTINF:-1 tvg-ID="" tvg-name="FR : Voltage FM" tvg-logo="" group-title="Davidhowell", Voltage FM
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69646
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fréquence 3" tvg-logo="" group-title="Davidhowell", Fréquence 3
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110498
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fréquence 3 Gold" tvg-logo="" group-title="Davidhowell", Fréquence 3 Gold
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110500
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Fréquence 3 Urban" tvg-logo="" group-title="Davidhowell", Fréquence 3 Urban
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110499
+#EXTINF:-1 tvg-ID="" tvg-name="FR: L'Eko des Garrigues" tvg-logo="" group-title="Davidhowell", L'Eko des Garrigues
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110497
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Sensuelle 80" tvg-logo="" group-title="Davidhowell", Sensuelle 80
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110496
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Sensuelle Radio" tvg-logo="" group-title="Davidhowell", Sensuelle Radio
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110495
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 FHD" tvg-logo="http://f.iptv-pure.com/tf1.png" group-title="PatrickD", TF1 FHD
 http://iptvpro.premium-itv.com:8789/PatrickD/PatrickD/13847
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/tf1.png" group-title="PatrickD", TF1 HD
