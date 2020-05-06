@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,VTV1 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/0916d06e67ba35991b15c0728e25e0cc/1588690252061/vtv1webs.smil/vtv1-high.m3u8
+#EXTINF:-1,VTV2 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/4ce9588eec6eae81ceb79a28ac7d070c/1588690281473/vtv2webs.smil/vtv2-high.m3u8
+#EXTINF:-1,VTV3 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/abc4cb44d68e1a2740799a1c46528b43/1588690301830/vtv3webs.smil/vtv3-high.m3u8
+#EXTINF:-1,VTV4 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/56a72db32298809bc08cb2d6c00ed576/1588690339184/vtv4webs.smil/vtv4-high.m3u8
+#EXTINF:-1,VTV5 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/809a8741739688f1c2e660296f845d34/1588690365319/vtv5webs.smil/vtv5-high.m3u8
+#EXTINF:-1,VTV6 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/eb07dd22178ee75a0cf8ac35ad34a964/1588690386805/vtv6webs.smil/vtv6-high.m3u8
+#EXTINF:-1,VTV7 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/24ebd4096e15d3664eefbf80e652cb5d/1588690449310/vtv7webs.smil/vtv7-high.m3u8
+#EXTINF:-1,VTV8 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/d478b8b1bf5c2f2ee15794e518111135/1588690473047/vtv8webs.smil/vtv8-high.m3u8
+#EXTINF:-1,VTV9 HD
+https://vtvgolivewebs.vtvdigital.vn/hls/ef376b6fdaa302254955f7cee894bd3e/1588690493108/vtv9webs.smil/vtv9-high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAC KAN" tvg-logo="" group-title="",BAC KAN
 http://jockeriptv.com:8080/567567/567567/3405
 #EXTINF:-1 tvg-id="" tvg-name="BAC LIEU" tvg-logo="" group-title="",BAC LIEU
