@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RTI1" tvg-logo="" group-title="darkosp", RTI1
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6147
+#EXTINF:-1 tvg-id="" tvg-name="RTI 2" tvg-logo="" group-title="darkosp", RTI 2
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6146
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde" tvg-logo="" group-title="darkosp", TV 5 Monde
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6225
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="darkosp", TMC
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6215
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="" group-title="darkosp", TF1 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6230
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un HD" tvg-logo="" group-title="darkosp", RTS Un HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6239
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="" group-title="darkosp", RTS Deux
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6241
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="" group-title="darkosp", AB1
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6128
+#EXTINF:-1 tvg-id="" tvg-name="Numero 23 HD" tvg-logo="" group-title="darkosp", Numero 23 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6216
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="darkosp", National Geographic
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6153
+#EXTINF:-1 tvg-id="" tvg-name="NRj12" tvg-logo="" group-title="darkosp", NRj12
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6137
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="" group-title="darkosp", Leman Bleu
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6155
+#EXTINF:-1 tvg-id="" tvg-name="EQUIPE HD" tvg-logo="" group-title="darkosp", EQUIPE HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6234
+#EXTINF:-1 tvg-id="" tvg-name="La Tele HD" tvg-logo="" group-title="darkosp", La Tele HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6229
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE HD" tvg-logo="" group-title="darkosp", L EQUIPE HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6222
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="" group-title="darkosp", HD1
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6120
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="" group-title="darkosp", Gulli
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6160
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="" group-title="darkosp", France O
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6238
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="" group-title="darkosp", France 5 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6235
+#EXTINF:-1 tvg-id="" tvg-name="France 4 HD" tvg-logo="" group-title="darkosp", France 4 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6236
+#EXTINF:-1 tvg-id="" tvg-name="France 3 HD" tvg-logo="" group-title="darkosp", France 3 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6237
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="darkosp", M6
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6224
+#EXTINF:-1 tvg-id="" tvg-name="France 2 HD" tvg-logo="" group-title="darkosp", France 2 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6240
+#EXTINF:-1 tvg-id="" tvg-name="Euronews fr" tvg-logo="" group-title="darkosp", Euronews fr
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6223
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 HD" tvg-logo="" group-title="darkosp", Cherie 25 HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6214
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="" group-title="darkosp", CHERIE 25
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6122
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" group-title="darkosp", Cartoon Network HD
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6157
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="" group-title="darkosp", RTL9
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6227
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="darkosp", C8
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6149
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="" group-title="darkosp", Arte
+http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6151
 #EXTINF:-1 tvg-ID="" user-agent="" tvg-name="Boing" tvg-logo="" group-title="3VFWoy6xR3",Boing
 http://188.165.36.227:8080/3VFWoy6xR3/lTa6vhYS1j/22645
 #EXTINF:-1 tvg-ID="" user-agent="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="3VFWoy6xR3",BOOMERANG HD
