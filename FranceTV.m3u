@@ -1192,9 +1192,6 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/212
 #EXTINF:-1 tvg-logo="http://www.kabelmax.tv/files/logopack/a%20la%20carte.png" group-title="reda2020",ALACARTE 10
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/213
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",|FR|*****SPORTANCE*****|FR|
-http://iptvpro.vision-new.org:8789/reda2020/reda2020/91
-
 #EXTINF:-1 tvg-logo="http://163.172.27.155/logo_plus/FRANCE/RMCSPORT1HD.png" group-title="reda2020",RMC SPORT 4K
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/14928
 
@@ -1591,9 +1588,6 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/32187
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="reda2020",TV5 Style
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/32188
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",|FR|*****CULTURE *****|FR|
-http://iptvpro.vision-new.org:8789/reda2020/reda2020/137
-
 #EXTINF:-1 tvg-logo="http://163.172.27.155/logo_plus/FRANCE/PLANET+HD.png" group-title="reda2020",PLANETE+
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/2435
 
@@ -1717,9 +1711,6 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/2562
 #EXTINF:-1 tvg-logo="https://www.toutelhistoire.com/images/logo.png" group-title="reda2020",TOUTE L'HISTOIRE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/296
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",|FR|*****FRANCE INFO*****|FR|
-http://iptvpro.vision-new.org:8789/reda2020/reda2020/8521
-
 #EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.3040.9007199266243294.028e80df-c1a7-4609-8b20-8245d483bbc5.fe431005-afc6-49d3-861c-0e2dc7cbd9fb?mode=scale&q=90&h=300&w=300" group-title="reda2020",LA CHAINE METEO
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/9680
 
@@ -1776,9 +1767,6 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/4035
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",i24 NEWS
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/1050
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",|FR|*****MUSIC*****|FR|
-http://iptvpro.vision-new.org:8789/reda2020/reda2020/268
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/M6_Music_2012.png/190px-M6_Music_2012.png" group-title="reda2020",M6 MUSIC
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/2571
@@ -1876,250 +1864,250 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/716
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Small_logo_GONG_black.png/180px-Small_logo_GONG_black.png" group-title="reda2020",GONG
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/248
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TF1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TF1
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29775
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",FRANCE 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",FRANCE 2
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29776
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",FRANCE 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",FRANCE 3
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29777
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",FRANCE4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",FRANCE4
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29778
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",FRANCE5
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",FRANCE5
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29779
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",FRANCEO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",FRANCEO
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29780
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",M6
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",M6
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29781
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",6TER
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",6TER
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29782
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RTL9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RTL9
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29783
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",ARTE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",ARTE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29784
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",W9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",W9
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29785
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",C8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",C8
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29786
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CSTAR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CSTAR
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29787
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TMC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TMC
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29788
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NRJ12
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NRJ12
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29789
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TFX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TFX
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29790
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TF1 SERIES FILMS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TF1 SERIES FILMS
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29791
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TEVA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TEVA
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29792
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",MY CUISINE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",MY CUISINE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29793
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NON STOP PEOPLE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NON STOP PEOPLE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29794
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CNEWS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CNEWS
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29795
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",LCI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",LCI
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29796
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BFMTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BFMTV
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29797
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",LCP
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",LCP
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29798
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BFM PARIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BFM PARIS
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29799
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL CINEMA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL CINEMA
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29800
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29801
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL SERIES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL SERIES
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29802
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL FAMILY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL FAMILY
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29803
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL DECALE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL DECALE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29804
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CINEFRISSON
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CINEFRISSON
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29805
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BOOMERANG
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BOOMERANG
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29806
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",ACTION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",ACTION
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29807
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CINE EMOTION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CINE EMOTION
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29808
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CINE PREMIER
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CINE PREMIER
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29809
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",OCS MAX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",OCS MAX
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29810
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",OCS CITY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",OCS CITY
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29811
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",OCS GEANTS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",OCS GEANTS
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29812
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",OCS CHOC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",OCS CHOC
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29813
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CINE FAMIZ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CINE FAMIZ
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29814
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CINE CLASSIC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CINE CLASSIC
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29815
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",ALTICE STUDIO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",ALTICE STUDIO
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29816
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",WARNER TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",WARNER TV
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29817
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANAL SPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANAL SPORT
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29818
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BEIN 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BEIN 1
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29819
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BEIN 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BEIN 2
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29820
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",BEIN 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",BEIN 3
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29821
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC SPORT1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC SPORT1
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29822
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC SPORT2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC SPORT2
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29823
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC SPORT3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC SPORT3
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29824
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC SPORT4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC SPORT4
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29825
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",L'EQUIPE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",L'EQUIPE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29826
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",EQUIDIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",EQUIDIA
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29827
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",EUROSPORT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",EUROSPORT
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29828
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",EUROSPORT2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",EUROSPORT2
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29829
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC STORY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC STORY
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29830
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",RMC DECOUVERTE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",RMC DECOUVERTE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29831
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",ANIMAUX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",ANIMAUX
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29832
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NAT GEO WILD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NAT GEO WILD
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29833
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NATIONAL GEO CHANNEL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NATIONAL GEO CHANNEL
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29834
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",PLANETE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",PLANETE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29835
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISCOVERY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISCOVERY
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29836
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISCOVERY FAMILY
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISCOVERY FAMILY
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29837
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISCOVERY SCIENCE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29838
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISCOVERY INVES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISCOVERY INVES
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29839
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",USHUAIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",USHUAIA
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29840
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",PLANETE+A&E
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",PLANETE+A&E
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29841
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",PLANETE + CI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",PLANETE + CI
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29842
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CHASSE & PECHE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CHASSE & PECHE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29843
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",SCIENCES&VIE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",SCIENCES&VIE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29844
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",TOUTE L HISTOIRE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",TOUTE L HISTOIRE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29845
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CARTOON N
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CARTOON N
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29846
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISNEY CHANNEL
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29847
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISNEY JUNIOR
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29848
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",CANALJ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",CANALJ
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29849
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NICK JUNIOR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NICK JUNIOR
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29850
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NICKELODEON 4TEEN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NICKELODEON 4TEEN
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29851
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",NICKELODEON
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",NICKELODEON
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29852
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",GAME ONE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",GAME ONE
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29853
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",GULLI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",GULLI
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29854
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",M6 MUSIC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",M6 MUSIC
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29855
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALSAT-HEVC |LIVE|",MCM TOP
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",MCM TOP
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/29856
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Disney_Junior.png/280px-Disney_Junior.png" group-title="reda2020",DISNEY JUNIOR
@@ -2313,9 +2301,6 @@ http://iptvpro.vision-new.org:8789/reda2020/reda2020/23314
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",DISNEY ORANGE 3
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/1639
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="reda2020",====Dessins-Animés-24/24====
-http://iptvpro.vision-new.org:8789/reda2020/reda2020/6712
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/922177599278784512/AVnpgYog_400x400.jpg" group-title="reda2020",PEPPA PIG
 http://iptvpro.vision-new.org:8789/reda2020/reda2020/6700
