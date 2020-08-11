@@ -1,4 +1,5 @@
 #EXTM3U
+<<<<<<< HEAD
 #EXTINF:-1 tvg-ID="TF1" tvg-name="TF1 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="DAVIDHOWELL",TF1 FHD
 http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9556
 #EXTINF:-1 tvg-ID="TF1" tvg-name="TF1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="DAVIDHOWELL",TF1 HD
@@ -722,6 +723,448 @@ http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110497
 #EXTINF:-1 tvg-ID="" tvg-name="Sensuelle 80" tvg-logo="" group-title="DAVIDHOWELL",Sensuelle 80
 http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110496
 #EXTINF:-1 tvg-ID="" tvg-name="Sensuelle Radio" tvg-logo="" group-title="DAVIDHOWELL",Sensuelle Radio
+=======
+
+#EXTINF:-1 tvg-ID="TF1" tvg-name="TF1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="DAVIDHOWELL", TF1 		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9556
+#EXTINF:-1 tvg-ID="France 2" tvg-name="France 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2_hd.jpg" group-title="DAVIDHOWELL", France 2		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2535
+#EXTINF:-1 tvg-ID="France 3" tvg-name="France 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3_hd.jpg" group-title="DAVIDHOWELL", France 3		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2583
+#EXTINF:-1 tvg-ID="Canal+" tvg-name="Canal+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_hd.jpg" group-title="DAVIDHOWELL", Canal+		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2558
+#EXTINF:-1 tvg-ID="France 5" tvg-name="France 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="DAVIDHOWELL", France 5		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2561
+#EXTINF:-1 tvg-ID="M6" tvg-name="M6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr_hd.jpg" group-title="DAVIDHOWELL", M6		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2568
+#EXTINF:-1 tvg-ID="Arte" tvg-name="Arte" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/arte_fr_hd.jpg" group-title="DAVIDHOWELL", Arte		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2562
+#EXTINF:-1 tvg-ID="C8" tvg-name="C8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_d8.jpg" group-title="DAVIDHOWELL", C8		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2563
+#EXTINF:-1 tvg-ID="W9" tvg-name="W9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/w9_fr_hd.jpg" group-title="DAVIDHOWELL", W9		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2596
+#EXTINF:-1 tvg-ID="TMC" tvg-name="TMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tmc.jpg" group-title="DAVIDHOWELL", TMC		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2578
+#EXTINF:-1 tvg-ID="TFX" tvg-name="TFX" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nt1.jpg" group-title="DAVIDHOWELL", TFX		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2564
+#EXTINF:-1 tvg-ID="NRJ 12" tvg-name="NRJ 12" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj12_hd.jpg" group-title="DAVIDHOWELL", NRJ 12		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2565
+#EXTINF:-1 tvg-ID="LCP" tvg-name="LCP" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="DAVIDHOWELL", LCP		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3546
+#EXTINF:-1 tvg-ID="France 4" tvg-name="France 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="DAVIDHOWELL", France 4		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2537
+#EXTINF:-1 tvg-ID="BFM TV" tvg-name="BFM TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bfm_tv.jpg" group-title="DAVIDHOWELL", BFM TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1437
+#EXTINF:-1 tvg-ID="FranceInfo" tvg-name="FranceInfo" tvg-logo="" group-title="DAVIDHOWELL", FranceInfo	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69669
+#EXTINF:-1 tvg-ID="C News" tvg-name="C News" tvg-logo="" group-title="DAVIDHOWELL", C News		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69627
+#EXTINF:-1 tvg-ID="C Star" tvg-name="C Star" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_d17.jpg" group-title="DAVIDHOWELL", C Star		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2575
+#EXTINF:-1 tvg-ID="Gulli" tvg-name="Gulli" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gulli.jpg" group-title="DAVIDHOWELL", Gulli		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3045
+#EXTINF:-1 tvg-ID="France Ô" tvg-name="France Ô" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="DAVIDHOWELL", France Ô		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3108
+#EXTINF:-1 tvg-ID="TF1 Séries Films" tvg-name="TF1 Séries Films" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hd1_fr.jpg" group-title="DAVIDHOWELL", TF1 Séries Films	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2587
+#EXTINF:-1 tvg-ID="L'Equipe" tvg-name="L'Equipe" tvg-logo="" group-title="DAVIDHOWELL", L'Equipe		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2885
+#EXTINF:-1 tvg-ID="6ter" tvg-name="6ter" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="DAVIDHOWELL", 6ter		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2914
+#EXTINF:-1 tvg-ID="RMC Découverte" tvg-name="RMC Découverte" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rmc_decouverte.jpg" group-title="DAVIDHOWELL", RMC Découverte	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1427
+#EXTINF:-1 tvg-ID="RMC Story" tvg-name="RMC Story" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/numero_23_fr.jpg" group-title="DAVIDHOWELL", RMC Story	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4518
+#EXTINF:-1 tvg-ID="AB 1" tvg-name="AB 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab1.jpg" group-title="DAVIDHOWELL", AB 1		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5596
+#EXTINF:-1 tvg-ID="AB 3" tvg-name="AB 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab3.jpg" group-title="DAVIDHOWELL", AB 3		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3619
+#EXTINF:-1 tvg-ID="Chérie 25" tvg-name="Chérie 25" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cherie_25_fr.jpg" group-title="DAVIDHOWELL", Chérie 25		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2552
+#EXTINF:-1 tvg-ID="LCI" tvg-name="LCI" tvg-logo="" group-title="DAVIDHOWELL", LCI		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2570
+#EXTINF:-1 tvg-ID="France Info" tvg-name="France Info" tvg-logo="" group-title="DAVIDHOWELL", France Info	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12828
+#EXTINF:-1 tvg-ID="Paris Première" tvg-name="Paris Première" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paris_premiere_hd.jpg" group-title="DAVIDHOWELL", Paris Première	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2588
+#EXTINF:-1 tvg-ID="RTL9" tvg-name="RTL9" tvg-logo="" group-title="DAVIDHOWELL", RTL9		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3325
+#EXTINF:-1 tvg-ID="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports 1	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7790
+#EXTINF:-1 tvg-ID="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2_hd.jpg" group-title="DAVIDHOWELL", beIN Sports 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2556
+#EXTINF:-1 tvg-ID="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7791
+#EXTINF:-1 tvg-ID="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports 3	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17070
+#EXTINF:-1 tvg-ID="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports 3	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7792
+#EXTINF:-1 tvg-ID="beIN Sports Max 4" tvg-name="beIN Sports Max 4" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 4	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7793
+#EXTINF:-1 tvg-ID="beIN Sports Max 5" tvg-name="beIN Sports Max 5" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 5	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7794
+#EXTINF:-1 tvg-ID="beIN Sports Max 6" tvg-name="beIN Sports Max 6" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 6	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7795
+#EXTINF:-1 tvg-ID="beIN Sports Max 7" tvg-name="beIN Sports Max 7" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 7	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7796
+#EXTINF:-1 tvg-ID="beIN Sports Max 8" tvg-name="beIN Sports Max 8" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 8	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7647
+#EXTINF:-1 tvg-ID="beIN Sports Max 9" tvg-name="beIN Sports Max 9" tvg-logo="" group-title="DAVIDHOWELL", beIN Sports Max 9	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/13803
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="" group-title="DAVIDHOWELL", Eurosport 1	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2572
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport2_hd.jpg" group-title="DAVIDHOWELL", Eurosport 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3314
+#EXTINF:-1 tvg-ID="Foot+ 24" tvg-name="Foot+ 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_fr_foot_plus.jpg" group-title="DAVIDHOWELL", Foot+ 24		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3620
+#EXTINF:-1 tvg-ID="Infosport+" tvg-name="Infosport+" tvg-logo="" group-title="DAVIDHOWELL", Infosport+	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3148
+#EXTINF:-1 tvg-ID="RMC Sport News" tvg-name="RMC Sport News" tvg-logo="" group-title="DAVIDHOWELL", RMC Sport News	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9581
+#EXTINF:-1 tvg-ID="RMC Sport 3" tvg-name="RMC Sport 3" tvg-logo="" group-title="DAVIDHOWELL", RMC Sport 3	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7502
+#EXTINF:-1 tvg-ID="RMC Sport Access 2" tvg-name="RMC Sport Access 2" tvg-logo="" group-title="DAVIDHOWELL", RMC Sport Access 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3063
+#EXTINF:-1 tvg-ID="Voo Sport 2" tvg-name="BE: Voo Sport 2" tvg-logo="" group-title="DAVIDHOWELL", Voo Sport 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/22165
+#EXTINF:-1 tvg-ID="OCS Max" tvg-name="OCS Max" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_max_hd.jpg" group-title="DAVIDHOWELL", OCS Max		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3318
+#EXTINF:-1 tvg-ID="OCS City" tvg-name="OCS City" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_city.jpg" group-title="DAVIDHOWELL", OCS City		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4514
+#EXTINF:-1 tvg-ID="OCS Choc" tvg-name="OCS Choc" tvg-logo="" group-title="DAVIDHOWELL", OCS Choc		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2577
+#EXTINF:-1 tvg-ID="OCS Géants" tvg-name="OCS Géants" tvg-logo="" group-title="DAVIDHOWELL", OCS Géants	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4515
+#EXTINF:-1 tvg-ID="Canal+ Cinéma" tvg-name="Canal+ Cinéma" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cinema_hd.jpg" group-title="DAVIDHOWELL", Canal+ Cinéma	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2567
+#EXTINF:-1 tvg-ID="Canal+ Décalé" tvg-name="Canal+ Décalé" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_decale_hd.jpg" group-title="DAVIDHOWELL", Canal+ Décalé	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3058
+#EXTINF:-1 tvg-ID="Canal+ Family" tvg-name="Canal+ Family" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_family_hd.jpg" group-title="DAVIDHOWELL", Canal+ Family	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2585
+#EXTINF:-1 tvg-ID="Canal+ Séries" tvg-name="Canal+ Séries" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_series.jpg" group-title="DAVIDHOWELL", Canal+ Séries	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3059
+#EXTINF:-1 tvg-ID="Canal+ Sport" tvg-name="Canal+ Sport" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_sport_hd.jpg" group-title="DAVIDHOWELL", Canal+ Sport	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2544
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_fr.jpg" group-title="DAVIDHOWELL", Disney Channel	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5594
+#EXTINF:-1 tvg-ID="NRJ Hits" tvg-name="NRJ Hits" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nrj_hits.jpg" group-title="DAVIDHOWELL", NRJ Hits		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/10248
+#EXTINF:-1 tvg-ID="Téva" tvg-name="Téva" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teva_hd.jpg" group-title="DAVIDHOWELL", Téva		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2591
+#EXTINF:-1 tvg-ID="TV Breizh" tvg-name="TV Breizh" tvg-logo="" group-title="DAVIDHOWELL", TV Breizh		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2557
+#EXTINF:-1 tvg-ID="Novelas TV" tvg-name="Novelas TV" tvg-logo="" group-title="DAVIDHOWELL", Novelas TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152361
+#EXTINF:-1 tvg-ID="Planète+" tvg-name="Planète+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_planete_hd.jpg" group-title="DAVIDHOWELL", Planète+ 		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2555
+#EXTINF:-1 tvg-ID="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" group-title="DAVIDHOWELL", Nat Geo Wild	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3315
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="DAVIDHOWELL", National Geographic	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1993
+#EXTINF:-1 tvg-ID="Voyage" tvg-name="Voyage" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/voyage.jpg" group-title="DAVIDHOWELL", Voyage		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3018
+#EXTINF:-1 tvg-ID="France Musique" tvg-name="France Musique" tvg-logo="" group-title="DAVIDHOWELL", France Musique	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69667
+#EXTINF:-1 tvg-ID="France Musique Classique easy" tvg-name="France Musique Classique easy" tvg-logo="" group-title="DAVIDHOWELL", France Musique Classique easy	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69666
+#EXTINF:-1 tvg-ID="France Musique Classique plus" tvg-name="France Musique Classique plus" tvg-logo="" group-title="DAVIDHOWELL", France Musique Classique plus	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69665
+#EXTINF:-1 tvg-ID="France Musique Concerts de Radio France" tvg-name="France Musique Concerts de Radio France" tvg-logo="" group-title="DAVIDHOWELL", France Musique Concerts de Radio France	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69664
+#EXTINF:-1 tvg-ID="France Musique La Jazz" tvg-name="France Musique La Jazz" tvg-logo="" group-title="DAVIDHOWELL", France Musique La Jazz	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69662
+#EXTINF:-1 tvg-ID="France Musique Musiques du monde - Ocora" tvg-name="France Musique Musiques du monde - Ocora" tvg-logo="" group-title="DAVIDHOWELL", France Musique Musiques du monde - Ocora	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69663
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_fr.jpg" group-title="DAVIDHOWELL", MTV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/8072
+#EXTINF:-1 tvg-ID="TV5 Monde Europe" tvg-name="TV5 Monde Europe" tvg-logo="" group-title="DAVIDHOWELL", TV5 Monde Europe	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163730
+#EXTINF:-1 tvg-ID="TV5 Monde Info" tvg-name="TV5 Monde Info" tvg-logo="" group-title="DAVIDHOWELL", TV5 Monde Info	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1466
+#EXTINF:-1 tvg-ID="TV5 Monde Pacifique" tvg-name="TV5 Monde Pacifique" tvg-logo="" group-title="DAVIDHOWELL", TV5 Monde Pacifique	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163724
+#EXTINF:-1 tvg-ID="Comédie+" tvg-name="Comédie+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_comedie_plus.jpg" group-title="DAVIDHOWELL", Comédie+	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2549
+#EXTINF:-1 tvg-ID="Non Stop People" tvg-name="Non Stop People" tvg-logo="" group-title="DAVIDHOWELL", Non Stop People	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19569
+#EXTINF:-1 tvg-ID="MCM" tvg-name="MCM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mcm_fr.jpg" group-title="DAVIDHOWELL", MCM		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9347
+#EXTINF:-1 tvg-ID="MCM Top" tvg-name="MCM Top" tvg-logo="" group-title="DAVIDHOWELL", MCM Top		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17342
+#EXTINF:-1 tvg-ID="Virgin Radio" tvg-name="Virgin Radio" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69652
+#EXTINF:-1 tvg-ID="Virgin Radio Classiics" tvg-name="Virgin Radio Classiics" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio Classiics	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69651
+#EXTINF:-1 tvg-ID="Virgin Radio Electro Shock" tvg-name="Virgin Radio Electro Shock" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio Electro Shock	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69649
+#EXTINF:-1 tvg-ID="Virgin Radio Hits" tvg-name="Virgin Radio Hits" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio Hits	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69648
+#EXTINF:-1 tvg-ID="Virgin Radio New Music" tvg-name="Virgin Radio New Music" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio New Music	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69650
+#EXTINF:-1 tvg-ID="Virgin Radio Rock" tvg-name="Virgin Radio Rock" tvg-logo="" group-title="DAVIDHOWELL", Virgin Radio Rock	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69647
+#EXTINF:-1 tvg-ID="J One" tvg-name="J One" tvg-logo="" group-title="DAVIDHOWELL", J One		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17347
+#EXTINF:-1 tvg-ID="Manga" tvg-name="Manga" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mangas.jpg" group-title="DAVIDHOWELL", Manga		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3618
+#EXTINF:-1 tvg-ID="Game One" tvg-name="Game One" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one.jpg" group-title="DAVIDHOWELL", Game One	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5303
+#EXTINF:-1 tvg-ID="Toonami" tvg-name="Toonami" tvg-logo="" group-title="DAVIDHOWELL", Toonami		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19572
+#EXTINF:-1 tvg-ID="Gong Base" tvg-name="Gong Base" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/gong_base_fr.jpg" group-title="DAVIDHOWELL", Gong Base	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1448
+#EXTINF:-1 tvg-ID="Gong Max" tvg-name="Gong Max" tvg-logo="" group-title="DAVIDHOWELL", Gong Max	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/122458
+#EXTINF:-1 tvg-ID="BET" tvg-name="BET" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bet_us.jpg" group-title="DAVIDHOWELL", BET		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6356
+#EXTINF:-1 tvg-ID="A La Carte 1: The Predator" tvg-name="A La Carte 1: The Predator" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_1.jpg" group-title="DAVIDHOWELL", A La Carte 1: The Predator	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3113
+#EXTINF:-1 tvg-ID="A La Carte 2: The Spacewalker" tvg-name="A La Carte 2: The Spacewalker" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_2.jpg" group-title="DAVIDHOWELL", A La Carte 2: The Spacewalker	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3112
+#EXTINF:-1 tvg-ID="A La Carte 3: Invaders" tvg-name="A La Carte 3: Invaders" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_3.jpg" group-title="DAVIDHOWELL", A La Carte 3: Invaders	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3111
+#EXTINF:-1 tvg-ID="A La Carte 4: Equalizer 2" tvg-name="A La Carte 4: Equalizer 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_4.jpg" group-title="DAVIDHOWELL", A La Carte 4: Equalizer 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3614
+#EXTINF:-1 tvg-ID="A La Carte 5: Gemini" tvg-name="A La Carte 5: Gemini" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_5.jpg" group-title="DAVIDHOWELL", A La Carte 5: Gemini	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3120
+#EXTINF:-1 tvg-ID="A La Carte 6: Mission : Impossible - Fallout" tvg-name="A La Carte 6: Mission : Impossible - Fallout" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_6.jpg" group-title="DAVIDHOWELL", A La Carte 6: Mission : Impossible - Fallout	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1465
+#EXTINF:-1 tvg-ID="A La Carte 7: Le Roi Scorpion : Le livre des âmes" tvg-name="A La Carte 7: Le Roi Scorpion : Le livre des âmes" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_7.jpg" group-title="DAVIDHOWELL", A La Carte 7: Le Roi Scorpion : Le livre des âmes	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4509
+#EXTINF:-1 tvg-ID="Canal Play 1: Stasis" tvg-name="Canal Play 1: Stasis" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 1: Stasis	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3615
+#EXTINF:-1 tvg-ID="Canal Play 2: Altitude" tvg-name="Canal Play 2: Altitude" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 2: Altitude	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4517
+#EXTINF:-1 tvg-ID="Canal Play 3: L'ascension" tvg-name="Canal Play 3: L'ascension" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 3: L'ascension	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6717
+#EXTINF:-1 tvg-ID="Canal Play 4: John Wick 2" tvg-name="Canal Play 4: John Wick 2" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 4: John Wick 2	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3616
+#EXTINF:-1 tvg-ID="Canal Play 5: Dode Hoek" tvg-name="Canal Play 5: Dode Hoek" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 5: Dode Hoek	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6718
+#EXTINF:-1 tvg-ID="Canal Play 6: War Machine" tvg-name="Canal Play 6: War Machine" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 6: War Machine	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6719
+#EXTINF:-1 tvg-ID="Canal Play 7: Awakening The Zodiac" tvg-name="Canal Play 7: Awakening The Zodiac" tvg-logo="" group-title="DAVIDHOWELL", Canal Play 7: Awakening The Zodiac	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6720
+#EXTINF:-1 tvg-ID="Orange Cinema Action" tvg-name="Orange Cinema Action" tvg-logo="" group-title="DAVIDHOWELL", Orange Cinema Action	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12377
+#EXTINF:-1 tvg-ID="Orange Cinema Aventure" tvg-name="Orange Cinema Aventure" tvg-logo="" group-title="DAVIDHOWELL", Orange Cinema Aventure	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/12376
+#EXTINF:-1 tvg-ID="Sky Cinema Action" tvg-name="Sky Cinema Action" tvg-logo="https://i.ibb.co/bBG64XH/1280px-Sky-Cinema-Action-HD-Logo-2019-svg.png" group-title="DAVIDHOWELL", Sky Cinema Action	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/155446
+#EXTINF:-1 tvg-ID="13ème RUE" tvg-name="13ème RUE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/13eme_rue_universal.jpg" group-title="DAVIDHOWELL", 13ème RUE	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3336
+#EXTINF:-1 tvg-ID="Cine Premier" tvg-name="Cine Premier" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_premier_hd.jpg" group-title="DAVIDHOWELL", Cine Premier	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2553
+#EXTINF:-1 tvg-ID="Ciné+ Classic" tvg-name="Ciné+ Classic" tvg-logo="" group-title="DAVIDHOWELL", Ciné+ Classic	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2584
+#EXTINF:-1 tvg-ID="Ciné+ Emotion" tvg-name="Ciné+ Emotion" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_emotion_hd.jpg" group-title="DAVIDHOWELL", Ciné+ Emotion	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2573
+#EXTINF:-1 tvg-ID="Ciné+ Famiz" tvg-name="Ciné+ Famiz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_famiz.jpg" group-title="DAVIDHOWELL", Ciné+ Famiz	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4
+#EXTINF:-1 tvg-ID="Ciné+ Frisson" tvg-name="Ciné+ Frisson" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_frisson_hd.jpg" group-title="DAVIDHOWELL", Ciné+ Frisson	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2574
+#EXTINF:-1 tvg-ID="Action" tvg-name="Action" tvg-logo="" group-title="DAVIDHOWELL", Action		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3335
+#EXTINF:-1 tvg-ID="TCM Cinéma" tvg-name="TCM Cinéma" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcm_cinema_fr_hd.jpg" group-title="DAVIDHOWELL", TCM Cinéma	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5304
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_fr_hd.jpg" group-title="DAVIDHOWELL", Disney Junior	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3317
+#EXTINF:-1 tvg-ID="Disney XD" tvg-name="Disney XD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_xd_fr_hd.jpg" group-title="DAVIDHOWELL", Disney XD	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2582
+#EXTINF:-1 tvg-ID="Disney+" tvg-name="Disney+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="DAVIDHOWELL", Disney+		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2545
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_fr.jpg" group-title="DAVIDHOWELL", Nickelodeon	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6354
+#EXTINF:-1 tvg-ID="Nickelodeon Junior" tvg-name="Nickelodeon Junior" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_junior_fr.jpg" group-title="DAVIDHOWELL", Nickelodeon Junior	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5595
+#EXTINF:-1 tvg-ID="Tiji" tvg-name="Tiji" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="DAVIDHOWELL", Tiji		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2580
+#EXTINF:-1 tvg-ID="Piwi+" tvg-name="Piwi+" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_piwi_plus.jpg" group-title="DAVIDHOWELL", Piwi+		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5784
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_fr.jpg" group-title="DAVIDHOWELL", Boomerang	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2589
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_fr.jpg" group-title="DAVIDHOWELL", Cartoon Network	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2592
+#EXTINF:-1 tvg-ID="Canal J" tvg-name="Canal J" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_j.jpg" group-title="DAVIDHOWELL", Canal J		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3348
+#EXTINF:-1 tvg-ID="Teletoon +" tvg-name="Teletoon +" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_teletoon.jpg" group-title="DAVIDHOWELL", Teletoon +	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3342
+#EXTINF:-1 tvg-ID="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="DAVIDHOWELL", Baby TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/168468
+#EXTINF:-1 tvg-ID="TV Pitchoun" tvg-name="TV Pitchoun" tvg-logo="" group-title="DAVIDHOWELL", TV Pitchoun	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130743
+#EXTINF:-1 tvg-ID="OL TV" tvg-name="OL TV" tvg-logo="" group-title="DAVIDHOWELL", OL TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/21050
+#EXTINF:-1 tvg-ID="Equidia Life" tvg-name="Equidia Life" tvg-logo="" group-title="DAVIDHOWELL", Equidia Life	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4516
+#EXTINF:-1 tvg-ID="Equidia Live" tvg-name="Equidia Live" tvg-logo="" group-title="DAVIDHOWELL", Equidia Live	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3534
+#EXTINF:-1 tvg-ID="Automoto La Chaine" tvg-name="Automoto La Chaine" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab_moteurs.jpg" group-title="DAVIDHOWELL", Automoto La Chaine	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/8065
+#EXTINF:-1 tvg-ID="Nautical Channel" tvg-name="Nautical Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nautical_channel.jpg" group-title="DAVIDHOWELL", Nautical Channel	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9341
+#EXTINF:-1 tvg-ID="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus_hd.jpg" group-title="DAVIDHOWELL", Golf Channel	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/5305
+#EXTINF:-1 tvg-ID="Extreme Sports" tvg-name="Extreme Sports" tvg-logo="" group-title="DAVIDHOWELL", Extreme Sports	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17341
+#EXTINF:-1 tvg-ID="Planète+ Aventure Expérience" tvg-name="Planète+ Aventure Expérience" tvg-logo="" group-title="DAVIDHOWELL", Planète+ Aventure Expérience	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2551
+#EXTINF:-1 tvg-ID="Planète+ Crime Investigation" tvg-name="Planète+ Crime Investigation" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_planete.jpg" group-title="DAVIDHOWELL", Planète+ Crime Investigation	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2571
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="Discovery" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" group-title="DAVIDHOWELL", Discovery	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2548
+#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="Discovery Investigation" tvg-logo="" group-title="DAVIDHOWELL", Discovery Investigation	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19573
+#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_science.jpg" group-title="DAVIDHOWELL", Discovery Science	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2546
+#EXTINF:-1 tvg-ID="Crime District" tvg-name="Crime District" tvg-logo="" group-title="DAVIDHOWELL", Crime District	 	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19574
+#EXTINF:-1 tvg-ID="Ushuaia TV" tvg-name="Ushuaia TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv_hd.jpg" group-title="DAVIDHOWELL", Ushuaia TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/2554
+#EXTINF:-1 tvg-ID="Histoire" tvg-name="Histoire" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/histoire.jpg" group-title="DAVIDHOWELL", Histoire		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4512
+#EXTINF:-1 tvg-ID="Toute L'histoire" tvg-name="Toute L'histoire" tvg-logo="" group-title="DAVIDHOWELL", Toute L'histoire	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3350
+#EXTINF:-1 tvg-ID="Science &amp; Vie TV" tvg-name="Science &amp; Vie TV" tvg-logo="" group-title="DAVIDHOWELL", Science &amp; Vie TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3341
+#EXTINF:-1 tvg-ID="Animaux" tvg-name="Animaux" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animaux.jpg" group-title="DAVIDHOWELL", Animaux		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3324
+#EXTINF:-1 tvg-ID="Trek" tvg-name="Trek" tvg-logo="" group-title="DAVIDHOWELL", Trek		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6352
+#EXTINF:-1 tvg-ID="Museum" tvg-name="Museum" tvg-logo="" group-title="DAVIDHOWELL", Museum		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152346
+#EXTINF:-1 tvg-ID="Chasse et pêche" tvg-name="Chasse et pêche" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/chasse_et_peche.jpg" group-title="DAVIDHOWELL", Chasse et pêche	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3611
+#EXTINF:-1 tvg-ID="Lucky Jack" tvg-name="Lucky Jack" tvg-logo="" group-title="DAVIDHOWELL", Lucky Jack	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163725
+#EXTINF:-1 tvg-ID="KTO" tvg-name="KTO" tvg-logo="" group-title="DAVIDHOWELL", KTO		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130744
+#EXTINF:-1 tvg-ID=" Fashion Destination" tvg-name="Fashion Destination" tvg-logo="" group-title="DAVIDHOWELL", Fashion Destination	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163728
+#EXTINF:-1 tvg-ID="Fashion Top Model" tvg-name="Fashion Top Model " tvg-logo="" group-title="DAVIDHOWELL", Fashion Top Model 	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163731
+#EXTINF:-1 tvg-ID="Fashion TV Midnite" tvg-name="Fashion TV Midnite" tvg-logo="" group-title="DAVIDHOWELL", Fashion TV Midnite	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163732
+#EXTINF:-1 tvg-ID="Fashion TV Paris" tvg-name="Fashion TV Paris" tvg-logo="" group-title="DAVIDHOWELL", Fashion TV Paris	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163733
+#EXTINF:-1 tvg-ID="RFM TV" tvg-name="RFM TV" tvg-logo="" group-title="DAVIDHOWELL", RFM TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17343
+#EXTINF:-1 tvg-ID="Melody TV" tvg-name="Melody TV" tvg-logo="" group-title="DAVIDHOWELL", Melody TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152360
+#EXTINF:-1 tvg-ID="Mezzo" tvg-name="Mezzo" tvg-logo="" group-title="DAVIDHOWELL", Mezzo		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/17344
+#EXTINF:-1 tvg-ID="Mezzo Live" tvg-name="Mezzo Live" tvg-logo="" group-title="DAVIDHOWELL", Mezzo Live	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/137944
+#EXTINF:-1 tvg-ID="BFM Business" tvg-name="BFM Business" tvg-logo="" group-title="DAVIDHOWELL", BFM Business	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19576
+#EXTINF:-1 tvg-ID="BFM Lyon" tvg-name="BFM Lyon" tvg-logo="" group-title="DAVIDHOWELL", BFM Lyon		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163694
+#EXTINF:-1 tvg-ID="BFM Paris" tvg-name="BFM Paris" tvg-logo="" group-title="DAVIDHOWELL", BFM Paris	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37953
+#EXTINF:-1 tvg-ID="France Inter" tvg-name="France Inter" tvg-logo="" group-title="DAVIDHOWELL", France Inter	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69668
+#EXTINF:-1 tvg-ID=" EMCI TV Paris" tvg-name="EMCI TV Paris" tvg-logo="" group-title="DAVIDHOWELL",  EMCI TV Paris	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163701
+#EXTINF:-1 tvg-ID="A+" tvg-name="A+" tvg-logo="" group-title="DAVIDHOWELL", A+		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/19577
+#EXTINF:-1 tvg-ID="Aerostar" tvg-name="Aerostar" tvg-logo="" group-title="DAVIDHOWELL", Aerostar		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/18384
+#EXTINF:-1 tvg-ID="Alsace TV" tvg-name="Alsace TV" tvg-logo="" group-title="DAVIDHOWELL", Alsace TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163697
+#EXTINF:-1 tvg-ID="Be Curious" tvg-name="Be Curious" tvg-logo="" group-title="DAVIDHOWELL", Be Curious	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/130742
+#EXTINF:-1 tvg-ID="Bip TV" tvg-name="Bip TV" tvg-logo="" group-title="DAVIDHOWELL", Bip TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163698
+#EXTINF:-1 tvg-ID="Boing" tvg-name="Boing" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boing_fr.jpg" group-title="DAVIDHOWELL", Boing		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9342
+#EXTINF:-1 tvg-ID="BX1" tvg-name="BE: BX1" tvg-logo="" group-title="DAVIDHOWELL", BX1		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/1439
+#EXTINF:-1 tvg-ID="CGTN" tvg-name="CGTN" tvg-logo="" group-title="DAVIDHOWELL", CGTN		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163695
+#EXTINF:-1 tvg-ID="Chamber TV" tvg-name="BE: Chamber TV" tvg-logo="" group-title="DAVIDHOWELL", Chamber TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7655
+#EXTINF:-1 tvg-ID="Club RTL" tvg-name="[BE] Club RTL" tvg-logo="" group-title="DAVIDHOWELL", Club RTL		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3114
+#EXTINF:-1 tvg-ID="Cocktail FM" tvg-name="Cocktail FM" tvg-logo="" group-title="DAVIDHOWELL", Cocktail FM	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69658
+#EXTINF:-1 tvg-ID="Corona Virus Info" tvg-name="Corona Virus Info" tvg-logo="" group-title="DAVIDHOWELL", Corona Virus Info	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/164478
+#EXTINF:-1 tvg-ID="Cstar Hits" tvg-name="Cstar Hits" tvg-logo="" group-title="DAVIDHOWELL", Cstar Hits		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/165414
+#EXTINF:-1 tvg-ID="D5 TV" tvg-name="D5 TV" tvg-logo="" group-title="DAVIDHOWELL", D5 TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163696
+#EXTINF:-1 tvg-ID="DBM" tvg-name="DBM" tvg-logo="" group-title="DAVIDHOWELL", DBM		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163699
+#EXTINF:-1 tvg-ID="Dici TV" tvg-name="Dici TV" tvg-logo="" group-title="DAVIDHOWELL", Dici TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163703
+#EXTINF:-1 tvg-ID="Dieu TV" tvg-name="Dieu TV" tvg-logo="" group-title="DAVIDHOWELL", Dieu TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163700
+#EXTINF:-1 tvg-ID="DJing Classics" tvg-name="DJing Classics" tvg-logo="" group-title="DAVIDHOWELL", DJing Classics	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37818
+#EXTINF:-1 tvg-ID="DJing French Touch" tvg-name="DJing French Touch" tvg-logo="" group-title="DAVIDHOWELL", DJing French Touch	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/37819
+#EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_fr.jpg" group-title="DAVIDHOWELL", E! Entertainment	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3613
+#EXTINF:-1 tvg-ID="EFM Radio" tvg-name="EFM Radio" tvg-logo="" group-title="DAVIDHOWELL", EFM Radio	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69657
+#EXTINF:-1 tvg-ID="Elle Girl" tvg-name="Elle Girl" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/elle_at_tv.jpg" group-title="DAVIDHOWELL", Elle Girl		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/9344
+#EXTINF:-1 tvg-ID="Ere TV" tvg-name="Ere TV" tvg-logo="" group-title="DAVIDHOWELL", Ere TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163702
+#EXTINF:-1 tvg-ID="Fashion PG13" tvg-name="Fashion PG13" tvg-logo="" group-title="DAVIDHOWELL", Fashion PG13	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163729
+#EXTINF:-1 tvg-ID="FIP (National)" tvg-name="FIP (National)" tvg-logo="" group-title="DAVIDHOWELL", FIP (National)	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69661
+#EXTINF:-1 tvg-ID="FIP autour du rock" tvg-name="FIP autour du rock" tvg-logo="" group-title="DAVIDHOWELL", FIP autour du rock	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69660
+#EXTINF:-1 tvg-ID="Fréquence 3" tvg-name="Fréquence 3" tvg-logo="" group-title="DAVIDHOWELL", Fréquence 3	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110498
+#EXTINF:-1 tvg-ID="Fréquence 3 Gold" tvg-name="Fréquence 3 Gold" tvg-logo="" group-title="DAVIDHOWELL", Fréquence 3 Gold	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110500
+#EXTINF:-1 tvg-ID="Fréquence 3 Urban" tvg-name="Fréquence 3 Urban" tvg-logo="" group-title="DAVIDHOWELL", Fréquence 3 Urban	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110499
+#EXTINF:-1 tvg-ID="Fun Radio" tvg-name="Fun Radio" tvg-logo="" group-title="DAVIDHOWELL", Fun Radio	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69655
+#EXTINF:-1 tvg-ID="IDF 1" tvg-name="IDF 1" tvg-logo="" group-title="DAVIDHOWELL", IDF 1		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/152344
+#EXTINF:-1 tvg-ID="IL TV" tvg-name="IL TV" tvg-logo="" group-title="DAVIDHOWELL", IL TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/7656
+#EXTINF:-1 tvg-ID="La Chaine Normande" tvg-name="La Chaine Normande" tvg-logo="" group-title="DAVIDHOWELL", La Chaine Normande	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163718
+#EXTINF:-1 tvg-ID="La Deux" tvg-name="[BE] La Deux" tvg-logo="" group-title="DAVIDHOWELL", La Deux		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3349
+#EXTINF:-1 tvg-ID="La Trois" tvg-name="[BE] La Trois" tvg-logo="" group-title="DAVIDHOWELL", La Trois		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/4511
+#EXTINF:-1 tvg-ID="LaLaLa Radio" tvg-name="LaLaLa Radio" tvg-logo="" group-title="DAVIDHOWELL", LaLaLa Radio	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69656
+#EXTINF:-1 tvg-ID="L'Eko des Garrigues" tvg-name="L'Eko des Garrigues" tvg-logo="" group-title="DAVIDHOWELL", L'Eko des Garrigues	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110497
+#EXTINF:-1 tvg-ID="Masha Et Michka" tvg-name="Masha Et Michka" tvg-logo="" group-title="DAVIDHOWELL", Masha Et Michka	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/155413
+#EXTINF:-1 tvg-ID="MensUp" tvg-name="MensUp" tvg-logo="" group-title="DAVIDHOWELL", MensUp		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163726
+#EXTINF:-1 tvg-ID="Mirabelle TV" tvg-name="Mirabelle TV" tvg-logo="" group-title="DAVIDHOWELL", Mirabelle TV	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163719
+#EXTINF:-1 tvg-ID="Monaco Info" tvg-name="Monaco Info" tvg-logo="" group-title="DAVIDHOWELL", Monaco Info	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163720
+#EXTINF:-1 tvg-ID="Mouv’ Xtra" tvg-name="Mouv’ Xtra" tvg-logo="" group-title="DAVIDHOWELL", Mouv’ Xtra	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69659
+#EXTINF:-1 tvg-ID="MyComedy" tvg-name="MyComedy" tvg-logo="" group-title="DAVIDHOWELL", MyComedy	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163704
+#EXTINF:-1 tvg-ID="Nancy TV" tvg-name="Nancy TV" tvg-logo="" group-title="DAVIDHOWELL", Nancy TV		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163721
+#EXTINF:-1 tvg-ID="Paris-One Electronic" tvg-name="Paris-One Electronic" tvg-logo="" group-title="DAVIDHOWELL", Paris-One Electronic	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69654
+#EXTINF:-1 tvg-ID="Plug RTL" tvg-name="BE: Plug RTL" tvg-logo="" group-title="DAVIDHOWELL", Plug RTL		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/3617
+#EXTINF:-1 tvg-ID="RivieraRadio" tvg-name="RivieraRadio" tvg-logo="" group-title="DAVIDHOWELL", RivieraRadio	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/70335
+#EXTINF:-1 tvg-ID="Seasons" tvg-name="Seasons" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/seasons.jpg" group-title="DAVIDHOWELL", Seasons		
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/6353
+#EXTINF:-1 tvg-ID="Sensuelle 80" tvg-name="Sensuelle 80" tvg-logo="" group-title="DAVIDHOWELL", Sensuelle 80	
+http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110496
+#EXTINF:-1 tvg-ID="Sensuelle Radio" tvg-name="Sensuelle Radio" tvg-logo="" group-title="DAVIDHOWELL", Sensuelle Radio	
+>>>>>>> parent of 716bdab... Update FranceTV.m3u
 http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/110495
 #EXTINF:-1 tvg-id="" tvg-name="RTI1" tvg-logo="" group-title="darkosp", RTI1
 http://tv.nova-iptv.com:80/darkosp/SjE8EaR8Ng/6147
