@@ -1,411 +1,499 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ????" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ????
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ-1" tvg-logo="" group-title="kam",TVBJ-1
+http://hdonline.ml:80/kam/kam/13096
+#EXTINF:-1 tvg-id="" tvg-name="TVB1" tvg-logo="" group-title="kam",TVB1
+http://hdonline.ml:80/kam/kam/13097
+#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="" group-title="kam",TVBS
+http://hdonline.ml:80/kam/kam/13098
+#EXTINF:-1 tvg-id="" tvg-name="TVBE" tvg-logo="" group-title="kam",TVBE
+http://hdonline.ml:80/kam/kam/13099
+#EXTINF:-1 tvg-id="" tvg-name="TVB News" tvg-logo="" group-title="kam",TVB News
+http://hdonline.ml:80/kam/kam/13100
+#EXTINF:-1 tvg-id="" tvg-name="TVB Drama" tvg-logo="" group-title="kam",TVB Drama
+http://hdonline.ml:80/kam/kam/13101
+#EXTINF:-1 tvg-id="" tvg-name="TVB Chinese" tvg-logo="" group-title="kam",TVB Chinese
+http://hdonline.ml:80/kam/kam/13102
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Hong Kong Channel" tvg-logo="" group-title="kam",Phoenix Hong Kong Channel
+http://hdonline.ml:80/kam/kam/13103
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV Mandarin" tvg-logo="" group-title="kam",BabyTV Mandarin
+http://hdonline.ml:80/kam/kam/13104
+#EXTINF:-1 tvg-id="" tvg-name="Formosa TV" tvg-logo="" group-title="kam",Formosa TV
+http://hdonline.ml:80/kam/kam/13105
+#EXTINF:-1 tvg-id="" tvg-name="SETi" tvg-logo="" group-title="kam",SETi
+http://hdonline.ml:80/kam/kam/13106
+#EXTINF:-1 tvg-id="" tvg-name="CTS America" tvg-logo="" group-title="kam",CTS America
+http://hdonline.ml:80/kam/kam/13107
+#EXTINF:-1 tvg-id="" tvg-name="TTV" tvg-logo="" group-title="kam",TTV
+http://hdonline.ml:80/kam/kam/13108
+#EXTINF:-1 tvg-id="" tvg-name="ET China" tvg-logo="" group-title="kam",ET China
+http://hdonline.ml:80/kam/kam/13109
+#EXTINF:-1 tvg-id="" tvg-name="ET Global" tvg-logo="" group-title="kam",ET Global
+http://hdonline.ml:80/kam/kam/13110
+#EXTINF:-1 tvg-id="" tvg-name="ET Drama" tvg-logo="" group-title="kam",ET Drama
+http://hdonline.ml:80/kam/kam/13111
+#EXTINF:-1 tvg-id="" tvg-name="ET Financial News" tvg-logo="" group-title="kam",ET Financial News
+http://hdonline.ml:80/kam/kam/13112
+#EXTINF:-1 tvg-id="" tvg-name="ET News" tvg-logo="" group-title="kam",ET News
+http://hdonline.ml:80/kam/kam/13113
+#EXTINF:-1 tvg-id="" tvg-name="USTV" tvg-logo="" group-title="kam",USTV
+http://hdonline.ml:80/kam/kam/13114
+#EXTINF:-1 tvg-id="" tvg-name="Skylink Television" tvg-logo="" group-title="kam",Skylink Television
+http://hdonline.ml:80/kam/kam/13115
+#EXTINF:-1 tvg-id="" tvg-name="Skylink Television 2" tvg-logo="" group-title="kam",Skylink Television 2
+http://hdonline.ml:80/kam/kam/13116
+#EXTINF:-1 tvg-id="" tvg-name="iCiTi" tvg-logo="" group-title="kam",iCiTi
+http://hdonline.ml:80/kam/kam/13117
+#EXTINF:-1 tvg-id="" tvg-name="Yoyo TV" tvg-logo="" group-title="kam",Yoyo TV
+http://hdonline.ml:80/kam/kam/13118
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="" group-title="kam",CCTV-4
+http://hdonline.ml:80/kam/kam/13119
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-Entertainment" tvg-logo="" group-title="kam",CCTV-Entertainment
+http://hdonline.ml:80/kam/kam/13120
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-Opera" tvg-logo="" group-title="kam",CCTV-Opera
+http://hdonline.ml:80/kam/kam/13121
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix InfoNews" tvg-logo="" group-title="kam",Phoenix InfoNews
+http://hdonline.ml:80/kam/kam/13122
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix North America Chinese Channel" tvg-logo="" group-title="kam",Phoenix North America Chinese Channel
+http://hdonline.ml:80/kam/kam/13123
+#EXTINF:-1 tvg-id="" tvg-name="Great Wall Elite" tvg-logo="" group-title="kam",Great Wall Elite
+http://hdonline.ml:80/kam/kam/13124
+#EXTINF:-1 tvg-id="" tvg-name="Great Wall Fresh" tvg-logo="" group-title="kam",Great Wall Fresh
+http://hdonline.ml:80/kam/kam/13125
+#EXTINF:-1 tvg-id="" tvg-name="Guangdong Southern TV" tvg-logo="" group-title="kam",Guangdong Southern TV
+http://hdonline.ml:80/kam/kam/13126
+#EXTINF:-1 tvg-id="" tvg-name="Zhejiang TV" tvg-logo="" group-title="kam",Zhejiang TV
+http://hdonline.ml:80/kam/kam/13127
+#EXTINF:-1 tvg-id="" tvg-name="CGTN English" tvg-logo="" group-title="kam",CGTN English
+http://hdonline.ml:80/kam/kam/13128
+#EXTINF:-1 tvg-id="" tvg-name="CGTN-Espanol" tvg-logo="" group-title="kam",CGTN-Espanol
+http://hdonline.ml:80/kam/kam/13129
+#EXTINF:-1 tvg-id="" tvg-name="Dragon TV" tvg-logo="" group-title="kam",Dragon TV
+http://hdonline.ml:80/kam/kam/13130
+#EXTINF:-1 tvg-id="" tvg-name="Beijing TV" tvg-logo="" group-title="kam",Beijing TV
+http://hdonline.ml:80/kam/kam/13131
+#EXTINF:-1 tvg-id="" tvg-name="China Movie Channel" tvg-logo="" group-title="kam",China Movie Channel
+http://hdonline.ml:80/kam/kam/13132
+#EXTINF:-1 tvg-id="" tvg-name="Hunan Satellite TV" tvg-logo="" group-title="kam",Hunan Satellite TV
+http://hdonline.ml:80/kam/kam/13133
+#EXTINF:-1 tvg-id="" tvg-name="ShenZhen Television" tvg-logo="" group-title="kam",ShenZhen Television
+http://hdonline.ml:80/kam/kam/13134
+#EXTINF:-1 tvg-id="" tvg-name="Anhui Television" tvg-logo="" group-title="kam",Anhui Television
+http://hdonline.ml:80/kam/kam/13135
+#EXTINF:-1 tvg-id="" tvg-name="ChongQing Television" tvg-logo="" group-title="kam",ChongQing Television
+http://hdonline.ml:80/kam/kam/13136
+#EXTINF:-1 tvg-id="" tvg-name="Pacvia TV" tvg-logo="" group-title="kam",Pacvia TV
+http://hdonline.ml:80/kam/kam/13137
+#EXTINF:-1 tvg-id="" tvg-name="Jiangsu International Channel" tvg-logo="" group-title="kam",Jiangsu International Channel
+http://hdonline.ml:80/kam/kam/13138
+#EXTINF:-1 tvg-id="" tvg-name="Fujian Straits TV" tvg-logo="" group-title="kam",Fujian Straits TV
+http://hdonline.ml:80/kam/kam/13139
+#EXTINF:-1 tvg-ID="" tvg-name="????" tvg-logo="" group-title="SinoTVPRO",????
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29081
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ????" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ????
+#EXTINF:-1 tvg-ID="" tvg-name="????" tvg-logo="" group-title="SinoTVPRO",????
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29061
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ANHUI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ANHUI
+#EXTINF:-1 tvg-ID="" tvg-name="ANHUI" tvg-logo="" group-title="SinoTVPRO",ANHUI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29035
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: AXN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: AXN
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="SinoTVPRO",AXN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29010
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BEIJING" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BEIJING
+#EXTINF:-1 tvg-ID="" tvg-name="BEIJING" tvg-logo="" group-title="SinoTVPRO",BEIJING
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29034
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BS-TBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BS-TBS
+#EXTINF:-1 tvg-ID="" tvg-name="BS-TBS" tvg-logo="" group-title="SinoTVPRO",BS-TBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29021
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BS0" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BS0
+#EXTINF:-1 tvg-ID="" tvg-name="BS0" tvg-logo="" group-title="SinoTVPRO",BS0
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29000
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CBC YOYO" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CBC YOYO
+#EXTINF:-1 tvg-ID="" tvg-name="CBC YOYO" tvg-logo="" group-title="SinoTVPRO",CBC YOYO
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28999
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV1
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV1" tvg-logo="" group-title="SinoTVPRO",CCTV1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29022
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV2
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV2" tvg-logo="" group-title="SinoTVPRO",CCTV2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29079
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV3
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV3" tvg-logo="" group-title="SinoTVPRO",CCTV3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29014
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV4" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV4
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV4" tvg-logo="" group-title="SinoTVPRO",CCTV4
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29071
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV5" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV5
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV5" tvg-logo="" group-title="SinoTVPRO",CCTV5
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29012
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV6" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV6
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV6" tvg-logo="" group-title="SinoTVPRO",CCTV6
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29011
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV7" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV7
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV7" tvg-logo="" group-title="SinoTVPRO",CCTV7
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29078
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV8" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV8
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV8" tvg-logo="" group-title="SinoTVPRO",CCTV8
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29013
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV10" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV10
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV10" tvg-logo="" group-title="SinoTVPRO",CCTV10
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29077
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV11" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV11
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV11" tvg-logo="" group-title="SinoTVPRO",CCTV11
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29076
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV12" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV12
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV12" tvg-logo="" group-title="SinoTVPRO",CCTV12
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29075
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV13" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV13
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV13" tvg-logo="" group-title="SinoTVPRO",CCTV13
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29072
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV14" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV14
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV14" tvg-logo="" group-title="SinoTVPRO",CCTV14
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29073
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV15" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV15
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV15" tvg-logo="" group-title="SinoTVPRO",CCTV15
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29074
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CETV1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CETV1
+#EXTINF:-1 tvg-ID="" tvg-name="CETV1" tvg-logo="" group-title="SinoTVPRO",CETV1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29060
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN DOCUMENTARY" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN DOCUMENTARY
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN DOCUMENTARY" tvg-logo="" group-title="SinoTVPRO",CGTN DOCUMENTARY
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29068
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN ESPANOL" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN ESPANOL
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN ESPANOL" tvg-logo="" group-title="SinoTVPRO",CGTN ESPANOL
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29069
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN FRANCAIS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN FRANCAIS
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN FRANCAIS" tvg-logo="" group-title="SinoTVPRO",CGTN FRANCAIS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29070
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Channel 9" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Channel 9
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 9" tvg-logo="" group-title="SinoTVPRO",Channel 9
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28997
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHANNEL V TAIWAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHANNEL V TAIWAN
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL V TAIWAN" tvg-logo="" group-title="SinoTVPRO",CHANNEL V TAIWAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29028
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHONGQING" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHONGQING
+#EXTINF:-1 tvg-ID="" tvg-name="CHONGQING" tvg-logo="" group-title="SinoTVPRO",CHONGQING
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29040
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHTV
+#EXTINF:-1 tvg-ID="" tvg-name="CHTV" tvg-logo="" group-title="SinoTVPRO",CHTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29084
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CNEX" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CNEX
+#EXTINF:-1 tvg-ID="" tvg-name="CNEX" tvg-logo="" group-title="SinoTVPRO",CNEX
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29001
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: DISCOVERY ASIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: DISCOVERY ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ASIA" tvg-logo="" group-title="SinoTVPRO",DISCOVERY ASIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29006
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: DISNEY" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: DISNEY
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="" group-title="SinoTVPRO",DISNEY
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29007
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 1 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 1 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30045
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 2 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 2 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 2 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30042
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 3 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 3 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 3 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30040
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: First Movie HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: First Movie HD
+#EXTINF:-1 tvg-ID="" tvg-name="First Movie HD" tvg-logo="" group-title="SinoTVPRO",First Movie HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30053
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: GUANGDONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: GUANGDONG
+#EXTINF:-1 tvg-ID="" tvg-name="GUANGDONG" tvg-logo="" group-title="SinoTVPRO",GUANGDONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29064
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: GUANGXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: GUANGXI
+#EXTINF:-1 tvg-ID="" tvg-name="GUANGXI" tvg-logo="" group-title="SinoTVPRO",GUANGXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29065
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HBO" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HBO
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="SinoTVPRO",HBO
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29002
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HEBEI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HEBEI
+#EXTINF:-1 tvg-ID="" tvg-name="HEBEI" tvg-logo="" group-title="SinoTVPRO",HEBEI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29032
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HEI LONG JIANG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HEI LONG JIANG
+#EXTINF:-1 tvg-ID="" tvg-name="HEI LONG JIANG" tvg-logo="" group-title="SinoTVPRO",HEI LONG JIANG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29046
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HENAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HENAN
+#EXTINF:-1 tvg-ID="" tvg-name="HENAN" tvg-logo="" group-title="SinoTVPRO",HENAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29043
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HILLSONG CHANNEL" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HILLSONG CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="HILLSONG CHANNEL" tvg-logo="" group-title="SinoTVPRO",HILLSONG CHANNEL
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29082
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUBEI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUBEI
+#EXTINF:-1 tvg-ID="" tvg-name="HUBEI" tvg-logo="" group-title="SinoTVPRO",HUBEI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29059
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUNAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUNAN
+#EXTINF:-1 tvg-ID="" tvg-name="HUNAN" tvg-logo="" group-title="SinoTVPRO",HUNAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29067
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUNAN CARTOON" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUNAN CARTOON
+#EXTINF:-1 tvg-ID="" tvg-name="HUNAN CARTOON" tvg-logo="" group-title="SinoTVPRO",HUNAN CARTOON
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29066
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: JIANGSU" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: JIANGSU
+#EXTINF:-1 tvg-ID="" tvg-name="JIANGSU" tvg-logo="" group-title="SinoTVPRO",JIANGSU
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29062
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: JIANGXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: JIANGXI
+#EXTINF:-1 tvg-ID="" tvg-name="JIANGXI" tvg-logo="" group-title="SinoTVPRO",JIANGXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29037
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: KBS WORLD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: KBS WORLD
+#EXTINF:-1 tvg-ID="" tvg-name="KBS WORLD" tvg-logo="" group-title="SinoTVPRO",KBS WORLD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29008
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: LOTUS MACAU" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: LOTUS MACAU
+#EXTINF:-1 tvg-ID="" tvg-name="LOTUS MACAU" tvg-logo="" group-title="SinoTVPRO",LOTUS MACAU
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29024
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MASTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MASTV
+#EXTINF:-1 tvg-ID="" tvg-name="MASTV" tvg-logo="" group-title="SinoTVPRO",MASTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29056
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MITV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MITV
+#EXTINF:-1 tvg-ID="" tvg-name="MITV" tvg-logo="" group-title="SinoTVPRO",MITV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29016
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MIZZIMA TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MIZZIMA TV
+#EXTINF:-1 tvg-ID="" tvg-name="MIZZIMA TV" tvg-logo="" group-title="SinoTVPRO",MIZZIMA TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29015
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Movies Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Movies Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Channel" tvg-logo="" group-title="SinoTVPRO",Movies Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29020
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MRTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MRTV
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV" tvg-logo="" group-title="SinoTVPRO",MRTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29017
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MSTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MSTV
+#EXTINF:-1 tvg-ID="" tvg-name="MSTV" tvg-logo="" group-title="SinoTVPRO",MSTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29057
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SinoTVPRO",NATIONAL GEOGRAPHIC
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29005
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NINGXIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NINGXIA
+#EXTINF:-1 tvg-ID="" tvg-name="NINGXIA" tvg-logo="" group-title="SinoTVPRO",NINGXIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29042
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX CHINESE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX CHINESE
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX CHINESE" tvg-logo="" group-title="SinoTVPRO",PHOENIX CHINESE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29026
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX HONGKONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX HONGKONG
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX HONGKONG" tvg-logo="" group-title="SinoTVPRO",PHOENIX HONGKONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29025
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX INFONEWS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX INFONEWS
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX INFONEWS" tvg-logo="" group-title="SinoTVPRO",PHOENIX INFONEWS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29027
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PNN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PNN
+#EXTINF:-1 tvg-ID="" tvg-name="PNN" tvg-logo="" group-title="SinoTVPRO",PNN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29053
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: REUTERS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: REUTERS
+#EXTINF:-1 tvg-ID="" tvg-name="REUTERS" tvg-logo="" group-title="SinoTVPRO",REUTERS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29055
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: S" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: S
+#EXTINF:-1 tvg-ID="" tvg-name="S" tvg-logo="" group-title="SinoTVPRO",S
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29038
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANDONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANDONG
+#EXTINF:-1 tvg-ID="" tvg-name="SHANDONG" tvg-logo="" group-title="SinoTVPRO",SHANDONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29045
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANDONG SATELLITE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANDONG SATELLITE
+#EXTINF:-1 tvg-ID="" tvg-name="SHANDONG SATELLITE" tvg-logo="" group-title="SinoTVPRO",SHANDONG SATELLITE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29039
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANXI
+#EXTINF:-1 tvg-ID="" tvg-name="SHANXI" tvg-logo="" group-title="SinoTVPRO",SHANXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29044
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANXI SATELLITE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANXI SATELLITE
+#EXTINF:-1 tvg-ID="" tvg-name="SHANXI SATELLITE" tvg-logo="" group-title="SinoTVPRO",SHANXI SATELLITE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29041
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SICHUAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SICHUAN
+#EXTINF:-1 tvg-ID="" tvg-name="SICHUAN" tvg-logo="" group-title="SinoTVPRO",SICHUAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29036
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SportSat HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SportSat HD
+#EXTINF:-1 tvg-ID="" tvg-name="SportSat HD" tvg-logo="" group-title="SinoTVPRO",SportSat HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28998
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SUN TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SUN TV
+#EXTINF:-1 tvg-ID="" tvg-name="SUN TV" tvg-logo="" group-title="SinoTVPRO",SUN TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29030
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TBN ASIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TBN ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="TBN ASIA" tvg-logo="" group-title="SinoTVPRO",TBN ASIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29083
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: THAI PBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: THAI PBS
+#EXTINF:-1 tvg-ID="" tvg-name="THAI PBS" tvg-logo="" group-title="SinoTVPRO",THAI PBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29048
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TIANJIN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TIANJIN
+#EXTINF:-1 tvg-ID="" tvg-name="TIANJIN" tvg-logo="" group-title="SinoTVPRO",TIANJIN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29033
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: XING KONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: XING KONG
+#EXTINF:-1 tvg-ID="" tvg-name="XING KONG" tvg-logo="" group-title="SinoTVPRO",XING KONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29029
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: YOU&amp;ME" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: YOU&amp;ME
+#EXTINF:-1 tvg-ID="" tvg-name="YOU&amp;ME" tvg-logo="" group-title="SinoTVPRO",YOU&amp;ME
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29049
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: YUNNAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: YUNNAN
+#EXTINF:-1 tvg-ID="" tvg-name="YUNNAN" tvg-logo="" group-title="SinoTVPRO",YUNNAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29063
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ZHEJIANG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ZHEJIANG
+#EXTINF:-1 tvg-ID="" tvg-name="ZHEJIANG" tvg-logo="" group-title="SinoTVPRO",ZHEJIANG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29047
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TVBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TVBS
+#EXTINF:-1 tvg-ID="" tvg-name="TVBS" tvg-logo="" group-title="SinoTVPRO",TVBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29019
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: 2 Yan'an" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: 2 Yan'an
+#EXTINF:-1 tvg-ID="" tvg-name="2 Yan'an" tvg-logo="" group-title="SinoTVPRO",2 Yan'an
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33203
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: 5Star Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: 5Star Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="5Star Sports FHD" tvg-logo="" group-title="SinoTVPRO",5Star Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33224
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Beijing Documentary" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Beijing Documentary
+#EXTINF:-1 tvg-ID="" tvg-name="Beijing Documentary" tvg-logo="" group-title="SinoTVPRO",Beijing Documentary
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33223
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Blackberry Movies FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Blackberry Movies FHD
+#EXTINF:-1 tvg-ID="" tvg-name="Blackberry Movies FHD" tvg-logo="" group-title="SinoTVPRO",Blackberry Movies FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33219
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV 5  FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV 5  FHD
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5  FHD" tvg-logo="" group-title="SinoTVPRO",CCTV 5  FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33225
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV 5 FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV 5 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5 FHD" tvg-logo="" group-title="SinoTVPRO",CCTV 5 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33226
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv" tvg-logo="" group-title="SinoTVPRO",Newtv
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33216
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Action FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Action FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Action FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Action FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33228
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Boutique drama" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Boutique drama
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Boutique drama" tvg-logo="" group-title="SinoTVPRO",Newtv Boutique drama
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33215
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Chinese Kung Fu" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Chinese Kung Fu
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Chinese Kung Fu" tvg-logo="" group-title="SinoTVPRO",Newtv Chinese Kung Fu
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33214
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Costume Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Costume Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Costume Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Costume Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33213
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Family Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Family Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Family Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Family Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33212
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Fighting Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Fighting Theater
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Fighting Theater" tvg-logo="" group-title="SinoTVPRO",NewTV Fighting Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33218
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Fine Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Fine Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Fine Sports FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Fine Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33227
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Gold Variety" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Gold Variety
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Gold Variety" tvg-logo="" group-title="SinoTVPRO",Newtv Gold Variety
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33211
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Healthy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Healthy
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Healthy" tvg-logo="" group-title="SinoTVPRO",Newtv Healthy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33210
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Love Comedy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Love Comedy
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Love Comedy" tvg-logo="" group-title="SinoTVPRO",Newtv Love Comedy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33209
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Military Review" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Military Review
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Military Review" tvg-logo="" group-title="SinoTVPRO",Newtv Military Review
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33208
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Military Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Military Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Military Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Military Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33207
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Overseas Theatre" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Overseas Theatre
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Overseas Theatre" tvg-logo="" group-title="SinoTVPRO",Newtv Overseas Theatre
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33206
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Premium Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Premium Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Premium Sports FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Premium Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33217
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv star blockbuster" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv star blockbuster
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv star blockbuster" tvg-logo="" group-title="SinoTVPRO",Newtv star blockbuster
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33205
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Suspense" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Suspense
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Suspense" tvg-logo="" group-title="SinoTVPRO",Newtv Suspense
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33204
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TV drama channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TV drama channel
+#EXTINF:-1 tvg-ID="" tvg-name="TV drama channel" tvg-logo="" group-title="SinoTVPRO",TV drama channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33222
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Xiamen Film & TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Xiamen Film & TV
+#EXTINF:-1 tvg-ID="" tvg-name="Xiamen Film & TV" tvg-logo="" group-title="SinoTVPRO",Xiamen Film & TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33221
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Xiamen Life" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Xiamen Life
+#EXTINF:-1 tvg-ID="" tvg-name="Xiamen Life" tvg-logo="" group-title="SinoTVPRO",Xiamen Life
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33220
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Yan'an 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Yan'an 1
+#EXTINF:-1 tvg-ID="" tvg-name="Yan'an 1" tvg-logo="" group-title="SinoTVPRO",Yan'an 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33202
-EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 1
+EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 1" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37958
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 2" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37959
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 3" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37960
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 4" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 4
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 4" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 4
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37961
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 5" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 5
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 5" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 5
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37962
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 6" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 6
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 6" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 6
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37963
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 7" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 7
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 7" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 7
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37964
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 8" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 8" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 8
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37965
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 9" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 9
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 9" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 9
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37966
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 10" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 10
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 10" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 10
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37967
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 11" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 11
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 11" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 11
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37968
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 12" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 12
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 12" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 12
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37969
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 13" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 13
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 13" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 13
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37970
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 14" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 14
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 14" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 14
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37971
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 15" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 15
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 15" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 15
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37972
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 16" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 16
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 16" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 16
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37973
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 17" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 17
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 17" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 17
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37974
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 18" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 18
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 18" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 18
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37975
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 19" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 19
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 19" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 19
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37976
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 20" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 20
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 20" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 20
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37977
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 21" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 21
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 21" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 21
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37978
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 22" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 22
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 22" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 22
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37979
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 23" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 23
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 23" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 23
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37980
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 24" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 24
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 24" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 24
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37981
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 25" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 25
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 25" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 25
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37982
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 26" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 26
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 26" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 26
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37983
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 27" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 27
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 27" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 27
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37984
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 28" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 28
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 28" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 28
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37985
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 29" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 29
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 29" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 29
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37986
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 30" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 30
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 30" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 30
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37987
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 31" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 31
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 31" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 31
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37988
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 32" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 32
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 32" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 32
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37989
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 33" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 33
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 33" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 33
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37990
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 34" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 34
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 34" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 34
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37991
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 35" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 35
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 35" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 35
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37992
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 36" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 36
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 36" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 36
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37993
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 37" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 37
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 37" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 37
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37994
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 38" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 38
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 38" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 38
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37995
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 39" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 39
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 39" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 39
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37996
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 40" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 40
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 40" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 40
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37997
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 41" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 41
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 41" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 41
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37998
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 42" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 42
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 42" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 42
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37999
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 43" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 43
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 43" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 43
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38000
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 44" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 44
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 44" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 44
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38001
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 45" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 45
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 45" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 45
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38002
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 46" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 46
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 46" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 46
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38003
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Chinese" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Chinese
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Chinese" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Chinese
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35766
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Drama" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Drama
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Drama" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Drama
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35765
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB HD" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35760
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB Pearl" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Pearl
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB Pearl" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Pearl
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35764
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB1
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB1" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35762
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB2" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35761
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVBE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVBE
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVBE" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVBE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35763
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVBS
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVBS" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35783
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 1 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30044
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 2 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 2 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30041
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 3 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 3 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30039
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: AO Macau" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: AO Macau
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: AO Macau" tvg-logo="" group-title="SinoTVPRO",VIP HK: AO Macau
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32708
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: BabyTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: BabyTV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: BabyTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: BabyTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32707
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Aussie Macau" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Aussie Macau
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Aussie Macau" tvg-logo="" group-title="SinoTVPRO",VIP HK: Aussie Macau
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32706
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Emerald Mandarin" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Emerald Mandarin
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Emerald Mandarin" tvg-logo="" group-title="SinoTVPRO",VIP HK: Emerald Mandarin
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32704
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fantastic TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Fantastic TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fantastic TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Fantastic TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32703
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: HKSTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: HKSTV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: HKSTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: HKSTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32702
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Hong Kong TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Hong Kong TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Hong Kong TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Hong Kong TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32701
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Australia and Asia Satellite TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Australia and Asia Satellite TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Australia and Asia Satellite TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Australia and Asia Satellite TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: CNN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: CNN
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: CNN" tvg-logo="" group-title="SinoTVPRO",VIP HK: CNN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32700
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Discovery Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Discovery Channel
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Discovery Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Discovery Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32699
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: J2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: J2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: J2" tvg-logo="" group-title="SinoTVPRO",VIP HK: J2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32698
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: NTD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: NTD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: NTD" tvg-logo="" group-title="SinoTVPRO",VIP HK: NTD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32697
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Phoenix Information HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix Information HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Phoenix Information HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix Information HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32696
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Sanli News" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Sanli News
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Sanli News" tvg-logo="" group-title="SinoTVPRO",VIP HK: Sanli News
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32695
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: SF HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: SF HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: SF HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: SF HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32694
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox News" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Fox News
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox News" tvg-logo="" group-title="SinoTVPRO",VIP HK: Fox News
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32693
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star Sports" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Star Sports
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star Sports" tvg-logo="" group-title="SinoTVPRO",VIP HK: Star Sports
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32692
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Star TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Star TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32691
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: TVB Galaxy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TVB Galaxy
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: TVB Galaxy" tvg-logo="" group-title="SinoTVPRO",VIP HK: TVB Galaxy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32688
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Nickelodeon" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Nickelodeon
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Nickelodeon" tvg-logo="" group-title="SinoTVPRO",VIP HK: Nickelodeon
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32687
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Universal HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Universal HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Universal HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Universal HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32689
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Baogu Movies" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Baogu Movies
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Baogu Movies" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Baogu Movies
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32686
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Business News Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Business News Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Business News Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Business News Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32685
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Chinese Drama Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Chinese Drama Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Chinese Drama Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Chinese Drama Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32684
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Direct" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Direct
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Direct" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Direct
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32690
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Drama Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Drama Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Drama Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Drama Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32683
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 1
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 1" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32682
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 2" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32681
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 3" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32680
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Jelli" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Jelli
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Jelli" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Jelli
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32679
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now NEWS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now NEWS" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now NEWS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32678
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: East NET" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: East NET
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: East NET" tvg-logo="" group-title="SinoTVPRO",VIP HK: East NET
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32709
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix Chinese Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix Chinese Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix Chinese Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix Chinese Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32675
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix HongKong Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix HongKong Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix HongKong Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix HongKong Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32677
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix InfoNews Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix InfoNews Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix InfoNews Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix InfoNews Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32674
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Sony GEM" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Sony GEM
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Sony GEM" tvg-logo="" group-title="SinoTVPRO",VIP HK: Sony GEM
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32673
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TLC" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TLC
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TLC" tvg-logo="" group-title="SinoTVPRO",VIP HK: TLC
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32676
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TVN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TVN
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TVN" tvg-logo="" group-title="SinoTVPRO",VIP HK: TVN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32672
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: WarnerTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: WarnerTV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: WarnerTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: WarnerTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32671
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Jackie Chan Movies HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Jackie Chan Movies HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Jackie Chan Movies HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Jackie Chan Movies HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28833
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: K+ 1 FHD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: K+ 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34755
@@ -945,793 +1033,3 @@ http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/26321
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/26320
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: TVK KHMER" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: TVK KHMER
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/26319
-#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="VIP FR: BEINSPORT 1 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 1 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/14901
-#EXTINF:-1 tvg-ID="beINSport2.fr" tvg-name="VIP FR: BEINSPORT 2 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 2 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/14902
-#EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="VIP FR: BEINSPORT 3 FHD" tvg-logo="[" group-title="Live: France",VIP FR: BEINSPORT 3 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/14903
-#EXTINF:-1 tvg-ID="BeInSportMax4.fr" tvg-name="VIP FR: BEINSPORT MAX 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 4 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23106
-#EXTINF:-1 tvg-ID="BeInSportMax5.fr" tvg-name="VIP FR: BEINSPORT MAX 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 5 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23142
-#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="VIP FR: BEINSPORT MAX 6 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 6 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23141
-#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="VIP FR: BEINSPORT MAX 7 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 7 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23140
-#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="VIP FR: BEINSPORT MAX 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 8 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23139
-#EXTINF:-1 tvg-ID="BeInSportMax9.fr" tvg-name="VIP FR: BEINSPORT MAX 9 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 9 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23138
-#EXTINF:-1 tvg-ID="BeInSportMax10.fr" tvg-name="VIP FR: BEINSPORT MAX 10 FHD" tvg-logo="" group-title="Live: France",VIP FR: BEINSPORT MAX 10 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23137
-#EXTINF:-1 tvg-ID="RMC Sport 1 FR" tvg-name="VIP FR: RMC SPORT UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT UHD 4K
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29093
-#EXTINF:-1 tvg-ID="RMCSportNews.fr" tvg-name="VIP FR: RMC SPORT News HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT News HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19424
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC SPORT 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23126
-#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="VIP FR: RMC SPORT 1 HD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7285
-#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 2 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23125
-#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7286
-#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC SPORT 3 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT 3 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23124
-#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="VIP FR: RMC SPORT 3 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7427
-#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC SPORT 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC SPORT 4 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23123
-#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="VIP FR: RMC SPORT 4 HD" tvg-logo="[" group-title="Live: France",VIP FR: RMC SPORT 4 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7504
-#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="VIP FR: RMC SPORT Accees 1 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19425
-#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="VIP FR: RMC SPORT Accees 2 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23795
-#EXTINF:-1 tvg-ID="RMCSportAccess3.fr" tvg-name="VIP FR: RMC SPORT Accees 3 HD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC SPORT Accees 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23794
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 5 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 5 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19366
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 6 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 6 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19365
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Sport 7 HD Live" tvg-logo="[" group-title="Live: France",VIP FR: RMC Sport 7 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19364
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 8 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 8 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19363
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 9 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 9 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19362
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 10 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 10 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19361
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 11 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 11 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19360
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 12 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 12 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/19359
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 13 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 13 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20383
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC Sport 14 HD Live" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC Sport 14 HD Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20384
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MB Live 4K" tvg-logo="" group-title="Live: France",VIP FR: MB Live 4K
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/27953
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: TF1 UHD 4K" tvg-logo="" group-title="Live: France",VIP FR: TF1 UHD 4K
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: 13eme Rue FHD" tvg-logo="" group-title="Live: France",VIP FR: 13eme Rue FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23177
-#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="VIP FR: 6ter FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: 6ter FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20473
-#EXTINF:-1 tvg-ID="Aplus International FR" tvg-name="VIP FR: A+ FHD" tvg-logo="" group-title="Live: France",VIP FR: A+ FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16095
-#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="VIP FR: AB1 FHD" tvg-logo="" group-title="Live: France",VIP FR: AB1 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20463
-#EXTINF:-1 tvg-ID="ab3.be" tvg-name="VIP FR: AB3 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: AB3 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20462
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: AB_EXPLORE FHD" tvg-logo="" group-title="Live: France",VIP FR: AB_EXPLORE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23134
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Action FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Action FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20474
-#EXTINF:-1 tvg-ID="Altice Studio FR" tvg-name="VIP FR: Altice Studio FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Altice Studio FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18643
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: ANIMAUX FHD" tvg-logo="[" group-title="Live: France",VIP FR: ANIMAUX FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20447
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Arte FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Arte FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20461
-#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="VIP FR: BE Curious FHD" tvg-logo="" group-title="Live: France",VIP FR: BE Curious FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16096
-#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="VIP FR: BET* FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: BET* FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18638
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Boing FHD" tvg-logo="" group-title="Live: France",VIP FR: Boing FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23160
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Boomerang FHD" tvg-logo="" group-title="Live: France",VIP FR: Boomerang FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20450
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: BRAVA FHD" tvg-logo="" group-title="Live: France",VIP FR: BRAVA FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23131
-#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="VIP FR: C Star FHD" tvg-logo="[" group-title="Live: France",VIP FR: C Star FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20471
-#EXTINF:-1 tvg-ID="C8.fr" tvg-name="VIP FR: C8 FHD" tvg-logo="" group-title="Live: France",VIP FR: C8 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20472
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL  CINEMA FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL  CINEMA FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23173
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL  DECALE FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL  DECALE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23172
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL  Family FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL  Family FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23171
-#EXTINF:-1 tvg-ID="CANALplus.fr" tvg-name="VIP FR: CANAL+ FHD" tvg-logo="[" group-title="Live: France",VIP FR: CANAL+ FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20470
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CANAL  SERIES_FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL  SERIES_FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23169
-#EXTINF:-1 tvg-ID="CANALplusSPORT.fr" tvg-name="VIP FR: CANAL+ SPORT FHD" tvg-logo="[" group-title="Live: France",VIP FR: CANAL+ SPORT FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20469
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANAL ALPHA JU FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL ALPHA JU FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23170
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANAL J FHD" tvg-logo="" group-title="Live: France",VIP FR: CANAL J FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23161
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Cartoon Network FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Cartoon Network FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20452
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Cherie 25 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Cherie 25 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20448
-#EXTINF:-1 tvg-ID="CinecinemaPremier.fr" tvg-name="VIP FR: Cine+ Premier FHD" tvg-logo="[" group-title="Live: France",VIP FR: Cine+ Premier FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20468
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Cine Classic FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Classic FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23163
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Club FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Club FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23164
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Emotion FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Emotion FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23165
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Famiz FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Famiz FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23166
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine Frisson FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine Frisson FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23167
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Cine POLAR FHD" tvg-logo="" group-title="Live: France",VIP FR: Cine POLAR FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23168
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Comedie  FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Comedie  FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20459
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Crime District FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Crime District FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23157
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: CSTAR Hite France FHD" tvg-logo="" group-title="Live: France",VIP FR: CSTAR Hite France FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23174
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: D24 FHD" tvg-logo="" group-title="Live: France",VIP FR: D24 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18656
-#EXTINF:-1 tvg-ID="DiscoveryFamily.fr" tvg-name="VIP FR: Discovery Family FHD" tvg-logo="[" group-title="Live: France",VIP FR: Discovery Family FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16098
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: DISCOVERY FHD" tvg-logo="" group-title="Live: France",VIP FR: DISCOVERY FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23148
-#EXTINF:-1 tvg-ID="Discovery Investigation FR" tvg-name="VIP FR: Discovery ID FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Discovery ID FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18639
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Discovery Science FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Discovery Science FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23147
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Disney Channel FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Disney Channel FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20457
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Disney Cinema FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Disney Cinema FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20451
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: DISNEY JUNIOR FHD" tvg-logo="" group-title="Live: France",VIP FR: DISNEY JUNIOR FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23158
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Disney XD FHD" tvg-logo="" group-title="Live: France",VIP FR: Disney XD FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23162
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: ELLE GIRL FHD" tvg-logo="" group-title="Live: France",VIP FR: ELLE GIRL FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23151
-#EXTINF:-1 tvg-ID="ES1.fr" tvg-name="VIP FR: ES1 HD" tvg-logo="" group-title="Live: France",VIP FR: ES1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18662
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: EQUIDIA LIVE FHD" tvg-logo="" group-title="Live: France",VIP FR: EQUIDIA LIVE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20437
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: FASHION FHD" tvg-logo="" group-title="Live: France",VIP FR: FASHION FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18649
-#EXTINF:-1 tvg-ID="France2.fr" tvg-name="VIP FR: France 2 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: France 2 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20483
-#EXTINF:-1 tvg-ID="France3.fr" tvg-name="VIP FR: France 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 3 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20482
-#EXTINF:-1 tvg-ID="France4.fr" tvg-name="VIP FR: France 4 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 4 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20481
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: France 5 FHD" tvg-logo="" group-title="Live: France",VIP FR: France 5 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20480
-#EXTINF:-1 tvg-ID="FranceO.fr" tvg-name="VIP FR: France O FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: France O FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20479
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: GAME ONE FHD" tvg-logo="" group-title="Live: France",VIP FR: GAME ONE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23153
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: GENERATIONS TV FHD" tvg-logo="" group-title="Live: France",VIP FR: GENERATIONS TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23130
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Golf Channel FHD" tvg-logo="" group-title="Live: France",VIP FR: Golf Channel FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23145
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Gulli FHD" tvg-logo="" group-title="Live: France",VIP FR: Gulli FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23152
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: INFOSPORT  FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: INFOSPORT  FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20433
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: J-ONE FHD" tvg-logo="" group-title="Live: France",VIP FR: J-ONE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20449
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: LEMAN BLEU FHD" tvg-logo="" group-title="Live: France",VIP FR: LEMAN BLEU FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23128
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: LUXE FHD" tvg-logo="" group-title="Live: France",VIP FR: LUXE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16100
-#EXTINF:-1 tvg-ID="M6.fr" tvg-name="VIP FR: M6 FHD" tvg-logo="" group-title="Live: France",VIP FR: M6 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20478
-#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="VIP FR: Manga FHD" tvg-logo="" group-title="Live: France",VIP FR: Manga FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20453
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MULTISPORTS 1HD" tvg-logo="" group-title="Live: France",VIP FR: MULTISPORTS 1HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18657
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: MEZZO LIVE FHD" tvg-logo="" group-title="Live: France",VIP FR: MEZZO LIVE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23143
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MOTORSPORT TV FHD" tvg-logo="" group-title="Live: France",VIP FR: MOTORSPORT TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23136
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MOUV TV FHD" tvg-logo="" group-title="Live: France",VIP FR: MOUV TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23132
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MTV France FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: MTV France FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20460
-#EXTINF:-1 tvg-ID="My Cuisine FR" tvg-name="VIP FR: MY Cuisine FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: MY Cuisine FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16102
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: MY ZEN FHD" tvg-logo="" group-title="Live: France",VIP FR: MY ZEN FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16101
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: NATIONA GEO FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: NATIONA GEO FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20441
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: NATIONAL GEO WILD FHD" tvg-logo="" group-title="Live: France",VIP FR: NATIONAL GEO WILD FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23150
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Nautical Channel FHD" tvg-logo="" group-title="Live: France",VIP FR: Nautical Channel FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23129
-#EXTINF:-1 tvg-ID="NovelasTV.fr" tvg-name="VIP FR: NOVELAS FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: NOVELAS FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18663
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: NRJ_12 FHD" tvg-logo="" group-title="Live: France",VIP FR: NRJ_12 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20434
-#EXTINF:-1 tvg-ID="OrangeCinechoc.fr" tvg-name="VIP FR: OCS CHOC FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS CHOC FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20464
-#EXTINF:-1 tvg-ID="OrangeCineHappy.fr" tvg-name="VIP FR: OCS City FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS City FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20465
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS GEANT FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS GEANT FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20466
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Max FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: OCS Max FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20467
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OL TV FHD" tvg-logo="" group-title="Live: France",VIP FR: OL TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23135
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: One TV FHD" tvg-logo="" group-title="Live: France",VIP FR: One TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23159
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OUATCH FHD" tvg-logo="" group-title="Live: France",VIP FR: OUATCH FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18658
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="Live: France",VIP FR: PARAMOUNT CHANNEL FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23149
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: PARIS PREMIERE FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: PARIS PREMIERE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20439
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Piwi FHD" tvg-logo="" group-title="Live: France",VIP FR: Piwi FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23154
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: PLANETE  A&E FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: PLANETE  A&E FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20442
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: PLANETE  CI FHD" tvg-logo="" group-title="Live: France",VIP FR: PLANETE  CI FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20443
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Planete  FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Planete  FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20444
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: RMC Decouvert FHD" tvg-logo="" group-title="Live: France",VIP FR: RMC Decouvert FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20445
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: RMC_Story FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: RMC_Story FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20436
-#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="VIP FR: RTL9 FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: RTL9 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20476
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Science et Vie FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Science et Vie FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20438
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: SEASON FHD" tvg-logo="" group-title="Live: France",VIP FR: SEASON FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20440
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: SERIE CLUB FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: SERIE CLUB FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20454
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: SUNDANCE FHD" tvg-logo="" group-title="Live: France",VIP FR: SUNDANCE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23127
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: Syfy FHD" tvg-logo="" group-title="Live: France",VIP FR: Syfy FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23175
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TCM Cinema FHD" tvg-logo="" group-title="Live: France",VIP FR: TCM Cinema FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23156
-#EXTINF:-1 tvg-ID="Teva.fr" tvg-name="VIP FR: TEVA FHD" tvg-logo="" group-title="Live: France",VIP FR: TEVA FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20475
-#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="VIP FR: TF1 FHD" tvg-logo="" group-title="Live: France",VIP FR: TF1 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/11372
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TF1 SERIES FILMS FHD" tvg-logo="" group-title="Live: France",VIP FR: TF1 SERIES FILMS FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23178
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TFX FHD" tvg-logo="" group-title="Live: France",VIP FR: TFX FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23144
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TIJI FHD" tvg-logo="" group-title="Live: France",VIP FR: TIJI FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23155
-#EXTINF:-1 tvg-ID="TMC.fr" tvg-name="VIP FR: TMC FHD" tvg-logo="" group-title="Live: France",VIP FR: TMC FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20455
-#EXTINF:-1 tvg-ID="Toonami FR" tvg-name="VIP FR: Toonami FHD" tvg-logo="" group-title="Live: France",VIP FR: Toonami FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16105
-#EXTINF:-1 tvg-ID="TraceSport.fr" tvg-name="VIP FR: Trace Sport Stars HD" tvg-logo="" group-title="Live: France",VIP FR: Trace Sport Stars HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16104
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TREK FHD" tvg-logo="" group-title="Live: France",VIP FR: TREK FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23176
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TV5 MONDE FHD" tvg-logo="" group-title="Live: France",VIP FR: TV5 MONDE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23146
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP FR: TVBREIZH FHD" tvg-logo="" group-title="Live: France",VIP FR: TVBREIZH FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20446
-#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="VIP FR: Ushuaia TV FHD" tvg-logo="" group-title="Live: France",VIP FR: Ushuaia TV FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20458
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: VAR AZUR FHD" tvg-logo="" group-title="Live: France",VIP FR: VAR AZUR FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/23133
-#EXTINF:-1 tvg-ID="Viceland FR" tvg-name="VIP FR: VICELAND FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: VICELAND FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16103
-#EXTINF:-1 tvg-ID="Voyage.fr" tvg-name="VIP FR: Voyage FHD" tvg-logo="[""]" group-title="Live: France",VIP FR: Voyage FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20456
-#EXTINF:-1 tvg-ID="W9.fr" tvg-name="VIP FR: W9 FHD" tvg-logo="" group-title="Live: France",VIP FR: W9 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/20477
-#EXTINF:-1 tvg-ID="Warnertv.fr" tvg-name="VIP FR: WARNER FHD" tvg-logo="[" group-title="Live: France",VIP FR: WARNER FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18644
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Vitrine CanalPlay Live" tvg-logo="" group-title="Live: France",VIP FR: Vitrine CanalPlay Live
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35100
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 1 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 1 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35101
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 2 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 2 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35102
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 3 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 3 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35103
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 4 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 4 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35104
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 5 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 5 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35105
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 6 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 6 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35106
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 7 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 7 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35107
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 8 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 8 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35108
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 9 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 9 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35109
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 10 FHD (Audio-Description)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 10 FHD (Audio-Description)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35110
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 11 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 11 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35111
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 12 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 12 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35112
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 13 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 13 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35113
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 14 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 14 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35114
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 15 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 15 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35115
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 16 FHD (MultiAudio)" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 16 FHD (MultiAudio)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35116
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 17 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 17 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35117
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY 18 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY 18 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35118
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY MULTIVISION 1 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 1 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35119
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY MULTIVISION 2 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 2 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35120
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: CANALPLAY MULTIVISION 3 FHD" tvg-logo="" group-title="Live: France",VIP FR: CANALPLAY MULTIVISION 3 FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35121
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28888
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 2 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28887
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 3 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28886
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 4 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 4 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28885
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Movies 5 HD" tvg-logo="" group-title="Live: France",VIP FR: Movies 5 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28884
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 1 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28883
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 2 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28882
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 3 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28881
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 4 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 4 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28880
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: OCS Go Cinema 5 HD" tvg-logo="" group-title="Live: France",VIP FR: OCS Go Cinema 5 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28879
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 1 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28878
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 2 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28877
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 3 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28876
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 4 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 4 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28875
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 5 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 5 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28874
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema 6 HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema 6 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28873
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema Action HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema Action HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28872
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema Aventure HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema Aventure HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28871
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema CEst Fait HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema CEst Fait HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28870
-#EXTINF:-1 tvg-ID="" tvg-name="VIP FR: Orange Cinema HD" tvg-logo="" group-title="Live: France",VIP FR: Orange Cinema HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28869
-#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="FR: TF1 HD" tvg-logo="" group-title="Live: France",FR: TF1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/363
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TFX" tvg-logo="" group-title="Live: France",FR: TFX
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/17301
-#EXTINF:-1 tvg-ID="TF1 Series Film FR" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="" group-title="Live: France",FR: TF1 SERIES FILMS HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/17300
-#EXTINF:-1 tvg-ID="France 2 FR" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="Live: France",FR: FRANCE 2
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/370
-#EXTINF:-1 tvg-ID="France 3 FR" tvg-name="FR: FRANCE 3" tvg-logo="" group-title="Live: France",FR: FRANCE 3
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/369
-#EXTINF:-1 tvg-ID="France 4 FR" tvg-name="FR: FRANCE 4" tvg-logo="" group-title="Live: France",FR: FRANCE 4
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/368
-#EXTINF:-1 tvg-ID="France 5 FR" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="Live: France",FR: FRANCE 5
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/367
-#EXTINF:-1 tvg-ID="France O FR" tvg-name="FR: FRANCE O" tvg-logo="" group-title="Live: France",FR: FRANCE O
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/366
-#EXTINF:-1 tvg-ID="Arte FR" tvg-name="FR: ARTE HD" tvg-logo="" group-title="Live: France",FR: ARTE HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1072
-#EXTINF:-1 tvg-ID="M6 FR" tvg-name="FR: M6 HD" tvg-logo="[" group-title="Live: France",FR: M6 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/365
-#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9 HD" tvg-logo="[" group-title="Live: France",FR: W9 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/362
-#EXTINF:-1 tvg-ID="W9 FR" tvg-name="FR: W9" tvg-logo="[""]" group-title="Live: France",FR: W9
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/9935
-#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6 TER HD" tvg-logo="" group-title="Live: France",FR: 6 TER HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12013
-#EXTINF:-1 tvg-ID="CANALPlus FR" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="Live: France",FR: CANAL+ HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/361
-#EXTINF:-1 tvg-ID="CANALPlus Decale FR" tvg-name="FR: CANAL+ DECALE" tvg-logo="" group-title="Live: France",FR: CANAL+ DECALE
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/359
-#EXTINF:-1 tvg-ID="CANALPlus Family FR" tvg-name="FR: CANAL+ FAMILY" tvg-logo="[""]" group-title="Live: France",FR: CANAL+ FAMILY
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/358
-#EXTINF:-1 tvg-ID="CANALPlus Cinema FR" tvg-name="FR: CANAL+ CINEMA" tvg-logo="[" group-title="Live: France",FR: CANAL+ CINEMA
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/5897
-#EXTINF:-1 tvg-ID="CANALPlus Series FR" tvg-name="FR: CANAL+ SERIES" tvg-logo="[" group-title="Live: France",FR: CANAL+ SERIES
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/357
-#EXTINF:-1 tvg-ID="CANALPlus Sport FR" tvg-name="FR: CANAL+ SPORT" tvg-logo="" group-title="Live: France",FR: CANAL+ SPORT
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/356
-#EXTINF:-1 tvg-ID="beIN SPORTS 1 FR" tvg-name="FR: BEINSPORT 1HD" tvg-logo="[" group-title="Live: France",FR: BEINSPORT 1HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/14140
-#EXTINF:-1 tvg-ID="beIN SPORTS 2 FR" tvg-name="FR: BEINSPORT 2HD" tvg-logo="[""]" group-title="Live: France",FR: BEINSPORT 2HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/347
-#EXTINF:-1 tvg-ID="beIN SPORTS 3 FR" tvg-name="FR: BEINSPORT 3HD" tvg-logo="" group-title="Live: France",FR: BEINSPORT 3HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/346
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 4 FR" tvg-name="FR: BEINSPORT MAX 4" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 4
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2515
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 5 FR" tvg-name="FR: BEINSPORT MAX 5" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 5
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2516
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 6 FR" tvg-name="FR: BEINSPORT MAX 6" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 6
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2517
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 7 FR" tvg-name="FR: BEINSPORT MAX 7" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 7
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2518
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 8 FR" tvg-name="FR: BEINSPORT MAX 8" tvg-logo="" group-title="Live: France",FR: BEINSPORT MAX 8
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2519
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 9 FR" tvg-name="FR: BEINSPORT MAX 9" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 9
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2520
-#EXTINF:-1 tvg-ID="beIN SPORTS MAX 10 FR" tvg-name="FR: BEINSPORT MAX 10" tvg-logo="[" group-title="Live: France",FR: BEINSPORT MAX 10
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2521
-#EXTINF:-1 tvg-ID="FootPlus 2424 FR" tvg-name="FR: FOOT+24 HD" tvg-logo="[" group-title="Live: France",FR: FOOT+24 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1244
-#EXTINF:-1 tvg-ID="Eurosport 1 FR" tvg-name="FR: EUROSPORT 1HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 1HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/345
-#EXTINF:-1 tvg-ID="Eurosport 2 FR" tvg-name="FR: EUROSPORT 2HD" tvg-logo="" group-title="Live: France",FR: EUROSPORT 2HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/344
-#EXTINF:-1 tvg-ID="LEquipe 21 FR" tvg-name="FR: L'equipe 21 HD" tvg-logo="" group-title="Live: France",FR: L'equipe 21 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1068
-#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="FR: 13EME RUE HD" tvg-logo="" group-title="Live: France",FR: 13EME RUE HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3759
-#EXTINF:-1 tvg-ID="6ter FR" tvg-name="FR: 6TER HD" tvg-logo="" group-title="Live: France",FR: 6TER HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2608
-#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="FR: AB 1" tvg-logo="" group-title="Live: France",FR: AB 1
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/10356
-#EXTINF:-1 tvg-ID="AB Moteurs FR" tvg-name="FR: AB MOTEUR" tvg-logo="" group-title="Live: France",FR: AB MOTEUR
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3758
-#EXTINF:-1 tvg-ID="Action FR" tvg-name="FR: ACTION HD" tvg-logo="" group-title="Live: France",FR: ACTION HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/349
-#EXTINF:-1 tvg-ID="Animaux FR" tvg-name="FR: Animaux HD" tvg-logo="" group-title="Live: France",FR: Animaux HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/642
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Baby HD" tvg-logo="[""]" group-title="Live: France",FR: Baby HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12526
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BBLACK AFRICA" tvg-logo="" group-title="Live: France",FR: BBLACK AFRICA
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18641
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: BBLACK Classic" tvg-logo="" group-title="Live: France",FR: BBLACK Classic
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18642
-#EXTINF:-1 tvg-ID="Be Curious TV FR" tvg-name="FR: BE Curious HD" tvg-logo="" group-title="Live: France",FR: BE Curious HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2607
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE JEUNESSE" tvg-logo="" group-title="Live: France",FR: BERBERE JEUNESSE
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16438
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE MUSIC" tvg-logo="" group-title="Live: France",FR: BERBERE MUSIC
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16439
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BERBERE TELEVISION" tvg-logo="" group-title="Live: France",FR: BERBERE TELEVISION
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3778
-#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="FR: BET HD" tvg-logo="[" group-title="Live: France",FR: BET HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2620
-#EXTINF:-1 tvg-ID="BFM Sport FR" tvg-name="FR: BFM Paris HD" tvg-logo="" group-title="Live: France",FR: BFM Paris HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3780
-#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR: BFM TV" tvg-logo="" group-title="Live: France",FR: BFM TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2763
-#EXTINF:-1 tvg-ID="Boing FR" tvg-name="FR: BOING" tvg-logo="[" group-title="Live: France",FR: BOING
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2623
-#EXTINF:-1 tvg-ID="Boomerang FR" tvg-name="FR: Boomerang" tvg-logo="" group-title="Live: France",FR: Boomerang
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2622
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BRAVA HD" tvg-logo="[""]" group-title="Live: France",FR: BRAVA HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18648
-#EXTINF:-1 tvg-ID="TvBreizh FR" tvg-name="FR: BREIZH TV" tvg-logo="" group-title="Live: France",FR: BREIZH TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2609
-#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C NEWS HD" tvg-logo="" group-title="Live: France",FR: C NEWS HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16097
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: C news SD" tvg-logo="" group-title="Live: France",FR: C news SD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1069
-#EXTINF:-1 tvg-ID="Canal Star FR" tvg-name="FR: C star HD" tvg-logo="[" group-title="Live: France",FR: C star HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2764
-#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="FR: C8 HD" tvg-logo="" group-title="Live: France",FR: C8 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2765
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Alpha" tvg-logo="" group-title="Live: France",FR: Canal Alpha
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12528
-#EXTINF:-1 tvg-ID="Canal J FR" tvg-name="FR: CANAL J" tvg-logo="" group-title="Live: France",FR: CANAL J
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2619
-#EXTINF:-1 tvg-ID="Cartoon Network FR" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="Live: France",FR: Cartoon Network
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2621
-#EXTINF:-1 tvg-ID="Chasse et peche FR" tvg-name="FR: Chasse & Peche" tvg-logo="[" group-title="Live: France",FR: Chasse & Peche
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12522
-#EXTINF:-1 tvg-ID="Cherie 25 FR" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="Live: France",FR: CHERIE 25 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3761
-#EXTINF:-1 tvg-ID="CinePlus Club HD FR" tvg-name="FR: CINE CLUB" tvg-logo="" group-title="Live: France",FR: CINE CLUB
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12523
-#EXTINF:-1 tvg-ID="CinePlus Classic FR" tvg-name="FR: CINE+ CLASSIC" tvg-logo="[" group-title="Live: France",FR: CINE+ CLASSIC
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2612
-#EXTINF:-1 tvg-ID="CinePlus Emotion HD FR" tvg-name="FR: CINE+ EMOTION" tvg-logo="[""]" group-title="Live: France",FR: CINE+ EMOTION
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/352
-#EXTINF:-1 tvg-ID="CinePlus Famiz HD FR" tvg-name="FR: CINE+ FAMIZ" tvg-logo="[""]" group-title="Live: France",FR: CINE+ FAMIZ
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2611
-#EXTINF:-1 tvg-ID="CinePlus Frisson HD FR" tvg-name="FR: CINE+ FRISSON" tvg-logo="[" group-title="Live: France",FR: CINE+ FRISSON
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/351
-#EXTINF:-1 tvg-ID="Cine Polar FR" tvg-name="FR: CINE+ POLAR" tvg-logo="" group-title="Live: France",FR: CINE+ POLAR
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2610
-#EXTINF:-1 tvg-ID="CinePlus Premier HD FR" tvg-name="FR: CINE+ PREMIER" tvg-logo="" group-title="Live: France",FR: CINE+ PREMIER
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/350
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Clubbing TV" tvg-logo="" group-title="Live: France",FR: Clubbing TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12529
-#EXTINF:-1 tvg-ID="ComediePlus FR" tvg-name="FR: Comedie+ HD" tvg-logo="" group-title="Live: France",FR: Comedie+ HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2604
-#EXTINF:-1 tvg-ID="Discovery Channel FR" tvg-name="FR: DISCOVERY" tvg-logo="" group-title="Live: France",FR: DISCOVERY
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/355
-#EXTINF:-1 tvg-ID="Discovery Science FR" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="Live: France",FR: Discovery Science HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/646
-#EXTINF:-1 tvg-ID="Disney Channel FR" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="Live: France",FR: Disney Channel HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/645
-#EXTINF:-1 tvg-ID="Disney Cinema HD FR" tvg-name="FR: DISNEY CINEMAGIC HD" tvg-logo="" group-title="Live: France",FR: DISNEY CINEMAGIC HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3763
-#EXTINF:-1 tvg-ID="Disney Junior FR" tvg-name="FR: Disney Junior" tvg-logo="[" group-title="Live: France",FR: Disney Junior
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2624
-#EXTINF:-1 tvg-ID="Disney XD FR" tvg-name="FR: DISNEY XD HD" tvg-logo="" group-title="Live: France",FR: DISNEY XD HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3764
-#EXTINF:-1 tvg-ID="E! FR" tvg-name="FR: E! HD" tvg-logo="" group-title="Live: France",FR: E! HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7684
-#EXTINF:-1 tvg-ID="ElleGirl FR" tvg-name="FR: Elle Girl FHD" tvg-logo="" group-title="Live: France",FR: Elle Girl FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16099
-#EXTINF:-1 tvg-ID="Equidia Live HD FR" tvg-name="FR: EQUIDIA LIVE" tvg-logo="" group-title="Live: France",FR: EQUIDIA LIVE
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3771
-#EXTINF:-1 tvg-ID="" tvg-name="FR: EURONEWS" tvg-logo="" group-title="Live: France",FR: EURONEWS
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/8255
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Extreme Sport HD" tvg-logo="" group-title="Live: France",FR: Extreme Sport HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18655
-#EXTINF:-1 tvg-ID="France 24 FR" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="Live: France",FR: FRANCE 24
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7867
-#EXTINF:-1 tvg-ID="Game One FR" tvg-name="FR: Game One" tvg-logo="" group-title="Live: France",FR: Game One
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/9113
-#EXTINF:-1 tvg-ID="Golf Channel FR" tvg-name="FR: GOLF Channel HD" tvg-logo="[" group-title="Live: France",FR: GOLF Channel HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16109
-#EXTINF:-1 tvg-ID="GolfPlus FR" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="Live: France",FR: GOLF+ HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7834
-#EXTINF:-1 tvg-ID="Gong FR" tvg-name="FR: Gong Base" tvg-logo="" group-title="Live: France",FR: Gong Base
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12525
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GongMax" tvg-logo="" group-title="Live: France",FR: GongMax
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18667
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: GRAND LILLE" tvg-logo="" group-title="Live: France",FR: GRAND LILLE
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18660
-#EXTINF:-1 tvg-ID="Gulli FR" tvg-name="FR: Gulli" tvg-logo="" group-title="Live: France",FR: Gulli
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2625
-#EXTINF:-1 tvg-ID="HD1 FR" tvg-name="FR: HD1" tvg-logo="" group-title="Live: France",FR: HD1
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2766
-#EXTINF:-1 tvg-ID="Histoire FR" tvg-name="FR: Histoire" tvg-logo="" group-title="Live: France",FR: Histoire
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1070
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: i24 News" tvg-logo="" group-title="Live: France",FR: i24 News
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/9015
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: IDF 1" tvg-logo="" group-title="Live: France",FR: IDF 1
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18640
-#EXTINF:-1 tvg-ID="" tvg-name="FR: IL TV" tvg-logo="" group-title="Live: France",FR: IL TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18636
-#EXTINF:-1 tvg-ID="InfosportPlus FR" tvg-name="FR: InfoSport+ HD" tvg-logo="[" group-title="Live: France",FR: InfoSport+ HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/342
-#EXTINF:-1 tvg-ID="J-One FR" tvg-name="FR: J-ONE HD" tvg-logo="[""]" group-title="Live: France",FR: J-ONE HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3779
-#EXTINF:-1 tvg-ID="KTO FR" tvg-name="FR: KTO" tvg-logo="" group-title="Live: France",FR: KTO
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3777
-#EXTINF:-1 tvg-ID="" tvg-name="FR: LA CHAINE METEO HD" tvg-logo="" group-title="Live: France",FR: LA CHAINE METEO HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18666
-#EXTINF:-1 tvg-ID="Cine FX FR" tvg-name="FR: La Chaine Normande" tvg-logo="" group-title="Live: France",FR: La Chaine Normande
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12524
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: LCI HD" tvg-logo="" group-title="Live: France",FR: LCI HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/9112
-#EXTINF:-1 tvg-ID="LCP FR" tvg-name="FR: LCP HD" tvg-logo="" group-title="Live: France",FR: LCP HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3776
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Leman Bleu TV" tvg-logo="" group-title="Live: France",FR: Leman Bleu TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18659
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Lucky Jack TV" tvg-logo="" group-title="Live: France",FR: Lucky Jack TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18650
-#EXTINF:-1 tvg-ID="M6 Music FR" tvg-name="FR: M6 MUSIC" tvg-logo="" group-title="Live: France",FR: M6 MUSIC
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3775
-#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="FR: MANGAS HD" tvg-logo="" group-title="Live: France",FR: MANGAS HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/341
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: MCM HD" tvg-logo="[" group-title="Live: France",FR: MCM HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/31445
-#EXTINF:-1 tvg-ID="MCM Top HD FR" tvg-name="FR: MCM POP" tvg-logo="" group-title="Live: France",FR: MCM POP
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12530
-#EXTINF:-1 tvg-ID="" tvg-name="FR: MTV Hits" tvg-logo="[""]" group-title="Live: France",FR: MTV Hits
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3774
-#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: NAT GEO HD" tvg-logo="" group-title="Live: France",FR: NAT GEO HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/336
-#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="FR: Nat Geo Wild HD" tvg-logo="[" group-title="Live: France",FR: Nat Geo Wild HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/9815
-#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="FR: NICKELODEON" tvg-logo="" group-title="Live: France",FR: NICKELODEON
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7712
-#EXTINF:-1 tvg-ID="Nickelodeon Junior FR" tvg-name="FR: NICKELODEON JR" tvg-logo="[""]" group-title="Live: France",FR: NICKELODEON JR
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/7713
-#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name="FR: NRJ12 HD" tvg-logo="[""]" group-title="Live: France",FR: NRJ12 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/364
-#EXTINF:-1 tvg-ID="NT1 FR" tvg-name="FR: France 3 NOA HD" tvg-logo="" group-title="Live: France",FR: France 3 NOA HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/340
-#EXTINF:-1 tvg-ID="Numero 23 FR" tvg-name="FR: NUMERO 23 HD" tvg-logo="" group-title="Live: France",FR: NUMERO 23 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3762
-#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="FR: OCS CHOC HD" tvg-logo="[" group-title="Live: France",FR: OCS CHOC HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3769
-#EXTINF:-1 tvg-ID="OCS City FR" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="Live: France",FR: OCS CITY HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2613
-#EXTINF:-1 tvg-ID="OCS Geants FR" tvg-name="FR: OCS GEANTS HD" tvg-logo="[" group-title="Live: France",FR: OCS GEANTS HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3768
-#EXTINF:-1 tvg-ID="OCS Max FR" tvg-name="FR: OCS MAX HD" tvg-logo="[" group-title="Live: France",FR: OCS MAX HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3767
-#EXTINF:-1 tvg-ID="OLTV FR" tvg-name="FR: OL TV" tvg-logo="" group-title="Live: France",FR: OL TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18645
-#EXTINF:-1 tvg-ID="OMtv FR" tvg-name="FR: OM TV" tvg-logo="" group-title="Live: France",FR: OM TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18678
-#EXTINF:-1 tvg-ID="One TV FR" tvg-name="FR: ONE TV" tvg-logo="" group-title="Live: France",FR: ONE TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18637
-#EXTINF:-1 tvg-ID="Paramount Channel FR" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="[" group-title="Live: France",FR: PARAMOUNT CHANNEL HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3770
-#EXTINF:-1 tvg-ID="Paris Premiere FR" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="Live: France",FR: Paris Premiere HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1066
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PIWI  HD" tvg-logo="[""]" group-title="Live: France",FR: PIWI  HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/339
-#EXTINF:-1 tvg-ID="PlanetePlus FR" tvg-name="FR: Planet HD" tvg-logo="[""]" group-title="Live: France",FR: Planet HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/10594
-#EXTINF:-1 tvg-ID="PlanetePlus Action and Experience FR" tvg-name="FR: Planete  A&E HD" tvg-logo="[""]" group-title="Live: France",FR: Planete  A&E HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/644
-#EXTINF:-1 tvg-ID="PlanetePlus CrimeplusInvestigation FR" tvg-name="FR: PLANETE CI" tvg-logo="" group-title="Live: France",FR: PLANETE CI
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/353
-#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="Live: France",FR: RMC Decouverte
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3766
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Rouge TV" tvg-logo="" group-title="Live: France",FR: Rouge TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18664
-#EXTINF:-1 tvg-ID="RTL 9 FR" tvg-name="FR: RTL9" tvg-logo="" group-title="Live: France",FR: RTL9
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2601
-#EXTINF:-1 tvg-ID="RTS Deux HD FR" tvg-name="FR: RTS DEUX HD" tvg-logo="[""]" group-title="Live: France",FR: RTS DEUX HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2767
-#EXTINF:-1 tvg-ID="RTS Un HD FR" tvg-name="FR: RTS UN HD" tvg-logo="[" group-title="Live: France",FR: RTS UN HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2768
-#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name="FR: Sciences & Vie TV" tvg-logo="[" group-title="Live: France",FR: Sciences & Vie TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/643
-#EXTINF:-1 tvg-ID="Seasons FR" tvg-name="FR: Season HD" tvg-logo="" group-title="Live: France",FR: Season HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3773
-#EXTINF:-1 tvg-ID="serieclub FR" tvg-name="FR: Serie Club HD" tvg-logo="[""]" group-title="Live: France",FR: Serie Club HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2605
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Sundance TV" tvg-logo="" group-title="Live: France",FR: Sundance TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18661
-#EXTINF:-1 tvg-ID="Syfy HD FR" tvg-name="FR: SYFY HD" tvg-logo="" group-title="Live: France",FR: SYFY HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3760
-#EXTINF:-1 tvg-ID="TCM Cinema FR" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="Live: France",FR: TCM Cinema
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/12527
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TeleGrenoble Isere" tvg-logo="" group-title="Live: France",FR: TeleGrenoble Isere
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18646
-#EXTINF:-1 tvg-ID="Teva FR" tvg-name="FR: Teva HD" tvg-logo="" group-title="Live: France",FR: Teva HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2602
-#EXTINF:-1 tvg-ID="TIJI FR" tvg-name="FR: TIJI" tvg-logo="" group-title="Live: France",FR: TIJI
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3765
-#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC" tvg-logo="" group-title="Live: France",FR: TMC
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2769
-#EXTINF:-1 tvg-ID="TMC FR" tvg-name="FR: TMC HD" tvg-logo="" group-title="Live: France",FR: TMC HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2606
-#EXTINF:-1 tvg-ID="Toute lhistoire FR" tvg-name="FR: Toute l Histoire HD" tvg-logo="[" group-title="Live: France",FR: Toute l Histoire HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2770
-#EXTINF:-1 tvg-ID="Trek FR" tvg-name="FR: Trek HD" tvg-logo="" group-title="Live: France",FR: Trek HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/1065
-#EXTINF:-1 tvg-ID="TV5MONDE FR" tvg-name="FR: TV 5 Monde HD" tvg-logo="[" group-title="Live: France",FR: TV 5 Monde HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/8256
-#EXTINF:-1 tvg-ID="Equidia Life HD FR" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="Live: France",FR: TV5 MONDE HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3772
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV7 Bordeax" tvg-logo="" group-title="Live: France",FR: TV7 Bordeax
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18665
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TV7 Colmar" tvg-logo="" group-title="Live: France",FR: TV7 Colmar
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18654
-#EXTINF:-1 tvg-ID="M6 Boutique FR" tvg-name="FR: TV8 MontBlanc HD" tvg-logo="" group-title="Live: France",FR: TV8 MontBlanc HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18651
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: TVM 3" tvg-logo="" group-title="Live: France",FR: TVM 3
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18635
-#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="FR: Ushuaia HD" tvg-logo="" group-title="Live: France",FR: Ushuaia HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/337
-#EXTINF:-1 tvg-ID="" tvg-name="FR: VOSGUE TV" tvg-logo="" group-title="Live: France",FR: VOSGUE TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/18653
-#EXTINF:-1 tvg-ID="Voyage HD FR" tvg-name="FR: VOYAGE HD" tvg-logo="" group-title="Live: France",FR: VOYAGE HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2771
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 1" tvg-logo="" group-title="Live: France",FR: Canal Play 1
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2614
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="Live: France",FR: Canal Play 2
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2615
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="Live: France",FR: Canal Play 3
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2616
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="Live: France",FR: Canal Play 4
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2617
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="Live: France",FR: Canal Play 5
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/2618
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 1" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 1
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3345
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 2" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 2
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3346
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 3" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 3
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3347
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 4" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 4
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3348
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 5" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 5
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3349
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 6" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 6
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3350
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 7" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 7
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3351
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 8" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 8
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3352
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: A LA CARTE 9" tvg-logo="[" group-title="Live: France",FR: A LA CARTE 9
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3353
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 10" tvg-logo="[""]" group-title="Live: France",FR: A LA CARTE 10
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/3354
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 1 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 1 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42802
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 2 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 2 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42803
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 3 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 3 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42804
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 4 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 4 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42805
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 5 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 5 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42806
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 6 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 6 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42807
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 7 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 7 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42808
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 8 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 8 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42809
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BTV MOVIES 9 HD" tvg-logo="" group-title="Live: France",FR: BTV MOVIES 9 HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/42810
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Alsace TV HD" tvg-logo="" group-title="Live: France",FR: Alsace TV HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34926
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Antenne Reunion" tvg-logo="" group-title="Live: France",FR: Antenne Reunion
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34936
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bblack! Caribbean" tvg-logo="" group-title="Live: France",FR: Bblack! Caribbean
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34930
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BIP TV (Berry Issoudun Premiere)" tvg-logo="" group-title="Live: France",FR: BIP TV (Berry Issoudun Premiere)
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34923
-#EXTINF:-1 tvg-ID="" tvg-name="FR: CPAC HD" tvg-logo="" group-title="Live: France",FR: CPAC HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34929
-#EXTINF:-1 tvg-ID="" tvg-name="FR: FASHION MIDNITE FHD" tvg-logo="" group-title="Live: France",FR: FASHION MIDNITE FHD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34928
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Francophonie 24" tvg-logo="" group-title="Live: France",FR: Francophonie 24
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34932
-#EXTINF:-1 tvg-ID="" tvg-name="FR: ILTV" tvg-logo="" group-title="Live: France",FR: ILTV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34937
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FR: France Info HD" tvg-logo="" group-title="Live: France",FR: France Info HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34939
-#EXTINF:-1 tvg-ID="" tvg-name="FR: MATELE TV HD" tvg-logo="" group-title="Live: France",FR: MATELE TV HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34925
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RT France HD" tvg-logo="" group-title="Live: France",FR: RT France HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34931
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Tebeo TV HD" tvg-logo="" group-title="Live: France",FR: Tebeo TV HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34933
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TVFIL78" tvg-logo="" group-title="Live: France",FR: TVFIL78
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34938
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TVPi" tvg-logo="" group-title="Live: France",FR: TVPi
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34935
-#EXTINF:-1 tvg-ID="" tvg-name="FR: TVR TV Rennes 35" tvg-logo="" group-title="Live: France",FR: TVR TV Rennes 35
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34924
-#EXTINF:-1 tvg-ID="" tvg-name="FR: VIA MIRABELLE TV HD" tvg-logo="" group-title="Live: France",FR: VIA MIRABELLE TV HD
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34927
-#EXTINF:-1 tvg-ID="" tvg-name="FR: via Occitanie TV" tvg-logo="" group-title="Live: France",FR: via Occitanie TV
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34934
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NJR Radio" tvg-logo="" group-title="Live: Radio",FR: NJR Radio
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16373
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Cherie" tvg-logo="" group-title="Live: Radio",FR: Cherie
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16377
-#EXTINF:-1 tvg-ID="" tvg-name="FR: France Inter" tvg-logo="" group-title="Live: Radio",FR: France Inter
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16374
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Rire & Chansons" tvg-logo="" group-title="Live: Radio",FR: Rire & Chansons
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16376
-#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL" tvg-logo="" group-title="Live: Radio",FR: RTL
-http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/16375
