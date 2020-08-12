@@ -1,411 +1,499 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ????" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ????
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ-1" tvg-logo="" group-title="kam",TVBJ-1
+http://hdonline.ml:80/kam/kam/13096
+#EXTINF:-1 tvg-id="" tvg-name="TVB1" tvg-logo="" group-title="kam",TVB1
+http://hdonline.ml:80/kam/kam/13097
+#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="" group-title="kam",TVBS
+http://hdonline.ml:80/kam/kam/13098
+#EXTINF:-1 tvg-id="" tvg-name="TVBE" tvg-logo="" group-title="kam",TVBE
+http://hdonline.ml:80/kam/kam/13099
+#EXTINF:-1 tvg-id="" tvg-name="TVB News" tvg-logo="" group-title="kam",TVB News
+http://hdonline.ml:80/kam/kam/13100
+#EXTINF:-1 tvg-id="" tvg-name="TVB Drama" tvg-logo="" group-title="kam",TVB Drama
+http://hdonline.ml:80/kam/kam/13101
+#EXTINF:-1 tvg-id="" tvg-name="TVB Chinese" tvg-logo="" group-title="kam",TVB Chinese
+http://hdonline.ml:80/kam/kam/13102
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Hong Kong Channel" tvg-logo="" group-title="kam",Phoenix Hong Kong Channel
+http://hdonline.ml:80/kam/kam/13103
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV Mandarin" tvg-logo="" group-title="kam",BabyTV Mandarin
+http://hdonline.ml:80/kam/kam/13104
+#EXTINF:-1 tvg-id="" tvg-name="Formosa TV" tvg-logo="" group-title="kam",Formosa TV
+http://hdonline.ml:80/kam/kam/13105
+#EXTINF:-1 tvg-id="" tvg-name="SETi" tvg-logo="" group-title="kam",SETi
+http://hdonline.ml:80/kam/kam/13106
+#EXTINF:-1 tvg-id="" tvg-name="CTS America" tvg-logo="" group-title="kam",CTS America
+http://hdonline.ml:80/kam/kam/13107
+#EXTINF:-1 tvg-id="" tvg-name="TTV" tvg-logo="" group-title="kam",TTV
+http://hdonline.ml:80/kam/kam/13108
+#EXTINF:-1 tvg-id="" tvg-name="ET China" tvg-logo="" group-title="kam",ET China
+http://hdonline.ml:80/kam/kam/13109
+#EXTINF:-1 tvg-id="" tvg-name="ET Global" tvg-logo="" group-title="kam",ET Global
+http://hdonline.ml:80/kam/kam/13110
+#EXTINF:-1 tvg-id="" tvg-name="ET Drama" tvg-logo="" group-title="kam",ET Drama
+http://hdonline.ml:80/kam/kam/13111
+#EXTINF:-1 tvg-id="" tvg-name="ET Financial News" tvg-logo="" group-title="kam",ET Financial News
+http://hdonline.ml:80/kam/kam/13112
+#EXTINF:-1 tvg-id="" tvg-name="ET News" tvg-logo="" group-title="kam",ET News
+http://hdonline.ml:80/kam/kam/13113
+#EXTINF:-1 tvg-id="" tvg-name="USTV" tvg-logo="" group-title="kam",USTV
+http://hdonline.ml:80/kam/kam/13114
+#EXTINF:-1 tvg-id="" tvg-name="Skylink Television" tvg-logo="" group-title="kam",Skylink Television
+http://hdonline.ml:80/kam/kam/13115
+#EXTINF:-1 tvg-id="" tvg-name="Skylink Television 2" tvg-logo="" group-title="kam",Skylink Television 2
+http://hdonline.ml:80/kam/kam/13116
+#EXTINF:-1 tvg-id="" tvg-name="iCiTi" tvg-logo="" group-title="kam",iCiTi
+http://hdonline.ml:80/kam/kam/13117
+#EXTINF:-1 tvg-id="" tvg-name="Yoyo TV" tvg-logo="" group-title="kam",Yoyo TV
+http://hdonline.ml:80/kam/kam/13118
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="" group-title="kam",CCTV-4
+http://hdonline.ml:80/kam/kam/13119
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-Entertainment" tvg-logo="" group-title="kam",CCTV-Entertainment
+http://hdonline.ml:80/kam/kam/13120
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-Opera" tvg-logo="" group-title="kam",CCTV-Opera
+http://hdonline.ml:80/kam/kam/13121
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix InfoNews" tvg-logo="" group-title="kam",Phoenix InfoNews
+http://hdonline.ml:80/kam/kam/13122
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix North America Chinese Channel" tvg-logo="" group-title="kam",Phoenix North America Chinese Channel
+http://hdonline.ml:80/kam/kam/13123
+#EXTINF:-1 tvg-id="" tvg-name="Great Wall Elite" tvg-logo="" group-title="kam",Great Wall Elite
+http://hdonline.ml:80/kam/kam/13124
+#EXTINF:-1 tvg-id="" tvg-name="Great Wall Fresh" tvg-logo="" group-title="kam",Great Wall Fresh
+http://hdonline.ml:80/kam/kam/13125
+#EXTINF:-1 tvg-id="" tvg-name="Guangdong Southern TV" tvg-logo="" group-title="kam",Guangdong Southern TV
+http://hdonline.ml:80/kam/kam/13126
+#EXTINF:-1 tvg-id="" tvg-name="Zhejiang TV" tvg-logo="" group-title="kam",Zhejiang TV
+http://hdonline.ml:80/kam/kam/13127
+#EXTINF:-1 tvg-id="" tvg-name="CGTN English" tvg-logo="" group-title="kam",CGTN English
+http://hdonline.ml:80/kam/kam/13128
+#EXTINF:-1 tvg-id="" tvg-name="CGTN-Espanol" tvg-logo="" group-title="kam",CGTN-Espanol
+http://hdonline.ml:80/kam/kam/13129
+#EXTINF:-1 tvg-id="" tvg-name="Dragon TV" tvg-logo="" group-title="kam",Dragon TV
+http://hdonline.ml:80/kam/kam/13130
+#EXTINF:-1 tvg-id="" tvg-name="Beijing TV" tvg-logo="" group-title="kam",Beijing TV
+http://hdonline.ml:80/kam/kam/13131
+#EXTINF:-1 tvg-id="" tvg-name="China Movie Channel" tvg-logo="" group-title="kam",China Movie Channel
+http://hdonline.ml:80/kam/kam/13132
+#EXTINF:-1 tvg-id="" tvg-name="Hunan Satellite TV" tvg-logo="" group-title="kam",Hunan Satellite TV
+http://hdonline.ml:80/kam/kam/13133
+#EXTINF:-1 tvg-id="" tvg-name="ShenZhen Television" tvg-logo="" group-title="kam",ShenZhen Television
+http://hdonline.ml:80/kam/kam/13134
+#EXTINF:-1 tvg-id="" tvg-name="Anhui Television" tvg-logo="" group-title="kam",Anhui Television
+http://hdonline.ml:80/kam/kam/13135
+#EXTINF:-1 tvg-id="" tvg-name="ChongQing Television" tvg-logo="" group-title="kam",ChongQing Television
+http://hdonline.ml:80/kam/kam/13136
+#EXTINF:-1 tvg-id="" tvg-name="Pacvia TV" tvg-logo="" group-title="kam",Pacvia TV
+http://hdonline.ml:80/kam/kam/13137
+#EXTINF:-1 tvg-id="" tvg-name="Jiangsu International Channel" tvg-logo="" group-title="kam",Jiangsu International Channel
+http://hdonline.ml:80/kam/kam/13138
+#EXTINF:-1 tvg-id="" tvg-name="Fujian Straits TV" tvg-logo="" group-title="kam",Fujian Straits TV
+http://hdonline.ml:80/kam/kam/13139
+#EXTINF:-1 tvg-ID="" tvg-name="????" tvg-logo="" group-title="SinoTVPRO",????
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29081
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ????" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ????
+#EXTINF:-1 tvg-ID="" tvg-name="????" tvg-logo="" group-title="SinoTVPRO",????
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29061
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ANHUI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ANHUI
+#EXTINF:-1 tvg-ID="" tvg-name="ANHUI" tvg-logo="" group-title="SinoTVPRO",ANHUI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29035
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: AXN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: AXN
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="SinoTVPRO",AXN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29010
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BEIJING" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BEIJING
+#EXTINF:-1 tvg-ID="" tvg-name="BEIJING" tvg-logo="" group-title="SinoTVPRO",BEIJING
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29034
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BS-TBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BS-TBS
+#EXTINF:-1 tvg-ID="" tvg-name="BS-TBS" tvg-logo="" group-title="SinoTVPRO",BS-TBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29021
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: BS0" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: BS0
+#EXTINF:-1 tvg-ID="" tvg-name="BS0" tvg-logo="" group-title="SinoTVPRO",BS0
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29000
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CBC YOYO" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CBC YOYO
+#EXTINF:-1 tvg-ID="" tvg-name="CBC YOYO" tvg-logo="" group-title="SinoTVPRO",CBC YOYO
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28999
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV1
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV1" tvg-logo="" group-title="SinoTVPRO",CCTV1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29022
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV2
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV2" tvg-logo="" group-title="SinoTVPRO",CCTV2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29079
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV3
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV3" tvg-logo="" group-title="SinoTVPRO",CCTV3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29014
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV4" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV4
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV4" tvg-logo="" group-title="SinoTVPRO",CCTV4
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29071
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV5" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV5
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV5" tvg-logo="" group-title="SinoTVPRO",CCTV5
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29012
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV6" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV6
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV6" tvg-logo="" group-title="SinoTVPRO",CCTV6
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29011
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV7" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV7
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV7" tvg-logo="" group-title="SinoTVPRO",CCTV7
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29078
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV8" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV8
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV8" tvg-logo="" group-title="SinoTVPRO",CCTV8
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29013
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV10" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV10
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV10" tvg-logo="" group-title="SinoTVPRO",CCTV10
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29077
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV11" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV11
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV11" tvg-logo="" group-title="SinoTVPRO",CCTV11
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29076
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV12" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV12
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV12" tvg-logo="" group-title="SinoTVPRO",CCTV12
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29075
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV13" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV13
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV13" tvg-logo="" group-title="SinoTVPRO",CCTV13
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29072
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV14" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV14
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV14" tvg-logo="" group-title="SinoTVPRO",CCTV14
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29073
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV15" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV15
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV15" tvg-logo="" group-title="SinoTVPRO",CCTV15
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29074
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CETV1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CETV1
+#EXTINF:-1 tvg-ID="" tvg-name="CETV1" tvg-logo="" group-title="SinoTVPRO",CETV1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29060
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN DOCUMENTARY" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN DOCUMENTARY
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN DOCUMENTARY" tvg-logo="" group-title="SinoTVPRO",CGTN DOCUMENTARY
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29068
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN ESPANOL" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN ESPANOL
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN ESPANOL" tvg-logo="" group-title="SinoTVPRO",CGTN ESPANOL
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29069
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CGTN FRANCAIS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CGTN FRANCAIS
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN FRANCAIS" tvg-logo="" group-title="SinoTVPRO",CGTN FRANCAIS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29070
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Channel 9" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Channel 9
+#EXTINF:-1 tvg-ID="" tvg-name="Channel 9" tvg-logo="" group-title="SinoTVPRO",Channel 9
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28997
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHANNEL V TAIWAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHANNEL V TAIWAN
+#EXTINF:-1 tvg-ID="" tvg-name="CHANNEL V TAIWAN" tvg-logo="" group-title="SinoTVPRO",CHANNEL V TAIWAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29028
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHONGQING" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHONGQING
+#EXTINF:-1 tvg-ID="" tvg-name="CHONGQING" tvg-logo="" group-title="SinoTVPRO",CHONGQING
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29040
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CHTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CHTV
+#EXTINF:-1 tvg-ID="" tvg-name="CHTV" tvg-logo="" group-title="SinoTVPRO",CHTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29084
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CNEX" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CNEX
+#EXTINF:-1 tvg-ID="" tvg-name="CNEX" tvg-logo="" group-title="SinoTVPRO",CNEX
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29001
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: DISCOVERY ASIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: DISCOVERY ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ASIA" tvg-logo="" group-title="SinoTVPRO",DISCOVERY ASIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29006
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: DISNEY" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: DISNEY
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY" tvg-logo="" group-title="SinoTVPRO",DISNEY
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29007
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 1 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 1 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30045
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 2 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 2 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 2 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30042
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CN: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP CN: Fox Sports Asia 3 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Fox Sports Asia 3 FHD" tvg-logo="[" group-title="SinoTVPRO",Fox Sports Asia 3 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30040
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: First Movie HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: First Movie HD
+#EXTINF:-1 tvg-ID="" tvg-name="First Movie HD" tvg-logo="" group-title="SinoTVPRO",First Movie HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30053
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: GUANGDONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: GUANGDONG
+#EXTINF:-1 tvg-ID="" tvg-name="GUANGDONG" tvg-logo="" group-title="SinoTVPRO",GUANGDONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29064
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: GUANGXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: GUANGXI
+#EXTINF:-1 tvg-ID="" tvg-name="GUANGXI" tvg-logo="" group-title="SinoTVPRO",GUANGXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29065
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HBO" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HBO
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="SinoTVPRO",HBO
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29002
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HEBEI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HEBEI
+#EXTINF:-1 tvg-ID="" tvg-name="HEBEI" tvg-logo="" group-title="SinoTVPRO",HEBEI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29032
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HEI LONG JIANG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HEI LONG JIANG
+#EXTINF:-1 tvg-ID="" tvg-name="HEI LONG JIANG" tvg-logo="" group-title="SinoTVPRO",HEI LONG JIANG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29046
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HENAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HENAN
+#EXTINF:-1 tvg-ID="" tvg-name="HENAN" tvg-logo="" group-title="SinoTVPRO",HENAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29043
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HILLSONG CHANNEL" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HILLSONG CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="HILLSONG CHANNEL" tvg-logo="" group-title="SinoTVPRO",HILLSONG CHANNEL
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29082
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUBEI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUBEI
+#EXTINF:-1 tvg-ID="" tvg-name="HUBEI" tvg-logo="" group-title="SinoTVPRO",HUBEI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29059
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUNAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUNAN
+#EXTINF:-1 tvg-ID="" tvg-name="HUNAN" tvg-logo="" group-title="SinoTVPRO",HUNAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29067
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: HUNAN CARTOON" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: HUNAN CARTOON
+#EXTINF:-1 tvg-ID="" tvg-name="HUNAN CARTOON" tvg-logo="" group-title="SinoTVPRO",HUNAN CARTOON
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29066
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: JIANGSU" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: JIANGSU
+#EXTINF:-1 tvg-ID="" tvg-name="JIANGSU" tvg-logo="" group-title="SinoTVPRO",JIANGSU
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29062
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: JIANGXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: JIANGXI
+#EXTINF:-1 tvg-ID="" tvg-name="JIANGXI" tvg-logo="" group-title="SinoTVPRO",JIANGXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29037
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: KBS WORLD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: KBS WORLD
+#EXTINF:-1 tvg-ID="" tvg-name="KBS WORLD" tvg-logo="" group-title="SinoTVPRO",KBS WORLD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29008
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: LOTUS MACAU" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: LOTUS MACAU
+#EXTINF:-1 tvg-ID="" tvg-name="LOTUS MACAU" tvg-logo="" group-title="SinoTVPRO",LOTUS MACAU
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29024
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MASTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MASTV
+#EXTINF:-1 tvg-ID="" tvg-name="MASTV" tvg-logo="" group-title="SinoTVPRO",MASTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29056
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MITV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MITV
+#EXTINF:-1 tvg-ID="" tvg-name="MITV" tvg-logo="" group-title="SinoTVPRO",MITV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29016
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MIZZIMA TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MIZZIMA TV
+#EXTINF:-1 tvg-ID="" tvg-name="MIZZIMA TV" tvg-logo="" group-title="SinoTVPRO",MIZZIMA TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29015
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Movies Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Movies Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Movies Channel" tvg-logo="" group-title="SinoTVPRO",Movies Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29020
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MRTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MRTV
+#EXTINF:-1 tvg-ID="" tvg-name="MRTV" tvg-logo="" group-title="SinoTVPRO",MRTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29017
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: MSTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: MSTV
+#EXTINF:-1 tvg-ID="" tvg-name="MSTV" tvg-logo="" group-title="SinoTVPRO",MSTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29057
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="SinoTVPRO",NATIONAL GEOGRAPHIC
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29005
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NINGXIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NINGXIA
+#EXTINF:-1 tvg-ID="" tvg-name="NINGXIA" tvg-logo="" group-title="SinoTVPRO",NINGXIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29042
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX CHINESE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX CHINESE
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX CHINESE" tvg-logo="" group-title="SinoTVPRO",PHOENIX CHINESE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29026
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX HONGKONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX HONGKONG
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX HONGKONG" tvg-logo="" group-title="SinoTVPRO",PHOENIX HONGKONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29025
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PHOENIX INFONEWS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PHOENIX INFONEWS
+#EXTINF:-1 tvg-ID="" tvg-name="PHOENIX INFONEWS" tvg-logo="" group-title="SinoTVPRO",PHOENIX INFONEWS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29027
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: PNN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: PNN
+#EXTINF:-1 tvg-ID="" tvg-name="PNN" tvg-logo="" group-title="SinoTVPRO",PNN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29053
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: REUTERS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: REUTERS
+#EXTINF:-1 tvg-ID="" tvg-name="REUTERS" tvg-logo="" group-title="SinoTVPRO",REUTERS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29055
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: S" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: S
+#EXTINF:-1 tvg-ID="" tvg-name="S" tvg-logo="" group-title="SinoTVPRO",S
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29038
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANDONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANDONG
+#EXTINF:-1 tvg-ID="" tvg-name="SHANDONG" tvg-logo="" group-title="SinoTVPRO",SHANDONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29045
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANDONG SATELLITE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANDONG SATELLITE
+#EXTINF:-1 tvg-ID="" tvg-name="SHANDONG SATELLITE" tvg-logo="" group-title="SinoTVPRO",SHANDONG SATELLITE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29039
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANXI" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANXI
+#EXTINF:-1 tvg-ID="" tvg-name="SHANXI" tvg-logo="" group-title="SinoTVPRO",SHANXI
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29044
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SHANXI SATELLITE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SHANXI SATELLITE
+#EXTINF:-1 tvg-ID="" tvg-name="SHANXI SATELLITE" tvg-logo="" group-title="SinoTVPRO",SHANXI SATELLITE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29041
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SICHUAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SICHUAN
+#EXTINF:-1 tvg-ID="" tvg-name="SICHUAN" tvg-logo="" group-title="SinoTVPRO",SICHUAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29036
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SportSat HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SportSat HD
+#EXTINF:-1 tvg-ID="" tvg-name="SportSat HD" tvg-logo="" group-title="SinoTVPRO",SportSat HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28998
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: SUN TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: SUN TV
+#EXTINF:-1 tvg-ID="" tvg-name="SUN TV" tvg-logo="" group-title="SinoTVPRO",SUN TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29030
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TBN ASIA" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TBN ASIA
+#EXTINF:-1 tvg-ID="" tvg-name="TBN ASIA" tvg-logo="" group-title="SinoTVPRO",TBN ASIA
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29083
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: THAI PBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: THAI PBS
+#EXTINF:-1 tvg-ID="" tvg-name="THAI PBS" tvg-logo="" group-title="SinoTVPRO",THAI PBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29048
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TIANJIN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TIANJIN
+#EXTINF:-1 tvg-ID="" tvg-name="TIANJIN" tvg-logo="" group-title="SinoTVPRO",TIANJIN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29033
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: XING KONG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: XING KONG
+#EXTINF:-1 tvg-ID="" tvg-name="XING KONG" tvg-logo="" group-title="SinoTVPRO",XING KONG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29029
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: YOU&amp;ME" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: YOU&amp;ME
+#EXTINF:-1 tvg-ID="" tvg-name="YOU&amp;ME" tvg-logo="" group-title="SinoTVPRO",YOU&amp;ME
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29049
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: YUNNAN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: YUNNAN
+#EXTINF:-1 tvg-ID="" tvg-name="YUNNAN" tvg-logo="" group-title="SinoTVPRO",YUNNAN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29063
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: ZHEJIANG" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: ZHEJIANG
+#EXTINF:-1 tvg-ID="" tvg-name="ZHEJIANG" tvg-logo="" group-title="SinoTVPRO",ZHEJIANG
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29047
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TVBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TVBS
+#EXTINF:-1 tvg-ID="" tvg-name="TVBS" tvg-logo="" group-title="SinoTVPRO",TVBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/29019
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: 2 Yan'an" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: 2 Yan'an
+#EXTINF:-1 tvg-ID="" tvg-name="2 Yan'an" tvg-logo="" group-title="SinoTVPRO",2 Yan'an
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33203
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: 5Star Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: 5Star Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="5Star Sports FHD" tvg-logo="" group-title="SinoTVPRO",5Star Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33224
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Beijing Documentary" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Beijing Documentary
+#EXTINF:-1 tvg-ID="" tvg-name="Beijing Documentary" tvg-logo="" group-title="SinoTVPRO",Beijing Documentary
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33223
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Blackberry Movies FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Blackberry Movies FHD
+#EXTINF:-1 tvg-ID="" tvg-name="Blackberry Movies FHD" tvg-logo="" group-title="SinoTVPRO",Blackberry Movies FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33219
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV 5  FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV 5  FHD
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5  FHD" tvg-logo="" group-title="SinoTVPRO",CCTV 5  FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33225
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: CCTV 5 FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: CCTV 5 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV 5 FHD" tvg-logo="" group-title="SinoTVPRO",CCTV 5 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33226
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv" tvg-logo="" group-title="SinoTVPRO",Newtv
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33216
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Action FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Action FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Action FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Action FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33228
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Boutique drama" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Boutique drama
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Boutique drama" tvg-logo="" group-title="SinoTVPRO",Newtv Boutique drama
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33215
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Chinese Kung Fu" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Chinese Kung Fu
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Chinese Kung Fu" tvg-logo="" group-title="SinoTVPRO",Newtv Chinese Kung Fu
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33214
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Costume Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Costume Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Costume Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Costume Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33213
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Family Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Family Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Family Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Family Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33212
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Fighting Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Fighting Theater
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Fighting Theater" tvg-logo="" group-title="SinoTVPRO",NewTV Fighting Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33218
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Fine Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Fine Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Fine Sports FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Fine Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33227
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Gold Variety" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Gold Variety
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Gold Variety" tvg-logo="" group-title="SinoTVPRO",Newtv Gold Variety
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33211
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Healthy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Healthy
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Healthy" tvg-logo="" group-title="SinoTVPRO",Newtv Healthy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33210
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Love Comedy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Love Comedy
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Love Comedy" tvg-logo="" group-title="SinoTVPRO",Newtv Love Comedy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33209
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Military Review" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Military Review
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Military Review" tvg-logo="" group-title="SinoTVPRO",Newtv Military Review
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33208
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Military Theater" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Military Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Military Theater" tvg-logo="" group-title="SinoTVPRO",Newtv Military Theater
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33207
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Overseas Theatre" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Overseas Theatre
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Overseas Theatre" tvg-logo="" group-title="SinoTVPRO",Newtv Overseas Theatre
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33206
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: NewTV Premium Sports FHD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: NewTV Premium Sports FHD
+#EXTINF:-1 tvg-ID="" tvg-name="NewTV Premium Sports FHD" tvg-logo="" group-title="SinoTVPRO",NewTV Premium Sports FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33217
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv star blockbuster" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv star blockbuster
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv star blockbuster" tvg-logo="" group-title="SinoTVPRO",Newtv star blockbuster
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33205
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Newtv Suspense" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Newtv Suspense
+#EXTINF:-1 tvg-ID="" tvg-name="Newtv Suspense" tvg-logo="" group-title="SinoTVPRO",Newtv Suspense
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33204
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: TV drama channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: TV drama channel
+#EXTINF:-1 tvg-ID="" tvg-name="TV drama channel" tvg-logo="" group-title="SinoTVPRO",TV drama channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33222
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Xiamen Film & TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Xiamen Film & TV
+#EXTINF:-1 tvg-ID="" tvg-name="Xiamen Film & TV" tvg-logo="" group-title="SinoTVPRO",Xiamen Film & TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33221
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Xiamen Life" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Xiamen Life
+#EXTINF:-1 tvg-ID="" tvg-name="Xiamen Life" tvg-logo="" group-title="SinoTVPRO",Xiamen Life
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33220
-#EXTINF:-1 tvg-ID="" tvg-name="VIP CN: Yan'an 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP CN: Yan'an 1
+#EXTINF:-1 tvg-ID="" tvg-name="Yan'an 1" tvg-logo="" group-title="SinoTVPRO",Yan'an 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/33202
-EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 1
+EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 1" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37958
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 2" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37959
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 3" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37960
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 4" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 4
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 4" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 4
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37961
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 5" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 5
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 5" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 5
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37962
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 6" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 6
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 6" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 6
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37963
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 7" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 7
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 7" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 7
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37964
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 8" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 8" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 8
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37965
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 9" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 9
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 9" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 9
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37966
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 10" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 10
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 10" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 10
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37967
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 11" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 11
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 11" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 11
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37968
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 12" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 12
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 12" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 12
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37969
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 13" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 13
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 13" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 13
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37970
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 14" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 14
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 14" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 14
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37971
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 15" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 15
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 15" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 15
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37972
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 16" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 16
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 16" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 16
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37973
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 17" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 17
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 17" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 17
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37974
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 18" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 18
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 18" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 18
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37975
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 19" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 19
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 19" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 19
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37976
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 20" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 20
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 20" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 20
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37977
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 21" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 21
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 21" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 21
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37978
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 22" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 22
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 22" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 22
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37979
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 23" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 23
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 23" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 23
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37980
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 24" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 24
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 24" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 24
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37981
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 25" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 25
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 25" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 25
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37982
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 26" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 26
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 26" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 26
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37983
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 27" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 27
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 27" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 27
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37984
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 28" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 28
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 28" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 28
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37985
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 29" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 29
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 29" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 29
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37986
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 30" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 30
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 30" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 30
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37987
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 31" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 31
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 31" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 31
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37988
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 32" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 32
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 32" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 32
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37989
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 33" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 33
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 33" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 33
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37990
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 34" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 34
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 34" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 34
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37991
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 35" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 35
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 35" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 35
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37992
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 36" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 36
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 36" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 36
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37993
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 37" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 37
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 37" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 37
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37994
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 38" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 38
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 38" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 38
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37995
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 39" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 39
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 39" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 39
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37996
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 40" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 40
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 40" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 40
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37997
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 41" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 41
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 41" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 41
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37998
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 42" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 42
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 42" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 42
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/37999
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 43" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 43
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 43" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 43
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38000
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 44" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 44
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 44" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 44
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38001
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 45" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 45
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 45" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 45
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38002
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 46" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: Taiwan 46
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: Taiwan 46" tvg-logo="" group-title="SinoTVPRO",VIP TW: Taiwan 46
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/38003
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Chinese" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Chinese
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Chinese" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Chinese
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35766
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Drama" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Drama
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVB Drama" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Drama
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35765
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB HD" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35760
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB Pearl" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB Pearl
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB Pearl" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB Pearl
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35764
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB1
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB1" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35762
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVB2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVB2" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVB2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35761
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVBE" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVBE
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TW: TVBE" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVBE
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35763
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVBS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP TW: TVBS
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TW: TVBS" tvg-logo="" group-title="SinoTVPRO",VIP TW: TVBS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/35783
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 1 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 1 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30044
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 2 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 2 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 2 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30041
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="Live: China - Taiwan & HK",VIP HK: Fox Sports Asia 3 FHD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox Sports Asia 3 FHD" tvg-logo="[" group-title="SinoTVPRO",VIP HK: Fox Sports Asia 3 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/30039
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: AO Macau" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: AO Macau
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: AO Macau" tvg-logo="" group-title="SinoTVPRO",VIP HK: AO Macau
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32708
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: BabyTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: BabyTV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: BabyTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: BabyTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32707
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Aussie Macau" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Aussie Macau
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Aussie Macau" tvg-logo="" group-title="SinoTVPRO",VIP HK: Aussie Macau
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32706
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Emerald Mandarin" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Emerald Mandarin
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Emerald Mandarin" tvg-logo="" group-title="SinoTVPRO",VIP HK: Emerald Mandarin
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32704
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fantastic TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Fantastic TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fantastic TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Fantastic TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32703
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: HKSTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: HKSTV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: HKSTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: HKSTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32702
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Hong Kong TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Hong Kong TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Hong Kong TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Hong Kong TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32701
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Australia and Asia Satellite TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Australia and Asia Satellite TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Australia and Asia Satellite TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Australia and Asia Satellite TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32705
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: CNN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: CNN
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: CNN" tvg-logo="" group-title="SinoTVPRO",VIP HK: CNN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32700
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Discovery Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Discovery Channel
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Discovery Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Discovery Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32699
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: J2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: J2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: J2" tvg-logo="" group-title="SinoTVPRO",VIP HK: J2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32698
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: NTD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: NTD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: NTD" tvg-logo="" group-title="SinoTVPRO",VIP HK: NTD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32697
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Phoenix Information HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix Information HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Phoenix Information HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix Information HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32696
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Sanli News" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Sanli News
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Sanli News" tvg-logo="" group-title="SinoTVPRO",VIP HK: Sanli News
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32695
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: SF HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: SF HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: SF HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: SF HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32694
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox News" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Fox News
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Fox News" tvg-logo="" group-title="SinoTVPRO",VIP HK: Fox News
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32693
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star Sports" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Star Sports
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star Sports" tvg-logo="" group-title="SinoTVPRO",VIP HK: Star Sports
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32692
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star TV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Star TV
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Star TV" tvg-logo="" group-title="SinoTVPRO",VIP HK: Star TV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32691
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: TVB Galaxy" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TVB Galaxy
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: TVB Galaxy" tvg-logo="" group-title="SinoTVPRO",VIP HK: TVB Galaxy
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32688
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Nickelodeon" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Nickelodeon
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Nickelodeon" tvg-logo="" group-title="SinoTVPRO",VIP HK: Nickelodeon
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32687
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Universal HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Universal HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: Universal HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Universal HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32689
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Baogu Movies" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Baogu Movies
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Baogu Movies" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Baogu Movies
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32686
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Business News Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Business News Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Business News Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Business News Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32685
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Chinese Drama Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Chinese Drama Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Chinese Drama Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Chinese Drama Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32684
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Direct" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Direct
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Direct" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Direct
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32690
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Drama Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Drama Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Drama Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Drama Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32683
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 1" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 1
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 1" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 1
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32682
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 2" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 2" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 2
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32681
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 3" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Golf 3
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Golf 3" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Golf 3
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32680
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Jelli" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now Jelli
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now Jelli" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now Jelli
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32679
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now NEWS" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Now NEWS
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Now NEWS" tvg-logo="" group-title="SinoTVPRO",VIP HK: Now NEWS
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32678
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: East NET" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: East NET
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP HK: East NET" tvg-logo="" group-title="SinoTVPRO",VIP HK: East NET
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32709
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix Chinese Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix Chinese Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix Chinese Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix Chinese Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32675
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix HongKong Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix HongKong Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix HongKong Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix HongKong Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32677
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix InfoNews Channel" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Phoenix InfoNews Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Phoenix InfoNews Channel" tvg-logo="" group-title="SinoTVPRO",VIP HK: Phoenix InfoNews Channel
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32674
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Sony GEM" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Sony GEM
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Sony GEM" tvg-logo="" group-title="SinoTVPRO",VIP HK: Sony GEM
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32673
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TLC" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TLC
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TLC" tvg-logo="" group-title="SinoTVPRO",VIP HK: TLC
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32676
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TVN" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: TVN
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: TVN" tvg-logo="" group-title="SinoTVPRO",VIP HK: TVN
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32672
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: WarnerTV" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: WarnerTV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: WarnerTV" tvg-logo="" group-title="SinoTVPRO",VIP HK: WarnerTV
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/32671
-#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Jackie Chan Movies HD" tvg-logo="" group-title="Live: China - Taiwan & HK",VIP HK: Jackie Chan Movies HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP HK: Jackie Chan Movies HD" tvg-logo="" group-title="SinoTVPRO",VIP HK: Jackie Chan Movies HD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/28833
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP VTN: K+ 1 FHD" tvg-logo="" group-title="Live: Vietnam",VIP VTN: K+ 1 FHD
 http://sinotvpro.com:8080/rqnTceZ6MT/pxGCCK2240/34755
