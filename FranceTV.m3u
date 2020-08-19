@@ -1,8 +1,5 @@
 #EXTM3U 
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="CORONA VIRUS INFO" tvg-logo="http://212.8.253.112/logo/corona.png" group-title="Sansat",CORONA VIRUS INFO
-http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/63688
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49161
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
