@@ -7876,10 +7876,7 @@ http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34924
 #EXTINF:-1 tvg-ID="" tvg-name="VIA MIRABELLE TV HD" tvg-logo="" group-title="SinoTVPRO", VIA MIRABELLE TV HD
 http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34927
 #EXTINF:-1 tvg-ID="" tvg-name="via Occitanie TV" tvg-logo="" group-title="SinoTVPRO", via Occitanie TV
-<<<<<<< HEAD
 http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34934
-=======
-http://sinotvpro.com:8080/NXkcvVVmuE/ZvSt2gbBqs/34934
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="Exodiver",France Ô
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Exodiver",France 2
@@ -7912,7 +7909,6 @@ https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Exodiver",CNews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Exodiver",Arte Français
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Exodiver",BOING Français
