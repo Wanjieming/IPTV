@@ -856,6 +856,848 @@ http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91066
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91065
 #EXTINF:-1 tvg-ID="" tvg-name="VOYAGE HEVC" tvg-logo="" group-title="Sansat",VOYAGE HEVC
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91064
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="Magco",TF1 SD
+http://magco.rip:8000/41919239348600/41161461566815/80982
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="Magco",TF1 HD
+http://magco.rip:8000/41919239348600/41161461566815/58
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="Magco",TF1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23762
+#EXTINF:-1 tvg-id="Tf1.mu" tvg-name="TF1 FULL HD 1" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1HD.png" group-title="Magco",TF1 FULL HD 1
+http://magco.rip:8000/41919239348600/41161461566815/23761
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="Magco",FRANCE 2 SD
+http://magco.rip:8000/41919239348600/41161461566815/80983
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="Magco",FRANCE 2 HD
+http://magco.rip:8000/41919239348600/41161461566815/137
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE2HD.png" group-title="Magco",FRANCE 2 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23760
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="Magco",FRANCE 3 SD
+http://magco.rip:8000/41919239348600/41161461566815/80984
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="Magco",FRANCE 3 HD
+http://magco.rip:8000/41919239348600/41161461566815/61
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE3HD.png" group-title="Magco",FRANCE 3 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23759
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="Magco",FRANCE 4 SD
+http://magco.rip:8000/41919239348600/41161461566815/80985
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="Magco",FRANCE 4 HD
+http://magco.rip:8000/41919239348600/41161461566815/60
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE4HD.png" group-title="Magco",FRANCE 4 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23758
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="Magco",FRANCE 5 SD
+http://magco.rip:8000/41919239348600/41161461566815/80986
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="Magco",FRANCE 5 HD
+http://magco.rip:8000/41919239348600/41161461566815/59
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE5HD.png" group-title="Magco",FRANCE 5 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23757
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEOHD.png" group-title="Magco",FRANCE O SD
+http://magco.rip:8000/41919239348600/41161461566815/80987
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEOHD.png" group-title="Magco",FRANCE O HD
+http://magco.rip:8000/41919239348600/41161461566815/345
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O FULL HD" tvg-logo="http://www.institut-viavoice.com/wp-content/uploads/2016/05/logo_france_o.JPG" group-title="Magco",FRANCE O FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23746
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="Magco",M6 SD
+http://magco.rip:8000/41919239348600/41161461566815/80988
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="Magco",M6 HD
+http://magco.rip:8000/41919239348600/41161461566815/138
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="http://www.topstb.info/logo/FRANCE/M6HD.png" group-title="Magco",M6 FHD
+http://magco.rip:8000/41919239348600/41161461566815/23756
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paris_premiere_hd.jpg" group-title="Magco",PARIS PREMIERE
+http://magco.rip:8000/41919239348600/41161461566815/2562
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARISPREMIEREHD.png" group-title="Magco",PARIS PREMIERE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23691
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1200px-TMC_logo_2016.svg.png" group-title="Magco",TMC SD
+http://magco.rip:8000/41919239348600/41161461566815/81019
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="Magco",TMC HD
+http://magco.rip:8000/41919239348600/41161461566815/2570
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="Magco",TMC FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23748
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC 1 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="Magco",TMC 1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23747
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER SD" tvg-logo="http://www.topstb.info/logo/FRANCE/6TERHD.png" group-title="Magco",6TER SD
+http://magco.rip:8000/41919239348600/41161461566815/81024
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/6TERHD.png" group-title="Magco",6TER HD
+http://magco.rip:8000/41919239348600/41161461566815/673
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="Magco",6TER FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23750
+#EXTINF:-1 tvg-id="NULL" tvg-name="CHERIE 25 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="Magco",CHERIE 25 SD
+http://magco.rip:8000/41919239348600/41161461566815/81026
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="Magco",CHERIE 25
+http://magco.rip:8000/41919239348600/41161461566815/133
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHERIE25HD.png" group-title="Magco",CHERIE 25 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23689
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ARTEHD.png" group-title="Magco",ARTE SD
+http://magco.rip:8000/41919239348600/41161461566815/80989
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE FR" tvg-logo="http://www.topstb.info/logo/FRANCE/ARTEHD.png" group-title="Magco",ARTE FR
+http://magco.rip:8000/41919239348600/41161461566815/338
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://www.topstb.info/logo/FRANCE/NUMERO23HD.png" group-title="Magco",RMC STORY
+http://magco.rip:8000/41919239348600/41161461566815/2683
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" group-title="Magco",RMC STORY SD
+http://magco.rip:8000/41919239348600/41161461566815/81025
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5" tvg-logo="http://www.topstb.info/logo/FRANCE/TV5MONDE.png" group-title="Magco",TV5
+http://magco.rip:8000/41919239348600/41161461566815/2611
+#EXTINF:-1 tvg-id="NULL" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TV5MONDE.png" group-title="Magco",TV5 MONDE FBS HD
+http://magco.rip:8000/41919239348600/41161461566815/79358
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="Magco",CNEWS SD
+http://magco.rip:8000/41919239348600/41161461566815/81064
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="Magco",CNEWS
+http://magco.rip:8000/41919239348600/41161461566815/336
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CNEWSHD.png" group-title="Magco",CNEWS HD
+http://magco.rip:8000/41919239348600/41161461566815/79342
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCE24.png" group-title="Magco",France 24
+http://magco.rip:8000/41919239348600/41161461566815/8096
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO SD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEINFOHD.png" group-title="Magco",FRANCE INFO SD
+http://magco.rip:8000/41919239348600/41161461566815/81065
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEINFOHD.png" group-title="Magco",FRANCE INFO HD
+http://magco.rip:8000/41919239348600/41161461566815/79339
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://www.topstb.info/logo/FRANCE/LCIHD.png" group-title="Magco",LCI
+http://magco.rip:8000/41919239348600/41161461566815/334
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FR" tvg-logo="http://www.topstb.info/logo/FRANCE/EURONEWS%28FRENCH%29.png" group-title="Magco",EURONEWS FR
+http://magco.rip:8000/41919239348600/41161461566815/674
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FRANCE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EURONEWS%28FRENCH%29.png" group-title="Magco",EURONEWS FRANCE HD
+http://magco.rip:8000/41919239348600/41161461566815/79341
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://www.topstb.info/logo/FRANCE/BFMHD.png" group-title="Magco",BFM TV
+http://magco.rip:8000/41919239348600/41161461566815/2541
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/BFM_Business_logo_2016.svg/1024px-BFM_Business_logo_2016.svg.png" group-title="Magco",BFM BUSINESS
+http://magco.rip:8000/41919239348600/41161461566815/78249
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM PARIS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/1200px-BFM_Paris_logo_2016.svg.png" group-title="Magco",BFM PARIS FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23745
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS SD" tvg-logo="https://fracademic.com/pictures/frwiki/66/BFM_Business_logo_2010.png" group-title="Magco",BFM BUSINESS SD
+http://magco.rip:8000/41919239348600/41161461566815/81062
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM LYON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Magco",BFM LYON HD
+http://magco.rip:8000/41919239348600/41161461566815/79338
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="Magco",LA CHAINE METEO HD
+http://magco.rip:8000/41919239348600/41161461566815/79337
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/I24_logo_FINAL_BLUE-02.png/800px-I24_logo_FINAL_BLUE-02.png" group-title="Magco",I24 NEWS HD
+http://magco.rip:8000/41919239348600/41161461566815/79340
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="WEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_WEO_TV_2013-2014.png" group-title="Magco",WEO HD
+http://magco.rip:8000/41919239348600/41161461566815/79343
+#EXTINF:-1 tvg-id="NULL" tvg-name="GRAND LILLE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Logo_grandlilletv-2015.jpg" group-title="Magco",GRAND LILLE TV HD
+http://magco.rip:8000/41919239348600/41161461566815/79344
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF 1 HD/SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a6/IDF1_logo_2017.png" group-title="Magco",IDF 1 HD/SD
+http://magco.rip:8000/41919239348600/41161461566815/79345
+#EXTINF:-1 tvg-id="DemainTV.fr" tvg-name="DEMAIN ! IDF" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Demain_TV_logo_2011.png" group-title="Magco",DEMAIN ! IDF
+http://magco.rip:8000/41919239348600/41161461566815/79346
+#EXTINF:-1 tvg-id="Canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Channel_31_logo.png/240px-Channel_31_logo.png" group-title="Magco",CANAL 31 HD
+http://magco.rip:8000/41919239348600/41161461566815/79347
+#EXTINF:-1 tvg-id="NULL" tvg-name="LA CHAINE PARLEMENTAIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="Magco",LA CHAINE PARLEMENTAIRE HD
+http://magco.rip:8000/41919239348600/41161461566815/79348
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES-FILMS SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1SERIESFILMSHD.png" group-title="Magco",TF1 SERIES-FILMS SD
+http://magco.rip:8000/41919239348600/41161461566815/81023
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1SERIESFILMSHD.png" group-title="Magco",TF1 SERIES FILMS
+http://magco.rip:8000/41919239348600/41161461566815/9472
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FULL HD" tvg-logo="http://img.over-blog-kiwi.com/2/03/26/89/obpicUUeo10.jpeg" group-title="Magco",TF1 SERIES FILMS FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23754
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/572px-RMC_Story_logo_2018.svg.png" group-title="Magco",RMC STORY
+http://magco.rip:8000/41919239348600/41161461566815/46189
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL  SD" tvg-logo="https://static.timesofisrael.com/fr/uploads/2019/08/Capture-d%E2%80%99e%CC%81cran-2019-08-29-a%CC%80-12.57.14.png" group-title="Magco",CANAL  SD
+http://magco.rip:8000/41919239348600/41161461566815/80992
+#EXTINF:-1 tvg-id="fr.Canal+" tvg-name="CANAL+ HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BHD.png" group-title="Magco",CANAL+ HD
+http://magco.rip:8000/41919239348600/41161461566815/52
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FULL HD" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2015/06/CANALnoir-1.jpg" group-title="Magco",CANAL  FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23778
+#EXTINF:-1 tvg-id="fr.Canal+ Cinéma" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BCINEMAHD.png" group-title="Magco",CANAL+ CINEMA HD
+http://magco.rip:8000/41919239348600/41161461566815/56
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cinema_hd.jpg" group-title="Magco",CANAL  CINEMA FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23777
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL FAMILY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BFAMILYHD.png" group-title="Magco",CANAL FAMILY SD
+http://magco.rip:8000/41919239348600/41161461566815/80993
+#EXTINF:-1 tvg-id="fr.Canal+ Family" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BFAMILYHD.png" group-title="Magco",CANAL+ FAMILY HD
+http://magco.rip:8000/41919239348600/41161461566815/53
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_family_hd.jpg" group-title="Magco",CANAL  FAMILY FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23775
+#EXTINF:-1 tvg-id="NULL" tvg-name="OCS CHOC SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="Magco",OCS CHOC SD
+http://magco.rip:8000/41919239348600/41161461566815/80997
+#EXTINF:-1 tvg-id="fr.OCS Choc" tvg-name="OCS CHOC" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="Magco",OCS CHOC
+http://magco.rip:8000/41919239348600/41161461566815/2561
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="Magco",OCS CHOC FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23766
+#EXTINF:-1 tvg-id="NULL" tvg-name="OCS MAX SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSMAXHD.png" group-title="Magco",OCS MAX SD
+http://magco.rip:8000/41919239348600/41161461566815/81000
+#EXTINF:-1 tvg-id="fr.OCS Max" tvg-name="OCS MAX HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSMAXHD.png" group-title="Magco",OCS MAX HD
+http://magco.rip:8000/41919239348600/41161461566815/2693
+#EXTINF:-1 tvg-id="fr.OCS Max" tvg-name="OCS MAX FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_max_hd.jpg" group-title="Magco",OCS MAX FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23763
+#EXTINF:-1 tvg-id="NULL" tvg-name="OCS CITY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCITYHD.png" group-title="Magco",OCS CITY SD
+http://magco.rip:8000/41919239348600/41161461566815/80998
+#EXTINF:-1 tvg-id="fr.OCS City" tvg-name="OCS CITY" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCITYHD.png" group-title="Magco",OCS CITY
+http://magco.rip:8000/41919239348600/41161461566815/134
+#EXTINF:-1 tvg-id="fr.OCS City" tvg-name="OCS CITY FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_city.jpg" group-title="Magco",OCS CITY FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23765
+#EXTINF:-1 tvg-id="NULL" tvg-name="OCS GEANTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/OCS_G%C3%A9ants_HD.png" group-title="Magco",OCS GEANTS SD
+http://magco.rip:8000/41919239348600/41161461566815/80999
+#EXTINF:-1 tvg-id="fr.OCS Géants" tvg-name="OCS GEANTS" tvg-logo="https://cdn.tv-programme.com/pic/chaines_wide/9.png" group-title="Magco",OCS GEANTS
+http://magco.rip:8000/41919239348600/41161461566815/2682
+#EXTINF:-1 tvg-id="fr.OCS Géants" tvg-name="OCS GEANT FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ocs_geants.jpg" group-title="Magco",OCS GEANT FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23764
+#EXTINF:-1 tvg-id="fr.Ciné+ Premier" tvg-name="CINE PREMIER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BPREMIEREHD.png" group-title="Magco",CINE PREMIER HD
+http://magco.rip:8000/41919239348600/41161461566815/135
+#EXTINF:-1 tvg-id="" tvg-name="CINE  PREMIER FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_premier_hd.jpg" group-title="Magco",CINE  PREMIER FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23772
+#EXTINF:-1 tvg-id="fr.Ciné+ Emotion" tvg-name="CINE EMOTION HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BEMOTIONHD.png" group-title="Magco",CINE EMOTION HD
+http://magco.rip:8000/41919239348600/41161461566815/136
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BEMOTIONHD.png" group-title="Magco",CINE EMOTION FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23769
+#EXTINF:-1 tvg-id="fr.Ciné+ Frisson" tvg-name="CINE FRISSON HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFRISSONHD.png" group-title="Magco",CINE FRISSON HD
+http://magco.rip:8000/41919239348600/41161461566815/64
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FRISSON FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFRISSONHD.png" group-title="Magco",CINE  FRISSON FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23771
+#EXTINF:-1 tvg-id="fr.Ciné+ Famiz" tvg-name="CINE FAMIZ HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFAMIZHD.png" group-title="Magco",CINE FAMIZ HD
+http://magco.rip:8000/41919239348600/41161461566815/65
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FAMIZ FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_famiz.jpg" group-title="Magco",CINE  FAMIZ FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23770
+#EXTINF:-1 tvg-id="fr.Ciné+ Classic" tvg-name="CINE  CLASSIC HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BCLASSICHD.png" group-title="Magco",CINE  CLASSIC HD
+http://magco.rip:8000/41919239348600/41161461566815/67
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLASSIC FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_cine_plus_classic.jpg" group-title="Magco",CINE CLASSIC FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23768
+#EXTINF:-1 tvg-id="" tvg-name="My Comedy" tvg-logo="" group-title="Magco",My Comedy
+http://magco.rip:8000/41919239348600/41161461566815/98918
+#EXTINF:-1 tvg-id="" tvg-name="Comedy central" tvg-logo="" group-title="Magco",Comedy central
+http://magco.rip:8000/41919239348600/41161461566815/98917
+#EXTINF:-1 tvg-id="NULL" tvg-name="ACTION SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="Magco",ACTION SD
+http://magco.rip:8000/41919239348600/41161461566815/81004
+#EXTINF:-1 tvg-id="fr.Action" tvg-name="ACTION" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="Magco",ACTION
+http://magco.rip:8000/41919239348600/41161461566815/611
+#EXTINF:-1 tvg-id="NULL" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="Magco",PARAMOUNT CHANNEL SD
+http://magco.rip:8000/41919239348600/41161461566815/81003
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT CHANNEL DECALE" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="Magco",PARAMOUNT CHANNEL DECALE
+http://magco.rip:8000/41919239348600/41161461566815/2690
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT DECALE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="Magco",PARAMOUNT DECALE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23734
+#EXTINF:-1 tvg-id="fr.Paramount Channel" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="Magco",PARAMOUNT CHANNEL FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23735
+#EXTINF:-1 tvg-id="fr.TvBreizh" tvg-name="TV BREIZH" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5c87a6c28fe56f77d2772a45/large/image.jpg" group-title="Magco",TV BREIZH
+http://magco.rip:8000/41919239348600/41161461566815/5245
+#EXTINF:-1 tvg-id="fr.TvBreizh" tvg-name="TV BREIZH FULL HD" tvg-logo="https://images.ladepeche.fr/api/v1/images/view/5c87a6c28fe56f77d2772a45/large/image.jpg" group-title="Magco",TV BREIZH FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23698
+#EXTINF:-1 tvg-id="fr.Action" tvg-name="ACTION FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="Magco",ACTION FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23681
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_1.jpg" group-title="Magco",A LA CARTE 1
+http://magco.rip:8000/41919239348600/41161461566815/544
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_2.jpg" group-title="Magco",A LA CARTE 2
+http://magco.rip:8000/41919239348600/41161461566815/545
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_3.jpg" group-title="Magco",A LA CARTE 3
+http://magco.rip:8000/41919239348600/41161461566815/546
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_4.jpg" group-title="Magco",A LA CARTE 4
+http://magco.rip:8000/41919239348600/41161461566815/539
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_5.jpg" group-title="Magco",A LA CARTE 5
+http://magco.rip:8000/41919239348600/41161461566815/2612
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_6.jpg" group-title="Magco",A LA CARTE 6
+http://magco.rip:8000/41919239348600/41161461566815/2613
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_7.jpg" group-title="Magco",A LA CARTE 7
+http://magco.rip:8000/41919239348600/41161461566815/2653
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_a_la_carte_8.jpg" group-title="Magco",A LA CARTE 8
+http://magco.rip:8000/41919239348600/41161461566815/2654
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 1" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALPLAY%201HD.png" group-title="Magco",CANAL PLAY 1
+http://magco.rip:8000/41919239348600/41161461566815/67849
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 2" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALPLAY2HD.png" group-title="Magco",CANAL PLAY 2
+http://magco.rip:8000/41919239348600/41161461566815/67848
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALPLAY2HD.png" group-title="Magco",CANAL PLAY 3
+http://magco.rip:8000/41919239348600/41161461566815/67847
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALPLAY2HD.png" group-title="Magco",CANAL PLAY 4
+http://magco.rip:8000/41919239348600/41161461566815/67846
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALPLAY2HD.png" group-title="Magco",CANAL PLAY 5
+http://magco.rip:8000/41919239348600/41161461566815/67845
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 1" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 1
+http://magco.rip:8000/41919239348600/41161461566815/67844
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 2" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 2
+http://magco.rip:8000/41919239348600/41161461566815/67843
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 3" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 3
+http://magco.rip:8000/41919239348600/41161461566815/67842
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 4" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 4
+http://magco.rip:8000/41919239348600/41161461566815/67841
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 5" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 5
+http://magco.rip:8000/41919239348600/41161461566815/67840
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 6" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 6
+http://magco.rip:8000/41919239348600/41161461566815/67839
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 7" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 7
+http://magco.rip:8000/41919239348600/41161461566815/67838
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 8" tvg-logo="http://www.topstb.info/logo/FRANCE/ORANGECINEMA.png" group-title="Magco",Orange Cine 8
+http://magco.rip:8000/41919239348600/41161461566815/67837
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL  DECALE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BDECALEHD.png" group-title="Magco",CANAL  DECALE SD
+http://magco.rip:8000/41919239348600/41161461566815/80994
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL+ DECALE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/langfr-120px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png" group-title="Magco",CANAL+ DECALE HD
+http://magco.rip:8000/41919239348600/41161461566815/16398
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL  DECALE FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_decale.jpg" group-title="Magco",CANAL  DECALE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23776
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL  SERIES SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BSERIEHD.png" group-title="Magco",CANAL  SERIES SD
+http://magco.rip:8000/41919239348600/41161461566815/80995
+#EXTINF:-1 tvg-id="fr.Canal+ Séries" tvg-name="CANAL+ SERIES HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BSERIEHD.png" group-title="Magco",CANAL+ SERIES HD
+http://magco.rip:8000/41919239348600/41161461566815/55
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL  SERIES FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_series.jpg" group-title="Magco",CANAL  SERIES FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23773
+#EXTINF:-1 tvg-id="NULL" tvg-name="TFX SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TFXHD.png" group-title="Magco",TFX SD
+http://magco.rip:8000/41919239348600/41161461566815/81020
+#EXTINF:-1 tvg-id="fr.TFX" tvg-name="TFX" tvg-logo="http://www.topstb.info/logo/FRANCE/TFXHD.png" group-title="Magco",TFX
+http://magco.rip:8000/41919239348600/41161461566815/2698
+#EXTINF:-1 tvg-id="fr.TFX" tvg-name="TFX FULL HD" tvg-logo="https://static1.ozap.com/companies/6/53/89/76/@/4578517-logo-de-tfx-media_diapo_image-2.jpg" group-title="Magco",TFX FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23749
+#EXTINF:-1 tvg-id="NULL" tvg-name="COMEDIE  SD" tvg-logo="http://www.topstb.info/logo/FRANCE/COMEDIEHD.png" group-title="Magco",COMEDIE  SD
+http://magco.rip:8000/41919239348600/41161461566815/81005
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/COMEDIEHD.png" group-title="Magco",COMEDIE HD
+http://magco.rip:8000/41919239348600/41161461566815/2549
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE  FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/COMEDIEHD.png" group-title="Magco",COMEDIE  FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23684
+#EXTINF:-1 tvg-id="fr.AB 1" tvg-name="AB1" tvg-logo="http://www.topstb.info/logo/FRANCE/AB1HD.png" group-title="Magco",AB1
+http://magco.rip:8000/41919239348600/41161461566815/2537
+#EXTINF:-1 tvg-id="fr.AB 1" tvg-name="AB1 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/AB1HD.png" group-title="Magco",AB1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23683
+#EXTINF:-1 tvg-id="fr.serieclub" tvg-name="SERIE CLUB" tvg-logo="http://www.topstb.info/logo/FRANCE/SERIECLUBHD.png" group-title="Magco",SERIE CLUB
+http://magco.rip:8000/41919239348600/41161461566815/2568
+#EXTINF:-1 tvg-id="fr.serieclub" tvg-name="SERIE CLUB FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SERIECLUBHD.png" group-title="Magco",SERIE CLUB FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23692
+#EXTINF:-1 tvg-id="fr.TEVA" tvg-name="TEVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teva_hd.jpg" group-title="Magco",TEVA
+http://magco.rip:8000/41919239348600/41161461566815/2637
+#EXTINF:-1 tvg-id="fr.TEVA" tvg-name="TEVA FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TEVAHD.png" group-title="Magco",TEVA FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23693
+#EXTINF:-1 tvg-id="NULL" tvg-name="W9 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/W9.png" group-title="Magco",W9 SD
+http://magco.rip:8000/41919239348600/41161461566815/81018
+#EXTINF:-1 tvg-id="fr.W9" tvg-name="W9 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/W9.png" group-title="Magco",W9 HD
+http://magco.rip:8000/41919239348600/41161461566815/337
+#EXTINF:-1 tvg-id="fr.W9" tvg-name="W9 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/w9_fr_hd.jpg" group-title="Magco",W9 FHD
+http://magco.rip:8000/41919239348600/41161461566815/23753
+#EXTINF:-1 tvg-id="NULL" tvg-name="C8 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/C8HD.png" group-title="Magco",C8 SD
+http://magco.rip:8000/41919239348600/41161461566815/81017
+#EXTINF:-1 tvg-id="fr.C8" tvg-name="C8" tvg-logo="http://www.topstb.info/logo/FRANCE/C8HD.png" group-title="Magco",C8
+http://magco.rip:8000/41919239348600/41161461566815/3474
+#EXTINF:-1 tvg-id="fr.C8" tvg-name="C8 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="Magco",C8 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23752
+#EXTINF:-1 tvg-id="NULL" tvg-name="RTL9 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RTL9HD.png" group-title="Magco",RTL9 SD
+http://magco.rip:8000/41919239348600/41161461566815/81015
+#EXTINF:-1 tvg-id="fr.RTL 9" tvg-name="RTL 9 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/RTL9HD.png" group-title="Magco",RTL 9 HD
+http://magco.rip:8000/41919239348600/41161461566815/2566
+#EXTINF:-1 tvg-id="fr.RTL 9" tvg-name="RTL9 FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl9.jpg" group-title="Magco",RTL9 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23751
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/13EMERUEHD.png" group-title="Magco",13EME RUE SD
+http://magco.rip:8000/41919239348600/41161461566815/81007
+#EXTINF:-1 tvg-id="fr.13eme RUE" tvg-name="13 EME RUE" tvg-logo="http://www.topstb.info/logo/FRANCE/13EMERUEHD.png" group-title="Magco",13 EME RUE
+http://magco.rip:8000/41919239348600/41161461566815/2548
+#EXTINF:-1 tvg-id="fr.13eme RUE" tvg-name="13 EME RUE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/13EMERUEHD.png" group-title="Magco",13 EME RUE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23699
+#EXTINF:-1 tvg-id="NULL" tvg-name="TCM CINEMA SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TCMCINEMAHD.png" group-title="Magco",TCM CINEMA SD
+http://magco.rip:8000/41919239348600/41161461566815/81002
+#EXTINF:-1 tvg-id="NULL" tvg-name="SYFY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/SYFYHD.png" group-title="Magco",SYFY SD
+http://magco.rip:8000/41919239348600/41161461566815/81009
+#EXTINF:-1 tvg-id="fr.Syfy" tvg-name="SYFY HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SYFYHD.png" group-title="Magco",SYFY HD
+http://magco.rip:8000/41919239348600/41161461566815/2569
+#EXTINF:-1 tvg-id="fr.Syfy" tvg-name="SYFY FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SYFYHD.png" group-title="Magco",SYFY FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23695
+#EXTINF:-1 tvg-id="NULL" tvg-name="CSTAR SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CSTARHD.png" group-title="Magco",CSTAR SD
+http://magco.rip:8000/41919239348600/41161461566815/81022
+#EXTINF:-1 tvg-id="fr.CSTAR" tvg-name="C STAR" tvg-logo="http://www.topstb.info/logo/FRANCE/CSTARHD.png" group-title="Magco",C STAR
+http://magco.rip:8000/41919239348600/41161461566815/2550
+#EXTINF:-1 tvg-id="NULL" tvg-name="E! ENTERTAINMENT SD" tvg-logo="http://www.topstb.info/logo/FRANCE/E%21ENTERTAINMENTHD.png" group-title="Magco",E! ENTERTAINMENT SD
+http://magco.rip:8000/41919239348600/41161461566815/81012
+#EXTINF:-1 tvg-id="fr.E! ENTERTAINMENT" tvg-name="E" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/e_fr.jpg" group-title="Magco",E
+http://magco.rip:8000/41919239348600/41161461566815/5318
+#EXTINF:-1 tvg-id="fr.E! ENTERTAINMENT" tvg-name="E! ENTERTAINMENT FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/E%21ENTERTAINMENTHD.png" group-title="Magco",E! ENTERTAINMENT FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23690
+#EXTINF:-1 tvg-id="NULL" tvg-name="WARNER TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Magco",WARNER TV SD
+http://magco.rip:8000/41919239348600/41161461566815/81008
+#EXTINF:-1 tvg-id="NULL" tvg-name="WARNER TV" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/5/59/WarnerTV.png/revision/latest?cb=20190817170410&path-prefix=fr" group-title="Magco",WARNER TV
+http://magco.rip:8000/41919239348600/41161461566815/22284
+#EXTINF:-1 tvg-id="NULL" tvg-name="WARNER TV FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1c/Warnertv.jpg" group-title="Magco",WARNER TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23697
+#EXTINF:-1 tvg-id="NULL" tvg-name="SUNDANCE TV" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="Magco",SUNDANCE TV
+http://magco.rip:8000/41919239348600/41161461566815/22283
+#EXTINF:-1 tvg-id="fr.Sundance TV" tvg-name="SUNDANCE TV FULL HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/415eBM7ngtL._SY355_.png" group-title="Magco",SUNDANCE TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23696
+#EXTINF:-1 tvg-id="NULL" tvg-name="ELLE GIRL SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ELLEGIRLHD.png" group-title="Magco",ELLE GIRL SD
+http://magco.rip:8000/41919239348600/41161461566815/81011
+#EXTINF:-1 tvg-id="" tvg-name="ELLE GIRL" tvg-logo="http://www.topstb.info/logo/FRANCE/ELLEGIRLHD.png" group-title="Magco",ELLE GIRL
+http://magco.rip:8000/41919239348600/41161461566815/46192
+#EXTINF:-1 tvg-id="NULL" tvg-name="BET SD" tvg-logo="http://www.topstb.info/logo/FRANCE/BETHD.png" group-title="Magco",BET SD
+http://magco.rip:8000/41919239348600/41161461566815/81016
+#EXTINF:-1 tvg-id="NULL" tvg-name="BET" tvg-logo="http://www.topstb.info/logo/FRANCE/BETHD.png" group-title="Magco",BET
+http://magco.rip:8000/41919239348600/41161461566815/46200
+#EXTINF:-1 tvg-id="NULL" tvg-name="BET TV FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/BETHD.png" group-title="Magco",BET TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23784
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="Magco",ALTICE STUDIO
+http://magco.rip:8000/41919239348600/41161461566815/22282
+#EXTINF:-1 tvg-id="NULL" tvg-name="ALTICE STUDIO FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="Magco",ALTICE STUDIO FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23680
+#EXTINF:-1 tvg-id="Non Stop People FR" tvg-name="NON STOP PEOPLE FULLHD" tvg-logo="http://www.non-stop-people.com/sites/non-stop-people.com/themes/nsp/img/non-stop-people.jpg" group-title="Magco",NON STOP PEOPLE FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23700
+#EXTINF:-1 tvg-id="NULL" tvg-name="ALTICE STUDIO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="Magco",ALTICE STUDIO HD
+http://magco.rip:8000/41919239348600/41161461566815/22488
+#EXTINF:-1 tvg-id="NULL" tvg-name="AB EXPLORE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/1280px-ABXplore_logo.svg.png" group-title="Magco",AB EXPLORE HD
+http://magco.rip:8000/41919239348600/41161461566815/22481
+#EXTINF:-1 tvg-id="fr.VICELAND" tvg-name="VICELAND FULL HD" tvg-logo="http://www.topstb.info/logo/NEDERLAND/VICELAND.png" group-title="Magco",VICELAND FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23686
+#EXTINF:-1 tvg-id="fr.TCM Cinéma" tvg-name="TCM CINEMA FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TCMCINEMAHD.png" group-title="Magco",TCM CINEMA FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23694
+#EXTINF:-1 tvg-id="" tvg-name="ONZEO FULL HD" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/03/Onzeo_logo-300x200.png" group-title="Magco",ONZEO FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23779
+#EXTINF:-1 tvg-id="NULL" tvg-name="NOVELAS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_Caracol_Novelas_2017.png" group-title="Magco",NOVELAS FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23679
+#EXTINF:-1 tvg-id="NULL" tvg-name="NOLLYWOOD FULL HD" tvg-logo="https://www.nollywoodtv.fr/images/logo-nollywoodtv.png" group-title="Magco",NOLLYWOOD FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23780
+#EXTINF:-1 tvg-id="NULL" tvg-name="MY ZEN TV FULL HD" tvg-logo="https://static.wixstatic.com/media/5406f2_47b167ad79954ef6869823d7fe9b2714~mv2.png" group-title="Magco",MY ZEN TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23781
+#EXTINF:-1 tvg-id="NULL" tvg-name="MUSEUM FULL HD" tvg-logo="https://pucesdudesign.com/wp-content/uploads/2018/09/Logo_Museum_CMJN_noir-550x582.png" group-title="Magco",MUSEUM FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23782
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES1 FULL HD" tvg-logo="https://img.over-blog-kiwi.com/0/95/30/84/20180205/ob_c15a30_cpesoperateursv3-001.png" group-title="Magco",ES1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23783
+#EXTINF:-1 tvg-id="NULL" tvg-name="BE CURIOUS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/ff/BeCuriousTV.png" group-title="Magco",BE CURIOUS FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23785
+#EXTINF:-1 tvg-id="NULL" tvg-name="AB3" tvg-logo="http://www.topstb.info/logo/FRANCE/AB3HD.png" group-title="Magco",AB3
+http://magco.rip:8000/41919239348600/41161461566815/46190
+#EXTINF:-1 tvg-id="fr.AB 3" tvg-name="AB3 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/AB3HD.png" group-title="Magco",AB3 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23682
+#EXTINF:-1 tvg-id="fr.Polar+" tvg-name="CINE POLAR" tvg-logo="http://4.bp.blogspot.com/-yAM18Cp1wGc/UX2iPbuwpEI/AAAAAAAAHJY/wK2FIMnU480/s1600/image+logo+Cin%C3%A9+Polar+channel+tv.png" group-title="Magco",CINE POLAR
+http://magco.rip:8000/41919239348600/41161461566815/2685
+#EXTINF:-1 tvg-id="NULL" tvg-name="POLAR  FULL HD" tvg-logo="https://superchinois801.files.wordpress.com/2014/11/og-polar-logo.jpg" group-title="Magco",POLAR  FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23767
+#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="Magco",TV8 SD
+http://magco.rip:8000/41919239348600/41161461566815/81081
+#EXTINF:-1 tvg-id="fr.RMC Découverte" tvg-name="RMC DECOUVERTE" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCDECOUVERTEHD.png" group-title="Magco",RMC DECOUVERTE
+http://magco.rip:8000/41919239348600/41161461566815/2565
+#EXTINF:-1 tvg-id="fr.RMC Découverte" tvg-name="RMC DECOUVERTE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCDECOUVERTEHD.png" group-title="Magco",RMC DECOUVERTE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23726
+#EXTINF:-1 tvg-id="NULL" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCHD.png" group-title="Magco",NATIONAL GEOGRAPHIC SD
+http://magco.rip:8000/41919239348600/41161461566815/81032
+#EXTINF:-1 tvg-id="fr.National Geographic" tvg-name="NATIONAL GEO HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCHD.png" group-title="Magco",NATIONAL GEO HD
+http://magco.rip:8000/41919239348600/41161461566815/139
+#EXTINF:-1 tvg-id="fr.National Geographic" tvg-name="NATIONAL GEOGRAPHIC FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCHD.png" group-title="Magco",NATIONAL GEOGRAPHIC FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23733
+#EXTINF:-1 tvg-id="NULL" tvg-name="NATIONAL GEO WILD SD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" group-title="Magco",NATIONAL GEO WILD SD
+http://magco.rip:8000/41919239348600/41161461566815/81033
+#EXTINF:-1 tvg-id="fr.Nat Geo Wild" tvg-name="NATIONAL GEO WILD FR" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" group-title="Magco",NATIONAL GEO WILD FR
+http://magco.rip:8000/41919239348600/41161461566815/2559
+#EXTINF:-1 tvg-id="fr.Nat Geo Wild" tvg-name="NATIONAL GEO WILD FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" group-title="Magco",NATIONAL GEO WILD FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23732
+#EXTINF:-1 tvg-id="fr.Discovery Science" tvg-name="SCIENCE ET VIE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Science_%26_Vie_TV.svg/1280px-Science_%26_Vie_TV.svg.png" group-title="Magco",SCIENCE ET VIE
+http://magco.rip:8000/41919239348600/41161461566815/2567
+#EXTINF:-1 tvg-id="fr.Discovery Science" tvg-name="SCIENCE ET VIE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SCIENCEETVIEHD.png" group-title="Magco",SCIENCE ET VIE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23739
+#EXTINF:-1 tvg-id="NULL" tvg-name="PLANETE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANET%2BHD.png" group-title="Magco",PLANETE SD
+http://magco.rip:8000/41919239348600/41161461566815/81029
+#EXTINF:-1 tvg-id="fr.Planète+" tvg-name="PLANETE+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Magco",PLANETE+
+http://magco.rip:8000/41919239348600/41161461566815/2563
+#EXTINF:-1 tvg-id="fr.Planète+" tvg-name="PLANETE+ FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Magco",PLANETE+ FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23737
+#EXTINF:-1 tvg-id="NULL" tvg-name="PLANETE CI SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANET%2BCIHD.png" group-title="Magco",PLANETE CI SD
+http://magco.rip:8000/41919239348600/41161461566815/81030
+#EXTINF:-1 tvg-id="FR| PLANETE CI HEVC" tvg-name="PLANETE+ CI" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANET%2BCIHD.png" group-title="Magco",PLANETE+ CI
+http://magco.rip:8000/41919239348600/41161461566815/2564
+#EXTINF:-1 tvg-id="FR| PLANETE CI HEVC" tvg-name="PLANETE+ CI FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANET%2BCIHD.png" group-title="Magco",PLANETE+ CI FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23736
+#EXTINF:-1 tvg-id="NULL" tvg-name="PLANETE AE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="Magco",PLANETE AE SD
+http://magco.rip:8000/41919239348600/41161461566815/81031
+#EXTINF:-1 tvg-id="fr.Planète+ Aventure Expérience" tvg-name="PLANETE+  A&E" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="Magco",PLANETE+  A&E
+http://magco.rip:8000/41919239348600/41161461566815/2689
+#EXTINF:-1 tvg-id="FR| PLANETE A&E HEVC" tvg-name="PLANETE+ A&E FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="Magco",PLANETE+ A&E FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23738
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISCOVERY SD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYHD.png" group-title="Magco",DISCOVERY SD
+http://magco.rip:8000/41919239348600/41161461566815/81034
+#EXTINF:-1 tvg-id="fr.Discovery Channel" tvg-name="DISCOVERY HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYHD.png" group-title="Magco",DISCOVERY HD
+http://magco.rip:8000/41919239348600/41161461566815/63
+#EXTINF:-1 tvg-id="fr.Discovery Channel" tvg-name="DISCOVERY FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYHD.png" group-title="Magco",DISCOVERY FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23730
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYSCIENCEHD.png" group-title="Magco",DISCOVERY SCIENCE SD
+http://magco.rip:8000/41919239348600/41161461566815/81035
+#EXTINF:-1 tvg-id="FR| DISCOVERY SCIENCE HEVC" tvg-name="DISCOVERY SCIENCE FR" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYSCIENCEHD.png" group-title="Magco",DISCOVERY SCIENCE FR
+http://magco.rip:8000/41919239348600/41161461566815/62
+#EXTINF:-1 tvg-id="fr.Discovery Science" tvg-name="DISCOVERY SCIENCE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYSCIENCEHD.png" group-title="Magco",DISCOVERY SCIENCE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23729
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISCOVERY FAMILLY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/1200px-Discovery_Familia_logo.svg.png" group-title="Magco",DISCOVERY FAMILLY SD
+http://magco.rip:8000/41919239348600/41161461566815/81036
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISCOVERY INVESTIGATION SD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYINVESTIGATIONHD.png" group-title="Magco",DISCOVERY INVESTIGATION SD
+http://magco.rip:8000/41919239348600/41161461566815/81037
+#EXTINF:-1 tvg-id="fr.Discovery Investigation" tvg-name="DISCOVERY INVESTIGATION FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Magco",DISCOVERY INVESTIGATION FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23727
+#EXTINF:-1 tvg-id="" tvg-name="SEASON" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0a/Seasons_logo.png" group-title="Magco",SEASON
+http://magco.rip:8000/41919239348600/41161461566815/46196
+#EXTINF:-1 tvg-id="" tvg-name="SEASON FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SEASONHD.png" group-title="Magco",SEASON FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23725
+#EXTINF:-1 tvg-id="fr.Chasse et pêche" tvg-name="CHASSE & PECHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1200px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="Magco",CHASSE & PECHE HD
+http://magco.rip:8000/41919239348600/41161461566815/471
+#EXTINF:-1 tvg-id="fr.Chasse et pêche" tvg-name="CHASSE & PECHE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHASSEETPECHEHD.png" group-title="Magco",CHASSE & PECHE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23731
+#EXTINF:-1 tvg-id="fr.USHUAIA TV" tvg-name="USHUAIA HD" tvg-logo="http://www.topstb.info/logo/FRANCE/USHUAIAHD.png" group-title="Magco",USHUAIA HD
+http://magco.rip:8000/41919239348600/41161461566815/372
+#EXTINF:-1 tvg-id="fr.USHUAIA TV" tvg-name="USHUAIA TV FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/USHUAIAHD.png" group-title="Magco",USHUAIA TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23742
+#EXTINF:-1 tvg-id="fr.Voyage" tvg-name="VOYAGE" tvg-logo="http://www.topstb.info/logo/FRANCE/VOYAGEHD.png" group-title="Magco",VOYAGE
+http://magco.rip:8000/41919239348600/41161461566815/2571
+#EXTINF:-1 tvg-id="fr.Voyage" tvg-name="VOYAGE FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/VOYAGEHD.png" group-title="Magco",VOYAGE FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23740
+#EXTINF:-1 tvg-id="fr.Animaux" tvg-name="ANIMAUX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/animaux.jpg" group-title="Magco",ANIMAUX HD
+http://magco.rip:8000/41919239348600/41161461566815/478
+#EXTINF:-1 tvg-id="fr.Animaux" tvg-name="ANIMAUX FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/ANIMAUXHD.png" group-title="Magco",ANIMAUX FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23741
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE" tvg-logo="https://www.toutelhistoire.com/images/logo.png" group-title="Magco",TOUTE L HISTOIRE
+http://magco.rip:8000/41919239348600/41161461566815/2686
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE FULL HD" tvg-logo="http://www.toutelhistoire.com/images/logo.png" group-title="Magco",TOUTE L HISTOIRE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23744
+#EXTINF:-1 tvg-id="fr.Histoire" tvg-name="HISTOIRE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/HISTOIREHD.png" group-title="Magco",HISTOIRE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23743
+#EXTINF:-1 tvg-id="fr.Discovery Family" tvg-name="DISCOVERY FAMILY FULL HD" tvg-logo="https://www.megazap.fr/photo/art/grande/16626752-21361005.jpg?v=1503299487" group-title="Magco",DISCOVERY FAMILY FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23728
+#EXTINF:-1 tvg-id="NULL" tvg-name="CRIME DISTRICT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Crime_District_logo_2016.svg/1200px-Crime_District_logo_2016.svg.png" group-title="Magco",CRIME DISTRICT
+http://magco.rip:8000/41919239348600/41161461566815/46193
+#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL" tvg-logo="https://cdn1.iconfinder.com/data/icons/aye-ayecons/32/05-ship-wheel-512.png" group-title="Magco",NAUTICAL
+http://magco.rip:8000/41919239348600/41161461566815/46194
+#EXTINF:-1 tvg-id="NULL" tvg-name="TREK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Trek_Bicycle_Corporation_logo.svg/1280px-Trek_Bicycle_Corporation_logo.svg.png" group-title="Magco",TREK
+http://magco.rip:8000/41919239348600/41161461566815/46195
+#EXTINF:-1 tvg-id="NULL" tvg-name="CRIME DISTRICT SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CRIMEDISTRICTHD.png" group-title="Magco",CRIME DISTRICT SD
+http://magco.rip:8000/41919239348600/41161461566815/81006
+#EXTINF:-1 tvg-id="NULL" tvg-name="MY CUISINE TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8xRy4xWhrLWPn36drkm0qqr_CGgEZBvnMW8eyvSa6dMYS4oFm&s" group-title="Magco",MY CUISINE TV SD
+http://magco.rip:8000/41919239348600/41161461566815/81038
+#EXTINF:-1 tvg-id="NULL" tvg-name="VOYAGE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/VOYAGEHD.png" group-title="Magco",VOYAGE SD
+http://magco.rip:8000/41919239348600/41161461566815/81039
+#EXTINF:-1 tvg-id="NULL" tvg-name="USHUAIA TV SD" tvg-logo="http://www.topstb.info/logo/FRANCE/USHUAIAHD.png" group-title="Magco",USHUAIA TV SD
+http://magco.rip:8000/41919239348600/41161461566815/81040
+#EXTINF:-1 tvg-id="NULL" tvg-name="HISTOIRE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/HISTOIREHD.png" group-title="Magco",HISTOIRE SD
+http://magco.rip:8000/41919239348600/41161461566815/81041
+#EXTINF:-1 tvg-id="NULL" tvg-name="SCIENCES ET VIE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/SCIENCEETVIEHD.png" group-title="Magco",SCIENCES ET VIE SD
+http://magco.rip:8000/41919239348600/41161461566815/81042
+#EXTINF:-1 tvg-id="NULL" tvg-name="ANIMAUX SD" tvg-logo="http://www.topstb.info/logo/FRANCE/ANIMAUXHD.png" group-title="Magco",ANIMAUX SD
+http://magco.rip:8000/41919239348600/41161461566815/81043
+#EXTINF:-1 tvg-id="NULL" tvg-name="CHASSE ET PECHE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHASSEETPECHEHD.png" group-title="Magco",CHASSE ET PECHE SD
+http://magco.rip:8000/41919239348600/41161461566815/81045
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC DECOUVERTE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCDECOUVERTEHD.png" group-title="Magco",RMC DECOUVERTE SD
+http://magco.rip:8000/41919239348600/41161461566815/81046
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpT2FbHmt3dOpobSc8_m6WYcaGsRx15J9PFm7Vpe8WgPinALn&s" group-title="Magco",MY CUISINE TV
+http://magco.rip:8000/41919239348600/41161461566815/54958
+#EXTINF:-1 tvg-id="NULL" tvg-name="TREK SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TREKHD.png" group-title="Magco",TREK SD
+http://magco.rip:8000/41919239348600/41161461566815/81044
+#EXTINF:-1 tvg-id="NULL" tvg-name="NAUTICAL SD" tvg-logo="https://image.roku.com/developer_channels/prod/f7710e807260b953189ff876c5d9426f069f05652ad3fe9fcf1282238860bac4.png" group-title="Magco",NAUTICAL SD
+http://magco.rip:8000/41919239348600/41161461566815/81079
+#EXTINF:-1 tvg-id="NULL" tvg-name="NRJ TV" tvg-logo="http://www.topstb.info/logo/FRANCE/NRJ12HD.png" group-title="Magco",NRJ TV
+http://magco.rip:8000/41919239348600/41161461566815/46209
+#EXTINF:-1 tvg-id="fr.NRJ 12" tvg-name="NRJ 12" tvg-logo="http://www.topstb.info/logo/FRANCE/NRJ12HD.png" group-title="Magco",NRJ 12
+http://magco.rip:8000/41919239348600/41161461566815/2560
+#EXTINF:-1 tvg-id="fr.NRJ 12" tvg-name="NRJ 12 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NRJ12HD.png" group-title="Magco",NRJ 12 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23755
+#EXTINF:-1 tvg-id="NULL" tvg-name="TRACE TROPICAL" tvg-logo="http://www.topstb.info/logo/FRANCE/TRACETROPICALHD.png" group-title="Magco",TRACE TROPICAL
+http://magco.rip:8000/41919239348600/41161461566815/46201
+#EXTINF:-1 tvg-id="fr.Trace Tropical" tvg-name="TRACE URBAN" tvg-logo="http://www.topstb.info/logo/FRANCE/TRACEURBANHD.png" group-title="Magco",TRACE URBAN
+http://magco.rip:8000/41919239348600/41161461566815/46202
+#EXTINF:-1 tvg-id="fr.M6 Music" tvg-name="M6 MUSIC HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/M6_Hits_Logo.png" group-title="Magco",M6 MUSIC HITS
+http://magco.rip:8000/41919239348600/41161461566815/4032
+#EXTINF:-1 tvg-id="fr.MTV Hits (France)" tvg-name="MTV FRANCE" tvg-logo="http://www.topstb.info/logo/FRANCE/MTVHD.png" group-title="Magco",MTV FRANCE
+http://magco.rip:8000/41919239348600/41161461566815/4031
+#EXTINF:-1 tvg-id="" tvg-name="STINGRAY HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/stingray-vector-logo.png" group-title="Magco",STINGRAY HD
+http://magco.rip:8000/41919239348600/41161461566815/89994
+#EXTINF:-1 tvg-id="NULL" tvg-name="MEZZO FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="Magco",MEZZO FR
+http://magco.rip:8000/41919239348600/41161461566815/46198
+#EXTINF:-1 tvg-id="NULL" tvg-name="MEZZO LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="Magco",MEZZO LIVE
+http://magco.rip:8000/41919239348600/41161461566815/46199
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png" group-title="Magco",VH1 CLASSIC
+http://magco.rip:8000/41919239348600/41161461566815/46205
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/MTV_Live_HD_%282017%29.png/revision/latest?cb=20170417093708" group-title="Magco",MTV
+http://magco.rip:8000/41919239348600/41161461566815/46207
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/493px-MTV_HITS_logo.svg.png" group-title="Magco",MTV HITS
+http://magco.rip:8000/41919239348600/41161461566815/46208
+#EXTINF:-1 tvg-id="NULL" tvg-name="RFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b0/RFM_TV_logo_2014.png" group-title="Magco",RFM TV
+http://magco.rip:8000/41919239348600/41161461566815/46210
+#EXTINF:-1 tvg-id="NULL" tvg-name="MCM  TOP" tvg-logo="http://www.topstb.info/logo/PORTUGAL/MCMTOP.png" group-title="Magco",MCM  TOP
+http://magco.rip:8000/41919239348600/41161461566815/46211
+#EXTINF:-1 tvg-id="NULL" tvg-name="MCM" tvg-logo="http://www.topstb.info/logo/PORTUGAL/MCMTOP.png" group-title="Magco",MCM
+http://magco.rip:8000/41919239348600/41161461566815/46212
+#EXTINF:-1 tvg-id="NULL" tvg-name="MTV FRANCE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/MTVHD.png" group-title="Magco",MTV FRANCE SD
+http://magco.rip:8000/41919239348600/41161461566815/81010
+#EXTINF:-1 tvg-id="NULL" tvg-name="MCM SD" tvg-logo="http://www.topstb.info/logo/FRANCE/MCMHD.png" group-title="Magco",MCM SD
+http://magco.rip:8000/41919239348600/41161461566815/81013
+#EXTINF:-1 tvg-id="NULL" tvg-name="NRJ12 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/NRJ12HD.png" group-title="Magco",NRJ12 SD
+http://magco.rip:8000/41919239348600/41161461566815/81021
+#EXTINF:-1 tvg-id="NULL" tvg-name="MEZZO LIVE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/MEZZOLIVEHD.png" group-title="Magco",MEZZO LIVE SD
+http://magco.rip:8000/41919239348600/41161461566815/81076
+#EXTINF:-1 tvg-id="NULL" tvg-name="MEZZO SD" tvg-logo="http://www.topstb.info/logo/FRANCE/MEZZOHD.png" group-title="Magco",MEZZO SD
+http://magco.rip:8000/41919239348600/41161461566815/81077
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ TV SD" tvg-logo="http://www.topstb.info/logo/FRANCE/NRJ12HD.png" group-title="Magco",NRJ TV SD
+http://magco.rip:8000/41919239348600/41161461566815/81078
+#EXTINF:-1 tvg-id="NULL" tvg-name="VH1 CLASSIC SD" tvg-logo="http://www.topstb.info/logo/FRANCE/VH1CLASSIC.png" group-title="Magco",VH1 CLASSIC SD
+http://magco.rip:8000/41919239348600/41161461566815/81082
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="http://www.topstb.info/logo/ITALY/TV8.png" group-title="Magco",TV8
+http://magco.rip:8000/41919239348600/41161461566815/68077
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIA FULL HD" tvg-logo="https://static.wixstatic.com/media/5406f2_bed46b5c349040aca0bae6ea0890686b~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80/5406f2_bed46b5c349040aca0bae6ea0890686b~mv2.webp" group-title="Magco",OLYMPIA FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/89991
+#EXTINF:-1 tvg-id="" tvg-name="MELODY TV FULL HD" tvg-logo="https://www.megazap.fr/photo/art/grande/21330731-24400583.jpg?v=1522824068" group-title="Magco",MELODY TV FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/89992
+#EXTINF:-1 tvg-id="fr.Ciné+ Club" tvg-name="CINE CLUB FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1024px-CinePlusClub_Logo.svg.png" group-title="Magco",CINE CLUB FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/89993
+#EXTINF:-1 tvg-id="fr.Equidia Life" tvg-name="EQUIDIA LIVE" tvg-logo="http://www.topstb.info/logo/FRANCE/EQUIDIAHD.png" group-title="Magco",EQUIDIA LIVE
+http://magco.rip:8000/41919239348600/41161461566815/2552
+#EXTINF:-1 tvg-id="fr.Equidia Life" tvg-name="EQUIDIA" tvg-logo="http://www.topstb.info/logo/FRANCE/EQUIDIAHD.png" group-title="Magco",EQUIDIA
+http://magco.rip:8000/41919239348600/41161461566815/2553
+#EXTINF:-1 tvg-id="NULL" tvg-name="EQUIDIA LIVE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EQUIDIALIVEHD.png" group-title="Magco",EQUIDIA LIVE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/33177
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORTNEWS.png" group-title="Magco",RMC SPORT NEWS
+http://magco.rip:8000/41919239348600/41161461566815/46185
+#EXTINF:-1 tvg-id="fr.RMC SPORT NEWS" tvg-name="RMC SPORT NEWS  FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORTNEWS.png" group-title="Magco",RMC SPORT NEWS  FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23804
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT1HD.png" group-title="Magco",RMC SPORT 1 SD
+http://magco.rip:8000/41919239348600/41161461566815/81047
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="Magco",RMC SPORT 1
+http://magco.rip:8000/41919239348600/41161461566815/89996
+#EXTINF:-1 tvg-id="fr.RMC SPORT 1" tvg-name="RMC SPORT 1 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="Magco",RMC SPORT 1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23803
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT 2 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT2HD.png" group-title="Magco",RMC SPORT 2 SD
+http://magco.rip:8000/41919239348600/41161461566815/81048
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT 2
+http://magco.rip:8000/41919239348600/41161461566815/22280
+#EXTINF:-1 tvg-id="fr.RMC SPORT 2" tvg-name="RMC SPORT 2 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Magco",RMC SPORT 2 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23802
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT 3 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT3HD.png" group-title="Magco",RMC SPORT 3 SD
+http://magco.rip:8000/41919239348600/41161461566815/81049
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Magco",RMC SPORT 3
+http://magco.rip:8000/41919239348600/41161461566815/22279
+#EXTINF:-1 tvg-id="fr.RMC SPORT 3" tvg-name="RMC SPORT 3 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Magco",RMC SPORT 3 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23801
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT 4 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT4HD.png" group-title="Magco",RMC SPORT 4 SD
+http://magco.rip:8000/41919239348600/41161461566815/81050
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="Magco",RMC SPORT 4
+http://magco.rip:8000/41919239348600/41161461566815/22371
+#EXTINF:-1 tvg-id="fr.RMC SPORT 4" tvg-name="RMC SPORT 4 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="Magco",RMC SPORT 4 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23800
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT 5
+http://magco.rip:8000/41919239348600/41161461566815/22372
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 6" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT 6
+http://magco.rip:8000/41919239348600/41161461566815/22373
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 7" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT 7
+http://magco.rip:8000/41919239348600/41161461566815/22374
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 8 HD" tvg-logo="http://www.rezofoot.com/images/icones_tv/rmcsportlive8.gif" group-title="Magco",RMC Sport Live 8 HD
+http://magco.rip:8000/41919239348600/41161461566815/78777
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 9 HD" tvg-logo="http://tvepg.eu/img/france/logo/rmc_sport_live_9.png" group-title="Magco",RMC Sport Live 9 HD
+http://magco.rip:8000/41919239348600/41161461566815/78778
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 10 HD
+http://magco.rip:8000/41919239348600/41161461566815/78779
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 11 HD
+http://magco.rip:8000/41919239348600/41161461566815/78780
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 12 HD
+http://magco.rip:8000/41919239348600/41161461566815/78781
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 14 HD
+http://magco.rip:8000/41919239348600/41161461566815/78782
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC Sport Live 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 13 HD
+http://magco.rip:8000/41919239348600/41161461566815/78783
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 15 HD
+http://magco.rip:8000/41919239348600/41161461566815/78784
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="Magco",RMC Sport Live 16 HD
+http://magco.rip:8000/41919239348600/41161461566815/78785
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT ACCESS 1 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCACCESSSPORT1HD.png" group-title="Magco",RMC SPORT ACCESS 1 SD
+http://magco.rip:8000/41919239348600/41161461566815/81051
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 1" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT ACCESS 1
+http://magco.rip:8000/41919239348600/41161461566815/46188
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT ACCESS 2 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCACCESSSPORT2HD.png" group-title="Magco",RMC SPORT ACCESS 2 SD
+http://magco.rip:8000/41919239348600/41161461566815/81052
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 2" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT ACCESS 2
+http://magco.rip:8000/41919239348600/41161461566815/46187
+#EXTINF:-1 tvg-id="NULL" tvg-name="RMC SPORT ACCESS 3 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCACCESSSPORT3HD.png" group-title="Magco",RMC SPORT ACCESS 3 SD
+http://magco.rip:8000/41919239348600/41161461566815/81053
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 3" tvg-logo="https://img.phonandroid.com/2018/08/rmc-sport-2.jpg" group-title="Magco",RMC SPORT ACCESS 3
+http://magco.rip:8000/41919239348600/41161461566815/46186
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 1" tvg-name="BEIN SPORTS 1 HD FR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport1_hd.jpg" group-title="Magco",BEIN SPORTS 1 HD FR
+http://magco.rip:8000/41919239348600/41161461566815/3370
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 1" tvg-name="BEIN SPORTS 1 FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/BEISPORT1HD.png" group-title="Magco",BEIN SPORTS 1 FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23807
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 2" tvg-name="BEIN SPORTS 2 HD FR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport2_hd.jpg" group-title="Magco",BEIN SPORTS 2 HD FR
+http://magco.rip:8000/41919239348600/41161461566815/3369
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 2" tvg-name="BEIN SPORTS 2 FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/BEINSPORT2HD.png" group-title="Magco",BEIN SPORTS 2 FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23806
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 3" tvg-name="BEIN SPORTS 3 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="Magco",BEIN SPORTS 3 HD FR
+http://magco.rip:8000/41919239348600/41161461566815/3368
+#EXTINF:-1 tvg-id="fr.beIN SPORTS 3" tvg-name="BEIN SPORTS 3 FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/BEINSPORT3HD.png" group-title="Magco",BEIN SPORTS 3 FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23805
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_4.jpg" group-title="Magco",BEIN SPORT MAX 4
+http://magco.rip:8000/41919239348600/41161461566815/3900
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_5.jpg" group-title="Magco",BEIN SPORT MAX 5
+http://magco.rip:8000/41919239348600/41161461566815/3901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_6.jpg" group-title="Magco",BEIN SPORT MAX 6
+http://magco.rip:8000/41919239348600/41161461566815/3902
+#EXTINF:-1 tvg-id="fr.beIN SPORTS MAX 7" tvg-name="BEIN SPORT MAX 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_7.jpg" group-title="Magco",BEIN SPORT MAX 7
+http://magco.rip:8000/41919239348600/41161461566815/3903
+#EXTINF:-1 tvg-id="fr.beIN SPORTS MAX 8" tvg-name="BEIN SPORT MAX 8" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_8.jpg" group-title="Magco",BEIN SPORT MAX 8
+http://magco.rip:8000/41919239348600/41161461566815/3904
+#EXTINF:-1 tvg-id="fr.beIN SPORTS MAX 9" tvg-name="BEIN SPORT MAX 9" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport_max_9.jpg" group-title="Magco",BEIN SPORT MAX 9
+http://magco.rip:8000/41919239348600/41161461566815/4040
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="BEIN SPORT MAX 10" tvg-logo="http://www.topstb.info/logo/FRANCE/BEINSPORTMAX10HD.png" group-title="Magco",BEIN SPORT MAX 10
+http://magco.rip:8000/41919239348600/41161461566815/89365
+#EXTINF:-1 tvg-id="" tvg-name="SFR SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/Logo_SFR_Sport_1_2016.svg/800px-Logo_SFR_Sport_1_2016.svg.png" group-title="Magco",SFR SPORT 1 HD
+http://magco.rip:8000/41919239348600/41161461566815/2803
+#EXTINF:-1 tvg-id="" tvg-name="SFR SPORT 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d8/Sfr_sport_2_2016_logo.jpg/revision/latest?cb=20160624180728&path-prefix=fr" group-title="Magco",SFR SPORT 2 HD
+http://magco.rip:8000/41919239348600/41161461566815/2804
+#EXTINF:-1 tvg-id="" tvg-name="SFR SPORT 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/7/71/Sfr_sport_3_2016_logo.jpg/revision/latest?cb=20160624181015&path-prefix=fr" group-title="Magco",SFR SPORT 3 HD
+http://magco.rip:8000/41919239348600/41161461566815/2880
+#EXTINF:-1 tvg-id="" tvg-name="SFR SPORT 5" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/1/1d/Sfr_sport_5_2016_logo.jpg/revision/latest?cb=20160624181507&path-prefix=fr" group-title="Magco",SFR SPORT 5
+http://magco.rip:8000/41919239348600/41161461566815/22278
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SPORT SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BSPORTHD.png" group-title="Magco",CANAL SPORT SD
+http://magco.rip:8000/41919239348600/41161461566815/80996
+#EXTINF:-1 tvg-id="fr.Canal+ Sport" tvg-name="CANAL+ SPORT" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BSPORTHD.png" group-title="Magco",CANAL+ SPORT
+http://magco.rip:8000/41919239348600/41161461566815/57
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANAL%2BSPORTHD.png" group-title="Magco",CANAL  SPORT FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23774
+#EXTINF:-1 tvg-id="NULL" tvg-name="INFOSPORT SD" tvg-logo="http://www.topstb.info/logo/FRANCE/INFOSPORT%2BHD.png" group-title="Magco",INFOSPORT SD
+http://magco.rip:8000/41919239348600/41161461566815/81058
+#EXTINF:-1 tvg-id="" tvg-name="VOO SPORT 1" tvg-logo="https://sport-tv-guide.live/images/stations/a1157.png" group-title="Magco",VOO SPORT 1
+http://magco.rip:8000/41919239348600/41161461566815/22277
+#EXTINF:-1 tvg-id="NULL" tvg-name="VOO SPORT 2" tvg-logo="https://sport-tv-guide.live/images/stations/a1158.png" group-title="Magco",VOO SPORT 2
+http://magco.rip:8000/41919239348600/41161461566815/22276
+#EXTINF:-1 tvg-id="fr.Golf+" tvg-name="GOLF +" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus.jpg" group-title="Magco",GOLF +
+http://magco.rip:8000/41919239348600/41161461566815/5304
+#EXTINF:-1 tvg-id="fr.Golf+" tvg-name="GOLF + FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLF%2BHD.png" group-title="Magco",GOLF + FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23790
+#EXTINF:-1 tvg-id="NULL" tvg-name="GOLF CHANNEL SD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLFCHANNELHD.png" group-title="Magco",GOLF CHANNEL SD
+http://magco.rip:8000/41919239348600/41161461566815/81057
+#EXTINF:-1 tvg-id="fr.Golf Channel" tvg-name="Golf Channel HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLFCHANNELHD.png" group-title="Magco",Golf Channel HD
+http://magco.rip:8000/41919239348600/41161461566815/12251
+#EXTINF:-1 tvg-id="fr.Golf Channel" tvg-name="GOLF CHANNEL FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GOLFCHANNELHD.png" group-title="Magco",GOLF CHANNEL FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23793
+#EXTINF:-1 tvg-id="NULL" tvg-name="EUROSPORT 1 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT1HD.png" group-title="Magco",EUROSPORT 1 SD
+http://magco.rip:8000/41919239348600/41161461566815/81054
+#EXTINF:-1 tvg-id="fr.Eurosport 1" tvg-name="EUROSPORT 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/eurosport_hd.jpg" group-title="Magco",EUROSPORT 1
+http://magco.rip:8000/41919239348600/41161461566815/377
+#EXTINF:-1 tvg-id="fr.Eurosport 1" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT1HD.png" group-title="Magco",EUROSPORT 1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23796
+#EXTINF:-1 tvg-id="NULL" tvg-name="EUROSPORT 2 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT2HD.png" group-title="Magco",EUROSPORT 2 SD
+http://magco.rip:8000/41919239348600/41161461566815/81055
+#EXTINF:-1 tvg-id="fr.Eurosport 2" tvg-name="EUROSPORT 2" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT2HD.png" group-title="Magco",EUROSPORT 2
+http://magco.rip:8000/41919239348600/41161461566815/2555
+#EXTINF:-1 tvg-id="fr.Eurosport 2" tvg-name="EUROSPORT 2 FULL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d7/Eurosport_2_HD_2015.png/revision/latest?cb=20151116103945" group-title="Magco",EUROSPORT 2 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23795
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT+" tvg-logo="http://www.topstb.info/logo/FRANCE/INFOSPORT%2BHD.png" group-title="Magco",INFOSPORT+
+http://magco.rip:8000/41919239348600/41161461566815/1809
+#EXTINF:-1 tvg-id="fr.Infosport+" tvg-name="INFOSPORT FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Infosport.svg/1280px-Infosport.svg.png" group-title="Magco",INFOSPORT FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23794
+#EXTINF:-1 tvg-id="NULL" tvg-name="L'EQUIPE 21 SD" tvg-logo="http://www.topstb.info/logo/FRANCE/LEQUIPE21HD.png" group-title="Magco",L'EQUIPE 21 SD
+http://magco.rip:8000/41919239348600/41161461566815/81059
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE 21" tvg-logo="http://www.topstb.info/logo/FRANCE/LEQUIPE21HD.png" group-title="Magco",L EQUIPE 21
+http://magco.rip:8000/41919239348600/41161461566815/2554
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE 21 FULL HD" tvg-logo="https://i0.wp.com/basket-ballworld.fr/wp-content/uploads/2016/09/Capture-d%E2%80%99%C3%A9cran-2016-09-01-%C3%A0-21.23.08.png?resize=610%2C362&ssl=1" group-title="Magco",L EQUIPE 21 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23791
+#EXTINF:-1 tvg-id="fr.Motorsport TV" tvg-name="MOTORSPORT FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/MOTORSPORTTVHD.png" group-title="Magco",MOTORSPORT FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23788
+#EXTINF:-1 tvg-id="NULL" tvg-name="EXTREME SPORTS SD" tvg-logo="http://www.topstb.info/logo/FRANCE/EXTREMESPORTS%20HD.png" group-title="Magco",EXTREME SPORTS SD
+http://magco.rip:8000/41919239348600/41161461566815/81056
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/EXTREMESPORTS%20HD.png" group-title="Magco",EXTREME SPORTS FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23786
+#EXTINF:-1 tvg-id="fr.Foot+ 24/24" tvg-name="FOOT  FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FOOT24HD.png" group-title="Magco",FOOT  FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23789
+#EXTINF:-1 tvg-id="NULL" tvg-name="EQUIDIA LIVE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/EQUIDIAHD.png" group-title="Magco",EQUIDIA LIVE SD
+http://magco.rip:8000/41919239348600/41161461566815/81061
+#EXTINF:-1 tvg-id="fr.AB MOTEURS" tvg-name="AUTOMOTO FULL HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ab_moteurs.jpg" group-title="Magco",AUTOMOTO FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23792
+#EXTINF:-1 tvg-id="NULL" tvg-name="MOTOR SPORT SD" tvg-logo="http://www.topstb.info/logo/FRANCE/MOTORSPORTTVHD.png" group-title="Magco",MOTOR SPORT SD
+http://magco.rip:8000/41919239348600/41161461566815/81060
+#EXTINF:-1 tvg-id="" tvg-name="AUTO MOTO LA CHAINE HD" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-automoto.png?v=1.0.0" group-title="Magco",AUTO MOTO LA CHAINE HD
+http://magco.rip:8000/41919239348600/41161461566815/47960
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 1 HD" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 1 HD
+http://magco.rip:8000/41919239348600/41161461566815/78984
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 2" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 2
+http://magco.rip:8000/41919239348600/41161461566815/78985
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 3" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 3
+http://magco.rip:8000/41919239348600/41161461566815/78986
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 4" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 4
+http://magco.rip:8000/41919239348600/41161461566815/78987
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 5" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 5
+http://magco.rip:8000/41919239348600/41161461566815/78988
+#EXTINF:-1 tvg-id="NULL" tvg-name="MULTISPORTS 6" tvg-logo="https://2.bp.blogspot.com/-ZrPFOnIxtcM/V45_NgYlAtI/AAAAAAAAA7w/SHEio_jQEsAeYjqlGP4gBSS77XBkR-WpQCLcB/s1600/multisports.png" group-title="Magco",MULTISPORTS 6
+http://magco.rip:8000/41919239348600/41161461566815/78989
+#EXTINF:-1 tvg-id="fr.Disney Channel" tvg-name="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Magco",DISNEY CHANNEL
+http://magco.rip:8000/41919239348600/41161461566815/376
+#EXTINF:-1 tvg-id="fr.Disney Channel" tvg-name="DISNEY CHANNEL FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Magco",DISNEY CHANNEL FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23711
+#EXTINF:-1 tvg-id="fr.Disney Channel +1" tvg-name="DISNEY CHANNEL 1 FULLHD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYCHANNEL1HD.png" group-title="Magco",DISNEY CHANNEL 1 FULLHD
+http://magco.rip:8000/41919239348600/41161461566815/23710
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISNEY XD SD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYXDHD.png" group-title="Magco",DISNEY XD SD
+http://magco.rip:8000/41919239348600/41161461566815/81070
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD fr" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYXDHD.png" group-title="Magco",DISNEY XD fr
+http://magco.rip:8000/41919239348600/41161461566815/2635
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="DISNEY XD FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYXDHD.png" group-title="Magco",DISNEY XD FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23707
+#EXTINF:-1 tvg-id="fr.Disney Cinema" tvg-name="DISNEY CINEMA FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="Magco",DISNEY CINEMA FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23709
+#EXTINF:-1 tvg-id="NULL" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYJUNIORHD.png" group-title="Magco",DISNEY JUNIOR SD
+http://magco.rip:8000/41919239348600/41161461566815/81069
+#EXTINF:-1 tvg-id="fr.Disney Junior" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_sur.jpg" group-title="Magco",DISNEY JUNIOR HD
+http://magco.rip:8000/41919239348600/41161461566815/472
+#EXTINF:-1 tvg-id="fr.Disney Junior" tvg-name="DISNEY JUNIOR FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISNEYJUNIORHD.png" group-title="Magco",DISNEY JUNIOR FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23708
+#EXTINF:-1 tvg-id="fr.Nickelodéon" tvg-name="NICKELODEON" tvg-logo="https://vignette.wikia.nocookie.net/dreamworks/images/3/3a/Logo_Nickelodeon.png/revision/latest?cb=20170429072058" group-title="Magco",NICKELODEON
+http://magco.rip:8000/41919239348600/41161461566815/3356
+#EXTINF:-1 tvg-id="fr.Nickelodéon" tvg-name="NICKELODEON 1 FULL HD" tvg-logo="https://pbs.twimg.com/media/CfR9V_zWwAEJytQ.jpg" group-title="Magco",NICKELODEON 1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23720
+#EXTINF:-1 tvg-id="fr.Nickelodeon Junior" tvg-name="NICKELODEON JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Nickelodeon_Junior.svg/1280px-Nickelodeon_Junior.svg.png" group-title="Magco",NICKELODEON JUNIOR
+http://magco.rip:8000/41919239348600/41161461566815/3354
+#EXTINF:-1 tvg-id="fr.TéléToon+1" tvg-name="TELETOON  HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_pl_teletoon_hd.jpg" group-title="Magco",TELETOON  HD
+http://magco.rip:8000/41919239348600/41161461566815/2681
+#EXTINF:-1 tvg-id="fr.TéléToon+1" tvg-name="TELETOON FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TELETOON%2BHD.png" group-title="Magco",TELETOON FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23705
+#EXTINF:-1 tvg-id="fr.TéléToon+1" tvg-name="TELETOON 1 FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TELETOON%2BHD.png" group-title="Magco",TELETOON 1 FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23704
+#EXTINF:-1 tvg-id="NULL" tvg-name="MANGA SD" tvg-logo="https://cdn.imgbin.com/6/2/5/imgbin-logo-mangas-television-channel-tv-logos-DwhVx7hx6mq2qC12VWX5KytYy.jpg" group-title="Magco",MANGA SD
+http://magco.rip:8000/41919239348600/41161461566815/81014
+#EXTINF:-1 tvg-id="fr.Mangas" tvg-name="MANGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Mangas_%282015%29.svg/langfr-200px-Mangas_%282015%29.svg.png" group-title="Magco",MANGAS
+http://magco.rip:8000/41919239348600/41161461566815/375
+#EXTINF:-1 tvg-id="fr.Mangas" tvg-name="MANGAS FULL HD" tvg-logo="http://ab-ressources.fr/ressources/logos/logo-mangas.png" group-title="Magco",MANGAS FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23717
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="http://www.topstb.info/logo/FRANCE/TOONAMIHD.png" group-title="Magco",TOONAMI
+http://magco.rip:8000/41919239348600/41161461566815/46184
+#EXTINF:-1 tvg-id="fr.Toonami" tvg-name="TOONAMI FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TOONAMIHD.png" group-title="Magco",TOONAMI FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23723
+#EXTINF:-1 tvg-id="fr.Boing" tvg-name="BOING FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/BOINGHD.png" group-title="Magco",BOING FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23703
+#EXTINF:-1 tvg-id="NULL" tvg-name="GAME ONE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/GAMEONEHD.png" group-title="Magco",GAME ONE SD
+http://magco.rip:8000/41919239348600/41161461566815/81028
+#EXTINF:-1 tvg-id="fr.Game One" tvg-name="GAME ONE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/game_one.jpg" group-title="Magco",GAME ONE
+http://magco.rip:8000/41919239348600/41161461566815/2557
+#EXTINF:-1 tvg-id="fr.Game One" tvg-name="GAME ONE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GAMEONEHD.png" group-title="Magco",GAME ONE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23715
+#EXTINF:-1 tvg-id="NULL" tvg-name="BOOMERANG SD" tvg-logo="http://www.topstb.info/logo/FRANCE/BOOMERANGHD.png" group-title="Magco",BOOMERANG SD
+http://magco.rip:8000/41919239348600/41161461566815/81067
+#EXTINF:-1 tvg-id="fr.Boomerang" tvg-name="BOOMERANG" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boomerang_fr.jpg" group-title="Magco",BOOMERANG
+http://magco.rip:8000/41919239348600/41161461566815/378
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Magco",BABY TV
+http://magco.rip:8000/41919239348600/41161461566815/101671
+#EXTINF:-1 tvg-id="fr.Piwi+" tvg-name="PIWI" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_piwi_plus.jpg" group-title="Magco",PIWI
+http://magco.rip:8000/41919239348600/41161461566815/374
+#EXTINF:-1 tvg-id="fr.Piwi+" tvg-name="PIWI FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PIWIHD.png" group-title="Magco",PIWI FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23722
+#EXTINF:-1 tvg-id="NULL" tvg-name="TIJI SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TIJIHD.png" group-title="Magco",TIJI SD
+http://magco.rip:8000/41919239348600/41161461566815/81074
+#EXTINF:-1 tvg-id="fr.TIJI" tvg-name="TIJI HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TIJIHD.png" group-title="Magco",TIJI HD
+http://magco.rip:8000/41919239348600/41161461566815/2680
+#EXTINF:-1 tvg-id="fr.TIJI" tvg-name="TIJI FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TIJIHD.png" group-title="Magco",TIJI FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23702
+#EXTINF:-1 tvg-id="NULL" tvg-name="GULLI SD" tvg-logo="http://www.topstb.info/logo/FRANCE/GULLIHD.png" group-title="Magco",GULLI SD
+http://magco.rip:8000/41919239348600/41161461566815/81073
+#EXTINF:-1 tvg-id="fr.Gulli" tvg-name="GULLI HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GULLIHD.png" group-title="Magco",GULLI HD
+http://magco.rip:8000/41919239348600/41161461566815/335
+#EXTINF:-1 tvg-id="fr.Gulli" tvg-name="GULLI FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GULLIHD.png" group-title="Magco",GULLI FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23716
+#EXTINF:-1 tvg-id="NULL" tvg-name="CANAL J SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALJHD.png" group-title="Magco",CANAL J SD
+http://magco.rip:8000/41919239348600/41161461566815/81071
+#EXTINF:-1 tvg-id="fr.Canal J" tvg-name="CANAL J" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_j.jpg" group-title="Magco",CANAL J
+http://magco.rip:8000/41919239348600/41161461566815/2636
+#EXTINF:-1 tvg-id="fr.Canal J" tvg-name="CANAL J FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CANALJHD.png" group-title="Magco",CANAL J FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23714
+#EXTINF:-1 tvg-id="NULL" tvg-name="CARTOON NETWORK SD" tvg-logo="http://www.topstb.info/logo/FRANCE/CARTOONNETWORKHD.png" group-title="Magco",CARTOON NETWORK SD
+http://magco.rip:8000/41919239348600/41161461566815/81068
+#EXTINF:-1 tvg-id="fr.Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://www.topstb.info/logo/FRANCE/CARTOONNETWORKHD.png" group-title="Magco",Cartoon Network
+http://magco.rip:8000/41919239348600/41161461566815/373
+#EXTINF:-1 tvg-id="fr.Cartoon Network" tvg-name="CARTOON NETWORK FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CARTOONNETWORKHD.png" group-title="Magco",CARTOON NETWORK FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23713
+#EXTINF:-1 tvg-id="NULL" tvg-name="J ONE SD" tvg-logo="http://www.topstb.info/logo/FRANCE/TIJIHD.png" group-title="Magco",J ONE SD
+http://magco.rip:8000/41919239348600/41161461566815/81075
+#EXTINF:-1 tvg-id="fr.J-One" tvg-name="J-ONE FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/J-ONEHD.png" group-title="Magco",J-ONE FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23701
+#EXTINF:-1 tvg-id="NULL" tvg-name="NICKELODEON SD" tvg-logo="http://www.topstb.info/logo/FRANCE/NICKELODEONHD.png" group-title="Magco",NICKELODEON SD
+http://magco.rip:8000/41919239348600/41161461566815/81072
+#EXTINF:-1 tvg-id="fr.Nickelodéon Teen" tvg-name="NICKELODEON4-TEEN FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/59475-nickelodeon-4teen-nouvelle-chaine-100-series.jpg" group-title="Magco",NICKELODEON4-TEEN FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23718
+#EXTINF:-1 tvg-id="fr.Nickelodeon Junior" tvg-name="NICKELODEON JUNIOR FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NICKELODEONJUNIORHD.png" group-title="Magco",NICKELODEON JUNIOR FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23719
+#EXTINF:-1 tvg-id="NULL" tvg-name="BOING SD" tvg-logo="http://www.topstb.info/logo/FRANCE/BOINGHD.png" group-title="Magco",BOING SD
+http://magco.rip:8000/41919239348600/41161461566815/81066
+#EXTINF:-1 tvg-id="fr.Nickelodéon" tvg-name="NICKELODEON FULL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NICKELODEONHD.png" group-title="Magco",NICKELODEON FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/23721
+#EXTINF:-1 tvg-id="NULL" tvg-name="GAME ONE 1 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/GAMEONEHD.png" group-title="Magco",GAME ONE 1 HD
+http://magco.rip:8000/41919239348600/41161461566815/79349
+#EXTINF:-1 tvg-id="" tvg-name="MANGA" tvg-logo="http://www.topstb.info/logo/ITALY/MANGA.png" group-title="Magco",MANGA
+http://magco.rip:8000/41919239348600/41161461566815/68284
+#EXTINF:-1 tvg-id="" tvg-name="A LA MAISON FULL HD" tvg-logo="" group-title="Magco",A LA MAISON FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/96183
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ FULL HD" tvg-logo="" group-title="Magco",DISNEY+ FULL HD
+http://magco.rip:8000/41919239348600/41161461566815/96182
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="IPTVCLUB",TF1 HD
 http://iptvclub.live:25461/IM4QCrQUDN1fvre/TZBHRzrKv7dggqT/49161
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="IPTVCLUB",FRANCE 2 HD
