@@ -6983,8 +6983,6 @@ http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163716
 http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/163717
 #EXTINF:-1 tvg-ID="Voltage FM" tvg-name="Voltage FM" tvg-logo="" group-title="DAVIDHOWELL", Voltage FM	
 http://i-watch.club:80/DAVIDHOWELL/oWtCRRer2y/69646
-#EXTINF:-1 tvg-ID="Weo" tvg-name="Weo" tvg-logo="" group-title="DAVIDHOWELL", Weo#EXTINF:-1 tvg-logo="http://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="Versailles",Vià Occitanie
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 tvg-ID="TF1" tvg-name="TF1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="SinoTVPRO", TF1 		
 http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/11372
 #EXTINF:-1 tvg-ID="France 2" tvg-name="France 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2_hd.jpg" group-title="SinoTVPRO", France 2		
@@ -7878,5 +7876,166 @@ http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34924
 #EXTINF:-1 tvg-ID="" tvg-name="VIA MIRABELLE TV HD" tvg-logo="" group-title="SinoTVPRO", VIA MIRABELLE TV HD
 http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34927
 #EXTINF:-1 tvg-ID="" tvg-name="via Occitanie TV" tvg-logo="" group-title="SinoTVPRO", via Occitanie TV
+<<<<<<< HEAD
 http://sinotvpro.com:8080/MZKjxjcgqZ/Bq1tzttzqK/34934
+=======
+http://sinotvpro.com:8080/NXkcvVVmuE/ZvSt2gbBqs/34934
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="Exodiver",France Ô
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Exodiver",France 2
+http://178.132.3.162:88/france2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Exodiver",France 3
+http://178.132.3.162:88/france3/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Exodiver",France 3 Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Exodiver",France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France4.fr.png" group-title="Exodiver",France 4
+http://178.132.3.162:88/france4/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="Exodiver",France 5
+http://178.132.3.162:88/france5/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="Exodiver",France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Exodiver",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RTFrance.fr.png" group-title="Exodiver",RT Français
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cn/CGTNFrench.cn.png" group-title="Exodiver",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Nouvelles",BFM 
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="Exodiver",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_BFM_Lyon_M%C3%A9tropole_2019.png" group-title="Exodiver",BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" group-title="Exodiver",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/CNews.fr.png" group-title="Exodiver",CNews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="Exodiver",Arte Français
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Exodiver",BOING Français
+http://178.132.3.162:88/boing/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="Exodiver",Cherie25
+http://82.64.13.207:2002/bysid/2563
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-gulli.jnsmedia.fr/bundles/jeunesseintegrationcanalj/images/header/logo-canalj.png" group-title="Exodiver",Canal J
+http://178.132.3.162:88/CanalJ/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Exodiver",DBM
+https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Exodiver",Gulli
+http://178.132.3.162:88/Gulli/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Exodiver",L'Equipe 21
+http://82.64.13.207:2002/bysid/2562
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Exodiver",M6
+http://178.132.3.162:88/M6/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="Exodiver",NRJ_12
+http://178.132.3.162:88/NRJ_12/video.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/PIWI.fr.png" group-title="Exodiver",Piwi
+http://178.132.3.162:88/Piwi/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" group-title="Exodiver",RMC Story
+http://82.64.13.207:2002/bysid/2565
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png" group-title="Exodiver",RMC Découverte
+http://82.64.13.207:2002/bysid/2564
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Exodiver",Téva
+http://178.132.3.162:88/Teva/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Exodiver",TV5 Monde Asie
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Exodiver",TV5 Monde Asie (English)
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Exodiver",TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Exodiver",TV5 Monde Info
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+>>>>>>> c7a2e7429f4d83b91a8556792ff4764e4452d57d
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Exodiver",TV5 Monde Info
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Exodiver",TV5 Monde Info (English)
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Exodiver",TV5 Monde Info (Chinese)
+https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="Exodiver",TV5 Monde Info (Taiwan)
+https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://my-hd.tv/shared/img/channels/TV5Monde.gif" group-title="Exodiver",TV5 Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Exodiver",TV5 Monde Pacifique (Korea)
+https://tv5pacifiqueko-i.akamaihd.net/hls/live/630177/tv5pacifiqueko/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Exodiver",TV5 Monde Pacifique 
+https://tv5pacifiquehls-i.akamaihd.net/hls/live/630173/tv5pacifiquehls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Exodiver",TV5 Monde Pacifique (Japan)
+https://tv5pacifiquejp-i.akamaihd.net/hls/live/630199/tv5pacifiquejp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Exodiver",TV5 Monde Pacifique 
+https://tv5pacifiquefr-i.akamaihd.net/hls/live/630174/tv5pacifiquefr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="Exodiver",TV5 Monde Pacifique 
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Exodiver",TV5 Monde Style
+https://tv5stylehls-i.akamaihd.net/hls/live/631646/tv5stylehls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Exodiver",TV5 Monde Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Exodiver",TV5 Monde Style Chinese
+https://tv5stylechi-i.akamaihd.net/hls/live/631673/tv5stylechi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.lci.fr/assets/images/logo_lci.png" group-title="Exodiver",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TMC.fr.png" group-title="Exodiver",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Exodiver",TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Exodiver",TF1 Séries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Exodiver",TF1 Séries Films
+http://82.64.13.207:2002/bysid/2561
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TFX.fr.png" group-title="Exodiver",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/TraceUrban.za.png" group-title="Exodiver",Trace Urban Français
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbanfr/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="Exodiver",LCP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/_GzQnzaF4k-o/RY6TYuuc7FI/AAAAAAAAAcs/CGhPH4h1CoU/s400/kto.jpg" group-title="Exodiver",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ibrain.univ-tours.fr/medias/photo/unnamed_1541163814537-jpg" group-title="Exodiver",Public Sénat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png" group-title="Exodiver",W9
+http://178.132.3.162:88/W9/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Exodiver",EMCI TV Paris
+https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg" group-title="Exodiver",Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.grandlille.tv/wp-content/uploads/2018/10/grand-lille-info-tv-logo.png" group-title="Exodiver",Grand Lille TV 
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w1118883208_b1464000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gongnetworks.com/images/logo.jpg" group-title="Exodiver",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg" group-title="Exodiver",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://media.info/i/lf/300/1504905935/6907.png" group-title="Exodiver",La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mycomedy.fr/wp-content/uploads/2017/05/logo-large.png" group-title="Exodiver",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1206940189203062784/ldPsnLQU_400x400.jpg" group-title="Exodiver",Stad'afric
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="Exodiver",Super Yatch TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_T%C3%A9b%C3%A9o.svg/1200px-Logo_T%C3%A9b%C3%A9o.svg.png" group-title="Exodiver",Tébéo
+https://live2.awedia.com/hls/tebeo_hi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv3v.fr/images/logo_tv3v.png" group-title="Exodiver",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i0.wp.com/quizho.com/wp-content/uploads/2019/08/t%C3%A9l%C3%A9chargement-42.jpg" group-title="Exodiver",TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvpi.fr/wp-content/themes/tvpi/images/logo-tvpi.jpg" group-title="Exodiver",TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvr.bzh/sites/default/files/logo.png" group-title="Exodiver",TVR Bretagne
+https://origin1.dvmr.fr/hls/tvr/tvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i1.wp.com/via93.tv/wp-content/uploads/2018/01/logo-via93-TVM.jpg" group-title="Exodiver",TVM Est parisien
+https://cineplume.vedge.infomaniak.com/livecast/cineplume/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png" group-title="Exodiver",TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.star21tv.com/wp-content/uploads/2018/08/logostar21.png" group-title="Exodiver",Star21
+http://stream4.swecom.cm/star21/chunklist_b2038272.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="Exodiver",Vià Occitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
