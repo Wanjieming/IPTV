@@ -2956,6 +2956,741 @@ http://iptvservers.ddns.net:7899/catarinabarbosa2/Xtqmrewg21/246
 http://iptvservers.ddns.net:7899/catarinabarbosa2/Xtqmrewg21/1548
 #EXTINF:-1 tvg-ID="w9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="iptvservers",W9
 http://iptvservers.ddns.net:7899/catarinabarbosa2/Xtqmrewg21/341
+#EXTINF:-1 tvg-id="RTS Un HD" tvg-name="RTS Un HD" tvg-logo="http://195.154.221.171/picons/rtsunhdfr.png" group-title="VPN USER",RTS Un HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/424
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="RTS Deux HD" tvg-logo="http://195.154.221.171/picons/rtsdeuxhdfr.png" group-title="VPN USER",RTS Deux HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/423
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1" tvg-logo="http://195.154.221.171/picons/tf1fr.png" group-title="VPN USER",TF1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/440
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1 HD" tvg-logo="http://195.154.221.171/picons/tf1hdfr.png" group-title="VPN USER",TF1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/441
+#EXTINF:-1 tvg-id="France 2" tvg-name="France 2" tvg-logo="http://195.154.221.171/picons/france2.png" group-title="VPN USER",France 2
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/438
+#EXTINF:-1 tvg-id="France 2" tvg-name="France 2 HD" tvg-logo="http://195.154.221.171/picons/france2hd.png" group-title="VPN USER",France 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/439
+#EXTINF:-1 tvg-id="France 3" tvg-name="France 3" tvg-logo="http://195.154.221.171/picons/france3.png" group-title="VPN USER",France 3
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/436
+#EXTINF:-1 tvg-id="France 3" tvg-name="France 3 HD" tvg-logo="http://195.154.221.171/picons/france3hd.png" group-title="VPN USER",France 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/437
+#EXTINF:-1 tvg-id="France 4" tvg-name="France 4 HD" tvg-logo="http://195.154.221.171/picons/france4hd.png" group-title="VPN USER",France 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/435
+#EXTINF:-1 tvg-id="France 5" tvg-name="France 5" tvg-logo="http://195.154.221.171/picons/france5.png" group-title="VPN USER",France 5
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/434
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="http://195.154.221.171/picons/m6fr.png" group-title="VPN USER",M6
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/431
+#EXTINF:-1 tvg-id="M6" tvg-name="M6 HD" tvg-logo="http://195.154.221.171/picons/m6hdfr.png" group-title="VPN USER",M6 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/432
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy" tvg-logo="http://195.154.221.171/picons/syfyfr.png" group-title="VPN USER",Syfy
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1447
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="TFX FHD" tvg-logo="http://195.154.221.171/picons/nt1fr.png" group-title="VPN USER",TFX FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1406
+#EXTINF:-1 tvg-id="NT1" tvg-name="TFX" tvg-logo="http://195.154.221.171/picons/nt1hdfr.png" group-title="VPN USER",TFX
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1446
+#EXTINF:-1 tvg-id="W9" tvg-name="W9 HD" tvg-logo="http://195.154.221.171/picons/w9hdfr.png" group-title="VPN USER",W9 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/430
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="HD1" tvg-logo="http://195.154.221.171/picons/hd1fr.png" group-title="VPN USER",HD1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1473
+#EXTINF:-1 tvg-id="Canal 8" tvg-name="C-8 HD" tvg-logo="http://195.154.221.171/picons/c8hdfr.png" group-title="VPN USER",C-8 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/428
+#EXTINF:-1 tvg-id="Canal Star" tvg-name="C-Star" tvg-logo="http://195.154.221.171/picons/cstarfr.png" group-title="VPN USER",C-Star
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1401
+#EXTINF:-1 tvg-id="Canal Star" tvg-name="C-Star HD" tvg-logo="http://195.154.221.171/picons/cstarhdfr.png" group-title="VPN USER",C-Star HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1381
+#EXTINF:-1 tvg-id="6ter" tvg-name="6ter" tvg-logo="http://195.154.221.171/picons/6terfr.png" group-title="VPN USER",6ter
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/425
+#EXTINF:-1 tvg-id="6ter" tvg-name="6ter HD" tvg-logo="http://195.154.221.171/picons/6terhdfr.png" group-title="VPN USER",6ter HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/426
+#EXTINF:-1 tvg-id="RTL 9" tvg-name="RTL 9" tvg-logo="http://195.154.221.171/picons/rtl9fr.png" group-title="VPN USER",RTL 9
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1442
+#EXTINF:-1 tvg-id="Cherie 25" tvg-name="Chérie 25" tvg-logo="http://195.154.221.171/picons/cherie25fr.png" group-title="VPN USER",Chérie 25
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1444
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="13eme Rue" tvg-logo="http://195.154.221.171/picons/13emeruefr.png" group-title="VPN USER",13eme Rue
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1452
+#EXTINF:-1 tvg-id="AB1 HD" tvg-name="AB1 HD" tvg-logo="http://195.154.221.171/picons/ab1fr.png" group-title="VPN USER",AB1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1405
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="AB3" tvg-logo="http://195.154.221.171/picons/ab3fr.png" group-title="VPN USER",AB3
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4077
+#EXTINF:-1 tvg-id="NRJ 12" tvg-name="NRJ 12 HD" tvg-logo="http://195.154.221.171/picons/nrj12fr.png" group-title="VPN USER",NRJ 12 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1443
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://195.154.221.171/picons/efr.png" group-title="VPN USER",E!
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1379
+#EXTINF:-1 tvg-id="ElleGirl" tvg-name="Elle Girl HD" tvg-logo="http://195.154.221.171/picons/ellegirl.png" group-title="VPN USER",Elle Girl HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/8785
+#EXTINF:-1 tvg-id="Seasons" tvg-name="Seasons HD" tvg-logo="http://195.154.221.171/picons/seasons.png" group-title="VPN USER",Seasons HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1433
+#EXTINF:-1 tvg-id="serieclub" tvg-name="serieclub" tvg-logo="http://195.154.221.171/picons/serieclubfr.png" group-title="VPN USER",serieclub
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1449
+#EXTINF:-1 tvg-id="ComediePlus" tvg-name="Comédie+ HD" tvg-logo="http://195.154.221.171/picons/comedieplusfr.png" group-title="VPN USER",Comédie+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1410
+#EXTINF:-1 tvg-id="CANALPlus" tvg-name="CANAL+ HD" tvg-logo="http://195.154.221.171/picons/canalplushdfr.png" group-title="VPN USER",CANAL+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1471
+#EXTINF:-1 tvg-id="CANALPlus Cinema" tvg-name="CANAL+ Cinema HD" tvg-logo="http://195.154.221.171/picons/canalpluscinemahdfr.png" group-title="VPN USER",CANAL+ Cinema HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1470
+#EXTINF:-1 tvg-id="CANALPlus Decale" tvg-name="CANAL+ Decale HD" tvg-logo="http://195.154.221.171/picons/canalplusdecalehdfr.png" group-title="VPN USER",CANAL+ Decale HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1469
+#EXTINF:-1 tvg-id="CANALPlus Family" tvg-name="CANAL+ Family HD" tvg-logo="http://195.154.221.171/picons/canalplusfamilyhdfr.png" group-title="VPN USER",CANAL+ Family HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1468
+#EXTINF:-1 tvg-id="CANALPlus Series" tvg-name="CANAL+ Series HD" tvg-logo="http://195.154.221.171/picons/canalplusserieshdfr.png" group-title="VPN USER",CANAL+ Series HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1466
+#EXTINF:-1 tvg-id="CinePlus Classic" tvg-name="Ciné+ Classic HD" tvg-logo="http://195.154.221.171/picons/cineplusclassichdfr.png" group-title="VPN USER",Ciné+ Classic HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1462
+#EXTINF:-1 tvg-id="Cine FX" tvg-name="Ciné FX HD" tvg-logo="http://195.154.221.171/picons/cinefxfr.png" group-title="VPN USER",Ciné FX HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1459
+#EXTINF:-1 tvg-id="Cine Polar" tvg-name="Ciné Polar HD" tvg-logo="http://195.154.221.171/picons/cinepolarfr.png" group-title="VPN USER",Ciné Polar HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1460
+#EXTINF:-1 tvg-id="CinePlus Emotion HD" tvg-name="Ciné+ Emotion HD" tvg-logo="http://195.154.221.171/picons/cineplusemotionhdfr.png" group-title="VPN USER",Ciné+ Emotion HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1464
+#EXTINF:-1 tvg-id="CinePlus Famiz HD" tvg-name="Ciné+ Famiz" tvg-logo="http://195.154.221.171/picons/cineplusfamizfr.png" group-title="VPN USER",Ciné+ Famiz
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1467
+#EXTINF:-1 tvg-id="CinePlus Famiz HD" tvg-name="Ciné+ Famiz HD" tvg-logo="http://195.154.221.171/picons/cineplusfamizhdfr.png" group-title="VPN USER",Ciné+ Famiz HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4102
+#EXTINF:-1 tvg-id="CinePlusisson HD" tvg-name="Ciné+isson HD" tvg-logo="http://195.154.221.171/picons/cineplusfrissonhdfr.png" group-title="VPN USER",Ciné+isson HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1465
+#EXTINF:-1 tvg-id="CinePlus Premier HD" tvg-name="Ciné+ Premier HD" tvg-logo="http://195.154.221.171/picons/cinepluspremierhdfr.png" group-title="VPN USER",Ciné+ Premier HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1463
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 1 HD" tvg-logo="http://195.154.221.171/picons/canalplay.png" group-title="VPN USER",Canal Play 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4126
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2 HD" tvg-logo="http://195.154.221.171/picons/canalplay.png" group-title="VPN USER",Canal Play 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4125
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 3 HD" tvg-logo="http://195.154.221.171/picons/canalplay.png" group-title="VPN USER",Canal Play 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4124
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 4 HD" tvg-logo="http://195.154.221.171/picons/canalplay.png" group-title="VPN USER",Canal Play 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4123
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 5 HD" tvg-logo="http://195.154.221.171/picons/canalplay.png" group-title="VPN USER",Canal Play 5 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4122
+#EXTINF:-1 tvg-id="" tvg-name="À La Carte 1 HD" tvg-logo="http://195.154.221.171/picons/alacarte.png" group-title="VPN USER",À La Carte 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4141
+#EXTINF:-1 tvg-id="" tvg-name="À La Carte 2 HD" tvg-logo="http://195.154.221.171/picons/alacarte.png" group-title="VPN USER",À La Carte 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4140
+#EXTINF:-1 tvg-id="" tvg-name="À La Carte 3 HD" tvg-logo="http://195.154.221.171/picons/alacarte.png" group-title="VPN USER",À La Carte 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4139
+#EXTINF:-1 tvg-id="" tvg-name="À La Carte 4 HD" tvg-logo="http://195.154.221.171/picons/alacarte.png" group-title="VPN USER",À La Carte 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4138
+#EXTINF:-1 tvg-id="" tvg-name="À La Carte 5 HD" tvg-logo="http://195.154.221.171/picons/alacarte.png" group-title="VPN USER",À La Carte 5 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4137
+#EXTINF:-1 tvg-id="OCS Choc" tvg-name="OCS Choc FHD" tvg-logo="http://195.154.221.171/picons/ocschochd.png" group-title="VPN USER",OCS Choc FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1454
+#EXTINF:-1 tvg-id="OCS City" tvg-name="OCS City" tvg-logo="http://195.154.221.171/picons/ocscityfr.png" group-title="VPN USER",OCS City
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1455
+#EXTINF:-1 tvg-id="OCS Geants" tvg-name="OCS Geants" tvg-logo="http://195.154.221.171/picons/ocsgeantsfr.png" group-title="VPN USER",OCS Geants
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1456
+#EXTINF:-1 tvg-id="OCS Max" tvg-name="OCS Max" tvg-logo="http://195.154.221.171/picons/ocsmaxfr.png" group-title="VPN USER",OCS Max
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1458
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 1 HD" tvg-logo="http://195.154.221.171/picons/ocsgo.png" group-title="VPN USER",OCS Go Cinema 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4131
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 2 HD" tvg-logo="http://195.154.221.171/picons/ocsgo.png" group-title="VPN USER",OCS Go Cinema 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4130
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 4 HD" tvg-logo="http://195.154.221.171/picons/ocsgo.png" group-title="VPN USER",OCS Go Cinema 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4128
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 5 HD" tvg-logo="http://195.154.221.171/picons/ocsgo.png" group-title="VPN USER",OCS Go Cinema 5 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4127
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4136
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 2 HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4135
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4134
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4133
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema 5 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4132
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Action HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema Action HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4066
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema Aventure HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4067
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4068
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Horreur HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Cinema Horreur HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4069
+#EXTINF:-1 tvg-id="" tvg-name="Orange Comment C'Est Fait HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Comment C'Est Fait HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4064
+#EXTINF:-1 tvg-id="" tvg-name="Orange Documentaire HD" tvg-logo="http://195.154.221.171/picons/orange.png" group-title="VPN USER",Orange Documentaire HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4063
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="http://195.154.221.171/picons/paramountchannelhdfr.png" group-title="VPN USER",Paramount Channel HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4050
+#EXTINF:-1 tvg-id="TCM Cinema" tvg-name="TCM Cinéma HD" tvg-logo="http://195.154.221.171/picons/tcmcinemahdfr.png" group-title="VPN USER",TCM Cinéma HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1461
+#EXTINF:-1 tvg-id="TMC" tvg-name="TMC FHD" tvg-logo="http://195.154.221.171/picons/tmcfr.png" group-title="VPN USER",TMC FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1448
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="Boing" tvg-logo="http://195.154.221.171/picons/boingfr.png" group-title="VPN USER",Boing
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1408
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang FHD" tvg-logo="http://195.154.221.171/picons/boomerangfr.png" group-title="VPN USER",Boomerang FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4052
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://195.154.221.171/picons/cartoonnetworkfr.png" group-title="VPN USER",Cartoon Network
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1412
+#EXTINF:-1 tvg-id="Gulli" tvg-name="Gulli" tvg-logo="http://195.154.221.171/picons/gullihdfr.png" group-title="VPN USER",Gulli
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1417
+#EXTINF:-1 tvg-id="PiwiPlus" tvg-name="Piwi+ HD" tvg-logo="http://195.154.221.171/picons/piwiplusfr.png" group-title="VPN USER",Piwi+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1418
+#EXTINF:-1 tvg-id="TeleToonPlus" tvg-name="téléTOON+ HD" tvg-logo="http://195.154.221.171/picons/teletoonplusfr.png" group-title="VPN USER",téléTOON+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1416
+#EXTINF:-1 tvg-id="TIJI" tvg-name="Tiji FHD" tvg-logo="http://195.154.221.171/picons/tijifr.png" group-title="VPN USER",Tiji FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1419
+#EXTINF:-1 tvg-id="Canal J" tvg-name="Canal J FHD" tvg-logo="http://195.154.221.171/picons/canaljfr.png" group-title="VPN USER",Canal J FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1420
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://195.154.221.171/picons/disneychannelfr.png" group-title="VPN USER",Disney Channel HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1411
+#EXTINF:-1 tvg-id="Disney Channel Plus1" tvg-name="Disney Channel +1" tvg-logo="http://195.154.221.171/picons/disneychannelplus1fr.png" group-title="VPN USER",Disney Channel +1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4053
+#EXTINF:-1 tvg-id="Disney Cinema HD" tvg-name="Disney Cinema" tvg-logo="http://195.154.221.171/picons/disneycinemafr.png" group-title="VPN USER",Disney Cinema
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1413
+#EXTINF:-1 tvg-id="Disney Cinema HD" tvg-name="Disney Cinema HD" tvg-logo="http://195.154.221.171/picons/disneycinemahdfr.png" group-title="VPN USER",Disney Cinema HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1414
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="http://195.154.221.171/picons/disneyjuniorfr.png" group-title="VPN USER",Disney Junior HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1415
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD" tvg-logo="http://195.154.221.171/picons/disneyxdfr.png" group-title="VPN USER",Disney XD HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1376
+#EXTINF:-1 tvg-id="Mangas" tvg-name="Mangas HD" tvg-logo="http://195.154.221.171/picons/mangasfr.png" group-title="VPN USER",Mangas HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1409
+#EXTINF:-1 tvg-id="J-One" tvg-name="J-One" tvg-logo="http://195.154.221.171/picons/jonefr.png" group-title="VPN USER",J-One
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1438
+#EXTINF:-1 tvg-id="Game One" tvg-name="Game One" tvg-logo="http://195.154.221.171/picons/gameonefr.png" group-title="VPN USER",Game One
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1400
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://195.154.221.171/picons/discoverychannelhdfr.png" group-title="VPN USER",Discovery Channel HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1423
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science HD" tvg-logo="http://195.154.221.171/picons/discoverysciencehdfr.png" group-title="VPN USER",Discovery Science HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1424
+#EXTINF:-1 tvg-id="Discovery Investigation" tvg-name="Investigation Discovery HD" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryhdfr.png" group-title="VPN USER",Investigation Discovery HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1422
+#EXTINF:-1 tvg-id="PlanetePlus" tvg-name="Planète+ HD" tvg-logo="http://195.154.221.171/picons/planeteplushdfr.png" group-title="VPN USER",Planète+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1431
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience" tvg-name="Planète+ Aventure Expérience HD" tvg-logo="http://195.154.221.171/picons/planeteplusaandehdfr.png" group-title="VPN USER",Planète+ Aventure Expérience HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1429
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation" tvg-name="Planète+ Crime+Investigation HD" tvg-logo="http://195.154.221.171/picons/planetepluscihdfr.png" group-title="VPN USER",Planète+ Crime+Investigation HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1430
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://195.154.221.171/picons/nationalgeographichdfr.png" group-title="VPN USER",National Geographic HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1425
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://195.154.221.171/picons/natgeowildhdfr.png" group-title="VPN USER",Nat Geo Wild HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1426
+#EXTINF:-1 tvg-id="Action" tvg-name="Action" tvg-logo="http://195.154.221.171/picons/actionfr.png" group-title="VPN USER",Action
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1453
+#EXTINF:-1 tvg-id="Animaux" tvg-name="Animaux HD" tvg-logo="http://195.154.221.171/picons/animauxfr.png" group-title="VPN USER",Animaux HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1435
+#EXTINF:-1 tvg-id="Arte" tvg-name="Arte" tvg-logo="http://195.154.221.171/picons/artefr.png" group-title="VPN USER",Arte
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1440
+#EXTINF:-1 tvg-id="AB Moteurs" tvg-name="AUTOMOTO TV" tvg-logo="http://195.154.221.171/picons/abmoteursfr.png" group-title="VPN USER",AUTOMOTO TV
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1385
+#EXTINF:-1 tvg-id="Chasse et peche" tvg-name="Chasse et Pêche" tvg-logo="http://195.154.221.171/picons/chasseetpechefr.png" group-title="VPN USER",Chasse et Pêche
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1434
+#EXTINF:-1 tvg-id="KTO" tvg-name="KTO" tvg-logo="http://195.154.221.171/picons/ktofr.png" group-title="VPN USER",KTO
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4041
+#EXTINF:-1 tvg-id="M6 Music" tvg-name="M6 Music" tvg-logo="http://195.154.221.171/picons/m6musicfr.png" group-title="VPN USER",M6 Music
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1397
+#EXTINF:-1 tvg-id="MCM HD" tvg-name="MCM HD" tvg-logo="http://195.154.221.171/picons/mcm.png" group-title="VPN USER",MCM HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1395
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="http://195.154.221.171/picons/mezzolivehdfr.png" group-title="VPN USER",Mezzo Live HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4080
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV" tvg-logo="http://195.154.221.171/picons/mtvfr.png" group-title="VPN USER",MTV
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4055
+#EXTINF:-1 tvg-id="MTV Base" tvg-name="MTV Base" tvg-logo="http://195.154.221.171/picons/mtvbasefr.png" group-title="VPN USER",MTV Base
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4056
+#EXTINF:-1 tvg-id="MTV Hits HD" tvg-name="MTV Hits" tvg-logo="http://195.154.221.171/picons/mtvhitsfr.png" group-title="VPN USER",MTV Hits
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4057
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music" tvg-logo="http://195.154.221.171/picons/mtvmusicfr.png" group-title="VPN USER",MTV Music
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4058
+#EXTINF:-1 tvg-id="NRJ Hits" tvg-name="NRJ Hits HD" tvg-logo="http://195.154.221.171/picons/nrjhitsfr.png" group-title="VPN USER",NRJ Hits HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4059
+#EXTINF:-1 tvg-id="Trace Urban HD" tvg-name="Trace Urban" tvg-logo="http://195.154.221.171/picons/traceurbanfr.png" group-title="VPN USER",Trace Urban
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4075
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1" tvg-logo="http://195.154.221.171/picons/beinsports1fr.png" group-title="VPN USER",beIN SPORTS 1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/417
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1 SD+" tvg-logo="http://195.154.221.171/picons/beinsports1fr.png" group-title="VPN USER",beIN SPORTS 1 SD+
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/7538
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://195.154.221.171/picons/beinsports1hdfr.png" group-title="VPN USER",beIN SPORTS 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/418
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" tvg-logo="http://195.154.221.171/picons/beinsports2fr.png" group-title="VPN USER",beIN SPORTS 2
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/415
+#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://195.154.221.171/picons/beinsports2hdfr.png" group-title="VPN USER",beIN SPORTS 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/416
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3" tvg-logo="http://195.154.221.171/picons/beinsports3fr.png" group-title="VPN USER",beIN SPORTS 3
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/413
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://195.154.221.171/picons/beinsports3hdfr.png" group-title="VPN USER",beIN SPORTS 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/414
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4" tvg-name="beIN SPORTS MAX 4 HD" tvg-logo="http://195.154.221.171/picons/beinsportsmax4hdfr.png" group-title="VPN USER",beIN SPORTS MAX 4 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4090
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5" tvg-name="beIN SPORTS MAX 5 HD" tvg-logo="http://195.154.221.171/picons/beinsportsmax5hdfr.png" group-title="VPN USER",beIN SPORTS MAX 5 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4089
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6" tvg-name="beIN SPORTS MAX 6 HD" tvg-logo="http://195.154.221.171/picons/beinsportsmax6hdfr.png" group-title="VPN USER",beIN SPORTS MAX 6 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4088
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7" tvg-name="beIN SPORTS MAX 7 HD" tvg-logo="http://195.154.221.171/picons/beinsportsmax7hdfr.png" group-title="VPN USER",beIN SPORTS MAX 7 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4087
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8" tvg-name="beIN SPORTS MAX 8" tvg-logo="http://195.154.221.171/picons/beinsportsmax8.png" group-title="VPN USER",beIN SPORTS MAX 8
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/7536
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8" tvg-name="beIN SPORTS MAX 8 HD" tvg-logo="http://195.154.221.171/picons/beinsportsmax8hd.png" group-title="VPN USER",beIN SPORTS MAX 8 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/7537
+#EXTINF:-1 tvg-id="Equidia Live HD" tvg-name="Equidia HD" tvg-logo="http://195.154.221.171/picons/equidia.png" group-title="VPN USER",Equidia HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1402
+#EXTINF:-1 tvg-id="Equidia Live HD" tvg-name="Equidia" tvg-logo="http://195.154.221.171/picons/equidia.png" group-title="VPN USER",Equidia
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1386
+#EXTINF:-1 tvg-id="CANALPlus Sport" tvg-name="CANAL+ Sport HD" tvg-logo="http://195.154.221.171/picons/canalplussporthdfr.png" group-title="VPN USER",CANAL+ Sport HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1392
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://195.154.221.171/picons/eurosport1fr.png" group-title="VPN USER",Eurosport 1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1389
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="http://195.154.221.171/picons/eurosport2fr.png" group-title="VPN USER",Eurosport 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1388
+#EXTINF:-1 tvg-id="FootPlus 2424" tvg-name="FOOT+ 24/24" tvg-logo="http://195.154.221.171/picons/footplus2424fr.png" group-title="VPN USER",FOOT+ 24/24
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1390
+#EXTINF:-1 tvg-id="GolfPlus" tvg-name="GOLF+ HD" tvg-logo="http://195.154.221.171/picons/golfplushd.png" group-title="VPN USER",GOLF+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/8786
+#EXTINF:-1 tvg-id="InfosportPlus" tvg-name="InfoSport+ HD" tvg-logo="http://195.154.221.171/picons/infosportplusfr.png" group-title="VPN USER",InfoSport+ HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4047
+#EXTINF:-1 tvg-id="RMC Sport 1" tvg-name="RMC Sport 1 HD" tvg-logo="http://195.154.221.171/picons/rmcsport1.png" group-title="VPN USER",RMC Sport 1 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1170
+#EXTINF:-1 tvg-id="RMC Sport 2" tvg-name="RMC Sport 2 HD" tvg-logo="http://195.154.221.171/picons/rmcsport2.png" group-title="VPN USER",RMC Sport 2 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1169
+#EXTINF:-1 tvg-id="RMC Sport 3" tvg-name="RMC Sport 3 HD" tvg-logo="http://195.154.221.171/picons/rmcsport3.png" group-title="VPN USER",RMC Sport 3 HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1168
+#EXTINF:-1 tvg-id="Canal News" tvg-name="C-News" tvg-logo="http://195.154.221.171/picons/cnewshdfr.png" group-title="VPN USER",C-News
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/422
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="http://195.154.221.171/picons/euronewsfr.png" group-title="VPN USER",Euronews
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/420
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="http://195.154.221.171/picons/france24fr.png" group-title="VPN USER",France 24
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/419
+#EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info" tvg-logo="http://195.154.221.171/picons/franceinfofr.png" group-title="VPN USER",France Info
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1398
+#EXTINF:-1 tvg-id="France O" tvg-name="France Ô" tvg-logo="http://195.154.221.171/picons/franceo.png" group-title="VPN USER",France Ô
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/433
+#EXTINF:-1 tvg-id="I24news" tvg-name="i24NEWS" tvg-logo="http://195.154.221.171/picons/i24newsfr.png" group-title="VPN USER",i24NEWS
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4062
+#EXTINF:-1 tvg-id="Africa 24" tvg-name="Africa 24" tvg-logo="http://195.154.221.171/picons/africa24fr.png" group-title="VPN USER",Africa 24
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1404
+#EXTINF:-1 tvg-id="Alsace 20" tvg-name="Alsace 20" tvg-logo="http://195.154.221.171/picons/alsace20fr.png" group-title="VPN USER",Alsace 20
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4070
+#EXTINF:-1 tvg-id="Histoire" tvg-name="Histoire" tvg-logo="http://195.154.221.171/picons/histoirefr.png" group-title="VPN USER",Histoire
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1437
+#EXTINF:-1 tvg-id="Canal Alpha JU HD" tvg-name="Canal Alpha JU" tvg-logo="http://195.154.221.171/picons/canalalphajufr.png" group-title="VPN USER",Canal Alpha JU
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4079
+#EXTINF:-1 tvg-id="LEquipe 21" tvg-name="L'Equipe 21" tvg-logo="http://195.154.221.171/picons/lequipe21fr.png" group-title="VPN USER",L'Equipe 21
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1387
+#EXTINF:-1 tvg-id="BFM Business" tvg-name="BFM Business HD" tvg-logo="http://195.154.221.171/picons/bfmbusiness.png" group-title="VPN USER",BFM Business HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/8788
+#EXTINF:-1 tvg-id="BFM TV" tvg-name="BFM TV HD" tvg-logo="http://195.154.221.171/picons/bfmtvfr.png" group-title="VPN USER",BFM TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/421
+#EXTINF:-1 tvg-id="BET HD" tvg-name="Bet HD" tvg-logo="http://195.154.221.171/picons/bet.png" group-title="VPN USER",Bet HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/8784
+#EXTINF:-1 tvg-id="Weo TV" tvg-name="Weo HD" tvg-logo="http://195.154.221.171/picons/weofr.png" group-title="VPN USER",Weo HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1441
+#EXTINF:-1 tvg-id="La Chaine Normande TV" tvg-name="La Chaîne Normande TV" tvg-logo="http://195.154.221.171/picons/lachainenormandetvfr.png" group-title="VPN USER",La Chaîne Normande TV
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4073
+#EXTINF:-1 tvg-id="La Une" tvg-name="La Une HD" tvg-logo="http://195.154.221.171/picons/rtbflaunehdfr.png" group-title="VPN USER",La Une HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1382
+#EXTINF:-1 tvg-id="Numero 23" tvg-name="Numéro 23" tvg-logo="http://195.154.221.171/picons/numero23fr.png" group-title="VPN USER",Numéro 23
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1450
+#EXTINF:-1 tvg-id="OLTV" tvg-name="OL TV HD" tvg-logo="http://195.154.221.171/picons/oltvhd.png" group-title="VPN USER",OL TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4048
+#EXTINF:-1 tvg-id="Paris Premiere" tvg-name="Paris Premiere HD" tvg-logo="http://195.154.221.171/picons/parispremierefr.png" group-title="VPN USER",Paris Premiere HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1457
+#EXTINF:-1 tvg-id="RFM TV HD" tvg-name="RFM TV HD" tvg-logo="http://195.154.221.171/picons/rfmtv.png" group-title="VPN USER",RFM TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1380
+#EXTINF:-1 tvg-id="RMC Decouverte" tvg-name="RMC Decouverte HD" tvg-logo="http://195.154.221.171/picons/rmcdecouvertehd.png" group-title="VPN USER",RMC Decouverte HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1384
+#EXTINF:-1 tvg-id="Science and Vie TV" tvg-name="Science & Vie TV FHD" tvg-logo="http://195.154.221.171/picons/scienceandvietvfr.png" group-title="VPN USER",Science & Vie TV FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1428
+#EXTINF:-1 tvg-id="13eme Rue HD" tvg-name="Stingray Brava" tvg-logo="http://195.154.221.171/picons/stingraybravafr.png" group-title="VPN USER",Stingray Brava
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1403
+#EXTINF:-1 tvg-id="Toute lhistoire" tvg-name="Toute l'Histoire" tvg-logo="http://195.154.221.171/picons/toutelhistoirefr.png" group-title="VPN USER",Toute l'Histoire
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1427
+#EXTINF:-1 tvg-id="Trek" tvg-name="Trek HD" tvg-logo="http://195.154.221.171/picons/trekhdfr.png" group-title="VPN USER",Trek HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4119
+#EXTINF:-1 tvg-id="TvBreizh" tvg-name="TVBreizh FHD" tvg-logo="http://195.154.221.171/picons/tvbreizhhd.png" group-title="VPN USER",TVBreizh FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4076
+#EXTINF:-1 tvg-id="TvBreizh" tvg-name="TVBreizh" tvg-logo="http://195.154.221.171/picons/tvbreizh.png" group-title="VPN USER",TVBreizh
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1451
+#EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5 Monde HD" tvg-logo="http://195.154.221.171/picons/tv5mondefr.png" group-title="VPN USER",TV5 Monde HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1439
+#EXTINF:-1 tvg-id="Teva" tvg-name="téva" tvg-logo="http://195.154.221.171/picons/tevafr.png" group-title="VPN USER",téva
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1445
+#EXTINF:-1 tvg-id="Teva" tvg-name="téva HD" tvg-logo="http://195.154.221.171/picons/tevahdfr.png" group-title="VPN USER",téva HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/4114
+#EXTINF:-1 tvg-id="Ushuaia TV" tvg-name="Ushuaïa TV" tvg-logo="http://195.154.221.171/picons/ushuaiatvfr.png" group-title="VPN USER",Ushuaïa TV
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1436
+#EXTINF:-1 tvg-id="Voyage HD" tvg-name="Voyage" tvg-logo="http://195.154.221.171/picons/voyagefr.png" group-title="VPN USER",Voyage
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1432
+#EXTINF:-1 tvg-id="Vosges TV" tvg-name="Vosges Télévision HD" tvg-logo="http://195.154.221.171/picons/vosgestelevisionhdfr.png" group-title="VPN USER",Vosges Télévision HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/1421
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" tvg-logo="" group-title="VPN USER",MULTISPORTS 1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77675
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" tvg-logo="" group-title="VPN USER",MULTISPORTS 2
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77676
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" tvg-logo="" group-title="VPN USER",MULTISPORTS 3
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77677
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" tvg-logo="" group-title="VPN USER",MULTISPORTS 4
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77678
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" tvg-logo="" group-title="VPN USER",MULTISPORTS 5
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77679
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" tvg-logo="" group-title="VPN USER",MULTISPORTS 6
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/77680
+#EXTINF:-1 tvg-id="" tvg-name="LCI FHD" tvg-logo="" group-title="VPN USER",LCI FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/78592
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="VPN USER",LCI HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/78593
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY FHD" tvg-logo="" group-title="VPN USER",DISCOVERY FAMILY FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80104
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE+1 FHD" tvg-logo="" group-title="VPN USER",GAME ONE+1 FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80165
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY TV HD" tvg-logo="" group-title="VPN USER",MY COMEDY TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80166
+#EXTINF:-1 tvg-id="" tvg-name="EXTRÊME SPORTS FHD" tvg-logo="" group-title="VPN USER",EXTRÊME SPORTS FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80167
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV HD" tvg-logo="" group-title="VPN USER",CLIQUE TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80168
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINA HD" tvg-logo="" group-title="VPN USER",TRACE LATINA HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80169
+#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL" tvg-logo="" group-title="VPN USER",TRACE GOSPEL
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80170
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI HD" tvg-logo="" group-title="VPN USER",TRACE MZIKI HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80171
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA HD" tvg-logo="" group-title="VPN USER",TRACE NAIJA HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80172
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA HD" tvg-logo="" group-title="VPN USER",TRACE TOCA HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80173
+#EXTINF:-1 tvg-id="" tvg-name="OKLM HD" tvg-logo="" group-title="VPN USER",OKLM HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80174
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="VPN USER",VH1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80175
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="VPN USER",VH1 CLASSIC
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80176
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIA HD" tvg-logo="" group-title="VPN USER",OLYMPIA HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80177
+#EXTINF:-1 tvg-id="" tvg-name="DJAZZ TV FHD" tvg-logo="" group-title="VPN USER",DJAZZ TV FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80178
+#EXTINF:-1 tvg-id="" tvg-name="STINGRAY CLASSICA FHD" tvg-logo="" group-title="VPN USER",STINGRAY CLASSICA FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80179
+#EXTINF:-1 tvg-id="" tvg-name="M6 BOUTIQUE & CO HD" tvg-logo="" group-title="VPN USER",M6 BOUTIQUE & CO HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80180
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 NOA FHD" tvg-logo="" group-title="VPN USER",FRANCE 3 NOA FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80181
+#EXTINF:-1 tvg-id="" tvg-name="LUCKY JACK TV FHD" tvg-logo="" group-title="VPN USER",LUCKY JACK TV FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80182
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO FHD" tvg-logo="" group-title="VPN USER",LA CHAINE METEO FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80185
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS FHD" tvg-logo="" group-title="VPN USER",BFM PARIS FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80186
+#EXTINF:-1 tvg-id="" tvg-name="BFM LYON FHD" tvg-logo="" group-title="VPN USER",BFM LYON FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80187
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS FHD" tvg-logo="" group-title="VPN USER",CNEWS FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80188
+#EXTINF:-1 tvg-id="" tvg-name="BFM GRAND LITTORAL FHD" tvg-logo="" group-title="VPN USER",BFM GRAND LITTORAL FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80189
+#EXTINF:-1 tvg-id="" tvg-name="DEMAIN ! IDF FHD" tvg-logo="" group-title="VPN USER",DEMAIN ! IDF FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80190
+#EXTINF:-1 tvg-id="" tvg-name="C-STAR HITS FHD" tvg-logo="" group-title="VPN USER",C-STAR HITS FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/80191
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE INFO FHD" tvg-logo="" group-title="VPN USER",TV5 MONDE INFO FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/83212
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV FHD" tvg-logo="" group-title="VPN USER",WARNER TV FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/83571
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="" group-title="VPN USER",WARNER TV HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/83572
+#EXTINF:-1 tvg-id="" tvg-name="CGTNançais" tvg-logo="" group-title="VPN USER",CGTNançais
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/83573
+#EXTINF:-1 tvg-id="" tvg-name="RTANCE HD" tvg-logo="" group-title="VPN USER",RTANCE HD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/83574
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="VPN USER",MEZZO
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89977
+#EXTINF:-1 tvg-id="France 4" tvg-name="France 4" tvg-logo="http://195.154.221.171/picons/france4hd.png" group-title="VPN USER",France 4
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89980
+#EXTINF:-1 tvg-id="France 4" tvg-name="France 4 FHD" tvg-logo="http://195.154.221.171/picons/france4hd.png" group-title="VPN USER",France 4 FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89981
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1" tvg-logo="" group-title="VPN USER",TF1 +1
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89987
+#EXTINF:-1 tvg-id="" tvg-name="TMC +1 FHD" tvg-logo="" group-title="VPN USER",TMC +1 FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89988
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="" group-title="VPN USER",Clubbing TV
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89989
+#EXTINF:-1 tvg-id="" tvg-name="ES1 FHD" tvg-logo="" group-title="VPN USER",ES1 FHD
+http://client.vpnuser.ws:8080/xKsHNoip1S/BAiULpe45q/89991
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR: Bein max 4" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/aa/ca/c5/aacac540-da48-2fd1-0eaa-d28e56f61e33/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="CaribbeanRoots", Bein max 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/2865
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name="FR : EURONEWS" tvg-logo="https://static.euronews.com/articles/332964/602x338_332964.jpg" group-title="CaribbeanRoots", EURONEWS
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1550
+#EXTINF:-1 tvg-ID="france.3.fr" tvg-name="FR: FRANCE 3" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/france-3-tv-1-logo-png-transparent.png" group-title="CaribbeanRoots", FRANCE 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/529
+#EXTINF:-1 tvg-ID="rtl.9.fr" tvg-name="FR: RTL9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CaribbeanRoots", RTL9
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/246
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="FR: TELETOON + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="CaribbeanRoots", TELETOON + FHD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1548
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="FR: W9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="CaribbeanRoots", W9
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/341
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="FR: BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CaribbeanRoots", BOOMERANG HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5863
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="FR: Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="CaribbeanRoots", Boing
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5864
+#EXTINF:-1 tvg-ID="cartoon.network.fr" tvg-name="FR:  Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="CaribbeanRoots",  Cartoon Network HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1547
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="CaribbeanRoots", Discovery Science HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1528
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="FR:  Disney Jr Fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Disney_Channel_logo_%282014%29.svg" group-title="CaribbeanRoots",  Disney Jr Fr
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1546
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR:  Nat Geo HD" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-05-30/2784113-nat-geo-wildsvg.png" group-title="CaribbeanRoots",  Nat Geo HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1535
+#EXTINF:-1 tvg-ID="nat.geo.wild.fr" tvg-name="FR:  Nat Geo Wild  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="CaribbeanRoots",  Nat Geo Wild  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1534
+#EXTINF:-1 tvg-ID="nrj.12.fr" tvg-name="FR:  NRJ12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/NRJ_12_2015_logo.png" group-title="CaribbeanRoots",  NRJ12 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1540
+#EXTINF:-1 tvg-ID="13e Rue" tvg-name="FR: 13 EME RUE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/13%C3%A8me_Rue_Universal.svg/875px-13%C3%A8me_Rue_Universal.svg.png" group-title="CaribbeanRoots", 13 EME RUE HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4961
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="CaribbeanRoots", 6TER HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/248
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 10" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A LA CARTE 10
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1554
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A LA CARTE 7
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1557
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A LA CARTE 8
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1556
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A LA CARTE 9
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1555
+#EXTINF:-1 tvg-ID="abmoteurs.fr" tvg-name="FR: AB Moteur HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/AB_Moteurs_%282012%29.png" group-title="CaribbeanRoots", AB Moteur HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4976
+#EXTINF:-1 tvg-ID="ab.1.fr" tvg-name="FR: AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/AB1_logo.svg/1200px-AB1_logo.svg.png" group-title="CaribbeanRoots", AB1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4966
+#EXTINF:-1 tvg-ID="ab.3.fr" tvg-name="FR: AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/AB3.svg/1280px-AB3.svg.png" group-title="CaribbeanRoots", AB3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4968
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="FR: ACTION" tvg-logo="http://iptvreseller.xyz:1234/Anh/action.png" group-title="CaribbeanRoots", ACTION
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4973
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="FR: ANIMAUX" tvg-logo="http://2.bp.blogspot.com/-9zdWw1LKd7s/TmEaHQVyWdI/AAAAAAAACEQ/9rUQqHksAXg/w1200-h630-p-k-no-nu/Animaux+logo+2011.png" group-title="CaribbeanRoots", ANIMAUX
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4985
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="FR: ARTE HD" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/21Bi8Ld1cyL.png" group-title="CaribbeanRoots", ARTE HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4405
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 9" tvg-name="FR: Bein Sport Max 9 HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 9 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5622
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 8" tvg-name="FR: Bein Sport Max 8" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 8
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5621
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 7" tvg-name="FR: Bein Sport Max 7" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 7
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5620
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 6" tvg-name="FR: Bein Sport Max 6" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5619
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 5" tvg-name="FR: Bein Sport Max 5" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 5
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5618
+#EXTINF:-1 tvg-ID="BEIN SPORTS MAX 10" tvg-name="FR: Bein Sport Max 10" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/ee/75/87/ee7587a7-619a-e6af-f62c-fb13bdeac5da/mza_6927541589610683696.jpg/268x0w.jpg" group-title="CaribbeanRoots", Bein Sport Max 10
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5623
+#EXTINF:-1 tvg-ID="D8" tvg-name="FR: D8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Logo_D8.png" group-title="CaribbeanRoots", D8
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/243
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="FR: C8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/C8_logo.jpg" group-title="CaribbeanRoots", C8
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4993
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema" tvg-logo="http://www.premiere.fr/sites/default/files/styles/scale_crop_1280x720/public/2018-04/Canal-cinema-Decouvrez-les-nouveautes-de-la-chaine-consacree-au-7eme-art.jpg" group-title="CaribbeanRoots", Canal  Cinema
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/255
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Decale" tvg-logo="http://www.kingofsat.net/jpg/cplusdecale.jpg" group-title="CaribbeanRoots", Canal  Decale
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/254
+#EXTINF:-1 tvg-ID="canal+.family.fr" tvg-name="FR: Canal  Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Canal%2B_Family_2013.png" group-title="CaribbeanRoots", Canal  Family
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/253
+#EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png/200px-Logo-Canal%2B-Ellipse-Etienne-Robial-1984.png" group-title="CaribbeanRoots", Canal  Series
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/252
+#EXTINF:-1 tvg-ID="canal+.sport.fr" tvg-name="FR: Canal  Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="CaribbeanRoots", Canal  Sport
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/251
+#EXTINF:-1 tvg-ID="canal.j.fr" tvg-name="FR: CANAL J" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Canal_J_Logo.png" group-title="CaribbeanRoots", CANAL J
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1545
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 1" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3749
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 2" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3748
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 3" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3747
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 4" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3746
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 5" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 5
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3745
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 6" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3744
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL PLAY 7" tvg-logo="http://haphead.com/wp-content/uploads/2015/05/canalplayinfinity-300x300.png" group-title="CaribbeanRoots", CANAL PLAY 7
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3743
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="FR: Chasse et Peche" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1200px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="CaribbeanRoots", Chasse et Peche
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3742
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="FR: CHERIE 25 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1200px-Logo_Ch%C3%A9rie_25.svg.png" group-title="CaribbeanRoots", CHERIE 25 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4958
+#EXTINF:-1 tvg-ID="Cine+ Classic HD FR" tvg-name="FR: CINE CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="CaribbeanRoots", CINE CLASSIC
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3739
+#EXTINF:-1 tvg-ID="Cine+ Classic HD FR" tvg-name="FR: CINE CLASSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="CaribbeanRoots", CINE CLASSIC HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3733
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CaribbeanRoots", CINE EMOTION
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4971
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CaribbeanRoots", CINE EMOTION HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3738
+#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="FR: CINE FAMIZ" tvg-logo="http://iptvreseller.xyz:1234/Anh/CINEFAMIZ.png" group-title="CaribbeanRoots", CINE FAMIZ
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3737
+#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="FR: Cine Famiz HD" tvg-logo="http://www.tele-monaco.mc/skin/frontend/boilerplate/telemonaco/images/logos-chaines-tv/148.png" group-title="CaribbeanRoots", Cine Famiz HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4972
+#EXTINF:-1 tvg-ID="Cine+ Frisson HD FR" tvg-name="FR: CINE FRISSON" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2017/08/CinePlusFrisson-1.png" group-title="CaribbeanRoots", CINE FRISSON
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3736
+#EXTINF:-1 tvg-ID="Cine+ Frisson HD FR" tvg-name="FR: CINE FRISSON HD" tvg-logo="http://kbbpf.lescigales.org/Logos/CINE-PLUS-FRISSON.HD.png" group-title="CaribbeanRoots", CINE FRISSON HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4970
+#EXTINF:-1 tvg-ID="cinefx.fr" tvg-name="FR: CINE FX" tvg-logo="http://3.bp.blogspot.com/-MqCnUJrEXzw/Uf8Ijci2_xI/AAAAAAAAbHk/gCoWv1YHZ4c/s1600/Cin%C3%A9+FX+logo+2013.jpg" group-title="CaribbeanRoots", CINE FX
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/256
+#EXTINF:-1 tvg-ID="CinÃ© Polar" tvg-name="FR: CINE POLAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Cin%C3%A9%2B_logo_2011.png" group-title="CaribbeanRoots", CINE POLAR
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3735
+#EXTINF:-1 tvg-ID="Cine+ Premier HD FR" tvg-name="FR: CINE PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/CinePlusPremier.svg/1200px-CinePlusPremier.svg.png" group-title="CaribbeanRoots", CINE PREMIER HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3734
+#EXTINF:-1 tvg-ID="COMEDIE+ FR" tvg-name="FR: COMEDIE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Com%C3%A9die%2B.svg/1200px-Com%C3%A9die%2B.svg.png" group-title="CaribbeanRoots", COMEDIE  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1539
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR: Comedie +" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Com%C3%A9die%2B.svg/1200px-Com%C3%A9die%2B.svg.png" group-title="CaribbeanRoots", Comedie +
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4964
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="FR: CSTAR HD" tvg-logo="https://4.bp.blogspot.com/-SwkjGN7kzQ8/WPqUkyKxKrI/AAAAAAAAFXY/1bGSOWazXb4Pscd3C5E-z3wZrFJPES6TwCLcB/s1600/canalplus_fr_c_star.png" group-title="CaribbeanRoots", CSTAR HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4992
+#EXTINF:-1 tvg-ID="canal+.fr" tvg-name="FR: CANAL+ HD" tvg-logo="http://www.overline-systems.com/_images/tres_grande/7212863789_1200_1600.jpg" group-title="CaribbeanRoots", CANAL+ HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/250
+#EXTINF:-1 tvg-ID="bfm.fr" tvg-name="FR: BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Logo_BFM_TV_2019.jpg" group-title="CaribbeanRoots", BFM TV
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1549
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="FR: GULLI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Gulli_2017_nouveau_logo.jpg" group-title="CaribbeanRoots", GULLI HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4957
+#EXTINF:-1 tvg-ID="game.one.fr" tvg-name="FR: GAME ONE" tvg-logo="https://www.offremedia.com/sites/default/files/delia/1086/108646-20d914.jpg" group-title="CaribbeanRoots", GAME ONE
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4967
+#EXTINF:-1 tvg-ID="franceo.fr" tvg-name="FR: France O  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/France_%C3%94_logo.png" group-title="CaribbeanRoots", France O  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/532
+#EXTINF:-1 tvg-ID="france.5.fr" tvg-name="FR: France 5 HD" tvg-logo="https://www.asso-malades-thyroide.fr/wordpress/wp-content/uploads/2019/05/france5.png" group-title="CaribbeanRoots", France 5 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/531
+#EXTINF:-1 tvg-ID="france.4.fr" tvg-name="FR: France 4  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="CaribbeanRoots", France 4  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/530
+#EXTINF:-1 tvg-ID="france.2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/france-2-tv-logo-png-transparent.png" group-title="CaribbeanRoots", FRANCE 2 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/528
+#EXTINF:-1 tvg-ID="eurosport.2.fr" tvg-name="FR: EUROSPORT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/200px-Eurosport_Logo.svg.png" group-title="CaribbeanRoots", EUROSPORT2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1542
+#EXTINF:-1 tvg-ID="eurosport.2.fr" tvg-name="FR: Eurosport 2" tvg-logo="https://i.pinimg.com/originals/0f/ac/c0/0facc086b37c043d236a11f3c49f2f3c.png" group-title="CaribbeanRoots", Eurosport 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4975
+#EXTINF:-1 tvg-ID="eurosport.1.fr" tvg-name="FR: Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eurosport_Logo.svg/200px-Eurosport_Logo.svg.png" group-title="CaribbeanRoots", Eurosport 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1541
+#EXTINF:-1 tvg-ID="equidia.live.fr" tvg-name="FR: EQUIDIA live" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Equidia_logo_2018.svg/1200px-Equidia_logo_2018.svg.png" group-title="CaribbeanRoots", EQUIDIA live
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4990
+#EXTINF:-1 tvg-ID="Disney XD" tvg-name="FR: Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="CaribbeanRoots", Disney XD HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1553
+#EXTINF:-1 tvg-ID="disney.cinema.fr" tvg-name="FR: DISNEY CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="CaribbeanRoots", DISNEY CINEMA
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1543
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="FR: DISNEY CHANNEL" tvg-logo="https://pm1.narvii.com/6183/450f7513b94c49fff009f53bc69f533c880a81dd_hq.jpg" group-title="CaribbeanRoots", DISNEY CHANNEL
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1544
+#EXTINF:-1 tvg-ID="i-TÃ©lÃ© HD FR" tvg-name="FR: i Tele" tvg-logo="http://iptvreseller.xyz:1234/Anh/ITele.png" group-title="CaribbeanRoots", i Tele
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4956
+#EXTINF:-1 tvg-ID="info.sport.fr" tvg-name="FR: INFOSPORT" tvg-logo="https://static.booska-p.com/images/news/infosport-15-ans-d-images-video.jpg" group-title="CaribbeanRoots", INFOSPORT
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4978
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="FR: L'EQUIPE 21" tvg-logo="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2Enews.2F2018.2F01.2F12.2F88d60116-65a2-43af-adbf-0f3533246c5f.2Ejpeg/1150x495/crop-from/top/quality/80/l-equipe-21-programmes-audiences-presentation-de-la-chaine.jpg" group-title="CaribbeanRoots", L'EQUIPE 21
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4977
+#EXTINF:-1 tvg-ID="La Deux" tvg-name="FR: La Deux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/RTBF_La_Deux_logo.svg/1200px-RTBF_La_Deux_logo.svg.png" group-title="CaribbeanRoots", La Deux
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3731
+#EXTINF:-1 tvg-ID="La Une" tvg-name="FR: La une BE" tvg-logo="https://i.pinimg.com/originals/75/36/3b/75363b67cab1dec7d9dcefa2f4d2af62.png" group-title="CaribbeanRoots", La une BE
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3730
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="FR: LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/LCI_-_Logo_%28Ao%C3%BBt_2017%29.png" group-title="CaribbeanRoots", LCI
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4955
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="FR: M6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/M6-tv-logo.png" group-title="France-Musicque",FR: M6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/242
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR: Mangas" tvg-logo="https://cdn.imgbin.com/6/2/5/imgbin-logo-mangas-television-channel-tv-logos-DwhVx7hx6mq2qC12VWX5KytYy.jpg" group-title="CaribbeanRoots", Mangas
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3728
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="FR: National geo wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="CaribbeanRoots", National geo wild
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3727
+#EXTINF:-1 tvg-ID="nickelodeon.junior.fr" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="https://2.bp.blogspot.com/-qYdb7lPyfRI/W5Bk8UbhIbI/AAAAAAAA-Rk/A6CtNTd48rMyUUA3-yHuGAyg3QUiNZdIwCLcBGAs/s1600/nickelodeon-junior-logo-france-2018-rebrand-brand-refresh-nickelodeon-preschool-nick-endboard.png" group-title="CaribbeanRoots", NICKELODEON JUNIOR
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1533
+#EXTINF:-1 tvg-ID="nrj.hits.fr" tvg-name="FR: NRJ Hits" tvg-logo="https://images-mds.staticskynet.be/News/w-350_h-460_s-1/nrj-hits-tv_20160926031412.jpg" group-title="CaribbeanRoots", NRJ Hits
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3726
+#EXTINF:-1 tvg-ID="Numero 23 FR" tvg-name="FR: NUMERO 23 HD" tvg-logo="http://www.epsilon-research.com/dbFiles.CorporateLogos.Numero23logo_jpg" group-title="CaribbeanRoots", NUMERO 23 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1527
+#EXTINF:-1 tvg-ID="ocs.choc.fr" tvg-name="FR: OCS CHOC HD" tvg-logo="http://kbbpf.lescigales.org/Logos/OCS-CHOC.HD.png" group-title="CaribbeanRoots", OCS CHOC HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4969
+#EXTINF:-1 tvg-ID="ocs.city.fr" tvg-name="FR: OCS CITY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/OCS_City.svg" group-title="CaribbeanRoots", OCS CITY
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/261
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="FR: OCS GEANT" tvg-logo="http://idata.over-blog.com/0/20/49/74/logos-hd/OCS/ocs-geants.jpg" group-title="CaribbeanRoots", OCS GEANT
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/260
+#EXTINF:-1 tvg-ID="ocs.max.fr" tvg-name="FR: OCS MAX" tvg-logo="https://www.teleclub.ch/romandie/wp-content/uploads/sites/3/2016/11/OCS_Max.png" group-title="CaribbeanRoots", OCS MAX
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/259
+#EXTINF:-1 tvg-ID="ol.fr" tvg-name="FR: OLTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1200px-OLTV_3e_logo.svg.png" group-title="CaribbeanRoots", OLTV HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4979
+#EXTINF:-1 tvg-ID="paramount.fr" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="CaribbeanRoots", PARAMOUNT CHANNEL HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1537
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: PARIS PREMIERE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1280px-Paris_Premi%C3%A8re_2011.svg.png" group-title="CaribbeanRoots", PARIS PREMIERE  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1538
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Paris_premiere_hd.png" group-title="CaribbeanRoots", PARIS PREMIERE HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4959
+#EXTINF:-1 tvg-ID="piwi+.fr" tvg-name="FR: PIWI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="CaribbeanRoots", PIWI HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4988
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Planete%2B_logo_2011.svg/1200px-Planete%2B_logo_2011.svg.png" group-title="CaribbeanRoots", PLANETE  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4981
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="FR: PLANETE A&E HD" tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="CaribbeanRoots", PLANETE A&E HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4983
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="FR: PLANETE CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Planete%2B_logo_2011.svg/1200px-Planete%2B_logo_2011.svg.png" group-title="CaribbeanRoots", PLANETE CI HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4982
+#EXTINF:-1 tvg-ID="Plug RTL BE" tvg-name="BE: PLUG RTL" tvg-logo="data:image/png;base64,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" group-title="Belgium",BE: PLUG RTL
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3723
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="FR: rmc decouverte" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1400.png" group-title="CaribbeanRoots", rmc decouverte
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1536
+#EXTINF:-1 tvg-ID="RTL TVI BE" tvg-name="BE: RTL TVI" tvg-logo="https://cdn.worldvectorlogo.com/logos/rtl-tvi.svg" group-title="Belgium",BE: RTL TVI
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3722
+#EXTINF:-1 tvg-ID="RTS Deux" tvg-name="FR: RTS Deux" tvg-logo="http://3.bp.blogspot.com/-IY04_MrTcBI/T02pZR4GSJI/AAAAAAAAEXQ/dIfqI1W-1Sw/s1600/RTS+Deux+logo+2012.jpg" group-title="CaribbeanRoots", RTS Deux
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3721
+#EXTINF:-1 tvg-ID="RTS Un" tvg-name="FR: RTS Un" tvg-logo="http://2.bp.blogspot.com/-vfTtL235ruQ/T02pX2a_IJI/AAAAAAAAEXI/jNv6ZPmmK5k/s1600/RTS+Un+logo+2012.jpg" group-title="CaribbeanRoots", RTS Un
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3720
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="https://www.science-et-vie.tv/images/logo.png" group-title="CaribbeanRoots", SCIENCE ET VIE HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4987
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="FR: SCIENCES & VIE" tvg-logo="http://www.contact-telephone.com/wp-content/uploads/2014/06/science-vie.jpg" group-title="CaribbeanRoots", SCIENCES & VIE
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4986
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR: SERIE CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/langfr-1920px-Serieclub_%282012%29.svg.png" group-title="CaribbeanRoots", SERIE CLUB
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3719
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="FR: Series Club HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/langfr-1920px-Serieclub_%282012%29.svg.png" group-title="CaribbeanRoots", Series Club HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4962
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR: beINS PORTS 2HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/21/9c/50/219c5086-4f44-43d0-ee4e-214ba09b219f/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="CaribbeanRoots", beINS PORTS 2HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/445
+#EXTINF:-1 tvg-ID="bein.sports.1.fr" tvg-name="FR: beIN SPORTS1 HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/21/9c/50/219c5086-4f44-43d0-ee4e-214ba09b219f/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="CaribbeanRoots", beIN SPORTS1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/444
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR: beIN SPORTS 3HD" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/21/9c/50/219c5086-4f44-43d0-ee4e-214ba09b219f/AppIcon-1x_U007emarketing-85-220-9.png/246x0w.jpg" group-title="CaribbeanRoots", beIN SPORTS 3HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/446
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: RMC 1" tvg-logo="https://1.bp.blogspot.com/-xwtz2mgP3zA/W6alKP-ejgI/AAAAAAAAIaU/CORXFyKIzsM5gHlOiODv11W9GowZ3pHDgCLcBGAs/s1600/RMCSPORT1.jpg" group-title="CaribbeanRoots", RMC 1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3715
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: SFR: Sport 2" tvg-logo="https://blog.ariase.com/hubfs/Imported_Blog_Media/illustration-sfr-sport-1-8.jpg" group-title="CaribbeanRoots", SFR: Sport 2
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3713
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="FR: SFR: Sport 3" tvg-logo="https://blog.ariase.com/hubfs/Imported_Blog_Media/illustration-sfr-sport-1-8.jpg" group-title="CaribbeanRoots", SFR: Sport 3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3714
+#EXTINF:-1 tvg-ID="sy.fy.fr" tvg-name="FR: Syfy HD" tvg-logo="https://www.syfy.fr/sites/all/themes/pint_themes/base_syfywire_secondary/logo.svg" group-title="CaribbeanRoots", Syfy HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4963
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR: Teva" tvg-logo="http://4.bp.blogspot.com/-ZPBjj1yZu8M/UxQtgKrfu2I/AAAAAAAAebI/6RArm9rUcw4/s1600/Teva-logo-2014.png" group-title="CaribbeanRoots", Teva
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4960
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="CaribbeanRoots", TF1 HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/241
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="FR: Tiji" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="CaribbeanRoots", Tiji
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4989
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="http://www.toutelhistoire.com/images/logo.png" group-title="CaribbeanRoots", TOUTE L HISTOIRE
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4984
+#EXTINF:-1 tvg-ID="tv.breizh.fr" tvg-name="FR: TV BREIZH HD" tvg-logo="http://img.over-blog-kiwi.com/0/87/49/59/20180111/ob_5d9951_tvbreizh.jpg" group-title="CaribbeanRoots", TV BREIZH HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4965
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="FR: USHUAIA  HD" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/04/06/20160406120937-738d16c2-la.png" group-title="CaribbeanRoots", USHUAIA  HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1531
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A LA CARTE 5
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1559
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A la Carte 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A la Carte 6
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1558
+#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="France-General",FR:A.LA.CARTE.1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1561
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A.LA.CARTE.3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A.LA.CARTE.3
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1562
+#EXTINF:-1 tvg-ID="" tvg-name="FR: A.LA.CARTE.4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/La_carte_aux_tr%C3%A9sors_logo_2018.png" group-title="CaribbeanRoots", A.LA.CARTE.4
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1560
+#EXTINF:-1 tvg-ID="Cine+ Premier HD FR" tvg-name="FR: CINE PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/CinePlusPremier.svg/1200px-CinePlusPremier.svg.png" group-title="CaribbeanRoots", CINE PREMIER
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/257
+#EXTINF:-1 tvg-ID="france.24.fr" tvg-name="FR: FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="CaribbeanRoots", FRANCE 24
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1551
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="FR: NICKELODEON HD" tvg-logo="https://pbs.twimg.com/profile_images/754959921209311232/r4O9hyki_400x400.jpg" group-title="CaribbeanRoots", NICKELODEON HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5862
+#EXTINF:-1 tvg-ID="Trace Urban HD FR" tvg-name="FR: TRACE URBAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="France-Musicque",FR: TRACE URBAN
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6691
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="VIP FR: ARTE FHD" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/arte/logo/arte_2013_ox__W1000xh0.jpg" group-title="France-General",VIP FR: ARTE FHD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6734
+#EXTINF:-1 tvg-ID="bravahd.fr" tvg-name="VIP FR: BRAVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="France-General",VIP FR: BRAVA FHD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6743
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="VIP FR: TMC FHD" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b7764265acce2f2cc08e58cb322642c.png" group-title="France-General",VIP FR: TMC FHD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6738
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="FR: DISNEY CHANNEL FHD 1080" tvg-logo="https://tvbtn.files.wordpress.com/2012/09/disney-channel-logo-350x270.jpg" group-title="CaribbeanRoots", DISNEY CHANNEL FHD 1080
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6975
+#EXTINF:-1 tvg-ID="eurosport.2.fr" tvg-name="VIP FR: Eurosport 2 FHD 1080" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" group-title="France-Sport",VIP FR: Eurosport 2 FHD 1080
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/6974
+#EXTINF:-1 tvg-ID="NT1 FR" tvg-name="FR:NT1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/NT1_logo.svg" group-title="France-General",FR:NT1
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/244
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="FR:TCM CINEMA" tvg-logo="http://1.bp.blogspot.com/-FkxrK4ghaOI/UYtqsBTrsdI/AAAAAAAAZlw/GNfFDp60HOg/s1600/TCM+Cin%C3%A9ma+logo+2013.png" group-title="France-Cinema",FR:TCM CINEMA
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/4974
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR: TEVA/TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/TMC_logo.jpg" group-title="CaribbeanRoots", TEVA/TMC
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/245
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="FR: TREK HD" tvg-logo="https://pbs.twimg.com/profile_images/1037311013480280064/6Il1Bz4c.jpg" group-title="CaribbeanRoots", TREK HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1526
+#EXTINF:-1 tvg-ID="tv5.monde.fr" tvg-name="FR:TV5 MONDE" tvg-logo="http://ifjordan.com/en/wp-content/uploads/2016/11/MZmedia-LOGO-TV5Monde-Asie-Pacifique-960PX-660x330.jpg" group-title="France-Infor",FR:TV5 MONDE
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1552
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR: DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Discovery_Channel_logo_2000.svg/240px-Discovery_Channel_logo_2000.svg.png" group-title="CaribbeanRoots", DISCOVERY
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/3732
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="FR: VOYAGE HD" tvg-logo="http://4.bp.blogspot.com/-Kl2RHwTLFlE/TcMNsHh5JBI/AAAAAAAABPQ/O0lFqTvOmws/s500/Voyage+logo+2011.png" group-title="CaribbeanRoots", VOYAGE HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1532
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/1532
 #EXTINF:-1 tvg-id="" tvg-name="13eme Rue " tvg-logo="" group-title="hdonline jjr", 13eme Rue 
 http://hdonline.ml:80/jjr/jjr/13380
 #EXTINF:-1 tvg-id="" tvg-name="6ter " tvg-logo="" group-title="hdonline jjr", 6ter 
