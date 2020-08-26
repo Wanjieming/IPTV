@@ -443,197 +443,197 @@ http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/59958
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/59959
 #EXTINF:-1 tvg-ID="" tvg-name="|VIETNAMI| Tibetan TV" tvg-logo="" group-title="iptvpro", Tibetan TV
 http://iptvpro.premium-tv.media:8789/PirlGZuLaZ/YhEkMjbfe1/59960
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM", Tom & Jerry
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos", Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Ben Tre TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",Ben Tre TV
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",BPTV 1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",BPTV 1
 http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Da Nang TV 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",Da Nang TV 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",Quang Nam TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",Quang Nam TV
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",SET TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",VBS TV 57.6 (US) (Opt-1)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",VBS TV 57.6 (US) (Opt-1)
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="VIETNAM",VBS TV 57.6 (US) (Opt-2)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Vivos",VBS TV 57.6 (US) (Opt-2)
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lU2lhKO.png" group-title="VIETNAM",VNA TV 57.3 (US)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lU2lhKO.png" group-title="Vivos",VNA TV 57.3 (US)
 http://livestream.vnvn.net/vnatv573.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", AnGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", AnGiangTV
 http://vietcago.net/vstv/angiangtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="Vietnam", ANTV
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="Vivos", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/logo.png" group-title="Vietnam", ATV
+#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/logo.png" group-title="Vivos", ATV
 http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/atv-tv.png" group-title="Vietnam", ATV-TH An Giang
+#EXTINF:-1 tvg-logo="http://atv.org.vn/lib/images/atv-tv.png" group-title="Vivos", ATV-TH An Giang
 http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BenTreTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BenTreTV
 http://vietcago.net/vstv/bentretv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BinhPhuocTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BinhPhuocTV1
 http://vietcago.net/vstv/binhphuoctv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BinhPhuocTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BinhPhuocTV2
 http://vietcago.net/vstv/binhphuoctv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/3nWTNy" group-title="Vietnam", BPTV1 - Binh Phước 1
+#EXTINF:-1 tvg-logo="https://goo.gl/3nWTNy" group-title="Vivos", BPTV1 - Binh Phước 1
 http://118.69.197.145/hls/bptv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="Vietnam", BRT
+#EXTINF:-1 tvg-logo="http://brt.vn/common/v2/images/Banner150219.png" group-title="Vivos", BRT
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFGIGk4MpV-7eFJWaeVPefzFSx8joT2yJJ76FmIkBntiQBBmov" group-title="Vietnam", Bến Tre
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFGIGk4MpV-7eFJWaeVPefzFSx8joT2yJJ76FmIkBntiQBBmov" group-title="Vivos", Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="Vietnam", Cong Giao TV (VN)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENvLdTj.png" group-title="Vivos", Cong Giao TV (VN)
 http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Vietnam", Cà Mau TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWc8xVD.jpg" group-title="Vivos", Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png" group-title="Vietnam", Da Nang TV1
+#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png" group-title="Vivos", Da Nang TV1
 http://vietcago.net/vstv/danangtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png" group-title="Vietnam", Da Nang TV1 HD
+#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png" group-title="Vivos", Da Nang TV1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="Vietnam", Da Nang TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="Vivos", Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", DakLakTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", DakLakTV
 http://vietcago.net/vstv/daklaktv.m3u8
 
-#EXTINF:-1 tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" group-title="Vietnam", DRT
+#EXTINF:-1 tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" group-title="Vivos", DRT
 http://118.69.161.10:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", GiaLaiTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", GiaLaiTV
 http://vietcago.net/vstv/gialaitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Vietnam", HBTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Vivos", HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Vietnam", Hà Nam
+#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Vivos", Hà Nam
 http://113.160.198.111/Medias/HaNam/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FEffTjz.jpg" group-title="Vietnam", Hưng Yên
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEffTjz.jpg" group-title="Vivos", Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
 
-#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_222501.jpg" group-title="Vietnam", Hưng Yên
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_222501.jpg" group-title="Vivos", Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KhanhHoaTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KhanhHoaTV
 http://vietcago.net/vstv/khanhhoatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Vietnam", KienGiangTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Vivos", KienGiangTV
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Vietnam", KienGiangTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png" group-title="Vivos", KienGiangTV
 http://vietcago.net/vstv/kiengiangtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="Vietnam", KienGiangTV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="Vivos", KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="Vietnam", KienGiangTV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png" group-title="Vivos", KienGiangTV1
 http://vietcago.net/vstv/kiengiangtv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg" group-title="Vietnam", KonTumTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg" group-title="Vivos", KonTumTV
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg" group-title="Vietnam", KonTumTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg" group-title="Vivos", KonTumTV
 http://www.vietcago.net/vstv/kontumtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/DNboVb" group-title="Vietnam", LA34 - Long An
+#EXTINF:-1 tvg-logo="https://goo.gl/DNboVb" group-title="Vivos", LA34 - Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", LongAnTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", LongAnTV
 http://vietcago.net/vstv/longantv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnGoFWZ.png" group-title="Vietnam", Nghệ An
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnGoFWZ.png" group-title="Vivos", Nghệ An
 http://113.160.173.47:8080/live/na1_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="Vietnam", ANTV
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="Vivos", ANTV
 http://vietcago.net/vstv/antv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-08-26/8397951-logo-nhan-dan.png" group-title="Vietnam", NHAN DAN
+#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-08-26/8397951-logo-nhan-dan.png" group-title="Vivos", NHAN DAN
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", NhanDanTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", NhanDanTV
 http://vietcago.net/vstv/thnd.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vietnam", Nhân Dân
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vivos", Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vietnam", Nhân dân HD
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vivos", Nhân dân HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vietnam", Nhân dân s2
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png" group-title="Vivos", Nhân dân s2
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", PhuYenTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", PhuYenTV
 http://vietcago.net/vstv/phuyentv.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/tDSGow" group-title="Vietnam", PTP - Phú Yên
+#EXTINF:-1 tvg-logo="https://goo.gl/tDSGow" group-title="Vivos", PTP - Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Vietnam", QRT
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg" group-title="Vivos", QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", QuangNamTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", QuangNamTV
 http://vietcago.net/vstv/quangnamtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" group-title="Vietnam", Quốc Hội
+#EXTINF:-1 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" group-title="Vivos", Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png" group-title="Vietnam", SBTN
+#EXTINF:-1 tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png" group-title="Vivos", SBTN
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="Vietnam", SET TV
+#EXTINF:-1 tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="Vivos", SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png" group-title="Vietnam", SET TV
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png" group-title="Vivos", SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" group-title="Vietnam", THGL
+#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" group-title="Vivos", THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 
-#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Vietnam", THHN
+#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png" group-title="Vivos", THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDCM2WqjX5fI2SDnmBk28lqvu1-k1AkWM5-RQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Vietnam", THLC
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDCM2WqjX5fI2SDnmBk28lqvu1-k1AkWM5-RQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="Vivos", THLC
 http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" group-title="Vietnam", Tien Giang
+#EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" group-title="Vivos", Tien Giang
 http://thtg.vn:8001/thtg.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="Vietnam", TTXVN
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" group-title="Vivos", TTXVN
 http://live.vnanet.vn/VnewsLive_Android.m3u8
 
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/ttxvn.png" group-title="Vietnam", TTXVN HD
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/ttxvn.png" group-title="Vivos", TTXVN HD
 http://live.vnanet.vn/720P/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/vitv.png" group-title="Vietnam", VITV
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/vitv.png" group-title="Vivos", VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" group-title="Vietnam", Việt Mỹ TV
+#EXTINF:-1 tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" group-title="Vivos", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png" group-title="Vietnam", Việt News TV
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png" group-title="Vivos", Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 
-#EXTINF:-1 tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png" group-title="Vietnam", VNA TV
+#EXTINF:-1 tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png" group-title="Vivos", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk" group-title="Vietnam", VNA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk" group-title="Vivos", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
 
-#EXTINF:-1 tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" group-title="Vietnam", VTVcab11
+#EXTINF:-1 tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" group-title="Vivos", VTVcab11
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VTC", VTC1
@@ -660,7 +660,7 @@ http://221.133.9.35:1935/live/1.stream_720p/chunklist_w1817510901.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VietTV", AN NINH TV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", AnGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", AnGiangTV
 http://vietcago.net/vstv/angiangtv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Anime Captain Tsubasa 2019
@@ -672,19 +672,19 @@ https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc.flv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Anime Pokemon
 https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_low.flv?needwm=0
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ANTG
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ANTG
 http://vietcago.net/vstv/antg.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THỜI SỰ - CHÍNH TRỊ", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ANTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ANTV
 http://vietcago.net/vstv/antv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THỜI SỰ - CHÍNH TRỊ", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", AnVien
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", AnVien
 http://vietcago.net/vstv/anvien.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INTERNATIONAL", ARIANG HD
@@ -693,10 +693,10 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH HÀN", Arirang South Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ATV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ATV
 http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ATV-TH An Giang
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ATV-TH An Giang
 http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VTV", Avenger : EndGame
@@ -708,16 +708,16 @@ http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Bạc Liêu
 http://118.69.205.213/thbl/thbl.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BacGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BacGiangTV
 http://vietcago.net/vstv/bacgiangtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BacKanTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BacKanTV
 http://vietcago.net/vstv/backantv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Bến Tre
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Bến Tre
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BenTreTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BenTreTV
 http://vietcago.net/vstv/bentretv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Địa phương", Bình Định
@@ -732,25 +732,25 @@ http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Bình Thuận HD
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w650363958.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BinhPhuocTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BinhPhuocTV1
 http://vietcago.net/vstv/binhphuoctv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BinhPhuocTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BinhPhuocTV2
 http://vietcago.net/vstv/binhphuoctv2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BinhThuanTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BinhThuanTV
 http://vietcago.net/vstv/binhthuantv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH CHINA", Boomerang China
 http://3ea2ac02.ulkakak.pw/iptv/UAVTALUW886L8G/723/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BPTV1 - Binh Phước 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BPTV1 - Binh Phước 1
 http://118.69.197.145/hls/bptv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BRT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BRT
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", BTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", BTV
 http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VietTV", Cà Mau
@@ -864,16 +864,16 @@ http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Cá mực hầm mật", Cá Mực Hầm Mật - Tập 9
 http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E009//playlist_h.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", CaMauTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", CaMauTV
 http://vietcago.net/vstv/camautv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Cần Thơ
 https://tv.canthotv.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", CanThoTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", CanThoTV
 http://vietcago.net/vstv/canthotv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", CaoBangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", CaoBangTV
 http://vietcago.net/vstv/caobangtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH HÀN", Chosun
@@ -1005,31 +1005,31 @@ http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_So
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Conan Tập 390-9xx
 https://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Cong Giao TV (VN)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Cong Giao TV (VN)
 http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Da Nang TV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Da Nang TV1
 http://vietcago.net/vstv/danangtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Da Nang TV1 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Da Nang TV1 HD
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Da Nang TV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Da Nang TV2
 http://vietcago.net/vstv/danangtv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Đắk Lắk
 http://118.69.161.10:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", DakLakTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", DakLakTV
 http://vietcago.net/vstv/daklaktv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", DongNaiTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", DongNaiTV1
 http://vietcago.net/vstv/dongnaitv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", DongNaiTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", DongNaiTV2
 http://vietcago.net/vstv/dongnaitv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Doraemon", Doraemon Vietsub Tập 490
@@ -1092,7 +1092,7 @@ https://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_hig
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dragon Ball Z Tiếng Việt
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", DRT
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", DRT
 http://118.69.161.10:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH HÀN", EBS Kids TV
@@ -1149,7 +1149,7 @@ http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.f
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", GiaLaiTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", GiaLaiTV
 http://vietcago.net/vstv/gialaitv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Giọng Ải Giọng Ai KOREA
@@ -1161,31 +1161,31 @@ http://live.streamingfast.net/osmflivech30.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Hà Nam
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaGiangTV
 http://vietcago.net/vstv/hagiangtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaiPhongTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaiPhongTV
 http://vietcago.net/vstv/haiphongtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaiPhongTV+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaiPhongTV+
 http://vietcago.net/vstv/haiphongtvplus.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaNamTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaNamTV
 http://vietcago.net/vstv/hanamtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaNoiTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaNoiTV1
 http://vietcago.net/vstv/hanoi1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaNoiTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaNoiTV2
 http://vietcago.net/vstv/hanoi2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HaTinhTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HaTinhTV
 http://vietcago.net/vstv/hatinhtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HauGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HauGiangTV
 http://vietcago.net/vstv/haugiangtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HBTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hoạt Hình Âu Mỹ Mới Nhất
@@ -1206,43 +1206,43 @@ https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36.flv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH CHINA", Hồng Nông OpenTV
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV TheThao
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV TheThao
 http://vietcago.net/vstv/htvthethao.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV1
 http://vietcago.net/vstv/htv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV2
 http://vietcago.net/vstv/htv2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV3
 http://vietcago.net/vstv/htv3.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV4
 http://vietcago.net/vstv/htv4.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV7
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV7
 http://vietcago.net/vstv/htv7.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTV9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTV9
 http://vietcago.net/vstv/htv9.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTVC CaNhac
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTVC CaNhac
 http://vietcago.net/vstv/htvccanhac.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTVC Giadinh
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTVC Giadinh
 http://vietcago.net/vstv/htvcgiadinh.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTVC Phim
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTVC Phim
 http://vietcago.net/vstv/htvcphim.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", HTVC PhuNu
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", HTVC PhuNu
 http://vietcago.net/vstv/htvcphunu.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Hưng Yên
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Hưng Yên
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Hưng Yên
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Địa phương", Hưng Yên HD
@@ -1251,7 +1251,7 @@ http://42.112.16.101:1935/live/HYTV/chunklist_w111601428.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Hưng Yên HD
 http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ITV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ITV
 http://vietcago.net/vstv/itv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽Kênh Thiếu Nhi by Thành⚽", Kênh Anime Hội Pháp Sư
@@ -1281,7 +1281,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VietTV", Khánh Hòa
 http://210.245.20.94/hls/ktv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KhanhHoaTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KhanhHoaTV
 http://vietcago.net/vstv/khanhhoatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Kiên Giang
@@ -1290,25 +1290,25 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Kiên Giang 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KienGiangTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KienGiangTV
 http://vietcago.net/vstv/kiengiangtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KienGiangTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KienGiangTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KienGiangTV1
 http://vietcago.net/vstv/kiengiangtv1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Kon Tum
 http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", KonTumTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", KonTumTV
 http://www.vietcago.net/vstv/kontumtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", LA34 - Long An
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", LA34 - Long An
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", LamDongTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", LamDongTV
 http://vietcago.net/vstv/lamdongtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Lào Cai
@@ -1350,13 +1350,13 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Long An HD
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", LongAnTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", LongAnTV
 http://vietcago.net/vstv/longantv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KÊNH CHINA", Miaomi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", MienTay
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", MienTay
 http://vietcago.net/vstv/mientay.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movies-1_Phụ đề Anh
@@ -1365,7 +1365,7 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movies-2_Phụ đề Anh
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", NCM
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", NCM
 http://vietcago.net/vstv/ncm.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Địa phương", Nghệ An
@@ -1374,22 +1374,22 @@ http://113.160.173.47:8080/live/na1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Nghệ An HD
 http://113.160.173.47:8080/live/na1_1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", NHAN DAN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", NHAN DAN
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="THỜI SỰ - CHÍNH TRỊ", Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1189190049_b1544100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Nhân dân HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Nhân dân HD
 http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Nhân dân s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Nhân dân s2
 https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tin tức", Nhân Dân TV
 https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1189190049_b1544100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", NhanDanTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", NhanDanTV
 http://vietcago.net/vstv/thnd.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PHIM CHÂU TINH CHÌ
@@ -1422,7 +1422,7 @@ http://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-27
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PHIM TVB
 http://ws.flv.nimo.tv:80/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Phimhay
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Phimhay
 http://vietcago.net/vstv/phimhay.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Phong Thần Dương Tiễn
@@ -1431,19 +1431,19 @@ https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_hig
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", PhuThoTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", PhuThoTV
 http://vietcago.net/vstv/phuthotv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", PhuYenTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", PhuYenTV
 http://vietcago.net/vstv/phuyentv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Pokemon Phim Lẻ
 https://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af.flv?needwm=0
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", PTP - Phú Yên
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", PTP - Phú Yên
 http://113.161.4.48:8080/phuyen/tv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", QPVN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", QPVN
 http://vietcago.net/vstv/qpvn.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tin tức", QPVN HD
@@ -1452,31 +1452,31 @@ http://116.104.85.4:1935/standard/smil:standard.smil/chunklist_w942546622_b99600
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Quảng Nam
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", QuangNamTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", QuangNamTV
 http://vietcago.net/vstv/quangnamtv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", QuangNgaiTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", QuangNgaiTV
 http://vietcago.net/vstv/quangngaitv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", QuangTriTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", QuangTriTV
 http://vietcago.net/vstv/quangtritv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Quốc Hội
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="QUỐC TẾ", Rai Movie HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Sam
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Sam
 http://vietcago.net/vstv/sam.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", SBTN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", SBTN
 http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SCTV", SCTV8 - VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", SET TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", SET TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SIÊU ANH HÙNG MARVEL
@@ -1488,13 +1488,13 @@ http://115.78.3.164:8134/liveevent.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ĐỊA PHƯƠNG", Sóc Trăng 2
 http://115.78.3.164:8134/liveeventstv2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", SocTrangTV1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", SocTrangTV1
 http://vietcago.net/vstv/soctrangtv1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", SocTrangTV2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", SocTrangTV2
 http://vietcago.net/vstv/soctrangtv2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", SonLaTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", SonLaTV
 http://vietcago.net/vstv/sonlatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="QUỐC TẾ", Star Movies HD
@@ -1842,25 +1842,25 @@ https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", THÁM TỬ SHERLOCK HOME
 http://tx.flv.nimo.tv:80/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ThanhHoaTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ThanhHoaTV
 http://vietcago.net/vstv/thanhhoatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", THE FLASH
 http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", THGL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", THHN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", THLC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", THLC
 http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", ThuanViet
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", ThuanViet
 http://vietcago.net/vstv/thuanviet.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Tien Giang
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Tien Giang
 http://thtg.vn:8001/thtg.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Tom & Jerry Tiếng Việt
@@ -2052,7 +2052,7 @@ http://travinhlive.07b99c25.cdnviet.com/travinhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Địa phương", Trà Vinh
 http://travinhlive.07b99c25.cdnviet.com/travinhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", TraVinhTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", TraVinhTV
 http://vietcago.net/vstv/travinhtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Truyện Ma Nguyễn Ngọc Ngạn
@@ -2061,10 +2061,10 @@ https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Truyện Ma Nguyễn Ngọc Ngạn
 https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", TTXVN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", TTXVN
 http://live.vnanet.vn/VnewsLive_Android.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", TTXVN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", TTXVN
 http://vietcago.net/vstv/ttxvn.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Kênh 24/7", Tuyển Tập Phim Thành Long
@@ -2076,25 +2076,25 @@ https://ws.flv.nimo.tv/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TVB-Jade
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VBS TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VBS TV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Việt Mỹ TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Việt Mỹ TV
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="News", Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", Vietteen
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", Vietteen
 http://vietcago.net/vstv/vietteen.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VITV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VNA TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VNBC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VNBC
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", VOV FM89
@@ -2124,7 +2124,7 @@ http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", VOVGT HN
 http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VOVTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VOVTV
 http://vietcago.net/vstv/vovtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VTC", VTC1
@@ -2133,40 +2133,40 @@ https://5a7b6ecf8f3e5.streamlock.net/vtc1hd/vtc1hd.stream/master.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VTC", VTC1 HD
 https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC11 s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC11 s2
 http://vietcago.net/live/hls/vtc11.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC13 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC13 HD
 http://vietcago.net/live/hls/vtc13.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC14 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC14 HD
 http://vietcago.net/live/hls/vtc14.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC2 s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC2 s2
 http://vietcago.net/live/hls/vtc2.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC3 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC3 HD
 http://vietcago.net/live/hls/vtc3.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC4 s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC4 s2
 http://vietcago.net/live/hls/vtc4.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC5 s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC5 s2
 http://vietcago.net/live/hls/vtc5.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC6 s2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC6 s2
 http://vietcago.net/live/hls/vtc6.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC7 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC7 HD
 http://vietcago.net/live/hls/vtc7.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC8
 http://vietcago.net/live/hls/vtc8.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTC9 HD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTC9 HD
 http://vietcago.net/live/hls/vtc9.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", VTVcab11
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", VTVcab11
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ỷ Thiên Đồ Long Ký 2019
@@ -2178,7 +2178,7 @@ http://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VietTV", Yên Bái
 http://yenbaitv.org.vn//hls/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vietnam", YenBaiTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Vivos", YenBaiTV
 http://vietcago.net/vstv/yenbaitv.m3u8
 
 #EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="VTV", VTV1 HD
@@ -3064,357 +3064,357 @@ http://iptvtree.net:8080/13358/59407604/190516
 http://iptvtree.net:8080/13358/59407604/190678
 #EXTINF:-1 tvg-id="" tvg-name="VN Travel & Living HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",VN Travel & Living HD
 http://iptvtree.net:8080/13358/59407604/190861
-#EXTINF:-1 tvg-id="" tvg-name="VN: ABC Australia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: ABC Australia
+#EXTINF:-1 tvg-id="" tvg-name="VN: ABC Australia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: ABC Australia
 http://iptvtree.net:8080/13358/59407604/172078
-#EXTINF:-1 tvg-id="" tvg-name="VN: An Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: An Giang
+#EXTINF:-1 tvg-id="" tvg-name="VN: An Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: An Giang
 http://iptvtree.net:8080/13358/59407604/145087
-#EXTINF:-1 tvg-id="" tvg-name="VN: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: ANIMAL PLANET HD
 http://iptvtree.net:8080/13358/59407604/172076
-#EXTINF:-1 tvg-id="" tvg-name="VN: ANTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/a23d74112194089843d2c105c0300fda.png" group-title="Vietnam",VN: ANTV HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: ANTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/a23d74112194089843d2c105c0300fda.png" group-title="Vivos",VN: ANTV HD
 http://iptvtree.net:8080/13358/59407604/145002
-#EXTINF:-1 tvg-id="" tvg-name="VN: Arirang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Arirang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Arirang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Arirang
 http://iptvtree.net:8080/13358/59407604/172037
-#EXTINF:-1 tvg-id="" tvg-name="VN: Asian Food Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Asian Food Network HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Asian Food Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Asian Food Network HD
 http://iptvtree.net:8080/13358/59407604/172040
-#EXTINF:-1 tvg-id="" tvg-name="VN: AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: AXN HD
 http://iptvtree.net:8080/13358/59407604/172048
-#EXTINF:-1 tvg-id="" tvg-name="VN: Baby First HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Baby First HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Baby First HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Baby First HD
 http://iptvtree.net:8080/13358/59407604/172053
-#EXTINF:-1 tvg-id="" tvg-name="VN: BBC Earth HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC Earth HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: BBC Earth HD
 http://iptvtree.net:8080/13358/59407604/172065
-#EXTINF:-1 tvg-id="" tvg-name="VN: BBC Lifestyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC Lifestyle" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: BBC Lifestyle
 http://iptvtree.net:8080/13358/59407604/172071
-#EXTINF:-1 tvg-id="" tvg-name="VN: BBC News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: BBC News
+#EXTINF:-1 tvg-id="" tvg-name="VN: BBC News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: BBC News
 http://iptvtree.net:8080/13358/59407604/172055
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bloomberg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bloomberg" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bloomberg
 http://iptvtree.net:8080/13358/59407604/172056
-#EXTINF:-1 tvg-id="" tvg-name="VN: Blue Ant Entertainment HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Blue Ant Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Blue Ant Entertainment HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Blue Ant Entertainment HD
 http://iptvtree.net:8080/13358/59407604/172063
-#EXTINF:-1 tvg-id="" tvg-name="VN: Blue Ant Extreme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Blue Ant Extreme HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Blue Ant Extreme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Blue Ant Extreme HD
 http://iptvtree.net:8080/13358/59407604/172061
-#EXTINF:-1 tvg-id="" tvg-name="VN: Boomerang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Boomerang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Boomerang
 http://iptvtree.net:8080/13358/59407604/172052
-#EXTINF:-1 tvg-id="" tvg-name="VN: BTV11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: BTV11
+#EXTINF:-1 tvg-id="" tvg-name="VN: BTV11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: BTV11
 http://iptvtree.net:8080/13358/59407604/172079
-#EXTINF:-1 tvg-id="" tvg-name="VN: BTV6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: BTV6
+#EXTINF:-1 tvg-id="" tvg-name="VN: BTV6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: BTV6
 http://iptvtree.net:8080/13358/59407604/172077
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bà Rịa-Vũng Tàu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bà Rịa-Vũng Tàu HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bà Rịa-Vũng Tàu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bà Rịa-Vũng Tàu HD
 http://iptvtree.net:8080/13358/59407604/172089
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Dương 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Dương 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Dương 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Dương 1 HD
 http://iptvtree.net:8080/13358/59407604/172105
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Dương 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Dương 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Dương 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Dương 2 HD
 http://iptvtree.net:8080/13358/59407604/172099
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Phước 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Phước 1
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Phước 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Phước 1
 http://iptvtree.net:8080/13358/59407604/172113
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Phước 2 - HOMEtv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Phước 2 - HOMEtv
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Phước 2 - HOMEtv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Phước 2 - HOMEtv
 http://iptvtree.net:8080/13358/59407604/172103
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Thuận" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Thuận
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Thuận" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Thuận
 http://iptvtree.net:8080/13358/59407604/172114
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Định" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bình Định
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bình Định" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bình Định
 http://iptvtree.net:8080/13358/59407604/172107
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bạc Liêu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bạc Liêu HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bạc Liêu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bạc Liêu HD
 http://iptvtree.net:8080/13358/59407604/172094
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bắc Giang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bắc Giang HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bắc Giang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bắc Giang HD
 http://iptvtree.net:8080/13358/59407604/172092
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bắc Ninh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bắc Ninh HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bắc Ninh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bắc Ninh HD
 http://iptvtree.net:8080/13358/59407604/172096
-#EXTINF:-1 tvg-id="" tvg-name="VN: Bến Tre" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Bến Tre
+#EXTINF:-1 tvg-id="" tvg-name="VN: Bến Tre" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Bến Tre
 http://iptvtree.net:8080/13358/59407604/172097
-#EXTINF:-1 tvg-id="" tvg-name="VN: Cao Bằng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Cao Bằng
+#EXTINF:-1 tvg-id="" tvg-name="VN: Cao Bằng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Cao Bằng
 http://iptvtree.net:8080/13358/59407604/172104
-#EXTINF:-1 tvg-id="" tvg-name="VN: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Cartoon Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Cartoon Network HD
 http://iptvtree.net:8080/13358/59407604/172051
-#EXTINF:-1 tvg-id="" tvg-name="VN: Channel NewsAsia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Channel NewsAsia
+#EXTINF:-1 tvg-id="" tvg-name="VN: Channel NewsAsia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Channel NewsAsia
 http://iptvtree.net:8080/13358/59407604/172070
-#EXTINF:-1 tvg-id="" tvg-name="VN: Channel V HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Channel V HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Channel V HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Channel V HD
 http://iptvtree.net:8080/13358/59407604/172049
-#EXTINF:-1 tvg-id="" tvg-name="VN: CinemaWorld HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: CinemaWorld HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: CinemaWorld HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: CinemaWorld HD
 http://iptvtree.net:8080/13358/59407604/172057
-#EXTINF:-1 tvg-id="" tvg-name="VN: CNN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: CNN
+#EXTINF:-1 tvg-id="" tvg-name="VN: CNN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: CNN
 http://iptvtree.net:8080/13358/59407604/172054
-#EXTINF:-1 tvg-id="" tvg-name="VN: Cà Mau HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Cà Mau HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Cà Mau HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Cà Mau HD
 http://iptvtree.net:8080/13358/59407604/172112
-#EXTINF:-1 tvg-id="" tvg-name="VN: Cần Thơ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Cần Thơ
+#EXTINF:-1 tvg-id="" tvg-name="VN: Cần Thơ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Cần Thơ
 http://iptvtree.net:8080/13358/59407604/172100
-#EXTINF:-1 tvg-id="" tvg-name="VN: Da Nang TV 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Da Nang TV 2
+#EXTINF:-1 tvg-id="" tvg-name="VN: Da Nang TV 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Da Nang TV 2
 http://iptvtree.net:8080/13358/59407604/166131
-#EXTINF:-1 tvg-id="" tvg-name="VN: Da Vinci Learning HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Da Vinci Learning HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Da Vinci Learning HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Da Vinci Learning HD
 http://iptvtree.net:8080/13358/59407604/172035
-#EXTINF:-1 tvg-id="" tvg-name="VN: Discovery Asia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Discovery Asia HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Discovery Asia HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Discovery Asia HD
 http://iptvtree.net:8080/13358/59407604/172084
-#EXTINF:-1 tvg-id="" tvg-name="VN: Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Discovery HD
 http://iptvtree.net:8080/13358/59407604/172058
-#EXTINF:-1 tvg-id="" tvg-name="VN: DW HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: DW HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: DW HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: DW HD
 http://iptvtree.net:8080/13358/59407604/172043
-#EXTINF:-1 tvg-id="" tvg-name="VN: Fashion TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Fashion TV HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Fashion TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Fashion TV HD
 http://iptvtree.net:8080/13358/59407604/172073
-#EXTINF:-1 tvg-id="" tvg-name="VN: FBNC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FBNC HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FBNC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FBNC HD
 http://iptvtree.net:8080/13358/59407604/172081
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Family Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX Family Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Family Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX Family Movies HD
 http://iptvtree.net:8080/13358/59407604/172028
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX HD
 http://iptvtree.net:8080/13358/59407604/172033
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Life HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX Life HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Life HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX Life HD
 http://iptvtree.net:8080/13358/59407604/172030
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX Movies HD
 http://iptvtree.net:8080/13358/59407604/172027
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX SPORTS 2 HD
 http://iptvtree.net:8080/13358/59407604/172045
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX SPORTS 3 HD
 http://iptvtree.net:8080/13358/59407604/172046
-#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: FOX SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: FOX SPORTS HD
 http://iptvtree.net:8080/13358/59407604/172044
-#EXTINF:-1 tvg-id="" tvg-name="VN: France 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: France 24
+#EXTINF:-1 tvg-id="" tvg-name="VN: France 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: France 24
 http://iptvtree.net:8080/13358/59407604/172038
-#EXTINF:-1 tvg-id="" tvg-name="VN: Gia Lai" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Gia Lai
+#EXTINF:-1 tvg-id="" tvg-name="VN: Gia Lai" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Gia Lai
 http://iptvtree.net:8080/13358/59407604/145017
-#EXTINF:-1 tvg-id="" tvg-name="VN: H" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: H
+#EXTINF:-1 tvg-id="" tvg-name="VN: H" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: H
 http://iptvtree.net:8080/13358/59407604/166202
-#EXTINF:-1 tvg-id="" tvg-name="VN: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HBO
+#EXTINF:-1 tvg-id="" tvg-name="VN: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HBO
 http://iptvtree.net:8080/13358/59407604/172138
-#EXTINF:-1 tvg-id="" tvg-name="VN: HBO Cinemax" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HBO Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="VN: HBO Cinemax" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HBO Cinemax
 http://iptvtree.net:8080/13358/59407604/172137
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hoa Binh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/45fa613c2f9c394155264ea7d035f63c.png" group-title="Vietnam",VN: Hoa Binh TV
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hoa Binh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/45fa613c2f9c394155264ea7d035f63c.png" group-title="Vivos",VN: Hoa Binh TV
 http://iptvtree.net:8080/13358/59407604/145013
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV Co.op" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV Co.op
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV Co.op" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV Co.op
 http://iptvtree.net:8080/13358/59407604/172025
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV Thể thao" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV Thể thao
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV Thể thao" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV Thể thao
 http://iptvtree.net:8080/13358/59407604/172024
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV1
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV1
 http://iptvtree.net:8080/13358/59407604/145107
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV2 HD
 http://iptvtree.net:8080/13358/59407604/172014
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV3
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV3
 http://iptvtree.net:8080/13358/59407604/172015
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV4
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV4
 http://iptvtree.net:8080/13358/59407604/172017
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV7 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV7 HD
 http://iptvtree.net:8080/13358/59407604/172002
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTV9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTV9 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTV9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTV9 HD
 http://iptvtree.net:8080/13358/59407604/172011
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Ca nhạc" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Ca nhạc
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Ca nhạc" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Ca nhạc
 http://iptvtree.net:8080/13358/59407604/172032
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Du Lịch" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Du Lịch
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Du Lịch" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Du Lịch
 http://iptvtree.net:8080/13358/59407604/172018
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Gia Đình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Gia Đình
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Gia Đình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Gia Đình
 http://iptvtree.net:8080/13358/59407604/172019
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Phim HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Phim HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Phim HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Phim HD
 http://iptvtree.net:8080/13358/59407604/172034
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Phụ Nữ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Phụ Nữ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Phụ Nữ
 http://iptvtree.net:8080/13358/59407604/172026
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Plus
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Plus
 http://iptvtree.net:8080/13358/59407604/172042
-#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Thuần Việt HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: HTVC Thuần Việt HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: HTVC Thuần Việt HD
 http://iptvtree.net:8080/13358/59407604/172021
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hà Giang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hà Giang
 http://iptvtree.net:8080/13358/59407604/172118
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nam" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hà Nam
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nam" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hà Nam
 http://iptvtree.net:8080/13358/59407604/145020
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nội 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hà Nội 1
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nội 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hà Nội 1
 http://iptvtree.net:8080/13358/59407604/172109
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nội 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hà Nội 2
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Nội 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hà Nội 2
 http://iptvtree.net:8080/13358/59407604/172132
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Tĩnh" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hà Tĩnh
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hà Tĩnh" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hà Tĩnh
 http://iptvtree.net:8080/13358/59407604/172111
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hưng Yên" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hưng Yên
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hưng Yên" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hưng Yên
 http://iptvtree.net:8080/13358/59407604/172125
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hải Dương" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hải Dương
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hải Dương" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hải Dương
 http://iptvtree.net:8080/13358/59407604/172126
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hải Phòng HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hải Phòng HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hải Phòng HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hải Phòng HD
 http://iptvtree.net:8080/13358/59407604/172121
-#EXTINF:-1 tvg-id="" tvg-name="VN: Hậu Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Hậu Giang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Hậu Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Hậu Giang
 http://iptvtree.net:8080/13358/59407604/172031
-#EXTINF:-1 tvg-id="" tvg-name="VN: iMovie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: iMovie HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: iMovie HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: iMovie HD
 http://iptvtree.net:8080/13358/59407604/172095
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: K+ 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: K+ 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: K+ 1 HD
 http://iptvtree.net:8080/13358/59407604/171999
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ NS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: K+ NS HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: K+ NS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: K+ NS HD
 http://iptvtree.net:8080/13358/59407604/171996
-#EXTINF:-1 tvg-id="" tvg-name="VN: K+ PC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: K+ PC HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: K+ PC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: K+ PC HD
 http://iptvtree.net:8080/13358/59407604/172008
-#EXTINF:-1 tvg-id="" tvg-name="VN: KBS World" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: KBS World
+#EXTINF:-1 tvg-id="" tvg-name="VN: KBS World" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: KBS World
 http://iptvtree.net:8080/13358/59407604/172064
-#EXTINF:-1 tvg-id="" tvg-name="VN: Khanh Hoa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/f58b4bdd8b229d7e9608bdd12cf2a013.png" group-title="Vietnam",VN: Khanh Hoa HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Khanh Hoa HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/f58b4bdd8b229d7e9608bdd12cf2a013.png" group-title="Vivos",VN: Khanh Hoa HD
 http://iptvtree.net:8080/13358/59407604/23407
-#EXTINF:-1 tvg-id="" tvg-name="VN: KIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: KIX HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: KIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: KIX HD
 http://iptvtree.net:8080/13358/59407604/172029
-#EXTINF:-1 tvg-id="" tvg-name="VN: Kiên Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Kiên Giang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Kiên Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Kiên Giang
 http://iptvtree.net:8080/13358/59407604/145019
-#EXTINF:-1 tvg-id="" tvg-name="VN: Kon Tum" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/1dc9ef106eedc031db2cd858d92704f5.png" group-title="Vietnam",VN: Kon Tum
+#EXTINF:-1 tvg-id="" tvg-name="VN: Kon Tum" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/1dc9ef106eedc031db2cd858d92704f5.png" group-title="Vivos",VN: Kon Tum
 http://iptvtree.net:8080/13358/59407604/145009
-#EXTINF:-1 tvg-id="" tvg-name="VN: Lao Cai TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Lao Cai TV
+#EXTINF:-1 tvg-id="" tvg-name="VN: Lao Cai TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Lao Cai TV
 http://iptvtree.net:8080/13358/59407604/166136
-#EXTINF:-1 tvg-id="" tvg-name="VN: Long An" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Long An
+#EXTINF:-1 tvg-id="" tvg-name="VN: Long An" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Long An
 http://iptvtree.net:8080/13358/59407604/144986
-#EXTINF:-1 tvg-id="" tvg-name="VN: Lâm Đồng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Lâm Đồng
+#EXTINF:-1 tvg-id="" tvg-name="VN: Lâm Đồng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Lâm Đồng
 http://iptvtree.net:8080/13358/59407604/172119
-#EXTINF:-1 tvg-id="" tvg-name="VN: Lạng Sơn" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Lạng Sơn
+#EXTINF:-1 tvg-id="" tvg-name="VN: Lạng Sơn" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Lạng Sơn
 http://iptvtree.net:8080/13358/59407604/172120
-#EXTINF:-1 tvg-id="" tvg-name="VN: Nam Định" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Nam Định
+#EXTINF:-1 tvg-id="" tvg-name="VN: Nam Định" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Nam Định
 http://iptvtree.net:8080/13358/59407604/172129
-#EXTINF:-1 tvg-id="" tvg-name="VN: NAT GEO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: NAT GEO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: NAT GEO HD
 http://iptvtree.net:8080/13358/59407604/172059
-#EXTINF:-1 tvg-id="" tvg-name="VN: NCM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: NCM
+#EXTINF:-1 tvg-id="" tvg-name="VN: NCM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: NCM
 http://iptvtree.net:8080/13358/59407604/172080
-#EXTINF:-1 tvg-id="" tvg-name="VN: Nghệ An" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Nghệ An
+#EXTINF:-1 tvg-id="" tvg-name="VN: Nghệ An" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Nghệ An
 http://iptvtree.net:8080/13358/59407604/172141
-#EXTINF:-1 tvg-id="" tvg-name="VN: NHK World HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: NHK World HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: NHK World HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: NHK World HD
 http://iptvtree.net:8080/13358/59407604/172036
-#EXTINF:-1 tvg-id="" tvg-name="VN: Ninh Bình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Ninh Bình
+#EXTINF:-1 tvg-id="" tvg-name="VN: Ninh Bình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Ninh Bình
 http://iptvtree.net:8080/13358/59407604/145104
-#EXTINF:-1 tvg-id="" tvg-name="VN: Ninh Thuận" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Ninh Thuận
+#EXTINF:-1 tvg-id="" tvg-name="VN: Ninh Thuận" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Ninh Thuận
 http://iptvtree.net:8080/13358/59407604/172139
-#EXTINF:-1 tvg-id="" tvg-name="VN: Outdoor Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Outdoor Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Outdoor Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Outdoor Channel HD
 http://iptvtree.net:8080/13358/59407604/172041
-#EXTINF:-1 tvg-id="" tvg-name="VN: Phú Thọ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Phú Thọ HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Phú Thọ HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Phú Thọ HD
 http://iptvtree.net:8080/13358/59407604/172122
-#EXTINF:-1 tvg-id="" tvg-name="VN: Phú Yên HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Phú Yên HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Phú Yên HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Phú Yên HD
 http://iptvtree.net:8080/13358/59407604/145015
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Bình HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Bình HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Bình HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Bình HD
 http://iptvtree.net:8080/13358/59407604/172123
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Nam" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Nam
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Nam" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Nam
 http://iptvtree.net:8080/13358/59407604/172131
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ngãi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Ngãi HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ngãi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Ngãi HD
 http://iptvtree.net:8080/13358/59407604/172127
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ninh 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Ninh 1
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ninh 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Ninh 1
 http://iptvtree.net:8080/13358/59407604/172128
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ninh 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Ninh 3
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Ninh 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Ninh 3
 http://iptvtree.net:8080/13358/59407604/172147
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Trị" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quảng Trị
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quảng Trị" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quảng Trị
 http://iptvtree.net:8080/13358/59407604/172130
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quốc Hội HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quốc Hội HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quốc Hội HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quốc Hội HD
 http://iptvtree.net:8080/13358/59407604/172083
-#EXTINF:-1 tvg-id="" tvg-name="VN: Quốc Phòng VN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Quốc Phòng VN HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Quốc Phòng VN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Quốc Phòng VN HD
 http://iptvtree.net:8080/13358/59407604/172110
-#EXTINF:-1 tvg-id="" tvg-name="VN: Red By HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Red By HBO
+#EXTINF:-1 tvg-id="" tvg-name="VN: Red By HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Red By HBO
 http://iptvtree.net:8080/13358/59407604/172143
-#EXTINF:-1 tvg-id="" tvg-name="VN: SCTV2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: SCTV2
+#EXTINF:-1 tvg-id="" tvg-name="VN: SCTV2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: SCTV2
 http://iptvtree.net:8080/13358/59407604/172060
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 1
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 1
 http://iptvtree.net:8080/13358/59407604/144983
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 2
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 2
 http://iptvtree.net:8080/13358/59407604/144991
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 3
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 3
 http://iptvtree.net:8080/13358/59407604/144987
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 5
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 5
 http://iptvtree.net:8080/13358/59407604/152385
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 6
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 6
 http://iptvtree.net:8080/13358/59407604/144988
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 7
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 7
 http://iptvtree.net:8080/13358/59407604/145001
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 9
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 9
 http://iptvtree.net:8080/13358/59407604/145108
-#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Serie A 10
+#EXTINF:-1 tvg-id="" tvg-name="VN: Serie A 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Serie A 10
 http://iptvtree.net:8080/13358/59407604/144992
-#EXTINF:-1 tvg-id="" tvg-name="VN: Sơn La" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Sơn La
+#EXTINF:-1 tvg-id="" tvg-name="VN: Sơn La" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Sơn La
 http://iptvtree.net:8080/13358/59407604/172144
-#EXTINF:-1 tvg-id="" tvg-name="VN: Thai Nguyen TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Thai Nguyen TV
+#EXTINF:-1 tvg-id="" tvg-name="VN: Thai Nguyen TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Thai Nguyen TV
 http://iptvtree.net:8080/13358/59407604/166785
-#EXTINF:-1 tvg-id="" tvg-name="VN: Thanh Hóa" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Thanh Hóa
+#EXTINF:-1 tvg-id="" tvg-name="VN: Thanh Hóa" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Thanh Hóa
 http://iptvtree.net:8080/13358/59407604/172134
-#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: THVL 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: THVL 1 HD
 http://iptvtree.net:8080/13358/59407604/172000
-#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: THVL 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: THVL 2 HD
 http://iptvtree.net:8080/13358/59407604/172003
-#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: THVL 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: THVL 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: THVL 3 HD
 http://iptvtree.net:8080/13358/59407604/172005
-#EXTINF:-1 tvg-id="" tvg-name="VN: Thái Bình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Thái Bình
+#EXTINF:-1 tvg-id="" tvg-name="VN: Thái Bình" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Thái Bình
 http://iptvtree.net:8080/13358/59407604/145007
-#EXTINF:-1 tvg-id="" tvg-name="VN: Thông Tấn Xã Việt Nam HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Thông Tấn Xã Việt Nam HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Thông Tấn Xã Việt Nam HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Thông Tấn Xã Việt Nam HD
 http://iptvtree.net:8080/13358/59407604/172088
-#EXTINF:-1 tvg-id="" tvg-name="VN: Thừa Thiên Huế" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Thừa Thiên Huế
+#EXTINF:-1 tvg-id="" tvg-name="VN: Thừa Thiên Huế" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Thừa Thiên Huế
 http://iptvtree.net:8080/13358/59407604/172146
-#EXTINF:-1 tvg-id="" tvg-name="VN: Tiền Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Tiền Giang
+#EXTINF:-1 tvg-id="" tvg-name="VN: Tiền Giang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Tiền Giang
 http://iptvtree.net:8080/13358/59407604/172135
-#EXTINF:-1 tvg-id="" tvg-name="VN: Travel & Living HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Travel & Living HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Travel & Living HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Travel & Living HD
 http://iptvtree.net:8080/13358/59407604/172082
-#EXTINF:-1 tvg-id="" tvg-name="VN: Truyền Hình Nhân Dân HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Truyền Hình Nhân Dân HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Truyền Hình Nhân Dân HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Truyền Hình Nhân Dân HD
 http://iptvtree.net:8080/13358/59407604/172090
-#EXTINF:-1 tvg-id="" tvg-name="VN: Trà Vinh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Trà Vinh HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Trà Vinh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Trà Vinh HD
 http://iptvtree.net:8080/13358/59407604/145085
-#EXTINF:-1 tvg-id="" tvg-name="VN: tSóc Trăng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: tSóc Trăng
+#EXTINF:-1 tvg-id="" tvg-name="VN: tSóc Trăng" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: tSóc Trăng
 http://iptvtree.net:8080/13358/59407604/172140
-#EXTINF:-1 tvg-id="" tvg-name="VN: Tuyen Quang TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Tuyen Quang TV
+#EXTINF:-1 tvg-id="" tvg-name="VN: Tuyen Quang TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Tuyen Quang TV
 http://iptvtree.net:8080/13358/59407604/166147
-#EXTINF:-1 tvg-id="" tvg-name="VN: TV5 Monde" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="VN: TV5 Monde" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: TV5 Monde
 http://iptvtree.net:8080/13358/59407604/172047
-#EXTINF:-1 tvg-id="" tvg-name="VN: Tây Ninh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Tây Ninh HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Tây Ninh HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Tây Ninh HD
 http://iptvtree.net:8080/13358/59407604/172133
-#EXTINF:-1 tvg-id="" tvg-name="VN: VGS Shop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VGS Shop
+#EXTINF:-1 tvg-id="" tvg-name="VN: VGS Shop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VGS Shop
 http://iptvtree.net:8080/13358/59407604/166145
-#EXTINF:-1 tvg-id="" tvg-name="VN: VOVTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VOVTV
+#EXTINF:-1 tvg-id="" tvg-name="VN: VOVTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VOVTV
 http://iptvtree.net:8080/13358/59407604/172085
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC1 HD
 http://iptvtree.net:8080/13358/59407604/172062
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC10
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC10
 http://iptvtree.net:8080/13358/59407604/172087
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC11 Thiếu Nhi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC11 Thiếu Nhi
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC11 Thiếu Nhi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC11 Thiếu Nhi
 http://iptvtree.net:8080/13358/59407604/172101
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC12
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC12
 http://iptvtree.net:8080/13358/59407604/172074
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC13 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC13 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC13 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC13 HD
 http://iptvtree.net:8080/13358/59407604/172075
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC14 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC14 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC14 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC14 HD
 http://iptvtree.net:8080/13358/59407604/172009
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC16 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC16 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC16 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC16 HD
 http://iptvtree.net:8080/13358/59407604/172086
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC2
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC2
 http://iptvtree.net:8080/13358/59407604/172093
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC3 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC3 HD
 http://iptvtree.net:8080/13358/59407604/172072
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC4 - Yeah1 Family HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC4 - Yeah1 Family HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC4 - Yeah1 Family HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC4 - Yeah1 Family HD
 http://iptvtree.net:8080/13358/59407604/172091
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC5
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC5
 http://iptvtree.net:8080/13358/59407604/172066
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC6
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC6
 http://iptvtree.net:8080/13358/59407604/172098
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC7 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC7 HD
 http://iptvtree.net:8080/13358/59407604/172004
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC8
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC8
 http://iptvtree.net:8080/13358/59407604/172068
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTC9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTC9
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTC9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTC9
 http://iptvtree.net:8080/13358/59407604/172069
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV Hyundai Homeshopping" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV Hyundai Homeshopping
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV Hyundai Homeshopping" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV Hyundai Homeshopping
 http://iptvtree.net:8080/13358/59407604/172108
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV1 HD
 http://iptvtree.net:8080/13358/59407604/144993
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV2 HD
 http://iptvtree.net:8080/13358/59407604/172012
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV3 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV3 HD
 http://iptvtree.net:8080/13358/59407604/172001
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV4 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV4 HD
 http://iptvtree.net:8080/13358/59407604/172016
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV5 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV5 HD
 http://iptvtree.net:8080/13358/59407604/172010
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV6 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV6 HD
 http://iptvtree.net:8080/13358/59407604/172023
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV7 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV7 HD
 http://iptvtree.net:8080/13358/59407604/172020
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV8 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV8 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV8 HD
 http://iptvtree.net:8080/13358/59407604/172039
-#EXTINF:-1 tvg-id="" tvg-name="VN: VTV9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: VTV9 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: VTV9 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: VTV9 HD
 http://iptvtree.net:8080/13358/59407604/172013
-#EXTINF:-1 tvg-id="" tvg-name="VN: Vĩnh Long 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Vĩnh Long 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Vĩnh Long 4 HD
 http://iptvtree.net:8080/13358/59407604/172067
-#EXTINF:-1 tvg-id="" tvg-name="VN: Vĩnh Phúc" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Vĩnh Phúc
+#EXTINF:-1 tvg-id="" tvg-name="VN: Vĩnh Phúc" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Vĩnh Phúc
 http://iptvtree.net:8080/13358/59407604/172136
-#EXTINF:-1 tvg-id="" tvg-name="VN: Warner TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Warner TV HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Warner TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Warner TV HD
 http://iptvtree.net:8080/13358/59407604/172050
-#EXTINF:-1 tvg-id="" tvg-name="VN: Yên Bái" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Yên Bái
+#EXTINF:-1 tvg-id="" tvg-name="VN: Yên Bái" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Yên Bái
 http://iptvtree.net:8080/13358/59407604/145088
-#EXTINF:-1 tvg-id="" tvg-name="VN: Điện Biên" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Điện Biên
+#EXTINF:-1 tvg-id="" tvg-name="VN: Điện Biên" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Điện Biên
 http://iptvtree.net:8080/13358/59407604/172106
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đà Nẵng 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đà Nẵng 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đà Nẵng 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đà Nẵng 1 HD
 http://iptvtree.net:8080/13358/59407604/172124
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đà Nẵng 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đà Nẵng 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đà Nẵng 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đà Nẵng 2 HD
 http://iptvtree.net:8080/13358/59407604/172102
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đăk Lăk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đăk Lăk
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đăk Lăk" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đăk Lăk
 http://iptvtree.net:8080/13358/59407604/172115
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Nai 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đồng Nai 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Nai 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đồng Nai 1 HD
 http://iptvtree.net:8080/13358/59407604/172116
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Nai 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đồng Nai 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Nai 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đồng Nai 2 HD
 http://iptvtree.net:8080/13358/59407604/172117
-#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Tháp" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vietnam",VN: Đồng Tháp
+#EXTINF:-1 tvg-id="" tvg-name="VN: Đồng Tháp" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Vivos",VN: Đồng Tháp
 http://iptvtree.net:8080/13358/59407604/172007
 #EXTINF:-1 tvg-id="" tvg-name="Vietnam: AG TV" tvg-logo="https://i1.wp.com/www.fotech.cl/wp-content/uploads/2019/06/agtv.jpg?fit=880%2C320&ssl=1" group-title="|AS| VIETNAM",Vietnam: AG TV
 http://magco.rip:8000/41919239348600/41161461566815/89549
@@ -3492,3 +3492,39 @@ http://magco.rip:8000/41919239348600/41161461566815/89592
 http://magco.rip:8000/41919239348600/41161461566815/89593
 #EXTINF:-1 tvg-id="" tvg-name="Vietnam: Tibetan TV" tvg-logo="https://www.tvchinese.net/uploads/tv/xizangtv.jpg" group-title="|AS| VIETNAM",Vietnam: Tibetan TV
 http://magco.rip:8000/41919239348600/41161461566815/89594
+#EXTINF:-1 tvg-id="" tvg-name="VN001:AN GIANG 1" tvg-logo="" group-title="Vivos",VN001:AN GIANG 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1871
+#EXTINF:-1 tvg-id="" tvg-name="VN011:NINH THUAN" tvg-logo="" group-title="Vivos",VN011:NINH THUAN
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1861
+#EXTINF:-1 tvg-id="" tvg-name="VN012:VINH PHUC" tvg-logo="" group-title="Vivos",VN012:VINH PHUC
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1860
+#EXTINF:-1 tvg-id="" tvg-name="VN013:Long An" tvg-logo="" group-title="Vivos",VN013:Long An
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1859
+#EXTINF:-1 tvg-id="" tvg-name="VN014:Tien Giang" tvg-logo="" group-title="Vivos",VN014:Tien Giang
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1858
+#EXTINF:-1 tvg-id="" tvg-name="VN015:Tra Vinh" tvg-logo="" group-title="Vivos",VN015:Tra Vinh
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1857
+#EXTINF:-1 tvg-id="" tvg-name="VN016:HTV 1" tvg-logo="" group-title="Vivos",VN016:HTV 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1856
+#EXTINF:-1 tvg-id="" tvg-name="VN017:Da Nang 1" tvg-logo="" group-title="Vivos",VN017:Da Nang 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1855
+#EXTINF:-1 tvg-id="" tvg-name="VN018:HTV3" tvg-logo="" group-title="Vivos",VN018:HTV3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1854
+#EXTINF:-1 tvg-id="" tvg-name="VN002:DAK LAK" tvg-logo="" group-title="Vivos",VN002:DAK LAK
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1870
+#EXTINF:-1 tvg-id="" tvg-name="VN003:HUNG YEN" tvg-logo="" group-title="Vivos",VN003:HUNG YEN
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1869
+#EXTINF:-1 tvg-id="" tvg-name="VN004:KHANH HOA" tvg-logo="" group-title="Vivos",VN004:KHANH HOA
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1868
+#EXTINF:-1 tvg-id="" tvg-name="VN005:HTV4" tvg-logo="" group-title="Vivos",VN005:HTV4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1867
+#EXTINF:-1 tvg-id="" tvg-name="VN006:KIEN GIANG" tvg-logo="" group-title="Vivos",VN006:KIEN GIANG
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1866
+#EXTINF:-1 tvg-id="" tvg-name="VN007:VTV3" tvg-logo="" group-title="Vivos",VN007:VTV3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1865
+#EXTINF:-1 tvg-id="" tvg-name="VN008:VTV4" tvg-logo="" group-title="Vivos",VN008:VTV4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1864
+#EXTINF:-1 tvg-id="" tvg-name="VN009:KON TUM" tvg-logo="" group-title="Vivos",VN009:KON TUM
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1863
+#EXTINF:-1 tvg-id="" tvg-name="VN010:VTV6" tvg-logo="" group-title="Vivos",VN010:VTV6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/1862
