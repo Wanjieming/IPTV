@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/49161
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
@@ -856,6 +855,703 @@ http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91066
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91065
 #EXTINF:-1 tvg-ID="" tvg-name="VOYAGE HEVC" tvg-logo="" group-title="Sansat",VOYAGE HEVC
 http://www.sansat.net:25461/12DaisySS1201TV1/5vHavNrqMapw0Br/91064
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name=«AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="vivos",AB Moteur
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2863
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name=«Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="vivos",Bein Sport 4 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2857
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name=«Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="vivos",Bein Sport 5 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name=«Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="vivos",Bein Sport 6 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name=«Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="vivos",Bein Sport 7 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name=«Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="vivos",Bein Sport 8 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name=« Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="vivos", Bein Sport 9 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2851
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name=«Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="vivos",Bein Sport 10 Max
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2856
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name=«Bein Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="vivos",Bein Sport 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2849
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name=«Bein Sport  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="vivos",Bein Sport  2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2848
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name=«Bein Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="vivos",Bein Sport 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2850
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name=«Canal  Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="vivos",Canal  Sport
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2839
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name=«Euro Sport 1 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="vivos",Euro Sport 1 FR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name=«Euro Sport 2 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="vivos",Euro Sport 2 FR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2815
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name=«Info Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="vivos",Info Sport
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2804
+#EXTINF:-1 tvg-id="sfr.sport.1.fr" tvg-name=«SFR Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081SFRSport1.png" group-title="vivos",SFR Sport 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2785
+#EXTINF:-1 tvg-id="sfr.sport.2.fr" tvg-name=«SFR Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082SFRSport2.png" group-title="vivos",SFR Sport 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2784
+#EXTINF:-1 tvg-id="sfr.sport.3.fr" tvg-name=«SFR Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR083SFRSport3.png" group-title="vivos",SFR Sport 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2783
+#EXTINF:-1 tvg-id="sfr.sport.4.fr" tvg-name=«SFR Sport 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080SFRSport4.png" group-title="vivos",SFR Sport 4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2786
+#EXTINF:-1 tvg-id="" tvg-name=«Persiana 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png" group-title="vivos",Persiana 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28173
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name=«Eurosport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR112Eurosport1.png" group-title="vivos",Eurosport 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28197
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name=«Eurosport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR111Eurosport2.png" group-title="vivos",Eurosport 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28198
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name=«EUROSPORT 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266EUROSPORT1FHD.png" group-title="vivos",EUROSPORT 1 FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28043
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name=«EUROSPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267EUROSPORT2FHD.png" group-title="vivos",EUROSPORT 2 FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28042
+#EXTINF:-1 tvg-id="extreme.sports.fr" tvg-name=«EXTREME SPORTS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268EXTREMESPORTSHD.png" group-title="vivos",EXTREME SPORTS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28041
+#EXTINF:-1 tvg-id="" tvg-name=«BFM SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="vivos",BFM SPORT
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28132
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name=«INFOSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113INFOSPORT.png" group-title="vivos",INFOSPORT
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28196
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name=«Foot +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR329Foot.png" group-title="vivos",Foot +
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27980
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name=«RMC SPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="vivos",RMC SPORT 1 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27960
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name=«RMC SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="vivos",RMC SPORT 2 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27959
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name=«RMC SPORT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="vivos",RMC SPORT 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27958
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name=«RMC SPORT 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="vivos",RMC SPORT 4 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27957
+#EXTINF:-1 tvg-id="rmc.sport.access.1.fr" tvg-name=«RMC ACCESS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR337RMCACCESS1.png" group-title="vivos",RMC ACCESS 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27972
+#EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name=«RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="vivos",RMC ACCESS  2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27971
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name=«CStar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="vivos",CStar
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2825
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name=«6Ter" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="vivos",6Ter
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2864
+#EXTINF:-1 tvg-id="ab.1.fr" tvg-name=«AB1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR004AB1.png" group-title="vivos",AB1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2862
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name=« AB3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR005AB3.png" group-title="vivos", AB3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2861
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name=«Animaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR007Animaux.png" group-title="vivos",Animaux
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2859
+#EXTINF:-1 tvg-id="arte.fr" tvg-name=«Arte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR008Arte.png" group-title="vivos",Arte
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2858
+#EXTINF:-1 tvg-id="discovery.f.fr" tvg-name=«Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="vivos",Discovery
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2824
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name=«Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="vivos",Discovery Science
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2823
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name=«NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR067NATGEO.png" group-title="vivos",NAT GEO
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2799
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name=«NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR068NATGEOWILD.png" group-title="vivos",NAT GEO WILD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2798
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name=«NRJ Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR070NRJHits.png" group-title="vivos",NRJ Hits
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2796
+#EXTINF:-1 tvg-id="planete.fr" tvg-name=« Planete" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR075Planete.png" group-title="vivos", Planete
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2791
+#EXTINF:-1 tvg-id="planete+.action.experience.fr" tvg-name=«Planete A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="vivos",Planete A&E
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2790
+#EXTINF:-1 tvg-id="planete+.ci.fr" tvg-name=«Planete CI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="vivos",Planete CI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2789
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name=«Seasons" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR079Seasons.png" group-title="vivos",Seasons
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2787
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name=«NRJ12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR096NRJ12HD.png" group-title="vivos",NRJ12 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28213
+#EXTINF:-1 tvg-id="science.et.vie.fr" tvg-name=«SCIENCE ET VIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR126SCIENCEETVIEHD.png" group-title="vivos",SCIENCE ET VIE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28183
+#EXTINF:-1 tvg-id="trace.mziki.fr" tvg-name=«Trace Mziki" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR146TraceMziki.png" group-title="vivos",Trace Mziki
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28163
+#EXTINF:-1 tvg-id="trace.toca.fr" tvg-name=«Trace Toca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR149TraceToca.png" group-title="vivos",Trace Toca
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28160
+#EXTINF:-1 tvg-id="trace.tropical.fr" tvg-name=«Trace Tropical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR156TraceTropical.png" group-title="vivos",Trace Tropical
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28153
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name=«Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR157TraceUrban.png" group-title="vivos",Trace Urban
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28152
+#EXTINF:-1 tvg-id="e.fr" tvg-name=«E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR170E!Entertainment.png" group-title="vivos",E! Entertainment
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28139
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name=«Discovery Investigation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR172DiscoveryInvestigationHD.png" group-title="vivos",Discovery Investigation HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28137
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name=«MCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR166MCM.png" group-title="vivos",MCM
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28143
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name=«MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR167MCMTOP.png" group-title="vivos",MCM TOP
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28142
+#EXTINF:-1 tvg-id="djazz.fr" tvg-name=«DJAZZ TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR236DJAZZTV.png" group-title="vivos",DJAZZ TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28073
+#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name=«Discovery FAMILY FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR258DiscoveryFAMILYFHD.png" group-title="vivos",Discovery FAMILY FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28051
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name=«Discovery INVESTIGATION FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR259DiscoveryINVESTIGATIONFHD.png" group-title="vivos",Discovery INVESTIGATION FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28050
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name=« RMC STORY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR355RMCSTORYHD.png" group-title="vivos", RMC STORY HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27954
+#EXTINF:-1 tvg-id="c8.fr" tvg-name=«C8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="vivos",C8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2844
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name=«Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png" group-title="vivos",Canal
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2838
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name=«Chasse et Pache" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="vivos",Chasse et Pache
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2835
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name=«Cherie 25" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="vivos",Cherie 25
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2834
+#EXTINF:-1 tvg-id="comedie+.fr" tvg-name=«Comedie Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="vivos",Comedie Plus
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2826
+#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name=«Equidiae Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png" group-title="vivos",Equidiae Live
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2818
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name=«France 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR052France2.png" group-title="vivos",France 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2814
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name=«France 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR054France3.png" group-title="vivos",France 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2812
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name=« France 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR055France4.png" group-title="vivos", France 4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2811
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name=«France 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR056France5.png" group-title="vivos",France 5
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2810
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name=«France O" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="vivos",France O
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2809
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name=«Game One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR058GameOne.png" group-title="vivos",Game One
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2808
+#EXTINF:-1 tvg-id="hd1.fr" tvg-name=«HD1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR060HD1.png" group-title="vivos",HD1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2806
+#EXTINF:-1 tvg-id="" tvg-name=«i Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR061iTele.png" group-title="vivos",i Tele
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2805
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name=«L'EQUIPE 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR063L'EQUIPE21.png" group-title="vivos",L'EQUIPE 21
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2803
+#EXTINF:-1 tvg-id="m6.fr" tvg-name=« M6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR065M6.png" group-title="vivos", M6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2801
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name=«TFX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png" group-title="vivos",TFX
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2795
+#EXTINF:-1 tvg-id="" tvg-name=«Pairs Permiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="vivos",Pairs Permiere
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2793
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name=«RTL9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR078RTL9.png" group-title="vivos",RTL9
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2788
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name=«Syfy FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR084SyfyFR.png" group-title="vivos",FR084: Syfy FR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2782
+#EXTINF:-1 tvg-id="teva.fr" tvg-name=« Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR085Teva.png" group-title="vivos", Teva
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2781
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name=«TF1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="vivos",TF1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2779
+#EXTINF:-1 tvg-id="toute.lhistoire.fr" tvg-name=«Toute Lhistoire" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR088TouteLhistoire.png" group-title="vivos",Toute Lhistoire
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2778
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name=«Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR089TraceUrban.png" group-title="vivos",Trace Urban
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2777
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name=«TV Breizh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR090TVBreizh.png" group-title="vivos",TV Breizh
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2776
+#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name=«TV5 Monde" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="vivos",TV5 Monde
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2775
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name=«Voyage" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR092Voyage.png" group-title="vivos",Voyage
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2774
+#EXTINF:-1 tvg-id="" tvg-name=«D8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR101D8.png" group-title="vivos",D8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28208
+#EXTINF:-1 tvg-id="comedie.fr" tvg-name=«COMEDIE  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR109COMEDIEHD.png" group-title="vivos",COMEDIE  HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28200
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name=«CANAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR110CANALHD.png" group-title="vivos",CANAL  HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28199
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name=«RTS DEUX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR114LaDeux.png" group-title="vivos",RTS DEUX
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28195
+#EXTINF:-1 tvg-id="luxe.fr" tvg-name=« LUXE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png" group-title="vivos", LUXE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28194
+#EXTINF:-1 tvg-id="" tvg-name=«NUMERO 23 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="vivos",NUMERO 23 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28193
+#EXTINF:-1 tvg-id="" tvg-name=«ZOUZOU HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121ZOUZOUHD.png" group-title="vivos",ZOUZOU HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28188
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name=«PARIS PREMIERE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR122PARISPREMIEREHD.png" group-title="vivos",PARIS PREMIERE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28187
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name=«rmc decouverte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR123rmcdecouverte.png" group-title="vivos",rmc decouverte
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28186
+#EXTINF:-1 tvg-id="" tvg-name=«RESTEZ 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR124RTSDeux.png" group-title="vivos",RESTEZ 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28185
+#EXTINF:-1 tvg-id="rts.un.fr" tvg-name=« RTS Un" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR125RTSUn.png" group-title="vivos", RTS Un
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28184
+#EXTINF:-1 tvg-id="sciences.vie.fr" tvg-name=«SCIENCES & VIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR127SCIENCES&VIE.png" group-title="vivos",SCIENCES & VIE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28182
+#EXTINF:-1 tvg-id="" tvg-name=«MB Live TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129MBLiveTV.png" group-title="vivos",MB Live TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28180
+#EXTINF:-1 tvg-id="" tvg-name=«Zouzou TV LOCAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130ZouzouTVLOCAL.png" group-title="vivos",Zouzou TV LOCAL
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28179
+#EXTINF:-1 tvg-id="weo.fr" tvg-name=«WEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137WEOHD.png" group-title="vivos",WEO HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28172
+#EXTINF:-1 tvg-id="" tvg-name=«NT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR139NT1.png" group-title="vivos",NT1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28170
+#EXTINF:-1 tvg-id="" tvg-name=«TEVA/TMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR141TEVA/TMC.png" group-title="vivos",TEVA/TMC
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28168
+#EXTINF:-1 tvg-id="trek.fr" tvg-name=«TREK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR142TREKHD.png" group-title="vivos",TREK HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28167
+#EXTINF:-1 tvg-id="contactv.fr" tvg-name=«Radio Contact" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR144RadioContact.png" group-title="vivos",Radio Contact
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28165
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name=« HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR145SundanceTV.png" group-title="vivos", HISTOIRE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28164
+#EXTINF:-1 tvg-id="" tvg-name=«TV3V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="vivos",TV3V
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28150
+#EXTINF:-1 tvg-id="bet.fr" tvg-name=«BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png" group-title="vivos",BET
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28148
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name=«J One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR162JOne.png" group-title="vivos",J One
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28147
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name=«FOOT  24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png" group-title="vivos",FOOT  24
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28145
+#EXTINF:-1 tvg-id="tv5.monde.style.fr" tvg-name=« TV5 Style" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png" group-title="vivos", TV5 Style
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28144
+#EXTINF:-1 tvg-id="science.vie.fr" tvg-name=«Science & Vie HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR168Science VieHD.png" group-title="vivos",Science & Vie HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28141
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name=«CRIME DISTRICT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR169CRIMEDISTRICTHD.png" group-title="vivos",CRIME DISTRICT HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28140
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name=«BFM business" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR171BFMbusiness.png" group-title="vivos",BFM business
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28138
+#EXTINF:-1 tvg-id="" tvg-name=«BE CURIOUS TV HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR173BECURIOUSTVHD(1080P).png" group-title="vivos",BE CURIOUS TV HD (1080P)
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28136
+#EXTINF:-1 tvg-id="equidia.life.fr" tvg-name=« EQUIDIA LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="vivos", EQUIDIA LIFE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28134
+#EXTINF:-1 tvg-id="golf.fr" tvg-name=«Golf Channel France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="vivos",Golf Channel France
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28133
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name=«Syfy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178SyfyHD.png" group-title="vivos",Syfy HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28131
+#EXTINF:-1 tvg-id="teva.fr" tvg-name=«Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR179Teva.png" group-title="vivos",Teva
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28130
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name=«TV5Monde Maghreb-Orient" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR192TV5MondeMaghreb-Orient.png" group-title="vivos",TV5Monde Maghreb-Orient
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28117
+#EXTINF:-1 tvg-id="bfm.lyon.metropole.fr" tvg-name=«BFM LYON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR194BFMLYON.png" group-title="vivos",BFM LYON
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28115
+#EXTINF:-1 tvg-id="vosges.fr" tvg-name=« VOSGES TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR195VOSGESTV.png" group-title="vivos", VOSGES TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28114
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name=«ALTICE STUDIO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR196ALTICESTUDIOFHD.png" group-title="vivos",ALTICE STUDIO FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28113
+#EXTINF:-1 tvg-id="" tvg-name=«Antenne Reunion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR197AntenneReunion.png" group-title="vivos",Antenne Reunion
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28112
+#EXTINF:-1 tvg-id="viceland.fr" tvg-name=«VICELAND HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="vivos",VICELAND HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28111
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name=«USHUAIA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR199USHUAIAHD.png" group-title="vivos",USHUAIA HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28110
+#EXTINF:-1 tvg-id="bet.fr" tvg-name=«BET FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR200BETFHD.png" group-title="vivos",BET FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28109
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name=«BFM Business HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR201BFMBusinessHD.png" group-title="vivos",BFM Business HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28108
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name=«BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR202BFMHD.png" group-title="vivos",BFM HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28107
+#EXTINF:-1 tvg-id="bfm.paris.fr" tvg-name=«BFM PARIS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR203BFMPARISHD.png" group-title="vivos",BFM PARIS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28106
+#EXTINF:-1 tvg-id="" tvg-name=«BERBERE TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR204BlackClassic.png" group-title="vivos",BERBERE TELEVISION
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28105
+#EXTINF:-1 tvg-id="" tvg-name=«ILTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR207ILTV.png" group-title="vivos",ILTV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28102
+#EXTINF:-1 tvg-id="" tvg-name=«NOVELAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR209VIRGIN.png" group-title="vivos",NOVELAS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28100
+#EXTINF:-1 tvg-id="13eme.rue.fr" tvg-name=«13EME RUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR21013EMERUE.png" group-title="vivos",13EME RUE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28099
+#EXTINF:-1 tvg-id="" tvg-name=«GOLF+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png" group-title="vivos",GOLF+ HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28098
+#EXTINF:-1 tvg-id="" tvg-name=«Bblack! Caribbean" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR212Bblack!Caribbean.png" group-title="vivos",Bblack! Caribbean
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28097
+#EXTINF:-1 tvg-id="" tvg-name=«CPAC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR213CPAC.png" group-title="vivos",CPAC
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28096
+#EXTINF:-1 tvg-id="fashion.fr" tvg-name=«NRJ HITS BELGIQUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR214NRJHITSBELGIQUE.png" group-title="vivos",NRJ HITS BELGIQUE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28095
+#EXTINF:-1 tvg-id="serie.club.fr" tvg-name=«Serie Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR216SerieClub.png" group-title="vivos",Serie Club
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28093
+#EXTINF:-1 tvg-id="m6.boutique.fr" tvg-name=«M6 Boutique HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR217M6BoutiqueHD.png" group-title="vivos",M6 Boutique HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28092
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name=«M6 Music Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR218M6MusicHits.png" group-title="vivos",M6 Music Hits
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28091
+#EXTINF:-1 tvg-id="" tvg-name=«HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR219HD1.png" group-title="vivos",HD 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28090
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name=«RTS LA DEUX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR220RTSLADEUXHD.png" group-title="vivos",RTS LA DEUX HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28089
+#EXTINF:-1 tvg-id="" tvg-name=«Alsace TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR221AlsaceTV.png" group-title="vivos",Alsace TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28088
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name=«SyFy Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR222SyFyUniversalHD.png" group-title="vivos",SyFy Universal HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28087
+#EXTINF:-1 tvg-id="" tvg-name=«BRAVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR223BRAVAHD.png" group-title="vivos",BRAVA HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28086
+#EXTINF:-1 tvg-id="tl7.saint.etienne.fr" tvg-name=« RESTEZ 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR235TL7.png" group-title="vivos", RESTEZ 2 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28074
+#EXTINF:-1 tvg-id="mtv.base.fr" tvg-name=«MTV BASE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR237MTVBASE.png" group-title="vivos",MTV BASE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28072
+#EXTINF:-1 tvg-id="mtv.dance.fr" tvg-name=«MTV DANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR238MTVDANCE.png" group-title="vivos",MTV DANCE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28071
+#EXTINF:-1 tvg-id="mtv.hits.fr" tvg-name=«MTV HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR239MTVHITS.png" group-title="vivos",MTV HITS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28070
+#EXTINF:-1 tvg-id="" tvg-name=«TVM 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR240TVM3HD.png" group-title="vivos",TVM 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28069
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name=«TV5 MONDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR241TV5MONDE.png" group-title="vivos",TV5 MONDE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28068
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name=«CANAL  DECALE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR242CANALDECALEHD.png" group-title="vivos",CANAL  DECALE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28067
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL  Emotion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR243CANALEmotionHD.png" group-title="vivos",CANAL  Emotion HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28066
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name=«CANAL  FAMILY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR244CANALFAMILYHD.png" group-title="vivos",CANAL  FAMILY HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28065
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name=« CANAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR245CANALHD.png" group-title="vivos", CANAL  HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28064
+#EXTINF:-1 tvg-id="trace.naija.fr" tvg-name=«TRACE NAIJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR247TVVendee.png" group-title="vivos",TRACE NAIJA
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28062
+#EXTINF:-1 tvg-id="canal+.serie.fr" tvg-name=«CANAL  SERIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR248CANALSERIEHD.png" group-title="vivos",CANAL  SERIE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28061
+#EXTINF:-1 tvg-id="tv7.bordeaux.fr" tvg-name=«TV7 Bordeaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR249TV7Bordeaux.png" group-title="vivos",TV7 Bordeaux
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28060
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name=«CANAL  SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR250CANALSPORTFHD.png" group-title="vivos",CANAL  SPORT FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28059
+#EXTINF:-1 tvg-id="cine+.club.fr" tvg-name=«CINE  CLUB HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR251CINECLUBHD.png" group-title="vivos",CINE  CLUB HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28058
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name=«CINE FRISSON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR252CINEFRISSONHD.png" group-title="vivos",CINE FRISSON HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28057
+#EXTINF:-1 tvg-id="cine+.star.afrique.fr" tvg-name=«CINE  Star HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR253CINEStarHD.png" group-title="vivos",CINE  Star HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28056
+#EXTINF:-1 tvg-id="tv8.montblanc.fr" tvg-name=«TV8 MontBlanc 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254TV8MontBlanc2.png" group-title="vivos",TV8 MontBlanc 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28055
+#EXTINF:-1 tvg-id="" tvg-name=« TV5 Europe HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR255TV5EuropeHD.png" group-title="vivos", TV5 Europe HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28054
+#EXTINF:-1 tvg-id="tvr.rennes.35.bretagne.fr" tvg-name=«TVR TV Rennes 35" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256TVRTVRennes35.png" group-title="vivos",TVR TV Rennes 35
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28053
+#EXTINF:-1 tvg-id="vialmtv.sarthe.fr" tvg-name=«VIA LMTV SARTHE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR257VIALMTVSARTHE.png" group-title="vivos",VIA LMTV SARTHE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28052
+#EXTINF:-1 tvg-id="e.fr" tvg-name=«E! FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR260E!FHD.png" group-title="vivos",E! FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28049
+#EXTINF:-1 tvg-id="" tvg-name=«RTS LA UN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR263RTSLAUN.png" group-title="vivos",RTS LA UN
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28046
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name=«ELLE GIRL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR264ELLEGIRLHD.png" group-title="vivos",ELLE GIRL HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28045
+#EXTINF:-1 tvg-id="viamirabelle.fr" tvg-name=«VIA MIRABELLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR269VIAMIRABELLETV.png" group-title="vivos",VIA MIRABELLE TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28040
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name=«FOOT 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR270FOOT24HD.png" group-title="vivos",FOOT 24 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28039
+#EXTINF:-1 tvg-id="trek.fr" tvg-name=«TREK FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR271TREKFHD.png" group-title="vivos",TREK FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28038
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name=«FRANCEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR272FRANCEOHD.png" group-title="vivos",FRANCEO HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28037
+#EXTINF:-1 tvg-id="" tvg-name=«via Occitanie TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR273viaOccitanieTV.png" group-title="vivos",via Occitanie TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28036
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name=«Via Vosges TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR274ViaVosgesTV.png" group-title="vivos",Via Vosges TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28035
+#EXTINF:-1 tvg-id="gong.max.fr" tvg-name=« GONG MAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR275GONGMAXHD.png" group-title="vivos", GONG MAX HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28034
+#EXTINF:-1 tvg-id="gong.fr" tvg-name=«Gong TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR276GongTV.png" group-title="vivos",Gong TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28033
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name=«RTS Deux FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR277RTSDeuxFHD.png" group-title="vivos",RTS Deux FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28032
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name=«J ONE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR279JONEFHD.png" group-title="vivos",J ONE FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28030
+#EXTINF:-1 tvg-id="kombat.sport.pt" tvg-name=«KOMBAT SPORTS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR280KOMBATSPORTSHD.png" group-title="vivos",KOMBAT SPORTS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28029
+#EXTINF:-1 tvg-id="kto.fr" tvg-name=«KTO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR281KTOHD.png" group-title="vivos",KTO HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28028
+#EXTINF:-1 tvg-id="" tvg-name=«LA CHAINE NORMANDIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR282LACHAINENORMANDIEHD.png" group-title="vivos",LA CHAINE NORMANDIE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28027
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name=«viàVosges" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR284viàVosges.png" group-title="vivos",viàVosges
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28025
+#EXTINF:-1 tvg-id="tvr.fr" tvg-name=« TVR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR285TVR.png" group-title="vivos", TVR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28024
+#EXTINF:-1 tvg-id="tvplaiz.fr" tvg-name=«TVPI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR286TVPI.png" group-title="vivos",TVPI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28023
+#EXTINF:-1 tvg-id="plug.rtl.fr" tvg-name=«PLUG RTL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR288PLUGRTL.png" group-title="vivos",PLUG RTL
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28021
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name=«MCM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR289MCMHD.png" group-title="vivos",MCM HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28020
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name=«MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR290MCMTOP.png" group-title="vivos",MCM TOP
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28019
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name=«MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR291MEZZOLIVEHD.png" group-title="vivos",MEZZO LIVE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28018
+#EXTINF:-1 tvg-id="trace.ayiti.fr" tvg-name=«TRACE AYITI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR292TRACEAYITI.png" group-title="vivos",TRACE AYITI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28017
+#EXTINF:-1 tvg-id="trace.africa.fr" tvg-name=«TRACE AFRICA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR293TRACEAFRICAHD.png" group-title="vivos",TRACE AFRICA HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28016
+#EXTINF:-1 tvg-id="mtv.f.fr" tvg-name=«MTV FRANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR294MTVFRANCE.png" group-title="vivos",MTV FRANCE
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28015
+#EXTINF:-1 tvg-id="mtv.music.fr" tvg-name=« MTV Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR295MTVMusic.png" group-title="vivos", MTV Music
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28014
+#EXTINF:-1 tvg-id="" tvg-name=«ZouZous" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR296ZouZous.png" group-title="vivos",ZouZous
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28013
+#EXTINF:-1 tvg-id="my.cuisine.fr" tvg-name=«MY CUISINE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR297MYCUISINEFHD.png" group-title="vivos",MY CUISINE FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28012
+#EXTINF:-1 tvg-id="" tvg-name=«La Chaine Normande" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR299LaChaineNormande.png" group-title="vivos",La Chaine Normande
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28010
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name=«AB MOTEURS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR300ABMOTEURS.png" group-title="vivos",AB MOTEURS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28009
+#EXTINF:-1 tvg-id="cgtn.fr" tvg-name=«CGTN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR303CGTN.png" group-title="vivos",CGTN
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28006
+#EXTINF:-1 tvg-id="rtl.fr" tvg-name=«RTL FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR304RTLFHD.png" group-title="vivos",RTL FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28005
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name=«OLTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR312OLTVHD.png" group-title="vivos",OLTV HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27997
+#EXTINF:-1 tvg-id="trace.gospel.fr" tvg-name=«TRACE GOSPEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR313TRACEGOSPEL.png" group-title="vivos",TRACE GOSPEL
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27996
+#EXTINF:-1 tvg-id="planete+.fr" tvg-name=«Planete+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR320Planete+HD.png" group-title="vivos",Planete+ HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27989
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name=«SyFy Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR323SyFyUniversal.png" group-title="vivos",SyFy Universal
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27986
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name=«Equida_FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR324Equida_FR.png" group-title="vivos",Equida_FR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27985
+#EXTINF:-1 tvg-id="alsace.20.fr" tvg-name=«ALSACE 20" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR330ALSACE20.png" group-title="vivos",ALSACE 20
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27979
+#EXTINF:-1 tvg-id="a+.fr" tvg-name=«A+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR331A+.png" group-title="vivos",A+
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27978
+#EXTINF:-1 tvg-id="" tvg-name=«CINEMA ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR333CINEMAACTION2.png" group-title="vivos",CINEMA ACTION 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27976
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name=«NOLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR334NOLYWOOD.png" group-title="vivos",NOLYWOOD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27975
+#EXTINF:-1 tvg-id="" tvg-name=« PICKLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR335PICKLETV.png" group-title="vivos", PICKLE TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27974
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name=«PARIS PREMIERE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR342PARISPREMIEREFHD.png" group-title="vivos",PARIS PREMIERE FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27967
+#EXTINF:-1 tvg-id="" tvg-name=«RT France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR344RTFrance.png" group-title="vivos",RT France
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27965
+#EXTINF:-1 tvg-id="" tvg-name=«EMCI TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR346EMCITV.png" group-title="vivos",EMCI TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27963
+#EXTINF:-1 tvg-id="" tvg-name=«Fashion L'Original" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR347FashionL'Original.png" group-title="vivos",Fashion L'Original
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27962
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name=«RMC Decouverte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCDecouverteHD.png" group-title="vivos",RMC Decouverte HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27961
+#EXTINF:-1 tvg-id="bip.fr" tvg-name=«BipTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR353BipTV.png" group-title="vivos",BipTV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27956
+#EXTINF:-1 tvg-id="" tvg-name=«Bblack Classik" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR356BblackClassik.png" group-title="vivos",Bblack Classik
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27953
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name=«13 Eme Rue" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="vivos",13 Eme Rue
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2865
+#EXTINF:-1 tvg-id="action.fr" tvg-name=«Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png" group-title="vivos",Action
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2860
+#EXTINF:-1 tvg-id="canal.plus.cinema.fr" tvg-name=«Canal  Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="vivos",Canal  Cinema
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2843
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name=«Canal  Decale" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="vivos",Canal  Decale
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2842
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name=« Canal  Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="vivos", Canal  Family
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2841
+#EXTINF:-1 tvg-id="canal+.series.fr" tvg-name=«Canal  Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR026CanalSeries.png" group-title="vivos",Canal  Series
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2840
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name=«Cine Class" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png" group-title="vivos",Cine Class
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2833
+#EXTINF:-1 tvg-id="cine+.emotion.fr" tvg-name=«Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR034CineEmotion.png" group-title="vivos",Cine Emotion
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2832
+#EXTINF:-1 tvg-id="cine+.famiz.fr" tvg-name=« Cine Famiz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR035CineFamiz.png" group-title="vivos", Cine Famiz
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2831
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name=«Cine Frisson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="vivos",Cine Frisson
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2830
+#EXTINF:-1 tvg-id="cine.fx.fr" tvg-name=«Cine FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037CineFX.png" group-title="vivos",Cine FX
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2829
+#EXTINF:-1 tvg-id="cine.polar.fr" tvg-name=«Cine Polar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="vivos",Cine Polar
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2828
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name=«Cine Permier" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="vivos",Cine Permier
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2827
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name=«Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="vivos",Paramount
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2794
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name=«Series Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR086SeriesClub.png" group-title="vivos",Series Club
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2780
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png" group-title="vivos",CANAL PLAY 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28207
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="vivos",CANAL PLAY 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28206
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="vivos",CANAL PLAY 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28205
+#EXTINF:-1 tvg-id="" tvg-name=« CANAL PLAY 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="vivos", CANAL PLAY 4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28204
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png" group-title="vivos",CANAL PLAY 5
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28203
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR107CANALPLAY6.png" group-title="vivos",CANAL PLAY 6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28202
+#EXTINF:-1 tvg-id="" tvg-name=«CANAL PLAY 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR108CANALPLAY7.png" group-title="vivos",CANAL PLAY 7
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28201
+#EXTINF:-1 tvg-id="" tvg-name=«A.LA.CARTE.1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR133A.LA.CARTE.1.png" group-title="vivos",A.LA.CARTE.1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28176
+#EXTINF:-1 tvg-id="" tvg-name=«A.LA.CARTE.3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR134A.LA.CARTE.3.png" group-title="vivos",A.LA.CARTE.3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28175
+#EXTINF:-1 tvg-id="" tvg-name=« A.LA.CARTE.4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR135A.LA.CARTE.4.png" group-title="vivos", A.LA.CARTE.4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28174
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131ALACARTE5.png" group-title="vivos",A LA CARTE 5
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28178
+#EXTINF:-1 tvg-id="" tvg-name=«A la Carte 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR132AlaCarte6.png" group-title="vivos",A la Carte 6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28177
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR098ALACARTE7.png" group-title="vivos",A LA CARTE 7
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28211
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR099ALACARTE8.png" group-title="vivos",A LA CARTE 8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28210
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR100ALACARTE9.png" group-title="vivos",A LA CARTE 9
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28209
+#EXTINF:-1 tvg-id="cine+.a.la.carte.fr" tvg-name=«A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR097ALACARTE10.png" group-title="vivos",A LA CARTE 10
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28212
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name=«OCS CHOC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="vivos",OCS CHOC HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28192
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name=«OCS CITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="vivos",OCS CITY
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28191
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name=«OCS GEANT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="vivos",OCS GEANT
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28190
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name=«OCS MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="vivos",OCS MAX
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28189
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name=«TMC HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR138TMCHD(1080P).png" group-title="vivos",TMC HD ( 1080P )
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28171
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name=«TCM CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR140TCMCINEMA.png" group-title="vivos",TCM CINEMA
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28169
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name=«ALTICE STUDIO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="vivos",ALTICE STUDIO HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28149
+#EXTINF:-1 tvg-id="" tvg-name=«OCS Go Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR143OCSGoCinema1HD.png" group-title="vivos",OCS Go Cinema 1 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28166
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR148OrangeCinema1HD.png" group-title="vivos",Orange Cinema 1 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28161
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR150OrangeCinema3HD.png" group-title="vivos",Orange Cinema 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28159
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR151OrangeCinema4HD.png" group-title="vivos",Orange Cinema 4 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28158
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR152OrangeCinema5HD.png" group-title="vivos",Orange Cinema 5 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28157
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR153OrangeCinemaActionHD.png" group-title="vivos",Orange Cinema Action HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28156
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR154OrangeCinemaAventureHD.png" group-title="vivos",Orange Cinema Aventure HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28155
+#EXTINF:-1 tvg-id="" tvg-name=« Orange Cinema HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR155OrangeCinemaHD.png" group-title="vivos", Orange Cinema HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28154
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Documentaire HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158OrangeDocumentaireHD.png" group-title="vivos",Orange Documentaire HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28151
+#EXTINF:-1 tvg-id="" tvg-name=«OCS Go Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR147OCSGoCinema5HD.png" group-title="vivos",OCS Go Cinema 5 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28162
+#EXTINF:-1 tvg-id="" tvg-name=«OCS Go Cine 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR308OCSGoCine3HD.png" group-title="vivos",OCS Go Cine 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28001
+#EXTINF:-1 tvg-id="" tvg-name=«OCS GO CINE 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR309OCSGOCINE4HD.png" group-title="vivos",OCS GO CINE 4 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28000
+#EXTINF:-1 tvg-id="" tvg-name=«OCS Go Cine 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR310OCSGoCine5HD.png" group-title="vivos",OCS Go Cine 5 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27999
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name=«OCS GEANTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR193OCSGEANTS.png" group-title="vivos",OCS GEANTS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28116
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name=«Cine+ Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR234Cine+Classic.png" group-title="vivos",Cine+ Classic
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28075
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="vivos",A LA CARTE 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28127
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="vivos",A LA CARTE 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28126
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="vivos",A LA CARTE 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28125
+#EXTINF:-1 tvg-id="" tvg-name=« A LA CARTE 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="vivos", A LA CARTE 4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28124
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png" group-title="vivos",A LA CARTE 5
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28123
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR188ALACARTE7.png" group-title="vivos",A LA CARTE 7
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28121
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR189ALACARTE8.png" group-title="vivos",A LA CARTE 8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28120
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR190ALACARTE9.png" group-title="vivos",A LA CARTE 9
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28119
+#EXTINF:-1 tvg-id="" tvg-name=«A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR191ALACARTE10.png" group-title="vivos",A LA CARTE 10
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28118
+#EXTINF:-1 tvg-id="comedy.central.fr" tvg-name=«COMEDY CENTRAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png" group-title="vivos",COMEDY CENTRAL  HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28101
+#EXTINF:-1 tvg-id="" tvg-name=«Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR233CineAction.png" group-title="vivos",Cine Action
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28076
+#EXTINF:-1 tvg-id="" tvg-name=« Canal Play 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="vivos", Canal Play 1
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28084
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR226CanalPlay2.png" group-title="vivos",Canal Play 2
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28083
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR227CanalPlay3.png" group-title="vivos",Canal Play 3
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28082
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR228CanalPlay4.png" group-title="vivos",Canal Play 4
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28081
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR231CanalPlay7.png" group-title="vivos",Canal Play 7
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28078
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR229CanalPlay5.png" group-title="vivos",Canal Play 5
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28080
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR230CanalPlay6.png" group-title="vivos",Canal Play 6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28079
+#EXTINF:-1 tvg-id="" tvg-name=«Canal Play 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR232CanalPlay8.png" group-title="vivos",Canal Play 8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28077
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Comment C'Est Fait" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR298OrangeCommentC'EstFait.png" group-title="vivos",Orange Comment C'Est Fait
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28011
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name=« OCS CHOC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR305OCSCHOCFHD.png" group-title="vivos", OCS CHOC FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28004
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name=«OCS City HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR306OCSCityHD.png" group-title="vivos",OCS City HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28003
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name=«OCS GEANT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR307OCSGEANTFHD.png" group-title="vivos",OCS GEANT FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28002
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name=«OCS MAX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR311OCSMAXFHD.png" group-title="vivos",OCS MAX FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27998
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR314OrangeCinema1HD.png" group-title="vivos",Orange Cinema 1 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27995
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR316OrangeCinema3HD.png" group-title="vivos",Orange Cinema 3 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27993
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR317OrangeCinema4HD.png" group-title="vivos",Orange Cinema 4 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27992
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR318OrangeCinema5HD.png" group-title="vivos",Orange Cinema 5 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27991
+#EXTINF:-1 tvg-id="" tvg-name=«ORANGE Cinema ACTION HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR321ORANGECinemaACTIONHD.png" group-title="vivos",ORANGE Cinema ACTION HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27988
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR322OrangeCinemaAventureHD.png" group-title="vivos",Orange Cinema Aventure HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27987
+#EXTINF:-1 tvg-id="" tvg-name=« Orange Cinema DOCUMENTAIRE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR325OrangeCinemaDOCUMENTAIREHD.png" group-title="vivos", Orange Cinema DOCUMENTAIRE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27984
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema ENQUETE EXCLUSIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR326OrangeCinemaENQUETEEXCLUSIVEHD.png" group-title="vivos",Orange Cinema ENQUETE EXCLUSIVE HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27983
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Cinema Horreur HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR327OrangeCinemaHorreurHD.png" group-title="vivos",Orange Cinema Horreur HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27982
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Premium 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR339OrangePremium6.png" group-title="vivos",Orange Premium 6
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27970
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Premium 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR340OrangePremium7.png" group-title="vivos",Orange Premium 7
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27969
+#EXTINF:-1 tvg-id="" tvg-name=«Orange Premium 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR341OrangePremium8.png" group-title="vivos",Orange Premium 8
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27968
+#EXTINF:-1 tvg-id="warner.fr" tvg-name=«Warner tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR332Warnertv.png" group-title="vivos",Warner tv
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27977
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name=«TCM CINEMA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR187TCMCINEMAFHD.png" group-title="vivos",TCM CINEMA FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28122
+#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-name=« TF1 SERIES FILMS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR345TF1SERIESFILMSHD.png" group-title="vivos", TF1 SERIES FILMS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27964
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name=«Cine Premier HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174CinePremierHD(1080P).png" group-title="vivos",Cine Premier HD (1080P)
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28135
+#EXTINF:-1 tvg-id="boing.fr" tvg-name=«Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="vivos",Boing
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name=«Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="vivos",Boomerang
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2845
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name=«Canal J" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="vivos",Canal J
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2837
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name=«Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="vivos",Cartoon Network
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2836
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name=«GULLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png" group-title="vivos",GULLI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2807
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name=«Mangas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png" group-title="vivos",Mangas
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2800
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name=«NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png" group-title="vivos",NICKELODEON
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2797
+#EXTINF:-1 tvg-id="piwi+.fr" tvg-name=«PIWI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png" group-title="vivos",PIWI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2792
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name=« TELETOON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR095TELETOON.png" group-title="vivos", TELETOON
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28214
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name=«TF1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180TF1HD.png" group-title="vivos",TF1 HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28129
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name=«Tiji" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png" group-title="vivos",Tiji
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28181
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name=«CANAL  J HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR246CANALJHD.png" group-title="vivos",CANAL  J HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28063
+#EXTINF:-1 tvg-id="" tvg-name=«NICKELODEON 4TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR261NICKELODEON4TEEN.png" group-title="vivos",NICKELODEON 4TEEN
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28048
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name=«NICKELODEON JUNIOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR301NICKELODEONJUNIOR.png" group-title="vivos",NICKELODEON JUNIOR
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28008
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name=«TOONAMI FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR302TOONAMIFHD.png" group-title="vivos",TOONAMI FHD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28007
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name=« TELETOON  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR315TELETOONHD.png" group-title="vivos", TELETOON  HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27994
+#EXTINF:-1 tvg-id="teletoon+.fr" tvg-name=«TELETOON PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR319TELETOONPLUS.png" group-title="vivos",TELETOON PLUS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27990
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name=«TIJI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR343TIJIHD.png" group-title="vivos",TIJI HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27966
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name=«TELETOON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR354TELETOONHD.png" group-title="vivos",TELETOON HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27955
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name=«BFM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="vivos",BFM TV
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2847
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name=«Euro News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png" group-title="vivos",Euro News
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2817
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name=«France 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR053France24.png" group-title="vivos",France 24
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2813
+#EXTINF:-1 tvg-id="lci.fr" tvg-name=«LCI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR064LCI.png" group-title="vivos",LCI
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/2802
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name=«EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR094EURONEWS.png" group-title="vivos",EURONEWS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28215
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name=«CNews HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="vivos",CNews HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28146
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name=«FRANCE 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="vivos",FRANCE 24
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28128
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name=«LCP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR206LCP.png" group-title="vivos",LCP
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28103
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name=« RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR205RMCSPORTNEWS.png" group-title="vivos", RMC SPORT NEWS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28104
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name=« FRANCE INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR215FRANCEINFO.png" group-title="vivos", FRANCE INFO
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28094
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name=«C-NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR224C-NEWS.png" group-title="vivos",C-NEWS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28085
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name=«RMC NEWS SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR262RMCNEWSSPORT.png" group-title="vivos",RMC NEWS SPORT
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28047
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name=« EURONEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR265EURONEWSHD.png" group-title="vivos", EURONEWS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28044
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name=«I-24 NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR278I-24NEWSHD.png" group-title="vivos",I-24 NEWS HD
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/28031
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name=«I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR336I24NEWS.png" group-title="vivos",I24 NEWS
+http://a2.vivos.club:8880/xzyc12m1727/ty5v8ANZYD/27973
+
 #EXTINF:-1 tvg-ID="" tvg-name="RMC SPORTS 4 HD (hevc)" tvg-logo="https://www.sportcal.com//Images/News/Web/2018/Jun/PGR5VW6O38XRM86.jpg" group-title="iptvservers",RMC SPORTS 4 HD (hevc)
 http://iptvservers.ddns.net:7899/catarinabarbosa2/Xtqmrewg21/53839
 #EXTINF:-1 tvg-ID="" tvg-name="RMC SPORTS 3 HD (hevc)" tvg-logo="https://www.sportcal.com//Images/News/Web/2018/Jun/PGR5VW6O38XRM86.jpg" group-title="iptvservers",RMC SPORTS 3 HD (hevc)
