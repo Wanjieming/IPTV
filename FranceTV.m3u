@@ -5694,7 +5694,6 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/W9.fr.png" group-title="Exodiver",W9
 http://178.132.3.162:88/W9/index.m3u8?token=test
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpg" group-title="Exodiver",EMCI TV Paris
 https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://languedutravail.org/sites/default/files/tv-francophonie_3.jpg" group-title="Exodiver",Francophonie
