@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH : 3 (HD)" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH : 3 (HD)
+#EXTINF:-1 tvg-ID="" tvg-name="ูหนัง TRAIN TO BUSAN 2 (2020) ฝ่านรกซอมบี้คลั่ง" tvg-logo="https://www.nanamovies.com/wp-content/uploads/2020/07/Train-to-Busan-2-2020.jpeg" group-title="Nanamovies", ดูหนัง TRAIN TO BUSAN 2 (2020) ฝ่านรกซอมบี้คลั่ง
+https://links.nanacdn.com/hls/8a1896e32c98a0af78a7dfd7506285a6/8a1896e32c98a0af78a7dfd7506285a6.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH : 3 (HD)" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH : 3 (HD)
 http://world-iptv.net:8080/Tarek/Tarek/8247
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH : 7 (HD)" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH : 7 (HD)
 http://world-iptv.net:8080/Tarek/Tarek/8245
@@ -9,13 +11,13 @@ http://world-iptv.net:8080/Tarek/Tarek/8243
 http://world-iptv.net:8080/Tarek/Tarek/34787
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: beIN Sports 2 FHD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: beIN Sports 2 FHD
 http://world-iptv.net:8080/Tarek/Tarek/34788
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True 4 U" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True 4 U
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True 4 U" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True 4 U
 http://world-iptv.net:8080/Tarek/Tarek/10918
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Hits" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Hits
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Hits" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HBO Hits
 http://world-iptv.net:8080/Tarek/Tarek/10895
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Asian Series HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Asian Series HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Asian Series HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Asian Series HD
 http://world-iptv.net:8080/Tarek/Tarek/10901
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AXN HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: AXN HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: AXN HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: AXN HD
 http://world-iptv.net:8080/Tarek/Tarek/10910
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 1 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 1 HD
 http://world-iptv.net:8080/Tarek/Tarek/10859
@@ -25,137 +27,137 @@ http://world-iptv.net:8080/Tarek/Tarek/10858
 http://world-iptv.net:8080/Tarek/Tarek/10857
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Premiere League 4 HD" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 4 HD
 http://world-iptv.net:8080/Tarek/Tarek/10856
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Premiere League 5 HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 5 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Premiere League 5 HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Premiere League 5 HD
 http://world-iptv.net:8080/Tarek/Tarek/30989
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CARTOON NETWORK" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: CARTOON NETWORK
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CARTOON NETWORK" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: CARTOON NETWORK
 http://world-iptv.net:8080/Tarek/Tarek/10891
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Channel News Asia" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Channel News Asia
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Channel News Asia" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Channel News Asia
 http://world-iptv.net:8080/Tarek/Tarek/10890
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CI HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: CI HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CI HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: CI HD
 http://world-iptv.net:8080/Tarek/Tarek/10907
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CINEMAX" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: CINEMAX
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CINEMAX" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: CINEMAX
 http://world-iptv.net:8080/Tarek/Tarek/10908
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISCOVERY ASIA HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: DISCOVERY ASIA HD
 http://world-iptv.net:8080/Tarek/Tarek/10896
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NHK Premium " tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: NHK Premium 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NHK Premium " tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: NHK Premium 
 http://world-iptv.net:8080/Tarek/Tarek/10881
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Discovery Channel" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Discovery Channel
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Discovery Channel" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Discovery Channel
 http://world-iptv.net:8080/Tarek/Tarek/10880
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISNEY HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISNEY HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISNEY HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: DISNEY HD
 http://world-iptv.net:8080/Tarek/Tarek/10879
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISNEY XD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DISNEY XD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DISNEY XD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: DISNEY XD
 http://world-iptv.net:8080/Tarek/Tarek/10878
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Family" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Family
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Family" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HBO Family
 http://world-iptv.net:8080/Tarek/Tarek/10898
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO thai" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO thai
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO thai" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HBO thai
 http://world-iptv.net:8080/Tarek/Tarek/10893
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Crime " tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fox Crime 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Crime " tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fox Crime 
 http://world-iptv.net:8080/Tarek/Tarek/10906
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Paramount HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Paramount HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Paramount HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Paramount HD
 http://world-iptv.net:8080/Tarek/Tarek/10877
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: ESPN" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: ESPN
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: ESPN" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: ESPN
 http://world-iptv.net:8080/Tarek/Tarek/10876
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: EUROSPORT 2" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: EUROSPORT 2
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: EUROSPORT 2" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: EUROSPORT 2
 http://world-iptv.net:8080/Tarek/Tarek/10873
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Thai Thai" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Thai Thai
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Thai Thai" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Thai Thai
 http://world-iptv.net:8080/Tarek/Tarek/10899
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Life" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Explore Life
 http://world-iptv.net:8080/Tarek/Tarek/10884
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Science" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Explore Science
 http://world-iptv.net:8080/Tarek/Tarek/10883
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Wild" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Explore Wild
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Explore Wild" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Explore Wild
 http://world-iptv.net:8080/Tarek/Tarek/10882
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: FOX
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: FOX
 http://world-iptv.net:8080/Tarek/Tarek/10902
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Action" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fox Action
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Action" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fox Action
 http://world-iptv.net:8080/Tarek/Tarek/10903
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX Premium HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: FOX Premium HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX Premium HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: FOX Premium HD
 http://world-iptv.net:8080/Tarek/Tarek/10905
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX SPORT HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: FOX SPORT HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FOX SPORT HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: FOX SPORT HD
 http://world-iptv.net:8080/Tarek/Tarek/10872
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 1 FHD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 1 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 1 FHD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 1 FHD
 http://world-iptv.net:8080/Tarek/Tarek/30048
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 2 FHD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 2 FHD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 2 FHD
 http://world-iptv.net:8080/Tarek/Tarek/30047
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 3 FHD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 3 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fox Sports 3 FHD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fox Sports 3 FHD
 http://world-iptv.net:8080/Tarek/Tarek/30046
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Signature" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Signature
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Signature" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HBO Signature
 http://world-iptv.net:8080/Tarek/Tarek/10894
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: GMM Channel " tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: GMM Channel 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: GMM Channel " tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: GMM Channel 
 http://world-iptv.net:8080/Tarek/Tarek/10923
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: GMM ONE HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: GMM ONE HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: GMM ONE HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: GMM ONE HD
 http://world-iptv.net:8080/Tarek/Tarek/10924
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Asia HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HBO Asia HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HBO Asia HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HBO Asia HD
 http://world-iptv.net:8080/Tarek/Tarek/10909
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HISTORY HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: HISTORY HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: HISTORY HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: HISTORY HD
 http://world-iptv.net:8080/Tarek/Tarek/10892
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Inside" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Inside
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Inside" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Inside
 http://world-iptv.net:8080/Tarek/Tarek/10889
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MCOT Family SD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: MCOT Family SD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MCOT Family SD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: MCOT Family SD
 http://world-iptv.net:8080/Tarek/Tarek/10921
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MCOT HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: MCOT HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MCOT HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: MCOT HD
 http://world-iptv.net:8080/Tarek/Tarek/10922
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MONO" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: MONO
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MONO" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: MONO
 http://world-iptv.net:8080/Tarek/Tarek/10917
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MOVIE HITS" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: MOVIE HITS
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: MOVIE HITS" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: MOVIE HITS
 http://world-iptv.net:8080/Tarek/Tarek/10904
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nat Geo Wild HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Nat Geo Wild HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nat Geo Wild HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Nat Geo Wild HD
 http://world-iptv.net:8080/Tarek/Tarek/10888
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nat Geo People" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Nat Geo People
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nat Geo People" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Nat Geo People
 http://world-iptv.net:8080/Tarek/Tarek/10887
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: National Geo HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: National Geo HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: National Geo HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: National Geo HD
 http://world-iptv.net:8080/Tarek/Tarek/10886
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NATION" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: NATION
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NATION" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: NATION
 http://world-iptv.net:8080/Tarek/Tarek/10916
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NEW TV" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: NEW TV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: NEW TV" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: NEW TV
 http://world-iptv.net:8080/Tarek/Tarek/10915
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nickeodeon" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Nickeodeon
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Nickeodeon" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Nickeodeon
 http://world-iptv.net:8080/Tarek/Tarek/10885
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: PPTV HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: PPTV HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: PPTV HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: PPTV HD
 http://world-iptv.net:8080/Tarek/Tarek/10920
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Series HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Series HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Series HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Series HD
 http://world-iptv.net:8080/Tarek/Tarek/10900
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: SETANA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: SETANA HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: SETANA HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: SETANA HD
 http://world-iptv.net:8080/Tarek/Tarek/10875
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fight Sports HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Fight Sports HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Fight Sports HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Fight Sports HD
 http://world-iptv.net:8080/Tarek/Tarek/10871
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True NBA HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True NBA HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True NBA HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True NBA HD
 http://world-iptv.net:8080/Tarek/Tarek/10897
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Golf HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Golf HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Golf HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Golf HD
 http://world-iptv.net:8080/Tarek/Tarek/10860
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 1 HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 1 HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 1 HD
 http://world-iptv.net:8080/Tarek/Tarek/10870
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 2 HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 2 HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 HD
 http://world-iptv.net:8080/Tarek/Tarek/10869
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 2 SD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 SD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 2 SD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 2 SD
 http://world-iptv.net:8080/Tarek/Tarek/10868
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 3 HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 3 HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Sports 3 HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 3 HD
 http://world-iptv.net:8080/Tarek/Tarek/10867
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: True Sports 4 HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Sports 4 HD
 http://world-iptv.net:8080/Tarek/Tarek/10874
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Warner HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Warner HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Warner HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Warner HD
 http://world-iptv.net:8080/Tarek/Tarek/10866
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: THAIRATH HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: THAIRATH HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: THAIRATH HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: THAIRATH HD
 http://world-iptv.net:8080/Tarek/Tarek/10919
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: RTL-CBS" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: RTL-CBS
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: RTL-CBS" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: RTL-CBS
 http://world-iptv.net:8080/Tarek/Tarek/10865
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TNN-24" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: TNN-24
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TNN-24" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: TNN-24
 http://world-iptv.net:8080/Tarek/Tarek/10914
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TPBS" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: TPBS
 http://world-iptv.net:8080/Tarek/Tarek/10913
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Tennis HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: True Tennis HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: True Tennis HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: True Tennis HD
 http://world-iptv.net:8080/Tarek/Tarek/10863
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FX HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: FX HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: FX HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: FX HD
 http://world-iptv.net:8080/Tarek/Tarek/10862
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TVN HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: TVN HD
 http://world-iptv.net:8080/Tarek/Tarek/10864
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Amarin HD" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: Amarin HD
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: Amarin HD" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: Amarin HD
 http://world-iptv.net:8080/Tarek/Tarek/10861
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: VOICE" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: VOICE
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: VOICE" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: VOICE
 http://world-iptv.net:8080/Tarek/Tarek/10912
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: WorkPoint" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: WorkPoint
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: WorkPoint" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: WorkPoint
 http://world-iptv.net:8080/Tarek/Tarek/10911
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: PNN TV" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: PNN TV
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: PNN TV" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: PNN TV
 http://world-iptv.net:8080/Tarek/Tarek/26303
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH: ATTV" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: ATTV
 http://world-iptv.net:8080/Tarek/Tarek/33242
@@ -195,25 +197,25 @@ http://world-iptv.net:8080/Tarek/Tarek/26332
 http://world-iptv.net:8080/Tarek/Tarek/26331
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: CTN KHMER" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: CTN KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26330
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CTV8 KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: CTV8 KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: CTV8 KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: CTV8 KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26329
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH: D VARIETY KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: D VARIETY KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26328
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DMUSIC KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: DMUSIC KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: DMUSIC KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: DMUSIC KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26327
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: ETV KHMER" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: ETV KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26326
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: HANG MEAS HD KHMER" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: HANG MEAS HD KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26325
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: N TV KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: N TV KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: N TV KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: N TV KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26324
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: RASMEY HANG MEAS HD KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: RASMEY HANG MEAS HD KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: RASMEY HANG MEAS HD KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: RASMEY HANG MEAS HD KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26323
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: SEA TV KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: SEA TV KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: SEA TV KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: SEA TV KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26322
 #EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TV5 KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: TV5 KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26321
-#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TV9 KHMER" tvg-logo="[""]" group-title="Live: Thailand & Cambodia",VIP TH: TV9 KHMER
+#EXTINF:-1 tvg-ID="" tvg-name="VIP TH: TV9 KHMER" tvg-logo="" group-title="Live: Thailand & Cambodia",VIP TH: TV9 KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26320
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP TH: TVK KHMER" tvg-logo="[" group-title="Live: Thailand & Cambodia",VIP TH: TVK KHMER
 http://world-iptv.net:8080/Tarek/Tarek/26319
