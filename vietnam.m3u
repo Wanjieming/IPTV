@@ -2012,4 +2012,70 @@ http://223.110.245.170/PLTV/3/224/3221227207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_中文国际.svg/1200px-CCTV-4_中文国际.svg.png" group-title="KÊNH CHINA", CCTV4 HD
 http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTV - Cà Mau TV" tvg-logo="" group-title="VIETNAM CHANNEL",CTV - Cà Mau TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/153
+#EXTINF:-1 tvg-id="" tvg-name="QRT -  Quảng Nam" tvg-logo="" group-title="VIETNAM CHANNEL",QRT -  Quảng Nam
+http://188.40.76.108:25461/mytv01/uSIRzmks51/154
+#EXTINF:-1 tvg-id="" tvg-name="HBTV - Hòa Bình" tvg-logo="" group-title="VIETNAM CHANNEL",HBTV - Hòa Bình
+http://188.40.76.108:25461/mytv01/uSIRzmks51/155
+#EXTINF:-1 tvg-id="" tvg-name="THTG - Tiền Giang " tvg-logo="" group-title="VIETNAM CHANNEL",THTG - Tiền Giang 
+http://188.40.76.108:25461/mytv01/uSIRzmks51/156
+#EXTINF:-1 tvg-id="" tvg-name="THHN - Hà Nam" tvg-logo="" group-title="VIETNAM CHANNEL",THHN - Hà Nam
+http://188.40.76.108:25461/mytv01/uSIRzmks51/157
+#EXTINF:-1 tvg-id="" tvg-name="THGL - Gia Lai" tvg-logo="" group-title="VIETNAM CHANNEL",THGL - Gia Lai
+http://188.40.76.108:25461/mytv01/uSIRzmks51/158
+#EXTINF:-1 tvg-id="" tvg-name="PTP - Phú Yên" tvg-logo="" group-title="VIETNAM CHANNEL",PTP - Phú Yên
+http://188.40.76.108:25461/mytv01/uSIRzmks51/159
+#EXTINF:-1 tvg-id="" tvg-name="BRT - Bà Rịa-Vũng Tàu TV" tvg-logo="" group-title="VIETNAM CHANNEL",BRT - Bà Rịa-Vũng Tàu TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/160
+#EXTINF:-1 tvg-id="" tvg-name="Nhân Dân TV" tvg-logo="" group-title="VIETNAM CHANNEL",Nhân Dân TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/161
+#EXTINF:-1 tvg-id="" tvg-name="ĐàNẵng TV2" tvg-logo="" group-title="VIETNAM CHANNEL",ĐàNẵng TV2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/162
+#EXTINF:-1 tvg-id="" tvg-name="ĐàNẵng TV1" tvg-logo="" group-title="VIETNAM CHANNEL",ĐàNẵng TV1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/163
+#EXTINF:-1 tvg-id="" tvg-name="BPTV2 - Bình Phước TV 2" tvg-logo="" group-title="VIETNAM CHANNEL",BPTV2 - Bình Phước TV 2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/164
+#EXTINF:-1 tvg-id="" tvg-name="BPTV1 - Bình Phước TV 1" tvg-logo="" group-title="VIETNAM CHANNEL",BPTV1 - Bình Phước TV 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/165
+#EXTINF:-1 tvg-id="" tvg-name="VTV6" tvg-logo="" group-title="VIETNAM CHANNEL",VTV6
+http://188.40.76.108:25461/mytv01/uSIRzmks51/166
+#EXTINF:-1 tvg-id="" tvg-name="VTV5" tvg-logo="" group-title="VIETNAM CHANNEL",VTV5
+http://188.40.76.108:25461/mytv01/uSIRzmks51/167
+#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="" group-title="VIETNAM CHANNEL",VTV4
+http://188.40.76.108:25461/mytv01/uSIRzmks51/168
+#EXTINF:-1 tvg-id="" tvg-name="VTV3" tvg-logo="" group-title="VIETNAM CHANNEL",VTV3
+http://188.40.76.108:25461/mytv01/uSIRzmks51/169
+#EXTINF:-1 tvg-id="" tvg-name="VTV2" tvg-logo="" group-title="VIETNAM CHANNEL",VTV2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/170
+#EXTINF:-1 tvg-id="" tvg-name="VTV 1" tvg-logo="" group-title="VIETNAM CHANNEL",VTV 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/171
+#EXTINF:-1 tvg-id="" tvg-name="VTC 16" tvg-logo="" group-title="VIETNAM CHANNEL",VTC 16
+http://188.40.76.108:25461/mytv01/uSIRzmks51/172
+#EXTINF:-1 tvg-id="" tvg-name="VTC 14" tvg-logo="" group-title="VIETNAM CHANNEL",VTC 14
+http://188.40.76.108:25461/mytv01/uSIRzmks51/173
+#EXTINF:-1 tvg-id="" tvg-name="VTC13" tvg-logo="" group-title="VIETNAM CHANNEL",VTC13
+http://188.40.76.108:25461/mytv01/uSIRzmks51/174
+#EXTINF:-1 tvg-id="" tvg-name="VTC12 - VTCK" tvg-logo="" group-title="VIETNAM CHANNEL",VTC12 - VTCK
+http://188.40.76.108:25461/mytv01/uSIRzmks51/175
+#EXTINF:-1 tvg-id="" tvg-name="VTC10" tvg-logo="" group-title="VIETNAM CHANNEL",VTC10
+http://188.40.76.108:25461/mytv01/uSIRzmks51/176
+#EXTINF:-1 tvg-id="" tvg-name="VTC9" tvg-logo="" group-title="VIETNAM CHANNEL",VTC9
+http://188.40.76.108:25461/mytv01/uSIRzmks51/177
+#EXTINF:-1 tvg-id="" tvg-name="VTC8" tvg-logo="" group-title="VIETNAM CHANNEL",VTC8
+http://188.40.76.108:25461/mytv01/uSIRzmks51/178
+#EXTINF:-1 tvg-id="" tvg-name="VTC7 - Today TV" tvg-logo="" group-title="VIETNAM CHANNEL",VTC7 - Today TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/179
+#EXTINF:-1 tvg-id="" tvg-name="VTC6" tvg-logo="" group-title="VIETNAM CHANNEL",VTC6
+http://188.40.76.108:25461/mytv01/uSIRzmks51/180
+#EXTINF:-1 tvg-id="" tvg-name="VTC5" tvg-logo="" group-title="VIETNAM CHANNEL",VTC5
+http://188.40.76.108:25461/mytv01/uSIRzmks51/181
+#EXTINF:-1 tvg-id="" tvg-name="VTC4" tvg-logo="" group-title="VIETNAM CHANNEL",VTC4
+http://188.40.76.108:25461/mytv01/uSIRzmks51/182
+#EXTINF:-1 tvg-id="" tvg-name="VTC3" tvg-logo="" group-title="VIETNAM CHANNEL",VTC3
+http://188.40.76.108:25461/mytv01/uSIRzmks51/183
+#EXTINF:-1 tvg-id="" tvg-name="VTC2" tvg-logo="" group-title="VIETNAM CHANNEL",VTC2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/184
+#EXTINF:-1 tvg-id="" tvg-name="VTC 1" tvg-logo="" group-title="VIETNAM CHANNEL",VTC 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/185
 
