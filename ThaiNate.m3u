@@ -858,3 +858,77 @@ http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Thailand", TVK
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="STAR Chinese Movies Legend (TH)" tvg-logo="" group-title="THAI CHANNEL",STAR Chinese Movies Legend (TH)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/82
+#EXTINF:-1 tvg-id="" tvg-name="ZEE NUNG" tvg-logo="" group-title="THAI CHANNEL",ZEE NUNG
+http://188.40.76.108:25461/mytv01/uSIRzmks51/83
+#EXTINF:-1 tvg-id="" tvg-name="TVB Drama Thai" tvg-logo="" group-title="THAI CHANNEL",TVB Drama Thai
+http://188.40.76.108:25461/mytv01/uSIRzmks51/84
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="THAI CHANNEL",T Sports
+http://188.40.76.108:25461/mytv01/uSIRzmks51/85
+#EXTINF:-1 tvg-id="" tvg-name="SMMTV " tvg-logo="" group-title="THAI CHANNEL",SMMTV 
+http://188.40.76.108:25461/mytv01/uSIRzmks51/86
+#EXTINF:-1 tvg-id="" tvg-name="True THAI FILM" tvg-logo="" group-title="THAI CHANNEL",True THAI FILM
+http://188.40.76.108:25461/mytv01/uSIRzmks51/87
+#EXTINF:-1 tvg-id="" tvg-name="RED by HBO (TH)" tvg-logo="" group-title="THAI CHANNEL",RED by HBO (TH)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/88
+#EXTINF:-1 tvg-id="" tvg-name="FOX ไทย" tvg-logo="" group-title="THAI CHANNEL",FOX ไทย
+http://188.40.76.108:25461/mytv01/uSIRzmks51/89
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION MOVIES (Thai Sub)" tvg-logo="" group-title="THAI CHANNEL",FOX ACTION MOVIES (Thai Sub)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/90
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES (Thai Sub)" tvg-logo="" group-title="THAI CHANNEL",FOX MOVIES (Thai Sub)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/91
+#EXTINF:-1 tvg-id="" tvg-name="True FILM HD" tvg-logo="" group-title="THAI CHANNEL",True FILM HD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/92
+#EXTINF:-1 tvg-id="" tvg-name="True4U" tvg-logo="" group-title="THAI CHANNEL",True4U
+http://188.40.76.108:25461/mytv01/uSIRzmks51/93
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8 THAI" tvg-logo="" group-title="THAI CHANNEL",CHANNEL 8 THAI
+http://188.40.76.108:25461/mytv01/uSIRzmks51/94
+#EXTINF:-1 tvg-id="" tvg-name="SABAIDEE TV" tvg-logo="" group-title="THAI CHANNEL",SABAIDEE TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/95
+#EXTINF:-1 tvg-id="" tvg-name="TNN16" tvg-logo="" group-title="THAI CHANNEL",TNN16
+http://188.40.76.108:25461/mytv01/uSIRzmks51/96
+#EXTINF:-1 tvg-id="" tvg-name="New18 TV" tvg-logo="" group-title="THAI CHANNEL",New18 TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/97
+#EXTINF:-1 tvg-id="" tvg-name="News 1" tvg-logo="" group-title="THAI CHANNEL",News 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/98
+#EXTINF:-1 tvg-id="" tvg-name="TPTV Thai Parliament TV" tvg-logo="" group-title="THAI CHANNEL",TPTV Thai Parliament TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/99
+#EXTINF:-1 tvg-id="" tvg-name="Voice TV" tvg-logo="" group-title="THAI CHANNEL",Voice TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/100
+#EXTINF:-1 tvg-id="" tvg-name="M Channel" tvg-logo="" group-title="THAI CHANNEL",M Channel
+http://188.40.76.108:25461/mytv01/uSIRzmks51/101
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="" group-title="THAI CHANNEL",One TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/102
+#EXTINF:-1 tvg-id="" tvg-name="Amarin TV" tvg-logo="" group-title="THAI CHANNEL",Amarin TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/103
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV" tvg-logo="" group-title="THAI CHANNEL",Thairath TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/104
+#EXTINF:-1 tvg-id="" tvg-name="PPTV" tvg-logo="" group-title="THAI CHANNEL",PPTV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/105
+#EXTINF:-1 tvg-id="" tvg-name="MONO PLUS" tvg-logo="" group-title="THAI CHANNEL",MONO PLUS
+http://188.40.76.108:25461/mytv01/uSIRzmks51/106
+#EXTINF:-1 tvg-id="" tvg-name="MONO29" tvg-logo="" group-title="THAI CHANNEL",MONO29
+http://188.40.76.108:25461/mytv01/uSIRzmks51/107
+#EXTINF:-1 tvg-id="" tvg-name="GMM25" tvg-logo="" group-title="THAI CHANNEL",GMM25
+http://188.40.76.108:25461/mytv01/uSIRzmks51/108
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint TV" tvg-logo="" group-title="THAI CHANNEL",Workpoint TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/109
+#EXTINF:-1 tvg-id="" tvg-name="Nation TV" tvg-logo="" group-title="THAI CHANNEL",Nation TV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/110
+#EXTINF:-1 tvg-id="" tvg-name="MCOT " tvg-logo="" group-title="THAI CHANNEL",MCOT 
+http://188.40.76.108:25461/mytv01/uSIRzmks51/111
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS" tvg-logo="" group-title="THAI CHANNEL",Thai PBS
+http://188.40.76.108:25461/mytv01/uSIRzmks51/112
+#EXTINF:-1 tvg-id="" tvg-name="NBT 2" tvg-logo="" group-title="THAI CHANNEL",NBT 2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/113
+#EXTINF:-1 tvg-id="" tvg-name="Thai Ch8" tvg-logo="" group-title="THAI CHANNEL",Thai Ch8
+http://188.40.76.108:25461/mytv01/uSIRzmks51/114
+#EXTINF:-1 tvg-id="" tvg-name="Thai Ch7" tvg-logo="" group-title="THAI CHANNEL",Thai Ch7
+http://188.40.76.108:25461/mytv01/uSIRzmks51/115
+#EXTINF:-1 tvg-id="" tvg-name="Thai Ch5" tvg-logo="" group-title="THAI CHANNEL",Thai Ch5
+http://188.40.76.108:25461/mytv01/uSIRzmks51/116
+#EXTINF:-1 tvg-id="" tvg-name="Thai Ch3" tvg-logo="" group-title="THAI CHANNEL",Thai Ch3
+http://188.40.76.108:25461/mytv01/uSIRzmks51/117
+#EXTINF:-1 tvg-id="" tvg-name="HBO (TH)" tvg-logo="" group-title="THAI CHANNEL",HBO (TH)
+http://188.40.76.108:25461/mytv01/uSIRzmks51/1165
