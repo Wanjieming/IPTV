@@ -1,4 +1,108 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="CHINESE CHANNEL",湖北卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/5
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="CHINESE CHANNEL",湖南卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/6
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="CHINESE CHANNEL",东方卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/7
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="CHINESE CHANNEL",江苏卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/8
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="CHINESE CHANNEL",浙江卫视
+http://188.40.76.108:25461/mytv01/uSIRzmks51/9
+#EXTINF:-1 tvg-id="" tvg-name="NewTV 家庭剧场" tvg-logo="" group-title="CHINESE CHANNEL",NewTV 家庭剧场
+http://188.40.76.108:25461/mytv01/uSIRzmks51/10
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15 音乐" tvg-logo="" group-title="CHINESE CHANNEL",CCTV15 音乐
+http://188.40.76.108:25461/mytv01/uSIRzmks51/11
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13 新闻" tvg-logo="" group-title="CHINESE CHANNEL",CCTV13 新闻
+http://188.40.76.108:25461/mytv01/uSIRzmks51/12
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12 社会与法" tvg-logo="" group-title="CHINESE CHANNEL",CCTV12 社会与法
+http://188.40.76.108:25461/mytv01/uSIRzmks51/13
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11 戏曲" tvg-logo="" group-title="CHINESE CHANNEL",CCTV11 戏曲
+http://188.40.76.108:25461/mytv01/uSIRzmks51/14
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10 科教" tvg-logo="" group-title="CHINESE CHANNEL",CCTV10 科教
+http://188.40.76.108:25461/mytv01/uSIRzmks51/15
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9/CGTN DOC" tvg-logo="" group-title="CHINESE CHANNEL",CCTV9/CGTN DOC
+http://188.40.76.108:25461/mytv01/uSIRzmks51/16
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8 电视剧" tvg-logo="" group-title="CHINESE CHANNEL",CCTV8 电视剧
+http://188.40.76.108:25461/mytv01/uSIRzmks51/17
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7 国防军事 " tvg-logo="" group-title="CHINESE CHANNEL",CCTV7 国防军事 
+http://188.40.76.108:25461/mytv01/uSIRzmks51/18
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4 中文国际" tvg-logo="" group-title="CHINESE CHANNEL",CCTV4 中文国际
+http://188.40.76.108:25461/mytv01/uSIRzmks51/19
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3 综艺" tvg-logo="" group-title="CHINESE CHANNEL",CCTV3 综艺
+http://188.40.76.108:25461/mytv01/uSIRzmks51/20
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2 财经" tvg-logo="" group-title="CHINESE CHANNEL",CCTV2 财经
+http://188.40.76.108:25461/mytv01/uSIRzmks51/21
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1 综合" tvg-logo="" group-title="CHINESE CHANNEL",CCTV1 综合
+http://188.40.76.108:25461/mytv01/uSIRzmks51/22
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 8 新传媒8频道" tvg-logo="" group-title="CHINESE CHANNEL",CHANNEL 8 新传媒8频道
+http://188.40.76.108:25461/mytv01/uSIRzmks51/23
+#EXTINF:-1 tvg-id="" tvg-name="viuTV" tvg-logo="" group-title="CHINESE CHANNEL",viuTV
+http://188.40.76.108:25461/mytv01/uSIRzmks51/24
+#EXTINF:-1 tvg-id="" tvg-name="RTHK 32 港台電視 32" tvg-logo="" group-title="CHINESE CHANNEL",RTHK 32 港台電視 32
+http://188.40.76.108:25461/mytv01/uSIRzmks51/25
+#EXTINF:-1 tvg-id="" tvg-name="RTHK 31 港台電視 31" tvg-logo="" group-title="CHINESE CHANNEL",RTHK 31 港台電視 31
+http://188.40.76.108:25461/mytv01/uSIRzmks51/26
+#EXTINF:-1 tvg-id="" tvg-name="TVB J2" tvg-logo="" group-title="CHINESE CHANNEL",TVB J2
+http://188.40.76.108:25461/mytv01/uSIRzmks51/27
+#EXTINF:-1 tvg-id="" tvg-name="TVB 星河" tvg-logo="" group-title="CHINESE CHANNEL",TVB 星河
+http://188.40.76.108:25461/mytv01/uSIRzmks51/28
+#EXTINF:-1 tvg-id="" tvg-name="TVB 翡翠台" tvg-logo="" group-title="CHINESE CHANNEL",TVB 翡翠台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/29
+#EXTINF:-1 tvg-id="" tvg-name="香港開電視" tvg-logo="" group-title="CHINESE CHANNEL",香港開電視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/30
+#EXTINF:-1 tvg-id="" tvg-name="MASTV 澳亞衛視" tvg-logo="" group-title="CHINESE CHANNEL",MASTV 澳亞衛視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/31
+#EXTINF:-1 tvg-id="" tvg-name="LOTUS TV 澳門蓮花衛視" tvg-logo="" group-title="CHINESE CHANNEL",LOTUS TV 澳門蓮花衛視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/32
+#EXTINF:-1 tvg-id="" tvg-name="CTI 中天娛樂" tvg-logo="" group-title="CHINESE CHANNEL",CTI 中天娛樂
+http://188.40.76.108:25461/mytv01/uSIRzmks51/33
+#EXTINF:-1 tvg-id="" tvg-name="CTI 中天综合" tvg-logo="" group-title="CHINESE CHANNEL",CTI 中天综合
+http://188.40.76.108:25461/mytv01/uSIRzmks51/34
+#EXTINF:-1 tvg-id="" tvg-name="GTV 八大戲劇台" tvg-logo="" group-title="CHINESE CHANNEL",GTV 八大戲劇台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/35
+#EXTINF:-1 tvg-id="" tvg-name="GTV 八大綜合台" tvg-logo="" group-title="CHINESE CHANNEL",GTV 八大綜合台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/36
+#EXTINF:-1 tvg-id="" tvg-name="EBC 東森戲劇台" tvg-logo="" group-title="CHINESE CHANNEL",EBC 東森戲劇台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/37
+#EXTINF:-1 tvg-id="" tvg-name="EBC 東森綜合台" tvg-logo="" group-title="CHINESE CHANNEL",EBC 東森綜合台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/38
+#EXTINF:-1 tvg-id="" tvg-name="公視" tvg-logo="" group-title="CHINESE CHANNEL",公視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/39
+#EXTINF:-1 tvg-id="" tvg-name="華視" tvg-logo="" group-title="CHINESE CHANNEL",華視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/40
+#EXTINF:-1 tvg-id="" tvg-name="SET 三立台灣台" tvg-logo="" group-title="CHINESE CHANNEL",SET 三立台灣台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/41
+#EXTINF:-1 tvg-id="" tvg-name="SET 三立都會台" tvg-logo="" group-title="CHINESE CHANNEL",SET 三立都會台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/42
+#EXTINF:-1 tvg-id="" tvg-name="民視" tvg-logo="" group-title="CHINESE CHANNEL",民視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/43
+#EXTINF:-1 tvg-id="" tvg-name="台視" tvg-logo="" group-title="CHINESE CHANNEL",台視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/44
+#EXTINF:-1 tvg-id="" tvg-name="TVBS 新聞台" tvg-logo="" group-title="CHINESE CHANNEL",TVBS 新聞台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/45
+#EXTINF:-1 tvg-id="" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="CHINESE CHANNEL",TVBS 歡樂台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/46
+#EXTINF:-1 tvg-id="" tvg-name="衛視中文台" tvg-logo="" group-title="CHINESE CHANNEL",衛視中文台
+http://188.40.76.108:25461/mytv01/uSIRzmks51/47
+#EXTINF:-1 tvg-id="" tvg-name="中視" tvg-logo="" group-title="CHINESE CHANNEL",中視
+http://188.40.76.108:25461/mytv01/uSIRzmks51/48
+#EXTINF:-1 tvg-id="" tvg-name="ELTA 綜合" tvg-logo="" group-title="CHINESE CHANNEL",ELTA 綜合
+http://188.40.76.108:25461/mytv01/uSIRzmks51/49
+#EXTINF:-1 tvg-id="" tvg-name="iQIYI 爱奇艺" tvg-logo="" group-title="CHINESE CHANNEL",iQIYI 爱奇艺
+http://188.40.76.108:25461/mytv01/uSIRzmks51/50
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="" group-title="CHINESE CHANNEL",Astro AEC
+http://188.40.76.108:25461/mytv01/uSIRzmks51/272
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 双星" tvg-logo="" group-title="CHINESE CHANNEL",ASTRO 双星
+http://188.40.76.108:25461/mytv01/uSIRzmks51/273
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 天映经典" tvg-logo="" group-title="CHINESE CHANNEL",ASTRO 天映经典
+http://188.40.76.108:25461/mytv01/uSIRzmks51/274
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 欢喜" tvg-logo="" group-title="CHINESE CHANNEL",ASTRO 欢喜
+http://188.40.76.108:25461/mytv01/uSIRzmks51/275
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD" tvg-logo="" group-title="CHINESE CHANNEL",ASTRO AOD
+http://188.40.76.108:25461/mytv01/uSIRzmks51/276
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 全佳" tvg-logo="" group-title="CHINESE CHANNEL",ASTRO 全佳
+http://188.40.76.108:25461/mytv01/uSIRzmks51/277
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://api.myeytv.me/logo/r_2448.png" group-title="CRTV",翡翠台
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://live.crhoy.ml:8080/logo/r_2415.png" group-title="CRTV",明珠台
