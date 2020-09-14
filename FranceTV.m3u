@@ -1745,19 +1745,19 @@ http://dream4k.co:8080/thismonth2/8907605277/29420
 http://dream4k.co:8080/thismonth2/8907605277/29421
 #EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CNEWSHD.png" group-title="Dream4K",CNEWS SD
 http://dream4k.co:8080/thismonth2/8907605277/29422
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS (SD)" tvg-logo="http://185.165.243.195/logo_plus/FRANCE/MTVHITSHD.png" group-title="Dream4K",MTV HITS (SD)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (SD)" tvg-logo="http://185.165.243.195/logo_plus/FRANCE/MTVHITSHD.png" group-title="Dream4K",MTV HITS (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29610
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS TV (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NRJHITSHD.png" group-title="Dream4K",NRJ HITS TV (SD)
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS TV (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NRJHITSHD.png" group-title="Dream4K",NRJ HITS TV (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29611
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV FRANCE (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTVLIVE.png" group-title="Dream4K",MTV FRANCE (SD)
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FRANCE (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTVLIVE.png" group-title="Dream4K",MTV FRANCE (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29612
-#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HITS (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CSTARHD.png" group-title="Dream4K",CSTAR HITS (SD)
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR HITS (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CSTARHD.png" group-title="Dream4K",CSTAR HITS (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29614
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/M6MUSICHD.png" group-title="Dream4K",M6 MUSIC (SD)
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/M6MUSICHD.png" group-title="Dream4K",M6 MUSIC (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29615
-#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="|FR| TRACE URBAN (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACEURBANHD.png" group-title="Dream4K",TRACE URBAN (SD)
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="TRACE URBAN (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACEURBANHD.png" group-title="Dream4K",TRACE URBAN (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29616
-#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="|FR| TRACE TROPICAL (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACETROPICALHD.png" group-title="Dream4K",TRACE TROPICAL (SD)
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="TRACE TROPICAL (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACETROPICALHD.png" group-title="Dream4K",TRACE TROPICAL (SD)
 http://dream4k.co:8080/thismonth2/8907605277/29617
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR (H265) - TF1 Full FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TF1HD.png" group-title="Dream4K", TF1 Full FHD
 http://dream4k.co:8080/thismonth2/8907605277/36454
@@ -3944,7 +3944,7 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/350
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/349
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://62.210.206.49/logo/FRANCE/FR_FRANCE_3.png" group-title="wXQcdtDuYt", FRANCE 3 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/348
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 3 NOA HD" tvg-logo="" group-title="wXQcdtDuYt",FRANCE 3 NOA HD
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 NOA HD" tvg-logo="" group-title="wXQcdtDuYt",FRANCE 3 NOA HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73316
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://62.210.206.49/logo/FRANCE/FR_FRANCE_3.png" group-title="wXQcdtDuYt", FRANCE 3
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/347
@@ -4044,37 +4044,37 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/206
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/203
 #EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/PARAMOUNTCHANNELHD.png" group-title="wXQcdtDuYt", PARAMOUNT CHANNEL
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/202
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 1 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 1 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73245
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 2 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 2 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 2 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73244
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 3 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 3 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 3 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73243
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 4 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 4 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73242
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 5 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5 HD" tvg-logo="" group-title="wXQcdtDuYt",CANALPLAY 5 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73241
-#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 1 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73233
-#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 3 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 3 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73232
-#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 4 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 4 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73231
-#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 5 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5 HD" tvg-logo="" group-title="wXQcdtDuYt",A LA CARTE 5 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73230
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73234
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 1 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 1 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73240
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 2 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 2 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 2 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73239
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 3 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 3 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 3 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73238
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 4 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 4 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 4 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73237
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 5 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 5 HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA 5 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73236
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA AVENTURE HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA AVENTURE HD
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA AVENTURE HD" tvg-logo="" group-title="wXQcdtDuYt",ORANGE CINEMA AVENTURE HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73235
 
 #EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/CANAL+DECALEHD.png" group-title="wXQcdtDuYt", CANAL+ DECALE HD
@@ -4161,9 +4161,9 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/178
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/153
 #EXTINF:-1 tvg-id="ELLEGirl.fr" tvg-name="ELLE GIRL" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/ELLEGIRLHD.png" group-title="wXQcdtDuYt", ELLE GIRL
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/152
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT " tvg-logo="" group-title="wXQcdtDuYt",TELEFOOT 
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT " tvg-logo="" group-title="wXQcdtDuYt",TELEFOOT 
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73227
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT HD" tvg-logo="" group-title="wXQcdtDuYt",TELEFOOT HD
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="wXQcdtDuYt",TELEFOOT HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73226
 #EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="wXQcdtDuYt",TELEFOOT STADIUM 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73559
@@ -4201,39 +4201,39 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/307
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/306
 #EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="BEIN SPORTS 3" tvg-logo="http://62.210.206.49/logo/BEIN_SPORTS/BEIN_SPORTS_AR/BEIN_SPORTS_AR_3.png" group-title="wXQcdtDuYt", BEIN SPORTS 3
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/305
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 4 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73276
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX  4" tvg-logo="https://www.mewatch.sg/image/10607088/16x9/947/533/1db24cae26e75b81e4ee61d0f9a6f058/os/bein-sports-max-4.png" group-title="wXQcdtDuYt",BEIN SPORT MAX  4
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX  4" tvg-logo="https://www.mewatch.sg/image/10607088/16x9/947/533/1db24cae26e75b81e4ee61d0f9a6f058/os/bein-sports-max-4.png" group-title="wXQcdtDuYt",BEIN SPORT MAX  4
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49960
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 5 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73275
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX  5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_05_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX  5
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX  5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_05_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX  5
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49961
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 6 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73274
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_06_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 6
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_06_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 6
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49962
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 7 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73273
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 7" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_07_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_07_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 7
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49963
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 8 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73272
-#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="|FR| BEIN SPORT MAX 8" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_08_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 8
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="BEIN SPORT MAX 8" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_08_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 8
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49964
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 9 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73271
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 9" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_09_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 9
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_09_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 9
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49965
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 10 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10 HD" tvg-logo="" group-title="wXQcdtDuYt",BEIN SPORT MAX 10 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73270
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORT MAX 10" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_10_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 10
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France//be_in_mena_sports_max_10_hd.png" group-title="wXQcdtDuYt",BEIN SPORT MAX 10
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/49966
 #EXTINF:-1 tvg-id="Infosport.fr" tvg-name="INFOSPORT+ HD" tvg-logo="http://www.autonewsinfo.com/wp-content/uploads/2017/10/INFOSPORT-LOGO-758x204.png" group-title="wXQcdtDuYt", INFOSPORT+ HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/246
 #EXTINF:-1 tvg-id="Infosport.fr" tvg-name="INFOSPORT+" tvg-logo="http://www.autonewsinfo.com/wp-content/uploads/2017/10/INFOSPORT-LOGO-758x204.png" group-title="wXQcdtDuYt", INFOSPORT+
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/245
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT NEWS" tvg-logo="" group-title="wXQcdtDuYt",RMC SPORT NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="" group-title="wXQcdtDuYt",RMC SPORT NEWS
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73269
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="https://static.s-sfr.fr/media/rmc-1.png" group-title="wXQcdtDuYt", RMC SPORT 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/288
@@ -4299,17 +4299,17 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/259
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/258
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16" tvg-logo="https://static.s-sfr.fr/media/rmc-live16.png" group-title="wXQcdtDuYt", RMC SPORT LIVE 16
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/257
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 1" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 1" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 1
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73268
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 2" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 2" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 2
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73267
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 3" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 3" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 3
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73266
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 4" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 4" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 4
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73265
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 5" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 5" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 5
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73264
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 6" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-name="MULTI SPORTS 6" tvg-logo="" group-title="wXQcdtDuYt",MULTI SPORTS 6
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73263
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/FRANCE2/EUROSPORT1.png" group-title="wXQcdtDuYt", EUROSPORT 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/244
@@ -4331,7 +4331,7 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/249
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/254
 #EXTINF:-1 tvg-id="ExtremeSports.fr" tvg-name="EXTREME SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="wXQcdtDuYt", EXTREME SPORTS
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/253
-#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTO MOTO HD" tvg-logo="" group-title="wXQcdtDuYt",AUTO MOTO HD
+#EXTINF:-1 tvg-id="" tvg-name="AUTO MOTO HD" tvg-logo="" group-title="wXQcdtDuYt",AUTO MOTO HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73262
 #EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS HD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/ABMOTEURHD.png" group-title="wXQcdtDuYt", AB MOTEURS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/187
@@ -4425,11 +4425,11 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/127
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/144
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/MTVHD.png" group-title="wXQcdtDuYt", MTV
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/143
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS HD" tvg-logo="" group-title="wXQcdtDuYt",MTV HITS HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HD" tvg-logo="" group-title="wXQcdtDuYt",MTV HITS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73249
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV LIVE HD" tvg-logo="" group-title="wXQcdtDuYt",MTV LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="wXQcdtDuYt",MTV LIVE HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73250
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ HITS HD" tvg-logo="" group-title="wXQcdtDuYt",NRJ HITS HD
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="" group-title="wXQcdtDuYt",NRJ HITS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73251
 #EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HD" tvg-logo="https://m6pub.fr/content/uploads/2019/04/08090218/m6-music-neutre-rouge-v1.png" group-title="wXQcdtDuYt", M6 MUSIC HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/138
@@ -4459,11 +4459,11 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/131
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/130
 #EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="MEZZO LIVE" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/MEZZOLIVEHD.png" group-title="wXQcdtDuYt", MEZZO LIVE
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/129
-#EXTINF:-1 tvg-id="" tvg-name="|FR| C STAR HITS HD" tvg-logo="" group-title="wXQcdtDuYt",C STAR HITS HD
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HITS HD" tvg-logo="" group-title="wXQcdtDuYt",C STAR HITS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73246
-#EXTINF:-1 tvg-id="" tvg-name="|FR| C STAR HIT" tvg-logo="" group-title="wXQcdtDuYt",C STAR HIT
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HIT" tvg-logo="" group-title="wXQcdtDuYt",C STAR HIT
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73247
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MELODY TV HD" tvg-logo="" group-title="wXQcdtDuYt",MELODY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MELODY TV HD" tvg-logo="" group-title="wXQcdtDuYt",MELODY TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73253
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI HD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/LCIHD.png" group-title="wXQcdtDuYt", LCI HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/317
@@ -4497,105 +4497,105 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/318
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/315
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://www.solinum.org/wp-content/uploads/2019/08/ob_1a469e_logo-france-info-hd-e1486477230301.jpg" group-title="wXQcdtDuYt", FRANCE INFO
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/314
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LCP HD" tvg-logo="" group-title="wXQcdtDuYt",LCP HD
+#EXTINF:-1 tvg-id="" tvg-name="LCP HD" tvg-logo="" group-title="wXQcdtDuYt",LCP HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73256
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BFM PARIS HD" tvg-logo="" group-title="wXQcdtDuYt",BFM PARIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS HD" tvg-logo="" group-title="wXQcdtDuYt",BFM PARIS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73255
-#EXTINF:-1 tvg-id="" tvg-name="|FR| I 24 NEWS HD" tvg-logo="" group-title="wXQcdtDuYt",I 24 NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="I 24 NEWS HD" tvg-logo="" group-title="wXQcdtDuYt",I 24 NEWS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73254
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NAUTICAL HD" tvg-logo="" group-title="wXQcdtDuYt",NAUTICAL HD
+#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL HD" tvg-logo="" group-title="wXQcdtDuYt",NAUTICAL HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73315
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NON STOP PEOPLE HD" tvg-logo="" group-title="wXQcdtDuYt",NON STOP PEOPLE HD
+#EXTINF:-1 tvg-id="" tvg-name="NON STOP PEOPLE HD" tvg-logo="" group-title="wXQcdtDuYt",NON STOP PEOPLE HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73314
 #EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV HD" tvg-logo="" group-title="wXQcdtDuYt",NOVELAS TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/68475
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NOVELAS TV HD" tvg-logo="" group-title="wXQcdtDuYt",NOVELAS TV HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV HD" tvg-logo="" group-title="wXQcdtDuYt",NOVELAS TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73313
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ONE TV HD" tvg-logo="" group-title="wXQcdtDuYt",ONE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV HD" tvg-logo="" group-title="wXQcdtDuYt",ONE TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73312
-#EXTINF:-1 tvg-id="" tvg-name="|FR| ROUGE TV HD" tvg-logo="" group-title="wXQcdtDuYt",ROUGE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="ROUGE TV HD" tvg-logo="" group-title="wXQcdtDuYt",ROUGE TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73311
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LA CHAINE METEO HD" tvg-logo="" group-title="wXQcdtDuYt",LA CHAINE METEO HD
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO HD" tvg-logo="" group-title="wXQcdtDuYt",LA CHAINE METEO HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73310
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MUSEUM HD" tvg-logo="" group-title="wXQcdtDuYt",MUSEUM HD
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM HD" tvg-logo="" group-title="wXQcdtDuYt",MUSEUM HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73309
-#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDY CENTRAL HD" tvg-logo="" group-title="wXQcdtDuYt",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="wXQcdtDuYt",COMEDY CENTRAL HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73308
-#EXTINF:-1 tvg-id="" tvg-name="|FR| VIAGRANDPARIS" tvg-logo="" group-title="wXQcdtDuYt",VIAGRANDPARIS
+#EXTINF:-1 tvg-id="" tvg-name="VIAGRANDPARIS" tvg-logo="" group-title="wXQcdtDuYt",VIAGRANDPARIS
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73307
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 31" tvg-logo="" group-title="wXQcdtDuYt",CANAL 31
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 31" tvg-logo="" group-title="wXQcdtDuYt",CANAL 31
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73306
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 8 HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL 8 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73305
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CLIQUE TV HD" tvg-logo="" group-title="wXQcdtDuYt",CLIQUE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV HD" tvg-logo="" group-title="wXQcdtDuYt",CLIQUE TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73304
-#EXTINF:-1 tvg-id="" tvg-name="|FR| IDF 1" tvg-logo="" group-title="wXQcdtDuYt",IDF 1
+#EXTINF:-1 tvg-id="" tvg-name="IDF 1" tvg-logo="" group-title="wXQcdtDuYt",IDF 1
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73303
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OLYMPIA HD" tvg-logo="" group-title="wXQcdtDuYt",OLYMPIA HD
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIA HD" tvg-logo="" group-title="wXQcdtDuYt",OLYMPIA HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73302
-#EXTINF:-1 tvg-id="" tvg-name="|FR| KTO" tvg-logo="" group-title="wXQcdtDuYt",KTO
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="" group-title="wXQcdtDuYt",KTO
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73301
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BOOSTER TV HD" tvg-logo="" group-title="wXQcdtDuYt",BOOSTER TV HD
+#EXTINF:-1 tvg-id="" tvg-name="BOOSTER TV HD" tvg-logo="" group-title="wXQcdtDuYt",BOOSTER TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73300
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LEMAN BLEU HD" tvg-logo="" group-title="wXQcdtDuYt",LEMAN BLEU HD
+#EXTINF:-1 tvg-id="" tvg-name="LEMAN BLEU HD" tvg-logo="" group-title="wXQcdtDuYt",LEMAN BLEU HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73299
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 9 HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL 9 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73298
-#EXTINF:-1 tvg-id="" tvg-name="|FR| THE SWIZZ HD" tvg-logo="" group-title="wXQcdtDuYt",THE SWIZZ HD
+#EXTINF:-1 tvg-id="" tvg-name="THE SWIZZ HD" tvg-logo="" group-title="wXQcdtDuYt",THE SWIZZ HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73297
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OLTV" tvg-logo="" group-title="wXQcdtDuYt",OLTV
+#EXTINF:-1 tvg-id="" tvg-name="OLTV" tvg-logo="" group-title="wXQcdtDuYt",OLTV
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73296
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GO CINEMA 1 HD" tvg-logo="" group-title="wXQcdtDuYt",OCS GO CINEMA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="OCS GO CINEMA 1 HD" tvg-logo="" group-title="wXQcdtDuYt",OCS GO CINEMA 1 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73295
-#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT DECALE HD" tvg-logo="" group-title="wXQcdtDuYt",PARAMOUNT DECALE HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="" group-title="wXQcdtDuYt",PARAMOUNT DECALE HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73294
-#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB HD" tvg-logo="" group-title="wXQcdtDuYt",SERIE CLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB HD" tvg-logo="" group-title="wXQcdtDuYt",SERIE CLUB HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73293
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  ALTICE STUDIO HD" tvg-logo="" group-title="wXQcdtDuYt", ALTICE STUDIO HD
+#EXTINF:-1 tvg-id="" tvg-name=" ALTICE STUDIO HD" tvg-logo="" group-title="wXQcdtDuYt", ALTICE STUDIO HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73292
-#EXTINF:-1 tvg-id="" tvg-name="|FR| WARNER HD" tvg-logo="" group-title="wXQcdtDuYt",WARNER HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="wXQcdtDuYt",WARNER HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73291
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="" group-title="wXQcdtDuYt",RMC STORY HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="" group-title="wXQcdtDuYt",RMC STORY HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73290
-#EXTINF:-1 tvg-id="" tvg-name="|FR| VICELAND HD" tvg-logo="" group-title="wXQcdtDuYt",VICELAND HD
+#EXTINF:-1 tvg-id="" tvg-name="VICELAND HD" tvg-logo="" group-title="wXQcdtDuYt",VICELAND HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73289
-#EXTINF:-1 tvg-id="" tvg-name="|FR| J ONE HD" tvg-logo="" group-title="wXQcdtDuYt",J ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="J ONE HD" tvg-logo="" group-title="wXQcdtDuYt",J ONE HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73288
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BET HD" tvg-logo="" group-title="wXQcdtDuYt",BET HD
+#EXTINF:-1 tvg-id="" tvg-name="BET HD" tvg-logo="" group-title="wXQcdtDuYt",BET HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73287
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELECLUB ZOOM" tvg-logo="" group-title="wXQcdtDuYt",TELECLUB ZOOM
+#EXTINF:-1 tvg-id="" tvg-name="TELECLUB ZOOM" tvg-logo="" group-title="wXQcdtDuYt",TELECLUB ZOOM
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73286
-#EXTINF:-1 tvg-id="" tvg-name="|FR| A+ HD" tvg-logo="" group-title="wXQcdtDuYt",A+ HD
+#EXTINF:-1 tvg-id="" tvg-name="A+ HD" tvg-logo="" group-title="wXQcdtDuYt",A+ HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73285
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NOLLYWOOD TV" tvg-logo="" group-title="wXQcdtDuYt",NOLLYWOOD TV
+#EXTINF:-1 tvg-id="" tvg-name="NOLLYWOOD TV" tvg-logo="" group-title="wXQcdtDuYt",NOLLYWOOD TV
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73284
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FLIX LES SIMPSON" tvg-logo="" group-title="wXQcdtDuYt",FLIX LES SIMPSON
+#EXTINF:-1 tvg-id="" tvg-name="FLIX LES SIMPSON" tvg-logo="" group-title="wXQcdtDuYt",FLIX LES SIMPSON
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73283
-#EXTINF:-1 tvg-id="" tvg-name="|FR| FLIX BOB LEPONGE" tvg-logo="" group-title="wXQcdtDuYt",FLIX BOB LEPONGE
+#EXTINF:-1 tvg-id="" tvg-name="FLIX BOB LEPONGE" tvg-logo="" group-title="wXQcdtDuYt",FLIX BOB LEPONGE
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73282
-#EXTINF:-1 tvg-id="" tvg-name="|FR| BABY TV" tvg-logo="" group-title="wXQcdtDuYt",BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="wXQcdtDuYt",BABY TV
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73281
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TIJI HD" tvg-logo="" group-title="wXQcdtDuYt",TIJI HD
+#EXTINF:-1 tvg-id="" tvg-name="TIJI HD" tvg-logo="" group-title="wXQcdtDuYt",TIJI HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73280
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TOONAMI HD" tvg-logo="" group-title="wXQcdtDuYt",TOONAMI HD
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI HD" tvg-logo="" group-title="wXQcdtDuYt",TOONAMI HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73279
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="" group-title="wXQcdtDuYt",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="wXQcdtDuYt",DISNEY CHANNEL HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73278
-#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON 4 TEEN HD" tvg-logo="" group-title="wXQcdtDuYt",NICKELODEON 4 TEEN HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4 TEEN HD" tvg-logo="" group-title="wXQcdtDuYt",NICKELODEON 4 TEEN HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73277
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GAME ONE  +1" tvg-logo="" group-title="wXQcdtDuYt",GAME ONE  +1
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE  +1" tvg-logo="" group-title="wXQcdtDuYt",GAME ONE  +1
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73261
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY FAMILY HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73260
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY ID HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY ID HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73259
-#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="wXQcdtDuYt",DISCOVERY INVESTIGATION HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73258
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL NEWS HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL NEWS HD" tvg-logo="" group-title="wXQcdtDuYt",CANAL NEWS HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73257
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LFM TV HD" tvg-logo="" group-title="wXQcdtDuYt",LFM TV HD
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV HD" tvg-logo="" group-title="wXQcdtDuYt",LFM TV HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73252
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TVM 3 HD" tvg-logo="" group-title="wXQcdtDuYt",TVM 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="TVM 3 HD" tvg-logo="" group-title="wXQcdtDuYt",TVM 3 HD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73248
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="http://62.210.206.49/logo/FRANCE/FR_TF1.png" group-title="wXQcdtDuYt H265",TF1 FHD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/13338
@@ -4783,9 +4783,9 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/13177
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/13178
 #EXTINF:-1 tvg-id="" tvg-name="**** SPORT ****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBRRRZXHUdLfkrCLijCH-Yd7DrUgLC9G2YOHH1Fs-GM0Jy8P4E&usqp=CAU" group-title="FRANCE FHD&H265",**** SPORT ****
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/43986
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT FHD" tvg-logo="" group-title="FRANCE FHD&H265",|FR| TELEFOOT FHD
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT FHD" tvg-logo="" group-title="FRANCE FHD&H265",|FR| TELEFOOT FHD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73229
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT H256" tvg-logo="" group-title="FRANCE FHD&H265",|FR| TELEFOOT H256
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT H256" tvg-logo="" group-title="FRANCE FHD&H265",|FR| TELEFOOT H256
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/73228
 #EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/CANAL+SPORTHD.png" group-title="wXQcdtDuYt H265",CANAL+ SPORT FHD
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/13276
@@ -9778,19 +9778,19 @@ http://dream4k.co:8080/thismonth3/0546147049/29420
 http://dream4k.co:8080/thismonth3/0546147049/29421
 #EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR| CNEWS SD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CNEWSHD.png" group-title="Dream4k",CNEWS SD
 http://dream4k.co:8080/thismonth3/0546147049/29422
-#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS (SD)" tvg-logo="http://185.165.243.195/logo_plus/FRANCE/MTVHITSHD.png" group-title="Dream4k",MTV HITS (SD)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (SD)" tvg-logo="http://185.165.243.195/logo_plus/FRANCE/MTVHITSHD.png" group-title="Dream4k",MTV HITS (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29610
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="|FR| NRJ HITS TV (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NRJHITSHD.png" group-title="Dream4k",NRJ HITS TV (SD)
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS TV (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/NRJHITSHD.png" group-title="Dream4k",NRJ HITS TV (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29611
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="|FR| MTV FRANCE (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTVLIVE.png" group-title="Dream4k",MTV FRANCE (SD)
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FRANCE (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MTVLIVE.png" group-title="Dream4k",MTV FRANCE (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29612
-#EXTINF:-1 tvg-id="cstar.fr" tvg-name="|FR| CSTAR HITS (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CSTARHD.png" group-title="Dream4k",CSTAR HITS (SD)
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR HITS (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/CSTARHD.png" group-title="Dream4k",CSTAR HITS (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29614
-#EXTINF:-1 tvg-id="m6music.fr" tvg-name="|FR| M6 MUSIC (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/M6MUSICHD.png" group-title="Dream4k",M6 MUSIC (SD)
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/M6MUSICHD.png" group-title="Dream4k",M6 MUSIC (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29615
-#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="|FR| TRACE URBAN (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACEURBANHD.png" group-title="Dream4k",TRACE URBAN (SD)
+#EXTINF:-1 tvg-id="Trace Urban HD FR" tvg-name="TRACE URBAN (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACEURBANHD.png" group-title="Dream4k",TRACE URBAN (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29616
-#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="|FR| TRACE TROPICAL (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACETROPICALHD.png" group-title="Dream4k",TRACE TROPICAL (SD)
+#EXTINF:-1 tvg-id="Trace Tropical FR" tvg-name="TRACE TROPICAL (SD)" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TRACETROPICALHD.png" group-title="Dream4k",TRACE TROPICAL (SD)
 http://dream4k.co:8080/thismonth3/0546147049/29617
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR (H265) - TF1 Full FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/TF1HD.png" group-title="Dream4k",TF1 Full FHD
 http://dream4k.co:8080/thismonth3/0546147049/36454
@@ -10036,3 +10036,991 @@ http://dream4k.co:8080/thismonth3/0546147049/36562
 http://dream4k.co:8080/thismonth3/0546147049/36563
 #EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="FR (H265) - MCM TOP Full FHD" tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MCMTOPHD.png" group-title="Dream4k",MCM TOP Full FHD
 http://dream4k.co:8080/thismonth3/0546147049/36564
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR002:6Ter" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="cularu", 02:6Ter
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2864
+#EXTINF:-1 tvg-id="ab.1.fr" tvg-name="FR004:AB1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR004AB1.png" group-title="cularu", 04:AB1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2862
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR005:AB3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR005AB3.png" group-title="cularu", 05:AB3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2861
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR007:Animaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR007Animaux.png" group-title="cularu", 07:Animaux
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2859
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR008:Arte" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR008Arte.png" group-title="cularu", 08:Arte
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2858
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR022:C8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png" group-title="cularu", 22:C8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2844
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="FR028:Canal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png" group-title="cularu", 28:Canal
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2838
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="FR031:Chasse et Pache" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png" group-title="cularu", 31:Chasse et Pache
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2835
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="FR032:Cherie 25" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png" group-title="cularu", 32:Cherie 25
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2834
+#EXTINF:-1 tvg-id="comedie+.fr" tvg-name="FR040:Comedie Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png" group-title="cularu", 40:Comedie Plus
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2826
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR041:CStar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="cularu", 41:CStar
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2825
+#EXTINF:-1 tvg-id="discovery.f.fr" tvg-name="FR042:Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png" group-title="cularu", 42:Discovery
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2824
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="FR043:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png" group-title="cularu", 43:Discovery Science
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2823
+#EXTINF:-1 tvg-id="equidia.live.fr" tvg-name="FR048:Equidiae Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png" group-title="cularu", 48:Equidiae Live
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2818
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="FR052:France 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR052France2.png" group-title="cularu", 52:France 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2814
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="FR054:France 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR054France3.png" group-title="cularu", 54:France 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2812
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="FR055:France 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR055France4.png" group-title="cularu", 55:France 4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2811
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="FR056:France 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR056France5.png" group-title="cularu", 56:France 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2810
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="FR057:France O" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png" group-title="cularu", 57:France O
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2809
+#EXTINF:-1 tvg-id="game.one.fr" tvg-name="FR058:Game One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR058GameOne.png" group-title="cularu", 58:Game One
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2808
+#EXTINF:-1 tvg-id="hd1.fr" tvg-name="FR060:HD1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR060HD1.png" group-title="cularu", 60:HD1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2806
+#EXTINF:-1 tvg-id="" tvg-name="FR061:i Tele" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR061iTele.png" group-title="cularu", 61:i Tele
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2805
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="FR063:L'EQUIPE 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR063L'EQUIPE21.png" group-title="cularu", 63:L'EQUIPE 21
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2803
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR065:M6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR065M6.png" group-title="cularu", 65:M6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2801
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="FR067:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR067NATGEO.png" group-title="cularu", 67:NAT GEO
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2799
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name="FR068:NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR068NATGEOWILD.png" group-title="cularu", 68:NAT GEO WILD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2798
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="FR070:NRJ Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR070NRJHits.png" group-title="cularu", 70:NRJ Hits
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2796
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR071:TFX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png" group-title="cularu", 71:TFX
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2795
+#EXTINF:-1 tvg-id="" tvg-name="FR073:Pairs Permiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png" group-title="cularu", 73:Pairs Permiere
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2793
+#EXTINF:-1 tvg-id="planete.fr" tvg-name="FR075:Planete" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR075Planete.png" group-title="cularu", 75:Planete
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2791
+#EXTINF:-1 tvg-id="planete+.action.experience.fr" tvg-name="FR076:Planete A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png" group-title="cularu", 76:Planete A&E
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2790
+#EXTINF:-1 tvg-id="planete+.ci.fr" tvg-name="FR077:Planete CI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png" group-title="cularu", 77:Planete CI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2789
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR078:RTL9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR078RTL9.png" group-title="cularu", 78:RTL9
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2788
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR079:Seasons" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR079Seasons.png" group-title="cularu", 79:Seasons
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2787
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR084:Syfy FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR084SyfyFR.png" group-title="cularu", 84:Syfy FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2782
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR085:Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR085Teva.png" group-title="cularu", 85:Teva
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2781
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR087:TF1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="cularu", 87:TF1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2779
+#EXTINF:-1 tvg-id="toute.lhistoire.fr" tvg-name="FR088:Toute Lhistoire" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR088TouteLhistoire.png" group-title="cularu", 88:Toute Lhistoire
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2778
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="FR089:Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR089TraceUrban.png" group-title="cularu", 89:Trace Urban
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2777
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="FR090:TV Breizh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR090TVBreizh.png" group-title="cularu", 90:TV Breizh
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2776
+#EXTINF:-1 tvg-id="tv5.monde.fr" tvg-name="FR091:TV5 Monde" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png" group-title="cularu", 91:TV5 Monde
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2775
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="FR092:Voyage" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR092Voyage.png" group-title="cularu", 92:Voyage
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2774
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR093:W9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR093W9.png" group-title="cularu", 93:W9
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2773
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="FR096:NRJ12 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR096NRJ12HD.png" group-title="cularu", 96:NRJ12 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28213
+#EXTINF:-1 tvg-id="" tvg-name="FR101:D8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR101D8.png" group-title="cularu", 101:D8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28208
+#EXTINF:-1 tvg-id="comedie.fr" tvg-name="FR109:COMEDIE  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR109COMEDIEHD.png" group-title="cularu", 109:COMEDIE  HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28200
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="FR110:CANAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR110CANALHD.png" group-title="cularu", 110:CANAL  HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28199
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="FR114:RTS DEUX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR114LaDeux.png" group-title="cularu", 114:RTS DEUX
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28195
+#EXTINF:-1 tvg-id="luxe.fr" tvg-name="FR115:LUXE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png" group-title="cularu", 115:LUXE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28194
+#EXTINF:-1 tvg-id="" tvg-name="FR116:NUMERO 23 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png" group-title="cularu", 116:NUMERO 23 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28193
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="FR122:PARIS PREMIERE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR122PARISPREMIEREHD.png" group-title="cularu", 122:PARIS PREMIERE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28187
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="FR123:RMC Decouverte HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR123rmcdecouverte.png" group-title="cularu", 123:RMC Decouverte HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28186
+#EXTINF:-1 tvg-id="" tvg-name="FR124:RESTEZ 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR124RTSDeux.png" group-title="cularu", 124:RESTEZ 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28185
+#EXTINF:-1 tvg-id="rts.un.fr" tvg-name="FR125:RTS Un" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR125RTSUn.png" group-title="cularu", 125:RTS Un
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28184
+#EXTINF:-1 tvg-id="science.et.vie.fr" tvg-name="FR126:SCIENCE ET VIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR126SCIENCEETVIEHD.png" group-title="cularu", 126:SCIENCE ET VIE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28183
+#EXTINF:-1 tvg-id="sciences.vie.fr" tvg-name="FR127:SCIENCES & VIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR127SCIENCES&VIE.png" group-title="cularu", 127:SCIENCES & VIE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28182
+#EXTINF:-1 tvg-id="" tvg-name="FR136:Persiana 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png" group-title="cularu", 136:Persiana 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28173
+#EXTINF:-1 tvg-id="weo.fr" tvg-name="FR137:WEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR137WEOHD.png" group-title="cularu", 137:WEO HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28172
+#EXTINF:-1 tvg-id="" tvg-name="FR139:NT1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR139NT1.png" group-title="cularu", 139:NT1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28170
+#EXTINF:-1 tvg-id="" tvg-name="FR141:TEVA/TMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR141TEVA/TMC.png" group-title="cularu", 141:TEVA/TMC
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28168
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR142:TREK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR142TREKHD.png" group-title="cularu", 142:TREK HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28167
+#EXTINF:-1 tvg-id="contactv.fr" tvg-name="FR144:Radio Contact" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR144RadioContact.png" group-title="cularu", 144:Radio Contact
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28165
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR145:HISTOIRE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR145SundanceTV.png" group-title="cularu", 145:HISTOIRE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28164
+#EXTINF:-1 tvg-id="trace.mziki.fr" tvg-name="FR146:Trace Mziki" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR146TraceMziki.png" group-title="cularu", 146:Trace Mziki
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28163
+#EXTINF:-1 tvg-id="trace.toca.fr" tvg-name="FR149:Trace Toca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR149TraceToca.png" group-title="cularu", 149:Trace Toca
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28160
+#EXTINF:-1 tvg-id="trace.tropical.fr" tvg-name="FR156:Trace Tropical" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR156TraceTropical.png" group-title="cularu", 156:Trace Tropical
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28153
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="FR157:Trace Urban" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR157TraceUrban.png" group-title="cularu", 157:Trace Urban
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28152
+#EXTINF:-1 tvg-id="" tvg-name="FR159:TV3V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR159TV3V.png" group-title="cularu", 159:TV3V
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28150
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="FR160:ALTICE STUDIO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR160ALTICESTUDIOHD.png" group-title="cularu", 160:ALTICE STUDIO HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28149
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="FR161:BET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png" group-title="cularu", 161:BET
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28148
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="FR162:J One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR162JOne.png" group-title="cularu", 162:J One
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28147
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FR164:FOOT  24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png" group-title="cularu", 164:FOOT  24
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28145
+#EXTINF:-1 tvg-id="tv5.monde.style.fr" tvg-name="FR165:TV5 Style" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png" group-title="cularu", 165:TV5 Style
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28144
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR166:MCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR166MCM.png" group-title="cularu", 166:MCM
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28143
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="FR167:MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR167MCMTOP.png" group-title="cularu", 167:MCM TOP
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28142
+#EXTINF:-1 tvg-id="science.vie.fr" tvg-name="FR168:Science & Vie HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR168Science VieHD.png" group-title="cularu", 168:Science & Vie HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28141
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name="FR169:CRIME DISTRICT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR169CRIMEDISTRICTHD.png" group-title="cularu", 169:CRIME DISTRICT HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28140
+#EXTINF:-1 tvg-id="e.fr" tvg-name="FR170:E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR170E!Entertainment.png" group-title="cularu", 170:E! Entertainment
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28139
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="FR171:BFM business" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR171BFMbusiness.png" group-title="cularu", 171:BFM business
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28138
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="FR172:Discovery Investigation HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR172DiscoveryInvestigationHD.png" group-title="cularu", 172:Discovery Investigation HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28137
+#EXTINF:-1 tvg-id="" tvg-name="FR173:BE CURIOUS TV HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR173BECURIOUSTVHD(1080P).png" group-title="cularu", 173:BE CURIOUS TV HD (1080P)
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28136
+#EXTINF:-1 tvg-id="equidia.life.fr" tvg-name="FR175:EQUIDIA LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png" group-title="cularu", 175:EQUIDIA LIFE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28134
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR178:Syfy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR178SyfyHD.png" group-title="cularu", 178:Syfy HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28131
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR179:Teva" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR179Teva.png" group-title="cularu", 179:Teva
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28130
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR180:TF1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR180TF1HD.png" group-title="cularu", 180:TF1 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28129
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR192:TV5Monde Maghreb-Orient" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR192TV5MondeMaghreb-Orient.png" group-title="cularu", 192:TV5Monde Maghreb-Orient
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28117
+#EXTINF:-1 tvg-id="bfm.lyon.metropole.fr" tvg-name="FR194:BFM LYON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR194BFMLYON.png" group-title="cularu", 194:BFM LYON
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28115
+#EXTINF:-1 tvg-id="vosges.fr" tvg-name="FR195:VOSGES TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR195VOSGESTV.png" group-title="cularu", 195:VOSGES TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28114
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="FR196:ALTICE STUDIO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR196ALTICESTUDIOFHD.png" group-title="cularu", 196:ALTICE STUDIO FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28113
+#EXTINF:-1 tvg-id="" tvg-name="FR197:Antenne Reunion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR197AntenneReunion.png" group-title="cularu", 197:Antenne Reunion
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28112
+#EXTINF:-1 tvg-id="viceland.fr" tvg-name="FR198:VICELAND HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png" group-title="cularu", 198:VICELAND HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28111
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="FR199:USHUAIA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR199USHUAIAHD.png" group-title="cularu", 199:USHUAIA HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28110
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="FR200:BET FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR200BETFHD.png" group-title="cularu", 200:BET FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28109
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="FR201:BFM Business HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR201BFMBusinessHD.png" group-title="cularu", 201:BFM Business HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28108
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR202:BFM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR202BFMHD.png" group-title="cularu", 202:BFM HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28107
+#EXTINF:-1 tvg-id="bfm.paris.fr" tvg-name="FR203:BFM PARIS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR203BFMPARISHD.png" group-title="cularu", 203:BFM PARIS HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28106
+#EXTINF:-1 tvg-id="" tvg-name="FR204:BERBERE TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR204BlackClassic.png" group-title="cularu", 204:BERBERE TELEVISION
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28105
+#EXTINF:-1 tvg-id="" tvg-name="FR207:ILTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR207ILTV.png" group-title="cularu", 207:ILTV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28102
+#EXTINF:-1 tvg-id="" tvg-name="FR209:NOVELAS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR209VIRGIN.png" group-title="cularu", 209:NOVELAS HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28100
+#EXTINF:-1 tvg-id="13eme.rue.fr" tvg-name="FR210:13EME RUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR21013EMERUE.png" group-title="cularu", 210:13EME RUE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28099
+#EXTINF:-1 tvg-id="" tvg-name="FR211:GOLF+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png" group-title="cularu", 211:GOLF+ HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28098
+#EXTINF:-1 tvg-id="" tvg-name="FR212:Bblack! Caribbean" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR212Bblack!Caribbean.png" group-title="cularu", 212:Bblack! Caribbean
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28097
+#EXTINF:-1 tvg-id="" tvg-name="FR213:CPAC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR213CPAC.png" group-title="cularu", 213:CPAC
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28096
+#EXTINF:-1 tvg-id="fashion.fr" tvg-name="FR214:NRJ HITS BELGIQUE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR214NRJHITSBELGIQUE.png" group-title="cularu", 214:NRJ HITS BELGIQUE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28095
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FR215:FRANCE INFO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR215FRANCEINFO.png" group-title="cularu", 215:FRANCE INFO
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28094
+#EXTINF:-1 tvg-id="serie.club.fr" tvg-name="FR216:Serie Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR216SerieClub.png" group-title="cularu", 216:Serie Club
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28093
+#EXTINF:-1 tvg-id="m6.boutique.fr" tvg-name="FR217:M6 Boutique HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR217M6BoutiqueHD.png" group-title="cularu", 217:M6 Boutique HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28092
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="FR218:M6 Music Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR218M6MusicHits.png" group-title="cularu", 218:M6 Music Hits
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28091
+#EXTINF:-1 tvg-id="" tvg-name="FR219:HD 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR219HD1.png" group-title="cularu", 219:HD 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28090
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="FR220:RTS LA DEUX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR220RTSLADEUXHD.png" group-title="cularu", 220:RTS LA DEUX HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28089
+#EXTINF:-1 tvg-id="" tvg-name="FR221:Alsace TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR221AlsaceTV.png" group-title="cularu", 221:Alsace TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28088
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR222:SyFy Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR222SyFyUniversalHD.png" group-title="cularu", 222:SyFy Universal HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28087
+#EXTINF:-1 tvg-id="" tvg-name="FR223:BRAVA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR223BRAVAHD.png" group-title="cularu", 223:BRAVA HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28086
+#EXTINF:-1 tvg-id="" tvg-name="FR233:Cine Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR233CineAction.png" group-title="cularu", 233:Cine Action
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28076
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="FR234:Cine+ Classic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR234Cine+Classic.png" group-title="cularu", 234:Cine+ Classic
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28075
+#EXTINF:-1 tvg-id="tl7.saint.etienne.fr" tvg-name="FR235:RESTEZ 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR235TL7.png" group-title="cularu", 235:RESTEZ 2 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28074
+#EXTINF:-1 tvg-id="djazz.fr" tvg-name="FR236:DJAZZ TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR236DJAZZTV.png" group-title="cularu", 236:DJAZZ TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28073
+#EXTINF:-1 tvg-id="mtv.base.fr" tvg-name="FR237:MTV BASE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR237MTVBASE.png" group-title="cularu", 237:MTV BASE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28072
+#EXTINF:-1 tvg-id="mtv.dance.fr" tvg-name="FR238:MTV DANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR238MTVDANCE.png" group-title="cularu", 238:MTV DANCE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28071
+#EXTINF:-1 tvg-id="mtv.hits.fr" tvg-name="FR239:MTV HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR239MTVHITS.png" group-title="cularu", 239:MTV HITS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28070
+#EXTINF:-1 tvg-id="" tvg-name="FR240:TVM 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR240TVM3HD.png" group-title="cularu", 240:TVM 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28069
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR241:TV5 MONDE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR241TV5MONDE.png" group-title="cularu", 241:TV5 MONDE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28068
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="FR242:CANAL  DECALE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR242CANALDECALEHD.png" group-title="cularu", 242:CANAL  DECALE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28067
+#EXTINF:-1 tvg-id="" tvg-name="FR243:CANAL  Emotion HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR243CANALEmotionHD.png" group-title="cularu", 243:CANAL  Emotion HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28066
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="FR244:CANAL  FAMILY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR244CANALFAMILYHD.png" group-title="cularu", 244:CANAL  FAMILY HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28065
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="FR245:Canal+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR245CANALHD.png" group-title="cularu", 245:Canal+ HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28064
+#EXTINF:-1 tvg-id="trace.naija.fr" tvg-name="FR247:TRACE NAIJA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR247TVVendee.png" group-title="cularu", 247:TRACE NAIJA
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28062
+#EXTINF:-1 tvg-id="canal+.serie.fr" tvg-name="FR248:CANAL  SERIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR248CANALSERIEHD.png" group-title="cularu", 248:CANAL  SERIE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28061
+#EXTINF:-1 tvg-id="tv7.bordeaux.fr" tvg-name="FR249:TV7 Bordeaux" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR249TV7Bordeaux.png" group-title="cularu", 249:TV7 Bordeaux
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28060
+#EXTINF:-1 tvg-id="cine+.club.fr" tvg-name="FR251:CINE  CLUB HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR251CINECLUBHD.png" group-title="cularu", 251:CINE  CLUB HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28058
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="FR252:CINE FRISSON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR252CINEFRISSONHD.png" group-title="cularu", 252:CINE FRISSON HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28057
+#EXTINF:-1 tvg-id="cine+.star.afrique.fr" tvg-name="FR253:CINE  Star HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR253CINEStarHD.png" group-title="cularu", 253:CINE  Star HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28056
+#EXTINF:-1 tvg-id="" tvg-name="FR255:TV5 Europe HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR255TV5EuropeHD.png" group-title="cularu", 255:TV5 Europe HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28054
+#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name="FR258:Discovery FAMILY FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR258DiscoveryFAMILYFHD.png" group-title="cularu", 258:Discovery FAMILY FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28051
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="FR259:Discovery INVESTIGATION FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR259DiscoveryINVESTIGATIONFHD.png" group-title="cularu", 259:Discovery INVESTIGATION FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28050
+#EXTINF:-1 tvg-id="e.fr" tvg-name="FR260:E! FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR260E!FHD.png" group-title="cularu", 260:E! FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28049
+#EXTINF:-1 tvg-id="" tvg-name="FR263:RTS LA UN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR263RTSLAUN.png" group-title="cularu", 263:RTS LA UN
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28046
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="FR264:ELLE GIRL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR264ELLEGIRLHD.png" group-title="cularu", 264:ELLE GIRL HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28045
+#EXTINF:-1 tvg-id="viamirabelle.fr" tvg-name="FR269:VIA MIRABELLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR269VIAMIRABELLETV.png" group-title="cularu", 269:VIA MIRABELLE TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28040
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FR270:FOOT 24 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR270FOOT24HD.png" group-title="cularu", 270:FOOT 24 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28039
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR271:TREK FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR271TREKFHD.png" group-title="cularu", 271:TREK FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28038
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="FR272:FRANCEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR272FRANCEOHD.png" group-title="cularu", 272:FRANCEO HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28037
+#EXTINF:-1 tvg-id="" tvg-name="FR273:via Occitanie TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR273viaOccitanieTV.png" group-title="cularu", 273:via Occitanie TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28036
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name="FR274:Via Vosges TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR274ViaVosgesTV.png" group-title="cularu", 274:Via Vosges TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28035
+#EXTINF:-1 tvg-id="gong.max.fr" tvg-name="FR275:GONG MAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR275GONGMAXHD.png" group-title="cularu", 275:GONG MAX HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28034
+#EXTINF:-1 tvg-id="gong.fr" tvg-name="FR276:Gong TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR276GongTV.png" group-title="cularu", 276:Gong TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28033
+#EXTINF:-1 tvg-id="rts.deux.fr" tvg-name="FR277:RTS Deux FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR277RTSDeuxFHD.png" group-title="cularu", 277:RTS Deux FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28032
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="FR279:J ONE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR279JONEFHD.png" group-title="cularu", 279:J ONE FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28030
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="FR281:KTO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR281KTOHD.png" group-title="cularu", 281:KTO HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28028
+#EXTINF:-1 tvg-id="" tvg-name="FR282:LA CHAINE NORMANDIE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR282LACHAINENORMANDIEHD.png" group-title="cularu", 282:LA CHAINE NORMANDIE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28027
+#EXTINF:-1 tvg-id="trace.gospel.af.fr" tvg-name="FR283:TRACE Gospel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR283TRACEGospelHD.png" group-title="cularu", 283:TRACE Gospel HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/49560
+#EXTINF:-1 tvg-id="viavosges.fr" tvg-name="FR284:viàVosges" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR284viàVosges.png" group-title="cularu", 284:viàVosges
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28025
+#EXTINF:-1 tvg-id="tvr.fr" tvg-name="FR285:TVR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR285TVR.png" group-title="cularu", 285:TVR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28024
+#EXTINF:-1 tvg-id="tvplaiz.fr" tvg-name="FR286:TVPI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR286TVPI.png" group-title="cularu", 286:TVPI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28023
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR287:W9 Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR287W9Music.png" group-title="cularu", 287:W9 Music
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28022
+#EXTINF:-1 tvg-id="plug.rtl.fr" tvg-name="FR288:PLUG RTL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR288PLUGRTL.png" group-title="cularu", 288:PLUG RTL
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28021
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR289:MCM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR289MCMHD.png" group-title="cularu", 289:MCM HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28020
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="FR290:MCM TOP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR290MCMTOP.png" group-title="cularu", 290:MCM TOP
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28019
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="FR291:MEZZO LIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR291MEZZOLIVEHD.png" group-title="cularu", 291:MEZZO LIVE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28018
+#EXTINF:-1 tvg-id="trace.ayiti.fr" tvg-name="FR292:TRACE AYITI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR292TRACEAYITI.png" group-title="cularu", 292:TRACE AYITI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28017
+#EXTINF:-1 tvg-id="trace.africa.fr" tvg-name="FR293:TRACE AFRICA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR293TRACEAFRICAHD.png" group-title="cularu", 293:TRACE AFRICA HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28016
+#EXTINF:-1 tvg-id="mtv.f.fr" tvg-name="FR294:MTV FRANCE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR294MTVFRANCE.png" group-title="cularu", 294:MTV FRANCE
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28015
+#EXTINF:-1 tvg-id="mtv.music.fr" tvg-name="FR295:MTV Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR295MTVMusic.png" group-title="cularu", 295:MTV Music
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28014
+#EXTINF:-1 tvg-id="my.cuisine.fr" tvg-name="FR297:MY CUISINE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR297MYCUISINEFHD.png" group-title="cularu", 297:MY CUISINE FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28012
+#EXTINF:-1 tvg-id="" tvg-name="FR299:La Chaine Normande" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR299LaChaineNormande.png" group-title="cularu", 299:La Chaine Normande
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28010
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="FR300:AB MOTEURS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR300ABMOTEURS.png" group-title="cularu", 300:AB MOTEURS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28009
+#EXTINF:-1 tvg-id="cgtn.fr" tvg-name="FR303:CGTN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR303CGTN.png" group-title="cularu", 303:CGTN
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28006
+#EXTINF:-1 tvg-id="rtl.fr" tvg-name="FR304:RTL FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR304RTLFHD.png" group-title="cularu", 304:RTL FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28005
+#EXTINF:-1 tvg-id="oltv.fr" tvg-name="FR312:OLTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR312OLTVHD.png" group-title="cularu", 312:OLTV HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27997
+#EXTINF:-1 tvg-id="trace.gospel.fr" tvg-name="FR313:TRACE GOSPEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR313TRACEGOSPEL.png" group-title="cularu", 313:TRACE GOSPEL
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27996
+#EXTINF:-1 tvg-id="" tvg-name="FR314:Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR314OrangeCinema1HD.png" group-title="cularu", 314:Orange Cinema 1 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27995
+#EXTINF:-1 tvg-id="planete+.fr" tvg-name="FR320:Planete+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR320Planete+HD.png" group-title="cularu", 320:Planete+ HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27989
+#EXTINF:-1 tvg-id="syfy.fr" tvg-name="FR323:SyFy Universal" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR323SyFyUniversal.png" group-title="cularu", 323:SyFy Universal
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27986
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR324:Equida_FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR324Equida_FR.png" group-title="cularu", 324:Equida_FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27985
+#EXTINF:-1 tvg-id="alsace.20.fr" tvg-name="FR330:ALSACE 20" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR330ALSACE20.png" group-title="cularu", 330:ALSACE 20
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27979
+#EXTINF:-1 tvg-id="a+.fr" tvg-name="FR331:A+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR331A+.png" group-title="cularu", 331:A+
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27978
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="FR334:NOLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR334NOLYWOOD.png" group-title="cularu", 334:NOLYWOOD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27975
+#EXTINF:-1 tvg-id="" tvg-name="FR335:PICKLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR335PICKLETV.png" group-title="cularu", 335:PICKLE TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27974
+#EXTINF:-1 tvg-id="" tvg-name="FR344:RT France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR344RTFrance.png" group-title="cularu", 344:RT France
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27965
+#EXTINF:-1 tvg-id="" tvg-name="FR347:Fashion L'Original" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR347FashionL'Original.png" group-title="cularu", 347:Fashion L'Original
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27962
+#EXTINF:-1 tvg-id="bip.fr" tvg-name="FR353:BipTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR353BipTV.png" group-title="cularu", 353:BipTV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27956
+#EXTINF:-1 tvg-id="" tvg-name="FR356:Bblack Classik" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR356BblackClassik.png" group-title="cularu", 356:Bblack Classik
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27953
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="FR003:AB Moteur" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png" group-title="cularu", 03:AB Moteur
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2863
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="FR009:Bein Sport 4 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png" group-title="cularu", 09:Bein Sport 4 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2857
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="FR010:Bein Sport 10 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png" group-title="cularu", 10:Bein Sport 10 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2856
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="FR011:Bein Sport 5 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png" group-title="cularu", 11:Bein Sport 5 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2855
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="FR012:Bein Sport 6 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png" group-title="cularu", 12:Bein Sport 6 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2854
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="FR013:Bein Sport 7 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="cularu", 13:Bein Sport 7 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2853
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="FR014:Bein Sport 8 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png" group-title="cularu", 14:Bein Sport 8 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2852
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="FR015:Bein Sport 9 Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png" group-title="cularu", 15:Bein Sport 9 Max
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2851
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR016:Bein Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png" group-title="cularu", 16:Bein Sport 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2850
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR017:Bein Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png" group-title="cularu", 17:Bein Sport 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2849
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR018:Bein Sport  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png" group-title="cularu", 18:Bein Sport  2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2848
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="FR027:Canal  Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png" group-title="cularu", 27:Canal  Sport
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2839
+#EXTINF:-1 tvg-id="eurosport.fr" tvg-name="FR050:Euro Sport 1 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png" group-title="cularu", 50:Euro Sport 1 FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2816
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR051:Euro Sport 2 FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png" group-title="cularu", 51:Euro Sport 2 FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2815
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="FR062:Info Sport" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png" group-title="cularu", 62:Info Sport
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2804
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR080:SFR Sport 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR080SFRSport4.png" group-title="cularu", 80:SFR Sport 4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2786
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR081:SFR Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR081SFRSport1.png" group-title="cularu", 81:SFR Sport 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2785
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR082:SFR Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR082SFRSport2.png" group-title="cularu", 82:SFR Sport 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2784
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR083:SFR Sport 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR083SFRSport3.png" group-title="cularu", 83:SFR Sport 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2783
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="FR111:Eurosport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR111Eurosport2.png" group-title="cularu", 111:Eurosport 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28198
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="FR112:Eurosport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR112Eurosport1.png" group-title="cularu", 112:Eurosport 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28197
+#EXTINF:-1 tvg-id="info.sport.fr" tvg-name="FR113:INFOSPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR113INFOSPORT.png" group-title="cularu", 113:INFOSPORT
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28196
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="FR176:Golf Channel France" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png" group-title="cularu", 176:Golf Channel France
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28133
+#EXTINF:-1 tvg-id="" tvg-name="FR177:BFM SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png" group-title="cularu", 177:BFM SPORT
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28132
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="FR250:CANAL  SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR250CANALSPORTFHD.png" group-title="cularu", 250:CANAL  SPORT FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28059
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FR329:Foot +" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR329Foot.png" group-title="cularu", 329:Foot +
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27980
+#EXTINF:-1 tvg-id="rmc.sport.access.1.fr" tvg-name="FR337:RMC ACCESS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR337RMCACCESS1.png" group-title="cularu", 337:RMC ACCESS 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27972
+#EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name="FR338:RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="cularu", 338:RMC ACCESS  2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27971
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="FR349:RMC SPORT 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR349RMCSPORT1HD.png" group-title="cularu", 349:RMC SPORT 1 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27960
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="FR350:RMC SPORT 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR350RMCSPORT2HD.png" group-title="cularu", 350:RMC SPORT 2 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27959
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="FR351:RMC SPORT 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR351RMCSPORT3HD.png" group-title="cularu", 351:RMC SPORT 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27958
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="FR352:RMC SPORT 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR352RMCSPORT4HD.png" group-title="cularu", 352:RMC SPORT 4 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27957
+#EXTINF:-1 tvg-id="rmc.sport.live.5.fr" tvg-name="FR121:RMC Sport 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png" group-title="cularu", 121:RMC Sport 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28188
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="FR348:RMC Sport 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR348RMCSport6.png" group-title="cularu", 348:RMC Sport 6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27961
+#EXTINF:-1 tvg-id="rmc.sport.live.7.fr" tvg-name="FR129:RMC Sport 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png" group-title="cularu", 129:RMC Sport 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28180
+#EXTINF:-1 tvg-id="rmc.sport.live.8.fr" tvg-name="FR130:RMC Sport 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png" group-title="cularu", 130:RMC Sport 8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28179
+#EXTINF:-1 tvg-id="rmc.sport.live.9.fr" tvg-name="FR254:RMC Sport 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR254RMCSport9.png" group-title="cularu", 254:RMC Sport 9
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28055
+#EXTINF:-1 tvg-id="rmc.sport.live.10.fr" tvg-name="FR256:RMC Sport 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR256RMCSport10.png" group-title="cularu", 256:RMC Sport 10
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28053
+#EXTINF:-1 tvg-id="rmc.sport.live.11.fr" tvg-name="FR257:RMC Sport 11" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR257RMCSport11.png" group-title="cularu", 257:RMC Sport 11
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28052
+#EXTINF:-1 tvg-id="rmc.sport.live.12.fr" tvg-name="FR266:RMC Sport 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR266RMCSport12.png" group-title="cularu", 266:RMC Sport 12
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28043
+#EXTINF:-1 tvg-id="rmc.sport.live.13.fr" tvg-name="FR267:RMC Sport 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR267RMCSport13.png" group-title="cularu", 267:RMC Sport 13
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28042
+#EXTINF:-1 tvg-id="rmc.sport.live.14.fr" tvg-name="FR268:RMC Sport 14" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR268RMCSport14.png" group-title="cularu", 268:RMC Sport 14
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28041
+#EXTINF:-1 tvg-id="rmc.sport.live.15.fr" tvg-name="FR280:RMC SPORT 15" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR280RMCSPORT15.png" group-title="cularu", 280:RMC SPORT 15
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28029
+#EXTINF:-1 tvg-id="rmc.sport.live.16.fr" tvg-name="FR296:RMC SPORT 16" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR296RMCSPORT16.png" group-title="cularu", 296:RMC SPORT 16
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28013
+#EXTINF:-1 tvg-id="multisports.foot+.24.24.fr" tvg-name="FR346:TELEFOOT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR346Telefoot.png" group-title="cularu", 346:TELEFOOT
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27963
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="FR355:RMC STORY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR355RMCSTORYHD.png" group-title="cularu", 355:RMC STORY HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27954
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="FR001:13 Eme Rue" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="cularu", 01:13 Eme Rue
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2865
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR006:Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png" group-title="cularu", 06:Action
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2860
+#EXTINF:-1 tvg-id="canal.c.fr" tvg-name="FR023:Canal  Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png" group-title="cularu", 23:Canal  Cinema
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2843
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="FR024:Canal  Decale" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png" group-title="cularu", 24:Canal  Decale
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2842
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="FR025:Canal  Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png" group-title="cularu", 25:Canal  Family
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2841
+#EXTINF:-1 tvg-id="canal+.series.fr" tvg-name="FR026:Canal  Series" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR026CanalSeries.png" group-title="cularu", 26:Canal  Series
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2840
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="FR033:Cine Class" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png" group-title="cularu", 33:Cine Class
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2833
+#EXTINF:-1 tvg-id="cine+.emotion.fr" tvg-name="FR034:Cine Emotion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR034CineEmotion.png" group-title="cularu", 34:Cine Emotion
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2832
+#EXTINF:-1 tvg-id="cine+.famiz.fr" tvg-name="FR035:Cine Famiz" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR035CineFamiz.png" group-title="cularu", 35:Cine Famiz
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2831
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="FR036:Cine Frisson" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="cularu", 36:Cine Frisson
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2830
+#EXTINF:-1 tvg-id="cine.fx.fr" tvg-name="FR037:Cine FX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037CineFX.png" group-title="cularu", 37:Cine FX
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2829
+#EXTINF:-1 tvg-id="cine.polar.fr" tvg-name="FR038:Cine Polar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="cularu", 38:Cine Polar
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2828
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="FR039:Cine Permier" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png" group-title="cularu", 39:Cine Permier
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2827
+#EXTINF:-1 tvg-id="disney.cinema.fr" tvg-name="FR045:Disney Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png" group-title="cularu", 45:Disney Cinema
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2821
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="FR072:Paramount" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR072Paramount.png" group-title="cularu", 72:Paramount
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2794
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR086:Series Club" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR086SeriesClub.png" group-title="cularu", 86:Series Club
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2780
+#EXTINF:-1 tvg-id="cine+.a.la.carte.fr" tvg-name="FR097:A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR097ALACARTE10.png" group-title="cularu", 97:A LA CARTE 10
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28212
+#EXTINF:-1 tvg-id="" tvg-name="FR098:A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR098ALACARTE7.png" group-title="cularu", 98:A LA CARTE 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28211
+#EXTINF:-1 tvg-id="" tvg-name="FR099:A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR099ALACARTE8.png" group-title="cularu", 99:A LA CARTE 8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28210
+#EXTINF:-1 tvg-id="" tvg-name="FR100:A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR100ALACARTE9.png" group-title="cularu", 100:A LA CARTE 9
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28209
+#EXTINF:-1 tvg-id="" tvg-name="FR102:CANAL PLAY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png" group-title="cularu", 102:CANAL PLAY 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28207
+#EXTINF:-1 tvg-id="" tvg-name="FR103:CANAL PLAY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR103CANALPLAY2.png" group-title="cularu", 103:CANAL PLAY 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28206
+#EXTINF:-1 tvg-id="" tvg-name="FR104:CANAL PLAY 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR104CANALPLAY3.png" group-title="cularu", 104:CANAL PLAY 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28205
+#EXTINF:-1 tvg-id="" tvg-name="FR105:CANAL PLAY 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR105CANALPLAY4.png" group-title="cularu", 105:CANAL PLAY 4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28204
+#EXTINF:-1 tvg-id="" tvg-name="FR106:CANAL PLAY 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png" group-title="cularu", 106:CANAL PLAY 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28203
+#EXTINF:-1 tvg-id="" tvg-name="FR107:CANAL PLAY 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR107CANALPLAY6.png" group-title="cularu", 107:CANAL PLAY 6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28202
+#EXTINF:-1 tvg-id="" tvg-name="FR108:CANAL PLAY 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR108CANALPLAY7.png" group-title="cularu", 108:CANAL PLAY 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28201
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="FR117:OCS CHOC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png" group-title="cularu", 117:OCS CHOC HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28192
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="FR118:OCS CITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png" group-title="cularu", 118:OCS CITY
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28191
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="FR119:OCS GEANT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png" group-title="cularu", 119:OCS GEANT
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28190
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="FR120:OCS MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png" group-title="cularu", 120:OCS MAX
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28189
+#EXTINF:-1 tvg-id="" tvg-name="FR131:A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR131ALACARTE5.png" group-title="cularu", 131:A LA CARTE 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28178
+#EXTINF:-1 tvg-id="" tvg-name="FR132:A la Carte 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR132AlaCarte6.png" group-title="cularu", 132:A la Carte 6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28177
+#EXTINF:-1 tvg-id="" tvg-name="FR133:A.LA.CARTE.1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR133A.LA.CARTE.1.png" group-title="cularu", 133:A.LA.CARTE.1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28176
+#EXTINF:-1 tvg-id="" tvg-name="FR134:A.LA.CARTE.3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR134A.LA.CARTE.3.png" group-title="cularu", 134:A.LA.CARTE.3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28175
+#EXTINF:-1 tvg-id="" tvg-name="FR135:A.LA.CARTE.4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR135A.LA.CARTE.4.png" group-title="cularu", 135:A.LA.CARTE.4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28174
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR138:TMC HD ( 1080P )" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR138TMCHD(1080P).png" group-title="cularu", 138:TMC HD ( 1080P )
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28171
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="FR140:TCM CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR140TCMCINEMA.png" group-title="cularu", 140:TCM CINEMA
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28169
+#EXTINF:-1 tvg-id="" tvg-name="FR143:OCS Go Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR143OCSGoCinema1HD.png" group-title="cularu", 143:OCS Go Cinema 1 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28166
+#EXTINF:-1 tvg-id="" tvg-name="FR147:OCS Go Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR147OCSGoCinema5HD.png" group-title="cularu", 147:OCS Go Cinema 5 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28162
+#EXTINF:-1 tvg-id="" tvg-name="FR148:Orange Cinema 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR148OrangeCinema1HD.png" group-title="cularu", 148:Orange Cinema 1 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28161
+#EXTINF:-1 tvg-id="" tvg-name="FR150:Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR150OrangeCinema3HD.png" group-title="cularu", 150:Orange Cinema 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28159
+#EXTINF:-1 tvg-id="" tvg-name="FR151:Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR151OrangeCinema4HD.png" group-title="cularu", 151:Orange Cinema 4 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28158
+#EXTINF:-1 tvg-id="" tvg-name="FR152:Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR152OrangeCinema5HD.png" group-title="cularu", 152:Orange Cinema 5 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28157
+#EXTINF:-1 tvg-id="" tvg-name="FR153:Orange Cinema Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR153OrangeCinemaActionHD.png" group-title="cularu", 153:Orange Cinema Action HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28156
+#EXTINF:-1 tvg-id="" tvg-name="FR154:Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR154OrangeCinemaAventureHD.png" group-title="cularu", 154:Orange Cinema Aventure HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28155
+#EXTINF:-1 tvg-id="" tvg-name="FR155:Orange Cinema HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR155OrangeCinemaHD.png" group-title="cularu", 155:Orange Cinema HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28154
+#EXTINF:-1 tvg-id="" tvg-name="FR158:Orange Documentaire HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR158OrangeDocumentaireHD.png" group-title="cularu", 158:Orange Documentaire HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28151
+#EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="FR174:Cine Premier HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174CinePremierHD(1080P).png" group-title="cularu", 174:Cine Premier HD (1080P)
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28135
+#EXTINF:-1 tvg-id="" tvg-name="FR182:A LA CARTE 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png" group-title="cularu", 182:A LA CARTE 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28127
+#EXTINF:-1 tvg-id="" tvg-name="FR183:A LA CARTE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png" group-title="cularu", 183:A LA CARTE 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28126
+#EXTINF:-1 tvg-id="" tvg-name="FR184:A LA CARTE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png" group-title="cularu", 184:A LA CARTE 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28125
+#EXTINF:-1 tvg-id="" tvg-name="FR185:A LA CARTE 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png" group-title="cularu", 185:A LA CARTE 4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28124
+#EXTINF:-1 tvg-id="" tvg-name="FR186:A LA CARTE 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png" group-title="cularu", 186:A LA CARTE 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28123
+#EXTINF:-1 tvg-id="tcm.cinema.fr" tvg-name="FR187:TCM CINEMA FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR187TCMCINEMAFHD.png" group-title="cularu", 187:TCM CINEMA FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28122
+#EXTINF:-1 tvg-id="" tvg-name="FR188:A LA CARTE 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR188ALACARTE7.png" group-title="cularu", 188:A LA CARTE 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28121
+#EXTINF:-1 tvg-id="" tvg-name="FR189:A LA CARTE 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR189ALACARTE8.png" group-title="cularu", 189:A LA CARTE 8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28120
+#EXTINF:-1 tvg-id="" tvg-name="FR190:A LA CARTE 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR190ALACARTE9.png" group-title="cularu", 190:A LA CARTE 9
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28119
+#EXTINF:-1 tvg-id="" tvg-name="FR191:A LA CARTE 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR191ALACARTE10.png" group-title="cularu", 191:A LA CARTE 10
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28118
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="FR193:OCS GEANTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR193OCSGEANTS.png" group-title="cularu", 193:OCS GEANTS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28116
+#EXTINF:-1 tvg-id="comedy.central.fr" tvg-name="FR208:COMEDY CENTRAL  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png" group-title="cularu", 208:COMEDY CENTRAL  HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28101
+#EXTINF:-1 tvg-id="" tvg-name="FR225:Canal Play 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png" group-title="cularu", 225:Canal Play 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28084
+#EXTINF:-1 tvg-id="" tvg-name="FR226:Canal Play 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR226CanalPlay2.png" group-title="cularu", 226:Canal Play 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28083
+#EXTINF:-1 tvg-id="" tvg-name="FR227:Canal Play 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR227CanalPlay3.png" group-title="cularu", 227:Canal Play 3
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28082
+#EXTINF:-1 tvg-id="" tvg-name="FR228:Canal Play 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR228CanalPlay4.png" group-title="cularu", 228:Canal Play 4
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28081
+#EXTINF:-1 tvg-id="" tvg-name="FR229:Canal Play 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR229CanalPlay5.png" group-title="cularu", 229:Canal Play 5
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28080
+#EXTINF:-1 tvg-id="" tvg-name="FR230:Canal Play 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR230CanalPlay6.png" group-title="cularu", 230:Canal Play 6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28079
+#EXTINF:-1 tvg-id="" tvg-name="FR231:Canal Play 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR231CanalPlay7.png" group-title="cularu", 231:Canal Play 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28078
+#EXTINF:-1 tvg-id="" tvg-name="FR232:Canal Play 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR232CanalPlay8.png" group-title="cularu", 232:Canal Play 8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28077
+#EXTINF:-1 tvg-id="" tvg-name="FR298:Orange Comment C'Est Fait" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR298OrangeCommentC'EstFait.png" group-title="cularu", 298:Orange Comment C'Est Fait
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28011
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="FR305:OCS CHOC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR305OCSCHOCFHD.png" group-title="cularu", 305:OCS CHOC FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28004
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="FR306:OCS City HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR306OCSCityHD.png" group-title="cularu", 306:OCS City HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28003
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="FR307:OCS GEANT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR307OCSGEANTFHD.png" group-title="cularu", 307:OCS GEANT FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28002
+#EXTINF:-1 tvg-id="" tvg-name="FR308:OCS Go Cine 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR308OCSGoCine3HD.png" group-title="cularu", 308:OCS Go Cine 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28001
+#EXTINF:-1 tvg-id="" tvg-name="FR309:OCS GO CINE 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR309OCSGOCINE4HD.png" group-title="cularu", 309:OCS GO CINE 4 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28000
+#EXTINF:-1 tvg-id="" tvg-name="FR310:OCS Go Cine 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR310OCSGoCine5HD.png" group-title="cularu", 310:OCS Go Cine 5 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27999
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="FR311:OCS MAX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR311OCSMAXFHD.png" group-title="cularu", 311:OCS MAX FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27998
+#EXTINF:-1 tvg-id="" tvg-name="FR316:Orange Cinema 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR316OrangeCinema3HD.png" group-title="cularu", 316:Orange Cinema 3 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27993
+#EXTINF:-1 tvg-id="" tvg-name="FR317:Orange Cinema 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR317OrangeCinema4HD.png" group-title="cularu", 317:Orange Cinema 4 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27992
+#EXTINF:-1 tvg-id="" tvg-name="FR318:Orange Cinema 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR318OrangeCinema5HD.png" group-title="cularu", 318:Orange Cinema 5 HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27991
+#EXTINF:-1 tvg-id="teletoon+.fr" tvg-name="FR319:TELETOON PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR319TELETOONPLUS.png" group-title="cularu", 319:TELETOON PLUS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27990
+#EXTINF:-1 tvg-id="" tvg-name="FR321:ORANGE Cinema ACTION HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR321ORANGECinemaACTIONHD.png" group-title="cularu", 321:ORANGE Cinema ACTION HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27988
+#EXTINF:-1 tvg-id="" tvg-name="FR322:Orange Cinema Aventure HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR322OrangeCinemaAventureHD.png" group-title="cularu", 322:Orange Cinema Aventure HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27987
+#EXTINF:-1 tvg-id="" tvg-name="FR325:Orange Cinema DOCUMENTAIRE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR325OrangeCinemaDOCUMENTAIREHD.png" group-title="cularu", 325:Orange Cinema DOCUMENTAIRE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27984
+#EXTINF:-1 tvg-id="" tvg-name="FR326:Orange Cinema ENQUETE EXCLUSIVE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR326OrangeCinemaENQUETEEXCLUSIVEHD.png" group-title="cularu", 326:Orange Cinema ENQUETE EXCLUSIVE HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27983
+#EXTINF:-1 tvg-id="" tvg-name="FR327:Orange Cinema Horreur HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR327OrangeCinemaHorreurHD.png" group-title="cularu", 327:Orange Cinema Horreur HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27982
+#EXTINF:-1 tvg-id="" tvg-name="FR328:ORANGE DISNEY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR328ORANGEDISNEY1.png" group-title="cularu", 328:ORANGE DISNEY 1
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27981
+#EXTINF:-1 tvg-id="warner.fr" tvg-name="FR332:Warner tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR332Warnertv.png" group-title="cularu", 332:Warner tv
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27977
+#EXTINF:-1 tvg-id="" tvg-name="FR333:CINEMA ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR333CINEMAACTION2.png" group-title="cularu", 333:CINEMA ACTION 2
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27976
+#EXTINF:-1 tvg-id="" tvg-name="FR339:Orange Premium 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR339OrangePremium6.png" group-title="cularu", 339:Orange Premium 6
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27970
+#EXTINF:-1 tvg-id="" tvg-name="FR340:Orange Premium 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR340OrangePremium7.png" group-title="cularu", 340:Orange Premium 7
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27969
+#EXTINF:-1 tvg-id="" tvg-name="FR341:Orange Premium 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR341OrangePremium8.png" group-title="cularu", 341:Orange Premium 8
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27968
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="FR342:PARIS PREMIERE FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR342PARISPREMIEREFHD.png" group-title="cularu", 342:PARIS PREMIERE FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27967
+#EXTINF:-1 tvg-id="tf1.series.films.fr" tvg-name="FR345:TF1 SERIES FILMS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR345TF1SERIESFILMSHD.png" group-title="cularu", 345:TF1 SERIES FILMS HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27964
+#EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:BFM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="cularu", 19:BFM TV
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2847
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="FR049:Euro News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png" group-title="cularu", 49:Euro News
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2817
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="FR053:France 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR053France24.png" group-title="cularu", 53:France 24
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2813
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="FR064:LCI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR064LCI.png" group-title="cularu", 64:LCI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2802
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="FR094:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR094EURONEWS.png" group-title="cularu", 94:EURONEWS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28215
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR163:CNews HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png" group-title="cularu", 163:CNews HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28146
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="FR181:FRANCE 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png" group-title="cularu", 181:FRANCE 24
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28128
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="FR205:RMC SPORT NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR205RMCSPORTNEWS.png" group-title="cularu", 205:RMC SPORT NEWS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28104
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="FR206:LCP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR206LCP.png" group-title="cularu", 206:LCP
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28103
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR224:C-NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR224C-NEWS.png" group-title="cularu", 224:C-NEWS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28085
+#EXTINF:-1 tvg-id="rmc.sport.news.fr" tvg-name="FR262:RMC NEWS SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR262RMCNEWSSPORT.png" group-title="cularu", 262:RMC NEWS SPORT
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28047
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="FR265:EURONEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR265EURONEWSHD.png" group-title="cularu", 265:EURONEWS HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28044
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="FR278:I-24 NEWS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR278I-24NEWSHD.png" group-title="cularu", 278:I-24 NEWS HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28031
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="FR336:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR336I24NEWS.png" group-title="cularu", 336:I24 NEWS
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27973
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="cularu", 20:Boing
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2846
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="cularu", 21:Boomerang
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2845
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="FR029:Canal J" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR029CanalJ.png" group-title="cularu", 29:Canal J
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2837
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="FR030:Cartoon Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png" group-title="cularu", 30:Cartoon Network
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2836
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="FR044:Disney FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png" group-title="cularu", 44:Disney FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2822
+#EXTINF:-1 tvg-id="disney.junior.fr" tvg-name="FR046:Disney Jr Fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR046DisneyJrFr.png" group-title="cularu", 46:Disney Jr Fr
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2820
+#EXTINF:-1 tvg-id="disney.xd.fr" tvg-name="FR047:Disney XD FR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png" group-title="cularu", 47:Disney XD FR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2819
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR059:GULLI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png" group-title="cularu", 59:GULLI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2807
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="FR066:Mangas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png" group-title="cularu", 66:Mangas
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2800
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="FR069:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png" group-title="cularu", 69:NICKELODEON
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2797
+#EXTINF:-1 tvg-id="piwi+.fr" tvg-name="FR074:PIWI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png" group-title="cularu", 74:PIWI
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/2792
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="FR095:TELETOON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR095TELETOON.png" group-title="cularu", 95:TELETOON
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28214
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR128:Tiji" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png" group-title="cularu", 128:Tiji
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28181
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="FR246:CANAL  J HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR246CANALJHD.png" group-title="cularu", 246:CANAL  J HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28063
+#EXTINF:-1 tvg-id="" tvg-name="FR261:NICKELODEON 4TEEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR261NICKELODEON4TEEN.png" group-title="cularu", 261:NICKELODEON 4TEEN
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28048
+#EXTINF:-1 tvg-id="nickelodeon.junior.fr" tvg-name="FR301:NICKELODEON JUNIOR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR301NICKELODEONJUNIOR.png" group-title="cularu", 301:NICKELODEON JUNIOR
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28008
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="FR302:TOONAMI FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR302TOONAMIFHD.png" group-title="cularu", 302:TOONAMI FHD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/28007
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="FR315:TELETOON  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR315TELETOONHD.png" group-title="cularu", 315:TELETOON  HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27994
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR343:TIJI HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR343TIJIHD.png" group-title="cularu", 343:TIJI HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27966
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="FR354:TELETOON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR354TELETOONHD.png" group-title="cularu", 354:TELETOON HD
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/27955
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",13EME RUE
+http://185.232.53.6:2086/123456789/123456789/92155
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",6TER
+http://185.232.53.6:2086/123456789/123456789/92154
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",ACTION
+http://185.232.53.6:2086/123456789/123456789/92170
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",ALTICE STUDIO
+http://185.232.53.6:2086/123456789/123456789/92288
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",ANIMAUX
+http://185.232.53.6:2086/123456789/123456789/92174
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",ARTE
+http://185.232.53.6:2086/123456789/123456789/92169
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",AUTOMOTO
+http://185.232.53.6:2086/123456789/123456789/92243
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT 1 FR
+http://185.232.53.6:2086/123456789/123456789/92221
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT 2 FR
+http://185.232.53.6:2086/123456789/123456789/92222
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT 3 FR
+http://185.232.53.6:2086/123456789/123456789/92223
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-10" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-10
+http://185.232.53.6:2086/123456789/123456789/92230
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-4
+http://185.232.53.6:2086/123456789/123456789/92224
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-5" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-5
+http://185.232.53.6:2086/123456789/123456789/92225
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-6
+http://185.232.53.6:2086/123456789/123456789/92226
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-7" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-7
+http://185.232.53.6:2086/123456789/123456789/92227
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-8
+http://185.232.53.6:2086/123456789/123456789/92228
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEINSPORT-MAX-9
+http://185.232.53.6:2086/123456789/123456789/92229
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEL AB1
+http://185.232.53.6:2086/123456789/123456789/92245
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BEL AB3
+http://185.232.53.6:2086/123456789/123456789/92246
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BET
+http://185.232.53.6:2086/123456789/123456789/92274
+#EXTINF:-1 tvg-id="" tvg-name="BFM" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BFM
+http://185.232.53.6:2086/123456789/123456789/92238
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BFM SPORT
+http://185.232.53.6:2086/123456789/123456789/92239
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BFM TV
+http://185.232.53.6:2086/123456789/123456789/92237
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BOING
+http://185.232.53.6:2086/123456789/123456789/92260
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BOOMERANG
+http://185.232.53.6:2086/123456789/123456789/92310
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",BRAVA
+http://185.232.53.6:2086/123456789/123456789/92309
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",C NEWS
+http://185.232.53.6:2086/123456789/123456789/92308
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HITS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",C STAR HITS
+http://185.232.53.6:2086/123456789/123456789/92275
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",C8
+http://185.232.53.6:2086/123456789/123456789/92307
+#EXTINF:-1 tvg-id="" tvg-name="CANAL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL
+http://185.232.53.6:2086/123456789/123456789/92205
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL  CINEMA
+http://185.232.53.6:2086/123456789/123456789/92206
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL  DECALE
+http://185.232.53.6:2086/123456789/123456789/92209
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL  FAMILY
+http://185.232.53.6:2086/123456789/123456789/92208
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIES" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL  SERIES
+http://185.232.53.6:2086/123456789/123456789/92207
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL  SPORT
+http://185.232.53.6:2086/123456789/123456789/92212
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ALPHA JU" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL ALPHA JU
+http://185.232.53.6:2086/123456789/123456789/92210
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CANAL J
+http://185.232.53.6:2086/123456789/123456789/92211
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CARTOON NETWORK
+http://185.232.53.6:2086/123456789/123456789/92257
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE&PECHE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CHASSE&PECHE
+http://185.232.53.6:2086/123456789/123456789/92183
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CHERIE 25
+http://185.232.53.6:2086/123456789/123456789/92156
+#EXTINF:-1 tvg-id="" tvg-name="CINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE
+http://185.232.53.6:2086/123456789/123456789/92202
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLASSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE  CLASSIC
+http://185.232.53.6:2086/123456789/123456789/92204
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE CLUB
+http://185.232.53.6:2086/123456789/123456789/92203
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE EMOTION
+http://185.232.53.6:2086/123456789/123456789/92201
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMIZ" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE FAMIZ
+http://185.232.53.6:2086/123456789/123456789/92200
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE FRISSON
+http://185.232.53.6:2086/123456789/123456789/92199
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CINE PREMIER
+http://185.232.53.6:2086/123456789/123456789/92197
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",COMEDIE
+http://185.232.53.6:2086/123456789/123456789/92306
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CRIME DISTRICT
+http://185.232.53.6:2086/123456789/123456789/92187
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",CSTAR
+http://185.232.53.6:2086/123456789/123456789/92305
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISCOVERY
+http://185.232.53.6:2086/123456789/123456789/92181
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISCOVERY FAMILY
+http://185.232.53.6:2086/123456789/123456789/92182
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISCOVERY INVESTIGATION
+http://185.232.53.6:2086/123456789/123456789/92180
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISCOVERY SCIENCE
+http://185.232.53.6:2086/123456789/123456789/92179
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISNEY CHANNEL
+http://185.232.53.6:2086/123456789/123456789/92250
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISNEY JUNIOR
+http://185.232.53.6:2086/123456789/123456789/92248
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",DISNEY XD
+http://185.232.53.6:2086/123456789/123456789/92247
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",E! ENTERTAINMENT
+http://185.232.53.6:2086/123456789/123456789/92157
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",EQUIDIA LIVE
+http://185.232.53.6:2086/123456789/123456789/92304
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",EURONEWS
+http://185.232.53.6:2086/123456789/123456789/92303
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",EUROSPORT 1
+http://185.232.53.6:2086/123456789/123456789/92214
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",EUROSPORT 2
+http://185.232.53.6:2086/123456789/123456789/92215
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",FRANCE 2
+http://185.232.53.6:2086/123456789/123456789/92146
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",FRANCE 4
+http://185.232.53.6:2086/123456789/123456789/92148
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",FRANCE O
+http://185.232.53.6:2086/123456789/123456789/92150
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",GAME ONE
+http://185.232.53.6:2086/123456789/123456789/92264
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",GOLF
+http://185.232.53.6:2086/123456789/123456789/92241
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",GOLF CHANNEL
+http://185.232.53.6:2086/123456789/123456789/92240
+#EXTINF:-1 tvg-id="" tvg-name="GULLI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",GULLI
+http://185.232.53.6:2086/123456789/123456789/92300
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",HISTOIRE
+http://185.232.53.6:2086/123456789/123456789/92184
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",I24 NEWS
+http://185.232.53.6:2086/123456789/123456789/92152
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",INFOSPORT
+http://185.232.53.6:2086/123456789/123456789/92213
+#EXTINF:-1 tvg-id="" tvg-name="J.ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",J.ONE
+http://185.232.53.6:2086/123456789/123456789/92287
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",LA CHAINE PARLEMENTAIRE
+http://185.232.53.6:2086/123456789/123456789/92286
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",LCI
+http://185.232.53.6:2086/123456789/123456789/92285
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",M6
+http://185.232.53.6:2086/123456789/123456789/92273
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",M6 MUSIC
+http://185.232.53.6:2086/123456789/123456789/92272
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",MANGAS
+http://185.232.53.6:2086/123456789/123456789/92258
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",MCM HD
+http://185.232.53.6:2086/123456789/123456789/92271
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",MCM TOP
+http://185.232.53.6:2086/123456789/123456789/92270
+#EXTINF:-1 tvg-id="" tvg-name="MTV FRANCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",MTV FRANCE
+http://185.232.53.6:2086/123456789/123456789/92267
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",MY CUISINE
+http://185.232.53.6:2086/123456789/123456789/92171
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NATIONAL GEO WILD
+http://185.232.53.6:2086/123456789/123456789/92173
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NATIONAL GEOGRAPHIC
+http://185.232.53.6:2086/123456789/123456789/92172
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NICKELODEON
+http://185.232.53.6:2086/123456789/123456789/92253
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NICKELODEON 1
+http://185.232.53.6:2086/123456789/123456789/92254
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NICKELODEON JUN
+http://185.232.53.6:2086/123456789/123456789/92252
+#EXTINF:-1 tvg-id="" tvg-name="NO STOP PEOPLE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NO STOP PEOPLE
+http://185.232.53.6:2086/123456789/123456789/92153
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NOVELAS
+http://185.232.53.6:2086/123456789/123456789/92298
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NRJ12
+http://185.232.53.6:2086/123456789/123456789/92266
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 23" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",NUMERO 23
+http://185.232.53.6:2086/123456789/123456789/92297
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",OCS CHOC
+http://185.232.53.6:2086/123456789/123456789/92196
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",OCS CITY
+http://185.232.53.6:2086/123456789/123456789/92195
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",OCS GEANTS
+http://185.232.53.6:2086/123456789/123456789/92193
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",OCS GEANTS
+http://185.232.53.6:2086/123456789/123456789/92194
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",OCS MAX
+http://185.232.53.6:2086/123456789/123456789/92192
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",ONE TV
+http://185.232.53.6:2086/123456789/123456789/92295
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PARAMOUNT CHANNEL
+http://185.232.53.6:2086/123456789/123456789/92191
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PARAMOUNT DECALE
+http://185.232.53.6:2086/123456789/123456789/92190
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PARIS PREMIERE
+http://185.232.53.6:2086/123456789/123456789/92145
+#EXTINF:-1 tvg-id="" tvg-name="PIWI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PIWI
+http://185.232.53.6:2086/123456789/123456789/92261
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PLANETE
+http://185.232.53.6:2086/123456789/123456789/92176
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE AE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PLANETE AE
+http://185.232.53.6:2086/123456789/123456789/92178
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE CI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",PLANETE CI
+http://185.232.53.6:2086/123456789/123456789/92177
+#EXTINF:-1 tvg-id="" tvg-name="POLAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",POLAR
+http://185.232.53.6:2086/123456789/123456789/92293
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RFM TV
+http://185.232.53.6:2086/123456789/123456789/92283
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RMC DECOUVERTE
+http://185.232.53.6:2086/123456789/123456789/92282
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RMC SPORT 1
+http://185.232.53.6:2086/123456789/123456789/92216
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RMC SPORT 2
+http://185.232.53.6:2086/123456789/123456789/92217
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RMC SPORT 3
+http://185.232.53.6:2086/123456789/123456789/92218
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RMC SPORT 4
+http://185.232.53.6:2086/123456789/123456789/92219
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RTL9
+http://185.232.53.6:2086/123456789/123456789/92160
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RTS DEUX
+http://185.232.53.6:2086/123456789/123456789/92162
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",RTS UN
+http://185.232.53.6:2086/123456789/123456789/92161
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",SCIENCES & VIE
+http://185.232.53.6:2086/123456789/123456789/92175
+#EXTINF:-1 tvg-id="" tvg-name="SEASON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",SEASON
+http://185.232.53.6:2086/123456789/123456789/92281
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",SERIE CLUB
+http://185.232.53.6:2086/123456789/123456789/92280
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",SUNDANCE TV
+http://185.232.53.6:2086/123456789/123456789/92168
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",SYFY
+http://185.232.53.6:2086/123456789/123456789/92159
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TCM CINEMA
+http://185.232.53.6:2086/123456789/123456789/92167
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TELETOON
+http://185.232.53.6:2086/123456789/123456789/92256
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TF1
+http://185.232.53.6:2086/123456789/123456789/92143
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TFX
+http://185.232.53.6:2086/123456789/123456789/92166
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TIJI
+http://185.232.53.6:2086/123456789/123456789/92262
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TMC
+http://185.232.53.6:2086/123456789/123456789/92164
+#EXTINF:-1 tvg-id="" tvg-name="TMC 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TMC 1
+http://185.232.53.6:2086/123456789/123456789/92165
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TOONAMI
+http://185.232.53.6:2086/123456789/123456789/92263
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L'HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TOUTE L'HISTOIRE
+http://185.232.53.6:2086/123456789/123456789/92185
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TRACE AFRICA
+http://185.232.53.6:2086/123456789/123456789/92279
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TRACE URBAN
+http://185.232.53.6:2086/123456789/123456789/92276
+#EXTINF:-1 tvg-id="" tvg-name="TREK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TREK
+http://185.232.53.6:2086/123456789/123456789/92163
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TV BREIZH
+http://185.232.53.6:2086/123456789/123456789/92291
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MONT BLANC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",TV8 MONT BLANC
+http://185.232.53.6:2086/123456789/123456789/92292
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",USHUAIA TV
+http://185.232.53.6:2086/123456789/123456789/92284
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",VOYAGE
+http://185.232.53.6:2086/123456789/123456789/92186
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",W9
+http://185.232.53.6:2086/123456789/123456789/92158
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",WARNER TV
+http://185.232.53.6:2086/123456789/123456789/92290
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="123456789",WEO
+http://185.232.53.6:2086/123456789/123456789/92289
