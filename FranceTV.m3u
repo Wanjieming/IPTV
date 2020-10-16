@@ -1,4 +1,1238 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| BABY TV" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo-1.png" group-title="Anna",BABY TV
+http://rv.therevenge.co:80/Anna/Anna123456/78546
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TIJI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/120px-Logo_TiJi_%282019%29.png" group-title="Anna",TIJI
+http://rv.therevenge.co:80/Anna/Anna123456/78545
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Anna",BOOMERANG
+http://rv.therevenge.co:80/Anna/Anna123456/78544
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CARTOON NETWORK" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype-700x414.png" group-title="Anna",CARTOON NETWORK
+http://rv.therevenge.co:80/Anna/Anna123456/78543
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TOONAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Anna",TOONAMI
+http://rv.therevenge.co:80/Anna/Anna123456/78542
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TELE TOON 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C3%A9l%C3%A9toon%2B1_logo.png/120px-T%C3%A9l%C3%A9toon%2B1_logo.png" group-title="Anna",TELE TOON 1
+http://rv.therevenge.co:80/Anna/Anna123456/78541
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TELETOON+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/120px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Anna",TELETOON+
+http://rv.therevenge.co:80/Anna/Anna123456/78540
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL J" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="Anna",CANAL J
+http://rv.therevenge.co:80/Anna/Anna123456/78539
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png" group-title="Anna",BOING
+http://rv.therevenge.co:80/Anna/Anna123456/78538
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Disney_Junior_logo.png" group-title="Anna",DISNEY JUNIOR
+http://rv.therevenge.co:80/Anna/Anna123456/78537
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISNEY CHANNEL +1" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/0/0b/Logo_webtv_livetv_disneychannel_1.png/revision/latest?cb=20190802103216&path-prefix=fr" group-title="Anna",DISNEY CHANNEL +1
+http://rv.therevenge.co:80/Anna/Anna123456/78536
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/280px-Disney_channel_2019.png" group-title="Anna",DISNEY CHANNEL
+http://rv.therevenge.co:80/Anna/Anna123456/78535
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PIWI" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/canalplus_fr_piwi_plus.png" group-title="Anna",PIWI
+http://rv.therevenge.co:80/Anna/Anna123456/78534
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NICKELODEON" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_us.png" group-title="Anna",NICKELODEON
+http://rv.therevenge.co:80/Anna/Anna123456/78533
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NICKELODEON JUNIOR" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_junior_fr.png" group-title="Anna",NICKELODEON JUNIOR
+http://rv.therevenge.co:80/Anna/Anna123456/78532
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NICKELODEON 4 TEEN" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon-teen-us-fr.png" group-title="Anna",NICKELODEON 4 TEEN
+http://rv.therevenge.co:80/Anna/Anna123456/78531
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| JEUNESSE HD---------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE ENFANTS",------------- |FR| JEUNESSE HD---------------
+http://rv.therevenge.co:80/Anna/Anna123456/78530
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FLIX LES SIMPSON" tvg-logo="http://51.15.176.104/flix.png" group-title="Anna",FLIX LES SIMPSON
+http://rv.therevenge.co:80/Anna/Anna123456/78529
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FLIX BOB LEPONGE" tvg-logo="http://51.15.176.104/flix.png" group-title="Anna",FLIX BOB LEPONGE
+http://rv.therevenge.co:80/Anna/Anna123456/78528
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BABY TV" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo-1.png" group-title="Anna",BABY TV
+http://rv.therevenge.co:80/Anna/Anna123456/78527
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TIJI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/120px-Logo_TiJi_%282019%29.png" group-title="Anna",TIJI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78526
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Anna",BOOMERANG HD
+http://rv.therevenge.co:80/Anna/Anna123456/78525
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype-700x414.png" group-title="Anna",CARTOON NETWORK HD
+http://rv.therevenge.co:80/Anna/Anna123456/78524
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOONAMI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Anna",TOONAMI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78523
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELE TOON 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C3%A9l%C3%A9toon%2B1_logo.png/120px-T%C3%A9l%C3%A9toon%2B1_logo.png" group-title="Anna",TELE TOON 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78522
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELETOON+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/120px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Anna",TELETOON+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78521
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL J HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="Anna",CANAL J HD
+http://rv.therevenge.co:80/Anna/Anna123456/78520
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png" group-title="Anna",BOING HD
+http://rv.therevenge.co:80/Anna/Anna123456/78519
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Disney_Junior_logo.png" group-title="Anna",DISNEY JUNIOR HD
+http://rv.therevenge.co:80/Anna/Anna123456/78518
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL +1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/0/0b/Logo_webtv_livetv_disneychannel_1.png/revision/latest?cb=20190802103216&path-prefix=fr" group-title="Anna",DISNEY CHANNEL +1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78517
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/280px-Disney_channel_2019.png" group-title="Anna",DISNEY CHANNEL HD
+http://rv.therevenge.co:80/Anna/Anna123456/78516
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PIWI HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/canalplus_fr_piwi_plus.png" group-title="Anna",PIWI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78515
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_us.png" group-title="Anna",NICKELODEON HD
+http://rv.therevenge.co:80/Anna/Anna123456/78514
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON 4 TEEN HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon-teen-us-fr.png" group-title="Anna",NICKELODEON 4 TEEN HD
+http://rv.therevenge.co:80/Anna/Anna123456/78513
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_junior_fr.png" group-title="Anna",NICKELODEON JUNIOR HD
+http://rv.therevenge.co:80/Anna/Anna123456/78512
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |FR| JEUNESSE SD -------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE ENFANTS",--------------- |FR| JEUNESSE SD -------------
+http://rv.therevenge.co:80/Anna/Anna123456/78511
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BABY TV" tvg-logo="https://www.babytv.com/app/uploads/2019/07/logo-baby-tv-2019-main-logo-1.png" group-title="FRANCE ENFANTS",|FR|SD| BABY TV
+http://rv.therevenge.co:80/Anna/Anna123456/78510
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TIJI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/120px-Logo_TiJi_%282019%29.png" group-title="FRANCE ENFANTS",|FR|SD| TIJI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78509
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="FRANCE ENFANTS",|FR|SD| BOOMERANG HD
+http://rv.therevenge.co:80/Anna/Anna123456/78508
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CARTOON NETWORK HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype-700x414.png" group-title="FRANCE ENFANTS",|FR|SD| CARTOON NETWORK HD
+http://rv.therevenge.co:80/Anna/Anna123456/78507
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TOONAMI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="FRANCE ENFANTS",|FR|SD| TOONAMI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78506
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TELETOON+  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C3%A9l%C3%A9toon%2B1_logo.png/120px-T%C3%A9l%C3%A9toon%2B1_logo.png" group-title="FRANCE ENFANTS",|FR|SD| TELETOON+  HD
+http://rv.therevenge.co:80/Anna/Anna123456/78505
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TELE TOON 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/T%C3%A9l%C3%A9toon%2B1_logo.png/120px-T%C3%A9l%C3%A9toon%2B1_logo.png" group-title="FRANCE ENFANTS",|FR|SD| TELE TOON 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78504
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL J HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="FRANCE ENFANTS",|FR|SD| CANAL J HD
+http://rv.therevenge.co:80/Anna/Anna123456/78503
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BOING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png" group-title="FRANCE ENFANTS",|FR|SD| BOING HD
+http://rv.therevenge.co:80/Anna/Anna123456/78502
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISNEY JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Disney_Junior_logo.png" group-title="FRANCE ENFANTS",|FR|SD| DISNEY JUNIOR HD
+http://rv.therevenge.co:80/Anna/Anna123456/78501
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISNEY CHANNEL +1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/0/0b/Logo_webtv_livetv_disneychannel_1.png/revision/latest?cb=20190802103216&path-prefix=fr" group-title="FRANCE ENFANTS",|FR|SD| DISNEY CHANNEL +1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78500
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/280px-Disney_channel_2019.png" group-title="FRANCE ENFANTS",|FR|SD| DISNEY CHANNEL HD
+http://rv.therevenge.co:80/Anna/Anna123456/78499
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PIWI  HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/canalplus_fr_piwi_plus.png" group-title="FRANCE ENFANTS",|FR|SD| PIWI  HD
+http://rv.therevenge.co:80/Anna/Anna123456/78498
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NICKELODEON HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_us.png" group-title="FRANCE ENFANTS",|FR|SD| NICKELODEON HD
+http://rv.therevenge.co:80/Anna/Anna123456/78497
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NICKELODEON JUNIOR HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon_junior_fr.png" group-title="FRANCE ENFANTS",|FR|SD| NICKELODEON JUNIOR HD
+http://rv.therevenge.co:80/Anna/Anna123456/78496
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NICKELODEON 4 TEEN HD" tvg-logo="http://iptvforall.net/uploadlogo/prestige/France/nickelodeon-teen-us-fr.png" group-title="FRANCE ENFANTS",|FR|SD| NICKELODEON 4 TEEN HD
+http://rv.therevenge.co:80/Anna/Anna123456/78495
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| FRANCE HEVC ---------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",------------- |FR| FRANCE HEVC ---------------
+http://rv.therevenge.co:80/Anna/Anna123456/78815
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HVEC| CORONA VIRUS INFO" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",|FR|HVEC| CORONA VIRUS INFO
+http://rv.therevenge.co:80/Anna/Anna123456/78814
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR|HEVC| TF1" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tf1.png" group-title="Anna",TF1
+http://rv.therevenge.co:80/Anna/Anna123456/78813
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR|HEVC| FRANCE 2" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france2-fr.png" group-title="Anna",FRANCE 2
+http://rv.therevenge.co:80/Anna/Anna123456/78812
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR|HEVC| FRANCE 3" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france3-fr.png" group-title="Anna",FRANCE 3
+http://rv.therevenge.co:80/Anna/Anna123456/78811
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR|HEVC| FRANCE 4" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france4-fr.png" group-title="Anna",FRANCE 4
+http://rv.therevenge.co:80/Anna/Anna123456/78810
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR|HEVC| FRANCE 5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france5-fr.png" group-title="Anna",FRANCE 5
+http://rv.therevenge.co:80/Anna/Anna123456/78809
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="|FR|HEVC| FRANCE O" tvg-logo="http://kbbpf.lescigales.org/Logos/FRANCE-O.HD.png" group-title="Anna",FRANCE O
+http://rv.therevenge.co:80/Anna/Anna123456/78808
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR|HEVC| 6TER" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/6ter_fr.png" group-title="Anna",6TER
+http://rv.therevenge.co:80/Anna/Anna123456/78807
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR|HEVC| M6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/m6_fr.png" group-title="Anna",M6
+http://rv.therevenge.co:80/Anna/Anna123456/78806
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| FRANCE 3 NOA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france-3-nouvelle-aquitaine-fr.png" group-title="Anna",FRANCE 3 NOA
+http://rv.therevenge.co:80/Anna/Anna123456/78805
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR|HEVC| TF1 SERIES-FILMS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tf1-series-films-fr.png" group-title="Anna",TF1 SERIES-FILMS
+http://rv.therevenge.co:80/Anna/Anna123456/78804
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR|HEVC| TFX" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tfx-fr.png" group-title="Anna",TFX
+http://rv.therevenge.co:80/Anna/Anna123456/78803
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="|FR|HEVC| RTL 9" tvg-logo="http://kbbpf.lescigales.org/Logos/RTL9.SD.png" group-title="Anna",RTL 9
+http://rv.therevenge.co:80/Anna/Anna123456/78802
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR|HEVC| TEVA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/teva_fr.png" group-title="Anna",TEVA
+http://rv.therevenge.co:80/Anna/Anna123456/78801
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR|HEVC| TMC" tvg-logo="http://kbbpf.lescigales.org/Logos/TMC.SD.png" group-title="Anna",TMC
+http://rv.therevenge.co:80/Anna/Anna123456/78800
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR|HEVC| W9" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/w9_fr.png" group-title="Anna",W9
+http://rv.therevenge.co:80/Anna/Anna123456/78799
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR|HVEC| C8 FHD" tvg-logo="" group-title="FRANCE FHD&H265",|FR|HVEC| C8 FHD
+http://rv.therevenge.co:80/Anna/Anna123456/86843
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR|HEVC| ARTE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/arte_de.png" group-title="Anna",ARTE
+http://rv.therevenge.co:80/Anna/Anna123456/78798
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NAUTICAL" tvg-logo="https://cdn.imgbin.com/13/2/5/imgbin-television-channel-nautical-channel-logo-pay-television-others-YssUkwg6Rfqx4haLk4V5QtEDA.jpg" group-title="Anna",NAUTICAL
+http://rv.therevenge.co:80/Anna/Anna123456/78797
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="|FR|HEVC| NON STOP PEOPLE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/non_stop_people_es.png" group-title="Anna",NON STOP PEOPLE
+http://rv.therevenge.co:80/Anna/Anna123456/78796
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NOVELAS TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/novelas-tv-fr.png" group-title="Anna",NOVELAS TV
+http://rv.therevenge.co:80/Anna/Anna123456/78795
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| ONE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="Anna",ONE TV
+http://rv.therevenge.co:80/Anna/Anna123456/78794
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| ROUGE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Anna",ROUGE TV
+http://rv.therevenge.co:80/Anna/Anna123456/78793
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| RTS UN" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-UN.HD.png" group-title="Anna",RTS UN
+http://rv.therevenge.co:80/Anna/Anna123456/78792
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| RTS DEUX" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-DEUX.HD.png" group-title="Anna",RTS DEUX
+http://rv.therevenge.co:80/Anna/Anna123456/78791
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR|HEVC| CSTAR" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="Anna",CSTAR
+http://rv.therevenge.co:80/Anna/Anna123456/78790
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR|HEVC| LA CHAINE METEO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/la_chaine_meteo_fr.png" group-title="Anna",LA CHAINE METEO
+http://rv.therevenge.co:80/Anna/Anna123456/78789
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="|FR|HEVC| MEZZO FR" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo-fr.png" group-title="Anna",MEZZO FR
+http://rv.therevenge.co:80/Anna/Anna123456/78788
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MUSEUM" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/museum_tv_fr.png" group-title="Anna",MUSEUM
+http://rv.therevenge.co:80/Anna/Anna123456/78787
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="|FR|HEVC| COMEDIE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_comedie_plus.png" group-title="Anna",COMEDIE
+http://rv.therevenge.co:80/Anna/Anna123456/78786
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="|FR|HEVC| COMEDY CENTRAL" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/comedy-central-deutschland-us-de.png" group-title="Anna",COMEDY CENTRAL
+http://rv.therevenge.co:80/Anna/Anna123456/78785
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| VIAGRANDPARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="Anna",VIAGRANDPARIS
+http://rv.therevenge.co:80/Anna/Anna123456/78784
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL 31" tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="Anna",CANAL 31
+http://rv.therevenge.co:80/Anna/Anna123456/78783
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="Anna",CANAL 8
+http://rv.therevenge.co:80/Anna/Anna123456/78782
+#EXTINF:-1 tvg-id="CliqueTV.fr" tvg-name="|FR|HEVC| CLIQUE TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/clique-tv-fr.png" group-title="Anna",CLIQUE TV
+http://rv.therevenge.co:80/Anna/Anna123456/78781
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="|FR|HEVC| EQUIPE 21" tvg-logo="http://kbbpf.lescigales.org/Logos/LEQUIPE-21.SD.png" group-title="Anna",EQUIPE 21
+http://rv.therevenge.co:80/Anna/Anna123456/78780
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| IDF 1" tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="Anna",IDF 1
+http://rv.therevenge.co:80/Anna/Anna123456/78779
+#EXTINF:-1 tvg-id="Olympia.fr" tvg-name="|FR|HEVC| OLYMPIA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/olympia-tv-fr.png" group-title="Anna",OLYMPIA
+http://rv.therevenge.co:80/Anna/Anna123456/78778
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| THE SWIZZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="Anna",THE SWIZZ
+http://rv.therevenge.co:80/Anna/Anna123456/78777
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_1964.png" group-title="Anna",CANAL 9
+http://rv.therevenge.co:80/Anna/Anna123456/78776
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| LEMAN BLEU" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="Anna",LEMAN BLEU
+http://rv.therevenge.co:80/Anna/Anna123456/78775
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| BOOSTER TV" tvg-logo="https://boostertv.ch/wp-content/uploads/2018/05/Logo-Header.png" group-title="Anna",BOOSTER TV
+http://rv.therevenge.co:80/Anna/Anna123456/78774
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="|FR|HEVC| KTO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/kto-fr.png" group-title="Anna",KTO
+http://rv.therevenge.co:80/Anna/Anna123456/78773
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="|FR|HEVC| OLTV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/oltv-fr.png" group-title="Anna",OLTV
+http://rv.therevenge.co:80/Anna/Anna123456/78772
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| CANAL+  HEVC -----------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Canal_plus_france_logo.svg/253px-Canal_plus_france_logo.svg.png" group-title="FRANCE CINEMA",------------- |FR| CANAL+  HEVC -----------
+http://rv.therevenge.co:80/Anna/Anna123456/78771
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal_plus_logo.svg/400px-Canal_plus_logo.svg.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+
+http://rv.therevenge.co:80/Anna/Anna123456/78770
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+ SPORT" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canal-plus-sports-myanmar-fr-mm.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+ SPORT
+http://rv.therevenge.co:80/Anna/Anna123456/78769
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+ SERIES" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_series.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+ SERIES
+http://rv.therevenge.co:80/Anna/Anna123456/78768
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+ FAMILY" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_family.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+ FAMILY
+http://rv.therevenge.co:80/Anna/Anna123456/78767
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+ DECALE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_decale.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+ DECALE
+http://rv.therevenge.co:80/Anna/Anna123456/78766
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CANAL+ CINEMA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cinema.png" group-title="FRANCE CINEMA",|FR|HEVC| CANAL+ CINEMA
+http://rv.therevenge.co:80/Anna/Anna123456/78765
+#EXTINF:-1 tvg-id="" tvg-name="------------ |FR| CINEMA  HEVC -------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE CINEMA",------------ |FR| CINEMA  HEVC -------------
+http://rv.therevenge.co:80/Anna/Anna123456/78764
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| ACTION" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/action_fr.png" group-title="FRANCE CINEMA",|FR|HEVC| ACTION
+http://rv.therevenge.co:80/Anna/Anna123456/78763
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| OCS MAX" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ocs_max.png" group-title="FRANCE CINEMA",|FR|HEVC| OCS MAX
+http://rv.therevenge.co:80/Anna/Anna123456/78762
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| OCS CITY" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ocs_city.png" group-title="FRANCE CINEMA",|FR|HEVC| OCS CITY
+http://rv.therevenge.co:80/Anna/Anna123456/78761
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| OCS GEANTS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ocs_geants.png" group-title="FRANCE CINEMA",|FR|HEVC| OCS GEANTS
+http://rv.therevenge.co:80/Anna/Anna123456/78760
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| OCS CHOC" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ocs_choc.png" group-title="FRANCE CINEMA",|FR|HEVC| OCS CHOC
+http://rv.therevenge.co:80/Anna/Anna123456/78759
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ PREMIER" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_premier.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ PREMIER
+http://rv.therevenge.co:80/Anna/Anna123456/78758
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ FRISSON" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_frisson.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ FRISSON
+http://rv.therevenge.co:80/Anna/Anna123456/78757
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ EMOTION" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_emotion.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ EMOTION
+http://rv.therevenge.co:80/Anna/Anna123456/78756
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ FAMIZ" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_famiz.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ FAMIZ
+http://rv.therevenge.co:80/Anna/Anna123456/78755
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ CLUB" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_club.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ CLUB
+http://rv.therevenge.co:80/Anna/Anna123456/78754
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CINE+ CLASSIC" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_cine_plus_classic.png" group-title="FRANCE CINEMA",|FR|HEVC| CINE+ CLASSIC
+http://rv.therevenge.co:80/Anna/Anna123456/78753
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PARAMOUNT DECALE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/paramount_channel_us.png" group-title="FRANCE CINEMA",|FR|HEVC| PARAMOUNT DECALE
+http://rv.therevenge.co:80/Anna/Anna123456/78752
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PARAMOUNT CHANNEL" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/paramount_channel_us.png" group-title="FRANCE CINEMA",|FR|HEVC| PARAMOUNT CHANNEL
+http://rv.therevenge.co:80/Anna/Anna123456/78751
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |FR| DIVERTISSEMENT HEVC --------------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",--------------- |FR| DIVERTISSEMENT HEVC --------------------
+http://rv.therevenge.co:80/Anna/Anna123456/78750
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="|FR|HEVC| POLAR+" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/polar-plus-fr.png" group-title="Anna",POLAR+
+http://rv.therevenge.co:80/Anna/Anna123456/78749
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="|FR|HEVC| SYFY" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/syfy_us_global.png" group-title="Anna",SYFY
+http://rv.therevenge.co:80/Anna/Anna123456/78748
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="|FR|HEVC| SERIE CLUB" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_serie_club.png" group-title="Anna",SERIE CLUB
+http://rv.therevenge.co:80/Anna/Anna123456/78747
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="|FR|HEVC| 13EME RUE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/13eme_rue_fr.png" group-title="Anna",13EME RUE
+http://rv.therevenge.co:80/Anna/Anna123456/78746
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="|FR|HEVC| ALTICE STUDIO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/altice-studio-fr.png" group-title="Anna",ALTICE STUDIO
+http://rv.therevenge.co:80/Anna/Anna123456/78745
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="|FR|HEVC| WARNER TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/warner_tv_us.png" group-title="Anna",WARNER TV
+http://rv.therevenge.co:80/Anna/Anna123456/78744
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="|FR|HEVC| TV BREIZH" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tv_breizh_fr.png" group-title="Anna",TV BREIZH
+http://rv.therevenge.co:80/Anna/Anna123456/78743
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR|HEVC| NRJ 12" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nrj_fr_12.png" group-title="Anna",NRJ 12
+http://rv.therevenge.co:80/Anna/Anna123456/78742
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="|FR|HEVC| RMC STORY" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/rmc-story-fr.png" group-title="Anna",RMC STORY
+http://rv.therevenge.co:80/Anna/Anna123456/78741
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="|FR|HEVC| CHERIE 25" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/cherie25-fr.png" group-title="Anna",CHERIE 25
+http://rv.therevenge.co:80/Anna/Anna123456/78740
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="|FR|HEVC| PARIS PREMIERE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/paris_premiere.png" group-title="Anna",PARIS PREMIERE
+http://rv.therevenge.co:80/Anna/Anna123456/78739
+#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="|FR|HEVC| VICELAND" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/vice-tv-france-us-fr.png" group-title="Anna",VICELAND
+http://rv.therevenge.co:80/Anna/Anna123456/78738
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="|FR|HEVC| E! ENTERTAINMENT" tvg-logo="http://kbbpf.lescigales.org/Logos/E.HD.png" group-title="Anna",E! ENTERTAINMENT
+http://rv.therevenge.co:80/Anna/Anna123456/78737
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MY CUISINE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/my-cuisine-fr.png" group-title="Anna",MY CUISINE
+http://rv.therevenge.co:80/Anna/Anna123456/78736
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="|FR|HEVC| J ONE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/j_one_fr.png" group-title="Anna",J ONE
+http://rv.therevenge.co:80/Anna/Anna123456/78735
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR|HEVC| GAME ONE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/game_one.png" group-title="Anna",GAME ONE
+http://rv.therevenge.co:80/Anna/Anna123456/78734
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="|FR|HEVC| MANGAS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mangas_fr.png" group-title="Anna",MANGAS
+http://rv.therevenge.co:80/Anna/Anna123456/78733
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="|FR|HEVC| AB1" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ab1.png" group-title="Anna",AB1
+http://rv.therevenge.co:80/Anna/Anna123456/78732
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| AB3" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ab3.png" group-title="Anna",AB3
+http://rv.therevenge.co:80/Anna/Anna123456/78731
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="|FR|HEVC| BET" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bet-france-us-fr.png" group-title="Anna",BET
+http://rv.therevenge.co:80/Anna/Anna123456/78730
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TV5 MONDE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tv-5-monde-fr.png" group-title="Anna",TV5 MONDE
+http://rv.therevenge.co:80/Anna/Anna123456/78729
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TELECLUB ZOOM" tvg-logo="https://logos.zattic.com/logos/75d2acd99d06e771af3d/white/210x120.png" group-title="Anna",TELECLUB ZOOM
+http://rv.therevenge.co:80/Anna/Anna123456/78728
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| SPORTS HEVC -----------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",------------- |FR| SPORTS HEVC -----------------
+http://rv.therevenge.co:80/Anna/Anna123456/78727
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TELEFOOT" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="Anna",TELEFOOT
+http://rv.therevenge.co:80/Anna/Anna123456/78726
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="|FR|HEVC| BEIN SPORT 1" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports1-95x53.png" group-title="Anna",BEIN SPORT 1
+http://rv.therevenge.co:80/Anna/Anna123456/78725
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR|HEVC| BEIN SPORT 2" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports2-95x53.png" group-title="Anna",BEIN SPORT 2
+http://rv.therevenge.co:80/Anna/Anna123456/78724
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="|FR|HEVC| BEIN SPORT 3" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports3-95x53.png" group-title="Anna",BEIN SPORT 3
+http://rv.therevenge.co:80/Anna/Anna123456/78723
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR|HEVC| EUROSPORT 1" tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="Anna",EUROSPORT 1
+http://rv.therevenge.co:80/Anna/Anna123456/78722
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR|HEVC| EUROSPORT 2" tvg-logo="https://i5.satexpat.com/cha/eurosport-2-95x10.png" group-title="Anna",EUROSPORT 2
+http://rv.therevenge.co:80/Anna/Anna123456/78721
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="|FR|HEVC| RMC SPORT NEWS" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-news-95x26.png" group-title="Anna",RMC SPORT NEWS
+http://rv.therevenge.co:80/Anna/Anna123456/78720
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR|HEVC| RMC SPORT 1" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-1-95x29.png" group-title="Anna",RMC SPORT 1
+http://rv.therevenge.co:80/Anna/Anna123456/78719
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR|HEVC| RMC SPORT 2" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-2-95x28.png" group-title="Anna",RMC SPORT 2
+http://rv.therevenge.co:80/Anna/Anna123456/78718
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="|FR|HEVC| RMC SPORT 3" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-3-95x28.png" group-title="Anna",RMC SPORT 3
+http://rv.therevenge.co:80/Anna/Anna123456/78717
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="|FR|HEVC| RMC SPORT 4" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-4-95x27.png" group-title="Anna",RMC SPORT 4
+http://rv.therevenge.co:80/Anna/Anna123456/78716
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 5
+http://rv.therevenge.co:80/Anna/Anna123456/78715
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 6
+http://rv.therevenge.co:80/Anna/Anna123456/78714
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 7
+http://rv.therevenge.co:80/Anna/Anna123456/78713
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 8
+http://rv.therevenge.co:80/Anna/Anna123456/78712
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 9
+http://rv.therevenge.co:80/Anna/Anna123456/78711
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 10
+http://rv.therevenge.co:80/Anna/Anna123456/78710
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 11
+http://rv.therevenge.co:80/Anna/Anna123456/78709
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 12
+http://rv.therevenge.co:80/Anna/Anna123456/78708
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 13
+http://rv.therevenge.co:80/Anna/Anna123456/78707
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 14
+http://rv.therevenge.co:80/Anna/Anna123456/78706
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="|FR|HEVC| RMC SPORT LIVE 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 15
+http://rv.therevenge.co:80/Anna/Anna123456/78705
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTI SPORTS 1" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 1
+http://rv.therevenge.co:80/Anna/Anna123456/78704
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTI SPORTS 2" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 2
+http://rv.therevenge.co:80/Anna/Anna123456/78703
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTI SPORTS 4" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 4
+http://rv.therevenge.co:80/Anna/Anna123456/78702
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTIS PORTS 3" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTIS PORTS 3
+http://rv.therevenge.co:80/Anna/Anna123456/78701
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTISPORTS 5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTISPORTS 5
+http://rv.therevenge.co:80/Anna/Anna123456/78700
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MULTISPORTS 6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTISPORTS 6
+http://rv.therevenge.co:80/Anna/Anna123456/78699
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="|FR|HEVC| FOOT+ 24" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_foot_plus.png" group-title="Anna",FOOT+ 24
+http://rv.therevenge.co:80/Anna/Anna123456/78698
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="|FR|HEVC| INFO SPORT" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_infosport_plus.png" group-title="Anna",INFO SPORT
+http://rv.therevenge.co:80/Anna/Anna123456/78697
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="|FR|HEVC| EQUIDIA LIVE" tvg-logo="https://i5.satexpat.com/cha/fr/equidia-90x39.gif" group-title="Anna",EQUIDIA LIVE
+http://rv.therevenge.co:80/Anna/Anna123456/78696
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="|FR|HEVC| GOLF+" tvg-logo="https://i5.satexpat.com/cha/fr/golfPlus-95x27.png" group-title="Anna",GOLF+
+http://rv.therevenge.co:80/Anna/Anna123456/78695
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MOTORSPORT TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/motorsport_tv_fr.png" group-title="Anna",MOTORSPORT TV
+http://rv.therevenge.co:80/Anna/Anna123456/78694
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="|FR|HEVC| AUTO MOTO" tvg-logo="https://i5.satexpat.com/cha/fr/automoto-95x19.png" group-title="Anna",AUTO MOTO
+http://rv.therevenge.co:80/Anna/Anna123456/78693
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR|HEVC| GAME ONE  +1" tvg-logo="https://i5.satexpat.com/cha/fr/game-one-95x15.png" group-title="Anna",GAME ONE  +1
+http://rv.therevenge.co:80/Anna/Anna123456/78692
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| DECOUVERTE HEVC -------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE DOCUMENTAIRE",------------- |FR| DECOUVERTE HEVC -------------
+http://rv.therevenge.co:80/Anna/Anna123456/78691
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TOUTE L'HISTOIRE" tvg-logo="https://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| TOUTE L'HISTOIRE
+http://rv.therevenge.co:80/Anna/Anna123456/78690
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PLANETE+" tvg-logo="https://i5.satexpat.com/cha/fr/planetePlus-91x55.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| PLANETE+
+http://rv.therevenge.co:80/Anna/Anna123456/78689
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PLANETE  A&E" tvg-logo="https://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| PLANETE  A&E
+http://rv.therevenge.co:80/Anna/Anna123456/78688
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| PLANETE+ CI" tvg-logo="https://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| PLANETE+ CI
+http://rv.therevenge.co:80/Anna/Anna123456/78687
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISCOVERY" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/discovery-channel-east-us.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| DISCOVERY
+http://rv.therevenge.co:80/Anna/Anna123456/78686
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISCOVERY SCIENCE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/discovery-science-france-us-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| DISCOVERY SCIENCE
+http://rv.therevenge.co:80/Anna/Anna123456/78685
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISCOVERY FAMILY" tvg-logo="https://i.pinimg.com/originals/db/4e/fc/db4efc638184c0c60ab9e344d94e3945.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| DISCOVERY FAMILY
+http://rv.therevenge.co:80/Anna/Anna123456/78684
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISCOVERY ID" tvg-logo="http://server.ekiptv.eu/logo/turke/DiscoveryIDXtra.tr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| DISCOVERY ID
+http://rv.therevenge.co:80/Anna/Anna123456/78683
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| DISCOVERY INVESTIGATION" tvg-logo="http://server.ekiptv.eu/logo/turke/DiscoveryIDXtra.tr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| DISCOVERY INVESTIGATION
+http://rv.therevenge.co:80/Anna/Anna123456/78682
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NGC" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nat_geo_us.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| NGC
+http://rv.therevenge.co:80/Anna/Anna123456/78681
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| NGC WILD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/national-geographic-wild-us.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| NGC WILD
+http://rv.therevenge.co:80/Anna/Anna123456/78680
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| VOYAGE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/voyage_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| VOYAGE
+http://rv.therevenge.co:80/Anna/Anna123456/78679
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| USHUAIA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ushuaia-tv-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| USHUAIA
+http://rv.therevenge.co:80/Anna/Anna123456/78678
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| HISTOIRE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/histoire-tv-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| HISTOIRE
+http://rv.therevenge.co:80/Anna/Anna123456/78677
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| ANIMAUX" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/animaux_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| ANIMAUX
+http://rv.therevenge.co:80/Anna/Anna123456/78676
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TREK" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/trek_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| TREK
+http://rv.therevenge.co:80/Anna/Anna123456/78675
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CHASSE&PECHE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/chasse_et_peche.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| CHASSE&PECHE
+http://rv.therevenge.co:80/Anna/Anna123456/78674
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| SCIENCE ET VIE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/science_et_vie_tv_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| SCIENCE ET VIE
+http://rv.therevenge.co:80/Anna/Anna123456/78673
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| RMC DECOUVERTE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/rmc-decouverte-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| RMC DECOUVERTE
+http://rv.therevenge.co:80/Anna/Anna123456/78672
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| SEASONS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/seasons-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| SEASONS
+http://rv.therevenge.co:80/Anna/Anna123456/78671
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| GULLI" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/gulli_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| GULLI
+http://rv.therevenge.co:80/Anna/Anna123456/78670
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TCM CINEMA" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tcm-cinema-us-fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| TCM CINEMA
+http://rv.therevenge.co:80/Anna/Anna123456/78669
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| CRIME DISTRICT" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/crime_district_fr.png" group-title="FRANCE DOCUMENTAIRE",|FR|HEVC| CRIME DISTRICT
+http://rv.therevenge.co:80/Anna/Anna123456/78668
+#EXTINF:-1 tvg-id="" tvg-name="---------------- |FR| INFORMATION HEVC -----------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",---------------- |FR| INFORMATION HEVC -----------------
+http://rv.therevenge.co:80/Anna/Anna123456/78667
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR|HEVC| C NEWS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_c_news.png" group-title="Anna",C NEWS
+http://rv.therevenge.co:80/Anna/Anna123456/78666
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR|HEVC| BFM TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm-tv-fr.png" group-title="Anna",BFM TV
+http://rv.therevenge.co:80/Anna/Anna123456/78665
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR|HEVC| CANAL NEWS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_c_news.png" group-title="Anna",CANAL NEWS
+http://rv.therevenge.co:80/Anna/Anna123456/78664
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="|FR|HEVC| LCI" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/lci-fr.png" group-title="Anna",LCI
+http://rv.therevenge.co:80/Anna/Anna123456/78663
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="|FR|HEVC| FRANCE INFO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france_info_tv.png" group-title="Anna",FRANCE INFO
+http://rv.therevenge.co:80/Anna/Anna123456/78662
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| EURONEWS (FRENCH)" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/euronews_fr.png" group-title="Anna",EURONEWS (FRENCH)
+http://rv.therevenge.co:80/Anna/Anna123456/78661
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| FRANCE 24" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france24_fr.png" group-title="Anna",FRANCE 24
+http://rv.therevenge.co:80/Anna/Anna123456/78660
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="|FR|HEVC| LCP" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/lcp-assemblee-nationale-fr.png" group-title="Anna",LCP
+http://rv.therevenge.co:80/Anna/Anna123456/78659
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="|FR|HEVC| BFM BUSINESS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm_fr_business.png" group-title="Anna",BFM BUSINESS
+http://rv.therevenge.co:80/Anna/Anna123456/78658
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| BFM PARIS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm-paris-fr.png" group-title="Anna",BFM PARIS
+http://rv.therevenge.co:80/Anna/Anna123456/78657
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| I 24 NEWS" tvg-logo="https://i5.satexpat.com/cha/il/i24news-85x42.png" group-title="Anna",I 24 NEWS
+http://rv.therevenge.co:80/Anna/Anna123456/78656
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |FR| MUSIQUE HEVC -------------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE FHD&H265",--------------- |FR| MUSIQUE HEVC -------------------
+http://rv.therevenge.co:80/Anna/Anna123456/78655
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="|FR|HEVC| M6 MUSIC" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/m6_music_fr.png" group-title="Anna",M6 MUSIC
+http://rv.therevenge.co:80/Anna/Anna123456/78654
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR|HEVC| TRACE URBAN" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/trace_fr_urban.png" group-title="Anna",TRACE URBAN
+http://rv.therevenge.co:80/Anna/Anna123456/78653
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="|FR|HEVC| MEZZO LIVE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo_live_hd.png" group-title="Anna",MEZZO LIVE
+http://rv.therevenge.co:80/Anna/Anna123456/78652
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR|HEVC| MCM" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-france-fr.png" group-title="Anna",MCM
+http://rv.therevenge.co:80/Anna/Anna123456/78651
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="|FR|HEVC| MCM TOP" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-top-fr.png" group-title="Anna",MCM TOP
+http://rv.therevenge.co:80/Anna/Anna123456/78650
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| LFM TV" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1481541566/oizvrr1ktpnptrrmrxia.png" group-title="Anna",LFM TV
+http://rv.therevenge.co:80/Anna/Anna123456/78649
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MELODY TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/melody_fr.png" group-title="Anna",MELODY TV
+http://rv.therevenge.co:80/Anna/Anna123456/78648
+#EXTINF:-1 tvg-id="NRJHitsBelgique,be" tvg-name="|FR|HEVC| NRJ HITS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nrj-hits-fr.png" group-title="Anna",NRJ HITS
+http://rv.therevenge.co:80/Anna/Anna123456/78647
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="|FR|HEVC| RFM TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/rfm_tv_fr.png" group-title="Anna",RFM TV
+http://rv.therevenge.co:80/Anna/Anna123456/78646
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR|HEVC| MTV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_us.png" group-title="Anna",MTV
+http://rv.therevenge.co:80/Anna/Anna123456/78645
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MTV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Anna",MTV LIVE
+http://rv.therevenge.co:80/Anna/Anna123456/78644
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| MTV HITS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_hits_us_global.png" group-title="Anna",MTV HITS
+http://rv.therevenge.co:80/Anna/Anna123456/78643
+#EXTINF:-1 tvg-id="" tvg-name="|FR|HEVC| TVM3" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Anna",TVM3
+http://rv.therevenge.co:80/Anna/Anna123456/78642
+#EXTINF:-1 tvg-id="CStarHitsFrance.fr" tvg-name="|FR|HEVC| C STAR HIT" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/c-star-hits-france-fr.png" group-title="Anna",C STAR HIT
+http://rv.therevenge.co:80/Anna/Anna123456/78641
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="|FR|HEVC| C STAR HITS" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/c-star-hits-france-fr.png" group-title="Anna",C STAR HITS
+http://rv.therevenge.co:80/Anna/Anna123456/78640
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR| GAME ONE  +1" tvg-logo="https://i5.satexpat.com/cha/fr/game-one-95x15.png" group-title="Anna",GAME ONE  +1
+http://rv.therevenge.co:80/Anna/Anna123456/78353
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| FRANCE SD -------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",------------- |FR| FRANCE SD -------------
+http://rv.therevenge.co:80/Anna/Anna123456/79134
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CORONA VIRUS INFO" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="Anna",CORONA VIRUS INFO
+http://rv.therevenge.co:80/Anna/Anna123456/79133
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR|SD| TF1 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tf1.png" group-title="Anna",TF1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79132
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR|SD| FRANCE 2 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france2-fr.png" group-title="Anna",FRANCE 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79131
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR|SD| FRANCE 3 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france3-fr.png" group-title="Anna",FRANCE 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79130
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR|SD| FRANCE 4 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france4-fr.png" group-title="Anna",FRANCE 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79129
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR|SD| FRANCE 5 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france5-fr.png" group-title="Anna",FRANCE 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79128
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| FRANCE O HD" tvg-logo="https://i5.satexpat.com/cha/fr/fO-64x55.png" group-title="Anna",FRANCE O HD
+http://rv.therevenge.co:80/Anna/Anna123456/79127
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| 6TER HD" tvg-logo="https://i5.satexpat.com/cha/fr/6ter_54x24.png" group-title="Anna",6TER HD
+http://rv.therevenge.co:80/Anna/Anna123456/79126
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR|SD| M6 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/m6_ch.png" group-title="Anna",M6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79125
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR|SD| FRANCE 3 NOA HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france-3-nouvelle-aquitaine-fr.png" group-title="Anna",FRANCE 3 NOA HD
+http://rv.therevenge.co:80/Anna/Anna123456/79124
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TF1 SERIES-FILMS HD" tvg-logo="https://i5.satexpat.com/cha/fr/tf1-sf-95x50.png" group-title="Anna",TF1 SERIES-FILMS HD
+http://rv.therevenge.co:80/Anna/Anna123456/79123
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR|SD| TFX HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tfx-fr.png" group-title="Anna",TFX HD
+http://rv.therevenge.co:80/Anna/Anna123456/79122
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RTL 9 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rtl9-95x46.png" group-title="Anna",RTL 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79121
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR|SD| TEVA HD" tvg-logo="https://i5.satexpat.com/cha/fr/teva-95x42.png" group-title="Anna",TEVA HD
+http://rv.therevenge.co:80/Anna/Anna123456/79120
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR|SD| TMC HD" tvg-logo="https://i5.satexpat.com/cha/fr/tmc-95x34.gif" group-title="Anna",TMC HD
+http://rv.therevenge.co:80/Anna/Anna123456/79119
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR|SD| W9 HD" tvg-logo="https://i5.satexpat.com/cha/fr/W9_52x25.png" group-title="Anna",W9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79118
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR|SD| ARTE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/arte_de.png" group-title="Anna",ARTE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79117
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NAUTICAL HD" tvg-logo="https://cdn.imgbin.com/13/2/5/imgbin-television-channel-nautical-channel-logo-pay-television-others-YssUkwg6Rfqx4haLk4V5QtEDA.jpg" group-title="Anna",NAUTICAL HD
+http://rv.therevenge.co:80/Anna/Anna123456/79116
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NON STOP PEOPLE HD" tvg-logo="https://i5.satexpat.com/cha/nonStopPeople-95x41.gif" group-title="Anna",NON STOP PEOPLE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79115
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="|FR|SD| NOVELAS TV HD" tvg-logo="https://i5.satexpat.com/cha/fr/novelas-95x20.png" group-title="Anna",NOVELAS TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79114
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| ONE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="Anna",ONE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79113
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| ROUGE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Anna",ROUGE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79112
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RTS UN HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-UN.HD.png" group-title="Anna",RTS UN HD
+http://rv.therevenge.co:80/Anna/Anna123456/79111
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RTS DEUX HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-DEUX.HD.png" group-title="Anna",RTS DEUX HD
+http://rv.therevenge.co:80/Anna/Anna123456/79110
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CSTAR HD" tvg-logo="https://i5.satexpat.com/cha/fr/cstar-85x25.gif" group-title="Anna",CSTAR HD
+http://rv.therevenge.co:80/Anna/Anna123456/79109
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| LA CHAINE METEO HD" tvg-logo="https://i5.satexpat.com/cha/fr/la-chaine-meteo-95x53.png" group-title="Anna",LA CHAINE METEO HD
+http://rv.therevenge.co:80/Anna/Anna123456/79108
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MEZZO FR" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo-fr.png" group-title="Anna",MEZZO FR
+http://rv.therevenge.co:80/Anna/Anna123456/79107
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MUSEUM HD" tvg-logo="https://i5.satexpat.com/cha/fr/museum-73x55.png" group-title="Anna",MUSEUM HD
+http://rv.therevenge.co:80/Anna/Anna123456/79106
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| COMEDIE  HD" tvg-logo="https://i5.satexpat.com/cha/fr/comediePlus-67x60.png" group-title="Anna",COMEDIE  HD
+http://rv.therevenge.co:80/Anna/Anna123456/79105
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| COMEDY CENTRAL HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/comedy-central-deutschland-us-de.png" group-title="Anna",COMEDY CENTRAL HD
+http://rv.therevenge.co:80/Anna/Anna123456/79104
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| VIAGRANDPARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="Anna",VIAGRANDPARIS
+http://rv.therevenge.co:80/Anna/Anna123456/79103
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL 31" tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="Anna",CANAL 31
+http://rv.therevenge.co:80/Anna/Anna123456/79102
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="Anna",CANAL 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79101
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CLIQUE TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/clique-tv-fr.png" group-title="Anna",CLIQUE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79100
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| EQUIPE 21 HD" tvg-logo="https://i5.satexpat.com/cha/fr/lequipe_21_95x18.png" group-title="Anna",EQUIPE 21 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79099
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| IDF 1" tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="Anna",IDF 1
+http://rv.therevenge.co:80/Anna/Anna123456/79098
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OLYMPIA HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/olympia-tv-fr.png" group-title="Anna",OLYMPIA HD
+http://rv.therevenge.co:80/Anna/Anna123456/79097
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| LEMAN BLEU HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="Anna",LEMAN BLEU HD
+http://rv.therevenge.co:80/Anna/Anna123456/79096
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| KTO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/kto-fr.png" group-title="Anna",KTO
+http://rv.therevenge.co:80/Anna/Anna123456/79095
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BOOSTER TV HD" tvg-logo="https://boostertv.ch/wp-content/uploads/2018/05/Logo-Header.png" group-title="Anna",BOOSTER TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79094
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_1964.png" group-title="Anna",CANAL 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79093
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| THE SWIZZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="Anna",THE SWIZZ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79092
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OLTV" tvg-logo="https://i5.satexpat.com/cha/fr/oltv-95x32.png" group-title="Anna",OLTV
+http://rv.therevenge.co:80/Anna/Anna123456/79091
+#EXTINF:-1 tvg-id="" tvg-name="----------------- |FR| CANAL+ SD  ------------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",----------------- |FR| CANAL+ SD  ------------------
+http://rv.therevenge.co:80/Anna/Anna123456/79090
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ HD" tvg-logo="" group-title="Anna",CANAL+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79089
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ SPORT HD" tvg-logo="" group-title="Anna",CANAL+ SPORT HD
+http://rv.therevenge.co:80/Anna/Anna123456/79088
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ SERIES HD" tvg-logo="" group-title="Anna",CANAL+ SERIES HD
+http://rv.therevenge.co:80/Anna/Anna123456/79087
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ FAMILY HD" tvg-logo="" group-title="Anna",CANAL+ FAMILY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79086
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ DECALE HD" tvg-logo="" group-title="Anna",CANAL+ DECALE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79085
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL+ CINEMA HD" tvg-logo="" group-title="Anna",CANAL+ CINEMA HD
+http://rv.therevenge.co:80/Anna/Anna123456/79084
+#EXTINF:-1 tvg-id="" tvg-name="---------------- |FR| CINEMA SD ---------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",---------------- |FR| CINEMA SD ---------------
+http://rv.therevenge.co:80/Anna/Anna123456/79083
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| ACTION HD" tvg-logo="" group-title="Anna",ACTION HD
+http://rv.therevenge.co:80/Anna/Anna123456/79082
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OCS MAX HD" tvg-logo="" group-title="Anna",OCS MAX HD
+http://rv.therevenge.co:80/Anna/Anna123456/79081
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OCS CITY HD" tvg-logo="" group-title="Anna",OCS CITY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79080
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OCS GEANTS HD" tvg-logo="" group-title="Anna",OCS GEANTS HD
+http://rv.therevenge.co:80/Anna/Anna123456/79079
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| OCS CHOC HD" tvg-logo="" group-title="Anna",OCS CHOC HD
+http://rv.therevenge.co:80/Anna/Anna123456/79078
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+ PREMIER HD" tvg-logo="" group-title="Anna",CINE+ PREMIER HD
+http://rv.therevenge.co:80/Anna/Anna123456/79077
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+ FRISSON HD" tvg-logo="" group-title="Anna",CINE+ FRISSON HD
+http://rv.therevenge.co:80/Anna/Anna123456/79076
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+ EMOTION HD" tvg-logo="" group-title="Anna",CINE+ EMOTION HD
+http://rv.therevenge.co:80/Anna/Anna123456/79075
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+ FAMIZ HD" tvg-logo="" group-title="Anna",CINE+ FAMIZ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79074
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+ CLUB HD" tvg-logo="" group-title="Anna",CINE+ CLUB HD
+http://rv.therevenge.co:80/Anna/Anna123456/79073
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CINE+  CLASSIC HD" tvg-logo="" group-title="Anna",CINE+  CLASSIC HD
+http://rv.therevenge.co:80/Anna/Anna123456/79072
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PARAMOUNT DECALE HD" tvg-logo="" group-title="Anna",PARAMOUNT DECALE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79071
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Anna",PARAMOUNT CHANNEL HD
+http://rv.therevenge.co:80/Anna/Anna123456/79070
+#EXTINF:-1 tvg-id="" tvg-name="----------- |FR| DIVERTISSEMENT SD -----------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",----------- |FR| DIVERTISSEMENT SD -----------
+http://rv.therevenge.co:80/Anna/Anna123456/79069
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| POLAR+ HD" tvg-logo="" group-title="Anna",POLAR+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79068
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| SYFY HD" tvg-logo="" group-title="Anna",SYFY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79067
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| SERIE CLUB HD" tvg-logo="" group-title="Anna",SERIE CLUB HD
+http://rv.therevenge.co:80/Anna/Anna123456/79066
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| 13EME RUE HD" tvg-logo="" group-title="Anna",13EME RUE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79065
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| ALTICE STUDIO HD" tvg-logo="" group-title="Anna",ALTICE STUDIO HD
+http://rv.therevenge.co:80/Anna/Anna123456/79064
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| WARNER TV HD" tvg-logo="" group-title="Anna",WARNER TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79063
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TV BREIZH HD" tvg-logo="" group-title="Anna",TV BREIZH HD
+http://rv.therevenge.co:80/Anna/Anna123456/79062
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NRJ 12 HD" tvg-logo="" group-title="Anna",NRJ 12 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79061
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RMC STORY HD" tvg-logo="" group-title="Anna",RMC STORY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79060
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CHERIE 25 HD" tvg-logo="" group-title="Anna",CHERIE 25 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79059
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PARIS PREMIERE HD" tvg-logo="" group-title="Anna",PARIS PREMIERE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79058
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| VICELAND HD" tvg-logo="" group-title="Anna",VICELAND HD
+http://rv.therevenge.co:80/Anna/Anna123456/79057
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| E! ENTERTAINMENT HD" tvg-logo="" group-title="Anna",E! ENTERTAINMENT HD
+http://rv.therevenge.co:80/Anna/Anna123456/79056
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MY CUISINE HD" tvg-logo="" group-title="Anna",MY CUISINE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79055
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| J ONE HD" tvg-logo="" group-title="Anna",J ONE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79054
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| GAME ONE HD" tvg-logo="" group-title="Anna",GAME ONE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79053
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MANGAS HD" tvg-logo="" group-title="Anna",MANGAS HD
+http://rv.therevenge.co:80/Anna/Anna123456/79052
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| AB1 HD" tvg-logo="" group-title="Anna",AB1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79051
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| AB3 HD" tvg-logo="" group-title="Anna",AB3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79050
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BET HD" tvg-logo="" group-title="Anna",BET HD
+http://rv.therevenge.co:80/Anna/Anna123456/79049
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TV5 MONDE HD" tvg-logo="" group-title="Anna",TV5 MONDE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79048
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TELECLUB ZOOM HD" tvg-logo="" group-title="Anna",TELECLUB ZOOM HD
+http://rv.therevenge.co:80/Anna/Anna123456/79047
+#EXTINF:-1 tvg-id="" tvg-name="-------------- |FR| SPORT SD----------" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-3d-round-250.png" group-title="FRANCE SPORTS",-------------- |FR| SPORT SD----------
+http://rv.therevenge.co:80/Anna/Anna123456/79046
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TELEFOOT" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="Anna",TELEFOOT
+http://rv.therevenge.co:80/Anna/Anna123456/79045
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="|FR|SD| BEIN SPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports1-95x53.png" group-title="Anna",BEIN SPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79044
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="|FR|SD| BEIN SPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports2-95x53.png" group-title="Anna",BEIN SPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79043
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="|FR|SD| BEIN SPORT 3 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports3-95x53.png" group-title="Anna",BEIN SPORT 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79042
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR|SD| EUROSPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="Anna",EUROSPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79041
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR|SD| EUROSPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/eurosport-2-95x10.png" group-title="Anna",EUROSPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79040
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="|FR|SD| RMC SPORT NEWS HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-news-95x26.png" group-title="Anna",RMC SPORT NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/79039
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR|SD| RMC SPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-1-95x29.png" group-title="Anna",RMC SPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79038
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR|SD| RMC SPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-2-95x28.png" group-title="Anna",RMC SPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79037
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="|FR|SD| RMC SPORT 3 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-3-95x28.png" group-title="Anna",RMC SPORT 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79036
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="|FR|SD| RMC SPORT 4 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-4-95x27.png" group-title="Anna",RMC SPORT 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79035
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR|SD| RMC SPORT LIVE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79034
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR|SD| RMC SPORT LIVE 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79033
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR|SD| RMC SPORT LIVE 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 7 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79032
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR|SD| RMC SPORT LIVE 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79031
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR|SD| RMC SPORT LIVE 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79030
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR|SD| RMC SPORT LIVE 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 10 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79029
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR|SD| RMC SPORT LIVE 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 11 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79028
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR|SD| RMC SPORT LIVE 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 12 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79027
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR|SD| RMC SPORT LIVE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 13 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79026
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR|SD| RMC SPORT LIVE 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 14 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79025
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="|FR|SD| RMC SPORT LIVE 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 15 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79024
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTI SPORTS 1" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 1
+http://rv.therevenge.co:80/Anna/Anna123456/79023
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTI SPORTS 2" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 2
+http://rv.therevenge.co:80/Anna/Anna123456/79022
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTIS PORTS 3" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTIS PORTS 3
+http://rv.therevenge.co:80/Anna/Anna123456/79021
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTI SPORTS 4" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 4
+http://rv.therevenge.co:80/Anna/Anna123456/79020
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTISPORTS 5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTISPORTS 5
+http://rv.therevenge.co:80/Anna/Anna123456/79019
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MULTISPORTS 6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTISPORTS 6
+http://rv.therevenge.co:80/Anna/Anna123456/79018
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR|SD| BFM TV HD" tvg-logo="https://i5.satexpat.com/cha/fr/BFM_TV_58x24.png" group-title="Anna",BFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79017
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="|FR|SD| FOOT+ 24 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_foot_plus.png" group-title="Anna",FOOT+ 24 HD
+http://rv.therevenge.co:80/Anna/Anna123456/79016
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="|FR|SD| INFO SPORT  HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_infosport_plus.png" group-title="Anna",INFO SPORT  HD
+http://rv.therevenge.co:80/Anna/Anna123456/79015
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="|FR|SD| EQUIDIA LIVE HD" tvg-logo="https://i5.satexpat.com/cha/fr/equidia-90x39.gif" group-title="Anna",EQUIDIA LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79014
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="|FR|SD| GOLF+ HD" tvg-logo="https://i5.satexpat.com/cha/fr/golfPlus-95x27.png" group-title="Anna",GOLF+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79013
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MOTORSPORT TV HD" tvg-logo="" group-title="Anna",MOTORSPORT TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/79012
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="|FR|SD| AUTO MOTO HD" tvg-logo="https://i5.satexpat.com/cha/fr/automoto-95x19.png" group-title="Anna",AUTO MOTO HD
+http://rv.therevenge.co:80/Anna/Anna123456/79011
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="|FR|SD| GAME ONE  +1" tvg-logo="https://i5.satexpat.com/cha/fr/game-one-95x15.png" group-title="Anna",GAME ONE  +1
+http://rv.therevenge.co:80/Anna/Anna123456/79010
+#EXTINF:-1 tvg-id="" tvg-name="----------------- |FR| DECOUVERTE SD ----------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",----------------- |FR| DECOUVERTE SD ----------------
+http://rv.therevenge.co:80/Anna/Anna123456/79009
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TOUTE L'HISTOIRE HD" tvg-logo="" group-title="Anna",TOUTE L'HISTOIRE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79008
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PLANETE+ HD" tvg-logo="" group-title="Anna",PLANETE+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/79007
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PLANETE  A&E HD" tvg-logo="" group-title="Anna",PLANETE  A&E HD
+http://rv.therevenge.co:80/Anna/Anna123456/79006
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| PLANETE+ CI HD" tvg-logo="" group-title="Anna",PLANETE+ CI HD
+http://rv.therevenge.co:80/Anna/Anna123456/79005
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISCOVERY HD" tvg-logo="" group-title="Anna",DISCOVERY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79004
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISCOVERY SCIENCE HD" tvg-logo="" group-title="Anna",DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/Anna/Anna123456/79003
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISCOVERY FAMILY HD" tvg-logo="" group-title="Anna",DISCOVERY FAMILY HD
+http://rv.therevenge.co:80/Anna/Anna123456/79002
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISCOVERY ID HD" tvg-logo="" group-title="Anna",DISCOVERY ID HD
+http://rv.therevenge.co:80/Anna/Anna123456/79001
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="Anna",DISCOVERY INVESTIGATION HD
+http://rv.therevenge.co:80/Anna/Anna123456/79000
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NGC HD" tvg-logo="" group-title="Anna",NGC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78999
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NGC WILD HD" tvg-logo="" group-title="Anna",NGC WILD HD
+http://rv.therevenge.co:80/Anna/Anna123456/78998
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| VOYAGE HD" tvg-logo="" group-title="Anna",VOYAGE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78997
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| USHUAIA HD" tvg-logo="" group-title="Anna",USHUAIA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78996
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| HISTOIRE HD" tvg-logo="" group-title="Anna",HISTOIRE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78995
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| ANIMAUX HD" tvg-logo="" group-title="Anna",ANIMAUX HD
+http://rv.therevenge.co:80/Anna/Anna123456/78994
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TREK HD" tvg-logo="" group-title="Anna",TREK HD
+http://rv.therevenge.co:80/Anna/Anna123456/78993
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CHASSE&PECHE HD" tvg-logo="" group-title="Anna",CHASSE&PECHE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78992
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| SCIENCE ET VIE HD" tvg-logo="" group-title="Anna",SCIENCE ET VIE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78991
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RMC DECOUVERTE HD" tvg-logo="" group-title="Anna",RMC DECOUVERTE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78990
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| SEASONS HD" tvg-logo="" group-title="Anna",SEASONS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78989
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| GULLI HD" tvg-logo="" group-title="Anna",GULLI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78988
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TCM CINEMA HD" tvg-logo="" group-title="Anna",TCM CINEMA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78987
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CRIME DISTRICT HD" tvg-logo="" group-title="Anna",CRIME DISTRICT HD
+http://rv.therevenge.co:80/Anna/Anna123456/78986
+#EXTINF:-1 tvg-id="" tvg-name="---------------- |FR| INFORMATION SD ---------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",---------------- |FR| INFORMATION SD ---------------
+http://rv.therevenge.co:80/Anna/Anna123456/78985
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| CANAL NEWS HD" tvg-logo="" group-title="Anna",CANAL NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78984
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| C NEWS HD" tvg-logo="" group-title="Anna",C NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78983
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| LCI HD" tvg-logo="" group-title="Anna",LCI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78982
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| FRANCE INFO HD" tvg-logo="" group-title="Anna",FRANCE INFO HD
+http://rv.therevenge.co:80/Anna/Anna123456/78981
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| FRANCE 24 HD" tvg-logo="" group-title="Anna",FRANCE 24 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78980
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| EURONEWS FRENCH HD" tvg-logo="" group-title="Anna",EURONEWS FRENCH HD
+http://rv.therevenge.co:80/Anna/Anna123456/78979
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| LCP HD" tvg-logo="" group-title="Anna",LCP HD
+http://rv.therevenge.co:80/Anna/Anna123456/78978
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BFM BUSINESS HD" tvg-logo="" group-title="Anna",BFM BUSINESS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78977
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| BFM PARIS HD" tvg-logo="" group-title="Anna",BFM PARIS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78976
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| I 24 NEWS HD" tvg-logo="" group-title="Anna",I 24 NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78975
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| MUSIQUE SD --------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE SD",------------- |FR| MUSIQUE SD --------------
+http://rv.therevenge.co:80/Anna/Anna123456/78974
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| M6 MUSIC HD" tvg-logo="" group-title="Anna",M6 MUSIC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78973
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TRACE URBAN HD" tvg-logo="" group-title="Anna",TRACE URBAN HD
+http://rv.therevenge.co:80/Anna/Anna123456/78972
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MEZZO LIVE HD" tvg-logo="" group-title="Anna",MEZZO LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78971
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MCM HD" tvg-logo="" group-title="Anna",MCM HD
+http://rv.therevenge.co:80/Anna/Anna123456/78970
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MCM TOP HD" tvg-logo="" group-title="Anna",MCM TOP HD
+http://rv.therevenge.co:80/Anna/Anna123456/78969
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MELODY" tvg-logo="" group-title="Anna",MELODY
+http://rv.therevenge.co:80/Anna/Anna123456/78968
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| LFM TV HD" tvg-logo="" group-title="Anna",LFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78967
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| NRJ HITS HD" tvg-logo="" group-title="Anna",NRJ HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78966
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| RFM TV HD" tvg-logo="" group-title="Anna",RFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78965
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MTV HD" tvg-logo="" group-title="Anna",MTV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78964
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MTV LIVE HD" tvg-logo="" group-title="Anna",MTV LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78963
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| MTV HITS HD" tvg-logo="" group-title="Anna",MTV HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78962
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| TVM3 HD" tvg-logo="" group-title="Anna",TVM3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78961
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| C STAR HIT" tvg-logo="" group-title="Anna",C STAR HIT
+http://rv.therevenge.co:80/Anna/Anna123456/78960
+#EXTINF:-1 tvg-id="" tvg-name="|FR|SD| C STAR HITS HD" tvg-logo="" group-title="Anna",C STAR HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78959
+#EXTINF:-1 tvg-id="" tvg-name="------------- FRANCE HD --------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE HD",------------- FRANCE HD --------------
+http://rv.therevenge.co:80/Anna/Anna123456/78494
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CORONA VIRUS INFOVIRUS INFO" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="Anna",CORONA VIRUS INFOVIRUS INFO
+http://rv.therevenge.co:80/Anna/Anna123456/78493
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tf1.png" group-title="Anna",TF1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78492
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france2-fr.png" group-title="Anna",FRANCE 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78491
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france3-fr.png" group-title="Anna",FRANCE 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78490
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france4-fr.png" group-title="Anna",FRANCE 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78489
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france5-fr.png" group-title="Anna",FRANCE 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78488
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE O HD" tvg-logo="https://i5.satexpat.com/cha/fr/fO-64x55.png" group-title="Anna",FRANCE O HD
+http://rv.therevenge.co:80/Anna/Anna123456/78487
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 NOA HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france-3-nouvelle-aquitaine-fr.png" group-title="Anna",FRANCE 3 NOA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78486
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/6ter_fr.png" group-title="Anna",6TER HD
+http://rv.therevenge.co:80/Anna/Anna123456/78485
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/m6_fr.png" group-title="Anna",M6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78484
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="|FR| TF1 SERIES FILMS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tf1-series-films-fr.png" group-title="Anna",TF1 SERIES FILMS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78483
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="|FR| TFX HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tfx-fr.png" group-title="Anna",TFX HD
+http://rv.therevenge.co:80/Anna/Anna123456/78482
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="|FR| RTL 9 HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTL9.SD.png" group-title="Anna",RTL 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78481
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/teva_fr.png" group-title="Anna",TEVA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78480
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="Anna",TMC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78479
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/w9_fr.png" group-title="Anna",W9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78478
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_c_8.png" group-title="Anna",C8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/86842
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/arte_fr.png" group-title="Anna",ARTE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78477
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NAUTICAL HD" tvg-logo="https://cdn.imgbin.com/13/2/5/imgbin-television-channel-nautical-channel-logo-pay-television-others-YssUkwg6Rfqx4haLk4V5QtEDA.jpg" group-title="Anna",NAUTICAL HD
+http://rv.therevenge.co:80/Anna/Anna123456/78476
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NON STOP PEOPLE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/non_stop_people_es.png" group-title="Anna",NON STOP PEOPLE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78475
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="|FR| NOVELAS TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/novelas-tv-fr.png" group-title="Anna",NOVELAS TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78474
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ONE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="Anna",ONE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78473
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ROUGE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="Anna",ROUGE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78472
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RTS UN HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-UN.HD.png" group-title="Anna",RTS UN HD
+http://rv.therevenge.co:80/Anna/Anna123456/78471
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RTS DEUX HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-DEUX.HD.png" group-title="Anna",RTS DEUX HD
+http://rv.therevenge.co:80/Anna/Anna123456/78470
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CSTAR HD" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="Anna",CSTAR HD
+http://rv.therevenge.co:80/Anna/Anna123456/78469
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="|FR| LA CHAINE METEO HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/la_chaine_meteo_fr.png" group-title="Anna",LA CHAINE METEO HD
+http://rv.therevenge.co:80/Anna/Anna123456/78468
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="|FR| MEZZO FR" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo-fr.png" group-title="Anna",MEZZO FR
+http://rv.therevenge.co:80/Anna/Anna123456/78467
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MUSEUM HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/museum_tv_fr.png" group-title="Anna",MUSEUM HD
+http://rv.therevenge.co:80/Anna/Anna123456/78466
+#EXTINF:-1 tvg-id="" tvg-name="|FR| COMEDIE  HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_comedie_plus.png" group-title="Anna",COMEDIE  HD
+http://rv.therevenge.co:80/Anna/Anna123456/78465
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="|FR| COMEDY CENTRAL HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/comedy-central-deutschland-us-de.png" group-title="Anna",COMEDY CENTRAL HD
+http://rv.therevenge.co:80/Anna/Anna123456/78464
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VIAGRANDPARIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="Anna",VIAGRANDPARIS
+http://rv.therevenge.co:80/Anna/Anna123456/78463
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 31" tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="Anna",CANAL 31
+http://rv.therevenge.co:80/Anna/Anna123456/78462
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="Anna",CANAL 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78461
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CLIQUE TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/clique-tv-fr.png" group-title="Anna",CLIQUE TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78460
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIPE 21 HD" tvg-logo="http://kbbpf.lescigales.org/Logos/LEQUIPE-21.SD.png" group-title="Anna",EQUIPE 21 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78459
+#EXTINF:-1 tvg-id="" tvg-name="|FR| IDF 1" tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="Anna",IDF 1
+http://rv.therevenge.co:80/Anna/Anna123456/78458
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OLYMPIA HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/olympia-tv-fr.png" group-title="Anna",OLYMPIA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78457
+#EXTINF:-1 tvg-id="" tvg-name="|FR| KTO" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/kto-fr.png" group-title="Anna",KTO
+http://rv.therevenge.co:80/Anna/Anna123456/78456
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOOSTER TV HD" tvg-logo="https://boostertv.ch/wp-content/uploads/2018/05/Logo-Header.png" group-title="Anna",BOOSTER TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78455
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LEMAN BLEU HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="Anna",LEMAN BLEU HD
+http://rv.therevenge.co:80/Anna/Anna123456/78454
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_1964.png" group-title="Anna",CANAL 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78453
+#EXTINF:-1 tvg-id="" tvg-name="|FR| THE SWIZZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="Anna",THE SWIZZ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78452
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OLTV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/oltv-fr.png" group-title="Anna",OLTV
+http://rv.therevenge.co:80/Anna/Anna123456/78451
+#EXTINF:-1 tvg-id="" tvg-name="------------ |FR| CANAL+ HD ----------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE CINEMA",------------ |FR| CANAL+ HD ----------
+http://rv.therevenge.co:80/Anna/Anna123456/78450
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ HD" tvg-logo="" group-title="Anna",CANAL+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78449
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="" group-title="Anna",CANAL+ SPORT HD
+http://rv.therevenge.co:80/Anna/Anna123456/78448
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIE HD" tvg-logo="" group-title="Anna",CANAL+ SERIE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78447
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ FAMILY HD" tvg-logo="" group-title="Anna",CANAL+ FAMILY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78446
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ DECALE HD" tvg-logo="" group-title="Anna",CANAL+ DECALE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78445
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="" group-title="Anna",CANAL+ CINEMA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78444
+#EXTINF:-1 tvg-id="" tvg-name="-------------- |FR| CINEMA HD ------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE CINEMA",-------------- |FR| CINEMA HD ------------
+http://rv.therevenge.co:80/Anna/Anna123456/78443
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ACTION HD" tvg-logo="" group-title="Anna",ACTION HD
+http://rv.therevenge.co:80/Anna/Anna123456/78442
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS MAX HD" tvg-logo="" group-title="Anna",OCS MAX HD
+http://rv.therevenge.co:80/Anna/Anna123456/78441
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS CITY HD" tvg-logo="" group-title="Anna",OCS CITY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78440
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GEANTS HD" tvg-logo="" group-title="Anna",OCS GEANTS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78439
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS CHOC HD" tvg-logo="" group-title="Anna",OCS CHOC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78438
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GO CINEMA 1 HD" tvg-logo="" group-title="Anna",OCS GO CINEMA 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78437
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ PREMIERE HD" tvg-logo="" group-title="Anna",CINE+ PREMIERE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78436
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="" group-title="Anna",CINE+ FRISSON HD
+http://rv.therevenge.co:80/Anna/Anna123456/78435
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="" group-title="Anna",CINE+ EMOTION HD
+http://rv.therevenge.co:80/Anna/Anna123456/78434
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ FAMIZ HD" tvg-logo="" group-title="Anna",CINE+ FAMIZ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78433
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="" group-title="Anna",CINE+ CLUB HD
+http://rv.therevenge.co:80/Anna/Anna123456/78432
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+ CLASSIC HD" tvg-logo="" group-title="Anna",CINE+ CLASSIC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78431
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT DECALE HD" tvg-logo="" group-title="Anna",PARAMOUNT DECALE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78430
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Anna",PARAMOUNT CHANNEL HD
+http://rv.therevenge.co:80/Anna/Anna123456/78429
+#EXTINF:-1 tvg-id="" tvg-name="----------------- |FR| DIVERTISSEMENT HD ---------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE HD",----------------- |FR| DIVERTISSEMENT HD ---------------
+http://rv.therevenge.co:80/Anna/Anna123456/78428
+#EXTINF:-1 tvg-id="" tvg-name="|FR| POLAR+ HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/polar-plus-fr.png" group-title="Anna",POLAR+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78427
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="|FR| SYFY HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/syfy_us_global.png" group-title="Anna",SYFY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78426
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_serie_club.png" group-title="Anna",SERIE CLUB HD
+http://rv.therevenge.co:80/Anna/Anna123456/78425
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="|FR| 13 EME RUE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/13eme_rue_fr.png" group-title="Anna",13 EME RUE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78424
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  ALTICE STUDIO HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/altice-studio-fr.png" group-title="Anna", ALTICE STUDIO HD
+http://rv.therevenge.co:80/Anna/Anna123456/78423
+#EXTINF:-1 tvg-id="" tvg-name="|FR| WARNER HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/warner_tv_us.png" group-title="Anna",WARNER HD
+http://rv.therevenge.co:80/Anna/Anna123456/78422
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="|FR| TV BREIZH HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tv_breizh_fr.png" group-title="Anna",TV BREIZH HD
+http://rv.therevenge.co:80/Anna/Anna123456/78421
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NRJ 12 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nrj_fr_12.png" group-title="Anna",NRJ 12 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78420
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC STORY HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/rmc-story-fr.png" group-title="Anna",RMC STORY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78419
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHERIE 25 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/cherie25-fr.png" group-title="Anna",CHERIE 25 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78418
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/paris_premiere.png" group-title="Anna",PARIS PREMIERE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78417
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VICELAND HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/vice-tv-france-us-fr.png" group-title="Anna",VICELAND HD
+http://rv.therevenge.co:80/Anna/Anna123456/78416
+#EXTINF:-1 tvg-id="" tvg-name="|FR| E! ENTERTAINMENT HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/e_global_us.png" group-title="Anna",E! ENTERTAINMENT HD
+http://rv.therevenge.co:80/Anna/Anna123456/78415
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MY CUISINE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/my-cuisine-fr.png" group-title="Anna",MY CUISINE
+http://rv.therevenge.co:80/Anna/Anna123456/78414
+#EXTINF:-1 tvg-id="" tvg-name="|FR| J ONE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/j_one_fr.png" group-title="Anna",J ONE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78413
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GAME ONE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/game_one.png" group-title="Anna",GAME ONE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78412
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MANGAS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mangas_fr.png" group-title="Anna",MANGAS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78411
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB 1 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ab1.png" group-title="Anna",AB 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78410
+#EXTINF:-1 tvg-id="" tvg-name="|FR| AB 3 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/ab3.png" group-title="Anna",AB 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78409
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BET HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bet-france-us-fr.png" group-title="Anna",BET HD
+http://rv.therevenge.co:80/Anna/Anna123456/78408
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TV5 MONDE" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/tv-5-monde-fr.png" group-title="Anna",TV5 MONDE
+http://rv.therevenge.co:80/Anna/Anna123456/78407
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELECLUB ZOOM" tvg-logo="https://logos.zattic.com/logos/75d2acd99d06e771af3d/white/210x120.png" group-title="Anna",TELECLUB ZOOM
+http://rv.therevenge.co:80/Anna/Anna123456/78406
+#EXTINF:-1 tvg-id="A+.fr" tvg-name="|FR| A+ HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/a_plus_fr_centre.png" group-title="Anna",A+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78405
+#EXTINF:-1 tvg-id="Nollywood.fr" tvg-name="|FR| NOLLYWOOD TV" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nollywood_tv_fr.png" group-title="Anna",NOLLYWOOD TV
+http://rv.therevenge.co:80/Anna/Anna123456/78404
+#EXTINF:-1 tvg-id="" tvg-name="-------------- |FR| SPORT HD --------------" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-3d-round-250.png" group-title="FRANCE SPORTS",-------------- |FR| SPORT HD --------------
+http://rv.therevenge.co:80/Anna/Anna123456/78403
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="Anna",TELEFOOT HD
+http://rv.therevenge.co:80/Anna/Anna123456/78402
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 1 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-1.png" group-title="Anna",TELEFOOT STADIUM 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78401
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 2 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-2.png" group-title="Anna",TELEFOOT STADIUM 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78400
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 3 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-3.png" group-title="Anna",TELEFOOT STADIUM 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78399
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 4 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-4.png" group-title="Anna",TELEFOOT STADIUM 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78398
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 5 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-5.png" group-title="Anna",TELEFOOT STADIUM 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78397
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 6 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-6.png" group-title="Anna",TELEFOOT STADIUM 6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78396
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 7 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-7.png" group-title="Anna",TELEFOOT STADIUM 7 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78395
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 8 HD" tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-8.png" group-title="Anna",TELEFOOT STADIUM 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78394
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="|FR| BEIN SPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports1-95x53.png" group-title="Anna",BEIN SPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78393
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="|FR| BEIN SPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports2-95x53.png" group-title="Anna",BEIN SPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78392
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="|FR| BEIN SPORT 3 HD" tvg-logo="https://i5.satexpat.com/cha/qa/beinSports3-95x53.png" group-title="Anna",BEIN SPORT 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78391
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="|FR| BEIN SPORT MAX 4 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bein-sports-max-4-qa-fr.png" group-title="Anna",BEIN SPORT MAX 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78390
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="|FR| BEIN SPORT MAX 5 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="Anna",BEIN SPORT MAX 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78389
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="|FR| BEIN SPORT MAX 6 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_06_hd.png" group-title="Anna",BEIN SPORT MAX 6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78388
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="|FR| BEIN SPORT MAX 7 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_07_hd.png" group-title="Anna",BEIN SPORT MAX 7 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78387
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="|FR| BEIN SPORT MAX 8 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_08_hd.png" group-title="Anna",BEIN SPORT MAX 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78386
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="|FR| BEIN SPORT MAX 9 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_09_hd.png" group-title="Anna",BEIN SPORT MAX 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78385
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="|FR| BEIN SPORT MAX 10 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_10_hd.png" group-title="Anna",BEIN SPORT MAX 10 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78384
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="|FR| EUROSPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="Anna",EUROSPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78383
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/eurosport-2-95x10.png" group-title="Anna",EUROSPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78382
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="|FR| RMC SPORT NEWS" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-news-95x26.png" group-title="Anna",RMC SPORT NEWS
+http://rv.therevenge.co:80/Anna/Anna123456/78381
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-1-95x29.png" group-title="Anna",RMC SPORT 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78380
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-2-95x28.png" group-title="Anna",RMC SPORT 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78379
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-3-95x28.png" group-title="Anna",RMC SPORT 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78378
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc-sport-4-95x27.png" group-title="Anna",RMC SPORT 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78377
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="|FR| RMC SPORT LIVE 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78376
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="|FR| RMC SPORT LIVE 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 6 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78375
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="|FR| RMC SPORT LIVE 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 7 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78374
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="|FR| RMC SPORT LIVE 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 8 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78373
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="|FR| RMC SPORT LIVE 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 9 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78372
+#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 10 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78371
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 11 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78370
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 12 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78369
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="|FR| RMC SPORT LIVE 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 13 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78368
+#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="|FR| RMC SPORT LIVE 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 14 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78367
+#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="|FR| RMC SPORT LIVE 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="Anna",RMC SPORT LIVE 15 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78366
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 1" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 1
+http://rv.therevenge.co:80/Anna/Anna123456/78365
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 2" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 2
+http://rv.therevenge.co:80/Anna/Anna123456/78364
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 3" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 3
+http://rv.therevenge.co:80/Anna/Anna123456/78363
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 4" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 4
+http://rv.therevenge.co:80/Anna/Anna123456/78362
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 5" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 5
+http://rv.therevenge.co:80/Anna/Anna123456/78361
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MULTI SPORTS 6" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_multisports.png" group-title="Anna",MULTI SPORTS 6
+http://rv.therevenge.co:80/Anna/Anna123456/78360
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="|FR| FOOT+ 24 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalsat_fr_foot_plus.png" group-title="Anna",FOOT+ 24 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78359
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_infosport_plus.png" group-title="Anna",INFOSPORT+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78358
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="https://i5.satexpat.com/cha/fr/equidia-90x39.gif" group-title="Anna",EQUIDIA LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78357
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="|FR| GOLF+ HD" tvg-logo="https://i5.satexpat.com/cha/fr/golfPlus-95x27.png" group-title="Anna",GOLF+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78356
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MOTORSPORT TV HD" tvg-logo="" group-title="Anna",MOTORSPORT TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78355
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="|FR| AUTO MOTO HD" tvg-logo="https://i5.satexpat.com/cha/fr/automoto-95x19.png" group-title="Anna",AUTO MOTO HD
+http://rv.therevenge.co:80/Anna/Anna123456/78354
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |FR| DECOUVERTE HD ---------------" tvg-logo="" group-title="FRANCE DOCUMENTAIRE",--------------- |FR| DECOUVERTE HD ---------------
+http://rv.therevenge.co:80/Anna/Anna123456/78352
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TOUTE L HISTOIR" tvg-logo="https://i5.satexpat.com/cha/fr/toute-l-histoire-95x41.png" group-title="Anna",TOUTE L HISTOIR
+http://rv.therevenge.co:80/Anna/Anna123456/78351
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ HD" tvg-logo="https://i5.satexpat.com/cha/fr/planetePlus-91x55.png" group-title="Anna",PLANETE+ HD
+http://rv.therevenge.co:80/Anna/Anna123456/78350
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANET A&E HD" tvg-logo="https://i5.satexpat.com/cha/fr/planetPlusAandE-95x40.png" group-title="Anna",PLANET A&E HD
+http://rv.therevenge.co:80/Anna/Anna123456/78349
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ CI HD" tvg-logo="https://i5.satexpat.com/cha/fr/planetPlusCI-95x40.png" group-title="Anna",PLANETE+ CI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78348
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY HD" tvg-logo="https://iconape.com/wp-content/files/dy/285237/png/discovery-channel-2019-logo.png" group-title="Anna",DISCOVERY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78347
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY SCIENCE HD" tvg-logo="https://iconape.com/wp-content/files/yc/301701/png/301701.png" group-title="Anna",DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78346
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY FAMILY HD" tvg-logo="https://iconape.com/wp-content/files/tb/285240/png/285240.png" group-title="Anna",DISCOVERY FAMILY HD
+http://rv.therevenge.co:80/Anna/Anna123456/78345
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/langfr-240px-Investigation_Discovery_Logo_2018.svg.png" group-title="Anna",DISCOVERY ID HD
+http://rv.therevenge.co:80/Anna/Anna123456/78344
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/langfr-240px-Investigation_Discovery_Logo_2018.svg.png" group-title="Anna",DISCOVERY INVESTIGATION HD
+http://rv.therevenge.co:80/Anna/Anna123456/78343
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NGC HD" tvg-logo="https://i5.satexpat.com/cha/be/nat-geo-95x25.png" group-title="Anna",NGC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78342
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NGC WILD HD" tvg-logo="https://i5.satexpat.com/cha/nl/nat-geo-wild-95x34.png" group-title="Anna",NGC WILD HD
+http://rv.therevenge.co:80/Anna/Anna123456/78341
+#EXTINF:-1 tvg-id="" tvg-name="|FR| VOYAGES TV HD" tvg-logo="https://i5.satexpat.com/cha/fr/voyage-95x36.png" group-title="Anna",VOYAGES TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78340
+#EXTINF:-1 tvg-id="" tvg-name="|FR| USHUAIA HD" tvg-logo="https://i5.satexpat.com/cha/fr/ushuaia-95x18.png" group-title="Anna",USHUAIA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78339
+#EXTINF:-1 tvg-id="" tvg-name="|FR| HISTOIRE HD" tvg-logo="https://i5.satexpat.com/cha/fr/histoire-95x22.png" group-title="Anna",HISTOIRE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78338
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANIMAUX HD" tvg-logo="https://i5.satexpat.com/cha/fr/animaux-95x23.png" group-title="Anna",ANIMAUX HD
+http://rv.therevenge.co:80/Anna/Anna123456/78337
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TREK HD" tvg-logo="https://i5.satexpat.com/cha/fr/trek-95x31.png" group-title="Anna",TREK HD
+http://rv.therevenge.co:80/Anna/Anna123456/78336
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="https://i5.satexpat.com/cha/fr/chassePeche-95x44.gif" group-title="Anna",CHASSE ET PECHE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78335
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SCIENCE ET VIE HD" tvg-logo="https://i5.satexpat.com/cha/fr/scienceEtVie-55x55.png" group-title="Anna",SCIENCE ET VIE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78334
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="https://i5.satexpat.com/cha/fr/rmc_decouverte_73x30.png" group-title="Anna",RMC DECOUVERTE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78333
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SEASONS HD" tvg-logo="https://i5.satexpat.com/cha/fr/seasons-95x38.gif" group-title="Anna",SEASONS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78332
+#EXTINF:-1 tvg-id="" tvg-name="|FR| GULLI HD" tvg-logo="https://i5.satexpat.com/cha/fr/gulli_45x43.png" group-title="Anna",GULLI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78331
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TCM CINEMA HD" tvg-logo="https://i5.satexpat.com/cha/fr/tcm-cinema-95x45.png" group-title="Anna",TCM CINEMA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78330
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Crime_District_logo_2016.svg/langfr-300px-Crime_District_logo_2016.svg.png" group-title="Anna",CRIME DISTRICT HD
+http://rv.therevenge.co:80/Anna/Anna123456/78329
+#EXTINF:-1 tvg-id="" tvg-name="---------------- |FR| INFORMATION HD -----------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE HD",---------------- |FR| INFORMATION HD -----------------
+http://rv.therevenge.co:80/Anna/Anna123456/78328
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR| CNEWS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_c_news.png" group-title="Anna",CNEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78327
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm-tv-fr.png" group-title="Anna",BFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78326
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="|FR| CANAL NEWS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/canalplus_fr_c_news.png" group-title="Anna",CANAL NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78325
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="|FR| LCI HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/lci-fr.png" group-title="Anna",LCI HD
+http://rv.therevenge.co:80/Anna/Anna123456/78324
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="|FR| FRANCE INFO HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france_info_tv.png" group-title="Anna",FRANCE INFO HD
+http://rv.therevenge.co:80/Anna/Anna123456/78323
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EURONEWS (FRENCH)" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/euronews_fr.png" group-title="Anna",EURONEWS (FRENCH)
+http://rv.therevenge.co:80/Anna/Anna123456/78322
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 24 HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/france24_fr.png" group-title="Anna",FRANCE 24 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78321
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="|FR| LCP HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/lcp-assemblee-nationale-fr.png" group-title="Anna",LCP HD
+http://rv.therevenge.co:80/Anna/Anna123456/78320
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="|FR| BFM BUSINESS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm_fr_business.png" group-title="Anna",BFM BUSINESS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78319
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM PARIS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bfm-paris-fr.png" group-title="Anna",BFM PARIS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78318
+#EXTINF:-1 tvg-id="" tvg-name="|FR| I 24 NEWS HD" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.i24News.png.pagespeed.ic.r9fm1_uURB.png" group-title="Anna",I 24 NEWS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78317
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| MUSIQUE HD -----------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE HD",------------- |FR| MUSIQUE HD -----------
+http://rv.therevenge.co:80/Anna/Anna123456/78316
+#EXTINF:-1 tvg-id="M6MusicHits.fr" tvg-name="|FR| M6 MUSIC HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/m6_music_fr.png" group-title="Anna",M6 MUSIC HD
+http://rv.therevenge.co:80/Anna/Anna123456/78315
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="|FR| TRACE URBAN HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/trace_fr_urban.png" group-title="Anna",TRACE URBAN HD
+http://rv.therevenge.co:80/Anna/Anna123456/78314
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="|FR| MEZZO LIVE HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo_live_hd.png" group-title="Anna",MEZZO LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78313
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="|FR| MCM HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-france-fr.png" group-title="Anna",MCM HD
+http://rv.therevenge.co:80/Anna/Anna123456/78312
+#EXTINF:-1 tvg-id="MCMtop.fr" tvg-name="|FR| MCM TOP HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-top-fr.png" group-title="Anna",MCM TOP HD
+http://rv.therevenge.co:80/Anna/Anna123456/78311
+#EXTINF:-1 tvg-id="TeleMelody.fr" tvg-name="|FR| MELODY TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/melody_fr.png" group-title="Anna",MELODY TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78310
+#EXTINF:-1 tvg-id="" tvg-name="|FR| LFM TV HD" tvg-logo="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1481541566/oizvrr1ktpnptrrmrxia.png" group-title="Anna",LFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78309
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="|FR| NRJ HITS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/nrj-hits-fr.png" group-title="Anna",NRJ HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78308
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="|FR| RFM TV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/rfm_tv_fr.png" group-title="Anna",RFM TV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78307
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_us.png" group-title="Anna",MTV HD
+http://rv.therevenge.co:80/Anna/Anna123456/78306
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Anna",MTV LIVE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78305
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MTV HITS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_hits_us_global.png" group-title="Anna",MTV HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78304
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TVM 3 HD" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Anna",TVM 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78303
+#EXTINF:-1 tvg-id="CStarHitsFrance.fr" tvg-name="|FR| C STAR HIT" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/c-star-hits-france-fr.png" group-title="Anna",C STAR HIT
+http://rv.therevenge.co:80/Anna/Anna123456/78302
+#EXTINF:-1 tvg-id="CStarHitsFrance.fr" tvg-name="|FR| C STAR HITS HD" tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/c-star-hits-france-fr.png" group-title="Anna",C STAR HITS HD
+http://rv.therevenge.co:80/Anna/Anna123456/78301
+#EXTINF:-1 tvg-id="" tvg-name="------------- |FR| PPV HD -------------" tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="FRANCE CINEMA",------------- |FR| PPV HD -------------
+http://rv.therevenge.co:80/Anna/Anna123456/78300
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 1 HD" tvg-logo="" group-title="Anna",CANALPLAY 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78299
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 2 HD" tvg-logo="" group-title="Anna",CANALPLAY 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78298
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 3 HD" tvg-logo="" group-title="Anna",CANALPLAY 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78297
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 4 HD" tvg-logo="" group-title="Anna",CANALPLAY 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78296
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANALPLAY 5 HD" tvg-logo="" group-title="Anna",CANALPLAY 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78295
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 1 HD" tvg-logo="" group-title="Anna",ORANGE CINEMA 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78294
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 2 HD" tvg-logo="" group-title="Anna",ORANGE CINEMA 2 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78293
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 3 HD" tvg-logo="" group-title="Anna",ORANGE CINEMA 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78292
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 4 HD" tvg-logo="" group-title="Anna",ORANGE CINEMA 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78291
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA 5 HD" tvg-logo="" group-title="Anna",ORANGE CINEMA 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78290
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA AVENTURE HD" tvg-logo="" group-title="Anna",ORANGE CINEMA AVENTURE HD
+http://rv.therevenge.co:80/Anna/Anna123456/78289
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ORANGE CINEMA HD" tvg-logo="" group-title="Anna",ORANGE CINEMA HD
+http://rv.therevenge.co:80/Anna/Anna123456/78288
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 1 HD" tvg-logo="" group-title="Anna",A LA CARTE 1 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78287
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 3 HD" tvg-logo="" group-title="Anna",A LA CARTE 3 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78286
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 4 HD" tvg-logo="" group-title="Anna",A LA CARTE 4 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78285
+#EXTINF:-1 tvg-id="" tvg-name="|FR| A LA CARTE 5 HD" tvg-logo="" group-title="Anna",A LA CARTE 5 HD
+http://rv.therevenge.co:80/Anna/Anna123456/78284
 #EXTINF:-1 tvg-id="" tvg-name="TELEFOOT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SkyLogic",TELEFOOT FHD
 http://skylogic.site:8080/Line1009/c48eb829/194360
 #EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SkyLogic",TELEFOOT STADIUM 1 HD
