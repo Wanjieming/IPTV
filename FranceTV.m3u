@@ -1,5 +1,1299 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="Téléfoot HD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium0.266x150.webp" group-title="Lam Mar",Téléfoot HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/53100
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Lam Mar",Comedy Central HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/54048
+#EXTINF:-1 tvg-id="" tvg-name="===== CHAINES TNT =====" tvg-logo="http://euroiptv.myftp.biz:8000/logo/Logo_T%C3%A9l%C3%A9vision_num%C3%A9rique_terrestre.jpg" group-title="GS - GENERAL STREAMS",===== CHAINES TNT =====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2749
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHDL" tvg-logo="http://strong-livetv.com/picon/france/tf1.png" group-title="Lam Mar",TF1 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44922
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HDL" tvg-logo="http://strong-livetv.com/picon/france/tf1.png" group-title="Lam Mar",TF1 HDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38702
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://strong-livetv.com/picon/france/tf1.png" group-title="Lam Mar",TF1 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5220
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FHDL" tvg-logo="http://strong-livetv.com/picon/france/france2.png" group-title="Lam Mar",FRANCE 2 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45921
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://strong-livetv.com/picon/france/france2.png" group-title="Lam Mar",FRANCE 2 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2535
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FHDL" tvg-logo="http://strong-livetv.com/picon/france/france3.png" group-title="Lam Mar",FRANCE 3 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45922
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://strong-livetv.com/picon/france/france3.png" group-title="Lam Mar",FRANCE 3 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2536
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="IFRI CANAL+ FHDL" tvg-logo="http://strong-livetv.com/picon/france/canalplus.png" group-title="Lam Mar",CANAL+ FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45972
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="IFRI CANAL+ HDL" tvg-logo="http://strong-livetv.com/picon/france/canalplus.png" group-title="Lam Mar",CANAL+ HDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38711
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://strong-livetv.com/picon/france/canalplus.png" group-title="Lam Mar",CANAL+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2540
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FHDL" tvg-logo="http://strong-livetv.com/picon/france/france5.png" group-title="Lam Mar",FRANCE 5 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44797
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://strong-livetv.com/picon/france/france5.png" group-title="Lam Mar",FRANCE 5 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2538
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="IFRI M6 FHDL" tvg-logo="http://strong-livetv.com/picon/france/m6.png" group-title="Lam Mar",M6 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44798
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="IFRI M6 HDL" tvg-logo="http://strong-livetv.com/picon/france/m6.png" group-title="Lam Mar",M6 HDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38703
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://strong-livetv.com/picon/france/m6.png" group-title="Lam Mar",M6 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2534
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE FHDL" tvg-logo="http://strong-livetv.com/picon/france/arte.png" group-title="Lam Mar",ARTE FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44799
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE HD" tvg-logo="http://strong-livetv.com/picon/france/arte.png" group-title="Lam Mar",ARTE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2623
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FHDL" tvg-logo="http://strong-livetv.com/picon/france/c8.png" group-title="Lam Mar",C8 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44837
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 HDL" tvg-logo="http://strong-livetv.com/picon/france/c8.png" group-title="Lam Mar",C8 HDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/15377
+#EXTINF:-1 tvg-id="" tvg-name="W9 FHDL" tvg-logo="http://strong-livetv.com/picon/france/w9.png" group-title="Lam Mar",W9 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44800
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 hd" tvg-logo="http://strong-livetv.com/picon/france/w9.png" group-title="Lam Mar",W9 hd
+http://strong-livetv.com:80/lam_mar/AojwXghk3/9429
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FHDL" tvg-logo="http://strong-livetv.com/picon/france/tmc.png" group-title="Lam Mar",TMC FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44923
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://strong-livetv.com/picon/france/tmc.png" group-title="Lam Mar",TMC HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2569
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FHDL" tvg-logo="http://strong-livetv.com/picon/france/tfx.png" group-title="Lam Mar",TFX FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44924
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://strong-livetv.com/picon/france/tfx.png" group-title="Lam Mar",TFX HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2570
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FHDL" tvg-logo="http://strong-livetv.com/picon/france/nrj12.png" group-title="Lam Mar",NRJ 12 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44925
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://strong-livetv.com/picon/france/nrj12.png" group-title="Lam Mar",NRJ 12 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2573
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP/PUBLIC SENAT FHDL" tvg-logo="http://strong-livetv.com/picon/france/lcp-ps.png" group-title="Lam Mar",LCP/PUBLIC SENAT FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44926
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP/PUBLIC SENAT" tvg-logo="http://strong-livetv.com/picon/france/lcp-ps.png" group-title="Lam Mar",LCP/PUBLIC SENAT
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5221
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FHDL" tvg-logo="http://strong-livetv.com/picon/france/france4.png" group-title="Lam Mar",FRANCE 4 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/48263
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://strong-livetv.com/picon/france/france4.png" group-title="Lam Mar",FRANCE 4 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2537
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FHDL" tvg-logo="http://strong-livetv.com/picon/france/bfmtv.png" group-title="Lam Mar",BFM TV FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45925
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV HD" tvg-logo="http://strong-livetv.com/picon/france/bfmtv.png" group-title="Lam Mar",BFM TV HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/9293
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS FHDL" tvg-logo="http://strong-livetv.com/picon/france/cnews.png" group-title="Lam Mar",CNEWS FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/9295
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="Cstar FHDL" tvg-logo="http://strong-livetv.com/picon/france/cstar.png" group-title="Lam Mar",Cstar FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44841
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR HD" tvg-logo="http://strong-livetv.com/picon/france/cstar.png" group-title="Lam Mar",CSTAR HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2746
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FHDL" tvg-logo="http://strong-livetv.com/picon/france/gulli.png" group-title="Lam Mar",Gulli FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44970
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="GULLI hd" tvg-logo="http://strong-livetv.com/picon/france/gulli.png" group-title="Lam Mar",GULLI hd
+http://strong-livetv.com:80/lam_mar/AojwXghk3/9434
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="FRANCE O HD" tvg-logo="http://strong-livetv.com/picon/france/franceo.png" group-title="Lam Mar",FRANCE O HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2539
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FHDL" tvg-logo="http://strong-livetv.com/picon/france/tf1seriesfilms.png" group-title="Lam Mar",TF1 SERIES FILMS FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45348
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://strong-livetv.com/picon/france/tf1seriesfilms.png" group-title="Lam Mar",TF1 SERIES FILMS HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2575
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="L' EQUIPE 21 FHDL" tvg-logo="http://strong-livetv.com/picon/france/lequipe21.png" group-title="Lam Mar",L' EQUIPE 21 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45351
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="L' EQUIPE 21 HD" tvg-logo="http://strong-livetv.com/picon/france/lequipe21.png" group-title="Lam Mar",L' EQUIPE 21 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/9437
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FHDL" tvg-logo="http://strong-livetv.com/picon/france/6ter.png" group-title="Lam Mar",6TER FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44801
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://strong-livetv.com/picon/france/6ter.png" group-title="Lam Mar",6TER HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2568
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story FHDL" tvg-logo="http://strong-livetv.com/picon/france/rmcstory.png" group-title="Lam Mar",RMC Story FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45349
+#EXTINF:-1 tvg-id="" tvg-name="RMC Story HD" tvg-logo="http://strong-livetv.com/picon/france/rmcstory.png" group-title="Lam Mar",RMC Story HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5253
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE FHDL" tvg-logo="http://strong-livetv.com/picon/france/rmcdecouverte.png" group-title="Lam Mar",RMC DECOUVERTE FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45350
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://strong-livetv.com/picon/france/rmcdecouverte.png" group-title="Lam Mar",RMC DECOUVERTE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2590
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FHDL" tvg-logo="http://strong-livetv.com/picon/france/cherie25.png" group-title="Lam Mar",CHERIE 25 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/45352
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 HD" tvg-logo="http://strong-livetv.com/picon/france/cherie25.png" group-title="Lam Mar",CHERIE 25 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2574
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI HD" tvg-logo="http://strong-livetv.com/picon/france/lci.png" group-title="Lam Mar",LCI HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5254
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://strong-livetv.com/picon/france/franceinfo.png" group-title="Lam Mar",FRANCE INFO HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44836
+#EXTINF:-1 tvg-id="" tvg-name="IDF1" tvg-logo="" group-title="Lam Mar",IDF1
+http://strong-livetv.com:80/lam_mar/AojwXghk3/52609
+#EXTINF:-1 tvg-id="" tvg-name="==== CINEMA =====" tvg-logo="" group-title="GS - GENERAL STREAMS",==== CINEMA =====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2752
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://strong-livetv.com/picon/france/parispremiere.png" group-title="Lam Mar",PARIS PREMIERE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2635
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA HD" tvg-logo="http://strong-livetv.com/picon/france/teva.png" group-title="Lam Mar",TEVA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2566
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1 HD" tvg-logo="http://strong-livetv.com/picon/france/ab1.png" group-title="Lam Mar",AB1 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2564
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL 9 HD" tvg-logo="http://strong-livetv.com/picon/france/rtl9.png" group-title="Lam Mar",RTL 9 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2560
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB3 HD" tvg-logo="http://strong-livetv.com/picon/belgium/ab3.png" group-title="Lam Mar",AB3 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/12635
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://strong-livetv.com/picon/france/tvbreizh.png" group-title="Lam Mar",TV BREIZH HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2563
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://strong-livetv.com/picon/france/serieclub.png" group-title="Lam Mar",SERIE CLUB HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5134
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION HD" tvg-logo="http://strong-livetv.com/picon/france/action.png" group-title="Lam Mar",ACTION HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2559
+#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="13EME RUE HD" tvg-logo="http://strong-livetv.com/picon/france/13emerue.png" group-title="Lam Mar",13EME RUE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2561
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY HD" tvg-logo="http://strong-livetv.com/picon/france/syfy.png" group-title="Lam Mar",SYFY HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2565
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://strong-livetv.com/picon/france/paramountchannel.png" group-title="Lam Mar",PARAMOUNT CHANNEL HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2555
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="PARAMOUNT CHANNEL DECALE HD" tvg-logo="http://strong-livetv.com/picon/france/paramountchanneldecale.png" group-title="Lam Mar",PARAMOUNT CHANNEL DECALE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/13836
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="http://strong-livetv.com/picon/france/alticestudio.png" group-title="Lam Mar",ALTICE STUDIO HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/13659
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://strong-livetv.com/picon/france/tcmcinema.png" group-title="Lam Mar",TCM CINEMA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5133
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="IFRI CINE+ PREMIER HD" tvg-logo="http://strong-livetv.com/picon/france/cinepluspremier.png" group-title="FR - CINEMA",IFRI CINE+ PREMIER HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38716
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="http://strong-livetv.com/picon/france/cineplusfrisson.png" group-title="Lam Mar",CINE+ FRISSON HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2547
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="CINE+ FAMIZ HD" tvg-logo="http://strong-livetv.com/picon/france/cineplusfamiz.png" group-title="Lam Mar",CINE+ FAMIZ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2548
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="http://strong-livetv.com/picon/france/cineplusemotion.png" group-title="Lam Mar",CINE+ EMOTION HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2550
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="CINE+ CLASSIC HD" tvg-logo="http://strong-livetv.com/picon/france/cineplusclassic.png" group-title="Lam Mar",CINE+ CLASSIC HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2551
+#EXTINF:-1 tvg-id="CinecinemaClub.fr" tvg-name="CINE+ CLUB HD" tvg-logo="http://strong-livetv.com/picon/france/cineplusclub.png" group-title="Lam Mar",CINE+ CLUB HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/46482
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="OCS MAX HD" tvg-logo="http://strong-livetv.com/picon/france/ocsmax.png" group-title="Lam Mar",OCS MAX HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2552
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="OCS GEANTS HD" tvg-logo="http://strong-livetv.com/picon/france/ocsgeant.png" group-title="Lam Mar",OCS GEANTS HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/13827
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="OCS CITY HD" tvg-logo="http://strong-livetv.com/picon/france/ocscity.png" group-title="Lam Mar",OCS CITY HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/13828
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://strong-livetv.com/picon/france/ocschoc.png" group-title="Lam Mar",OCS CHOC HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/13829
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="IFRI CANAL+ CINEMA HD" tvg-logo="http://strong-livetv.com/picon/france/canalpluscinema.png" group-title="FR - CINEMA",IFRI CANAL+ CINEMA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38712
+#EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="FRI CANAL+ FAMILY HD" tvg-logo="http://strong-livetv.com/picon/france/canalplusfamily.png" group-title="FR - CINEMA",FRI CANAL+ FAMILY HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38714
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="http://strong-livetv.com/picon/france/canalplusseries.png" group-title="Lam Mar",CANAL+ SERIES HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/12640
+#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://strong-livetv.com/picon/france/canalplusdecale.png" group-title="Lam Mar",CANAL+ DECALE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/12642
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="WARNER TV HD" tvg-logo="http://strong-livetv.com/picon/france/warnertv.png" group-title="Lam Mar",WARNER TV HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/16086
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="POLAR+ HD" tvg-logo="http://strong-livetv.com/picon/france/polarplus.png" group-title="Lam Mar",POLAR+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/14975
+#EXTINF:-1 tvg-id="Comedie.fr" tvg-name="COMEDIE+ HD" tvg-logo="http://strong-livetv.com/picon/france/comedieplus.png" group-title="Lam Mar",COMEDIE+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2577
+#EXTINF:-1 tvg-id="" tvg-name="===== DECOUVERTE =====" tvg-logo="" group-title="GS - GENERAL STREAMS",===== DECOUVERTE =====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2750
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK HD" tvg-logo="http://strong-livetv.com/picon/france/trek.png" group-title="Lam Mar",TREK HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5869
+#EXTINF:-1 tvg-id="Eentertainment.fr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://strong-livetv.com/picon/france/e.png" group-title="Lam Mar",E! ENTERTAINMENT HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5138
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="VOYAGE" tvg-logo="http://strong-livetv.com/picon/france/voyage.png" group-title="Lam Mar",VOYAGE
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5131
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="TOUTE L'HISTOIRE HD" tvg-logo="http://strong-livetv.com/picon/france/toutelhistoire.png" group-title="Lam Mar",TOUTE L'HISTOIRE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2591
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="CHASSE ET PECHE HD" tvg-logo="http://strong-livetv.com/picon/france/chasseandpeche.png" group-title="Lam Mar",CHASSE ET PECHE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2589
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="HISTOIRE HD" tvg-logo="http://strong-livetv.com/picon/france/histoire.png" group-title="Lam Mar",HISTOIRE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5073
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://strong-livetv.com/picon/france/animaux.png" group-title="Lam Mar",ANIMAUX HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2582
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="MY CUISINE HD" tvg-logo="http://strong-livetv.com/picon/france/mycuisine.png" group-title="Lam Mar",MY CUISINE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/14450
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET HD" tvg-logo="http://strong-livetv.com/picon/france/bet.png" group-title="Lam Mar",BET HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/14451
+#EXTINF:-1 tvg-id="Viceland.fr" tvg-name="VICELAND" tvg-logo="http://strong-livetv.com/picon/france/viceland.png" group-title="Lam Mar",VICELAND
+http://strong-livetv.com:80/lam_mar/AojwXghk3/46485
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="DISCOVERY FRANCE HD" tvg-logo="http://strong-livetv.com/picon/france/discovery.png" group-title="Lam Mar",DISCOVERY FRANCE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2581
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://strong-livetv.com/picon/france/discoveryfamily.png" group-title="Lam Mar",DISCOVERY FAMILY HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47706
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://strong-livetv.com/picon/france/discoveryid.png" group-title="Lam Mar",DISCOVERY INVESTIGATION HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47707
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://strong-livetv.com/picon/france/discoveryscience.png" group-title="Lam Mar",DISCOVERY SCIENCE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47708
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://strong-livetv.com/picon/france/discovery.png" group-title="Lam Mar",DISCOVERY CHANNEL HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47711
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="National Geographic Channel HD" tvg-logo="http://strong-livetv.com/picon/france/nationalgeo.png" group-title="Lam Mar",National Geographic Channel HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2579
+#EXTINF:-1 tvg-id="NatGeoWildHD.fr" tvg-name="National Geographic Wild HD" tvg-logo="http://strong-livetv.com/picon/france/natgeowild.png" group-title="Lam Mar",National Geographic Wild HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2580
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="USHUAIA TV HD" tvg-logo="http://strong-livetv.com/picon/france/ushuaiatv.png" group-title="Lam Mar",USHUAIA TV HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2578
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="SEASONS HD " tvg-logo="http://strong-livetv.com/picon/france/seasons.png" group-title="Lam Mar",SEASONS HD 
+http://strong-livetv.com:80/lam_mar/AojwXghk3/38701
+#EXTINF:-1 tvg-id="ScienceVie.fr" tvg-name="SCIENCE ET VIE TV" tvg-logo="http://strong-livetv.com/picon/france/scienceetvie.png" group-title="Lam Mar",SCIENCE ET VIE TV
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2588
+#EXTINF:-1 tvg-id="" tvg-name="lucky jack tv" tvg-logo="http://strong-livetv.com/picon/france/luckyjack.png" group-title="Lam Mar",lucky jack tv
+http://strong-livetv.com:80/lam_mar/AojwXghk3/46272
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="ABXplore HD" tvg-logo="http://strong-livetv.com/picon/belgium/abxplore.png" group-title="Lam Mar",ABXplore HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/22298
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://strong-livetv.com/picon/france/crimedistrict.png" group-title="Lam Mar",CRIME DISTRICT HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/8783
+#EXTINF:-1 tvg-id="PLANETE.fr" tvg-name="PLANETE+ HD" tvg-logo="http://strong-livetv.com/picon/france/planeteplus.png" group-title="Lam Mar",PLANETE+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2584
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CI HD" tvg-logo="http://strong-livetv.com/picon/france/planeteplusci.png" group-title="Lam Mar",PLANETE+ CI HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47705
+#EXTINF:-1 tvg-id="PLANETEnoLIMIT.fr" tvg-name="PLANETE+ AE HD" tvg-logo="http://strong-livetv.com/picon/france/planeteplusaande.png" group-title="Lam Mar",PLANETE+ AE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2585
+#EXTINF:-1 tvg-id="" tvg-name="===== INFOS=====" tvg-logo="" group-title="GS - GENERAL STREAMS",===== INFOS=====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2755
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD" tvg-logo="http://strong-livetv.com/picon/france/euronews.png" group-title="Lam Mar",EURONEWS HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2626
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="http://strong-livetv.com/picon/france/tv5mondefrancebelgiquesuisse.png" group-title="Lam Mar",TV5 MONDE
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2625
+#EXTINF:-1 tvg-id="" tvg-name="LCP 100%" tvg-logo="http://strong-livetv.com/picon/france/lcp100pour100.png" group-title="Lam Mar",LCP 100%
+http://strong-livetv.com:80/lam_mar/AojwXghk3/6363
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD" tvg-logo="http://strong-livetv.com/picon/france/i24news.png" group-title="Lam Mar",I24 NEWS HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5114
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS" tvg-logo="http://strong-livetv.com/picon/france/bfmparis.png" group-title="Lam Mar",BFM PARIS
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5995
+#EXTINF:-1 tvg-id="" tvg-name="BFM BUSINESS" tvg-logo="http://strong-livetv.com/picon/france/bfmbusiness.png" group-title="Lam Mar",BFM BUSINESS
+http://strong-livetv.com:80/lam_mar/AojwXghk3/22007
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="http://strong-livetv.com/picon/france/france24.png" group-title="Lam Mar",FRANCE 24 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/44835
+#EXTINF:-1 tvg-id="" tvg-name="Public Senat 24h/24" tvg-logo="http://strong-livetv.com/picon/france/publicsenat.png" group-title="Lam Mar",Public Senat 24h/24
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47712
+#EXTINF:-1 tvg-id="" tvg-name="=====ENFANTS=====" tvg-logo="" group-title="GS - GENERAL STREAMS",=====ENFANTS=====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2751
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J HD" tvg-logo="http://strong-livetv.com/picon/france/canalj.png" group-title="Lam Mar",CANAL J HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/7512
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J-ONE HD" tvg-logo="http://strong-livetv.com/picon/france/jone.png" group-title="Lam Mar",J-ONE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/7687
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="TIJI HD" tvg-logo="http://strong-livetv.com/picon/france/tiji.png" group-title="Lam Mar",TIJI HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5132
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="PIWI+ HD" tvg-logo="http://strong-livetv.com/picon/france/piwiplus.png" group-title="Lam Mar",PIWI+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2616
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE HD" tvg-logo="http://strong-livetv.com/picon/france/gameone.png" group-title="Lam Mar",GAME ONE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2583
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://strong-livetv.com/picon/france/mangas.png" group-title="Lam Mar",MANGAS HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2614
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://strong-livetv.com/picon/france/cartoonnetwork.png" group-title="Lam Mar",CARTOON NETWORK
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2610
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="http://strong-livetv.net/picon/boomerang.png" group-title="Lam Mar",BOOMERANG HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2613
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="BOING HD" tvg-logo="http://strong-livetv.com/picon/france/boing.png" group-title="Lam Mar",BOING HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2617
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="TOONAMI" tvg-logo="http://strong-livetv.com/picon/france/toonami.png" group-title="Lam Mar",TOONAMI
+http://strong-livetv.com:80/lam_mar/AojwXghk3/12624
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="TELETOON + HD" tvg-logo="http://strong-livetv.com/picon/france/teletoonplus.png" group-title="Lam Mar",TELETOON + HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2619
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON HD" tvg-logo="http://strong-livetv.com/picon/france/nickelodeon.png" group-title="Lam Mar",NICKELODEON HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/25619
+#EXTINF:-1 tvg-id="Nick4teens.fr" tvg-name="NICKELODEON TEEN HD" tvg-logo="http://strong-livetv.com/picon/france/nickelodeonteen.png" group-title="Lam Mar",NICKELODEON TEEN HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/25620
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="http://strong-livetv.com/picon/france/NickelodeonJunior.png" group-title="Lam Mar",NICKELODEON JUNIOR HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/25622
+#EXTINF:-1 tvg-id="" tvg-name="IFRI DISNEY XD HD" tvg-logo="http://strong-livetv.com/picon/france/disneyxd.png" group-title="FR - JEUNESSE",IFRI DISNEY XD HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/48107
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://strong-livetv.com/picon/france/disneyjunior.png" group-title="Lam Mar",DISNEY JUNIOR HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2608
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="DISNEY+ HD" tvg-logo="http://strong-livetv.com/picon/france/disneyplus.png" group-title="Lam Mar",DISNEY+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2606
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://strong-livetv.com/picon/france/disneychannel.png" group-title="Lam Mar",DISNEY CHANNEL HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/25627
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="GONG HD" tvg-logo="http://strong-livetv.com/picon/france/gong.png" group-title="Lam Mar",GONG HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/14128
+#EXTINF:-1 tvg-id="" tvg-name="GONG MAX HD" tvg-logo="http://strong-livetv.com/picon/france/gongmax.png" group-title="Lam Mar",GONG MAX HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21706
+#EXTINF:-1 tvg-id="" tvg-name="south park tv" tvg-logo="http://strong-livetv.com/picon/france/south-park.png" group-title="Lam Mar",south park tv
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47122
+#EXTINF:-1 tvg-id="" tvg-name="===== France Sport =====" tvg-logo="http://127.0.0.1/sport.png" group-title="GS - GENERAL STREAMS",===== France Sport =====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47676
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Auto Moto La Chaine HD" tvg-logo="http://strong-livetv.com/picon/france/automotolachaine.png" group-title="Lam Mar",Auto Moto La Chaine HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5863
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="Golf Channel HD" tvg-logo="http://strong-livetv.com/picon/france/golfchannel.png" group-title="Lam Mar",Golf Channel HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47681
+#EXTINF:-1 tvg-id="Golfplus.fr" tvg-name="GOLF+ HD" tvg-logo="http://strong-livetv.com/picon/france/golfplus.png" group-title="Lam Mar",GOLF+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/14376
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 FHDL" tvg-logo="http://strong-livetv.com/picon/france/eurosport1.png" group-title="Lam Mar",EUROSPORT 1 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/48419
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://strong-livetv.com/picon/france/eurosport1.png" group-title="Lam Mar",EUROSPORT 1 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47702
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 FHDL" tvg-logo="http://strong-livetv.com/picon/france/eurosport2.png" group-title="Lam Mar",EUROSPORT 2 FHDL
+http://strong-livetv.com:80/lam_mar/AojwXghk3/48420
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://strong-livetv.com/picon/france/eurosport2.png" group-title="Lam Mar",EUROSPORT 2 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47703
+#EXTINF:-1 tvg-id="Infosport.fr" tvg-name="INFOSPORT+ HD" tvg-logo="http://strong-livetv.com/picon/france/infosport.png" group-title="Lam Mar",INFOSPORT+ HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2595
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News HD" tvg-logo="http://strong-livetv.com/picon/france/rmcsportnews.png" group-title="Lam Mar",RMC Sport News HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21770
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2 FHD" tvg-logo="http://strong-livetv.com/picon/france/rmcsport2.png" group-title="Lam Mar",RMC Sport 2 FHD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/51533
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="IFRI RMC SPORT 3 FHD" tvg-logo="http://strong-livetv.com/picon/france/rmcsport3.png" group-title="Lam Mar",RMC SPORT 3 FHD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/51534
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="IFRI RMC SPORT 3 HD" tvg-logo="http://strong-livetv.com/picon/france/rmcsport3.png" group-title="Lam Mar",RMC SPORT 3 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/39030
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="IFRI RMC SPORT 4 HD" tvg-logo="http://strong-livetv.com/picon/france/rmcsport4.png" group-title="Lam Mar",RMC SPORT 4 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/39031
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC Sport Live 5 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 5 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47687
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="RMC Sport Live 6 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 6 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47688
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 7 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 7 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47691
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="RMC Sport Live 8 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 8 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47692
+#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="RMC Sport Live 9 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 9 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47693
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 10 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 10 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47694
+#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="RMC Sport Live 11 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 11 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47695
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC Sport Live 12 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 12 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47696
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC Sport Live 13 HD" tvg-logo="" group-title="Lam Mar",RMC Sport Live 13 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47697
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FOOT+ 24/24 HD" tvg-logo="http://strong-livetv.net/picon/footplus2424.png" group-title="Lam Mar",FOOT+ 24/24 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2596
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="IFRI BEIN SPORTS 1 FHD" tvg-logo="http://strong-livetv.com/picon/france/beinsports1.png" group-title="Lam Mar",BEIN SPORTS 1 FHD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/39032
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://strong-livetv.net/picon/beinsports1.png" group-title="Lam Mar",BEIN SPORTS 1 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2763
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="IFRI BEIN SPORTS 2 FHD" tvg-logo="http://strong-livetv.com/picon/france/beinsports2.png" group-title="Lam Mar",BEIN SPORTS 2 FHD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/39033
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://strong-livetv.net/picon/beinsports2.png" group-title="Lam Mar",BEIN SPORTS 2 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2764
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="IFRI BEIN SPORTS 3 FHD" tvg-logo="http://strong-livetv.com/picon/france/beinsports3.png" group-title="Lam Mar",BEIN SPORTS 3 FHD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/39034
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://strong-livetv.net/picon/beinsports3.png" group-title="Lam Mar",BEIN SPORTS 3 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2765
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://strong-livetv.net/picon/beinsportsmax4.png" group-title="Lam Mar",BEIN SPORTS MAX 4
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47671
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://strong-livetv.net/picon/beinsportsmax5.png" group-title="Lam Mar",BEIN SPORTS MAX 5
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47672
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://strong-livetv.net/picon/beinsportsmax6.png" group-title="Lam Mar",BEIN SPORTS MAX 6
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47673
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://strong-livetv.net/picon/beinsportsmax7.png" group-title="Lam Mar",BEIN SPORTS MAX 7
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47674
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://strong-livetv.net/picon/beinsportsmax8.png" group-title="Lam Mar",BEIN SPORTS MAX 8
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47675
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://strong-livetv.net/picon/beinsportsmax9.png" group-title="Lam Mar",BEIN SPORTS MAX 9
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47689
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://strong-livetv.net/picon/beinsportsmax10.png" group-title="Lam Mar",BEIN SPORTS MAX 10
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47690
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="EQUIDIA L" tvg-logo="http://strong-livetv.com/picon/france/equidia.png" group-title="Lam Mar",EQUIDIA L
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5080
+#EXTINF:-1 tvg-id="EquidiaLive.fr" tvg-name="EQUIDIA" tvg-logo="http://strong-livetv.com/picon/france/equidia.png" group-title="Lam Mar",EQUIDIA
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47699
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://strong-livetv.com/picon/france/canalplussport.png" group-title="Lam Mar",CANAL+ SPORT HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47704
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT HD²" tvg-logo="http://strong-livetv.com/picon/france/canalplussport.png" group-title="Lam Mar",CANAL+ SPORT HD²
+http://strong-livetv.com:80/lam_mar/AojwXghk3/49498
+#EXTINF:-1 tvg-id="" tvg-name="OL TV L" tvg-logo="http://strong-livetv.com/picon/france/oltv.png" group-title="Lam Mar",OL TV L
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21769
+#EXTINF:-1 tvg-id="" tvg-name="SPORT EN FRANCE HD" tvg-logo="https://www.sportenfrance.com/wp-content/uploads/2019/05/SEF.png" group-title="Lam Mar",SPORT EN FRANCE HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/46483
+#EXTINF:-1 tvg-id="ELLEGirl.fr" tvg-name="ES1 HD" tvg-logo="http://strong-livetv.com/picon/france/es1.png" group-title="Lam Mar",ES1 HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/16085
+#EXTINF:-1 tvg-id="" tvg-name="=====MUSIK=====" tvg-logo="" group-title="GS - GENERAL STREAMS",=====MUSIK=====
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2754
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="http://strong-livetv.com/picon/france/mtvhits.png" group-title="Lam Mar",MTV HITS
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21707
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="M6 MUSIC" tvg-logo="http://strong-livetv.com/picon/france/m6music.png" group-title="Lam Mar",M6 MUSIC
+http://strong-livetv.com:80/lam_mar/AojwXghk3/2601
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="TRACE URBAN HD" tvg-logo="http://strong-livetv.com/picon/france/traceurban.png" group-title="Lam Mar",TRACE URBAN HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/5999
+#EXTINF:-1 tvg-id="TraceSport.fr" tvg-name="TRACE CARIBBEAN (TROPICAL) HD" tvg-logo="http://strong-livetv.com/picon/france/tracetropical.png" group-title="Lam Mar",TRACE CARIBBEAN (TROPICAL) HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/6000
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="TRACE AFRICA HD" tvg-logo="http://strong-livetv.com/picon/france/traceafrica.png" group-title="Lam Mar",TRACE AFRICA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/6001
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV" tvg-logo="http://strong-livetv.com/picon/france/rfmtv.png" group-title="Lam Mar",RFM TV
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21713
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM HD" tvg-logo="http://strong-livetv.com/picon/france/mcm.png" group-title="Lam Mar",MCM HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/6005
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ HITS" tvg-logo="http://strong-livetv.com/picon/france/nrjhits.png" group-title="Lam Mar",NRJ HITS
+http://strong-livetv.com:80/lam_mar/AojwXghk3/6359
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="http://strong-livetv.com/picon/france/mezzo.png" group-title="Lam Mar",MEZZO
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21715
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE" tvg-logo="http://strong-livetv.com/picon/france/mezzolive.png" group-title="Lam Mar",MEZZO LIVE
+http://strong-livetv.com:80/lam_mar/AojwXghk3/21716
+#EXTINF:-1 tvg-id="" tvg-name="MELODY" tvg-logo="http://strong-livetv.com/picon/france/melody.png" group-title="Lam Mar",MELODY
+http://strong-livetv.com:80/lam_mar/AojwXghk3/43225
+#EXTINF:-1 tvg-id="" tvg-name="TRACE VANILLA HD" tvg-logo="http://strong-livetv.com/picon/france/tracevanilla.png" group-title="Lam Mar",TRACE VANILLA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/48313
+#EXTINF:-1 tvg-id="" tvg-name="TRACE BRAZUKA HD" tvg-logo="http://strong-livetv.com/picon/france/tracebrazuca.png" group-title="Lam Mar",TRACE BRAZUKA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47811
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRIKORA HD" tvg-logo="http://strong-livetv.com/picon/france/traceafrikora.png" group-title="Lam Mar",TRACE AFRIKORA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47810
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA HD" tvg-logo="http://strong-livetv.com/picon/france/tracetoca.png" group-title="Lam Mar",TRACE TOCA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47809
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AYITI HD" tvg-logo="http://strong-livetv.com/picon/france/traceayiti.png" group-title="Lam Mar",TRACE AYITI HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47808
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA HD" tvg-logo="http://strong-livetv.com/picon/france/tracenaija.png" group-title="Lam Mar",TRACE NAIJA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47807
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MIZKI HD" tvg-logo="http://strong-livetv.com/picon/france/tracemziki.png" group-title="Lam Mar",TRACE MIZKI HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47806
+#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL HD" tvg-logo="http://strong-livetv.com/picon/france/tracegospel.png" group-title="Lam Mar",TRACE GOSPEL HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47805
+#EXTINF:-1 tvg-id="" tvg-name="TRACE KITOKO HD" tvg-logo="http://strong-livetv.com/picon/france/tracekitoko.png" group-title="Lam Mar",TRACE KITOKO HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47804
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINA HD" tvg-logo="http://strong-livetv.com/picon/france/tracelatina.png" group-title="Lam Mar",TRACE LATINA HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/47803
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV HD" tvg-logo="http://strong-livetv.com/picon/france/mtv.png" group-title="Lam Mar",MTV HD
+http://strong-livetv.com:80/lam_mar/AojwXghk3/12625
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",13EME RUE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92155
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",6TER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92154
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",ACTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92170
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",ALTICE STUDIO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92288
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",ANIMAUX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92174
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",ARTE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92169
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",AUTOMOTO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92243
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT 1 FR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92221
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT 2 FR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92222
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT 3 FR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92223
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-10" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-10
+http://mains.vip:2086/craigg/1Lurn7m3F1/92230
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-4
+http://mains.vip:2086/craigg/1Lurn7m3F1/92224
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-5" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-5
+http://mains.vip:2086/craigg/1Lurn7m3F1/92225
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-6
+http://mains.vip:2086/craigg/1Lurn7m3F1/92226
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-7" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-7
+http://mains.vip:2086/craigg/1Lurn7m3F1/92227
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-8
+http://mains.vip:2086/craigg/1Lurn7m3F1/92228
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEINSPORT-MAX-9
+http://mains.vip:2086/craigg/1Lurn7m3F1/92229
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEL AB1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92245
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BEL AB3
+http://mains.vip:2086/craigg/1Lurn7m3F1/92246
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BET
+http://mains.vip:2086/craigg/1Lurn7m3F1/92274
+#EXTINF:-1 tvg-id="" tvg-name="BFM" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BFM
+http://mains.vip:2086/craigg/1Lurn7m3F1/92238
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BFM SPORT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92239
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BFM TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92237
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BOING
+http://mains.vip:2086/craigg/1Lurn7m3F1/92260
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BOOMERANG
+http://mains.vip:2086/craigg/1Lurn7m3F1/92310
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",BRAVA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92309
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",C NEWS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92308
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HITS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",C STAR HITS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92275
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",C8
+http://mains.vip:2086/craigg/1Lurn7m3F1/92307
+#EXTINF:-1 tvg-id="" tvg-name="CANAL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92205
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL  CINEMA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92206
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL  DECALE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92209
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL  FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92208
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIES" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL  SERIES
+http://mains.vip:2086/craigg/1Lurn7m3F1/92207
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL  SPORT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92212
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ALPHA JU" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL ALPHA JU
+http://mains.vip:2086/craigg/1Lurn7m3F1/92210
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CANAL J
+http://mains.vip:2086/craigg/1Lurn7m3F1/92211
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CARTOON NETWORK
+http://mains.vip:2086/craigg/1Lurn7m3F1/92257
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE&PECHE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CHASSE&PECHE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92183
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CHERIE 25
+http://mains.vip:2086/craigg/1Lurn7m3F1/92156
+#EXTINF:-1 tvg-id="" tvg-name="CINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92202
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLASSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE  CLASSIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92204
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE CLUB
+http://mains.vip:2086/craigg/1Lurn7m3F1/92203
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE EMOTION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92201
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMIZ" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE FAMIZ
+http://mains.vip:2086/craigg/1Lurn7m3F1/92200
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE FRISSON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92199
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CINE PREMIER
+http://mains.vip:2086/craigg/1Lurn7m3F1/92197
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",COMEDIE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92306
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CRIME DISTRICT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92187
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",CSTAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92305
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISCOVERY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92181
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISCOVERY FAMILY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92182
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISCOVERY INVESTIGATION
+http://mains.vip:2086/craigg/1Lurn7m3F1/92180
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISCOVERY SCIENCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92179
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISNEY CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92250
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISNEY JUNIOR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92248
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",DISNEY XD
+http://mains.vip:2086/craigg/1Lurn7m3F1/92247
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",E! ENTERTAINMENT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92157
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",EQUIDIA LIVE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92304
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",EURONEWS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92303
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",EUROSPORT 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92214
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",EUROSPORT 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92215
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",FRANCE 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92146
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",FRANCE 4
+http://mains.vip:2086/craigg/1Lurn7m3F1/92148
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",FRANCE O
+http://mains.vip:2086/craigg/1Lurn7m3F1/92150
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",GAME ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92264
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",GOLF
+http://mains.vip:2086/craigg/1Lurn7m3F1/92241
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",GOLF CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92240
+#EXTINF:-1 tvg-id="" tvg-name="GULLI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",GULLI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92300
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",HISTOIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92184
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",I24 NEWS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92152
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",INFOSPORT
+http://mains.vip:2086/craigg/1Lurn7m3F1/92213
+#EXTINF:-1 tvg-id="" tvg-name="J.ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",J.ONE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92287
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",LA CHAINE PARLEMENTAIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92286
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",LCI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92285
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",M6
+http://mains.vip:2086/craigg/1Lurn7m3F1/92273
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",M6 MUSIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92272
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",MANGAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92258
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",MCM HD
+http://mains.vip:2086/craigg/1Lurn7m3F1/92271
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",MCM TOP
+http://mains.vip:2086/craigg/1Lurn7m3F1/92270
+#EXTINF:-1 tvg-id="" tvg-name="MTV FRANCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",MTV FRANCE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92267
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",MY CUISINE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92171
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NATIONAL GEO WILD
+http://mains.vip:2086/craigg/1Lurn7m3F1/92173
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NATIONAL GEOGRAPHIC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92172
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NICKELODEON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92253
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NICKELODEON 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92254
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NICKELODEON JUN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92252
+#EXTINF:-1 tvg-id="" tvg-name="NO STOP PEOPLE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NO STOP PEOPLE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92153
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NOVELAS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92298
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NRJ12
+http://mains.vip:2086/craigg/1Lurn7m3F1/92266
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 23" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",NUMERO 23
+http://mains.vip:2086/craigg/1Lurn7m3F1/92297
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",OCS CHOC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92196
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",OCS CITY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92195
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",OCS GEANTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92193
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",OCS GEANTS
+http://mains.vip:2086/craigg/1Lurn7m3F1/92194
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",OCS MAX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92192
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",ONE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92295
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PARAMOUNT CHANNEL
+http://mains.vip:2086/craigg/1Lurn7m3F1/92191
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PARAMOUNT DECALE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92190
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PARIS PREMIERE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92145
+#EXTINF:-1 tvg-id="" tvg-name="PIWI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PIWI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92261
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PLANETE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92176
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE AE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PLANETE AE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92178
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE CI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",PLANETE CI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92177
+#EXTINF:-1 tvg-id="" tvg-name="POLAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",POLAR
+http://mains.vip:2086/craigg/1Lurn7m3F1/92293
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RFM TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92283
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RMC DECOUVERTE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92282
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RMC SPORT 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92216
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RMC SPORT 2
+http://mains.vip:2086/craigg/1Lurn7m3F1/92217
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RMC SPORT 3
+http://mains.vip:2086/craigg/1Lurn7m3F1/92218
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RMC SPORT 4
+http://mains.vip:2086/craigg/1Lurn7m3F1/92219
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RTL9
+http://mains.vip:2086/craigg/1Lurn7m3F1/92160
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RTS DEUX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92162
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",RTS UN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92161
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",SCIENCES & VIE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92175
+#EXTINF:-1 tvg-id="" tvg-name="SEASON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",SEASON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92281
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",SERIE CLUB
+http://mains.vip:2086/craigg/1Lurn7m3F1/92280
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",SUNDANCE TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92168
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",SYFY
+http://mains.vip:2086/craigg/1Lurn7m3F1/92159
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TCM CINEMA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92167
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TELETOON
+http://mains.vip:2086/craigg/1Lurn7m3F1/92256
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TF1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92143
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TFX
+http://mains.vip:2086/craigg/1Lurn7m3F1/92166
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TIJI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92262
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TMC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92164
+#EXTINF:-1 tvg-id="" tvg-name="TMC 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TMC 1
+http://mains.vip:2086/craigg/1Lurn7m3F1/92165
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TOONAMI
+http://mains.vip:2086/craigg/1Lurn7m3F1/92263
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L'HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TOUTE L'HISTOIRE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92185
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TRACE AFRICA
+http://mains.vip:2086/craigg/1Lurn7m3F1/92279
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TRACE URBAN
+http://mains.vip:2086/craigg/1Lurn7m3F1/92276
+#EXTINF:-1 tvg-id="" tvg-name="TREK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TREK
+http://mains.vip:2086/craigg/1Lurn7m3F1/92163
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TV BREIZH
+http://mains.vip:2086/craigg/1Lurn7m3F1/92291
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MONT BLANC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",TV8 MONT BLANC
+http://mains.vip:2086/craigg/1Lurn7m3F1/92292
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",USHUAIA TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92284
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",VOYAGE
+http://mains.vip:2086/craigg/1Lurn7m3F1/92186
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",W9
+http://mains.vip:2086/craigg/1Lurn7m3F1/92158
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",WARNER TV
+http://mains.vip:2086/craigg/1Lurn7m3F1/92290
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="CRAIGG",WEO
+http://mains.vip:2086/craigg/1Lurn7m3F1/92289#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+" tvg-logo="" group-title="Raffy",CSAT- CANAL+
+http://mahs.work:80/raffy/7HEDkNRqAh/50117
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+ CINEMA" tvg-logo="" group-title="Raffy",CSAT- CANAL+ CINEMA
+http://mahs.work:80/raffy/7HEDkNRqAh/50118
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+ DECALE" tvg-logo="" group-title="Raffy",CSAT- CANAL+ DECALE
+http://mahs.work:80/raffy/7HEDkNRqAh/50119
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+ FAMILY" tvg-logo="" group-title="Raffy",CSAT- CANAL+ FAMILY
+http://mahs.work:80/raffy/7HEDkNRqAh/50120
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+ SERIES" tvg-logo="" group-title="Raffy",CSAT- CANAL+ SERIES
+http://mahs.work:80/raffy/7HEDkNRqAh/50121
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL+ SPORT" tvg-logo="" group-title="Raffy",CSAT- CANAL+ SPORT
+http://mahs.work:80/raffy/7HEDkNRqAh/50122
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+ CLASSIC" tvg-logo="" group-title="Raffy",CSAT- CINE+ CLASSIC
+http://mahs.work:80/raffy/7HEDkNRqAh/50123
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+ FAMIZ" tvg-logo="" group-title="Raffy",CSAT- CINE+ FAMIZ
+http://mahs.work:80/raffy/7HEDkNRqAh/50124
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+ FRISSON" tvg-logo="" group-title="Raffy",CSAT- CINE+ FRISSON
+http://mahs.work:80/raffy/7HEDkNRqAh/50125
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OCS CITY" tvg-logo="" group-title="Raffy",CSAT- OCS CITY
+http://mahs.work:80/raffy/7HEDkNRqAh/50126
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OCS MAX" tvg-logo="" group-title="Raffy",CSAT- OCS MAX
+http://mahs.work:80/raffy/7HEDkNRqAh/50127
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CSTAR HITS FRANCE" tvg-logo="" group-title="Raffy",CSAT- CSTAR HITS FRANCE
+http://mahs.work:80/raffy/7HEDkNRqAh/50128
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- DISNEY CHANNEL+1" tvg-logo="" group-title="Raffy",CSAT- DISNEY CHANNEL+1
+http://mahs.work:80/raffy/7HEDkNRqAh/50129
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- EUROSPORT 2" tvg-logo="" group-title="Raffy",CSAT- EUROSPORT 2
+http://mahs.work:80/raffy/7HEDkNRqAh/50130
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- GAME ONE" tvg-logo="" group-title="Raffy",CSAT- GAME ONE
+http://mahs.work:80/raffy/7HEDkNRqAh/50131
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NON STOP PEOPLE" tvg-logo="" group-title="Raffy",CSAT- NON STOP PEOPLE
+http://mahs.work:80/raffy/7HEDkNRqAh/50133
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OCS CHOC" tvg-logo="" group-title="Raffy",CSAT- OCS CHOC
+http://mahs.work:80/raffy/7HEDkNRqAh/50134
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PLANETE+CI" tvg-logo="" group-title="Raffy",CSAT- PLANETE+CI
+http://mahs.work:80/raffy/7HEDkNRqAh/50135
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TELETOON+" tvg-logo="" group-title="Raffy",CSAT- TELETOON+
+http://mahs.work:80/raffy/7HEDkNRqAh/50136
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TELETOON+1" tvg-logo="" group-title="Raffy",CSAT- TELETOON+1
+http://mahs.work:80/raffy/7HEDkNRqAh/50137
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TRACE URBAN" tvg-logo="" group-title="Raffy",CSAT- TRACE URBAN
+http://mahs.work:80/raffy/7HEDkNRqAh/50138
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CARTOON NETWORK" tvg-logo="" group-title="Raffy",CSAT- CARTOON NETWORK
+http://mahs.work:80/raffy/7HEDkNRqAh/50139
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+CLUB" tvg-logo="" group-title="Raffy",CSAT- CINE+CLUB
+http://mahs.work:80/raffy/7HEDkNRqAh/50140
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- COMEDY CENTRAL" tvg-logo="" group-title="Raffy",CSAT- COMEDY CENTRAL
+http://mahs.work:80/raffy/7HEDkNRqAh/50141
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- GOLF+" tvg-logo="" group-title="Raffy",CSAT- GOLF+
+http://mahs.work:80/raffy/7HEDkNRqAh/50142
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- J ONE" tvg-logo="" group-title="Raffy",CSAT- J ONE
+http://mahs.work:80/raffy/7HEDkNRqAh/50143
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MUSEUM" tvg-logo="" group-title="Raffy",CSAT- MUSEUM
+http://mahs.work:80/raffy/7HEDkNRqAh/50144
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PLANETE+AE" tvg-logo="" group-title="Raffy",CSAT- PLANETE+AE
+http://mahs.work:80/raffy/7HEDkNRqAh/50145
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TCM CINEMA" tvg-logo="" group-title="Raffy",CSAT- TCM CINEMA
+http://mahs.work:80/raffy/7HEDkNRqAh/50146
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TOONAMI" tvg-logo="" group-title="Raffy",CSAT- TOONAMI
+http://mahs.work:80/raffy/7HEDkNRqAh/50147
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TV5 MONDE" tvg-logo="" group-title="Raffy",CSAT- TV5 MONDE
+http://mahs.work:80/raffy/7HEDkNRqAh/50148
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORTS 1" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORTS 1
+http://mahs.work:80/raffy/7HEDkNRqAh/50149
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+ EMOTION" tvg-logo="" group-title="Raffy",CSAT- CINE+ EMOTION
+http://mahs.work:80/raffy/7HEDkNRqAh/50150
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CINE+ PREMIER" tvg-logo="" group-title="Raffy",CSAT- CINE+ PREMIER
+http://mahs.work:80/raffy/7HEDkNRqAh/50151
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- EUROSPORT 1" tvg-logo="" group-title="Raffy",CSAT- EUROSPORT 1
+http://mahs.work:80/raffy/7HEDkNRqAh/50152
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- USHUAIA TV" tvg-logo="" group-title="Raffy",CSAT- USHUAIA TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50153
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BOING" tvg-logo="" group-title="Raffy",CSAT- BOING
+http://mahs.work:80/raffy/7HEDkNRqAh/50154
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BOOMERANG" tvg-logo="" group-title="Raffy",CSAT- BOOMERANG
+http://mahs.work:80/raffy/7HEDkNRqAh/50155
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- DISNEY CHANNEL" tvg-logo="" group-title="Raffy",CSAT- DISNEY CHANNEL
+http://mahs.work:80/raffy/7HEDkNRqAh/50156
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- INFOSPORT+" tvg-logo="" group-title="Raffy",CSAT- INFOSPORT+
+http://mahs.work:80/raffy/7HEDkNRqAh/50157
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- LCI" tvg-logo="" group-title="Raffy",CSAT- LCI
+http://mahs.work:80/raffy/7HEDkNRqAh/50158
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NATIONAL GEO" tvg-logo="" group-title="Raffy",CSAT- NATIONAL GEO
+http://mahs.work:80/raffy/7HEDkNRqAh/50159
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PARIS PREMIERE" tvg-logo="" group-title="Raffy",CSAT- PARIS PREMIERE
+http://mahs.work:80/raffy/7HEDkNRqAh/50160
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PLANETE+" tvg-logo="" group-title="Raffy",CSAT- PLANETE+
+http://mahs.work:80/raffy/7HEDkNRqAh/50161
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CLASSICA" tvg-logo="" group-title="Raffy",CSAT- CLASSICA
+http://mahs.work:80/raffy/7HEDkNRqAh/50162
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- EQUIDIA" tvg-logo="" group-title="Raffy",CSAT- EQUIDIA
+http://mahs.work:80/raffy/7HEDkNRqAh/50163
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- FOOT+24/24" tvg-logo="" group-title="Raffy",CSAT- FOOT+24/24
+http://mahs.work:80/raffy/7HEDkNRqAh/50164
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NOVELAS TV" tvg-logo="" group-title="Raffy",CSAT- NOVELAS TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50165
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PARAMOUNT CHANNEL" tvg-logo="" group-title="Raffy",CSAT- PARAMOUNT CHANNEL
+http://mahs.work:80/raffy/7HEDkNRqAh/50166
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RMC SPORT 2" tvg-logo="" group-title="Raffy",CSAT- RMC SPORT 2
+http://mahs.work:80/raffy/7HEDkNRqAh/50167
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- SEASONS" tvg-logo="" group-title="Raffy",CSAT- SEASONS
+http://mahs.work:80/raffy/7HEDkNRqAh/50168
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OCS GEANTS" tvg-logo="" group-title="Raffy",CSAT- OCS GEANTS
+http://mahs.work:80/raffy/7HEDkNRqAh/50169
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- VOYAGE" tvg-logo="" group-title="Raffy",CSAT- VOYAGE
+http://mahs.work:80/raffy/7HEDkNRqAh/50170
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MEZZO" tvg-logo="" group-title="Raffy",CSAT- MEZZO
+http://mahs.work:80/raffy/7HEDkNRqAh/50171
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- HISTOIRE_TV" tvg-logo="" group-title="Raffy",CSAT- HISTOIRE_TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50172
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MTV" tvg-logo="" group-title="Raffy",CSAT- MTV
+http://mahs.work:80/raffy/7HEDkNRqAh/50173
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MTV HITS" tvg-logo="" group-title="Raffy",CSAT- MTV HITS
+http://mahs.work:80/raffy/7HEDkNRqAh/50174
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NICKELODEON" tvg-logo="" group-title="Raffy",CSAT- NICKELODEON
+http://mahs.work:80/raffy/7HEDkNRqAh/50175
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OL_TV" tvg-logo="" group-title="Raffy",CSAT- OL_TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50176
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- OLYMPIA_TV" tvg-logo="" group-title="Raffy",CSAT- OLYMPIA_TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50177
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RMC SPORT 4" tvg-logo="" group-title="Raffy",CSAT- RMC SPORT 4
+http://mahs.work:80/raffy/7HEDkNRqAh/50178
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TRACE_LATINA" tvg-logo="" group-title="Raffy",CSAT- TRACE_LATINA
+http://mahs.work:80/raffy/7HEDkNRqAh/50179
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORTS 2" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORTS 2
+http://mahs.work:80/raffy/7HEDkNRqAh/50180
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORTS MAX 3" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORTS MAX 3
+http://mahs.work:80/raffy/7HEDkNRqAh/50181
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 4" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 4
+http://mahs.work:80/raffy/7HEDkNRqAh/50182
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 5" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 5
+http://mahs.work:80/raffy/7HEDkNRqAh/50183
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORTS MAX 6" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORTS MAX 6
+http://mahs.work:80/raffy/7HEDkNRqAh/50184
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- DISNEY+" tvg-logo="" group-title="Raffy",CSAT- DISNEY+
+http://mahs.work:80/raffy/7HEDkNRqAh/50185
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NICKLODEON+1" tvg-logo="" group-title="Raffy",CSAT- NICKLODEON+1
+http://mahs.work:80/raffy/7HEDkNRqAh/50188
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NRJ HITS" tvg-logo="" group-title="Raffy",CSAT- NRJ HITS
+http://mahs.work:80/raffy/7HEDkNRqAh/50189
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 10" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 10
+http://mahs.work:80/raffy/7HEDkNRqAh/50190
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 7" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 7
+http://mahs.work:80/raffy/7HEDkNRqAh/50191
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 8" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 8
+http://mahs.work:80/raffy/7HEDkNRqAh/50192
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- BEIN SPORT MAX 9" tvg-logo="" group-title="Raffy",CSAT- BEIN SPORT MAX 9
+http://mahs.work:80/raffy/7HEDkNRqAh/50193
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- GULLI" tvg-logo="" group-title="Raffy",CSAT- GULLI
+http://mahs.work:80/raffy/7HEDkNRqAh/50194
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- Meteo" tvg-logo="" group-title="Raffy",CSAT- Meteo
+http://mahs.work:80/raffy/7HEDkNRqAh/50195
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RMC STORY" tvg-logo="" group-title="Raffy",CSAT- RMC STORY
+http://mahs.work:80/raffy/7HEDkNRqAh/50196
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- DISNEY JUNIOR" tvg-logo="" group-title="Raffy",CSAT- DISNEY JUNIOR
+http://mahs.work:80/raffy/7HEDkNRqAh/50197
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- Nick Jr" tvg-logo="" group-title="Raffy",CSAT- Nick Jr
+http://mahs.work:80/raffy/7HEDkNRqAh/50198
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RMC SPORT 1" tvg-logo="" group-title="Raffy",CSAT- RMC SPORT 1
+http://mahs.work:80/raffy/7HEDkNRqAh/50199
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- ANIMAUX" tvg-logo="" group-title="Raffy",CSAT- ANIMAUX
+http://mahs.work:80/raffy/7HEDkNRqAh/50201
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CHASSE ET PECHE" tvg-logo="" group-title="Raffy",CSAT- CHASSE ET PECHE
+http://mahs.work:80/raffy/7HEDkNRqAh/50202
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MANGAS" tvg-logo="" group-title="Raffy",CSAT- MANGAS
+http://mahs.work:80/raffy/7HEDkNRqAh/50203
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RTL9" tvg-logo="" group-title="Raffy",CSAT- RTL9
+http://mahs.work:80/raffy/7HEDkNRqAh/50204
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- Science et Vie" tvg-logo="" group-title="Raffy",CSAT- Science et Vie
+http://mahs.work:80/raffy/7HEDkNRqAh/50205
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- Toute L Histoire" tvg-logo="" group-title="Raffy",CSAT- Toute L Histoire
+http://mahs.work:80/raffy/7HEDkNRqAh/50206
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TREK" tvg-logo="" group-title="Raffy",CSAT- TREK
+http://mahs.work:80/raffy/7HEDkNRqAh/50207
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MCM" tvg-logo="" group-title="Raffy",CSAT- MCM
+http://mahs.work:80/raffy/7HEDkNRqAh/50208
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- RMC SPORT 3" tvg-logo="" group-title="Raffy",CSAT- RMC SPORT 3
+http://mahs.work:80/raffy/7HEDkNRqAh/50209
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TIJI" tvg-logo="" group-title="Raffy",CSAT- TIJI
+http://mahs.work:80/raffy/7HEDkNRqAh/50210
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TV BREIZH" tvg-logo="" group-title="Raffy",CSAT- TV BREIZH
+http://mahs.work:80/raffy/7HEDkNRqAh/50211
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- CANAL J" tvg-logo="" group-title="Raffy",CSAT- CANAL J
+http://mahs.work:80/raffy/7HEDkNRqAh/50212
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- COMEDIE+" tvg-logo="" group-title="Raffy",CSAT- COMEDIE+
+http://mahs.work:80/raffy/7HEDkNRqAh/50213
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- DJAZZ" tvg-logo="" group-title="Raffy",CSAT- DJAZZ
+http://mahs.work:80/raffy/7HEDkNRqAh/50214
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- M6 MUSIC" tvg-logo="" group-title="Raffy",CSAT- M6 MUSIC
+http://mahs.work:80/raffy/7HEDkNRqAh/50215
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- MEZZO LIVE" tvg-logo="" group-title="Raffy",CSAT- MEZZO LIVE
+http://mahs.work:80/raffy/7HEDkNRqAh/50216
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NATIONAL GEOGRAPHIC  WILD" tvg-logo="" group-title="Raffy",CSAT- NATIONAL GEOGRAPHIC  WILD
+http://mahs.work:80/raffy/7HEDkNRqAh/50217
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- NICKELODEON TEEN" tvg-logo="" group-title="Raffy",CSAT- NICKELODEON TEEN
+http://mahs.work:80/raffy/7HEDkNRqAh/50218
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- PIWI+" tvg-logo="" group-title="Raffy",CSAT- PIWI+
+http://mahs.work:80/raffy/7HEDkNRqAh/50219
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- SERIE CLUB" tvg-logo="" group-title="Raffy",CSAT- SERIE CLUB
+http://mahs.work:80/raffy/7HEDkNRqAh/50220
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- WARNER TV" tvg-logo="" group-title="Raffy",CSAT- WARNER TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50221
+#EXTINF:-1 tvg-id="" tvg-name="CSAT - polar+" tvg-logo="" group-title="Raffy",CSAT - polar+
+http://mahs.work:80/raffy/7HEDkNRqAh/50222
+#EXTINF:-1 tvg-id="" tvg-name="TNT:C8" tvg-logo="" group-title="Raffy",TNT:C8
+http://mahs.work:80/raffy/7HEDkNRqAh/50223
+#EXTINF:-1 tvg-id="" tvg-name="TNT:CNEWS" tvg-logo="" group-title="Raffy",TNT:CNEWS
+http://mahs.work:80/raffy/7HEDkNRqAh/50224
+#EXTINF:-1 tvg-id="" tvg-name="TNT:Cherie_25" tvg-logo="" group-title="Raffy",TNT:Cherie_25
+http://mahs.work:80/raffy/7HEDkNRqAh/50225
+#EXTINF:-1 tvg-id="" tvg-name="TNT:franceinfo" tvg-logo="" group-title="Raffy",TNT:franceinfo
+http://mahs.work:80/raffy/7HEDkNRqAh/50226
+#EXTINF:-1 tvg-id="" tvg-name="TNT:France_o" tvg-logo="" group-title="Raffy",TNT:France_o
+http://mahs.work:80/raffy/7HEDkNRqAh/50227
+#EXTINF:-1 tvg-id="" tvg-name="TNT:France_4" tvg-logo="" group-title="Raffy",TNT:France_4
+http://mahs.work:80/raffy/7HEDkNRqAh/50228
+#EXTINF:-1 tvg-id="" tvg-name="TNT:BFM_TV" tvg-logo="" group-title="Raffy",TNT:BFM_TV
+http://mahs.work:80/raffy/7HEDkNRqAh/50229
+#EXTINF:-1 tvg-id="" tvg-name="TNT:CSTAR" tvg-logo="" group-title="Raffy",TNT:CSTAR
+http://mahs.work:80/raffy/7HEDkNRqAh/50230
+#EXTINF:-1 tvg-id="" tvg-name="TNT:Gulli" tvg-logo="" group-title="Raffy",TNT:Gulli
+http://mahs.work:80/raffy/7HEDkNRqAh/50231
+#EXTINF:-1 tvg-id="" tvg-name="TNT:Equipe_21" tvg-logo="" group-title="Raffy",TNT:Equipe_21
+http://mahs.work:80/raffy/7HEDkNRqAh/50232
+#EXTINF:-1 tvg-id="" tvg-name="TNT:RMC Decouverte" tvg-logo="" group-title="Raffy",TNT:RMC Decouverte
+http://mahs.work:80/raffy/7HEDkNRqAh/50233
+#EXTINF:-1 tvg-id="" tvg-name="TNT:TF1 Séries Films" tvg-logo="" group-title="Raffy",TNT:TF1 Séries Films
+http://mahs.work:80/raffy/7HEDkNRqAh/50234
+#EXTINF:-1 tvg-id="" tvg-name="TNT:France_2" tvg-logo="" group-title="Raffy",TNT:France_2
+http://mahs.work:80/raffy/7HEDkNRqAh/50235
+#EXTINF:-1 tvg-id="" tvg-name="TNT:NRJ12" tvg-logo="" group-title="Raffy",TNT:NRJ12
+http://mahs.work:80/raffy/7HEDkNRqAh/50236
+#EXTINF:-1 tvg-id="" tvg-name="TNT:LCP" tvg-logo="" group-title="Raffy",TNT:LCP
+http://mahs.work:80/raffy/7HEDkNRqAh/50237
+#EXTINF:-1 tvg-id="" tvg-name="TNT:TF1" tvg-logo="" group-title="Raffy",TNT:TF1
+http://mahs.work:80/raffy/7HEDkNRqAh/50238
+#EXTINF:-1 tvg-id="" tvg-name="TNT:TFX" tvg-logo="" group-title="Raffy",TNT:TFX
+http://mahs.work:80/raffy/7HEDkNRqAh/50239
+#EXTINF:-1 tvg-id="" tvg-name="TNT:6ter" tvg-logo="" group-title="Raffy",TNT:6ter
+http://mahs.work:80/raffy/7HEDkNRqAh/50240
+#EXTINF:-1 tvg-id="" tvg-name="TNT:Arte" tvg-logo="" group-title="Raffy",TNT:Arte
+http://mahs.work:80/raffy/7HEDkNRqAh/50241
+#EXTINF:-1 tvg-id="" tvg-name="TNT:France 5" tvg-logo="" group-title="Raffy",TNT:France 5
+http://mahs.work:80/raffy/7HEDkNRqAh/50242
+#EXTINF:-1 tvg-id="" tvg-name="TNT:M6" tvg-logo="" group-title="Raffy",TNT:M6
+http://mahs.work:80/raffy/7HEDkNRqAh/50243
+#EXTINF:-1 tvg-id="" tvg-name="TNT:W9" tvg-logo="" group-title="Raffy",TNT:W9
+http://mahs.work:80/raffy/7HEDkNRqAh/50244
+#EXTINF:-1 tvg-id="" tvg-name="csat - BEIN SPORTS 3" tvg-logo="" group-title="Raffy",csat - BEIN SPORTS 3
+http://mahs.work:80/raffy/7HEDkNRqAh/50245
+#EXTINF:-1 tvg-id="" tvg-name="CSAT- TMC" tvg-logo="" group-title="Raffy",CSAT- TMC
+http://mahs.work:80/raffy/7HEDkNRqAh/50246
+#EXTINF:-1 tvg-id="" tvg-name="CSAT-TEVA" tvg-logo="" group-title="Raffy",CSAT-TEVA
+http://mahs.work:80/raffy/7HEDkNRqAh/50247
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD +1" tvg-logo="" group-title="Raffy",TF1 HD +1
+http://mahs.work:80/raffy/7HEDkNRqAh/42095
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="" group-title="Raffy",TF1 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42096
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 HD" tvg-logo="" group-title="Raffy",FRANCE 2 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42097
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 HD" tvg-logo="" group-title="Raffy",FRANCE 3 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42098
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="" group-title="Raffy",M6 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42099
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 HD" tvg-logo="" group-title="Raffy",FRANCE 4 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42100
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 HD" tvg-logo="" group-title="Raffy",FRANCE 5 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42101
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O HD" tvg-logo="" group-title="Raffy",FRANCE O HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42102
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="" group-title="Raffy",W9 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42103
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE HD" tvg-logo="" group-title="Raffy",VOYAGE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42104
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV HD" tvg-logo="" group-title="Raffy",USHUAIA TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42105
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE HD" tvg-logo="" group-title="Raffy",TV5 MONDE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42106
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH HD" tvg-logo="" group-title="Raffy",TV BREIZH HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42107
+#EXTINF:-1 tvg-id="" tvg-name="TREK HD" tvg-logo="" group-title="Raffy",TREK HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42108
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TROPICAL HD" tvg-logo="" group-title="Raffy",TRACE TROPICAL HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42109
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE HD" tvg-logo="" group-title="Raffy",TOUTE L HISTOIRE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42110
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI HD" tvg-logo="" group-title="Raffy",TOONAMI HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42111
+#EXTINF:-1 tvg-id="" tvg-name="TN TV HD" tvg-logo="" group-title="Raffy",TN TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42112
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD +1" tvg-logo="" group-title="Raffy",TMC HD +1
+http://mahs.work:80/raffy/7HEDkNRqAh/42113
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD" tvg-logo="" group-title="Raffy",TMC HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42114
+#EXTINF:-1 tvg-id="" tvg-name="TIJI HD" tvg-logo="" group-title="Raffy",TIJI HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42115
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="" group-title="Raffy",TFX HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42116
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SÉRIES ET FILMS HD" tvg-logo="" group-title="Raffy",TF1 SÉRIES ET FILMS HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42117
+#EXTINF:-1 tvg-id="" tvg-name="TEVA HD" tvg-logo="" group-title="Raffy",TEVA HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42118
+#EXTINF:-1 tvg-id="" tvg-name="TELE ANTILLES HD" tvg-logo="" group-title="Raffy",TELE ANTILLES HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42119
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA HD" tvg-logo="" group-title="Raffy",TCM CINEMA HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42120
+#EXTINF:-1 tvg-id="" tvg-name="SOUVENIRS FROM EARTH HD" tvg-logo="" group-title="Raffy",SOUVENIRS FROM EARTH HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42122
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 HD" tvg-logo="" group-title="Raffy",RTL9 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42123
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="" group-title="Raffy",RMC STORY HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42124
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE HD" tvg-logo="" group-title="Raffy",RMC DECOUVERTE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42125
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV HD" tvg-logo="" group-title="Raffy",RFM TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42126
+#EXTINF:-1 tvg-id="" tvg-name="PITCHOUN HD TV" tvg-logo="" group-title="Raffy",PITCHOUN HD TV
+http://mahs.work:80/raffy/7HEDkNRqAh/42127
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="Raffy",PARIS PREMIERE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42128
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE" tvg-logo="" group-title="Raffy",PARAMOUNT DECALE
+http://mahs.work:80/raffy/7HEDkNRqAh/42129
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="Raffy",PARAMOUNT CHANNEL
+http://mahs.work:80/raffy/7HEDkNRqAh/42130
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12 HD" tvg-logo="" group-title="Raffy",NRJ12 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42133
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="" group-title="Raffy",NRJ HITS HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42134
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Raffy",NATIONAL GEOGRAPHIC
+http://mahs.work:80/raffy/7HEDkNRqAh/42135
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD" tvg-logo="" group-title="Raffy",NATIONAL GEO WILD
+http://mahs.work:80/raffy/7HEDkNRqAh/42136
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX HD" tvg-logo="" group-title="Raffy",ANIMAUX HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42137
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE & VIE TV HD" tvg-logo="" group-title="Raffy",SCIENCE & VIE TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42138
+#EXTINF:-1 tvg-id="" tvg-name="MFM TV HD" tvg-logo="" group-title="Raffy",MFM TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42139
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO HD" tvg-logo="" group-title="Raffy",MEZZO HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42140
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="Raffy",MEZZO LIVE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42141
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="Raffy",TRACE URBAN
+http://mahs.work:80/raffy/7HEDkNRqAh/42142
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE INFO HD" tvg-logo="" group-title="Raffy",FRANCE INFO HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42143
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA HD" tvg-logo="" group-title="Raffy",BRAVA HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42144
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="" group-title="Raffy",MCM HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42145
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS HD" tvg-logo="" group-title="Raffy",MANGAS HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42146
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HD" tvg-logo="" group-title="Raffy",M6 MUSIC HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42147
+#EXTINF:-1 tvg-id="" tvg-name="LUCKY JACK" tvg-logo="" group-title="Raffy",LUCKY JACK
+http://mahs.work:80/raffy/7HEDkNRqAh/42148
+#EXTINF:-1 tvg-id="" tvg-name="LCP HD" tvg-logo="" group-title="Raffy",LCP HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42149
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="Raffy",LCI HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42150
+#EXTINF:-1 tvg-id="" tvg-name="L\'EQUIPE 21 HD" tvg-logo="" group-title="Raffy",L\'EQUIPE 21 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42151
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE HD" tvg-logo="" group-title="Raffy",HISTOIRE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42152
+#EXTINF:-1 tvg-id="" tvg-name="GULLI HD" tvg-logo="" group-title="Raffy",GULLI HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42153
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="" group-title="Raffy",GOLF CHANNEL HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42154
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE HD" tvg-logo="" group-title="Raffy",GAME ONE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42155
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE + 1" tvg-logo="" group-title="Raffy",GAME ONE + 1
+http://mahs.work:80/raffy/7HEDkNRqAh/42156
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="" group-title="Raffy",EUROCHANNEL
+http://mahs.work:80/raffy/7HEDkNRqAh/42157
+#EXTINF:-1 tvg-id="" tvg-name="ES1" tvg-logo="" group-title="Raffy",ES1
+http://mahs.work:80/raffy/7HEDkNRqAh/42158
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE HD" tvg-logo="" group-title="Raffy",EQUIDIA LIVE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42159
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR HD" tvg-logo="" group-title="Raffy",CSTAR HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42160
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISCTRICT HD" tvg-logo="" group-title="Raffy",CRIME DISCTRICT HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42161
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Raffy",COMEDY CENTRAL
+http://mahs.work:80/raffy/7HEDkNRqAh/42162
+#EXTINF:-1 tvg-id="" tvg-name="CINE  PREMIER HD" tvg-logo="" group-title="Raffy",CINE  PREMIER HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42164
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FRISSON HD" tvg-logo="" group-title="Raffy",CINE  FRISSON HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42165
+#EXTINF:-1 tvg-id="" tvg-name="CINE  FAMIZ HD" tvg-logo="" group-title="Raffy",CINE  FAMIZ HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42166
+#EXTINF:-1 tvg-id="" tvg-name="CINE  EMOTION HD" tvg-logo="" group-title="Raffy",CINE  EMOTION HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42167
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLUB HD" tvg-logo="" group-title="Raffy",CINE  CLUB HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42168
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLASSIC HD" tvg-logo="" group-title="Raffy",CINE  CLASSIC HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42169
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 HD" tvg-logo="" group-title="Raffy",CHERIE 25 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42170
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE & PECHE HD" tvg-logo="" group-title="Raffy",CHASSE & PECHE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42171
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="" group-title="Raffy",CANAL J
+http://mahs.work:80/raffy/7HEDkNRqAh/42172
+#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="" group-title="Raffy",C8 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42173
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="Raffy",BOOMERANG HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42174
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG + 1" tvg-logo="" group-title="Raffy",BOOMERANG + 1
+http://mahs.work:80/raffy/7HEDkNRqAh/42175
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD" tvg-logo="" group-title="Raffy",BFM TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42176
+#EXTINF:-1 tvg-id="" tvg-name="BET HD" tvg-logo="" group-title="Raffy",BET HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42177
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 9 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 9 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42178
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 8 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 8 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42179
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 7 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 7 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42180
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 6 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 6 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42181
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 5 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 5 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42182
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 4 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 4 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42183
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 10 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS MAX 10 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42184
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS 3 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42185
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS 2 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42186
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="Raffy",BEIN SPORTS 1 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42187
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Raffy",BABY TV
+http://mahs.work:80/raffy/7HEDkNRqAh/42188
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="" group-title="Raffy",ARTE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42189
+#EXTINF:-1 tvg-id="" tvg-name="AEROSTAR TV" tvg-logo="" group-title="Raffy",AEROSTAR TV
+http://mahs.work:80/raffy/7HEDkNRqAh/42190
+#EXTINF:-1 tvg-id="" tvg-name="ACTION HD" tvg-logo="" group-title="Raffy",ACTION HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42191
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HD" tvg-logo="" group-title="Raffy",AUTOMOTO HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42193
+#EXTINF:-1 tvg-id="" tvg-name="6TER HD" tvg-logo="" group-title="Raffy",6TER HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42194
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News HD" tvg-logo="" group-title="Raffy",RMC Sport News HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42195
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="Raffy",RMC SPORT 1 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42196
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="Raffy",RMC SPORT 2 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42197
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="Raffy",RMC SPORT 3 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42198
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 HD" tvg-logo="" group-title="Raffy",RMC SPORT 4 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42199
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 5 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 5 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42200
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 6 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 6 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42201
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 7 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 7 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42202
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 8 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 8 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42203
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 9 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 9 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42204
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 10 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 10 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42205
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 11 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 11 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42206
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 12 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 12 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42207
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 14 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 14 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42208
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 13 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 13 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42209
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 15 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 15 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42210
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 16 HD" tvg-logo="" group-title="Raffy",RMC Sport Live 16 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42211
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Series HD" tvg-logo="" group-title="Raffy",Canal + Series HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42212
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Family HD" tvg-logo="" group-title="Raffy",Canal + Family HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42213
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Decalé HD" tvg-logo="" group-title="Raffy",Canal + Decalé HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42214
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Cinema HD" tvg-logo="" group-title="Raffy",Canal + Cinema HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42215
+#EXTINF:-1 tvg-id="" tvg-name="Canal + Sport HD" tvg-logo="" group-title="Raffy",Canal + Sport HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42216
+#EXTINF:-1 tvg-id="" tvg-name="Canal + HD" tvg-logo="" group-title="Raffy",Canal + HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42217
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="Raffy",E!
+http://mahs.work:80/raffy/7HEDkNRqAh/42218
+#EXTINF:-1 tvg-id="" tvg-name="Trace Mizki HD" tvg-logo="" group-title="Raffy",Trace Mizki HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42221
+#EXTINF:-1 tvg-id="" tvg-name="Trace Latina HD" tvg-logo="" group-title="Raffy",Trace Latina HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42222
+#EXTINF:-1 tvg-id="" tvg-name="Trace Ayiti HD" tvg-logo="" group-title="Raffy",Trace Ayiti HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42223
+#EXTINF:-1 tvg-id="" tvg-name="Trace Toca HD" tvg-logo="" group-title="Raffy",Trace Toca HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42224
+#EXTINF:-1 tvg-id="" tvg-name="Trace Naija HD" tvg-logo="" group-title="Raffy",Trace Naija HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42225
+#EXTINF:-1 tvg-id="" tvg-name="Trace Kitoko HD" tvg-logo="" group-title="Raffy",Trace Kitoko HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42226
+#EXTINF:-1 tvg-id="" tvg-name="Trace Gospel HD" tvg-logo="" group-title="Raffy",Trace Gospel HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42227
+#EXTINF:-1 tvg-id="" tvg-name="Trace Africa HD" tvg-logo="" group-title="Raffy",Trace Africa HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42228
+#EXTINF:-1 tvg-id="" tvg-name="Music Top HD" tvg-logo="" group-title="Raffy",Music Top HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42229
+#EXTINF:-1 tvg-id="" tvg-name="ABXPLORE HD" tvg-logo="" group-title="Raffy",ABXPLORE HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42231
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="" group-title="Raffy",AB3 HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42232
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Raffy",Cartoon Network
+http://mahs.work:80/raffy/7HEDkNRqAh/42233
+#EXTINF:-1 tvg-id="" tvg-name="Nollywood TV HD" tvg-logo="" group-title="Raffy",Nollywood TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42234
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="" group-title="Raffy",SyFy HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42235
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club HD" tvg-logo="" group-title="Raffy",Serie Club HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42240
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="" group-title="Raffy",Paramount Channel HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42241
+#EXTINF:-1 tvg-id="" tvg-name="Ocs Max HD" tvg-logo="" group-title="Raffy",Ocs Max HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42243
+#EXTINF:-1 tvg-id="" tvg-name="Ocs Geants HD" tvg-logo="" group-title="Raffy",Ocs Geants HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42244
+#EXTINF:-1 tvg-id="" tvg-name="Ocs City HD" tvg-logo="" group-title="Raffy",Ocs City HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42245
+#EXTINF:-1 tvg-id="" tvg-name="Ocs Choc HD" tvg-logo="" group-title="Raffy",Ocs Choc HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42246
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior HD" tvg-logo="" group-title="Raffy",Nickelodeon Junior HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42247
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="Raffy",Nickelodeon HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42248
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon 4Teen HD" tvg-logo="" group-title="Raffy",Nickelodeon 4Teen HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42249
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD" tvg-logo="" group-title="Raffy",MTV Hits HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42252
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="Raffy",MTV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42253
+#EXTINF:-1 tvg-id="" tvg-name="J One HD" tvg-logo="" group-title="Raffy",J One HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42255
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Raffy",Discovery Science HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42258
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="" group-title="Raffy",Discovery Investigation HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42259
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Raffy",Discovery Channel HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42261
+#EXTINF:-1 tvg-id="" tvg-name="Boing HD" tvg-logo="" group-title="Raffy",Boing HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42262
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD" tvg-logo="" group-title="Raffy",Baby TV HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42263
+#EXTINF:-1 tvg-id="" tvg-name="Altice Studio HD" tvg-logo="" group-title="Raffy",Altice Studio HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42264
+#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue HD" tvg-logo="" group-title="Raffy",13Eme Rue HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42265
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ HD " tvg-logo="" group-title="Raffy",PLANETE+ HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42266
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CI HD " tvg-logo="" group-title="Raffy",PLANETE+ CI HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42267
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ A&E HD " tvg-logo="" group-title="Raffy",PLANETE+ A&E HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42268
+#EXTINF:-1 tvg-id="" tvg-name="POLAR+ HD " tvg-logo="" group-title="Raffy",POLAR+ HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42269
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD " tvg-logo="" group-title="Raffy",EUROSPORT 1 HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42270
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD " tvg-logo="" group-title="Raffy",EUROSPORT 2 HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42271
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ HD " tvg-logo="" group-title="Raffy",GOLF+ HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42272
+#EXTINF:-1 tvg-id="" tvg-name="PIWI HD " tvg-logo="" group-title="Raffy",PIWI HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42273
+#EXTINF:-1 tvg-id="" tvg-name="SEASONS Full HD" tvg-logo="" group-title="Raffy",SEASONS Full HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42274
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+ HD " tvg-logo="" group-title="Raffy",COMEDIE+ HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42275
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD " tvg-logo="" group-title="Raffy",DISNEY JUNIOR HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42276
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="Raffy",DISNEY XD HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42277
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA HD" tvg-logo="" group-title="Raffy",DISNEY CINEMA HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42278
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON +1 Full HD" tvg-logo="" group-title="Raffy",TELETOON +1 Full HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42279
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON+ Full HD" tvg-logo="" group-title="Raffy",TELETOON+ Full HD
+http://mahs.work:80/raffy/7HEDkNRqAh/42280
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT HD " tvg-logo="" group-title="Raffy",CRIME DISTRICT HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42281
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD " tvg-logo="" group-title="Raffy",I24 NEWS HD 
+http://mahs.work:80/raffy/7HEDkNRqAh/42282
 #EXTINF:-1 tvg-id="" tvg-name="13 EME RUE FHD" tvg-logo="" group-title="Cueva",13 EME RUE FHD
 http://tvtotal.ddns.blog:8080/cueva/1R8A7WmNEH/742100
 #EXTINF:-1 tvg-id="" tvg-name="13 Rue" tvg-logo="" group-title="Cueva",13 Rue
