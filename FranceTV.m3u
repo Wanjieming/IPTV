@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 720p
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 540p
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 360p
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 270p
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/qa/beinSports1-95x53.png" group-title="dx3",BEIN SPORT 1
+http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
+#EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/qa/beinSports2-95x53.png" group-title="dx3",BEIN SPORT 2
+http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="dx3",Bein max 4
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="dx3",Bein Sport Max 5
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Téléfoot HD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium0.266x150.webp" group-title="Lam Mar",Téléfoot HD
 http://strong-livetv.com:80/lam_mar/AojwXghk3/53100
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="Lam Mar",Comedy Central HD
