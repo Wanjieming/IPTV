@@ -1,4 +1,280 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",13EME RUE
+http://mains.vip:2086/aa/aa/92155
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",6TER
+http://mains.vip:2086/aa/aa/92154
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",ACTION
+http://mains.vip:2086/aa/aa/92170
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",ALTICE STUDIO
+http://mains.vip:2086/aa/aa/92288
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",ANIMAUX
+http://mains.vip:2086/aa/aa/92174
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",ARTE
+http://mains.vip:2086/aa/aa/92169
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",AUTOMOTO
+http://mains.vip:2086/aa/aa/92243
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT 1 FR
+http://mains.vip:2086/aa/aa/92221
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT 2 FR
+http://mains.vip:2086/aa/aa/92222
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 3 FR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT 3 FR
+http://mains.vip:2086/aa/aa/92223
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-10" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-10
+http://mains.vip:2086/aa/aa/92230
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-4
+http://mains.vip:2086/aa/aa/92224
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-5" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-5
+http://mains.vip:2086/aa/aa/92225
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-6
+http://mains.vip:2086/aa/aa/92226
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-7" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-7
+http://mains.vip:2086/aa/aa/92227
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-8
+http://mains.vip:2086/aa/aa/92228
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEINSPORT-MAX-9
+http://mains.vip:2086/aa/aa/92229
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEL AB1
+http://mains.vip:2086/aa/aa/92245
+#EXTINF:-1 tvg-id="" tvg-name="BEL AB3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BEL AB3
+http://mains.vip:2086/aa/aa/92246
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BET
+http://mains.vip:2086/aa/aa/92274
+#EXTINF:-1 tvg-id="" tvg-name="BFM" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BFM
+http://mains.vip:2086/aa/aa/92238
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BFM SPORT
+http://mains.vip:2086/aa/aa/92239
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BFM TV
+http://mains.vip:2086/aa/aa/92237
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BOING
+http://mains.vip:2086/aa/aa/92260
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BOOMERANG
+http://mains.vip:2086/aa/aa/92310
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",BRAVA
+http://mains.vip:2086/aa/aa/92309
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",C NEWS
+http://mains.vip:2086/aa/aa/92308
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HITS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",C STAR HITS
+http://mains.vip:2086/aa/aa/92275
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",C8
+http://mains.vip:2086/aa/aa/92307
+#EXTINF:-1 tvg-id="" tvg-name="CANAL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL
+http://mains.vip:2086/aa/aa/92205
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL  CINEMA
+http://mains.vip:2086/aa/aa/92206
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL  DECALE
+http://mains.vip:2086/aa/aa/92209
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL  FAMILY
+http://mains.vip:2086/aa/aa/92208
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIES" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL  SERIES
+http://mains.vip:2086/aa/aa/92207
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL  SPORT
+http://mains.vip:2086/aa/aa/92212
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ALPHA JU" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL ALPHA JU
+http://mains.vip:2086/aa/aa/92210
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CANAL J
+http://mains.vip:2086/aa/aa/92211
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CARTOON NETWORK
+http://mains.vip:2086/aa/aa/92257
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE&PECHE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CHASSE&PECHE
+http://mains.vip:2086/aa/aa/92183
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CHERIE 25
+http://mains.vip:2086/aa/aa/92156
+#EXTINF:-1 tvg-id="" tvg-name="CINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE
+http://mains.vip:2086/aa/aa/92202
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLASSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE  CLASSIC
+http://mains.vip:2086/aa/aa/92204
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE CLUB
+http://mains.vip:2086/aa/aa/92203
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE EMOTION
+http://mains.vip:2086/aa/aa/92201
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMIZ" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE FAMIZ
+http://mains.vip:2086/aa/aa/92200
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE FRISSON
+http://mains.vip:2086/aa/aa/92199
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CINE PREMIER
+http://mains.vip:2086/aa/aa/92197
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",COMEDIE
+http://mains.vip:2086/aa/aa/92306
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CRIME DISTRICT
+http://mains.vip:2086/aa/aa/92187
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",CSTAR
+http://mains.vip:2086/aa/aa/92305
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISCOVERY
+http://mains.vip:2086/aa/aa/92181
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISCOVERY FAMILY
+http://mains.vip:2086/aa/aa/92182
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISCOVERY INVESTIGATION
+http://mains.vip:2086/aa/aa/92180
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISCOVERY SCIENCE
+http://mains.vip:2086/aa/aa/92179
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISNEY CHANNEL
+http://mains.vip:2086/aa/aa/92250
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISNEY JUNIOR
+http://mains.vip:2086/aa/aa/92248
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",DISNEY XD
+http://mains.vip:2086/aa/aa/92247
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",E! ENTERTAINMENT
+http://mains.vip:2086/aa/aa/92157
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",EQUIDIA LIVE
+http://mains.vip:2086/aa/aa/92304
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",EURONEWS
+http://mains.vip:2086/aa/aa/92303
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",EUROSPORT 1
+http://mains.vip:2086/aa/aa/92214
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",EUROSPORT 2
+http://mains.vip:2086/aa/aa/92215
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",FRANCE 2
+http://mains.vip:2086/aa/aa/92146
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",FRANCE 4
+http://mains.vip:2086/aa/aa/92148
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",FRANCE O
+http://mains.vip:2086/aa/aa/92150
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",GAME ONE
+http://mains.vip:2086/aa/aa/92264
+#EXTINF:-1 tvg-id="" tvg-name="GOLF" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",GOLF
+http://mains.vip:2086/aa/aa/92241
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",GOLF CHANNEL
+http://mains.vip:2086/aa/aa/92240
+#EXTINF:-1 tvg-id="" tvg-name="GULLI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",GULLI
+http://mains.vip:2086/aa/aa/92300
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",HISTOIRE
+http://mains.vip:2086/aa/aa/92184
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",I24 NEWS
+http://mains.vip:2086/aa/aa/92152
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",INFOSPORT
+http://mains.vip:2086/aa/aa/92213
+#EXTINF:-1 tvg-id="" tvg-name="J.ONE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",J.ONE
+http://mains.vip:2086/aa/aa/92287
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",LA CHAINE PARLEMENTAIRE
+http://mains.vip:2086/aa/aa/92286
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",LCI
+http://mains.vip:2086/aa/aa/92285
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",M6
+http://mains.vip:2086/aa/aa/92273
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",M6 MUSIC
+http://mains.vip:2086/aa/aa/92272
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",MANGAS
+http://mains.vip:2086/aa/aa/92258
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",MCM HD
+http://mains.vip:2086/aa/aa/92271
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",MCM TOP
+http://mains.vip:2086/aa/aa/92270
+#EXTINF:-1 tvg-id="" tvg-name="MTV FRANCE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",MTV FRANCE
+http://mains.vip:2086/aa/aa/92267
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",MY CUISINE
+http://mains.vip:2086/aa/aa/92171
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NATIONAL GEO WILD
+http://mains.vip:2086/aa/aa/92173
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NATIONAL GEOGRAPHIC
+http://mains.vip:2086/aa/aa/92172
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NICKELODEON
+http://mains.vip:2086/aa/aa/92253
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NICKELODEON 1
+http://mains.vip:2086/aa/aa/92254
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NICKELODEON JUN
+http://mains.vip:2086/aa/aa/92252
+#EXTINF:-1 tvg-id="" tvg-name="NO STOP PEOPLE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NO STOP PEOPLE
+http://mains.vip:2086/aa/aa/92153
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NOVELAS
+http://mains.vip:2086/aa/aa/92298
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NRJ12
+http://mains.vip:2086/aa/aa/92266
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 23" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",NUMERO 23
+http://mains.vip:2086/aa/aa/92297
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",OCS CHOC
+http://mains.vip:2086/aa/aa/92196
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",OCS CITY
+http://mains.vip:2086/aa/aa/92195
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",OCS GEANTS
+http://mains.vip:2086/aa/aa/92193
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",OCS GEANTS
+http://mains.vip:2086/aa/aa/92194
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",OCS MAX
+http://mains.vip:2086/aa/aa/92192
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",ONE TV
+http://mains.vip:2086/aa/aa/92295
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PARAMOUNT CHANNEL
+http://mains.vip:2086/aa/aa/92191
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PARAMOUNT DECALE
+http://mains.vip:2086/aa/aa/92190
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PARIS PREMIERE
+http://mains.vip:2086/aa/aa/92145
+#EXTINF:-1 tvg-id="" tvg-name="PIWI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PIWI
+http://mains.vip:2086/aa/aa/92261
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PLANETE
+http://mains.vip:2086/aa/aa/92176
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE AE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PLANETE AE
+http://mains.vip:2086/aa/aa/92178
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE CI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",PLANETE CI
+http://mains.vip:2086/aa/aa/92177
+#EXTINF:-1 tvg-id="" tvg-name="POLAR" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",POLAR
+http://mains.vip:2086/aa/aa/92293
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RFM TV
+http://mains.vip:2086/aa/aa/92283
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RMC DECOUVERTE
+http://mains.vip:2086/aa/aa/92282
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RMC SPORT 1
+http://mains.vip:2086/aa/aa/92216
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RMC SPORT 2
+http://mains.vip:2086/aa/aa/92217
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RMC SPORT 3
+http://mains.vip:2086/aa/aa/92218
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RMC SPORT 4
+http://mains.vip:2086/aa/aa/92219
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RTL9
+http://mains.vip:2086/aa/aa/92160
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RTS DEUX
+http://mains.vip:2086/aa/aa/92162
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",RTS UN
+http://mains.vip:2086/aa/aa/92161
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",SCIENCES & VIE
+http://mains.vip:2086/aa/aa/92175
+#EXTINF:-1 tvg-id="" tvg-name="SEASON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",SEASON
+http://mains.vip:2086/aa/aa/92281
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",SERIE CLUB
+http://mains.vip:2086/aa/aa/92280
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",SUNDANCE TV
+http://mains.vip:2086/aa/aa/92168
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",SYFY
+http://mains.vip:2086/aa/aa/92159
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TCM CINEMA
+http://mains.vip:2086/aa/aa/92167
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TELETOON
+http://mains.vip:2086/aa/aa/92256
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TF1
+http://mains.vip:2086/aa/aa/92143
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TFX
+http://mains.vip:2086/aa/aa/92166
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TIJI
+http://mains.vip:2086/aa/aa/92262
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TMC
+http://mains.vip:2086/aa/aa/92164
+#EXTINF:-1 tvg-id="" tvg-name="TMC 1" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TMC 1
+http://mains.vip:2086/aa/aa/92165
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TOONAMI
+http://mains.vip:2086/aa/aa/92263
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L'HISTOIRE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TOUTE L'HISTOIRE
+http://mains.vip:2086/aa/aa/92185
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TRACE AFRICA
+http://mains.vip:2086/aa/aa/92279
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TRACE URBAN
+http://mains.vip:2086/aa/aa/92276
+#EXTINF:-1 tvg-id="" tvg-name="TREK" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TREK
+http://mains.vip:2086/aa/aa/92163
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TV BREIZH
+http://mains.vip:2086/aa/aa/92291
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MONT BLANC" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",TV8 MONT BLANC
+http://mains.vip:2086/aa/aa/92292
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",USHUAIA TV
+http://mains.vip:2086/aa/aa/92284
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",VOYAGE
+http://mains.vip:2086/aa/aa/92186
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",W9
+http://mains.vip:2086/aa/aa/92158
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",WARNER TV
+http://mains.vip:2086/aa/aa/92290
+#EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",WEO
+http://mains.vip:2086/aa/aa/92289
 #EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 720p
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 540p
