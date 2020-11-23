@@ -1,4 +1,650 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FRANCE2 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCE2 Hd
+http://clientarea.ltd:2052/110185/110185/49559
+#EXTINF:-1 tvg-name="France 02 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France 02 FHD
+http://clientarea.ltd:2052/110185/110185/49711
+#EXTINF:-1 tvg-name="France3 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France3 Hd
+http://clientarea.ltd:2052/110185/110185/49560
+#EXTINF:-1 tvg-name="France 03 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France 03 H265
+http://clientarea.ltd:2052/110185/110185/49712
+#EXTINF:-1 tvg-name="France 04 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France 04 H265
+http://clientarea.ltd:2052/110185/110185/49713
+#EXTINF:-1 tvg-name="France0 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France0 Hd
+http://clientarea.ltd:2052/110185/110185/49561
+#EXTINF:-1 tvg-name="FRANCE5 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCE5 Hd
+http://clientarea.ltd:2052/110185/110185/49562
+#EXTINF:-1 tvg-name="FRANCE 5 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCE 5 FHD
+http://clientarea.ltd:2052/110185/110185/49714
+#EXTINF:-1 tvg-name="FRANCEOfhd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCEOfhd
+http://clientarea.ltd:2052/110185/110185/49563
+#EXTINF:-1 tvg-name="FRANCE O FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCE O FHD
+http://clientarea.ltd:2052/110185/110185/49715
+#EXTINF:-1 tvg-name="FRANCE Info Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FRANCE Info Hd
+http://clientarea.ltd:2052/110185/110185/49564
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TF1 SERIES FILMS HD
+http://clientarea.ltd:2052/110185/110185/49583
+#EXTINF:-1 tvg-name="TF1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TF1 HD
+http://clientarea.ltd:2052/110185/110185/49581
+#EXTINF:-1 tvg-name="TF1 HD 1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TF1 HD 1
+http://clientarea.ltd:2052/110185/110185/49582
+#EXTINF:-1 tvg-name="M6 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",M6 HD
+http://clientarea.ltd:2052/110185/110185/49584
+#EXTINF:-1 tvg-name="M6 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",M6 FHD
+http://clientarea.ltd:2052/110185/110185/49716
+#EXTINF:-1 tvg-name="RTL9 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",RTL9 HD
+http://clientarea.ltd:2052/110185/110185/49585
+#EXTINF:-1 tvg-name="RTL9 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",RTL9 FHD
+http://clientarea.ltd:2052/110185/110185/49719
+#EXTINF:-1 tvg-name="W9 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",W9 HD
+http://clientarea.ltd:2052/110185/110185/49587
+#EXTINF:-1 tvg-name="W9 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",W9 H265
+http://clientarea.ltd:2052/110185/110185/49717
+#EXTINF:-1 tvg-name="C8 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",C8 HD
+http://clientarea.ltd:2052/110185/110185/49593
+#EXTINF:-1 tvg-name="C8 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",C8 H265
+http://clientarea.ltd:2052/110185/110185/49725
+#EXTINF:-1 tvg-name="AB1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB1 HD
+http://clientarea.ltd:2052/110185/110185/49614
+#EXTINF:-1 tvg-name="I24 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",I24 HD
+http://clientarea.ltd:2052/110185/110185/49626
+#EXTINF:-1 tvg-name="M6 Music" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",M6 Music
+http://clientarea.ltd:2052/110185/110185/49637
+#EXTINF:-1 tvg-name="M6 Music H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",M6 Music H265
+http://clientarea.ltd:2052/110185/110185/49822
+#EXTINF:-1 tvg-name="TF1 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TF1 H265
+http://clientarea.ltd:2052/110185/110185/49709
+#EXTINF:-1 tvg-name="TEVA H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TEVA H265
+http://clientarea.ltd:2052/110185/110185/49720
+#EXTINF:-1 tvg-name="Syfy H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Syfy H265
+http://clientarea.ltd:2052/110185/110185/49722
+#EXTINF:-1 tvg-name="Action H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Action H265
+http://clientarea.ltd:2052/110185/110185/49723
+#EXTINF:-1 tvg-name="6ter FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",6ter FHD
+http://clientarea.ltd:2052/110185/110185/49724
+#EXTINF:-1 tvg-name="CANAL H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL H265
+http://clientarea.ltd:2052/110185/110185/49727
+#EXTINF:-1 tvg-name="AB1 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB1 FHD
+http://clientarea.ltd:2052/110185/110185/49744
+#EXTINF:-1 tvg-name="AB3 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB3 FHD
+http://clientarea.ltd:2052/110185/110185/49745
+#EXTINF:-1 tvg-name="MTV France FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MTV France FHD
+http://clientarea.ltd:2052/110185/110185/49747
+#EXTINF:-1 tvg-name="TMC H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TMC H265
+http://clientarea.ltd:2052/110185/110185/49759
+#EXTINF:-1 tvg-name="Weo FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Weo FHD
+http://clientarea.ltd:2052/110185/110185/49815
+#EXTINF:-1 tvg-name="E FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",E FHD
+http://clientarea.ltd:2052/110185/110185/49816
+#EXTINF:-1 tvg-name="CANAL Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL Hd
+http://clientarea.ltd:2052/110185/110185/49565
+#EXTINF:-1 tvg-name="Toonami FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Toonami FHD
+http://clientarea.ltd:2052/110185/110185/49767
+#EXTINF:-1 tvg-name="CANAL sports HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL sports HD
+http://clientarea.ltd:2052/110185/110185/49566
+#EXTINF:-1 tvg-name="CANAl CINEMA HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAl CINEMA HD
+http://clientarea.ltd:2052/110185/110185/49567
+#EXTINF:-1 tvg-name="CANAL FAMILY HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL FAMILY HD
+http://clientarea.ltd:2052/110185/110185/49568
+#EXTINF:-1 tvg-name="CANAL DECALE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL DECALE HD
+http://clientarea.ltd:2052/110185/110185/49569
+#EXTINF:-1 tvg-name="CANAL J HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL J HD
+http://clientarea.ltd:2052/110185/110185/49570
+#EXTINF:-1 tvg-name="Cine Premier HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Premier HD
+http://clientarea.ltd:2052/110185/110185/49571
+#EXTINF:-1 tvg-name="Cine Frisson HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Frisson HD
+http://clientarea.ltd:2052/110185/110185/49572
+#EXTINF:-1 tvg-name="Cine Famiz HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Famiz HD
+http://clientarea.ltd:2052/110185/110185/49573
+#EXTINF:-1 tvg-name="Cine Emotion HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Emotion HD
+http://clientarea.ltd:2052/110185/110185/49574
+#EXTINF:-1 tvg-name="Cine Classic HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Classic HD
+http://clientarea.ltd:2052/110185/110185/49575
+#EXTINF:-1 tvg-name="Cine POLAR HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine POLAR HD
+http://clientarea.ltd:2052/110185/110185/49576
+#EXTINF:-1 tvg-name="OCS GEANT HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS GEANT HD
+http://clientarea.ltd:2052/110185/110185/49577
+#EXTINF:-1 tvg-name="OCS CHOC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS CHOC HD
+http://clientarea.ltd:2052/110185/110185/49578
+#EXTINF:-1 tvg-name="OCS City HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS City HD
+http://clientarea.ltd:2052/110185/110185/49579
+#EXTINF:-1 tvg-name="OCS Max HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS Max HD
+http://clientarea.ltd:2052/110185/110185/49580
+#EXTINF:-1 tvg-name="13eme Rue HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",13eme Rue HD
+http://clientarea.ltd:2052/110185/110185/49586
+#EXTINF:-1 tvg-name="ACTION HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ACTION HD
+http://clientarea.ltd:2052/110185/110185/49588
+#EXTINF:-1 tvg-name="Syfy HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Syfy HD
+http://clientarea.ltd:2052/110185/110185/49589
+#EXTINF:-1 tvg-name="MY CUISINE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MY CUISINE HD
+http://clientarea.ltd:2052/110185/110185/49590
+#EXTINF:-1 tvg-name="MY COMEDY" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MY COMEDY
+http://clientarea.ltd:2052/110185/110185/49591
+#EXTINF:-1 tvg-name="C Star HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",C Star HD
+http://clientarea.ltd:2052/110185/110185/49592
+#EXTINF:-1 tvg-name="TREK HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TREK HD
+http://clientarea.ltd:2052/110185/110185/49594
+#EXTINF:-1 tvg-name="TFX HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TFX HD
+http://clientarea.ltd:2052/110185/110185/49595
+#EXTINF:-1 tvg-name="TCM Cinema HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TCM Cinema HD
+http://clientarea.ltd:2052/110185/110185/49596
+#EXTINF:-1 tvg-name="SERIE CLUB HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",SERIE CLUB HD
+http://clientarea.ltd:2052/110185/110185/49597
+#EXTINF:-1 tvg-name="6ter HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",6ter HD
+http://clientarea.ltd:2052/110185/110185/49598
+#EXTINF:-1 tvg-name="TEVA HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TEVA HD
+http://clientarea.ltd:2052/110185/110185/49599
+#EXTINF:-1 tvg-name="Crime District HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Crime District HD
+http://clientarea.ltd:2052/110185/110185/49600
+#EXTINF:-1 tvg-name="Tvm3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Tvm3
+http://clientarea.ltd:2052/110185/110185/49601
+#EXTINF:-1 tvg-name="TMC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TMC HD
+http://clientarea.ltd:2052/110185/110185/49602
+#EXTINF:-1 tvg-name="AB3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB3
+http://clientarea.ltd:2052/110185/110185/49603
+#EXTINF:-1 tvg-name="Arte HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Arte HD
+http://clientarea.ltd:2052/110185/110185/49604
+#EXTINF:-1 tvg-name="Chasse et Peche" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Chasse et Peche
+http://clientarea.ltd:2052/110185/110185/49605
+#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NATIONAL GEO HD
+http://clientarea.ltd:2052/110185/110185/49606
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PARAMOUNT CHANNEL HD
+http://clientarea.ltd:2052/110185/110185/49607
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL DECALE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PARAMOUNT CHANNEL DECALE HD
+http://clientarea.ltd:2052/110185/110185/49608
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NATIONAL GEO WILD HD
+http://clientarea.ltd:2052/110185/110185/49609
+#EXTINF:-1 tvg-name="Science et Vie HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Science et Vie HD
+http://clientarea.ltd:2052/110185/110185/49610
+#EXTINF:-1 tvg-name="NRJ 12 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NRJ 12 HD
+http://clientarea.ltd:2052/110185/110185/49611
+#EXTINF:-1 tvg-name="PARIS PREMIERE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PARIS PREMIERE HD
+http://clientarea.ltd:2052/110185/110185/49612
+#EXTINF:-1 tvg-name="AB MOTEURS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB MOTEURS HD
+http://clientarea.ltd:2052/110185/110185/49613
+#EXTINF:-1 tvg-name="TVBREIZH HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TVBREIZH HD
+http://clientarea.ltd:2052/110185/110185/49615
+#EXTINF:-1 tvg-name="COMEDIE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",COMEDIE HD
+http://clientarea.ltd:2052/110185/110185/49616
+#EXTINF:-1 tvg-name="ELLE GIRL HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ELLE GIRL HD
+http://clientarea.ltd:2052/110185/110185/49617
+#EXTINF:-1 tvg-name="Cherie 25 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cherie 25 HD
+http://clientarea.ltd:2052/110185/110185/49618
+#EXTINF:-1 tvg-name="ANIMAUX HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ANIMAUX HD
+http://clientarea.ltd:2052/110185/110185/49619
+#EXTINF:-1 tvg-name="IL TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",IL TV
+http://clientarea.ltd:2052/110185/110185/49620
+#EXTINF:-1 tvg-name="Alsace 20 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Alsace 20 HD
+http://clientarea.ltd:2052/110185/110185/49621
+#EXTINF:-1 tvg-name="Toute lHistoire HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Toute lHistoire HD
+http://clientarea.ltd:2052/110185/110185/49622
+#EXTINF:-1 tvg-name="Ushuaia TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ushuaia TV
+http://clientarea.ltd:2052/110185/110185/49623
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Discovery HD
+http://clientarea.ltd:2052/110185/110185/49624
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Discovery Science HD
+http://clientarea.ltd:2052/110185/110185/49625
+#EXTINF:-1 tvg-name="Voyage HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Voyage HD
+http://clientarea.ltd:2052/110185/110185/49627
+#EXTINF:-1 tvg-name="PLANETE AE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PLANETE AE HD
+http://clientarea.ltd:2052/110185/110185/49628
+#EXTINF:-1 tvg-name="PLANETE CI" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PLANETE CI
+http://clientarea.ltd:2052/110185/110185/49629
+#EXTINF:-1 tvg-name="PLANETE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PLANETE HD
+http://clientarea.ltd:2052/110185/110185/49630
+#EXTINF:-1 tvg-name="BFM Business HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BFM Business HD
+http://clientarea.ltd:2052/110185/110185/49631
+#EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BFM TV
+http://clientarea.ltd:2052/110185/110185/49632
+#EXTINF:-1 tvg-name="BFM PARIS" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BFM PARIS
+http://clientarea.ltd:2052/110185/110185/49633
+#EXTINF:-1 tvg-name="BFM LYON" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BFM LYON
+http://clientarea.ltd:2052/110185/110185/49634
+#EXTINF:-1 tvg-name="BFM LILLE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BFM LILLE
+http://clientarea.ltd:2052/110185/110185/49635
+#EXTINF:-1 tvg-name="SEASON HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",SEASON HD
+http://clientarea.ltd:2052/110185/110185/49636
+#EXTINF:-1 tvg-name="NRJ hit" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NRJ hit
+http://clientarea.ltd:2052/110185/110185/49638
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",France 24
+http://clientarea.ltd:2052/110185/110185/49639
+#EXTINF:-1 tvg-name="LA CHAINE NORMANDIE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",LA CHAINE NORMANDIE
+http://clientarea.ltd:2052/110185/110185/49640
+#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TV5 MONDE HD
+http://clientarea.ltd:2052/110185/110185/49641
+#EXTINF:-1 tvg-name="Gulli HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Gulli HD
+http://clientarea.ltd:2052/110185/110185/49642
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nickelodeon HD
+http://clientarea.ltd:2052/110185/110185/49643
+#EXTINF:-1 tvg-name="Mangas HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Mangas HD
+http://clientarea.ltd:2052/110185/110185/49644
+#EXTINF:-1 tvg-name="Nickelodeon 4 Teens HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nickelodeon 4 Teens HD
+http://clientarea.ltd:2052/110185/110185/49645
+#EXTINF:-1 tvg-name="Piwi HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Piwi HD
+http://clientarea.ltd:2052/110185/110185/49646
+#EXTINF:-1 tvg-name="TELETOON HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TELETOON HD
+http://clientarea.ltd:2052/110185/110185/49647
+#EXTINF:-1 tvg-name="TIJI HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TIJI HD
+http://clientarea.ltd:2052/110185/110185/49648
+#EXTINF:-1 tvg-name="GINX TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",GINX TV
+http://clientarea.ltd:2052/110185/110185/49649
+#EXTINF:-1 tvg-name="DISNEY JUNIOR HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",DISNEY JUNIOR HD
+http://clientarea.ltd:2052/110185/110185/49650
+#EXTINF:-1 tvg-name="DISNEY CHANNEL 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",DISNEY CHANNEL 1 HD
+http://clientarea.ltd:2052/110185/110185/49651
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney Channel HD
+http://clientarea.ltd:2052/110185/110185/49652
+#EXTINF:-1 tvg-name="Disney XD HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney XD HD
+http://clientarea.ltd:2052/110185/110185/49653
+#EXTINF:-1 tvg-name="BOING HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BOING HD
+http://clientarea.ltd:2052/110185/110185/49654
+#EXTINF:-1 tvg-name="J ONE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",J ONE HD
+http://clientarea.ltd:2052/110185/110185/49655
+#EXTINF:-1 tvg-name="TOONAMI HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TOONAMI HD
+http://clientarea.ltd:2052/110185/110185/49656
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cartoon Network HD
+http://clientarea.ltd:2052/110185/110185/49657
+#EXTINF:-1 tvg-name="Disney Cinema HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney Cinema HD
+http://clientarea.ltd:2052/110185/110185/49658
+#EXTINF:-1 tvg-name="NICKELODEON JR" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NICKELODEON JR
+http://clientarea.ltd:2052/110185/110185/49659
+#EXTINF:-1 tvg-name="GAME ONE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",GAME ONE HD
+http://clientarea.ltd:2052/110185/110185/49660
+#EXTINF:-1 tvg-name="Boomerang HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Boomerang HD
+http://clientarea.ltd:2052/110185/110185/49661
+#EXTINF:-1 tvg-name="Equidia Live HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Equidia Live HD
+http://clientarea.ltd:2052/110185/110185/49662
+#EXTINF:-1 tvg-name="INFOSPORT" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",INFOSPORT
+http://clientarea.ltd:2052/110185/110185/49663
+#EXTINF:-1 tvg-name="GOLF HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",GOLF HD
+http://clientarea.ltd:2052/110185/110185/49664
+#EXTINF:-1 tvg-name="Golf HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Golf HD
+http://clientarea.ltd:2052/110185/110185/49665
+#EXTINF:-1 tvg-name="Foot 2424 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Foot 2424 HD
+http://clientarea.ltd:2052/110185/110185/49666
+#EXTINF:-1 tvg-name="BeIN SPORTS 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BeIN SPORTS 1 HD
+http://clientarea.ltd:2052/110185/110185/49667
+#EXTINF:-1 tvg-name="BeIN SPORTS 2 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BeIN SPORTS 2 HD
+http://clientarea.ltd:2052/110185/110185/49668
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",EUROSPORT 1 HD
+http://clientarea.ltd:2052/110185/110185/49669
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",EUROSPORT 2 HD
+http://clientarea.ltd:2052/110185/110185/49670
+#EXTINF:-1 tvg-name="RMC Sport 01 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",RMC Sport 01 HD
+http://clientarea.ltd:2052/110185/110185/49671
+#EXTINF:-1 tvg-name="L EQUIPE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",L EQUIPE HD
+http://clientarea.ltd:2052/110185/110185/49672
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",DISCOVERY FAMILY HD
+http://clientarea.ltd:2052/110185/110185/49673
+#EXTINF:-1 tvg-name="FOOT 2424 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FOOT 2424 HD
+http://clientarea.ltd:2052/110185/110185/49674
+#EXTINF:-1 tvg-name="Euronews HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Euronews HD
+http://clientarea.ltd:2052/110185/110185/49675
+#EXTINF:-1 tvg-name="BRAVA" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",BRAVA
+http://clientarea.ltd:2052/110185/110185/49676
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FASHION TV
+http://clientarea.ltd:2052/110185/110185/49677
+#EXTINF:-1 tvg-name="FASHION FullHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",FASHION FullHD
+http://clientarea.ltd:2052/110185/110185/49678
+#EXTINF:-1 tvg-name="E HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",E HD
+http://clientarea.ltd:2052/110185/110185/49679
+#EXTINF:-1 tvg-name="HIT TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",HIT TV HD
+http://clientarea.ltd:2052/110185/110185/49680
+#EXTINF:-1 tvg-name="KTO TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",KTO TV
+http://clientarea.ltd:2052/110185/110185/49681
+#EXTINF:-1 tvg-name="LCP ASSEMBLEE NATIONALE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",LCP ASSEMBLEE NATIONALE
+http://clientarea.ltd:2052/110185/110185/49682
+#EXTINF:-1 tvg-name="LUCKY JACK TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",LUCKY JACK TV HD
+http://clientarea.ltd:2052/110185/110185/49683
+#EXTINF:-1 tvg-name="AUTOMOTO LA CHAINE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AUTOMOTO LA CHAINE HD
+http://clientarea.ltd:2052/110185/110185/49684
+#EXTINF:-1 tvg-name="VOSGES TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",VOSGES TV
+http://clientarea.ltd:2052/110185/110185/49685
+#EXTINF:-1 tvg-name="PITCHOUN HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PITCHOUN HD
+http://clientarea.ltd:2052/110185/110185/49686
+#EXTINF:-1 tvg-name="OUATCH TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OUATCH TV HD
+http://clientarea.ltd:2052/110185/110185/49687
+#EXTINF:-1 tvg-name="SUNDANCE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",SUNDANCE FHD
+http://clientarea.ltd:2052/110185/110185/49688
+#EXTINF:-1 tvg-name="LCI" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",LCI
+http://clientarea.ltd:2052/110185/110185/49689
+#EXTINF:-1 tvg-name="C NEWS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",C NEWS HD
+http://clientarea.ltd:2052/110185/110185/49690
+#EXTINF:-1 tvg-name="ROUGE TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ROUGE TV HD
+http://clientarea.ltd:2052/110185/110185/49691
+#EXTINF:-1 tvg-name="TV7" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TV7
+http://clientarea.ltd:2052/110185/110185/49692
+#EXTINF:-1 tvg-name="TV8 MONT BLANC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TV8 MONT BLANC HD
+http://clientarea.ltd:2052/110185/110185/49693
+#EXTINF:-1 tvg-name="LA TELE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",LA TELE FHD
+http://clientarea.ltd:2052/110185/110185/49694
+#EXTINF:-1 tvg-name="Luxe TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Luxe TV FHD
+http://clientarea.ltd:2052/110185/110185/49695
+#EXTINF:-1 tvg-name="POLAR FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",POLAR FHD
+http://clientarea.ltd:2052/110185/110185/49696
+#EXTINF:-1 tvg-name="SOUVENIRS FROM EARTH HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",SOUVENIRS FROM EARTH HD
+http://clientarea.ltd:2052/110185/110185/49697
+#EXTINF:-1 tvg-name="TN TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TN TV HD
+http://clientarea.ltd:2052/110185/110185/49698
+#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Clubbing TV
+http://clientarea.ltd:2052/110185/110185/49699
+#EXTINF:-1 tvg-name="ALTICE STUDIO HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ALTICE STUDIO HD
+http://clientarea.ltd:2052/110185/110185/49700
+#EXTINF:-1 tvg-name="VICELAND FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",VICELAND FHD
+http://clientarea.ltd:2052/110185/110185/49701
+#EXTINF:-1 tvg-name="WARNER TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",WARNER TV FHD
+http://clientarea.ltd:2052/110185/110185/49702
+#EXTINF:-1 tvg-name="MY CUISINE TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MY CUISINE TV FHD
+http://clientarea.ltd:2052/110185/110185/49703
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",DISCOVERY FAMILY H265
+http://clientarea.ltd:2052/110185/110185/49704
+#EXTINF:-1 tvg-name="OL TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OL TV FHD
+http://clientarea.ltd:2052/110185/110185/49705
+#EXTINF:-1 tvg-name="AB EXPLORE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",AB EXPLORE HD
+http://clientarea.ltd:2052/110185/110185/49706
+#EXTINF:-1 tvg-name="MOTORSPORT TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MOTORSPORT TV FHD
+http://clientarea.ltd:2052/110185/110185/49707
+#EXTINF:-1 tvg-name="MOTORSPORT TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",MOTORSPORT TV HD
+http://clientarea.ltd:2052/110185/110185/49708
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TF1 SERIES FILMS FHD
+http://clientarea.ltd:2052/110185/110185/49710
+#EXTINF:-1 tvg-name="13eme Rue FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",13eme Rue FHD
+http://clientarea.ltd:2052/110185/110185/49718
+#EXTINF:-1 tvg-name="TREK FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TREK FHD
+http://clientarea.ltd:2052/110185/110185/49721
+#EXTINF:-1 tvg-name="CSTAR H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CSTAR H265
+http://clientarea.ltd:2052/110185/110185/49726
+#EXTINF:-1 tvg-name="Canal Sports FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Sports FHD
+http://clientarea.ltd:2052/110185/110185/49728
+#EXTINF:-1 tvg-name="CANAL CINEMA H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL CINEMA H265
+http://clientarea.ltd:2052/110185/110185/49729
+#EXTINF:-1 tvg-name="CANAL DECALE H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL DECALE H265
+http://clientarea.ltd:2052/110185/110185/49730
+#EXTINF:-1 tvg-name="Canal Family H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Family H265
+http://clientarea.ltd:2052/110185/110185/49731
+#EXTINF:-1 tvg-name="CANAL SERIES H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL SERIES H265
+http://clientarea.ltd:2052/110185/110185/49732
+#EXTINF:-1 tvg-name="Cine Premier H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Premier H265
+http://clientarea.ltd:2052/110185/110185/49733
+#EXTINF:-1 tvg-name="Cine POLAR FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine POLAR FHD
+http://clientarea.ltd:2052/110185/110185/49734
+#EXTINF:-1 tvg-name="Cine Frisson H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Frisson H265
+http://clientarea.ltd:2052/110185/110185/49735
+#EXTINF:-1 tvg-name="Cine Famiz H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Famiz H265
+http://clientarea.ltd:2052/110185/110185/49736
+#EXTINF:-1 tvg-name="Cine Emotion H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Emotion H265
+http://clientarea.ltd:2052/110185/110185/49737
+#EXTINF:-1 tvg-name="Cine Club FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Club FHD
+http://clientarea.ltd:2052/110185/110185/49738
+#EXTINF:-1 tvg-name="Cine Classic H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cine Classic H265
+http://clientarea.ltd:2052/110185/110185/49739
+#EXTINF:-1 tvg-name="OCS Max H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS Max H265
+http://clientarea.ltd:2052/110185/110185/49740
+#EXTINF:-1 tvg-name="OCS GEANT H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS GEANT H265
+http://clientarea.ltd:2052/110185/110185/49741
+#EXTINF:-1 tvg-name="OCS City H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS City H265
+http://clientarea.ltd:2052/110185/110185/49742
+#EXTINF:-1 tvg-name="OCS CHOC H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",OCS CHOC H265
+http://clientarea.ltd:2052/110185/110185/49743
+#EXTINF:-1 tvg-name="Arte H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Arte H265
+http://clientarea.ltd:2052/110185/110185/49746
+#EXTINF:-1 tvg-name="Disney XD FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney XD FHD
+http://clientarea.ltd:2052/110185/110185/49748
+#EXTINF:-1 tvg-name="CANAL J H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",CANAL J H265
+http://clientarea.ltd:2052/110185/110185/49749
+#EXTINF:-1 tvg-name="Boing FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Boing FHD
+http://clientarea.ltd:2052/110185/110185/49750
+#EXTINF:-1 tvg-name="One TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",One TV FHD
+http://clientarea.ltd:2052/110185/110185/49751
+#EXTINF:-1 tvg-name="Comedie FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Comedie FHD
+http://clientarea.ltd:2052/110185/110185/49752
+#EXTINF:-1 tvg-name="Bet Etoile FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Bet Etoile FHD
+http://clientarea.ltd:2052/110185/110185/49753
+#EXTINF:-1 tvg-name="DISNEY JUNIOR H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",DISNEY JUNIOR H265
+http://clientarea.ltd:2052/110185/110185/49754
+#EXTINF:-1 tvg-name="Ushuaia TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ushuaia TV FHD
+http://clientarea.ltd:2052/110185/110185/49755
+#EXTINF:-1 tvg-name="Disney Channel H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney Channel H265
+http://clientarea.ltd:2052/110185/110185/49756
+#EXTINF:-1 tvg-name="Crime District FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Crime District FHD
+http://clientarea.ltd:2052/110185/110185/49757
+#EXTINF:-1 tvg-name="Voyage FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Voyage FHD
+http://clientarea.ltd:2052/110185/110185/49758
+#EXTINF:-1 tvg-name="Tcm Cinema FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Tcm Cinema FHD
+http://clientarea.ltd:2052/110185/110185/49760
+#EXTINF:-1 tvg-name="Serie Club FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Serie Club FHD
+http://clientarea.ltd:2052/110185/110185/49761
+#EXTINF:-1 tvg-name="Tiji H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Tiji H265
+http://clientarea.ltd:2052/110185/110185/49762
+#EXTINF:-1 tvg-name="Piwi FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Piwi FHD
+http://clientarea.ltd:2052/110185/110185/49763
+#EXTINF:-1 tvg-name="Manga FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Manga FHD
+http://clientarea.ltd:2052/110185/110185/49764
+#EXTINF:-1 tvg-name="Nickelodeon 4Teen FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nickelodeon 4Teen FHD
+http://clientarea.ltd:2052/110185/110185/49765
+#EXTINF:-1 tvg-name="Game One H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Game One H265
+http://clientarea.ltd:2052/110185/110185/49766
+#EXTINF:-1 tvg-name="Gulli H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Gulli H265
+http://clientarea.ltd:2052/110185/110185/49768
+#EXTINF:-1 tvg-name="Cartoon Network FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cartoon Network FHD
+http://clientarea.ltd:2052/110185/110185/49769
+#EXTINF:-1 tvg-name="Disney Cinema FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Disney Cinema FHD
+http://clientarea.ltd:2052/110185/110185/49770
+#EXTINF:-1 tvg-name="Boomerang H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Boomerang H265
+http://clientarea.ltd:2052/110185/110185/49771
+#EXTINF:-1 tvg-name="J One FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",J One FHD
+http://clientarea.ltd:2052/110185/110185/49772
+#EXTINF:-1 tvg-name="Elle Girl FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Elle Girl FHD
+http://clientarea.ltd:2052/110185/110185/49773
+#EXTINF:-1 tvg-name="Cherie 25 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Cherie 25 FHD
+http://clientarea.ltd:2052/110185/110185/49774
+#EXTINF:-1 tvg-name="ANIMAUX FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",ANIMAUX FHD
+http://clientarea.ltd:2052/110185/110185/49775
+#EXTINF:-1 tvg-name="NATIONAL GEO FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NATIONAL GEO FHD
+http://clientarea.ltd:2052/110185/110185/49776
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",NATIONAL GEO WILD H265
+http://clientarea.ltd:2052/110185/110185/49777
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PARAMOUNT CHANNEL FHD
+http://clientarea.ltd:2052/110185/110185/49778
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL DECALE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PARAMOUNT CHANNEL DECALE FHD
+http://clientarea.ltd:2052/110185/110185/49779
+#EXTINF:-1 tvg-name="TVBREIZH FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",TVBREIZH FHD
+http://clientarea.ltd:2052/110185/110185/49780
+#EXTINF:-1 tvg-name="Planete FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Planete FHD
+http://clientarea.ltd:2052/110185/110185/49781
+#EXTINF:-1 tvg-name="PLANETE CI H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PLANETE CI H265
+http://clientarea.ltd:2052/110185/110185/49782
+#EXTINF:-1 tvg-name="PLANETE AE H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",PLANETE AE H265
+http://clientarea.ltd:2052/110185/110185/49783
+#EXTINF:-1 tvg-name="Discovery  H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Discovery  H265
+http://clientarea.ltd:2052/110185/110185/49784
+#EXTINF:-1 tvg-name="Discovery Investigation FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Discovery Investigation FHD
+http://clientarea.ltd:2052/110185/110185/49785
+#EXTINF:-1 tvg-name="Discovery Science H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Discovery Science H265
+http://clientarea.ltd:2052/110185/110185/49786
+#EXTINF:-1 tvg-name="Season H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Season H265
+http://clientarea.ltd:2052/110185/110185/49787
+#EXTINF:-1 tvg-name="Tv5 Monde Info FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Tv5 Monde Info FHD
+http://clientarea.ltd:2052/110185/110185/49788
+#EXTINF:-1 tvg-name="Paris Premiere FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Paris Premiere FHD
+http://clientarea.ltd:2052/110185/110185/49789
+#EXTINF:-1 tvg-name="Bfm Business FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Bfm Business FHD
+http://clientarea.ltd:2052/110185/110185/49790
+#EXTINF:-1 tvg-name="Science et Vie FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Science et Vie FHD
+http://clientarea.ltd:2052/110185/110185/49791
+#EXTINF:-1 tvg-name="Golf FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Golf FHD
+http://clientarea.ltd:2052/110185/110185/49792
+#EXTINF:-1 tvg-name="Golf Channel FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Golf Channel FHD
+http://clientarea.ltd:2052/110185/110185/49793
+#EXTINF:-1 tvg-name="Equidia Live FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Equidia Live FHD
+http://clientarea.ltd:2052/110185/110185/49794
+#EXTINF:-1 tvg-name="C NEWS H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",C NEWS H265
+http://clientarea.ltd:2052/110185/110185/49795
+#EXTINF:-1 tvg-name="Tfx H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Tfx H265
+http://clientarea.ltd:2052/110185/110185/49796
+#EXTINF:-1 tvg-name="Novelas Tv FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Novelas Tv FHD
+http://clientarea.ltd:2052/110185/110185/49797
+#EXTINF:-1 tvg-name="Nrj 12 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nrj 12 H265
+http://clientarea.ltd:2052/110185/110185/49798
+#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Mezzo Live FHD
+http://clientarea.ltd:2052/110185/110185/49799
+#EXTINF:-1 tvg-name="Foot 2424 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Foot 2424 FHD
+http://clientarea.ltd:2052/110185/110185/49800
+#EXTINF:-1 tvg-name="Rmc Decouvert FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Decouvert FHD
+http://clientarea.ltd:2052/110185/110185/49801
+#EXTINF:-1 tvg-name="Rmc Story FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Story FHD
+http://clientarea.ltd:2052/110185/110185/49802
+#EXTINF:-1 tvg-name="Rmc Sport 02 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 02 FHD
+http://clientarea.ltd:2052/110185/110185/49803
+#EXTINF:-1 tvg-name="beIN Sport Max 04" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 04
+http://clientarea.ltd:2052/110185/110185/49804
+#EXTINF:-1 tvg-name="beIN Sport Max 05" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 05
+http://clientarea.ltd:2052/110185/110185/49805
+#EXTINF:-1 tvg-name="beIN Sport Max 06" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 06
+http://clientarea.ltd:2052/110185/110185/49806
+#EXTINF:-1 tvg-name="beIN Sport Max 07" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 07
+http://clientarea.ltd:2052/110185/110185/49807
+#EXTINF:-1 tvg-name="beIN Sport Max 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 08
+http://clientarea.ltd:2052/110185/110185/49808
+#EXTINF:-1 tvg-name="beIN Sport Max 09" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 09
+http://clientarea.ltd:2052/110185/110185/49809
+#EXTINF:-1 tvg-name="beIN Sport Max 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sport Max 10
+http://clientarea.ltd:2052/110185/110185/49810
+#EXTINF:-1 tvg-name="Infosport FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Infosport FHD
+http://clientarea.ltd:2052/110185/110185/49811
+#EXTINF:-1 tvg-name="Eurosport 1 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Eurosport 1 H265
+http://clientarea.ltd:2052/110185/110185/49812
+#EXTINF:-1 tvg-name="Eurosport 2 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Eurosport 2 H265
+http://clientarea.ltd:2052/110185/110185/49813
+#EXTINF:-1 tvg-name="Bfm Paris HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Bfm Paris HD
+http://clientarea.ltd:2052/110185/110185/49814
+#EXTINF:-1 tvg-name="Canal Alpha FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Alpha FHD
+http://clientarea.ltd:2052/110185/110185/49817
+#EXTINF:-1 tvg-name="Altice Studio FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Altice Studio FHD
+http://clientarea.ltd:2052/110185/110185/49818
+#EXTINF:-1 tvg-name="L Equipe H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",L Equipe H265
+http://clientarea.ltd:2052/110185/110185/49819
+#EXTINF:-1 tvg-name="Toute Lhistoire H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Toute Lhistoire H265
+http://clientarea.ltd:2052/110185/110185/49820
+#EXTINF:-1 tvg-name="Chasse Et Peche H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Chasse Et Peche H265
+http://clientarea.ltd:2052/110185/110185/49821
+#EXTINF:-1 tvg-name="Lci H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Lci H265
+http://clientarea.ltd:2052/110185/110185/49823
+#EXTINF:-1 tvg-name="Nickelodeon Junior H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nickelodeon Junior H265
+http://clientarea.ltd:2052/110185/110185/49824
+#EXTINF:-1 tvg-name="Nickelodeon H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Nickelodeon H265
+http://clientarea.ltd:2052/110185/110185/49825
+#EXTINF:-1 tvg-name="Rmc Decouverte H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Decouverte H265
+http://clientarea.ltd:2052/110185/110185/49826
+#EXTINF:-1 tvg-name="Rmc Story H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Story H265
+http://clientarea.ltd:2052/110185/110185/49827
+#EXTINF:-1 tvg-name="Oklm Tv FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Oklm Tv FHD
+http://clientarea.ltd:2052/110185/110185/49828
+#EXTINF:-1 tvg-name="Rmc Sport News FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport News FHD
+http://clientarea.ltd:2052/110185/110185/49829
+#EXTINF:-1 tvg-name="Rmc Sport 01 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 01 FHD
+http://clientarea.ltd:2052/110185/110185/49830
+#EXTINF:-1 tvg-name="Rmc Sport 03 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 03 HD
+http://clientarea.ltd:2052/110185/110185/49831
+#EXTINF:-1 tvg-name="Rmc Sport 03 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 03 FHD
+http://clientarea.ltd:2052/110185/110185/49832
+#EXTINF:-1 tvg-name="Rmc Sport 04 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 04 HD
+http://clientarea.ltd:2052/110185/110185/49833
+#EXTINF:-1 tvg-name="Rmc Sport 04 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 04 FHD
+http://clientarea.ltd:2052/110185/110185/49834
+#EXTINF:-1 tvg-name="Rmc Sport Live 5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 5
+http://clientarea.ltd:2052/110185/110185/49835
+#EXTINF:-1 tvg-name="Rmc Sport Live 6" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 6
+http://clientarea.ltd:2052/110185/110185/49836
+#EXTINF:-1 tvg-name="Rmc Sport Live 7" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 7
+http://clientarea.ltd:2052/110185/110185/49837
+#EXTINF:-1 tvg-name="Rmc Sport Live 8" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 8
+http://clientarea.ltd:2052/110185/110185/49838
+#EXTINF:-1 tvg-name="Rmc Sport Live 9" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 9
+http://clientarea.ltd:2052/110185/110185/49839
+#EXTINF:-1 tvg-name="Rmc Sport Live 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 10
+http://clientarea.ltd:2052/110185/110185/49840
+#EXTINF:-1 tvg-name="Rmc Sport Live 11" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 11
+http://clientarea.ltd:2052/110185/110185/49841
+#EXTINF:-1 tvg-name="Rmc Sport Live 12" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport Live 12
+http://clientarea.ltd:2052/110185/110185/49842
+#EXTINF:-1 tvg-name="Rmc Access Sport 02 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Access Sport 02 HD
+http://clientarea.ltd:2052/110185/110185/49843
+#EXTINF:-1 tvg-name="Rmc Access Sport 01 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Access Sport 01 HD
+http://clientarea.ltd:2052/110185/110185/49844
+#EXTINF:-1 tvg-name="Rmc Sport 02 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Rmc Sport 02 HD
+http://clientarea.ltd:2052/110185/110185/49845
+#EXTINF:-1 tvg-name="beIN Sports 3 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",beIN Sports 3 FHD
+http://clientarea.ltd:2052/110185/110185/49846
+#EXTINF:-1 tvg-name="Telefoot Stadium HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Telefoot Stadium HD
+http://clientarea.ltd:2052/110185/110185/49847
+#EXTINF:-1 tvg-name="Telefoot Stadium FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Telefoot Stadium FHD
+http://clientarea.ltd:2052/110185/110185/49848
+#EXTINF:-1 tvg-name="A La Carte 01  6 Underground " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 01  6 Underground 
+http://clientarea.ltd:2052/110185/110185/49849
+#EXTINF:-1 tvg-name="A La Carte 02" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 02
+http://clientarea.ltd:2052/110185/110185/49850
+#EXTINF:-1 tvg-name="A La Carte 03" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 03
+http://clientarea.ltd:2052/110185/110185/49851
+#EXTINF:-1 tvg-name="A La Carte 04  Togo " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 04  Togo 
+http://clientarea.ltd:2052/110185/110185/49852
+#EXTINF:-1 tvg-name="A La Carte 05  Mal¿½fique " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 05  Mal¿½fique 
+http://clientarea.ltd:2052/110185/110185/49853
+#EXTINF:-1 tvg-name="A La Carte 06  Spider Man Far From Home " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 06  Spider Man Far From Home 
+http://clientarea.ltd:2052/110185/110185/49854
+#EXTINF:-1 tvg-name="A La Carte 07  Inside Man Most Wanted " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 07  Inside Man Most Wanted 
+http://clientarea.ltd:2052/110185/110185/49855
+#EXTINF:-1 tvg-name="A La Carte 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",A La Carte 08
+http://clientarea.ltd:2052/110185/110185/49856
+#EXTINF:-1 tvg-name="Orange Cine1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Orange Cine1
+http://clientarea.ltd:2052/110185/110185/49857
+#EXTINF:-1 tvg-name="Orange Cine2" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Orange Cine2
+http://clientarea.ltd:2052/110185/110185/49858
+#EXTINF:-1 tvg-name="Orange Cine3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Orange Cine3
+http://clientarea.ltd:2052/110185/110185/49859
+#EXTINF:-1 tvg-name="Orange Cine4" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Orange Cine4
+http://clientarea.ltd:2052/110185/110185/49860
+#EXTINF:-1 tvg-name="Orange Cine5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Orange Cine5
+http://clientarea.ltd:2052/110185/110185/49861
+#EXTINF:-1 tvg-name="Ocs Go Cine1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ocs Go Cine1
+http://clientarea.ltd:2052/110185/110185/49862
+#EXTINF:-1 tvg-name="Ocs Go Cine2" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ocs Go Cine2
+http://clientarea.ltd:2052/110185/110185/49863
+#EXTINF:-1 tvg-name="Ocs Go Cine3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ocs Go Cine3
+http://clientarea.ltd:2052/110185/110185/49864
+#EXTINF:-1 tvg-name="Ocs Go Cine4" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ocs Go Cine4
+http://clientarea.ltd:2052/110185/110185/49865
+#EXTINF:-1 tvg-name="Ocs Go Cine5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Ocs Go Cine5
+http://clientarea.ltd:2052/110185/110185/49866
+#EXTINF:-1 tvg-name="Canal Play 01  King Arthur Legend Of The Sword " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 01  King Arthur Legend Of The Sword 
+http://clientarea.ltd:2052/110185/110185/49867
+#EXTINF:-1 tvg-name="Canal Play 02  Security " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 02  Security 
+http://clientarea.ltd:2052/110185/110185/49868
+#EXTINF:-1 tvg-name="Canal Play 03" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 03
+http://clientarea.ltd:2052/110185/110185/49869
+#EXTINF:-1 tvg-name="Canal Play 04" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 04
+http://clientarea.ltd:2052/110185/110185/49870
+#EXTINF:-1 tvg-name="Canal Play 05" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 05
+http://clientarea.ltd:2052/110185/110185/49871
+#EXTINF:-1 tvg-name="Canal Play 06" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 06
+http://clientarea.ltd:2052/110185/110185/49872
+#EXTINF:-1 tvg-name="Canal Play 07" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 07
+http://clientarea.ltd:2052/110185/110185/49873
+#EXTINF:-1 tvg-name="Canal Play 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 08
+http://clientarea.ltd:2052/110185/110185/49874
+#EXTINF:-1 tvg-name="Canal Play 09" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 09
+http://clientarea.ltd:2052/110185/110185/49875
+#EXTINF:-1 tvg-name="Canal Play 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 10
+http://clientarea.ltd:2052/110185/110185/49876
+#EXTINF:-1 tvg-name="Canal Play 11  Frozen 2 " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 11  Frozen 2 
+http://clientarea.ltd:2052/110185/110185/49877
+#EXTINF:-1 tvg-name="Canal Play 12" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 12
+http://clientarea.ltd:2052/110185/110185/49878
+#EXTINF:-1 tvg-name="Canal Play 13 C o u" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 13 C o u
+http://clientarea.ltd:2052/110185/110185/49879
+#EXTINF:-1 tvg-name="Canal Play 14" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 14
+http://clientarea.ltd:2052/110185/110185/49880
+#EXTINF:-1 tvg-name="Canal Play 15" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="ClientArea",Canal Play 15
+http://clientarea.ltd:2052/110185/110185/49881
 #EXTINF:-1 tvg-id="" tvg-name="13EME RUE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",13EME RUE
 http://mains.vip:2086/aa/aa/92155
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="Mains AA",6TER
