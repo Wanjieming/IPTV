@@ -57,13 +57,13 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/3755
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/9846
 #EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="Ushuaia" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ushuaia_tv.jpg" group-title="apt50710com", Ushuaia
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1691
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="" group-title="Children Channels", FR: Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="" group-title="Children Channels", Cartoon Network
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/4145
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="boomerang HD" tvg-logo="" group-title="Children Channels", FR: boomerang HD
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="boomerang HD" tvg-logo="" group-title="Children Channels", boomerang HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1963
-#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="DISNEY CINEMA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="Children Channels", FR: DISNEY CINEMA HD
+#EXTINF:-1 tvg-id="DisneyCinema.fr" tvg-name="DISNEY CINEMA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="Children Channels", DISNEY CINEMA HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2387
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Children Channels", FR: Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="Children Channels", Disney XD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1688
 #EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY HD" tvg-logo="" group-title="apt50710com", DISCOVERY HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2073
@@ -1047,7 +1047,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/59194
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/94268
 #EXTINF:-1 tvg-ID="" tvg-name="ULTRA NATURE UHD|4K" tvg-logo="" group-title="Tarek", ULTRA NATURE UHD|4K
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/101992
-#EXTINF:-1 tvg-ID="" tvg-name="RMC Sports 4K" tvg-logo="" group-title="France 4K", FR: RMC Sports 4K
+#EXTINF:-1 tvg-ID="" tvg-name="RMC Sports 4K" tvg-logo="" group-title="France 4K", RMC Sports 4K
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/58985
 #EXTINF:-1 tvg-ID="" tvg-name="RMC SPORTS 4K" tvg-logo="" group-title="Tarek", RMC SPORTS 4K
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/94269
