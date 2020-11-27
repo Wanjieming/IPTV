@@ -241,7 +241,7 @@ http://185.71.64.167:80/7654321/1234567/78794
 http://185.71.64.167:80/7654321/1234567/78793
 #EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="http://134.255.234.197/logos/rtsun.png" group-title="1234567", RTS UN
 http://185.71.64.167:80/7654321/1234567/78792
-#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="http://134.255.234.197/logos/rtsdeux.png" group-title="1234567", RTS DEUX
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="http://134.255.234.197/logos/rtSDeux.png" group-title="1234567", RTS DEUX
 http://185.71.64.167:80/7654321/1234567/78791
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="http://134.255.234.197/logos/cstar.png" group-title="1234567", CSTAR
 http://185.71.64.167:80/7654321/1234567/78790
@@ -289,7 +289,7 @@ http://185.71.64.167:80/7654321/1234567/78769
 http://185.71.64.167:80/7654321/1234567/78768
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY" tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="1234567", CANAL+ FAMILY
 http://185.71.64.167:80/7654321/1234567/78767
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE" tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="1234567", CANAL+ DECALE
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE" tvg-logo="http://134.255.234.197/logos/canalpluSDecale.png" group-title="1234567", CANAL+ DECALE
 http://185.71.64.167:80/7654321/1234567/78766
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINEMA" tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="1234567", CANAL+ CINEMA
 http://185.71.64.167:80/7654321/1234567/78765
@@ -627,7 +627,7 @@ http://185.71.64.167:80/7654321/1234567/78471
 http://185.71.64.167:80/7654321/1234567/79111
 #EXTINF:-1 tvg-id="" tvg-name="RTS DEUX HD" tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-DEUX.HD.png" group-title="1234567", RTS DEUX HD
 http://185.71.64.167:80/7654321/1234567/78470
-#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX " tvg-logo="http://134.255.234.197/logos/rtsdeux.png" group-title="1234567", RTS DEUX 
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX " tvg-logo="http://134.255.234.197/logos/rtSDeux.png" group-title="1234567", RTS DEUX 
 http://185.71.64.167:80/7654321/1234567/79110
 #EXTINF:-1 tvg-id="" tvg-name="CSTAR HD" tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="1234567", CSTAR HD
 http://185.71.64.167:80/7654321/1234567/78469
@@ -721,9 +721,9 @@ http://185.71.64.167:80/7654321/1234567/79087
 http://185.71.64.167:80/7654321/1234567/78446
 #EXTINF:-1 tvg-id="CANALplusFamily.fr" tvg-name="CANAL+ FAMILY " tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="1234567", CANAL+ FAMILY 
 http://185.71.64.167:80/7654321/1234567/79086
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="1234567", CANAL+ DECALE HD
+#EXTINF:-1 tvg-id="CANALpluSDECALE.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://134.255.234.197/logos/canalpluSDecale.png" group-title="1234567", CANAL+ DECALE HD
 http://185.71.64.167:80/7654321/1234567/78445
-#EXTINF:-1 tvg-id="CANALplusDECALE.fr" tvg-name="CANAL+ DECALE" tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="1234567", CANAL+ DECALE
+#EXTINF:-1 tvg-id="CANALpluSDECALE.fr" tvg-name="CANAL+ DECALE" tvg-logo="http://134.255.234.197/logos/canalpluSDecale.png" group-title="1234567", CANAL+ DECALE
 http://185.71.64.167:80/7654321/1234567/79085
 #EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="1234567", CANAL+ CINEMA HD
 http://185.71.64.167:80/7654321/1234567/78444
@@ -1265,87 +1265,87 @@ http://185.71.64.167:80/7654321/1234567/78960
 http://185.71.64.167:80/7654321/1234567/78301
 #EXTINF:-1 tvg-id="CStarHitsFrance.fr" tvg-name="C STAR HITS HD" tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="1234567", C STAR HITS HD
 http://185.71.64.167:80/7654321/1234567/78959
-#EXTINF:-1 tvg-id="" tvg-name="TF1_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TF1_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TF1 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79613
 #EXTINF:-1 tvg-id="" tvg-name="TF1_SERIES&FILMS" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TF1_SERIES&FILMS
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79614
 #EXTINF:-1 tvg-id="" tvg-name="M6-HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", M6-HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79615
-#EXTINF:-1 tvg-id="" tvg-name="M6_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", M6_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", M6 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79616
-#EXTINF:-1 tvg-id="" tvg-name="France_2_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_2_HD
+#EXTINF:-1 tvg-id="" tvg-name="France_2 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_2 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79617
-#EXTINF:-1 tvg-id="" tvg-name="France_2_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_2_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="France_2 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_2 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79618
-#EXTINF:-1 tvg-id="" tvg-name="France_3_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_3_HD
+#EXTINF:-1 tvg-id="" tvg-name="France_3 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_3 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79619
-#EXTINF:-1 tvg-id="" tvg-name="France_3_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_3_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="France_3 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_3 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79620
-#EXTINF:-1 tvg-id="" tvg-name="France_4_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_4_HD
+#EXTINF:-1 tvg-id="" tvg-name="France_4 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_4 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79621
-#EXTINF:-1 tvg-id="" tvg-name="France_4_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_4_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="France_4 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_4 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79622
-#EXTINF:-1 tvg-id="" tvg-name="France_5_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_5_HD
+#EXTINF:-1 tvg-id="" tvg-name="France_5 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_5 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79623
-#EXTINF:-1 tvg-id="" tvg-name="France_5_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_5_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="France_5 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France_5 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79624
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE_O_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", FRANCE_O_HD
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE_O HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", FRANCE_O HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79625
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79626
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+ HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79627
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+CINEMA_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+CINEMA_HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+CINEMA HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+CINEMA HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79628
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+ _CINEMA_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+ _CINEMA_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ _CINEMA HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+ _CINEMA HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79629
-#EXTINF:-1 tvg-id="" tvg-name="CANAL_FAMILY_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL_FAMILY_HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL_FAMILY HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL_FAMILY HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79630
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ _Family_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal+ _Family_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ _Family HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal+ _Family HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79631
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SERIES_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SERIES_HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SERIES HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SERIES HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79632
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ _Series_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal+ _Series_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ _Series HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal+ _Series HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79633
 #EXTINF:-1 tvg-id="" tvg-name="Canal-DECALE-HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal-DECALE-HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79634
-#EXTINF:-1 tvg-id="" tvg-name="Canal_Decale_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal_Decale_HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Decale HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal_Decale HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79635
-#EXTINF:-1 tvg-id="" tvg-name="Canal _Decale_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal _Decale_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="Canal _Decale HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal _Decale HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79636
-#EXTINF:-1 tvg-id="" tvg-name="OCS_CHOC_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_CHOC_HD
+#EXTINF:-1 tvg-id="" tvg-name="OCS_CHOC HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_CHOC HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79637
-#EXTINF:-1 tvg-id="" tvg-name="OCS_Geants_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_Geants_HD
+#EXTINF:-1 tvg-id="" tvg-name="OCS_Geants HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_Geants HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79638
-#EXTINF:-1 tvg-id="" tvg-name="OCS_Max_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_Max_HD
+#EXTINF:-1 tvg-id="" tvg-name="OCS_Max HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_Max HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79639
-#EXTINF:-1 tvg-id="" tvg-name="OCS_City_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_City_HD
+#EXTINF:-1 tvg-id="" tvg-name="OCS_City HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", OCS_City HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79640
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_1_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_1_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_1 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_1 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79641
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_2_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_2_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_2 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_2 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79642
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_3_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_3_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_3 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_3 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79643
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_4_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_4_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_4 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_4 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79644
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_5_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_5_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_5 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_5 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79645
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_6_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_6_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_6 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_6 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79646
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_7_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_7_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_7 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_7 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79647
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_8_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_8_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_8 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_8 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79648
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_9_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_9_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_LIVE_9 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_LIVE_9 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79649
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT1_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT1_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT1 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT1 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79650
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT2_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT2_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT2 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT2 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79651
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT3_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT3_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT3 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT3 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79652
-#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT4_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT4_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT4 HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT4 HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79653
 #EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_ACCESS_1" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_ACCESS_1
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79654
@@ -1355,11 +1355,11 @@ http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79655
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79656
 #EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT_NEWS" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_SPORT_NEWS
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79657
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_1_SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_1_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_1 SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_1 SD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79658
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_2_SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_2_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_2 SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_2 SD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79659
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_3_SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_3_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_3 SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEIN_SPORT_3 SD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79660
 #EXTINF:-1 tvg-id="" tvg-name="A_LA_CARTE_1" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", A_LA_CARTE_1
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79661
@@ -1383,23 +1383,23 @@ http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79669
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79670
 #EXTINF:-1 tvg-id="" tvg-name="A_LA_CARTE_11" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", A_LA_CARTE_11
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79671
-#EXTINF:-1 tvg-id="" tvg-name="CINE+Club_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CINE+Club_HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE+Club HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CINE+Club HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79672
-#EXTINF:-1 tvg-id="" tvg-name="Cine_Classic_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Classic_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine_Classic HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Classic HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79673
-#EXTINF:-1 tvg-id="" tvg-name="Cine_Emotion_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Emotion_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine_Emotion HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Emotion HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79674
-#EXTINF:-1 tvg-id="" tvg-name="Cine_Famiz_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Famiz_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine_Famiz HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Famiz HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79675
-#EXTINF:-1 tvg-id="" tvg-name="Cine_Frisson_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Frisson_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine_Frisson HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Frisson HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79676
-#EXTINF:-1 tvg-id="" tvg-name="CINE_POLAR_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CINE_POLAR_HD
+#EXTINF:-1 tvg-id="" tvg-name="CINE_POLAR HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CINE_POLAR HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79677
-#EXTINF:-1 tvg-id="" tvg-name="Cine_Premier_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Premier_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cine_Premier HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cine_Premier HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79678
-#EXTINF:-1 tvg-id="" tvg-name="Comedie+_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Comedie+_HD
+#EXTINF:-1 tvg-id="" tvg-name="Comedie+ HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Comedie+ HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79679
-#EXTINF:-1 tvg-id="" tvg-name="CSTAR_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CSTAR_HD
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CSTAR HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79680
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_1HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEINSPORT_1HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79681
@@ -1419,231 +1419,231 @@ http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79687
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79688
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-9HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEINSPORT-MAX-9HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79689
-#EXTINF:-1 tvg-id="" tvg-name="GOLF+_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", GOLF+_HD
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", GOLF+ HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79690
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", GOLF CHANNEL HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79691
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT-MAX-10HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BEINSPORT-MAX-10HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79692
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SPORT_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SPORT_HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SPORT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SPORT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79693
-#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SPORT_HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SPORT_HD_backup
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SPORT HD_backup" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL+_SPORT HD_backup
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79694
-#EXTINF:-1 tvg-id="" tvg-name="C8_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", C8_HD
+#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", C8 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79695
-#EXTINF:-1 tvg-id="" tvg-name="C-NEWS_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", C-NEWS_HD
+#EXTINF:-1 tvg-id="" tvg-name="C-NEWS HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", C-NEWS HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79696
-#EXTINF:-1 tvg-id="" tvg-name="AB1_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB1_HD
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB1 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79697
-#EXTINF:-1 tvg-id="" tvg-name="AB_3_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB_3_HD
+#EXTINF:-1 tvg-id="" tvg-name="AB_3 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB_3 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79698
-#EXTINF:-1 tvg-id="" tvg-name="AB_Moteur_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB_Moteur_HD
+#EXTINF:-1 tvg-id="" tvg-name="AB_Moteur HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", AB_Moteur HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79699
-#EXTINF:-1 tvg-id="" tvg-name="Action_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Action_HD
+#EXTINF:-1 tvg-id="" tvg-name="Action HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Action HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79700
-#EXTINF:-1 tvg-id="" tvg-name="Altice_Studio_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Altice_Studio_HD
+#EXTINF:-1 tvg-id="" tvg-name="Altice_Studio HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Altice_Studio HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79701
-#EXTINF:-1 tvg-id="" tvg-name="Arte_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Arte_HD
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Arte HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79702
-#EXTINF:-1 tvg-id="" tvg-name="Automoto_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Automoto_HD
+#EXTINF:-1 tvg-id="" tvg-name="Automoto HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Automoto HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79703
 #EXTINF:-1 tvg-id="" tvg-name="BET_TV" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BET_TV
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79704
-#EXTINF:-1 tvg-id="" tvg-name="BFM_SPORT_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BFM_SPORT_HD
+#EXTINF:-1 tvg-id="" tvg-name="BFM_SPORT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BFM_SPORT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79705
-#EXTINF:-1 tvg-id="" tvg-name="BFMTV_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BFMTV_HD
+#EXTINF:-1 tvg-id="" tvg-name="BFMTV HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BFMTV HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79706
-#EXTINF:-1 tvg-id="" tvg-name="Canal_J_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal_J_HD
+#EXTINF:-1 tvg-id="" tvg-name="Canal_J HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Canal_J HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79707
-#EXTINF:-1 tvg-id="" tvg-name="CANAL_SPORT_SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL_SPORT_SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL_SPORT SD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CANAL_SPORT SD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79708
-#EXTINF:-1 tvg-id="" tvg-name="Cherie25_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cherie25_HD
+#EXTINF:-1 tvg-id="" tvg-name="Cherie25 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Cherie25 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79709
-#EXTINF:-1 tvg-id="" tvg-name="CRIME_DISTRICT_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CRIME_DISTRICT_HD
+#EXTINF:-1 tvg-id="" tvg-name="CRIME_DISTRICT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CRIME_DISTRICT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79710
-#EXTINF:-1 tvg-id="" tvg-name="Discovery_Science_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Discovery_Science_HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_Science HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Discovery_Science HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79711
-#EXTINF:-1 tvg-id="" tvg-name="Discovery_INVESTIGATION_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Discovery_INVESTIGATION_HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_INVESTIGATION HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Discovery_INVESTIGATION HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79712
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISCOVERY_HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISCOVERY HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79713
-#EXTINF:-1 tvg-id="" tvg-name="ELLE_GIRL_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", ELLE_GIRL_HD
+#EXTINF:-1 tvg-id="" tvg-name="ELLE_GIRL HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", ELLE_GIRL HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79714
-#EXTINF:-1 tvg-id="" tvg-name="Equida_Life_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Equida_Life_HD
+#EXTINF:-1 tvg-id="" tvg-name="Equida_Life HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Equida_Life HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79715
-#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA_live_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", EQUIDIA_live_HD
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA_live HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", EQUIDIA_live HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79716
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", EURONEWS_HD
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", EURONEWS HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79717
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport1_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport1_HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport1 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport1 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79718
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport2_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport2_HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport2 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport2 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79719
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport_1_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport_1_HD
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport_1 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Eurosport_1 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79720
 #EXTINF:-1 tvg-id="" tvg-name="EXTREME_SPORTS" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", EXTREME_SPORTS
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79721
 #EXTINF:-1 tvg-id="" tvg-name="Foot+" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Foot+
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79722
-#EXTINF:-1 tvg-id="" tvg-name="France24_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France24_HD
+#EXTINF:-1 tvg-id="" tvg-name="France24 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", France24 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79723
-#EXTINF:-1 tvg-id="" tvg-name="Gulli_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Gulli_HD
+#EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Gulli HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79724
-#EXTINF:-1 tvg-id="" tvg-name="Info_Sports_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Info_Sports_HD
+#EXTINF:-1 tvg-id="" tvg-name="Info_Sports HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Info_Sports HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79725
-#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", INFOSPORT_HD
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", INFOSPORT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79726
 #EXTINF:-1 tvg-id="" tvg-name="KOMBAT_SPORT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", KOMBAT_SPORT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79727
-#EXTINF:-1 tvg-id="" tvg-name="L_EQUIPE-21_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", L_EQUIPE-21_HD
+#EXTINF:-1 tvg-id="" tvg-name="L_EQUIPE-21 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", L_EQUIPE-21 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79728
-#EXTINF:-1 tvg-id="" tvg-name="LA_UNE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", LA_UNE_HD
+#EXTINF:-1 tvg-id="" tvg-name="LA_UNE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", LA_UNE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79729
-#EXTINF:-1 tvg-id="" tvg-name="LCI_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", LCI_HD
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", LCI HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79730
-#EXTINF:-1 tvg-id="" tvg-name="M6_Music_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", M6_Music_HD
+#EXTINF:-1 tvg-id="" tvg-name="M6_Music HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", M6_Music HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79731
-#EXTINF:-1 tvg-id="" tvg-name="MCM_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM_HD
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79732
-#EXTINF:-1 tvg-id="" tvg-name="MCM_POP_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM_POP_HD
+#EXTINF:-1 tvg-id="" tvg-name="MCM_POP HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM_POP HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79733
-#EXTINF:-1 tvg-id="" tvg-name="MCM_TOP_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM_TOP_HD
+#EXTINF:-1 tvg-id="" tvg-name="MCM_TOP HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MCM_TOP HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79734
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MEZZO_HD
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MEZZO HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79735
 #EXTINF:-1 tvg-id="" tvg-name="MTV_BASE" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_BASE
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79736
-#EXTINF:-1 tvg-id="" tvg-name="MTV_Base_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_Base_HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV_Base HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_Base HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79737
-#EXTINF:-1 tvg-id="" tvg-name="MTV_Dance_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_Dance_HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV_Dance HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_Dance HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79738
-#EXTINF:-1 tvg-id="" tvg-name="MTV_HITS_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_HITS_HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV_HITS HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_HITS HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79739
-#EXTINF:-1 tvg-id="" tvg-name="MTV_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV_HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MTV HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79740
-#EXTINF:-1 tvg-id="" tvg-name="MY_CUISINE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MY_CUISINE_HD
+#EXTINF:-1 tvg-id="" tvg-name="MY_CUISINE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", MY_CUISINE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79741
-#EXTINF:-1 tvg-id="" tvg-name="NAT_GEO_WILD_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NAT_GEO_WILD_HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT_GEO_WILD HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NAT_GEO_WILD HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79742
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL_GEO_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NATIONAL_GEO_HD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL_GEO HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NATIONAL_GEO HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79743
-#EXTINF:-1 tvg-id="" tvg-name="Nrj12_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Nrj12_HD
+#EXTINF:-1 tvg-id="" tvg-name="Nrj12 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Nrj12 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79744
-#EXTINF:-1 tvg-id="" tvg-name="NRJ_HITS_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_HITS_HD
+#EXTINF:-1 tvg-id="" tvg-name="NRJ_HITS HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_HITS HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79745
-#EXTINF:-1 tvg-id="" tvg-name="NRJ_TV12_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_TV12_HD
+#EXTINF:-1 tvg-id="" tvg-name="NRJ_TV12 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_TV12 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79746
-#EXTINF:-1 tvg-id="" tvg-name="NRJ_TV_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_TV_HD
+#EXTINF:-1 tvg-id="" tvg-name="NRJ_TV HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NRJ_TV HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79747
-#EXTINF:-1 tvg-id="" tvg-name="NT1_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NT1_HD
+#EXTINF:-1 tvg-id="" tvg-name="NT1 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NT1 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79748
-#EXTINF:-1 tvg-id="" tvg-name="Paramount_Channel_Decale_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Paramount_Channel_Decale_HD
+#EXTINF:-1 tvg-id="" tvg-name="Paramount_Channel_Decale HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Paramount_Channel_Decale HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79749
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT_CHANNEL_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARAMOUNT_CHANNEL_HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT_CHANNEL HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARAMOUNT_CHANNEL HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79750
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARAMOUNT_HD
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARAMOUNT HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79751
-#EXTINF:-1 tvg-id="" tvg-name="PARIS_PREMIERE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARIS_PREMIERE_HD
+#EXTINF:-1 tvg-id="" tvg-name="PARIS_PREMIERE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PARIS_PREMIERE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79752
-#EXTINF:-1 tvg-id="" tvg-name="Planet_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Planet_HD
+#EXTINF:-1 tvg-id="" tvg-name="Planet HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Planet HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79753
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE _HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PLANETE _HD
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE  HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PLANETE  HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79754
-#EXTINF:-1 tvg-id="" tvg-name="PLANETE_CI_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PLANETE_CI_HD
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE_CI HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PLANETE_CI HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79755
-#EXTINF:-1 tvg-id="" tvg-name="PlaneteA.E_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PlaneteA.E_HD
+#EXTINF:-1 tvg-id="" tvg-name="PlaneteA.E HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PlaneteA.E HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79756
-#EXTINF:-1 tvg-id="" tvg-name="PlaneteCI_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PlaneteCI_HD
+#EXTINF:-1 tvg-id="" tvg-name="PlaneteCI HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PlaneteCI HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79757
-#EXTINF:-1 tvg-id="" tvg-name="RFM_TV_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RFM_TV_HD
+#EXTINF:-1 tvg-id="" tvg-name="RFM_TV HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RFM_TV HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79758
-#EXTINF:-1 tvg-id="" tvg-name="RMC_DECOVERTE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_DECOVERTE_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_DECOVERTE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_DECOVERTE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79759
-#EXTINF:-1 tvg-id="" tvg-name="RMC_Decouverte_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_Decouverte_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_Decouverte HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_Decouverte HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79760
-#EXTINF:-1 tvg-id="" tvg-name="RMC_Story_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_Story_HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC_Story HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RMC_Story HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79761
-#EXTINF:-1 tvg-id="" tvg-name="RTL_9_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RTL_9_HD
+#EXTINF:-1 tvg-id="" tvg-name="RTL_9 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RTL_9 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79762
-#EXTINF:-1 tvg-id="" tvg-name="RTS_LA_DEUX_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RTS_LA_DEUX_HD
+#EXTINF:-1 tvg-id="" tvg-name="RTS_LA_DEUX HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", RTS_LA_DEUX HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79763
-#EXTINF:-1 tvg-id="" tvg-name="SCIENCE_ET_VIE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SCIENCE_ET_VIE_HD
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE_ET_VIE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SCIENCE_ET_VIE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79764
-#EXTINF:-1 tvg-id="" tvg-name="SEASON_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SEASON_HD
+#EXTINF:-1 tvg-id="" tvg-name="SEASON HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SEASON HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79765
-#EXTINF:-1 tvg-id="" tvg-name="Syfy_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Syfy_HD
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Syfy HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79766
-#EXTINF:-1 tvg-id="" tvg-name="TCM_CINEMA_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TCM_CINEMA_HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM_CINEMA HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TCM_CINEMA HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79767
-#EXTINF:-1 tvg-id="" tvg-name="Teva_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Teva_HD
+#EXTINF:-1 tvg-id="" tvg-name="Teva HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Teva HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79768
-#EXTINF:-1 tvg-id="" tvg-name="TMC_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TMC_HD
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TMC HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79769
 #EXTINF:-1 tvg-id="" tvg-name="TOONAMI" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TOONAMI
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79770
-#EXTINF:-1 tvg-id="" tvg-name="Toute_l\'Histoire_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Toute_l\'Histoire_HD
+#EXTINF:-1 tvg-id="" tvg-name="Toute_l\'Histoire HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Toute_l\'Histoire HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79771
-#EXTINF:-1 tvg-id="" tvg-name="TRACE_AFRICA_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TRACE_AFRICA_HD
+#EXTINF:-1 tvg-id="" tvg-name="TRACE_AFRICA HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TRACE_AFRICA HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79772
-#EXTINF:-1 tvg-id="" tvg-name="TRACE_URBAN_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TRACE_URBAN_HD
+#EXTINF:-1 tvg-id="" tvg-name="TRACE_URBAN HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TRACE_URBAN HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79773
-#EXTINF:-1 tvg-id="" tvg-name="Trek_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Trek_HD
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Trek HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79774
-#EXTINF:-1 tvg-id="" tvg-name="TV5_MONDE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TV5_MONDE_HD
+#EXTINF:-1 tvg-id="" tvg-name="TV5_MONDE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TV5_MONDE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79775
-#EXTINF:-1 tvg-id="" tvg-name="TV_BREIZH_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TV_BREIZH_HD
+#EXTINF:-1 tvg-id="" tvg-name="TV_BREIZH HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TV_BREIZH HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79776
-#EXTINF:-1 tvg-id="" tvg-name="Ushuaia_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Ushuaia_HD
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Ushuaia HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79777
 #EXTINF:-1 tvg-id="" tvg-name="Virgin_TV" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Virgin_TV
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79778
-#EXTINF:-1 tvg-id="" tvg-name="VOYAGE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", VOYAGE_HD
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", VOYAGE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79779
-#EXTINF:-1 tvg-id="" tvg-name="W9_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", W9_HD
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", W9 HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79780
 #EXTINF:-1 tvg-id="" tvg-name="WEO" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", WEO
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79781
-#EXTINF:-1 tvg-id="" tvg-name="POLAR+_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", POLAR+_HD
+#EXTINF:-1 tvg-id="" tvg-name="POLAR+ HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", POLAR+ HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79782
-#EXTINF:-1 tvg-id="" tvg-name="SERIE_CLUB_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SERIE_CLUB_HD
+#EXTINF:-1 tvg-id="" tvg-name="SERIE_CLUB HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", SERIE_CLUB HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79783
-#EXTINF:-1 tvg-id="" tvg-name="TELETOON+_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TELETOON+_HD
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON+ HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TELETOON+ HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79784
-#EXTINF:-1 tvg-id="" tvg-name="TeleToon_Plus_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TeleToon_Plus_HD
+#EXTINF:-1 tvg-id="" tvg-name="TeleToon_Plus HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TeleToon_Plus HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79785
-#EXTINF:-1 tvg-id="" tvg-name="PIWI_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PIWI_HD
+#EXTINF:-1 tvg-id="" tvg-name="PIWI HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", PIWI HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79786
 #EXTINF:-1 tvg-id="" tvg-name="Nicklodeon_Junior" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Nicklodeon_Junior
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79787
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON_JUNIOR_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NICKELODEON_JUNIOR_HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON_JUNIOR HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NICKELODEON_JUNIOR HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79788
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NICKELODEON_HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", NICKELODEON HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79789
-#EXTINF:-1 tvg-id="" tvg-name="Mangas_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Mangas_HD
+#EXTINF:-1 tvg-id="" tvg-name="Mangas HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Mangas HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79790
-#EXTINF:-1 tvg-id="" tvg-name="J-ONE_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", J-ONE_HD
+#EXTINF:-1 tvg-id="" tvg-name="J-ONE HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", J-ONE HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79791
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY_XD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_XD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79792
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY_JUNIOR_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_JUNIOR_HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY_JUNIOR HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_JUNIOR HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79793
 #EXTINF:-1 tvg-id="" tvg-name="DisneyJunior" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DisneyJunior
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79794
 #EXTINF:-1 tvg-id="" tvg-name="Disney_Cinema" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Disney_Cinema
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79795
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY_CINE_MAGIC_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_CINE_MAGIC_HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY_CINE_MAGIC HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_CINE_MAGIC HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79796
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY_CHANNEL_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_CHANNEL_HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY_CHANNEL HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", DISNEY_CHANNEL HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79797
-#EXTINF:-1 tvg-id="" tvg-name="TIJI_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TIJI_HD
+#EXTINF:-1 tvg-id="" tvg-name="TIJI HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", TIJI HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79798
 #EXTINF:-1 tvg-id="" tvg-name="CartoonNetworkHD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CartoonNetworkHD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79799
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON_NETWORK_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CARTOON_NETWORK_HD
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON_NETWORK HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", CARTOON_NETWORK HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79800
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BOOMERANG_HD
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BOOMERANG HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79801
-#EXTINF:-1 tvg-id="" tvg-name="BOING_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BOING_HD
+#EXTINF:-1 tvg-id="" tvg-name="BOING HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", BOING HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79802
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Boing
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79803
@@ -1651,7 +1651,7 @@ http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79803
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79804
 #EXTINF:-1 tvg-id="" tvg-name="GAME_ONEHD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", GAME_ONEHD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79805
-#EXTINF:-1 tvg-id="" tvg-name="13Rue_HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", 13Rue_HD
+#EXTINF:-1 tvg-id="" tvg-name="13Rue HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", 13Rue HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79806
 #EXTINF:-1 tvg-id="" tvg-name="Boing FHD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Boing FHD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79807
@@ -1691,7 +1691,7 @@ http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79823
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79824
 #EXTINF:-1 tvg-id="" tvg-name="Tiji HD" tvg-logo="https://mcsleader.com/wp-content/uploads/2018/05/untitled-design-277.jpg" group-title="Cobraa", Tiji HD
 http://cobraa.in:8000/x5000779/5f4a42ae89a7f/79825
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1_hd.jpg" group-title="apt50710com", TF1 HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1 HD.jpg" group-title="apt50710com", TF1 HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1385
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", TF1 SERIES FILMS HD
@@ -1784,7 +1784,7 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/4145
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Children Channels", boomerang HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1963
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr_hd.jpg" group-title="Children Channels", DISNEY CINEMA HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_fr HD.jpg" group-title="Children Channels", DISNEY CINEMA HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2387
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Children Channels", Disney XD
@@ -1793,10 +1793,10 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/1688
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", DISCOVERY HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2073
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="apt50710com", NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr HD.jpg" group-title="apt50710com", NATIONAL GEOGRAPHIC HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2894
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr_hd.jpg" group-title="apt50710com", NATIONAL GEO WILD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_fr HD.jpg" group-title="apt50710com", NATIONAL GEO WILD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2893
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", TCM Cinema HD
@@ -1835,7 +1835,7 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/1689
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", Canal + family
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1657
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es_hd.jpg" group-title="apt50710com", Canal + HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_es HD.jpg" group-title="apt50710com", Canal + HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/886
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalsat_fr_foot_plus.jpg" group-title="apt50710com", Foot 24
@@ -1844,7 +1844,7 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/2744
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", EUROSPORT 2 HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/2069
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_sport_hd.jpg" group-title="apt50710com", CANAL+ SPORT HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_sport HD.jpg" group-title="apt50710com", CANAL+ SPORT HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/1102
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", Bein Sports 1 HD
@@ -1859,7 +1859,7 @@ http://62.210.149.105:8000/apt50710com/fgemorighnojn/965
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="apt50710com", Bein Sports max 6 HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/4625
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus_hd.jpg" group-title="apt50710com", GOLF HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canalplus_fr_golf_plus HD.jpg" group-title="apt50710com", GOLF HD
 http://62.210.149.105:8000/apt50710com/fgemorighnojn/5359
 
 #EXTINF:-1 tvg-logo="http://tv.iptvboss.net/ch_logo/canal+cinema.png" group-title="VipDream", CANAL + CINEMA HD
@@ -2234,70 +2234,70 @@ http://ip.bosszx.net:80/vipdream/INTt4fwDCm/1861
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1.png" group-title="Tarek", TF1 HD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11832
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1.png" group-title="Tarek", TF1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1.png" group-title="Tarek", TF1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54194
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1.png" group-title="Tarek", TF1 +1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1.png" group-title="Tarek", TF1 +1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55303
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/m6_fr.png" group-title="Tarek", M6 HD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11866
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/m6_fr.png" group-title="Tarek", M6 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/m6_fr.png" group-title="Tarek", M6 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54186
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france2-fr.png" group-title="Tarek", FRANCE 2
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11880
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france2-fr.png" group-title="Tarek", FRANCE 2 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france2-fr.png" group-title="Tarek", FRANCE 2 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54191
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france3-fr.png" group-title="Tarek", FRANCE 3
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11879
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france3-fr.png" group-title="Tarek", FRANCE 3 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france3-fr.png" group-title="Tarek", FRANCE 3 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54190
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france4-fr.png" group-title="Tarek", FRANCE 4
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11878
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france4-fr.png" group-title="Tarek", FRANCE 4 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france4-fr.png" group-title="Tarek", FRANCE 4 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54189
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france5-fr.png" group-title="Tarek", FRANCE 5
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11877
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france5-fr.png" group-title="Tarek", FRANCE 5 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france5-fr.png" group-title="Tarek", FRANCE 5 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54188
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france-o-fr.png" group-title="Tarek", FRANCE O
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11875
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france-o-fr.png" group-title="Tarek", FRANCE O sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france-o-fr.png" group-title="Tarek", FRANCE O SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54187
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/arte_fr.png" group-title="Tarek", ARTE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11924
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/arte_de.png" group-title="Tarek", ARTE sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/arte_de.png" group-title="Tarek", ARTE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55301
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1-series-films-fr.png" group-title="Tarek", TF1 Series Films
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11870
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1-series-films-fr.png" group-title="Tarek", TF1 SERIES / FILMS sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tf1-series-films-fr.png" group-title="Tarek", TF1 SERIES / FILMS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55276
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tfx-fr.png" group-title="Tarek", TFX
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11853
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tfx-fr.png" group-title="Tarek", TFX sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tfx-fr.png" group-title="Tarek", TFX SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54193
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", MY CUISINE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/53788
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/cherie25-fr.png" group-title="Tarek", CHERIE 25 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/cherie25-fr.png" group-title="Tarek", CHERIE 25 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54131
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/cherie25-fr.png" group-title="Tarek", CHERIE 25
@@ -2306,16 +2306,16 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11906
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_star.png" group-title="Tarek", CSTAR
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11895
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_star.png" group-title="Tarek", CSTAR sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_star.png" group-title="Tarek", CSTAR SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54180
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CSTAR HITS sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CSTAR HITS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55292
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tv5_monde_fr_be_ch.png" group-title="Tarek", TV5  MONDE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11826
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tv5_monde_fr_be_ch.png" group-title="Tarek", TV5 MONDE sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tv5_monde_fr_be_ch.png" group-title="Tarek", TV5 MONDE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55274
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tv_breizh_fr.png" group-title="Tarek", TV BREIZH
@@ -2324,13 +2324,13 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11827
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/teva_fr.png" group-title="Tarek", TEVA
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11824
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/teva_fr.png" group-title="Tarek", TEVA sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/teva_fr.png" group-title="Tarek", TEVA SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55277
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_8.png" group-title="Tarek", C8
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11908
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_8.png" group-title="Tarek", C8 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_8.png" group-title="Tarek", C8 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54184
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_comedie_plus.png" group-title="Tarek", Comedie+
@@ -2339,7 +2339,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11897
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/numero_23_fr.png" group-title="Tarek", RMC STORY
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11852
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", RMC STORY sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", RMC STORY SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54140
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rts_ch_deux.png" group-title="Tarek", RTS DEUX
@@ -2351,19 +2351,19 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11842
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tmc_mc.png" group-title="Tarek", TMC
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11830
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tcm_global.png" group-title="Tarek", TMC 1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tcm_global.png" group-title="Tarek", TMC 1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55275
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/w9_fr.png" group-title="Tarek", W9
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11822
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/w9_fr.png" group-title="Tarek", W9 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/w9_fr.png" group-title="Tarek", W9 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54183
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/6ter_fr.png" group-title="Tarek", 6TER
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11929
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/6ter_fr.png" group-title="Tarek", 6TER sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/6ter_fr.png" group-title="Tarek", 6TER SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54185
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", Notele
@@ -2372,73 +2372,73 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/20448
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/bet-france-us-fr.png" group-title="Tarek", BET
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/12127
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", GAME ONE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", GAME ONE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55288
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_clair.png" group-title="Tarek", CANAL+
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11916
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_clair.png" group-title="Tarek", CANAL  sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_clair.png" group-title="Tarek", CANAL  SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54173
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cinema.png" group-title="Tarek", CANAL+ CINEMA
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11915
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusCinema-95x43.png" group-title="Tarek", CANAL  CINEMA sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusCinema-95x43.png" group-title="Tarek", CANAL  CINEMA SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54171
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_decale.png" group-title="Tarek", CANAL+ DECALE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11914
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_decale.png" group-title="Tarek", CANAL+ DECALE sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_decale.png" group-title="Tarek", CANAL+ DECALE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54172
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_family.png" group-title="Tarek", CANAL+ FAMILY
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11913
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusFamily-95x44.png" group-title="Tarek", CANAL  FAMILY sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusFamily-95x44.png" group-title="Tarek", CANAL  FAMILY SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54170
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_series.png" group-title="Tarek", CANAL+ SERIES
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11912
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusSeries-95x43.png" group-title="Tarek", CANAL  SERIES sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/canalPlusSeries-95x43.png" group-title="Tarek", CANAL  SERIES SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55298
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_premier.png" group-title="Tarek", CINE+ PREMIER
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11905
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusPremier-95x49.png" group-title="Tarek", Cine Premier sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusPremier-95x49.png" group-title="Tarek", Cine Premier SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54176
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_classic.png" group-title="Tarek", CINE+ CLASSIC
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11904
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusClassic-95x49.png" group-title="Tarek", CINE+ CLASSIC sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusClassic-95x49.png" group-title="Tarek", CINE+ CLASSIC SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55311
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_club.png" group-title="Tarek", CINE+ CLUB
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11903
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusClub-95x49.png" group-title="Tarek", CINE+ CLUB sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusClub-95x49.png" group-title="Tarek", CINE+ CLUB SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55310
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_emotion.png" group-title="Tarek", CINE+ EMOTION
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11902
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusEmotion-95x49.png" group-title="Tarek", CINE Emotion sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusEmotion-95x49.png" group-title="Tarek", CINE Emotion SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54149
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_famiz.png" group-title="Tarek", CINE+ FAMIZ
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11901
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusFamiz-95x49.png" group-title="Tarek", Cine Famiz sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusFamiz-95x49.png" group-title="Tarek", Cine Famiz SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54168
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_cine_plus_frisson.png" group-title="Tarek", CINE+ FRISSON
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11900
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusFrisson-95x49.png" group-title="Tarek", CINE+ Frisson sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/cinePlusFrisson-95x49.png" group-title="Tarek", CINE+ Frisson SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54151
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/fx_us.png" group-title="Tarek", PARAMOUNT DECALE
@@ -2450,7 +2450,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11898
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/altice-studio.png" group-title="Tarek", ALTICE STUDIO
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/53783
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/altice-studio.png" group-title="Tarek", ALTICE STUDIO sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/altice-studio.png" group-title="Tarek", ALTICE STUDIO SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55312
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/sundancetv-95x19.png" group-title="Tarek", SUNDANCE CHANNEL
@@ -2459,82 +2459,82 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/53787
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/Warner-azul.png" group-title="Tarek", WARNER
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/53784
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/Warner-azul.png" group-title="Tarek", WARNER TV sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/Warner-azul.png" group-title="Tarek", WARNER TV SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55272
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/paramount-channel-decale.png" group-title="Tarek", PARAMOUNT DECALE sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/paramount-channel-decale.png" group-title="Tarek", PARAMOUNT DECALE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55305
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/paramount_channel_us.png" group-title="Tarek", PARAMOUNT CHANNE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11851
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/es/paramount_channel_55x55.png" group-title="Tarek", PARAMOUNT CHANNEL sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/es/paramount_channel_55x55.png" group-title="Tarek", PARAMOUNT CHANNEL SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55306
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/paris-premiere-95x27.gif" group-title="Tarek", PARIS PRMIERE HD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55270
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/paris-premiere-95x27.gif" group-title="Tarek", PARIS PREMIERE sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/paris-premiere-95x27.gif" group-title="Tarek", PARIS PREMIERE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55278
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocsMax-95x50.png" group-title="Tarek", OCS MAX
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/1167
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocsMax-95x50.png" group-title="Tarek", OCS MAX sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocsMax-95x50.png" group-title="Tarek", OCS MAX SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54139
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-geants-84x52.png" group-title="Tarek", OCS GEANT
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/1165
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-geants-84x52.png" group-title="Tarek", OCS GEANTS sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-geants-84x52.png" group-title="Tarek", OCS GEANTS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55279
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-city-89x55.png" group-title="Tarek", OCS CITY
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/1168
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-city-89x55.png" group-title="Tarek", OCS CITY sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-city-89x55.png" group-title="Tarek", OCS CITY SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54138
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/ocs_choc.png" group-title="Tarek", OCS CHOC
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/1166
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-choc-95x50.png" group-title="Tarek", OCS CHOC sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/ocs-choc-95x50.png" group-title="Tarek", OCS CHOC SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54137
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/comediePlus-67x60.png" group-title="Tarek", COMEDIE sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/comediePlus-67x60.png" group-title="Tarek", COMEDIE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54175
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/action_fr.png" group-title="Tarek", ACTION
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11926
 
-#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Tarek", ACTION sd
+#EXTINF:-1 tvg-logo="http://i4.yhk0.net/cha/fr/action-95x19.png" group-title="Tarek", ACTION SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54174
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rtl9.png" group-title="Tarek", RTL9 HD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11844
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rtl9-95x46.png" group-title="Tarek", RTL9 sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rtl9-95x46.png" group-title="Tarek", RTL9 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54142
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/syfy_us_global.png" group-title="Tarek", SYFY
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11835
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/syfy_us_global.png" group-title="Tarek", SYFY sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/syfy_us_global.png" group-title="Tarek", SYFY SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54178
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tcm_cinema_fr.png" group-title="Tarek", TCM CINEMA
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11834
 
-#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tcm-cinema-95x45.png" group-title="Tarek", TCM CINEMA sd
+#EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tcm-cinema-95x45.png" group-title="Tarek", TCM CINEMA SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55304
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tcm_global.png" group-title="Tarek", TMC sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/tcm_global.png" group-title="Tarek", TMC SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54181
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/13eme_rue_fr.png" group-title="Tarek", 13EME RUE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11930
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/13eme_rue_fr.png" group-title="Tarek", 13EME RUE sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/13eme_rue_fr.png" group-title="Tarek", 13EME RUE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54179
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", EURO Channel
@@ -2597,25 +2597,25 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/3157
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_sport.png" group-title="Tarek", CANAL+ SPORT
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11911
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_sport.png" group-title="Tarek", CANAL SPORT sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_sport.png" group-title="Tarek", CANAL SPORT SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54169
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_01_hd.png" group-title="Tarek", BEINSPORT 1
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_01 HD.png" group-title="Tarek", BEINSPORT 1
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11923
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_01_hd.png" group-title="Tarek", BEIN 1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_01 HD.png" group-title="Tarek", BEIN 1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54161
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_02_hd.png" group-title="Tarek", BEINSPORT 2
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_02 HD.png" group-title="Tarek", BEINSPORT 2
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11922
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_02_hd.png" group-title="Tarek", BEIN 2 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_02 HD.png" group-title="Tarek", BEIN 2 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54160
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_03_hd.png" group-title="Tarek", BEINSPORT 3
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_03 HD.png" group-title="Tarek", BEINSPORT 3
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11921
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_03_hd.png" group-title="Tarek", BEIN 3 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_03 HD.png" group-title="Tarek", BEIN 3 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54159
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/rmc-sport-news-95x26.png" group-title="Tarek", RMC SPORTS
@@ -2627,37 +2627,37 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54141
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-1-95x29.png" group-title="Tarek", RMC Sport 1 Direct
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/37491
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-1-95x29.png" group-title="Tarek", RMC SP 1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-1-95x29.png" group-title="Tarek", RMC SP 1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54165
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-2-95x28.png" group-title="Tarek", RMC Sport 2 Direct
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/37490
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-2-95x28.png" group-title="Tarek", RMC SP 2 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-2-95x28.png" group-title="Tarek", RMC SP 2 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54164
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-3-95x28.png" group-title="Tarek", RMC Sport 3 Direct
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/37489
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-3-95x28.png" group-title="Tarek", RMC SP 3 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-3-95x28.png" group-title="Tarek", RMC SP 3 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54163
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-4-95x27.png" group-title="Tarek", RMC Sport 4 Direct
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/37488
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-4-95x27.png" group-title="Tarek", RMC SP 4 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-sport-4-95x27.png" group-title="Tarek", RMC SP 4 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54162
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_infosport_plus.png" group-title="Tarek", INFOSPORT
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11868
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_infosport_plus.png" group-title="Tarek", INFOSPORT sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_infosport_plus.png" group-title="Tarek", INFOSPORT SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54167
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/l_equipe_fr.png" group-title="Tarek", L EQUIPE 21
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11867
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/l_equipe_fr.png" group-title="Tarek", L'EQUIPE 21 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/l_equipe_fr.png" group-title="Tarek", L'EQUIPE 21 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54166
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_golf_plus.png" group-title="Tarek", GOLF
@@ -2666,7 +2666,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11873
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_golf_plus.png" group-title="Tarek", GOLF+
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11872
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/ab_moteurs_fr.png" group-title="Tarek", AB MOTEUR sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/ab_moteurs_fr.png" group-title="Tarek", AB MOTEUR SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55302
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/equidia-fr.png" group-title="Tarek", EQUIDIA LIFE
@@ -2675,40 +2675,40 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11886
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/equidia-fr.png" group-title="Tarek", EQUIDIA LIVE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11885
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/equidia-fr.png" group-title="Tarek", EQUIDIA sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/equidia-fr.png" group-title="Tarek", EQUIDIA SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55289
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_1.png" group-title="Tarek", EUROSPORT1
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11882
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_1.png" group-title="Tarek", EUROSPORT 1 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_1.png" group-title="Tarek", EUROSPORT 1 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54135
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_2.png" group-title="Tarek", EUROSPORT2
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11883
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_2.png" group-title="Tarek", EUROSPORT 2 sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/eurosport_fr_2.png" group-title="Tarek", EUROSPORT 2 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54136
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_04_hd.png" group-title="Tarek", BEIN MAX 4
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_04 HD.png" group-title="Tarek", BEIN MAX 4
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/4511
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_05_hd.png" group-title="Tarek", BEIN MAX 5
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_05 HD.png" group-title="Tarek", BEIN MAX 5
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/4510
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_06_hd.png" group-title="Tarek", BEIN MAX 6
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_06 HD.png" group-title="Tarek", BEIN MAX 6
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/4509
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_07_hd.png" group-title="Tarek", BEIN MAX 7
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_07 HD.png" group-title="Tarek", BEIN MAX 7
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/4508
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_08_hd.png" group-title="Tarek", BEIN MAX 8
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_08 HD.png" group-title="Tarek", BEIN MAX 8
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/23041
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_09_hd.png" group-title="Tarek", BEIN MAX 9
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_09 HD.png" group-title="Tarek", BEIN MAX 9
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/23040
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_10_hd.png" group-title="Tarek", BEIN MAX 10
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/be_in_mena_sports_max_10 HD.png" group-title="Tarek", BEIN MAX 10
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/23039
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/regarder-RMC-sport.jpg" group-title="Tarek", RMC Sport Live 5 HD
@@ -2750,10 +2750,10 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/121094
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", TELEFOOT STADIUM 5 FHD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/121095
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/lci-fr.png" group-title="Tarek", LCI sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/lci-fr.png" group-title="Tarek", LCI SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55283
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/lcp-tnt-fr.png" group-title="Tarek", LCP sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/lcp-tnt-fr.png" group-title="Tarek", LCP SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55282
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/france_info_tv.png" group-title="Tarek", FRANCE INFO
@@ -2762,19 +2762,19 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11876
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/bfm_fr_tv.png" group-title="Tarek", BFM TV
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11919
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", BFM TV sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", BFM TV SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55299
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/bfm_fr_business.png" group-title="Tarek", BFM BUSINESS
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11920
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", BFM BUSINESS sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", BFM BUSINESS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55300
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/euronews_fr.png" group-title="Tarek", EURONEWS
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11884
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", EURONEWS sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", EURONEWS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55309
 
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwio-f6HoNHjAhVKUxoKHblIBiIQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.20minutes.fr%252Ftelevision%252F1445591-20140918-france-24-directeur-appelle-prendre-parti-contre-barbares-djihadistes%26psig%3DAOvVaw2iaQLi2n_o0LBA3CwJFchv%26ust%3D1564184613842396&psig=AOvVaw2iaQLi2n_o0LBA3CwJFchv&ust=1564184613842396" group-title="Tarek", France 24
@@ -2783,7 +2783,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/82774
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_c_news.png" group-title="Tarek", CNEWS
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11909
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CNEWS sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CNEWS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55293
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", I24 News
@@ -2804,7 +2804,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11865
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/gulli_fr.png" group-title="Tarek", Gulli
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11871
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/gulli_fr.png" group-title="Tarek", GULLI sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/gulli_fr.png" group-title="Tarek", GULLI SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55286
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/TONAMI.png" group-title="Tarek", TOONAMI
@@ -2840,7 +2840,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11917
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/disney_channel_global.png" group-title="Tarek", DISNEY CHANNEL
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11892
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/disney_channel_global.png" group-title="Tarek", DISNEY CHANNEL sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/disney_channel_global.png" group-title="Tarek", DISNEY CHANNEL SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55290
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/boing_fr.png" group-title="Tarek", BOING
@@ -2849,109 +2849,109 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11918
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/gongmax.jpg" group-title="Tarek", GongMax
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/20444
 
-#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/Gong.png" group-title="Tarek", GONG sd
+#EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/Gong.png" group-title="Tarek", GONG SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55287
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", |FR| E! ENTERTAINMENT sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", E! ENTERTAINMENT SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54133
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/mtv_hits_us_global.png" group-title="Tarek", MTV FRANCE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11859
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", |FR| NRJ12 sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", NRJ12 SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54182
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", |FR| WEO sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="France Muisc & fashion", WEO SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55271
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/trek_fr.png" group-title="Tarek", TREK
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11828
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", TREK sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", TREK SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54155
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/voyage_fr.png" group-title="Tarek", VOYAGE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11823
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", VOYAGE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", VOYAGE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54157
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/ushuaia_tv.png" group-title="Tarek", USHUAIA TV
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11825
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", USHUAIA sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", USHUAIA SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54158
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/animaux_fr.png" group-title="Tarek", ANIMAUX
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11925
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", ANIMAUX sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", ANIMAUX SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54143
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/canalplus_fr_seasons.png" group-title="Tarek", SEASONS
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11840
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", SEASONS sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", SEASONS SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54156
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/science_et_vie_tv_fr.png" group-title="Tarek", SCIENCES & VIE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11841
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", SCIENCE&VIE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", SCIENCE&VIE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54147
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/rmc-decouverte-fr.png" group-title="Tarek", RMC DECOUVERTE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11845
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", RMC DECOUVERTE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", RMC DECOUVERTE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54146
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/histoire_fr.png" group-title="Tarek", HISTOIRE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11869
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", HISTOIRE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", HISTOIRE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/55285
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/nat_geo_wild_us.png" group-title="Tarek", NATIONAL GEO WILD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11858
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", NAT GEO WILD sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", NAT GEO WILD SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54144
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/nat_geo_us.png" group-title="Tarek", NATIONAL GEOGRAPHIC
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11857
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", NAT GEO sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", NAT GEO SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54145
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/planete_plus.png" group-title="Tarek", PLANETE +
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11849
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54154
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/planete_plus_action_experience.png" group-title="Tarek", PLANETE A&E
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11848
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE AE sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE AE SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54153
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/planete_plus_crime_investigation.png" group-title="Tarek", PLANETE CI
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11847
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE CI sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", PLANETE CI SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54152
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/discovery_global_us.png" group-title="Tarek", DISCOVERY
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11894
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", DISCOVERY sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", DISCOVERY SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54150
 
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/discovery-science-france-us-fr.png" group-title="Tarek", DISCOVERY SCIENCE
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11893
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", DISCOVERY-SC sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", DISCOVERY-SC SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54148
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", DISCOVERY FAMILLY
@@ -2963,7 +2963,7 @@ http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/2688
 #EXTINF:-1 tvg-logo="http://ip.4mz.us/logo/crime_district_fr.png" group-title="Tarek", CRIME DISTRICT
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/11896
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CRIME DISTRICT sd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Tarek", CRIME DISTRICT SD
 http://hdliveiptv.com:8900/Tarek_Elgnde/3219masri/54132
 
 #EXTINF:-1 tvg-logo="http://i5.satexpat.com/cha/fr/tf1_95x35.gif" group-title="Tarek", TF1 H265
@@ -6668,7 +6668,7 @@ http://rv.therevenge.co:80/Anna/Anna123456/78656
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/trace_fr_urban.png" group-title="Anna", TRACE URBAN
 http://rv.therevenge.co:80/Anna/Anna123456/78653
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo_live_hd.png" group-title="Anna", MEZZO LIVE
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mezzo_live HD.png" group-title="Anna", MEZZO LIVE
 http://rv.therevenge.co:80/Anna/Anna123456/78652
 
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-france-fr.png" group-title="Anna", MCM
@@ -6689,7 +6689,7 @@ http://rv.therevenge.co:80/Anna/Anna123456/78646
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_us.png" group-title="Anna", MTV
 http://rv.therevenge.co:80/Anna/Anna123456/78645
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Anna", MTV LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live HD_2017_logo.svg/1200px-MTV_Live HD_2017_logo.svg.png" group-title="Anna", MTV LIVE
 http://rv.therevenge.co:80/Anna/Anna123456/78644
 
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mtv_hits_us_global.png" group-title="Anna", MTV HITS
@@ -7118,7 +7118,7 @@ http://rv.therevenge.co:80/Anna/Anna123456/78481
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/teva_fr.png" group-title="Anna", TEVA HD
 http://rv.therevenge.co:80/Anna/Anna123456/78480
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC_HD.PNG" group-title="Anna", TMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TMC HD.PNG" group-title="Anna", TMC HD
 http://rv.therevenge.co:80/Anna/Anna123456/78479
 
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/w9_fr.png" group-title="Anna", W9 HD
@@ -7373,22 +7373,22 @@ http://rv.therevenge.co:80/Anna/Anna123456/78391
 #EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/bein-sports-max-4-qa-fr.png" group-title="Anna", BEIN SPORT MAX 4 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78390
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="Anna", BEIN SPORT MAX 5 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_05 HD.png" group-title="Anna", BEIN SPORT MAX 5 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78389
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_06_hd.png" group-title="Anna", BEIN SPORT MAX 6 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_06 HD.png" group-title="Anna", BEIN SPORT MAX 6 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78388
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_07_hd.png" group-title="Anna", BEIN SPORT MAX 7 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_07 HD.png" group-title="Anna", BEIN SPORT MAX 7 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78387
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_08_hd.png" group-title="Anna", BEIN SPORT MAX 8 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_08 HD.png" group-title="Anna", BEIN SPORT MAX 8 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78386
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_09_hd.png" group-title="Anna", BEIN SPORT MAX 9 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_09 HD.png" group-title="Anna", BEIN SPORT MAX 9 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78385
 
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_10_hd.png" group-title="Anna", BEIN SPORT MAX 10 HD
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/be_in_mena_sports_max_10 HD.png" group-title="Anna", BEIN SPORT MAX 10 HD
 http://rv.therevenge.co:80/Anna/Anna123456/78384
 
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/eurosport-1-95x10.png" group-title="Anna", EUROSPORT 1 HD
