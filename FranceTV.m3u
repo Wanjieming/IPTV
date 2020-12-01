@@ -1,4 +1,384 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="" group-title="Love",FRANCE 3
+http://vip.groupiptv.com:7000/love/love/1318
+#EXTINF:-1 tvg-ID="" tvg-name="RTL9" tvg-logo="" group-title="Love",RTL9
+http://vip.groupiptv.com:7000/love/love/1319
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON +" tvg-logo="" group-title="Love",TELETOON +
+http://vip.groupiptv.com:7000/love/love/1320
+#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="" group-title="Love",W9
+http://vip.groupiptv.com:7000/love/love/1321
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="Love",BOOMERANG HD
+http://vip.groupiptv.com:7000/love/love/1322
+#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" group-title="Love",Boing
+http://vip.groupiptv.com:7000/love/love/1323
+#EXTINF:-1 tvg-ID="" tvg-name=" Cartoon Network HD" tvg-logo="" group-title="Love", Cartoon Network HD
+http://vip.groupiptv.com:7000/love/love/1324
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Love",Discovery Science HD
+http://vip.groupiptv.com:7000/love/love/1325
+#EXTINF:-1 tvg-ID="" tvg-name=" Disney Jr Fr" tvg-logo="" group-title="Love", Disney Jr Fr
+http://vip.groupiptv.com:7000/love/love/1326
+#EXTINF:-1 tvg-ID="" tvg-name=" Nat Geo HD" tvg-logo="" group-title="Love", Nat Geo HD
+http://vip.groupiptv.com:7000/love/love/1327
+#EXTINF:-1 tvg-ID="" tvg-name=" Nat Geo Wild  HD" tvg-logo="" group-title="Love", Nat Geo Wild  HD
+http://vip.groupiptv.com:7000/love/love/1328
+#EXTINF:-1 tvg-ID="" tvg-name=" NRJ12 HD" tvg-logo="" group-title="Love", NRJ12 HD
+http://vip.groupiptv.com:7000/love/love/1329
+#EXTINF:-1 tvg-ID="" tvg-name="13 EME RUE HD" tvg-logo="" group-title="Love",13 EME RUE HD
+http://vip.groupiptv.com:7000/love/love/1330
+#EXTINF:-1 tvg-ID="" tvg-name="6TER HD" tvg-logo="" group-title="Love",6TER HD
+http://vip.groupiptv.com:7000/love/love/1331
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 10" tvg-logo="" group-title="Love",A LA CARTE 10
+http://vip.groupiptv.com:7000/love/love/1332
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 7" tvg-logo="" group-title="Love",A LA CARTE 7
+http://vip.groupiptv.com:7000/love/love/1333
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 8" tvg-logo="" group-title="Love",A LA CARTE 8
+http://vip.groupiptv.com:7000/love/love/1334
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 9" tvg-logo="" group-title="Love",A LA CARTE 9
+http://vip.groupiptv.com:7000/love/love/1335
+#EXTINF:-1 tvg-ID="" tvg-name="AB Moteur HD" tvg-logo="" group-title="Love",AB Moteur HD
+http://vip.groupiptv.com:7000/love/love/1336
+#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="" group-title="Love",AB1
+http://vip.groupiptv.com:7000/love/love/1337
+#EXTINF:-1 tvg-ID="" tvg-name="AB3" tvg-logo="" group-title="Love",AB3
+http://vip.groupiptv.com:7000/love/love/1338
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="Love",ACTION
+http://vip.groupiptv.com:7000/love/love/1339
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="Love",ANIMAUX
+http://vip.groupiptv.com:7000/love/love/1340
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE HD" tvg-logo="" group-title="Love",ARTE HD
+http://vip.groupiptv.com:7000/love/love/1341
+#EXTINF:-1 tvg-ID="" tvg-name="D8" tvg-logo="" group-title="Love",D8
+http://vip.groupiptv.com:7000/love/love/1348
+#EXTINF:-1 tvg-ID="" tvg-name="C8" tvg-logo="" group-title="Love",C8
+http://vip.groupiptv.com:7000/love/love/1349
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Cinema" tvg-logo="" group-title="Love",Canal  Cinema
+http://vip.groupiptv.com:7000/love/love/1350
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Decale" tvg-logo="" group-title="Love",Canal  Decale
+http://vip.groupiptv.com:7000/love/love/1351
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Family" tvg-logo="" group-title="Love",Canal  Family
+http://vip.groupiptv.com:7000/love/love/1352
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Series" tvg-logo="" group-title="Love",Canal  Series
+http://vip.groupiptv.com:7000/love/love/1353
+#EXTINF:-1 tvg-ID="" tvg-name="Canal  Sport" tvg-logo="" group-title="Love",Canal  Sport
+http://vip.groupiptv.com:7000/love/love/1354
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="Love",CANAL J
+http://vip.groupiptv.com:7000/love/love/1355
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="Love",CANAL PLAY 1
+http://vip.groupiptv.com:7000/love/love/1356
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="" group-title="Love",CANAL PLAY 2
+http://vip.groupiptv.com:7000/love/love/1357
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="Love",CANAL PLAY 3
+http://vip.groupiptv.com:7000/love/love/1358
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="Love",CANAL PLAY 4
+http://vip.groupiptv.com:7000/love/love/1359
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="" group-title="Love",CANAL PLAY 5
+http://vip.groupiptv.com:7000/love/love/1360
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 6" tvg-logo="" group-title="Love",CANAL PLAY 6
+http://vip.groupiptv.com:7000/love/love/1361
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 7" tvg-logo="" group-title="Love",CANAL PLAY 7
+http://vip.groupiptv.com:7000/love/love/1362
+#EXTINF:-1 tvg-ID="" tvg-name="Chasse et Peche" tvg-logo="" group-title="Love",Chasse et Peche
+http://vip.groupiptv.com:7000/love/love/1363
+#EXTINF:-1 tvg-ID="" tvg-name="CHERIE 25 HD" tvg-logo="" group-title="Love",CHERIE 25 HD
+http://vip.groupiptv.com:7000/love/love/1364
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC" tvg-logo="" group-title="Love",CINE CLASSIC
+http://vip.groupiptv.com:7000/love/love/1365
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC HD" tvg-logo="" group-title="Love",CINE CLASSIC HD
+http://vip.groupiptv.com:7000/love/love/1366
+#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION" tvg-logo="" group-title="Love",CINE EMOTION
+http://vip.groupiptv.com:7000/love/love/1367
+#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION HD" tvg-logo="" group-title="Love",CINE EMOTION HD
+http://vip.groupiptv.com:7000/love/love/1368
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ" tvg-logo="" group-title="Love",CINE FAMIZ
+http://vip.groupiptv.com:7000/love/love/1369
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Famiz HD" tvg-logo="" group-title="Love",Cine Famiz HD
+http://vip.groupiptv.com:7000/love/love/1370
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON" tvg-logo="" group-title="Love",CINE FRISSON
+http://vip.groupiptv.com:7000/love/love/1371
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON HD" tvg-logo="" group-title="Love",CINE FRISSON HD
+http://vip.groupiptv.com:7000/love/love/1372
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="" group-title="Love",CINE FX
+http://vip.groupiptv.com:7000/love/love/1373
+#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="" group-title="Love",CINE POLAR
+http://vip.groupiptv.com:7000/love/love/1374
+#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER HD" tvg-logo="" group-title="Love",CINE PREMIER HD
+http://vip.groupiptv.com:7000/love/love/1375
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE  HD" tvg-logo="" group-title="Love",COMEDIE  HD
+http://vip.groupiptv.com:7000/love/love/1376
+#EXTINF:-1 tvg-ID="" tvg-name="Comedie +" tvg-logo="" group-title="Love",Comedie +
+http://vip.groupiptv.com:7000/love/love/1377
+#EXTINF:-1 tvg-ID="" tvg-name="CSTAR HD" tvg-logo="" group-title="Love",CSTAR HD
+http://vip.groupiptv.com:7000/love/love/1378
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ HD" tvg-logo="" group-title="Love",CANAL+ HD
+http://vip.groupiptv.com:7000/love/love/1379
+#EXTINF:-1 tvg-ID="" tvg-name="BFM TV" tvg-logo="" group-title="Love",BFM TV
+http://vip.groupiptv.com:7000/love/love/1380
+#EXTINF:-1 tvg-ID="" tvg-name="GULLI HD" tvg-logo="" group-title="Love",GULLI HD
+http://vip.groupiptv.com:7000/love/love/1381
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE" tvg-logo="" group-title="Love",GAME ONE
+http://vip.groupiptv.com:7000/love/love/1382
+#EXTINF:-1 tvg-ID="" tvg-name="France O  HD" tvg-logo="" group-title="Love",France O  HD
+http://vip.groupiptv.com:7000/love/love/1383
+#EXTINF:-1 tvg-ID="" tvg-name="France 5 HD" tvg-logo="" group-title="Love",France 5 HD
+http://vip.groupiptv.com:7000/love/love/1384
+#EXTINF:-1 tvg-ID="" tvg-name="France 4  HD" tvg-logo="" group-title="Love",France 4  HD
+http://vip.groupiptv.com:7000/love/love/1385
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="" group-title="Love",FRANCE 2
+http://vip.groupiptv.com:7000/love/love/1386
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT2" tvg-logo="" group-title="Love",EUROSPORT2
+http://vip.groupiptv.com:7000/love/love/1387
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="Love",Eurosport 2
+http://vip.groupiptv.com:7000/love/love/1388
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="" group-title="Love",Eurosport 1
+http://vip.groupiptv.com:7000/love/love/1389
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA live" tvg-logo="" group-title="Love",EQUIDIA live
+http://vip.groupiptv.com:7000/love/love/1390
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD HD" tvg-logo="" group-title="Love",Disney XD HD
+http://vip.groupiptv.com:7000/love/love/1391
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="Love",DISNEY CINEMA
+http://vip.groupiptv.com:7000/love/love/1392
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Love",DISNEY CHANNEL
+http://vip.groupiptv.com:7000/love/love/1393
+#EXTINF:-1 tvg-ID="" tvg-name="i Tele" tvg-logo="" group-title="Love",i Tele
+http://vip.groupiptv.com:7000/love/love/1394
+#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT" tvg-logo="" group-title="Love",INFOSPORT
+http://vip.groupiptv.com:7000/love/love/1395
+#EXTINF:-1 tvg-ID="" tvg-name="L'EQUIPE 21" tvg-logo="" group-title="Love",L'EQUIPE 21
+http://vip.groupiptv.com:7000/love/love/1396
+#EXTINF:-1 tvg-ID="" tvg-name="La Deux" tvg-logo="" group-title="Love",La Deux
+http://vip.groupiptv.com:7000/love/love/1397
+#EXTINF:-1 tvg-ID="" tvg-name="La une BE" tvg-logo="" group-title="Love",La une BE
+http://vip.groupiptv.com:7000/love/love/1398
+#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="Love",LCI
+http://vip.groupiptv.com:7000/love/love/1399
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="Love",M6
+http://vip.groupiptv.com:7000/love/love/1400
+#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="" group-title="Love",Mangas
+http://vip.groupiptv.com:7000/love/love/1401
+#EXTINF:-1 tvg-ID="" tvg-name="National geo wild" tvg-logo="" group-title="Love",National geo wild
+http://vip.groupiptv.com:7000/love/love/1402
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="Love",NICKELODEON JUNIOR
+http://vip.groupiptv.com:7000/love/love/1403
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ Hits" tvg-logo="" group-title="Love",NRJ Hits
+http://vip.groupiptv.com:7000/love/love/1404
+#EXTINF:-1 tvg-ID="" tvg-name="NUMERO 23 HD" tvg-logo="" group-title="Love",NUMERO 23 HD
+http://vip.groupiptv.com:7000/love/love/1405
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC HD" tvg-logo="" group-title="Love",OCS CHOC HD
+http://vip.groupiptv.com:7000/love/love/1406
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="Love",OCS CITY
+http://vip.groupiptv.com:7000/love/love/1407
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT" tvg-logo="" group-title="Love",OCS GEANT
+http://vip.groupiptv.com:7000/love/love/1408
+#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="Love",OCS MAX
+http://vip.groupiptv.com:7000/love/love/1409
+#EXTINF:-1 tvg-ID="" tvg-name="OLTV HD" tvg-logo="" group-title="Love",OLTV HD
+http://vip.groupiptv.com:7000/love/love/1410
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Love",PARAMOUNT CHANNEL HD
+http://vip.groupiptv.com:7000/love/love/1411
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE  HD" tvg-logo="" group-title="Love",PARIS PREMIERE  HD
+http://vip.groupiptv.com:7000/love/love/1412
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="Love",PARIS PREMIERE HD
+http://vip.groupiptv.com:7000/love/love/1413
+#EXTINF:-1 tvg-ID="" tvg-name="PIWI HD" tvg-logo="" group-title="Love",PIWI HD
+http://vip.groupiptv.com:7000/love/love/1414
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE  HD" tvg-logo="" group-title="Love",PLANETE  HD
+http://vip.groupiptv.com:7000/love/love/1415
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE A&E HD" tvg-logo="" group-title="Love",PLANETE A&E HD
+http://vip.groupiptv.com:7000/love/love/1416
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE CI HD" tvg-logo="" group-title="Love",PLANETE CI HD
+http://vip.groupiptv.com:7000/love/love/1417
+#EXTINF:-1 tvg-ID="" tvg-name="BE: PLUG RTL" tvg-logo="" group-title="Love",PLUG RTL
+http://vip.groupiptv.com:7000/love/love/1418
+#EXTINF:-1 tvg-ID="" tvg-name="rmc decouverte" tvg-logo="" group-title="Love",rmc decouverte
+http://vip.groupiptv.com:7000/love/love/1419
+#EXTINF:-1 tvg-ID="" tvg-name="BE: RTL TVI" tvg-logo="" group-title="Love",RTL TVI
+http://vip.groupiptv.com:7000/love/love/1420
+#EXTINF:-1 tvg-ID="" tvg-name="RTS Deux" tvg-logo="" group-title="Love",RTS Deux
+http://vip.groupiptv.com:7000/love/love/1421
+#EXTINF:-1 tvg-ID="" tvg-name="RTS Un" tvg-logo="" group-title="Love",RTS Un
+http://vip.groupiptv.com:7000/love/love/1422
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCE ET VIE HD" tvg-logo="" group-title="Love",SCIENCE ET VIE HD
+http://vip.groupiptv.com:7000/love/love/1423
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCES & VIE" tvg-logo="" group-title="Love",SCIENCES & VIE
+http://vip.groupiptv.com:7000/love/love/1424
+#EXTINF:-1 tvg-ID="" tvg-name="SERIE CLUB" tvg-logo="" group-title="Love",SERIE CLUB
+http://vip.groupiptv.com:7000/love/love/1425
+#EXTINF:-1 tvg-ID="" tvg-name="Series Club HD" tvg-logo="" group-title="Love",Series Club HD
+http://vip.groupiptv.com:7000/love/love/1426
+#EXTINF:-1 tvg-ID="" tvg-name="RMC 1" tvg-logo="" group-title="Love",RMC 1
+http://vip.groupiptv.com:7000/love/love/1430
+#EXTINF:-1 tvg-ID="" tvg-name="SFR: Sport 2" tvg-logo="" group-title="Love",SFR: Sport 2
+http://vip.groupiptv.com:7000/love/love/1431
+#EXTINF:-1 tvg-ID="" tvg-name="SFR: Sport 3" tvg-logo="" group-title="Love",SFR: Sport 3
+http://vip.groupiptv.com:7000/love/love/1432
+#EXTINF:-1 tvg-ID="" tvg-name="Syfy HD" tvg-logo="" group-title="Love",Syfy HD
+http://vip.groupiptv.com:7000/love/love/1433
+#EXTINF:-1 tvg-ID="" tvg-name="Teva" tvg-logo="" group-title="Love",Teva
+http://vip.groupiptv.com:7000/love/love/1434
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 HD" tvg-logo="" group-title="Love",TF1 HD
+http://vip.groupiptv.com:7000/love/love/1435
+#EXTINF:-1 tvg-ID="" tvg-name="Tiji" tvg-logo="" group-title="Love",Tiji
+http://vip.groupiptv.com:7000/love/love/1436
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE L HISTOIRE" tvg-logo="" group-title="Love",TOUTE L HISTOIRE
+http://vip.groupiptv.com:7000/love/love/1437
+#EXTINF:-1 tvg-ID="" tvg-name="TV BREIZH HD" tvg-logo="" group-title="Love",TV BREIZH HD
+http://vip.groupiptv.com:7000/love/love/1438
+#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA  HD" tvg-logo="" group-title="Love",USHUAIA  HD
+http://vip.groupiptv.com:7000/love/love/1439
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 5" tvg-logo="" group-title="Love",A LA CARTE 5
+http://vip.groupiptv.com:7000/love/love/1440
+#EXTINF:-1 tvg-ID="" tvg-name="A la Carte 6" tvg-logo="" group-title="Love",A la Carte 6
+http://vip.groupiptv.com:7000/love/love/1441
+#EXTINF:-1 tvg-ID="" tvg-name="A.LA.CARTE.1" tvg-logo="" group-title="Love",A.LA.CARTE.1
+http://vip.groupiptv.com:7000/love/love/1442
+#EXTINF:-1 tvg-ID="" tvg-name="A.LA.CARTE.3" tvg-logo="" group-title="Love",A.LA.CARTE.3
+http://vip.groupiptv.com:7000/love/love/1443
+#EXTINF:-1 tvg-ID="" tvg-name="A.LA.CARTE.4" tvg-logo="" group-title="Love",A.LA.CARTE.4
+http://vip.groupiptv.com:7000/love/love/1444
+#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER" tvg-logo="" group-title="Love",CINE PREMIER
+http://vip.groupiptv.com:7000/love/love/1445
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="" group-title="Love",FRANCE 24
+http://vip.groupiptv.com:7000/love/love/1446
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="Love",NICKELODEON HD
+http://vip.groupiptv.com:7000/love/love/1447
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN" tvg-logo="" group-title="Love",TRACE URBAN
+http://vip.groupiptv.com:7000/love/love/1448
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE HD" tvg-logo="" group-title="Love",ARTE HD
+http://vip.groupiptv.com:7000/love/love/1449
+#EXTINF:-1 tvg-ID="" tvg-name="BRAVA HD" tvg-logo="" group-title="Love",BRAVA HD
+http://vip.groupiptv.com:7000/love/love/1450
+#EXTINF:-1 tvg-ID="" tvg-name="TMC HD" tvg-logo="" group-title="Love",TMC HD
+http://vip.groupiptv.com:7000/love/love/1451
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="Love",DISNEY CHANNEL FHD
+http://vip.groupiptv.com:7000/love/love/1452
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2 FHD" tvg-logo="" group-title="Love",Eurosport 2 FHD
+http://vip.groupiptv.com:7000/love/love/1453
+#EXTINF:-1 tvg-ID="" tvg-name="NT1" tvg-logo="" group-title="Love",NT1
+http://vip.groupiptv.com:7000/love/love/1454
+#EXTINF:-1 tvg-ID="" tvg-name="TCM CINEMA" tvg-logo="" group-title="Love",TCM CINEMA
+http://vip.groupiptv.com:7000/love/love/1455
+#EXTINF:-1 tvg-ID="" tvg-name="TEVA/TMC" tvg-logo="" group-title="Love",TEVA/TMC
+http://vip.groupiptv.com:7000/love/love/1456
+#EXTINF:-1 tvg-ID="" tvg-name="TREK HD" tvg-logo="" group-title="Love",TREK HD
+http://vip.groupiptv.com:7000/love/love/1457
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE" tvg-logo="" group-title="Love",TV5 MONDE
+http://vip.groupiptv.com:7000/love/love/1458
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="" group-title="Love",DISCOVERY
+http://vip.groupiptv.com:7000/love/love/1459
+#EXTINF:-1 tvg-ID="" tvg-name="VOYAGE HD" tvg-logo="" group-title="Love",VOYAGE HD
+http://vip.groupiptv.com:7000/love/love/1460
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="http://iptv.speedhd10.com/logos/rmcsport1.png" group-title="Anadol",RMC SPORT 1 HD
+http://anadol.co:25461/52836373/56393627/2385
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 HD" tvg-logo="http://iptv.speedhd10.com/logos/rmcsport2.png" group-title="Anadol",RMC SPORT 2 HD
+http://anadol.co:25461/52836373/56393627/2386
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="http://iptv.speedhd10.com/logos/rmcsport3.png" group-title="Anadol",RMC SPORT 3 HD
+http://anadol.co:25461/52836373/56393627/2387
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 HD" tvg-logo="http://iptv.speedhd10.com/logos/rmcsport4.png" group-title="Anadol",RMC SPORT 4 HD
+http://anadol.co:25461/52836373/56393627/2388
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 HD" tvg-logo="https://www.rezofoot.com/images/icones_tv/rmcsportlive5.gif" group-title="Anadol",RMC SPORT 5 HD
+http://anadol.co:25461/52836373/56393627/2389
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="http://iptv.speedhd10.com/logos/rmcsportnews.png" group-title="Anadol",RMC SPORT NEWS
+http://anadol.co:25461/52836373/56393627/2390
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| TRACE SPORT STARS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TRACE_Sport_Stars.jpg" group-title="Anadol",TRACE SPORT STARS HD
+http://anadol.co:25461/52836373/56393627/2391
+#EXTINF:-1 tvg-id="" tvg-name="OLTV HD" tvg-logo="http://iptv.speedhd10.com/logos/oltv.png" group-title="Anadol",OLTV HD
+http://anadol.co:25461/52836373/56393627/2392
+#EXTINF:-1 tvg-id="" tvg-name="L'EQUIPE 21 HD" tvg-logo="http://iptv.speedhd10.com/logos/lequipe21.png" group-title="Anadol",L'EQUIPE 21 HD
+http://anadol.co:25461/52836373/56393627/2395
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE HD" tvg-logo="http://iptv.speedhd10.com/logos/equidialive.png" group-title="Anadol",EQUIDIA LIVE HD
+http://anadol.co:25461/52836373/56393627/2396
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://iptv.speedhd10.com/logos/eurosport2hd.png" group-title="Anadol",EUROSPORT 2 HD
+http://anadol.co:25461/52836373/56393627/2397
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL SD" tvg-logo="http://iptv.speedhd10.com/logos/golfplus.png" group-title="Anadol",GOLF CHANNEL SD
+http://anadol.co:25461/52836373/56393627/2398
+#EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS HD" tvg-logo="http://iptv.speedhd10.com/logos/abmoteurs.png" group-title="Anadol",AB MOTEURS HD
+http://anadol.co:25461/52836373/56393627/2399
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT HD" tvg-logo="http://iptv.speedhd10.com/logos/canalplussport-lichoridas.png" group-title="Anadol",CANAL+ SPORT HD
+http://anadol.co:25461/52836373/56393627/2401
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT" tvg-logo="http://iptv.speedhd10.com/logos/canalplussport-lichoridas.png" group-title="Anadol",CANAL+ SPORT
+http://anadol.co:25461/52836373/56393627/2402
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE" tvg-logo="http://iptv.speedhd10.com/logos/equidialive.png" group-title="Anadol",EQUIDIA LIVE
+http://anadol.co:25461/52836373/56393627/2403
+#EXTINF:-1 tvg-id="" tvg-name="|FR.SPOR| EUROSPORT 1HD" tvg-logo="http://iptv.speedhd10.com/logos/eurosport1.png" group-title="Anadol",EUROSPORT 1HD
+http://anadol.co:25461/52836373/56393627/2404
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Planete%2B_-_Logo.png" group-title="Anadol",PLANETE+ HD
+http://anadol.co:25461/52836373/56393627/2406
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE + CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/PLAN%C3%88TE%2B_ci.png" group-title="Anadol",PLANETE + CI HD
+http://anadol.co:25461/52836373/56393627/2407
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE + A&E HD" tvg-logo="https://pbs.twimg.com/profile_images/808692281456918528/YxHSX1Wt_400x400.jpg" group-title="Anadol",PLANETE + A&E HD
+http://anadol.co:25461/52836373/56393627/2408
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1280px-National-Geographic-Logo.svg.png" group-title="Anadol",NATIONAL GEOGRAPHIC HD
+http://anadol.co:25461/52836373/56393627/2409
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://iptv.speedhd10.com/logos/discoverychannelhd.png" group-title="Anadol",DISCOVERY CHANNEL HD
+http://anadol.co:25461/52836373/56393627/2411
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Anadol",DISCOVERY SCIENCE HD
+http://anadol.co:25461/52836373/56393627/2412
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Ushuaia_tv_logo_V2.png" group-title="Anadol",USHUAIA TV HD
+http://anadol.co:25461/52836373/56393627/2413
+#EXTINF:-1 tvg-id="" tvg-name="SEASONS HD" tvg-logo="http://iptv.speedhd10.com/logos/seasons.png" group-title="Anadol",SEASONS HD
+http://anadol.co:25461/52836373/56393627/2414
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/voyage-logo-png-4.png" group-title="Anadol",VOYAGE HD
+http://anadol.co:25461/52836373/56393627/2415
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE HD" tvg-logo="http://kbbpf.lescigales.org/Logos/HISTOIRE.SD.png" group-title="Anadol",HISTOIRE HD
+http://anadol.co:25461/52836373/56393627/2416
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L'HISTOIRE HD" tvg-logo="http://iptv.speedhd10.com/logos/toutelhistoire.png" group-title="Anadol",TOUTE L'HISTOIRE HD
+http://anadol.co:25461/52836373/56393627/2417
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE & VIE TV" tvg-logo="https://www.science-et-vie.tv/images/logo.png" group-title="Anadol",SCIENCE & VIE TV
+http://anadol.co:25461/52836373/56393627/2418
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE & PECHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/langfr-300px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="Anadol",CHASSE & PECHE HD
+http://anadol.co:25461/52836373/56393627/2419
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-animaux-png-4.png" group-title="Anadol",ANIMAUX HD
+http://anadol.co:25461/52836373/56393627/2420
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="http://iptv.speedhd10.com/logos/rmcstory.png" group-title="Anadol",RMC STORY HD
+http://anadol.co:25461/52836373/56393627/2421
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://www.phare-ouest.tv/wp-content/uploads/2018/09/RMC_De%cc%81couverte_logo_2017.svg-copie.png" group-title="Anadol",RMC DECOUVERTE HD
+http://anadol.co:25461/52836373/56393627/2422
+#EXTINF:-1 tvg-id="" tvg-name="TREK HD" tvg-logo="http://iptv.speedhd10.com/logos/trek.png" group-title="Anadol",TREK HD
+http://anadol.co:25461/52836373/56393627/2423
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE" tvg-logo="http://www.gentv.be/logos/mycuisine.png" group-title="Anadol",MY CUISINE
+http://anadol.co:25461/52836373/56393627/2424
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 1 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 1 FHD
+http://anadol.co:25461/52836373/56393627/2339
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 2 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 2 FHD
+http://anadol.co:25461/52836373/56393627/2340
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 3 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 3 FHD
+http://anadol.co:25461/52836373/56393627/2341
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 4 FHD
+http://anadol.co:25461/52836373/56393627/2342
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 5 FHD
+http://anadol.co:25461/52836373/56393627/2343
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 6 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 6 FHD
+http://anadol.co:25461/52836373/56393627/2344
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 7 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 7 FHD
+http://anadol.co:25461/52836373/56393627/2345
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 8 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 8 FHD
+http://anadol.co:25461/52836373/56393627/2346
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 9 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 9 FHD
+http://anadol.co:25461/52836373/56393627/2347
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 10 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 10 FHD
+http://anadol.co:25461/52836373/56393627/2348
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 11 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 11 FHD
+http://anadol.co:25461/52836373/56393627/2349
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 12 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 12 FHD
+http://anadol.co:25461/52836373/56393627/2350
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 13 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 13 FHD
+http://anadol.co:25461/52836373/56393627/2351
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 14 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 14 FHD
+http://anadol.co:25461/52836373/56393627/2352
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 15 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 15 FHD
+http://anadol.co:25461/52836373/56393627/2353
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 16 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 16 FHD
+http://anadol.co:25461/52836373/56393627/2354
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 17 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 17 FHD
+http://anadol.co:25461/52836373/56393627/2355
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 18 FHD" tvg-logo="" group-title="Anadol",CANALPLAY 18 FHD
+http://anadol.co:25461/52836373/56393627/2356
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 1 FHD" tvg-logo="" group-title="Anadol",CANALPLAY MULTIVISION 1 FHD
+http://anadol.co:25461/52836373/56393627/2357
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 2 FHD" tvg-logo="" group-title="Anadol",CANALPLAY MULTIVISION 2 FHD
+http://anadol.co:25461/52836373/56393627/2358
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 3 FHD" tvg-logo="" group-title="Anadol",CANALPLAY MULTIVISION 3 FHD
+http://anadol.co:25461/52836373/56393627/2359
 #EXTINF:-1 tvg-id="TF1" tvg-name="TF1 HD" tvg-logo="" group-title="Twenty Cents", TF1 HD
 http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/809
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Serie Film" tvg-logo="" group-title="Twenty Cents", TF1 Serie Film
