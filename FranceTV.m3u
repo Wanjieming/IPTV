@@ -1,4 +1,1458 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FRANCE2 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE2 Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49559
+#EXTINF:-1 tvg-name="France 02 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France 02 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49711
+#EXTINF:-1 tvg-name="France3 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France3 Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49560
+#EXTINF:-1 tvg-name="France 03 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France 03 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49712
+#EXTINF:-1 tvg-name="France 04 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France 04 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49713
+#EXTINF:-1 tvg-name="France0 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France0 Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49561
+#EXTINF:-1 tvg-name="FRANCE5 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE5 Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49562
+#EXTINF:-1 tvg-name="FRANCE 5 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE 5 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49714
+#EXTINF:-1 tvg-name="FRANCEOfhd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCEOfhd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49563
+#EXTINF:-1 tvg-name="FRANCE O FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE O FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49715
+#EXTINF:-1 tvg-name="FRANCE Info Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE Info Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49564
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TF1 SERIES FILMS HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49583
+#EXTINF:-1 tvg-name="TF1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TF1 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49581
+#EXTINF:-1 tvg-name="TF1 HD 1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TF1 HD 1
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49582
+#EXTINF:-1 tvg-name="M6 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",M6 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49584
+#EXTINF:-1 tvg-name="M6 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",M6 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49716
+#EXTINF:-1 tvg-name="RTL9 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",RTL9 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49585
+#EXTINF:-1 tvg-name="RTL9 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",RTL9 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49719
+#EXTINF:-1 tvg-name="W9 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",W9 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49587
+#EXTINF:-1 tvg-name="W9 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",W9 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49717
+#EXTINF:-1 tvg-name="C8 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",C8 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49593
+#EXTINF:-1 tvg-name="C8 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",C8 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49725
+#EXTINF:-1 tvg-name="AB1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB1 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49614
+#EXTINF:-1 tvg-name="I24 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",I24 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49626
+#EXTINF:-1 tvg-name="M6 Music" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",M6 Music
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49637
+#EXTINF:-1 tvg-name="M6 Music H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",M6 Music H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49822
+#EXTINF:-1 tvg-name="TF1 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TF1 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49709
+#EXTINF:-1 tvg-name="TEVA H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TEVA H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49720
+#EXTINF:-1 tvg-name="Syfy H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Syfy H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49722
+#EXTINF:-1 tvg-name="Action H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Action H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49723
+#EXTINF:-1 tvg-name="6ter FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",6ter FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49724
+#EXTINF:-1 tvg-name="CANAL H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49727
+#EXTINF:-1 tvg-name="AB1 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB1 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49744
+#EXTINF:-1 tvg-name="AB3 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB3 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49745
+#EXTINF:-1 tvg-name="MTV France FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MTV France FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49747
+#EXTINF:-1 tvg-name="TMC H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TMC H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49759
+#EXTINF:-1 tvg-name="Weo FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Weo FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49815
+#EXTINF:-1 tvg-name="E FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",E FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49816
+#EXTINF:-1 tvg-name="CANAL Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL Hd
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49565
+#EXTINF:-1 tvg-name="Toonami FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Toonami FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49767
+#EXTINF:-1 tvg-name="CANAL sports HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL sports HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49566
+#EXTINF:-1 tvg-name="CANAl CINEMA HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAl CINEMA HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49567
+#EXTINF:-1 tvg-name="CANAL FAMILY HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL FAMILY HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49568
+#EXTINF:-1 tvg-name="CANAL DECALE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL DECALE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49569
+#EXTINF:-1 tvg-name="CANAL J HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL J HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49570
+#EXTINF:-1 tvg-name="Cine Premier HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Premier HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49571
+#EXTINF:-1 tvg-name="Cine Frisson HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Frisson HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49572
+#EXTINF:-1 tvg-name="Cine Famiz HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Famiz HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49573
+#EXTINF:-1 tvg-name="Cine Emotion HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Emotion HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49574
+#EXTINF:-1 tvg-name="Cine Classic HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Classic HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49575
+#EXTINF:-1 tvg-name="Cine POLAR HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine POLAR HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49576
+#EXTINF:-1 tvg-name="OCS GEANT HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS GEANT HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49577
+#EXTINF:-1 tvg-name="OCS CHOC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS CHOC HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49578
+#EXTINF:-1 tvg-name="OCS City HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS City HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49579
+#EXTINF:-1 tvg-name="OCS Max HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS Max HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49580
+#EXTINF:-1 tvg-name="13eme Rue HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",13eme Rue HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49586
+#EXTINF:-1 tvg-name="ACTION HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ACTION HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49588
+#EXTINF:-1 tvg-name="Syfy HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Syfy HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49589
+#EXTINF:-1 tvg-name="MY CUISINE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MY CUISINE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49590
+#EXTINF:-1 tvg-name="MY COMEDY" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MY COMEDY
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49591
+#EXTINF:-1 tvg-name="C Star HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",C Star HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49592
+#EXTINF:-1 tvg-name="TREK HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TREK HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49594
+#EXTINF:-1 tvg-name="TFX HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TFX HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49595
+#EXTINF:-1 tvg-name="TCM Cinema HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TCM Cinema HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49596
+#EXTINF:-1 tvg-name="SERIE CLUB HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",SERIE CLUB HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49597
+#EXTINF:-1 tvg-name="6ter HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",6ter HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49598
+#EXTINF:-1 tvg-name="TEVA HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TEVA HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49599
+#EXTINF:-1 tvg-name="Crime District HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Crime District HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49600
+#EXTINF:-1 tvg-name="Tvm3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Tvm3
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49601
+#EXTINF:-1 tvg-name="TMC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TMC HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49602
+#EXTINF:-1 tvg-name="AB3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB3
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49603
+#EXTINF:-1 tvg-name="Arte HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Arte HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49604
+#EXTINF:-1 tvg-name="Chasse et Peche" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Chasse et Peche
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49605
+#EXTINF:-1 tvg-name="NATIONAL GEO HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NATIONAL GEO HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49606
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PARAMOUNT CHANNEL HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49607
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL DECALE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PARAMOUNT CHANNEL DECALE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49608
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NATIONAL GEO WILD HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49609
+#EXTINF:-1 tvg-name="Science et Vie HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Science et Vie HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49610
+#EXTINF:-1 tvg-name="NRJ 12 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NRJ 12 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49611
+#EXTINF:-1 tvg-name="PARIS PREMIERE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PARIS PREMIERE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49612
+#EXTINF:-1 tvg-name="AB MOTEURS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB MOTEURS HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49613
+#EXTINF:-1 tvg-name="TVBREIZH HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TVBREIZH HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49615
+#EXTINF:-1 tvg-name="COMEDIE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",COMEDIE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49616
+#EXTINF:-1 tvg-name="ELLE GIRL HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ELLE GIRL HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49617
+#EXTINF:-1 tvg-name="Cherie 25 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cherie 25 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49618
+#EXTINF:-1 tvg-name="ANIMAUX HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ANIMAUX HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49619
+#EXTINF:-1 tvg-name="IL TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",IL TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49620
+#EXTINF:-1 tvg-name="Alsace 20 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Alsace 20 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49621
+#EXTINF:-1 tvg-name="Toute lHistoire HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Toute lHistoire HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49622
+#EXTINF:-1 tvg-name="Ushuaia TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ushuaia TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49623
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Discovery HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49624
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Discovery Science HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49625
+#EXTINF:-1 tvg-name="Voyage HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Voyage HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49627
+#EXTINF:-1 tvg-name="PLANETE AE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PLANETE AE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49628
+#EXTINF:-1 tvg-name="PLANETE CI" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PLANETE CI
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49629
+#EXTINF:-1 tvg-name="PLANETE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PLANETE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49630
+#EXTINF:-1 tvg-name="BFM Business HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BFM Business HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49631
+#EXTINF:-1 tvg-name="BFM TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BFM TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49632
+#EXTINF:-1 tvg-name="BFM PARIS" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BFM PARIS
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49633
+#EXTINF:-1 tvg-name="BFM LYON" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BFM LYON
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49634
+#EXTINF:-1 tvg-name="BFM LILLE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BFM LILLE
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49635
+#EXTINF:-1 tvg-name="SEASON HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",SEASON HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49636
+#EXTINF:-1 tvg-name="NRJ hit" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NRJ hit
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49638
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France 24
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49639
+#EXTINF:-1 tvg-name="LA CHAINE NORMANDIE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",LA CHAINE NORMANDIE
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49640
+#EXTINF:-1 tvg-name="TV5 MONDE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TV5 MONDE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49641
+#EXTINF:-1 tvg-name="Gulli HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Gulli HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49642
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nickelodeon HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49643
+#EXTINF:-1 tvg-name="Mangas HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Mangas HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49644
+#EXTINF:-1 tvg-name="Nickelodeon 4 Teens HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nickelodeon 4 Teens HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49645
+#EXTINF:-1 tvg-name="Piwi HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Piwi HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49646
+#EXTINF:-1 tvg-name="TELETOON HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TELETOON HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49647
+#EXTINF:-1 tvg-name="TIJI HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TIJI HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49648
+#EXTINF:-1 tvg-name="GINX TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",GINX TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49649
+#EXTINF:-1 tvg-name="DISNEY JUNIOR HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",DISNEY JUNIOR HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49650
+#EXTINF:-1 tvg-name="DISNEY CHANNEL 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",DISNEY CHANNEL 1 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49651
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney Channel HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49652
+#EXTINF:-1 tvg-name="Disney XD HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney XD HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49653
+#EXTINF:-1 tvg-name="BOING HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BOING HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49654
+#EXTINF:-1 tvg-name="J ONE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",J ONE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49655
+#EXTINF:-1 tvg-name="TOONAMI HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TOONAMI HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49656
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cartoon Network HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49657
+#EXTINF:-1 tvg-name="Disney Cinema HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney Cinema HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49658
+#EXTINF:-1 tvg-name="NICKELODEON JR" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NICKELODEON JR
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49659
+#EXTINF:-1 tvg-name="GAME ONE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",GAME ONE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49660
+#EXTINF:-1 tvg-name="Boomerang HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Boomerang HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49661
+#EXTINF:-1 tvg-name="Equidia Live HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Equidia Live HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49662
+#EXTINF:-1 tvg-name="INFOSPORT" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",INFOSPORT
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49663
+#EXTINF:-1 tvg-name="GOLF HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",GOLF HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49664
+#EXTINF:-1 tvg-name="Golf HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Golf HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49665
+#EXTINF:-1 tvg-name="Foot 2424 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Foot 2424 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49666
+#EXTINF:-1 tvg-name="BeIN SPORTS 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BeIN SPORTS 1 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49667
+#EXTINF:-1 tvg-name="BeIN SPORTS 2 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BeIN SPORTS 2 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49668
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",EUROSPORT 1 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49669
+#EXTINF:-1 tvg-name="EUROSPORT 2 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",EUROSPORT 2 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49670
+#EXTINF:-1 tvg-name="RMC Sport 01 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",RMC Sport 01 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49671
+#EXTINF:-1 tvg-name="L EQUIPE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",L EQUIPE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49672
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",DISCOVERY FAMILY HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49673
+#EXTINF:-1 tvg-name="FOOT 2424 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FOOT 2424 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49674
+#EXTINF:-1 tvg-name="Euronews HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Euronews HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49675
+#EXTINF:-1 tvg-name="BRAVA" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",BRAVA
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49676
+#EXTINF:-1 tvg-name="FASHION TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FASHION TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49677
+#EXTINF:-1 tvg-name="FASHION FullHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FASHION FullHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49678
+#EXTINF:-1 tvg-name="E HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",E HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49679
+#EXTINF:-1 tvg-name="HIT TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",HIT TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49680
+#EXTINF:-1 tvg-name="KTO TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",KTO TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49681
+#EXTINF:-1 tvg-name="LCP ASSEMBLEE NATIONALE" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",LCP ASSEMBLEE NATIONALE
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49682
+#EXTINF:-1 tvg-name="LUCKY JACK TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",LUCKY JACK TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49683
+#EXTINF:-1 tvg-name="AUTOMOTO LA CHAINE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AUTOMOTO LA CHAINE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49684
+#EXTINF:-1 tvg-name="VOSGES TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",VOSGES TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49685
+#EXTINF:-1 tvg-name="PITCHOUN HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PITCHOUN HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49686
+#EXTINF:-1 tvg-name="OUATCH TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OUATCH TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49687
+#EXTINF:-1 tvg-name="SUNDANCE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",SUNDANCE FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49688
+#EXTINF:-1 tvg-name="LCI" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",LCI
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49689
+#EXTINF:-1 tvg-name="C NEWS HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",C NEWS HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49690
+#EXTINF:-1 tvg-name="ROUGE TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ROUGE TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49691
+#EXTINF:-1 tvg-name="TV7" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TV7
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49692
+#EXTINF:-1 tvg-name="TV8 MONT BLANC HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TV8 MONT BLANC HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49693
+#EXTINF:-1 tvg-name="LA TELE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",LA TELE FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49694
+#EXTINF:-1 tvg-name="Luxe TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Luxe TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49695
+#EXTINF:-1 tvg-name="POLAR FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",POLAR FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49696
+#EXTINF:-1 tvg-name="SOUVENIRS FROM EARTH HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",SOUVENIRS FROM EARTH HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49697
+#EXTINF:-1 tvg-name="TN TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TN TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49698
+#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Clubbing TV
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49699
+#EXTINF:-1 tvg-name="ALTICE STUDIO HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ALTICE STUDIO HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49700
+#EXTINF:-1 tvg-name="VICELAND FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",VICELAND FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49701
+#EXTINF:-1 tvg-name="WARNER TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",WARNER TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49702
+#EXTINF:-1 tvg-name="MY CUISINE TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MY CUISINE TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49703
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",DISCOVERY FAMILY H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49704
+#EXTINF:-1 tvg-name="OL TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OL TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49705
+#EXTINF:-1 tvg-name="AB EXPLORE HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",AB EXPLORE HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49706
+#EXTINF:-1 tvg-name="MOTORSPORT TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MOTORSPORT TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49707
+#EXTINF:-1 tvg-name="MOTORSPORT TV HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",MOTORSPORT TV HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49708
+#EXTINF:-1 tvg-name="TF1 SERIES FILMS FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TF1 SERIES FILMS FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49710
+#EXTINF:-1 tvg-name="13eme Rue FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",13eme Rue FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49718
+#EXTINF:-1 tvg-name="TREK FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TREK FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49721
+#EXTINF:-1 tvg-name="CSTAR H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CSTAR H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49726
+#EXTINF:-1 tvg-name="Canal Sports FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Sports FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49728
+#EXTINF:-1 tvg-name="CANAL CINEMA H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL CINEMA H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49729
+#EXTINF:-1 tvg-name="CANAL DECALE H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL DECALE H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49730
+#EXTINF:-1 tvg-name="Canal Family H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Family H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49731
+#EXTINF:-1 tvg-name="CANAL SERIES H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL SERIES H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49732
+#EXTINF:-1 tvg-name="Cine Premier H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Premier H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49733
+#EXTINF:-1 tvg-name="Cine POLAR FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine POLAR FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49734
+#EXTINF:-1 tvg-name="Cine Frisson H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Frisson H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49735
+#EXTINF:-1 tvg-name="Cine Famiz H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Famiz H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49736
+#EXTINF:-1 tvg-name="Cine Emotion H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Emotion H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49737
+#EXTINF:-1 tvg-name="Cine Club FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Club FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49738
+#EXTINF:-1 tvg-name="Cine Classic H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cine Classic H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49739
+#EXTINF:-1 tvg-name="OCS Max H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS Max H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49740
+#EXTINF:-1 tvg-name="OCS GEANT H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS GEANT H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49741
+#EXTINF:-1 tvg-name="OCS City H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS City H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49742
+#EXTINF:-1 tvg-name="OCS CHOC H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",OCS CHOC H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49743
+#EXTINF:-1 tvg-name="Arte H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Arte H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49746
+#EXTINF:-1 tvg-name="Disney XD FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney XD FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49748
+#EXTINF:-1 tvg-name="CANAL J H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",CANAL J H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49749
+#EXTINF:-1 tvg-name="Boing FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Boing FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49750
+#EXTINF:-1 tvg-name="One TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",One TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49751
+#EXTINF:-1 tvg-name="Comedie FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Comedie FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49752
+#EXTINF:-1 tvg-name="Bet Etoile FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Bet Etoile FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49753
+#EXTINF:-1 tvg-name="DISNEY JUNIOR H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",DISNEY JUNIOR H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49754
+#EXTINF:-1 tvg-name="Ushuaia TV FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ushuaia TV FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49755
+#EXTINF:-1 tvg-name="Disney Channel H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney Channel H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49756
+#EXTINF:-1 tvg-name="Crime District FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Crime District FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49757
+#EXTINF:-1 tvg-name="Voyage FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Voyage FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49758
+#EXTINF:-1 tvg-name="Tcm Cinema FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Tcm Cinema FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49760
+#EXTINF:-1 tvg-name="Serie Club FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Serie Club FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49761
+#EXTINF:-1 tvg-name="Tiji H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Tiji H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49762
+#EXTINF:-1 tvg-name="Piwi FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Piwi FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49763
+#EXTINF:-1 tvg-name="Manga FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Manga FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49764
+#EXTINF:-1 tvg-name="Nickelodeon 4Teen FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nickelodeon 4Teen FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49765
+#EXTINF:-1 tvg-name="Game One H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Game One H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49766
+#EXTINF:-1 tvg-name="Gulli H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Gulli H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49768
+#EXTINF:-1 tvg-name="Cartoon Network FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cartoon Network FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49769
+#EXTINF:-1 tvg-name="Disney Cinema FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Disney Cinema FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49770
+#EXTINF:-1 tvg-name="Boomerang H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Boomerang H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49771
+#EXTINF:-1 tvg-name="J One FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",J One FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49772
+#EXTINF:-1 tvg-name="Elle Girl FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Elle Girl FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49773
+#EXTINF:-1 tvg-name="Cherie 25 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Cherie 25 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49774
+#EXTINF:-1 tvg-name="ANIMAUX FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",ANIMAUX FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49775
+#EXTINF:-1 tvg-name="NATIONAL GEO FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NATIONAL GEO FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49776
+#EXTINF:-1 tvg-name="NATIONAL GEO WILD H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",NATIONAL GEO WILD H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49777
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PARAMOUNT CHANNEL FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49778
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL DECALE FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PARAMOUNT CHANNEL DECALE FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49779
+#EXTINF:-1 tvg-name="TVBREIZH FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",TVBREIZH FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49780
+#EXTINF:-1 tvg-name="Planete FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Planete FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49781
+#EXTINF:-1 tvg-name="PLANETE CI H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PLANETE CI H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49782
+#EXTINF:-1 tvg-name="PLANETE AE H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",PLANETE AE H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49783
+#EXTINF:-1 tvg-name="Discovery  H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Discovery  H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49784
+#EXTINF:-1 tvg-name="Discovery Investigation FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Discovery Investigation FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49785
+#EXTINF:-1 tvg-name="Discovery Science H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Discovery Science H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49786
+#EXTINF:-1 tvg-name="Season H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Season H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49787
+#EXTINF:-1 tvg-name="Tv5 Monde Info FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Tv5 Monde Info FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49788
+#EXTINF:-1 tvg-name="Paris Premiere FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Paris Premiere FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49789
+#EXTINF:-1 tvg-name="Bfm Business FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Bfm Business FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49790
+#EXTINF:-1 tvg-name="Science et Vie FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Science et Vie FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49791
+#EXTINF:-1 tvg-name="Golf FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Golf FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49792
+#EXTINF:-1 tvg-name="Golf Channel FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Golf Channel FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49793
+#EXTINF:-1 tvg-name="Equidia Live FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Equidia Live FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49794
+#EXTINF:-1 tvg-name="C NEWS H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",C NEWS H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49795
+#EXTINF:-1 tvg-name="Tfx H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Tfx H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49796
+#EXTINF:-1 tvg-name="Novelas Tv FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Novelas Tv FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49797
+#EXTINF:-1 tvg-name="Nrj 12 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nrj 12 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49798
+#EXTINF:-1 tvg-name="Mezzo Live FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Mezzo Live FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49799
+#EXTINF:-1 tvg-name="Foot 2424 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Foot 2424 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49800
+#EXTINF:-1 tvg-name="Rmc Decouvert FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Decouvert FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49801
+#EXTINF:-1 tvg-name="Rmc Story FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Story FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49802
+#EXTINF:-1 tvg-name="Rmc Sport 02 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 02 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49803
+#EXTINF:-1 tvg-name="beIN Sport Max 04" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 04
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49804
+#EXTINF:-1 tvg-name="beIN Sport Max 05" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 05
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49805
+#EXTINF:-1 tvg-name="beIN Sport Max 06" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 06
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49806
+#EXTINF:-1 tvg-name="beIN Sport Max 07" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 07
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49807
+#EXTINF:-1 tvg-name="beIN Sport Max 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 08
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49808
+#EXTINF:-1 tvg-name="beIN Sport Max 09" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 09
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49809
+#EXTINF:-1 tvg-name="beIN Sport Max 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sport Max 10
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49810
+#EXTINF:-1 tvg-name="Infosport FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Infosport FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49811
+#EXTINF:-1 tvg-name="Eurosport 1 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Eurosport 1 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49812
+#EXTINF:-1 tvg-name="Eurosport 2 H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Eurosport 2 H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49813
+#EXTINF:-1 tvg-name="Bfm Paris HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Bfm Paris HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49814
+#EXTINF:-1 tvg-name="Canal Alpha FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Alpha FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49817
+#EXTINF:-1 tvg-name="Altice Studio FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Altice Studio FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49818
+#EXTINF:-1 tvg-name="L Equipe H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",L Equipe H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49819
+#EXTINF:-1 tvg-name="Toute Lhistoire H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Toute Lhistoire H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49820
+#EXTINF:-1 tvg-name="Chasse Et Peche H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Chasse Et Peche H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49821
+#EXTINF:-1 tvg-name="Lci H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Lci H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49823
+#EXTINF:-1 tvg-name="Nickelodeon Junior H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nickelodeon Junior H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49824
+#EXTINF:-1 tvg-name="Nickelodeon H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Nickelodeon H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49825
+#EXTINF:-1 tvg-name="Rmc Decouverte H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Decouverte H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49826
+#EXTINF:-1 tvg-name="Rmc Story H265" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Story H265
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49827
+#EXTINF:-1 tvg-name="Oklm Tv FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Oklm Tv FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49828
+#EXTINF:-1 tvg-name="Rmc Sport News FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport News FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49829
+#EXTINF:-1 tvg-name="Rmc Sport 01 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 01 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49830
+#EXTINF:-1 tvg-name="Rmc Sport 03 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 03 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49831
+#EXTINF:-1 tvg-name="Rmc Sport 03 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 03 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49832
+#EXTINF:-1 tvg-name="Rmc Sport 04 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 04 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49833
+#EXTINF:-1 tvg-name="Rmc Sport 04 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 04 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49834
+#EXTINF:-1 tvg-name="Rmc Sport Live 5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 5
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49835
+#EXTINF:-1 tvg-name="Rmc Sport Live 6" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 6
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49836
+#EXTINF:-1 tvg-name="Rmc Sport Live 7" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 7
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49837
+#EXTINF:-1 tvg-name="Rmc Sport Live 8" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 8
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49838
+#EXTINF:-1 tvg-name="Rmc Sport Live 9" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 9
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49839
+#EXTINF:-1 tvg-name="Rmc Sport Live 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 10
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49840
+#EXTINF:-1 tvg-name="Rmc Sport Live 11" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 11
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49841
+#EXTINF:-1 tvg-name="Rmc Sport Live 12" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport Live 12
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49842
+#EXTINF:-1 tvg-name="Rmc Access Sport 02 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Access Sport 02 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49843
+#EXTINF:-1 tvg-name="Rmc Access Sport 01 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Access Sport 01 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49844
+#EXTINF:-1 tvg-name="Rmc Sport 02 HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Rmc Sport 02 HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49845
+#EXTINF:-1 tvg-name="beIN Sports 3 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",beIN Sports 3 FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49846
+#EXTINF:-1 tvg-name="Telefoot Stadium HD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Telefoot Stadium HD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49847
+#EXTINF:-1 tvg-name="Telefoot Stadium FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Telefoot Stadium FHD
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49848
+#EXTINF:-1 tvg-name="A La Carte 01  6 Underground " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 01  6 Underground 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49849
+#EXTINF:-1 tvg-name="A La Carte 02" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 02
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49850
+#EXTINF:-1 tvg-name="A La Carte 03" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 03
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49851
+#EXTINF:-1 tvg-name="A La Carte 04  Togo " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 04  Togo 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49852
+#EXTINF:-1 tvg-name="A La Carte 05  Mal¿½fique " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 05  Mal¿½fique 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49853
+#EXTINF:-1 tvg-name="A La Carte 06  Spider Man Far From Home " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 06  Spider Man Far From Home 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49854
+#EXTINF:-1 tvg-name="A La Carte 07  Inside Man Most Wanted " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 07  Inside Man Most Wanted 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49855
+#EXTINF:-1 tvg-name="A La Carte 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",A La Carte 08
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49856
+#EXTINF:-1 tvg-name="Orange Cine1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Orange Cine1
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49857
+#EXTINF:-1 tvg-name="Orange Cine2" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Orange Cine2
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49858
+#EXTINF:-1 tvg-name="Orange Cine3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Orange Cine3
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49859
+#EXTINF:-1 tvg-name="Orange Cine4" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Orange Cine4
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49860
+#EXTINF:-1 tvg-name="Orange Cine5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Orange Cine5
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49861
+#EXTINF:-1 tvg-name="Ocs Go Cine1" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ocs Go Cine1
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49862
+#EXTINF:-1 tvg-name="Ocs Go Cine2" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ocs Go Cine2
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49863
+#EXTINF:-1 tvg-name="Ocs Go Cine3" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ocs Go Cine3
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49864
+#EXTINF:-1 tvg-name="Ocs Go Cine4" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ocs Go Cine4
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49865
+#EXTINF:-1 tvg-name="Ocs Go Cine5" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Ocs Go Cine5
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49866
+#EXTINF:-1 tvg-name="Canal Play 01  King Arthur Legend Of The Sword " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 01  King Arthur Legend Of The Sword 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49867
+#EXTINF:-1 tvg-name="Canal Play 02  Security " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 02  Security 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49868
+#EXTINF:-1 tvg-name="Canal Play 03" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 03
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49869
+#EXTINF:-1 tvg-name="Canal Play 04" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 04
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49870
+#EXTINF:-1 tvg-name="Canal Play 05" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 05
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49871
+#EXTINF:-1 tvg-name="Canal Play 06" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 06
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49872
+#EXTINF:-1 tvg-name="Canal Play 07" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 07
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49873
+#EXTINF:-1 tvg-name="Canal Play 08" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 08
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49874
+#EXTINF:-1 tvg-name="Canal Play 09" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 09
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49875
+#EXTINF:-1 tvg-name="Canal Play 10" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 10
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49876
+#EXTINF:-1 tvg-name="Canal Play 11  Frozen 2 " tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 11  Frozen 2 
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49877
+#EXTINF:-1 tvg-name="Canal Play 12" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 12
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49878
+#EXTINF:-1 tvg-name="Canal Play 13 C o u" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 13 C o u
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49879
+#EXTINF:-1 tvg-name="Canal Play 14" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 14
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49880
+#EXTINF:-1 tvg-name="Canal Play 15" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",Canal Play 15
+http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49881
+#EXTINF:-1 tvg-id="" tvg-name="TF1 UHD 4K" tvg-logo="" group-title="Nikos Thanos",TF1 UHD 4K
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18453
+#EXTINF:-1 tvg-id="" tvg-name="13eme Rue FHD" tvg-logo="" group-title="Nikos Thanos",13eme Rue FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18454
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FHD" tvg-logo="" group-title="Nikos Thanos",6ter FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18455
+#EXTINF:-1 tvg-id="Aplus International FR" tvg-name="A+ FHD" tvg-logo="" group-title="Nikos Thanos",A+ FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18456
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="AB1 FHD" tvg-logo="" group-title="Nikos Thanos",AB1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18457
+#EXTINF:-1 tvg-id="ab3.be" tvg-name="AB3 FHD" tvg-logo="" group-title="Nikos Thanos",AB3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18458
+#EXTINF:-1 tvg-id="" tvg-name="AB_EXPLORE FHD" tvg-logo="" group-title="Nikos Thanos",AB_EXPLORE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18459
+#EXTINF:-1 tvg-id="" tvg-name="Action FHD" tvg-logo="" group-title="Nikos Thanos",Action FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18460
+#EXTINF:-1 tvg-id="Altice Studio FR" tvg-name="Altice Studio FHD" tvg-logo="" group-title="Nikos Thanos",Altice Studio FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18461
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX FHD" tvg-logo="" group-title="Nikos Thanos",ANIMAUX FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18462
+#EXTINF:-1 tvg-id="" tvg-name="Arte FHD" tvg-logo="" group-title="Nikos Thanos",Arte FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18463
+#EXTINF:-1 tvg-id="Be Curious TV FR" tvg-name="BE Curious FHD" tvg-logo="" group-title="Nikos Thanos",BE Curious FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18464
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="BET* FHD" tvg-logo="" group-title="Nikos Thanos",BET* FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18465
+#EXTINF:-1 tvg-id="" tvg-name="Boing FHD" tvg-logo="" group-title="Nikos Thanos",Boing FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18466
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="" group-title="Nikos Thanos",Boomerang FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18467
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA FHD" tvg-logo="" group-title="Nikos Thanos",BRAVA FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18468
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star FHD" tvg-logo="" group-title="Nikos Thanos",C Star FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18469
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FHD" tvg-logo="" group-title="Nikos Thanos",C8 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18470
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  CINEMA FHD" tvg-logo="" group-title="Nikos Thanos",CANAL  CINEMA FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18471
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  DECALE FHD" tvg-logo="" group-title="Nikos Thanos",CANAL  DECALE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18472
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  Family FHD" tvg-logo="" group-title="Nikos Thanos",CANAL  Family FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18473
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ FHD" tvg-logo="" group-title="Nikos Thanos",CANAL+ FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18474
+#EXTINF:-1 tvg-id="" tvg-name="CANAL  SERIES_FHD" tvg-logo="" group-title="Nikos Thanos",CANAL  SERIES_FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18475
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="" group-title="Nikos Thanos",CANAL+ SPORT FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18476
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ALPHA JU FHD" tvg-logo="" group-title="Nikos Thanos",CANAL ALPHA JU FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18477
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J FHD" tvg-logo="" group-title="Nikos Thanos",CANAL J FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18478
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="" group-title="Nikos Thanos",Cartoon Network FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18479
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 FHD" tvg-logo="" group-title="Nikos Thanos",Cherie 25 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18480
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="Cine+ Premier FHD" tvg-logo="" group-title="Nikos Thanos",Cine+ Premier FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18481
+#EXTINF:-1 tvg-id="" tvg-name="Cine Classic FHD" tvg-logo="" group-title="Nikos Thanos",Cine Classic FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18482
+#EXTINF:-1 tvg-id="" tvg-name="Cine Club FHD" tvg-logo="" group-title="Nikos Thanos",Cine Club FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18483
+#EXTINF:-1 tvg-id="" tvg-name="Cine Emotion FHD" tvg-logo="" group-title="Nikos Thanos",Cine Emotion FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18484
+#EXTINF:-1 tvg-id="" tvg-name="Cine Famiz FHD" tvg-logo="" group-title="Nikos Thanos",Cine Famiz FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18485
+#EXTINF:-1 tvg-id="" tvg-name="Cine Frisson FHD" tvg-logo="" group-title="Nikos Thanos",Cine Frisson FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18486
+#EXTINF:-1 tvg-id="" tvg-name="Cine POLAR FHD" tvg-logo="" group-title="Nikos Thanos",Cine POLAR FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18487
+#EXTINF:-1 tvg-id="" tvg-name="Comedie  FHD" tvg-logo="" group-title="Nikos Thanos",Comedie  FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18488
+#EXTINF:-1 tvg-id="" tvg-name="Crime District FHD" tvg-logo="" group-title="Nikos Thanos",Crime District FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18489
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR Hite France FHD" tvg-logo="" group-title="Nikos Thanos",CSTAR Hite France FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18490
+#EXTINF:-1 tvg-id="" tvg-name="D24 FHD" tvg-logo="" group-title="Nikos Thanos",D24 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18491
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="Discovery Family FHD" tvg-logo="" group-title="Nikos Thanos",Discovery Family FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18492
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Nikos Thanos",DISCOVERY FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18493
+#EXTINF:-1 tvg-id="Discovery Investigation FR" tvg-name="Discovery ID FHD" tvg-logo="" group-title="Nikos Thanos",Discovery ID FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18494
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="" group-title="Nikos Thanos",Discovery Science FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18495
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD" tvg-logo="" group-title="Nikos Thanos",Disney Channel FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18496
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema FHD" tvg-logo="" group-title="Nikos Thanos",Disney Cinema FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18497
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD" tvg-logo="" group-title="Nikos Thanos",DISNEY JUNIOR FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18498
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD FHD" tvg-logo="" group-title="Nikos Thanos",Disney XD FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18499
+#EXTINF:-1 tvg-id="" tvg-name="ELLE GIRL FHD" tvg-logo="" group-title="Nikos Thanos",ELLE GIRL FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18500
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="ES1 HD" tvg-logo="" group-title="Nikos Thanos",ES1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18501
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE FHD" tvg-logo="" group-title="Nikos Thanos",EQUIDIA LIVE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18502
+#EXTINF:-1 tvg-id="" tvg-name="FASHION FHD" tvg-logo="" group-title="Nikos Thanos",FASHION FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18503
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FHD" tvg-logo="" group-title="Nikos Thanos",France 2 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18504
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FHD" tvg-logo="" group-title="Nikos Thanos",France 3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18505
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FHD" tvg-logo="" group-title="Nikos Thanos",France 4 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18506
+#EXTINF:-1 tvg-id="" tvg-name="France 5 FHD" tvg-logo="" group-title="Nikos Thanos",France 5 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18507
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="France O FHD" tvg-logo="" group-title="Nikos Thanos",France O FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18508
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE FHD" tvg-logo="" group-title="Nikos Thanos",GAME ONE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18509
+#EXTINF:-1 tvg-id="" tvg-name="GENERATIONS TV FHD" tvg-logo="" group-title="Nikos Thanos",GENERATIONS TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18510
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="" group-title="Nikos Thanos",Golf Channel FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18511
+#EXTINF:-1 tvg-id="" tvg-name="Gulli FHD" tvg-logo="" group-title="Nikos Thanos",Gulli FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18512
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT  FHD" tvg-logo="" group-title="Nikos Thanos",INFOSPORT  FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18513
+#EXTINF:-1 tvg-id="" tvg-name="J-ONE FHD" tvg-logo="" group-title="Nikos Thanos",J-ONE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18514
+#EXTINF:-1 tvg-id="" tvg-name="LEMAN BLEU FHD" tvg-logo="" group-title="Nikos Thanos",LEMAN BLEU FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18515
+#EXTINF:-1 tvg-id="" tvg-name="LUXE FHD" tvg-logo="" group-title="Nikos Thanos",LUXE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18516
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="" group-title="Nikos Thanos",M6 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18517
+#EXTINF:-1 tvg-id="Mangas FR" tvg-name="Manga FHD" tvg-logo="" group-title="Nikos Thanos",Manga FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18518
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1HD" tvg-logo="" group-title="Nikos Thanos",MULTISPORTS 1HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18519
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE FHD" tvg-logo="" group-title="Nikos Thanos",MEZZO LIVE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18520
+#EXTINF:-1 tvg-id="" tvg-name="MOTORSPORT TV FHD" tvg-logo="" group-title="Nikos Thanos",MOTORSPORT TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18521
+#EXTINF:-1 tvg-id="" tvg-name="MOUV TV FHD" tvg-logo="" group-title="Nikos Thanos",MOUV TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18522
+#EXTINF:-1 tvg-id="" tvg-name="MTV France FHD" tvg-logo="" group-title="Nikos Thanos",MTV France FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18523
+#EXTINF:-1 tvg-id="My Cuisine FR" tvg-name="MY Cuisine FHD" tvg-logo="" group-title="Nikos Thanos",MY Cuisine FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18524
+#EXTINF:-1 tvg-id="" tvg-name="MY ZEN FHD" tvg-logo="" group-title="Nikos Thanos",MY ZEN FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18525
+#EXTINF:-1 tvg-id="" tvg-name="NATIONA GEO FHD" tvg-logo="" group-title="Nikos Thanos",NATIONA GEO FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18526
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD FHD" tvg-logo="" group-title="Nikos Thanos",NATIONAL GEO WILD FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18527
+#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel FHD" tvg-logo="" group-title="Nikos Thanos",Nautical Channel FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18528
+#EXTINF:-1 tvg-id="NovelasTV.fr" tvg-name="NOVELAS FHD" tvg-logo="" group-title="Nikos Thanos",NOVELAS FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18529
+#EXTINF:-1 tvg-id="" tvg-name="NRJ_12 FHD" tvg-logo="" group-title="Nikos Thanos",NRJ_12 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18530
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="OCS CHOC FHD" tvg-logo="" group-title="Nikos Thanos",OCS CHOC FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18531
+#EXTINF:-1 tvg-id="OrangeCineHappy.fr" tvg-name="OCS City FHD" tvg-logo="" group-title="Nikos Thanos",OCS City FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18532
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT FHD" tvg-logo="" group-title="Nikos Thanos",OCS GEANT FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18533
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max FHD" tvg-logo="" group-title="Nikos Thanos",OCS Max FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18534
+#EXTINF:-1 tvg-id="" tvg-name="OL TV FHD" tvg-logo="" group-title="Nikos Thanos",OL TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18535
+#EXTINF:-1 tvg-id="" tvg-name="One TV FHD" tvg-logo="" group-title="Nikos Thanos",One TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18536
+#EXTINF:-1 tvg-id="" tvg-name="OUATCH FHD" tvg-logo="" group-title="Nikos Thanos",OUATCH FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18537
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="" group-title="Nikos Thanos",PARAMOUNT CHANNEL FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18538
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE FHD" tvg-logo="" group-title="Nikos Thanos",PARIS PREMIERE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18539
+#EXTINF:-1 tvg-id="" tvg-name="Piwi FHD" tvg-logo="" group-title="Nikos Thanos",Piwi FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18540
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE  A&E FHD" tvg-logo="" group-title="Nikos Thanos",PLANETE  A&E FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18541
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE  CI FHD" tvg-logo="" group-title="Nikos Thanos",PLANETE  CI FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18542
+#EXTINF:-1 tvg-id="" tvg-name="Planete  FHD" tvg-logo="" group-title="Nikos Thanos",Planete  FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18543
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouvert FHD" tvg-logo="" group-title="Nikos Thanos",RMC Decouvert FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18544
+#EXTINF:-1 tvg-id="" tvg-name="RMC_Story FHD" tvg-logo="" group-title="Nikos Thanos",RMC_Story FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18545
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9 FHD" tvg-logo="" group-title="Nikos Thanos",RTL9 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18546
+#EXTINF:-1 tvg-id="" tvg-name="Science et Vie FHD" tvg-logo="" group-title="Nikos Thanos",Science et Vie FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18547
+#EXTINF:-1 tvg-id="" tvg-name="SEASON FHD" tvg-logo="" group-title="Nikos Thanos",SEASON FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18548
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB FHD" tvg-logo="" group-title="Nikos Thanos",SERIE CLUB FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18549
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD" tvg-logo="" group-title="Nikos Thanos",SUNDANCE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18550
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD" tvg-logo="" group-title="Nikos Thanos",Syfy FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18551
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema FHD" tvg-logo="" group-title="Nikos Thanos",TCM Cinema FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18552
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA FHD" tvg-logo="" group-title="Nikos Thanos",TEVA FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18553
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 FHD" tvg-logo="" group-title="Nikos Thanos",TF1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18554
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FILMS FHD" tvg-logo="" group-title="Nikos Thanos",TF1 SERIES FILMS FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18555
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="" group-title="Nikos Thanos",TFX FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18556
+#EXTINF:-1 tvg-id="" tvg-name="TIJI FHD" tvg-logo="" group-title="Nikos Thanos",TIJI FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18557
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FHD" tvg-logo="" group-title="Nikos Thanos",TMC FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18558
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="Toonami FHD" tvg-logo="" group-title="Nikos Thanos",Toonami FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18559
+#EXTINF:-1 tvg-id="TraceSport.fr" tvg-name="Trace Sport Stars HD" tvg-logo="" group-title="Nikos Thanos",Trace Sport Stars HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18560
+#EXTINF:-1 tvg-id="" tvg-name="TREK FHD" tvg-logo="" group-title="Nikos Thanos",TREK FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18561
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FHD" tvg-logo="" group-title="Nikos Thanos",TV5 MONDE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18562
+#EXTINF:-1 tvg-id="" tvg-name="TVBREIZH FHD" tvg-logo="" group-title="Nikos Thanos",TVBREIZH FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18563
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="Ushuaia TV FHD" tvg-logo="" group-title="Nikos Thanos",Ushuaia TV FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18564
+#EXTINF:-1 tvg-id="" tvg-name="VAR AZUR FHD" tvg-logo="" group-title="Nikos Thanos",VAR AZUR FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18565
+#EXTINF:-1 tvg-id="Viceland FR" tvg-name="VICELAND FHD" tvg-logo="" group-title="Nikos Thanos",VICELAND FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18566
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="Voyage FHD" tvg-logo="" group-title="Nikos Thanos",Voyage FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18567
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FHD" tvg-logo="" group-title="Nikos Thanos",W9 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18568
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="WARNER FHD" tvg-logo="" group-title="Nikos Thanos",WARNER FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18569
+#EXTINF:-1 tvg-id="" tvg-name="Vitrine CanalPlay Live" tvg-logo="" group-title="Nikos Thanos",Vitrine CanalPlay Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18570
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 1 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18571
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 2 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 2 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18572
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 3 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18573
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 4 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 4 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18574
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 5 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 5 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18575
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 6 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 6 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18576
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 7 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 7 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18577
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 8 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 8 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18578
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 9 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 9 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18579
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 10 FHD " tvg-logo="" group-title="Nikos Thanos",CANALPLAY 10 FHD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18580
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 11 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 11 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18581
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 12 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 12 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18582
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 13 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 13 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18583
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 14 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 14 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18584
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 15 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 15 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18585
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 16 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 16 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18586
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 17 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 17 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18587
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY 18 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY 18 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18588
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 1 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY MULTIVISION 1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18589
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 2 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY MULTIVISION 2 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18590
+#EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 3 FHD" tvg-logo="" group-title="Nikos Thanos",CANALPLAY MULTIVISION 3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18591
+#EXTINF:-1 tvg-id="" tvg-name="Movies 1 HD" tvg-logo="" group-title="Nikos Thanos",Movies 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18592
+#EXTINF:-1 tvg-id="" tvg-name="Movies 2 HD" tvg-logo="" group-title="Nikos Thanos",Movies 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18593
+#EXTINF:-1 tvg-id="" tvg-name="Movies 3 HD" tvg-logo="" group-title="Nikos Thanos",Movies 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18594
+#EXTINF:-1 tvg-id="" tvg-name="Movies 4 HD" tvg-logo="" group-title="Nikos Thanos",Movies 4 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18595
+#EXTINF:-1 tvg-id="" tvg-name="Movies 5 HD" tvg-logo="" group-title="Nikos Thanos",Movies 5 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18596
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 1 HD" tvg-logo="" group-title="Nikos Thanos",OCS Go Cinema 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18597
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 2 HD" tvg-logo="" group-title="Nikos Thanos",OCS Go Cinema 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18598
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 3 HD" tvg-logo="" group-title="Nikos Thanos",OCS Go Cinema 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18599
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 4 HD" tvg-logo="" group-title="Nikos Thanos",OCS Go Cinema 4 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18600
+#EXTINF:-1 tvg-id="" tvg-name="OCS Go Cinema 5 HD" tvg-logo="" group-title="Nikos Thanos",OCS Go Cinema 5 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18601
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 1 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18602
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 2 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18603
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 3 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18604
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 4 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 4 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18605
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 5 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 5 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18606
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema 6 HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema 6 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18607
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Action HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema Action HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18608
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema Aventure HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema Aventure HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18609
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema CEst Fait HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema CEst Fait HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18610
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema HD" tvg-logo="" group-title="Nikos Thanos",Orange Cinema HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18611
+#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 HD" tvg-logo="" group-title="Nikos Thanos",TF1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18612
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="Nikos Thanos",TFX
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18613
+#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 SERIES FILMS HD" tvg-logo="" group-title="Nikos Thanos",TF1 SERIES FILMS HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18614
+#EXTINF:-1 tvg-id="France 2 FR" tvg-name="FRANCE 2" tvg-logo="" group-title="Nikos Thanos",FRANCE 2
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18615
+#EXTINF:-1 tvg-id="France 3 FR" tvg-name="FRANCE 3" tvg-logo="" group-title="Nikos Thanos",FRANCE 3
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18616
+#EXTINF:-1 tvg-id="France 4 FR" tvg-name="FRANCE 4" tvg-logo="" group-title="Nikos Thanos",FRANCE 4
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18617
+#EXTINF:-1 tvg-id="France 5 FR" tvg-name="FRANCE 5" tvg-logo="" group-title="Nikos Thanos",FRANCE 5
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18618
+#EXTINF:-1 tvg-id="France O FR" tvg-name="FRANCE O" tvg-logo="" group-title="Nikos Thanos",FRANCE O
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18619
+#EXTINF:-1 tvg-id="Arte FR" tvg-name="ARTE HD" tvg-logo="" group-title="Nikos Thanos",ARTE HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18620
+#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 HD" tvg-logo="" group-title="Nikos Thanos",M6 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18621
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 HD" tvg-logo="" group-title="Nikos Thanos",W9 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18622
+#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9" tvg-logo="" group-title="Nikos Thanos",W9
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18623
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6 TER HD" tvg-logo="" group-title="Nikos Thanos",6 TER HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18624
+#EXTINF:-1 tvg-id="CANALPlus FR" tvg-name="CANAL+ HD" tvg-logo="" group-title="Nikos Thanos",CANAL+ HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18625
+#EXTINF:-1 tvg-id="CANALPlus Decale FR" tvg-name="CANAL+ DECALE" tvg-logo="" group-title="Nikos Thanos",CANAL+ DECALE
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18626
+#EXTINF:-1 tvg-id="CANALPlus Family FR" tvg-name="CANAL+ FAMILY" tvg-logo="" group-title="Nikos Thanos",CANAL+ FAMILY
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18627
+#EXTINF:-1 tvg-id="CANALPlus Cinema FR" tvg-name="CANAL+ CINEMA" tvg-logo="" group-title="Nikos Thanos",CANAL+ CINEMA
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18628
+#EXTINF:-1 tvg-id="CANALPlus Series FR" tvg-name="CANAL+ SERIES" tvg-logo="" group-title="Nikos Thanos",CANAL+ SERIES
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18629
+#EXTINF:-1 tvg-id="CANALPlus Sport FR" tvg-name="CANAL+ SPORT" tvg-logo="" group-title="Nikos Thanos",CANAL+ SPORT
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18630
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="BEINSPORT 1HD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 1HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18631
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="BEINSPORT 2HD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 2HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18632
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="BEINSPORT 3HD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 3HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18633
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="BEINSPORT MAX 4" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 4
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18634
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="BEINSPORT MAX 5" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 5
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18635
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="BEINSPORT MAX 6" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 6
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18636
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="BEINSPORT MAX 7" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 7
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18637
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="BEINSPORT MAX 8" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 8
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18638
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9 FR" tvg-name="BEINSPORT MAX 9" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 9
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18639
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10 FR" tvg-name="BEINSPORT MAX 10" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 10
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18640
+#EXTINF:-1 tvg-id="FootPlus 2424 FR" tvg-name="FOOT+24 HD" tvg-logo="" group-title="Nikos Thanos",FOOT+24 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18641
+#EXTINF:-1 tvg-id="Eurosport 1 FR" tvg-name="EUROSPORT 1HD" tvg-logo="" group-title="Nikos Thanos",EUROSPORT 1HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18642
+#EXTINF:-1 tvg-id="Eurosport 2 FR" tvg-name="EUROSPORT 2HD" tvg-logo="" group-title="Nikos Thanos",EUROSPORT 2HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18643
+#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="L'equipe 21 HD" tvg-logo="" group-title="Nikos Thanos",L'equipe 21 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18644
+#EXTINF:-1 tvg-id="13eme Rue HD FR" tvg-name="13EME RUE HD" tvg-logo="" group-title="Nikos Thanos",13EME RUE HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18645
+#EXTINF:-1 tvg-id="6ter FR" tvg-name="6TER HD" tvg-logo="" group-title="Nikos Thanos",6TER HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18646
+#EXTINF:-1 tvg-id="AB1 HD FR" tvg-name="AB 1" tvg-logo="" group-title="Nikos Thanos",AB 1
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18647
+#EXTINF:-1 tvg-id="AB Moteurs FR" tvg-name="AB MOTEUR" tvg-logo="" group-title="Nikos Thanos",AB MOTEUR
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18648
+#EXTINF:-1 tvg-id="Action FR" tvg-name="ACTION HD" tvg-logo="" group-title="Nikos Thanos",ACTION HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18649
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="Animaux HD" tvg-logo="" group-title="Nikos Thanos",Animaux HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18650
+#EXTINF:-1 tvg-id="" tvg-name="Baby HD" tvg-logo="" group-title="Nikos Thanos",Baby HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18651
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK AFRICA" tvg-logo="" group-title="Nikos Thanos",BBLACK AFRICA
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18652
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK Classic" tvg-logo="" group-title="Nikos Thanos",BBLACK Classic
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18653
+#EXTINF:-1 tvg-id="Be Curious TV FR" tvg-name="BE Curious HD" tvg-logo="" group-title="Nikos Thanos",BE Curious HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18654
+#EXTINF:-1 tvg-id="" tvg-name="BERBERE JEUNESSE" tvg-logo="" group-title="Nikos Thanos",BERBERE JEUNESSE
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18655
+#EXTINF:-1 tvg-id="" tvg-name="BERBERE MUSIC" tvg-logo="" group-title="Nikos Thanos",BERBERE MUSIC
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18656
+#EXTINF:-1 tvg-id="" tvg-name="BERBERE TELEVISION" tvg-logo="" group-title="Nikos Thanos",BERBERE TELEVISION
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18657
+#EXTINF:-1 tvg-id="BET HD FR" tvg-name="BET HD" tvg-logo="" group-title="Nikos Thanos",BET HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18658
+#EXTINF:-1 tvg-id="BFM Sport FR" tvg-name="BFM Paris HD" tvg-logo="" group-title="Nikos Thanos",BFM Paris HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18659
+#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFM TV" tvg-logo="" group-title="Nikos Thanos",BFM TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18660
+#EXTINF:-1 tvg-id="Boing FR" tvg-name="BOING" tvg-logo="" group-title="Nikos Thanos",BOING
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18661
+#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="Boomerang" tvg-logo="" group-title="Nikos Thanos",Boomerang
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18662
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA HD" tvg-logo="" group-title="Nikos Thanos",BRAVA HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18663
+#EXTINF:-1 tvg-id="TvBreizh FR" tvg-name="BREIZH TV" tvg-logo="" group-title="Nikos Thanos",BREIZH TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18664
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="C NEWS HD" tvg-logo="" group-title="Nikos Thanos",C NEWS HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18665
+#EXTINF:-1 tvg-id="" tvg-name="C news SD" tvg-logo="" group-title="Nikos Thanos",C news SD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18666
+#EXTINF:-1 tvg-id="Canal Star FR" tvg-name="C star HD" tvg-logo="" group-title="Nikos Thanos",C star HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18667
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="C8 HD" tvg-logo="" group-title="Nikos Thanos",C8 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18668
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alpha" tvg-logo="" group-title="Nikos Thanos",Canal Alpha
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18669
+#EXTINF:-1 tvg-id="Canal J FR" tvg-name="CANAL J" tvg-logo="" group-title="Nikos Thanos",CANAL J
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18670
+#EXTINF:-1 tvg-id="Cartoon Network FR" tvg-name="Cartoon Network" tvg-logo="" group-title="Nikos Thanos",Cartoon Network
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18671
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="Chasse & Peche" tvg-logo="" group-title="Nikos Thanos",Chasse & Peche
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18672
+#EXTINF:-1 tvg-id="Cherie 25 FR" tvg-name="CHERIE 25 HD" tvg-logo="" group-title="Nikos Thanos",CHERIE 25 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18673
+#EXTINF:-1 tvg-id="CinePlus Club HD FR" tvg-name="CINE CLUB" tvg-logo="" group-title="Nikos Thanos",CINE CLUB
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18674
+#EXTINF:-1 tvg-id="CinePlus Classic FR" tvg-name="CINE+ CLASSIC" tvg-logo="" group-title="Nikos Thanos",CINE+ CLASSIC
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18675
+#EXTINF:-1 tvg-id="CinePlus Emotion HD FR" tvg-name="CINE+ EMOTION" tvg-logo="" group-title="Nikos Thanos",CINE+ EMOTION
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18676
+#EXTINF:-1 tvg-id="CinePlus Famiz HD FR" tvg-name="CINE+ FAMIZ" tvg-logo="" group-title="Nikos Thanos",CINE+ FAMIZ
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18677
+#EXTINF:-1 tvg-id="CinePlus Frisson HD FR" tvg-name="CINE+ FRISSON" tvg-logo="" group-title="Nikos Thanos",CINE+ FRISSON
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18678
+#EXTINF:-1 tvg-id="Cine Polar FR" tvg-name="CINE+ POLAR" tvg-logo="" group-title="Nikos Thanos",CINE+ POLAR
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18679
+#EXTINF:-1 tvg-id="CinePlus Premier HD FR" tvg-name="CINE+ PREMIER" tvg-logo="" group-title="Nikos Thanos",CINE+ PREMIER
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18680
+#EXTINF:-1 tvg-id="" tvg-name="Clubbing TV" tvg-logo="" group-title="Nikos Thanos",Clubbing TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18681
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="Comedie+ HD" tvg-logo="" group-title="Nikos Thanos",Comedie+ HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18682
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="DISCOVERY" tvg-logo="" group-title="Nikos Thanos",DISCOVERY
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18683
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="Discovery Science HD" tvg-logo="" group-title="Nikos Thanos",Discovery Science HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18684
+#EXTINF:-1 tvg-id="Disney Channel FR" tvg-name="Disney Channel HD" tvg-logo="" group-title="Nikos Thanos",Disney Channel HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18685
+#EXTINF:-1 tvg-id="Disney Cinema HD FR" tvg-name="DISNEY CINEMAGIC HD" tvg-logo="" group-title="Nikos Thanos",DISNEY CINEMAGIC HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18686
+#EXTINF:-1 tvg-id="Disney Junior FR" tvg-name="Disney Junior" tvg-logo="" group-title="Nikos Thanos",Disney Junior
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18687
+#EXTINF:-1 tvg-id="Disney XD FR" tvg-name="DISNEY XD HD" tvg-logo="" group-title="Nikos Thanos",DISNEY XD HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18688
+#EXTINF:-1 tvg-id="E! FR" tvg-name="E! HD" tvg-logo="" group-title="Nikos Thanos",E! HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18689
+#EXTINF:-1 tvg-id="ElleGirl FR" tvg-name="Elle Girl FHD" tvg-logo="" group-title="Nikos Thanos",Elle Girl FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18690
+#EXTINF:-1 tvg-id="Equidia Live HD FR" tvg-name="EQUIDIA LIVE" tvg-logo="" group-title="Nikos Thanos",EQUIDIA LIVE
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18691
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="" group-title="Nikos Thanos",EURONEWS
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18692
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sport HD" tvg-logo="" group-title="Nikos Thanos",Extreme Sport HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18693
+#EXTINF:-1 tvg-id="France 24 FR" tvg-name="FRANCE 24" tvg-logo="" group-title="Nikos Thanos",FRANCE 24
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18694
+#EXTINF:-1 tvg-id="Game One FR" tvg-name="Game One" tvg-logo="" group-title="Nikos Thanos",Game One
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18695
+#EXTINF:-1 tvg-id="Golf Channel FR" tvg-name="GOLF Channel HD" tvg-logo="" group-title="Nikos Thanos",GOLF Channel HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18696
+#EXTINF:-1 tvg-id="GolfPlus FR" tvg-name="GOLF+ HD" tvg-logo="" group-title="Nikos Thanos",GOLF+ HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18697
+#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong Base" tvg-logo="" group-title="Nikos Thanos",Gong Base
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18698
+#EXTINF:-1 tvg-id="" tvg-name="GongMax" tvg-logo="" group-title="Nikos Thanos",GongMax
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18699
+#EXTINF:-1 tvg-id="" tvg-name="GRAND LILLE" tvg-logo="" group-title="Nikos Thanos",GRAND LILLE
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18700
+#EXTINF:-1 tvg-id="Gulli FR" tvg-name="Gulli" tvg-logo="" group-title="Nikos Thanos",Gulli
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18701
+#EXTINF:-1 tvg-id="HD1 FR" tvg-name="HD1" tvg-logo="" group-title="Nikos Thanos",HD1
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18702
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="Histoire" tvg-logo="" group-title="Nikos Thanos",Histoire
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18703
+#EXTINF:-1 tvg-id="" tvg-name="i24 News" tvg-logo="" group-title="Nikos Thanos",i24 News
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18704
+#EXTINF:-1 tvg-id="" tvg-name="IDF 1" tvg-logo="" group-title="Nikos Thanos",IDF 1
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18705
+#EXTINF:-1 tvg-id="" tvg-name="IL TV" tvg-logo="" group-title="Nikos Thanos",IL TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18706
+#EXTINF:-1 tvg-id="InfosportPlus FR" tvg-name="InfoSport+ HD" tvg-logo="" group-title="Nikos Thanos",InfoSport+ HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18707
+#EXTINF:-1 tvg-id="J-One FR" tvg-name="J-ONE HD" tvg-logo="" group-title="Nikos Thanos",J-ONE HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18708
+#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO" tvg-logo="" group-title="Nikos Thanos",KTO
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18709
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO HD" tvg-logo="" group-title="Nikos Thanos",LA CHAINE METEO HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18710
+#EXTINF:-1 tvg-id="Cine FX FR" tvg-name="La Chaine Normande" tvg-logo="" group-title="Nikos Thanos",La Chaine Normande
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18711
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="Nikos Thanos",LCI HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18712
+#EXTINF:-1 tvg-id="LCP FR" tvg-name="LCP HD" tvg-logo="" group-title="Nikos Thanos",LCP HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18713
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu TV" tvg-logo="" group-title="Nikos Thanos",Leman Bleu TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18714
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Jack TV" tvg-logo="" group-title="Nikos Thanos",Lucky Jack TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18715
+#EXTINF:-1 tvg-id="M6 Music FR" tvg-name="M6 MUSIC" tvg-logo="" group-title="Nikos Thanos",M6 MUSIC
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18716
+#EXTINF:-1 tvg-id="Mangas FR" tvg-name="MANGAS HD" tvg-logo="" group-title="Nikos Thanos",MANGAS HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18717
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD" tvg-logo="" group-title="Nikos Thanos",MCM HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18718
+#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM POP" tvg-logo="" group-title="Nikos Thanos",MCM POP
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18719
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="Nikos Thanos",MTV Hits
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18720
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="NAT GEO HD" tvg-logo="" group-title="Nikos Thanos",NAT GEO HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18721
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Nikos Thanos",Nat Geo Wild HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18722
+#EXTINF:-1 tvg-id="Nickelodeon FR" tvg-name="NICKELODEON" tvg-logo="" group-title="Nikos Thanos",NICKELODEON
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18723
+#EXTINF:-1 tvg-id="Nickelodeon Junior FR" tvg-name="NICKELODEON JR" tvg-logo="" group-title="Nikos Thanos",NICKELODEON JR
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18724
+#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ12 HD" tvg-logo="" group-title="Nikos Thanos",NRJ12 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18725
+#EXTINF:-1 tvg-id="NT1 FR" tvg-name="France 3 NOA HD" tvg-logo="" group-title="Nikos Thanos",France 3 NOA HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18726
+#EXTINF:-1 tvg-id="Numero 23 FR" tvg-name="NUMERO 23 HD" tvg-logo="" group-title="Nikos Thanos",NUMERO 23 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18727
+#EXTINF:-1 tvg-id="OCS Choc FR" tvg-name="OCS CHOC HD" tvg-logo="" group-title="Nikos Thanos",OCS CHOC HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18728
+#EXTINF:-1 tvg-id="OCS City FR" tvg-name="OCS CITY HD" tvg-logo="" group-title="Nikos Thanos",OCS CITY HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18729
+#EXTINF:-1 tvg-id="OCS Geants FR" tvg-name="OCS GEANTS HD" tvg-logo="" group-title="Nikos Thanos",OCS GEANTS HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18730
+#EXTINF:-1 tvg-id="OCS Max FR" tvg-name="OCS MAX HD" tvg-logo="" group-title="Nikos Thanos",OCS MAX HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18731
+#EXTINF:-1 tvg-id="OLTV FR" tvg-name="OL TV" tvg-logo="" group-title="Nikos Thanos",OL TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18732
+#EXTINF:-1 tvg-id="OMtv FR" tvg-name="OM TV" tvg-logo="" group-title="Nikos Thanos",OM TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18733
+#EXTINF:-1 tvg-id="One TV FR" tvg-name="ONE TV" tvg-logo="" group-title="Nikos Thanos",ONE TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18734
+#EXTINF:-1 tvg-id="Paramount Channel FR" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Nikos Thanos",PARAMOUNT CHANNEL HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18735
+#EXTINF:-1 tvg-id="Paris Premiere FR" tvg-name="Paris Premiere HD" tvg-logo="" group-title="Nikos Thanos",Paris Premiere HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18736
+#EXTINF:-1 tvg-id="" tvg-name="PIWI  HD" tvg-logo="" group-title="Nikos Thanos",PIWI  HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18737
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="Planet HD" tvg-logo="" group-title="Nikos Thanos",Planet HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18738
+#EXTINF:-1 tvg-id="PlanetePlus Action and Experience FR" tvg-name="Planete  A&E HD" tvg-logo="" group-title="Nikos Thanos",Planete  A&E HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18739
+#EXTINF:-1 tvg-id="PlanetePlus CrimeplusInvestigation FR" tvg-name="PLANETE CI" tvg-logo="" group-title="Nikos Thanos",PLANETE CI
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18740
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte" tvg-logo="" group-title="Nikos Thanos",RMC Decouverte
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18741
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV" tvg-logo="" group-title="Nikos Thanos",Rouge TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18742
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="RTL9" tvg-logo="" group-title="Nikos Thanos",RTL9
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18743
+#EXTINF:-1 tvg-id="RTS Deux HD FR" tvg-name="RTS DEUX HD" tvg-logo="" group-title="Nikos Thanos",RTS DEUX HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18744
+#EXTINF:-1 tvg-id="RTS Un HD FR" tvg-name="RTS UN HD" tvg-logo="" group-title="Nikos Thanos",RTS UN HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18745
+#EXTINF:-1 tvg-id="Science and Vie TV FR" tvg-name="Sciences & Vie TV" tvg-logo="" group-title="Nikos Thanos",Sciences & Vie TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18746
+#EXTINF:-1 tvg-id="Seasons FR" tvg-name="Season HD" tvg-logo="" group-title="Nikos Thanos",Season HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18747
+#EXTINF:-1 tvg-id="serieclub FR" tvg-name="Serie Club HD" tvg-logo="" group-title="Nikos Thanos",Serie Club HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18748
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="" group-title="Nikos Thanos",Sundance TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18749
+#EXTINF:-1 tvg-id="Syfy HD FR" tvg-name="SYFY HD" tvg-logo="" group-title="Nikos Thanos",SYFY HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18750
+#EXTINF:-1 tvg-id="TCM Cinema FR" tvg-name="TCM Cinema" tvg-logo="" group-title="Nikos Thanos",TCM Cinema
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18751
+#EXTINF:-1 tvg-id="" tvg-name="TeleGrenoble Isere" tvg-logo="" group-title="Nikos Thanos",TeleGrenoble Isere
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18752
+#EXTINF:-1 tvg-id="Teva FR" tvg-name="Teva HD" tvg-logo="" group-title="Nikos Thanos",Teva HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18753
+#EXTINF:-1 tvg-id="TIJI FR" tvg-name="TIJI" tvg-logo="" group-title="Nikos Thanos",TIJI
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18754
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC" tvg-logo="" group-title="Nikos Thanos",TMC
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18755
+#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC HD" tvg-logo="" group-title="Nikos Thanos",TMC HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18756
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="Toute l Histoire HD" tvg-logo="" group-title="Nikos Thanos",Toute l Histoire HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18757
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="Trek HD" tvg-logo="" group-title="Nikos Thanos",Trek HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18758
+#EXTINF:-1 tvg-id="TV5MONDE FR" tvg-name="TV 5 Monde HD" tvg-logo="" group-title="Nikos Thanos",TV 5 Monde HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18759
+#EXTINF:-1 tvg-id="Equidia Life HD FR" tvg-name="TV5 MONDE HD" tvg-logo="" group-title="Nikos Thanos",TV5 MONDE HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18760
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bordeax" tvg-logo="" group-title="Nikos Thanos",TV7 Bordeax
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18761
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Colmar" tvg-logo="" group-title="Nikos Thanos",TV7 Colmar
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18762
+#EXTINF:-1 tvg-id="M6 Boutique FR" tvg-name="TV8 MontBlanc HD" tvg-logo="" group-title="Nikos Thanos",TV8 MontBlanc HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18763
+#EXTINF:-1 tvg-id="" tvg-name="TVM 3" tvg-logo="" group-title="Nikos Thanos",TVM 3
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18764
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="Ushuaia HD" tvg-logo="" group-title="Nikos Thanos",Ushuaia HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18765
+#EXTINF:-1 tvg-id="" tvg-name="VOSGUE TV" tvg-logo="" group-title="Nikos Thanos",VOSGUE TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18766
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="VOYAGE HD" tvg-logo="" group-title="Nikos Thanos",VOYAGE HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18767
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 1" tvg-logo="" group-title="Nikos Thanos",Canal Play 1
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18768
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2" tvg-logo="" group-title="Nikos Thanos",Canal Play 2
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18769
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 3" tvg-logo="" group-title="Nikos Thanos",Canal Play 3
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18770
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 4" tvg-logo="" group-title="Nikos Thanos",Canal Play 4
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18771
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 5" tvg-logo="" group-title="Nikos Thanos",Canal Play 5
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18772
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 1
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18773
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 2
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18774
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 3
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18775
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 4
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18776
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 5
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18777
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 6" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 6
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18778
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 7
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18779
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 8
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18780
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 9
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18781
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 10" tvg-logo="" group-title="Nikos Thanos",A LA CARTE 10
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18782
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 1 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18783
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 2 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18784
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 3 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18785
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 4 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 4 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18786
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 5 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 5 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18787
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 6 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 6 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18788
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 7 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 7 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18789
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 8 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 8 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18790
+#EXTINF:-1 tvg-id="" tvg-name="BTV MOVIES 9 HD" tvg-logo="" group-title="Nikos Thanos",BTV MOVIES 9 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18791
+#EXTINF:-1 tvg-id="" tvg-name="Alsace TV HD" tvg-logo="" group-title="Nikos Thanos",Alsace TV HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18792
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="" group-title="Nikos Thanos",Antenne Reunion
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18793
+#EXTINF:-1 tvg-id="" tvg-name="Bblack! Caribbean" tvg-logo="" group-title="Nikos Thanos",Bblack! Caribbean
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18794
+#EXTINF:-1 tvg-id="" tvg-name="BIP TV (Berry Issoudun Premiere)" tvg-logo="" group-title="Nikos Thanos",BIP TV (Berry Issoudun Premiere)
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18795
+#EXTINF:-1 tvg-id="" tvg-name="CPAC HD" tvg-logo="" group-title="Nikos Thanos",CPAC HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18796
+#EXTINF:-1 tvg-id="" tvg-name="FASHION MIDNITE FHD" tvg-logo="" group-title="Nikos Thanos",FASHION MIDNITE FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18797
+#EXTINF:-1 tvg-id="" tvg-name="Francophonie 24" tvg-logo="" group-title="Nikos Thanos",Francophonie 24
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18798
+#EXTINF:-1 tvg-id="" tvg-name="ILTV" tvg-logo="" group-title="Nikos Thanos",ILTV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18799
+#EXTINF:-1 tvg-id="" tvg-name="France Info HD" tvg-logo="" group-title="Nikos Thanos",France Info HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18800
+#EXTINF:-1 tvg-id="" tvg-name="MATELE TV HD" tvg-logo="" group-title="Nikos Thanos",MATELE TV HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18801
+#EXTINF:-1 tvg-id="" tvg-name="RT France HD" tvg-logo="" group-title="Nikos Thanos",RT France HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18802
+#EXTINF:-1 tvg-id="" tvg-name="Tebeo TV HD" tvg-logo="" group-title="Nikos Thanos",Tebeo TV HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18803
+#EXTINF:-1 tvg-id="" tvg-name="TVFIL78" tvg-logo="" group-title="Nikos Thanos",TVFIL78
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18804
+#EXTINF:-1 tvg-id="" tvg-name="TVPi" tvg-logo="" group-title="Nikos Thanos",TVPi
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18805
+#EXTINF:-1 tvg-id="" tvg-name="TVR TV Rennes 35" tvg-logo="" group-title="Nikos Thanos",TVR TV Rennes 35
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18806
+#EXTINF:-1 tvg-id="" tvg-name="VIA MIRABELLE TV HD" tvg-logo="" group-title="Nikos Thanos",VIA MIRABELLE TV HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18807
+#EXTINF:-1 tvg-id="" tvg-name="via Occitanie TV" tvg-logo="" group-title="Nikos Thanos",via Occitanie TV
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18808
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1 FHD" tvg-logo="" group-title="Nikos Thanos",TF1 +1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21106
+#EXTINF:-1 tvg-id="" tvg-name="TMC +1 FHD" tvg-logo="" group-title="Nikos Thanos",TMC +1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21107
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium UHD 4K" tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium UHD 4K
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21094
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium FHD" tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21095
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium HD" tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21096
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium" tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21097
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 1 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 1 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21098
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 2 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 2 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21099
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 3 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 3 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21100
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 4 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 4 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21101
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 5 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 5 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21102
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 6 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 6 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21103
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 7 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 7 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21104
+#EXTINF:-1 tvg-id="" tvg-name="TeleFoot Stadium 8 HD " tvg-logo="" group-title="Nikos Thanos",TeleFoot Stadium 8 HD 
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/21105
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="BEINSPORT 1 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18419
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="BEINSPORT 2 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 2 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18420
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="BEINSPORT 3 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT 3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18421
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="BEINSPORT MAX 4 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 4 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18422
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="BEINSPORT MAX 5 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 5 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18423
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="BEINSPORT MAX 6 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 6 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18424
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="BEINSPORT MAX 7 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 7 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18425
+#EXTINF:-1 tvg-id="BeInSportMax8.fr" tvg-name="BEINSPORT MAX 8 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 8 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18426
+#EXTINF:-1 tvg-id="BeInSportMax9.fr" tvg-name="BEINSPORT MAX 9 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 9 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18427
+#EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="BEINSPORT MAX 10 FHD" tvg-logo="" group-title="Nikos Thanos",BEINSPORT MAX 10 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18428
+#EXTINF:-1 tvg-id="RMC Sport 1 FR" tvg-name="RMC SPORT UHD 4K" tvg-logo="" group-title="Nikos Thanos",RMC SPORT UHD 4K
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18429
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC SPORT News HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT News HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18430
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 FHD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 1 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18431
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18432
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 FHD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 2 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18433
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18434
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC SPORT 3 FHD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 3 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18435
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18436
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC SPORT 4 FHD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 4 FHD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18437
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT 4 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18438
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC SPORT Accees 1 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT Accees 1 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18439
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC SPORT Accees 2 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT Accees 2 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18440
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC SPORT Accees 3 HD" tvg-logo="" group-title="Nikos Thanos",RMC SPORT Accees 3 HD
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18441
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 5 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18442
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 6 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 6 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18443
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 7 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 7 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18444
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 8 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 8 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18445
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 9 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 9 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18446
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 10 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18447
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 11 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18448
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 12 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 12 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18449
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 13 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 13 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18450
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 14 HD Live" tvg-logo="" group-title="Nikos Thanos",RMC Sport 14 HD Live
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18451
+#EXTINF:-1 tvg-id="" tvg-name="MB Live 4K" tvg-logo="" group-title="Nikos Thanos",MB Live 4K
+http://31.220.3.234:22461/nikos_thanos@hotmail.com/2HDlx6fy69/18452
 #EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="" group-title="Love",FRANCE 3
 http://vip.groupiptv.com:7000/love/love/1318
 #EXTINF:-1 tvg-ID="" tvg-name="RTL9" tvg-logo="" group-title="Love",RTL9
@@ -379,104 +1833,6 @@ http://anadol.co:25461/52836373/56393627/2357
 http://anadol.co:25461/52836373/56393627/2358
 #EXTINF:-1 tvg-id="" tvg-name="CANALPLAY MULTIVISION 3 FHD" tvg-logo="" group-title="Anadol",CANALPLAY MULTIVISION 3 FHD
 http://anadol.co:25461/52836373/56393627/2359
-#EXTINF:-1 tvg-id="TF1" tvg-name="TF1 HD" tvg-logo="" group-title="Twenty Cents", TF1 HD
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/809
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Serie Film" tvg-logo="" group-title="Twenty Cents", TF1 Serie Film
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/810
-#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="" group-title="Twenty Cents", 6TER
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/811
-#EXTINF:-1 tvg-id="" tvg-name="C Star" tvg-logo="" group-title="Twenty Cents", C Star
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/812
-#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="" group-title="Twenty Cents", C8
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/813
-#EXTINF:-1 tvg-id="" tvg-name="Cherie 25" tvg-logo="" group-title="Twenty Cents", Cherie 25
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/814
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="" group-title="Twenty Cents", M6
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/815
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12" tvg-logo="" group-title="Twenty Cents", NRJ 12
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/816
-#EXTINF:-1 tvg-id="" tvg-name="RTL 9" tvg-logo="" group-title="Twenty Cents", RTL 9
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/817
-#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="" group-title="Twenty Cents", TFX
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/818
-#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="" group-title="Twenty Cents", TMC
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/819
-#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="" group-title="Twenty Cents", W9
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/820
-#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="" group-title="Twenty Cents", France O
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/821
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="Twenty Cents", France 2
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/822
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="Twenty Cents", France 3
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/823
-#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="" group-title="Twenty Cents", France 4
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/824
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="Twenty Cents", France 5
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/825
-#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="" group-title="Twenty Cents", RTS Un
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/826
-#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="" group-title="Twenty Cents", RTS Deux
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/827
-#EXTINF:-1 tvg-id="" tvg-name="L'Equipe" tvg-logo="" group-title="Twenty Cents", L'Equipe
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/828
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ FR" tvg-logo="" group-title="Twenty Cents", Canal+ FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/829
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport FR" tvg-logo="" group-title="Twenty Cents", Canal+ Sport FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/830
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema FR" tvg-logo="" group-title="Twenty Cents", Canal+ Cinema FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/831
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale FR" tvg-logo="" group-title="Twenty Cents", Canal+ Decale FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/832
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family FR" tvg-logo="" group-title="Twenty Cents", Canal+ Family FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/833
-#EXTINF:-1 tvg-id="RMC SPORT 1" tvg-name="RMC Sport 1 HD" tvg-logo="" group-title="Twenty Cents", RMC Sport 1 HD
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/834
-#EXTINF:-1 tvg-id="RMC SPORT 2" tvg-name="RMC Sport 2 HD" tvg-logo="" group-title="Twenty Cents", RMC Sport 2 HD
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/835
-#EXTINF:-1 tvg-id="RMC SPORT 3" tvg-name="RMC Sport 3 HD" tvg-logo="" group-title="Twenty Cents", RMC Sport 3 HD
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/836
-#EXTINF:-1 tvg-id="HD1" tvg-name="Bein Sports 1 HD FR" tvg-logo="" group-title="Twenty Cents", Bein Sports 1 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/837
-#EXTINF:-1 tvg-id="HD2" tvg-name="Bein Sports 2 HD FR" tvg-logo="" group-title="Twenty Cents", Bein Sports 2 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/838
-#EXTINF:-1 tvg-id="HD3" tvg-name="Bein Sports 3 HD FR" tvg-logo="" group-title="Twenty Cents", Bein Sports 3 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/839
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 4" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 4
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/840
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 5" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 5
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/841
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 6" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 6
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/842
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 7" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 7
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/843
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 8" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 8
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/844
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 9" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 9
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/845
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 10" tvg-logo="" group-title="Twenty Cents", Bein Sport Max 10
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/846
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot" tvg-logo="" group-title="Twenty Cents", Telefoot
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2889
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 1" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 1
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2890
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 2" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 2
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2891
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 3" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 3
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2892
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 6" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 6
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2893
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 4" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 4
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2894
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 5" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 5
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2895
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 7" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 7
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2896
-#EXTINF:-1 tvg-id="" tvg-name="Telefoot Stadium 8" tvg-logo="" group-title="Twenty Cents", Telefoot Stadium 8
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/2897
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD FR" tvg-logo="" group-title="Twenty Cents", Eurosport 1 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/847
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD FR" tvg-logo="" group-title="Twenty Cents", Eurosport 2 HD FR
-http://twentycents.club:8080/odd.smith@lyse.net/2uztrsUiuj/848
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="1234567", BABY TV
 http://185.71.64.167:80/7654321/1234567/78546
 #EXTINF:-1 tvg-id="" tvg-name="TIJI" tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="1234567", TIJI
