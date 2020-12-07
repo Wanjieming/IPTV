@@ -1,4 +1,1512 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49161
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49162
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49163
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 4 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49164
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 5 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49165
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Sansat",M6 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49166
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="Sansat",PARIS PREMIERE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49168
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="TFX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Sansat",TFX HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49169
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat",TF1 SERIES FILMS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49170
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Sansat",6TER HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49171
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat",TMC HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49172
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="C8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="Sansat",C8 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49173
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="W9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Sansat",W9 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49174
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="ARTE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Sansat",ARTE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49175
+#EXTINF:-1 tvg-ID="" tvg-name="RTS UN HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4333_300C_13E_820000_0_0_0.png" group-title="Sansat",RTS UN HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49176
+#EXTINF:-1 tvg-ID="" tvg-name="RTS DEUX HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="Sansat",RTS DEUX HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49177
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49178
+#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="AB3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_1006_451_35_C00000_0_0_0.png" group-title="Sansat",AB3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49179
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="Sansat",TV BREIZH HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49180
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="Sansat",TV5 MONDE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49181
+#EXTINF:-1 tvg-ID="" tvg-name="13EME RUE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_724_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",13EME RUE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49182
+#EXTINF:-1 tvg-ID="" tvg-name="LFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/lfmTV.png" group-title="Sansat",LFM TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49183
+#EXTINF:-1 tvg-ID="" tvg-name="TVM3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/TVM3.png" group-title="Sansat",TVM3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49184
+#EXTINF:-1 tvg-ID="" tvg-name="BET HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F41_42E_1_C00000_0_0_0.png" group-title="Sansat",BET HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49185
+#EXTINF:-1 tvg-ID="" tvg-name="BFM BUSINESS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="Sansat",BFM BUSINESS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49186
+#EXTINF:-1 tvg-ID="" tvg-name="BFM PARIS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="Sansat",BFM PARIS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49187
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="CSTAR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="Sansat",CSTAR HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49188
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="TEVA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="Sansat",TEVA HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49189
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat",AB1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49190
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",NRJ 12 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49191
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="Cherie 25 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Sansat",Cherie 25 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49192
+#EXTINF:-1 tvg-ID="canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANAL 31 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49193
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/cliquetv.png" group-title="Sansat",CLIQUE TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49194
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="COMEDIE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="Sansat",COMEDIE  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49195
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",GAME ONE  1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49196
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="GAME ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",GAME ONE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49197
+#EXTINF:-1 tvg-ID="idf1.fr" tvg-name="IDF 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/IDFTV.png" group-title="Sansat",IDF 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49198
+#EXTINF:-1 tvg-ID="" tvg-name="J ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B2_43E_1_C00000_0_0_0.png" group-title="Sansat",J ONE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49199
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/mycuisine.png" group-title="Sansat",MY CUISINE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49201
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CA_444_1_C00000_0_0_0.png" group-title="Sansat",NOVELAS TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49202
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="BFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Sansat",BFM TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49204
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="CNEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Sansat",CNEWS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49205
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FRANCEINFO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Sansat",FRANCEINFO HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49206
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="LCI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Sansat",LCI HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49207
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="France 24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Sansat",France 24 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49208
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name="LCP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Sansat",LCP HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49209
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="I24 Francis HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Sansat",I24 Francis HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49210
+#EXTINF:-1 tvg-ID="" tvg-name="RT France" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_18EF_3F4_1_C00000_0_0_0.png" group-title="Sansat",RT France
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/51047
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name="EuroNews" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="Sansat",EuroNews
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52075
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE EUROPE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="Sansat",TV5 MONDE EUROPE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49211
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49213
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49214
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49215
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="Sansat",RMC SPORT 4 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49216
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="RMC SPORT 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 5 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49217
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="RMC SPORT 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 6 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49218
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="RMC SPORT 7 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 7 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49219
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="RMC SPORT 8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 8 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49220
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="RMC SPORT 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 9 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49221
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="RMC SPORT 10 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 10 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49222
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="RMC SPORT 11 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 11 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49223
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="RMC SPORT 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 12 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49224
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="RMC SPORT 13 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 13 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49225
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="RMC SPORT 14 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 14 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49226
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="RMC SPORT 15 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",RMC SPORT 15 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49227
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name="RMC SPORT NEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",RMC SPORT NEWS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49228
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49229
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49230
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS 3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49231
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 4
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52518
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 5
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52519
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 6
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52520
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 7
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52521
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 8
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52522
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2073_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 9
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52523
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2074_432_1_C00000_0_0_0.png" group-title="Sansat",BEIN SPORTS MAX 10
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52524
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="Sansat",EUROSPORT 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49232
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="Sansat",EUROSPORT 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49233
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="CANAL  SPORT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  SPORT HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49240
+#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="OL TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4E_42E_1_C00000_0_0_0.png" group-title="Sansat",OL TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49241
+#EXTINF:-1 tvg-ID="" tvg-name="AUTOMOTO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="Sansat",AUTOMOTO HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49242
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="INFO SPORT  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="Sansat",INFO SPORT  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49243
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="EQUIDIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D4_444_1_C00000_0_0_0.png" group-title="Sansat",EQUIDIA HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49244
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="Equipe 21 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="Sansat",Equipe 21 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49245
+#EXTINF:-1 tvg-ID="extreme.fr" tvg-name="EXTREME SPORTS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196D_44E_1_C00000_0_0_0.png" group-title="Sansat",EXTREME SPORTS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49246
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="FOOT  24/24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="Sansat",FOOT  24/24 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49247
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="GOLF+   HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="Sansat",GOLF+   HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49248
+#EXTINF:-1 tvg-ID="" tvg-name="TELECLUB ZOOM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/teleclubzoom.png" group-title="Sansat",TELECLUB ZOOM HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49250
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT TV HD" tvg-logo="http://vodkom.com:25461/images/Astra19/motorsportstv.png" group-title="Sansat",MOTORSPORT TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49251
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="CANAL+  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL+  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49253
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="CANAL  CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  CINEMA HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49254
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="CANAL  DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  DECALE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49255
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  FAMILY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49256
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="CANAL  SERIES HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Sansat",CANAL  SERIES HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49257
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="CINE  FRISSON HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  FRISSON HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49258
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="CINE  PREMIER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Sansat",CINE  PREMIER HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49259
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="CINE  CLASSIC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  CLASSIC HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49260
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="CINE  CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Sansat",CINE  CLUB HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49261
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="CINE  EMOTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Sansat",CINE  EMOTION HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49262
+#EXTINF:-1 tvg-ID="cineplusfamiz.fr" tvg-name="CINE  FAMIZ HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Sansat",CINE  FAMIZ HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49263
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="OCS CITY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat",OCS CITY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49264
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="OCS GEANTS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="Sansat",OCS GEANTS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49265
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="OCS MAX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat",OCS MAX HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49266
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat",OCS CHOC HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49267
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="ACTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Sansat",ACTION HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49268
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/alticestudios.png" group-title="Sansat",ALTICE STUDIO HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49269
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="Sansat",COMEDY CENTRAL HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49270
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="SYFY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_71F_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",SYFY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49271
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Sansat",TCM CINEMA HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49272
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Sansat",WARNER TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49273
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat",TMC HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49274
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206E_432_1_C00000_0_0_0.png" group-title="Sansat",POLAR  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49275
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Sansat",PARAMOUNT CHANNEL HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49276
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Sansat",PARAMOUNT DECALE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49277
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="Sansat",SERIE CLUB HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49278
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="RTL 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat",RTL 9 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49279
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="USHUAIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="Sansat",USHUAIA HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49309
+#EXTINF:-1 tvg-ID="" tvg-name="VICELAND HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="Sansat",VICELAND HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49310
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="Sansat",ANIMAUX HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49311
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="CHASSE ET PECHE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="Sansat",CHASSE ET PECHE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49312
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY ID HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY ID HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49313
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_58F_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY CHANNEL HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49314
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_594_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY FAMILY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49315
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY INVESTIGATION HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49316
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_593_5398_55F_DDE0000_0_0_0.png" group-title="Sansat",DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49317
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",CRIME DISTRICT HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49318
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="HISTOIRE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F46_42E_1_C00000_0_0_0.png" group-title="Sansat",HISTOIRE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49319
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_725_2904_55F_DDE0000_0_0_0.png" group-title="Sansat",E! ENTERTAINMENT HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49320
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AD_43E_1_C00000_0_0_0.png" group-title="Sansat",MUSEUM HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49321
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="Sansat",NAT GEO WILD HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49322
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="NATIONAL GEO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="Sansat",NATIONAL GEO HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49323
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="PLANETE  A&E HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  A&E HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49324
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="PLANETE  CI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  CI HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49325
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="PLANETE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="Sansat",PLANETE  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49326
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",RMC DECOUVERTE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49327
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="RMC STORY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Sansat",RMC STORY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49328
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",SCIENCE ET VIE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49329
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="Sansat",SEASONS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49330
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="TOUTE L HISTORIE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="Sansat",TOUTE L HISTORIE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49331
+#EXTINF:-1 tvg-ID="" tvg-name="MY ZEN TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BF_43C_1_C00000_0_0_0.png" group-title="Sansat",MY ZEN TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52527
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name="NON STOP PEOPLE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BD_43C_1_C00000_0_0_0.png" group-title="Sansat",NON STOP PEOPLE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52528
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="VOYAGE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="Sansat",VOYAGE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49332
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49334
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49335
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="Sansat",DISNEY JUNIOR HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49336
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C0_43C_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL  1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49338
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="CANAL J HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="Sansat",CANAL J HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49340
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="PIWI +  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="Sansat",PIWI +  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49341
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_749C_41C_1_C00000_0_0_0.png" group-title="Sansat",BABY TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49342
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="GULLI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",GULLI HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49343
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat",TIJI HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49344
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="TELE TOON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="Sansat",TELE TOON  HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49345
+#EXTINF:-1 tvg-ID="" tvg-name="TELE TOON +1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="Sansat",TELE TOON +1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49346
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOOMERANG HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49347
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="BOING HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19A_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",BOING HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49348
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="Sansat",CARTOON NETWORK HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49349
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="NICKELODEON 4 TEEN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 4 TEEN HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49350
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49351
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="Sansat",NICKELODEON JUNIOR HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49352
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="TOONAMI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat",TOONAMI HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49353
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="Sansat",MANGAS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49354
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C6_43C_1_C00000_0_0_0.png" group-title="Sansat",TRACE URBAN HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49356
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="MCM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220A_44C_1_C00000_0_0_0.png" group-title="Sansat",MCM HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49357
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="MCM TOP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2209_44C_1_C00000_0_0_0.png" group-title="Sansat",MCM TOP HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49358
+#EXTINF:-1 tvg-ID="melody.fr" tvg-name="MELODY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2206_44C_1_C00000_0_0_0.png" group-title="Sansat",MELODY HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49359
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO FR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4A_42E_1_C00000_0_0_0.png" group-title="Sansat",MEZZO FR
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/51817
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="NRJ HITS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200C_430_1_C00000_0_0_0.png" group-title="Sansat",NRJ HITS HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49360
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="RFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2202_44C_1_C00000_0_0_0.png" group-title="Sansat",RFM TV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49361
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV LIVE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="Sansat",MTV LIVE HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49362
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="Sansat",MTV HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49363
+#EXTINF:-1 tvg-ID="" tvg-name="C STAR HIT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C2_43C_1_C00000_0_0_0.png" group-title="Sansat",C STAR HIT HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49365
+#EXTINF:-1 tvg-ID="Mezzo Live HD FR" tvg-name="MEZZO LIVE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_7823_428_1_C00000_0_0_0.png" group-title="Sansat",MEZZO LIVE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52515
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="SUNDANCE TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200D_430_1_C00000_0_0_0.png" group-title="Sansat",SUNDANCE TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52516
+#EXTINF:-1 tvg-ID="Trace Tropical FR" tvg-name="TRACE LATINA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/tarcelatina.png" group-title="Sansat",TRACE LATINA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52517
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7602_408_1_C00000_0_0_0.png" group-title="Sansat",CLASSICA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52525
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",TREK
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49368
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="Sansat",TELEFOOT HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92090
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92490
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92491
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92492
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 4 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92493
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 5 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92494
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 6 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92495
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 7 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92496
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="Sansat",TELEFOOT STADIUM 8 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92497
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE " tvg-logo="" group-title="Sansat",MY CUISINE 
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91054
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY+" tvg-logo="" group-title="Sansat",DISNEY+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/75779
+#EXTINF:-1 tvg-ID="" tvg-name="M6 MUSIC" tvg-logo="" group-title="Sansat",M6 MUSIC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52578
+#EXTINF:-1 tvg-ID="" tvg-name="NOLLYWOOD TV" tvg-logo="" group-title="Sansat",NOLLYWOOD TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/52846
+#EXTINF:-1 tvg-ID="multisports1.fr" tvg-name="MULTI SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4D_42E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 1 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49234
+#EXTINF:-1 tvg-ID="multisports2.fr" tvg-name="MULTI SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D1_434_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 2 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49235
+#EXTINF:-1 tvg-ID="multisports3.fr" tvg-name="MULTI SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1971_44E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 3 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49236
+#EXTINF:-1 tvg-ID="multisports4.fr" tvg-name="MULTI SPORTS 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220B_44C_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 4 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49237
+#EXTINF:-1 tvg-ID="multisports5.fr" tvg-name="MULTI SPORTS 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26C1_43E_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 5 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49238
+#EXTINF:-1 tvg-ID="multisports6.fr" tvg-name="MULTI SPORTS 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19DD_444_1_C00000_0_0_0.png" group-title="Sansat",MULTI SPORTS 6 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49239
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 1 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49280
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 2 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49281
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 3 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49282
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 4 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49283
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",CANALPLAY 5 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49284
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 1 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49285
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 2 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49286
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 3 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49287
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 4 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49288
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA 5 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49289
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA AVENTURE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA AVENTURE FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49291
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",ORANGE CINEMA FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49292
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 1 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49296
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 2 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49297
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 3 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49298
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 4 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49299
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",A LA CARTE 5 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49300
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GO CINEMA 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="Sansat",OCS GO CINEMA 1 FHD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49303
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=" TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat", TF1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42302
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name=" FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 2
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42303
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name=" FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 3
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42304
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name=" FRANCE 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 4
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42305
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name=" FRANCE 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 5
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42306
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name=" M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Sansat", M6 HD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42307
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name=" PARIS PREMIERE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="Sansat", PARIS PREMIERE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42309
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name=" TFX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Sansat", TFX
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42310
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name=" TF1 SERIES FILMS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat", TF1 SERIES FILMS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42311
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name=" 6TER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Sansat", 6TER
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42312
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name=" TMC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat", TMC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42313
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name=" C8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="Sansat", C8
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42314
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name=" W9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="Sansat", W9
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42315
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name=" ARTE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Sansat", ARTE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42316
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name=" CSTAR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="Sansat", CSTAR
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42317
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name=" TEVA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="Sansat", TEVA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42318
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name=" AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="Sansat", AB1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42319
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name=" NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat", NRJ 12
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42320
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name=" Cherie 25" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="Sansat", Cherie 25
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42321
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name=" TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat", TREK
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42322
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name=" BFM TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Sansat", BFM TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42324
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name=" CNEWS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Sansat", CNEWS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42325
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name=" FRANCE INFO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="Sansat", FRANCE INFO
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42326
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name=" LCI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Sansat", LCI
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42327
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="FRANCE 24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 24
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42328
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name=" LCP" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Sansat", LCP
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42329
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name=" I24 Francis" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="Sansat", I24 Francis
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42330
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name=" TV5 MONDE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="Sansat", TV5 MONDE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42331
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name=" TV5MONDE EUROPE" tvg-logo="" group-title="Sansat", TV5MONDE EUROPE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42332
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT" tvg-logo="" group-title="Sansat",TELEFOOT
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92088
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name=" RMC SPORT NEWS" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="Sansat", RMC SPORT NEWS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42334
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name=" RMC SPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="Sansat", RMC SPORT 1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42335
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name=" RMC SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="Sansat", RMC SPORT 2
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42336
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name=" RMC SPORT 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="Sansat", RMC SPORT 3
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42337
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name=" RMC SPORT 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="Sansat", RMC SPORT 4
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42338
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name=" BEIN SPORTS 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="Sansat", BEIN SPORTS 1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42339
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name=" BEIN SPORTS 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="Sansat", BEIN SPORTS 2
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42340
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name=" BEIN SPORTS 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="Sansat", BEIN SPORTS 3
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42341
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name=" BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC0_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 4
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42342
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name=" BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC1_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 5
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42343
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name=" BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_323_5140_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 6
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42344
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name=" BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_324_5140_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 7
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42345
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name=" BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_325_5140_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 8
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42346
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name=" BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_326_5140_55F_DDE0000_0_0_0.png" group-title="Sansat", BEIN SPORTS MAX 9
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42347
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="Sansat", EUROSPORT 1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42349
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="Sansat", EUROSPORT 2
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42350
+#EXTINF:-1 tvg-ID="" tvg-name=" GOLF+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="Sansat", GOLF+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42351
+#EXTINF:-1 tvg-ID="" tvg-name=" FOOT+ 24/24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="Sansat", FOOT+ 24/24
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42352
+#EXTINF:-1 tvg-ID="" tvg-name=" INFOSPORT+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="Sansat", INFOSPORT+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42353
+#EXTINF:-1 tvg-ID="" tvg-name=" LEQUIPE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="Sansat", LEQUIPE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42354
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA" tvg-logo="" group-title="Sansat",EQUIDIA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81034
+#EXTINF:-1 tvg-ID="" tvg-name=" AUTOMOTO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="Sansat", AUTOMOTO
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42355
+#EXTINF:-1 tvg-ID="" tvg-name="OL TV" tvg-logo="" group-title="Sansat",OL TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81231
+#EXTINF:-1 tvg-ID="" tvg-name="EXTREME SPORTS" tvg-logo="" group-title="Sansat",EXTREME SPORTS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81232
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name=" CANAL+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42357
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+ CINEMA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42358
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ DECALE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+ DECALE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42359
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ FAMILY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+ FAMILY
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42360
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SERIES" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+ SERIES
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42361
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SPORT" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL+ SPORT
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42362
+#EXTINF:-1 tvg-ID="" tvg-name=" CHASSE ET PECHE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="Sansat", CHASSE ET PECHE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42363
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLASSIC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Sansat", CINE+ CLASSIC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42364
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="Sansat", CINE+ CLUB
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42365
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ EMOTION" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Sansat", CINE+ EMOTION
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42366
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FAMIZ" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Sansat", CINE+ FAMIZ
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42367
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FRISSON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Sansat", CINE+ FRISSON
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42368
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ PREMIER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Sansat", CINE+ PREMIER
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42369
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CITY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat", OCS CITY
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42370
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CHOC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat", OCS CHOC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42371
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS GEANTS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="Sansat", OCS GEANTS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42372
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS MAX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat", OCS MAX
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42373
+#EXTINF:-1 tvg-ID="" tvg-name=" COMEDIE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="Sansat", COMEDIE+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42374
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="Sansat",COMEDY CENTRAL
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81033
+#EXTINF:-1 tvg-ID="" tvg-name=" RTL9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat", RTL9
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42375
+#EXTINF:-1 tvg-ID="" tvg-name=" SERIE CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="Sansat", SERIE CLUB
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42376
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCE ET VIE" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="Sansat",SCIENCE ET VIE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42377
+#EXTINF:-1 tvg-ID="" tvg-name=" TCM CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="Sansat", TCM CINEMA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42378
+#EXTINF:-1 tvg-ID="" tvg-name=" WARNER TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Sansat", WARNER TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42379
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="" group-title="Sansat",CLASSICA
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81207
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="Sansat",ACTION
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81227
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR" tvg-logo="" group-title="Sansat",POLAR
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81228
+#EXTINF:-1 tvg-ID="" tvg-name=" PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="Sansat", PARAMOUNT CHANNEL
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42380
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="Sansat", NATIONAL GEO
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42382
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEOGRAPHIC  WILD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="Sansat", NATIONAL GEOGRAPHIC  WILD
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42383
+#EXTINF:-1 tvg-ID="" tvg-name=" ANIMAUX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="Sansat", ANIMAUX
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42384
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="Sansat", PLANETE+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42385
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ A&E" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="Sansat", PLANETE+ A&E
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42386
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ CI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="Sansat", PLANETE+ CI
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42387
+#EXTINF:-1 tvg-ID="" tvg-name=" VOYAGE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="Sansat", VOYAGE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42388
+#EXTINF:-1 tvg-ID="" tvg-name=" TV BREIZH" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="Sansat", TV BREIZH
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42389
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE L HISTOIRE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="Sansat",TOUTE L HISTOIRE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42390
+#EXTINF:-1 tvg-ID="" tvg-name=" USHUAIA TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="Sansat", USHUAIA TV
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42391
+#EXTINF:-1 tvg-ID="" tvg-name=" SEASONS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="Sansat", SEASONS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42392
+#EXTINF:-1 tvg-ID="" tvg-name=" VICELAND" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="Sansat", VICELAND
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42393
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC DECOUVERTE" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", RMC DECOUVERTE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42394
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC STORY" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Sansat", RMC STORY
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42395
+#EXTINF:-1 tvg-ID="" tvg-name="HISTOIRE" tvg-logo="" group-title="Sansat",HISTOIRE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81224
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE" tvg-logo="" group-title="Sansat",SUNDANCE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81225
+#EXTINF:-1 tvg-ID="" tvg-name="NON STOP PEOPLE" tvg-logo="" group-title="Sansat",NON STOP PEOPLE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81226
+#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="" group-title="Sansat",BET
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81229
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE" tvg-logo="" group-title="Sansat",CLIQUE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81230
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS" tvg-logo="" group-title="Sansat",NOVELAS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81233
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM" tvg-logo="" group-title="Sansat",MUSEUM
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81234
+#EXTINF:-1 tvg-ID="" tvg-name="MELODY" tvg-logo="" group-title="Sansat",MELODY
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92765
+#EXTINF:-1 tvg-ID="" tvg-name=" BOOMERANG" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat", BOOMERANG
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42397
+#EXTINF:-1 tvg-ID="" tvg-name=" CARTOON NETWORK" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="Sansat", CARTOON NETWORK
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42398
+#EXTINF:-1 tvg-ID="" tvg-name=" PIWI+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="Sansat", PIWI+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42399
+#EXTINF:-1 tvg-ID="" tvg-name=" TIJI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", TIJI
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42400
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="Sansat", DISNEY CHANNEL
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42401
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BA_43C_1_C00000_0_0_0.png" group-title="Sansat",DISNEY CHANNEL +1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42403
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="Sansat", DISNEY JUNIOR
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42404
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="Sansat", NICKELODEON
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42406
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON +1" tvg-logo="" group-title="Sansat",NICKELODEON +1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81235
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="Sansat", NICKELODEON JUNIOR
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42407
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON 4 TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="Sansat", NICKELODEON 4 TEEN
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42409
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="Sansat", TELETOON+
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42410
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="Sansat", TELETOON+1
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42411
+#EXTINF:-1 tvg-ID="" tvg-name=" TOONAMI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat", TOONAMI
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42412
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL J" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="Sansat", CANAL J
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42413
+#EXTINF:-1 tvg-ID="" tvg-name=" MANGAS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="Sansat", MANGAS
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42414
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE" tvg-logo="" group-title="Sansat",GAME ONE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81035
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY +" tvg-logo="" group-title="Sansat",DISNEY +
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81208
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="Sansat",BOING
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81209
+#EXTINF:-1 tvg-ID="" tvg-name=" GULLI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", GULLI
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/42415
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat", TF1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69008
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 2 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69009
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="Sansat", FRANCE 3 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69010
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE4 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="Sansat", FRANCE4 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69011
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE5 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="Sansat", FRANCE5 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69012
+#EXTINF:-1 tvg-ID="" tvg-name="M6 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="Sansat", M6 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69014
+#EXTINF:-1 tvg-ID="" tvg-name="LEQUIPE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="Sansat", LEQUIPE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69015
+#EXTINF:-1 tvg-ID="" tvg-name="6TER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="Sansat", 6TER HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69016
+#EXTINF:-1 tvg-ID="" tvg-name="RTL9 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="Sansat", RTL9 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69017
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="Sansat", ARTE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69018
+#EXTINF:-1 tvg-ID="" tvg-name="C8 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="Sansat", C8 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69019
+#EXTINF:-1 tvg-ID="" tvg-name="CSTAR HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="Sansat", CSTAR HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69020
+#EXTINF:-1 tvg-ID="" tvg-name="TMC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="Sansat", TMC HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69021
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ12 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat", NRJ12 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69022
+#EXTINF:-1 tvg-ID="" tvg-name="TFX HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="Sansat", TFX HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69023
+#EXTINF:-1 tvg-ID="" tvg-name="TF1 SERIES FILMS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="Sansat", TF1 SERIES FILMS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69024
+#EXTINF:-1 tvg-ID="" tvg-name="TEVA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="Sansat", TEVA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69025
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE HEVC" tvg-logo="" group-title="Sansat", MY CUISINE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69026
+#EXTINF:-1 tvg-ID="" tvg-name="NON STOP PEOPLE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BD_43C_1_C00000_0_0_0.png" group-title="Sansat", NON STOP PEOPLE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69027
+#EXTINF:-1 tvg-ID="" tvg-name="CNEWS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="Sansat", CNEWS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69028
+#EXTINF:-1 tvg-ID="" tvg-name="LCI HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="Sansat", LCI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69029
+#EXTINF:-1 tvg-ID="" tvg-name="BFMTV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="Sansat", BFMTV HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69030
+#EXTINF:-1 tvg-ID="" tvg-name="LCP HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="Sansat", LCP HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69031
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL CINEMA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69032
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69033
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SERIES HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL SERIES HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69034
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL FAMILY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL FAMILY HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69035
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECALE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL DECALE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69036
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="Sansat", CINE FRISSON HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69037
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="Sansat", EUROSPORT HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69038
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="Sansat", EUROSPORT2 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69039
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL GOLF HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="Sansat", CANAL GOLF HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69040
+#EXTINF:-1 tvg-ID="" tvg-name="RMC DECOUVERTE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="Sansat", RMC DECOUVERTE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69041
+#EXTINF:-1 tvg-ID="" tvg-name="RMC STORY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="Sansat", RMC STORY HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69042
+#EXTINF:-1 tvg-ID="" tvg-name="BFM PARIS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="Sansat", BFM PARIS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69043
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="Sansat", BOOMERANG HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69044
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="Sansat", ACTION HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69045
+#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="Sansat", CINE EMOTION HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69046
+#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="Sansat", CINE PREMIER HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69047
+#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="Sansat", OCS MAX HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69048
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="Sansat", OCS CITY HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69049
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANTS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="Sansat", OCS GEANTS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69050
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="Sansat", OCS CHOC HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69051
+#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="Sansat", CINE FAMIZ HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69052
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="Sansat", CINE CLASSIC HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69053
+#EXTINF:-1 tvg-ID="" tvg-name="CINE CLUB HEVC" tvg-logo="" group-title="Sansat", CINE CLUB HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81210
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA HEVC" tvg-logo="" group-title="Sansat", CLASSICA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81211
+#EXTINF:-1 tvg-ID="" tvg-name="TCM CINEMA HEVC" tvg-logo="" group-title="Sansat", TCM CINEMA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81212
+#EXTINF:-1 tvg-ID="" tvg-name="SERIE CLUB HEVC" tvg-logo="" group-title="Sansat", SERIE CLUB HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81213
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE HEVC" tvg-logo="" group-title="Sansat", PARIS PREMIERE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81214
+#EXTINF:-1 tvg-ID="" tvg-name="PIWI HEVC" tvg-logo="" group-title="Sansat", PIWI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81215
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON +1 HEVC" tvg-logo="" group-title="Sansat", NICKELODEON +1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81216
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON HEVC" tvg-logo="" group-title="Sansat", TELETOON HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81217
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON+1 HEVC" tvg-logo="" group-title="Sansat", TELETOON+1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81218
+#EXTINF:-1 tvg-ID="" tvg-name="TIJI HEVC" tvg-logo="" group-title="Sansat", TIJI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81219
+#EXTINF:-1 tvg-ID="" tvg-name="TOONAMI HEVC" tvg-logo="" group-title="Sansat", TOONAMI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81220
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY+ HEVC" tvg-logo="" group-title="Sansat", DISNEY+ HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81221
+#EXTINF:-1 tvg-ID="" tvg-name="BOING HEVC" tvg-logo="" group-title="Sansat", BOING HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81222
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK HEVC" tvg-logo="" group-title="Sansat", CARTOON NETWORK HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69079
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL HEVC" tvg-logo="" group-title="Sansat", DISNEY CHANNEL HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69080
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR HEVC" tvg-logo="" group-title="Sansat", DISNEY JUNIOR HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69081
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL 1 HEVC" tvg-logo="" group-title="Sansat", DISNEY CHANNEL 1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81031
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JUNIOR HEVC" tvg-logo="" group-title="Sansat", NICK JUNIOR HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69083
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON 4TEEN HEVC" tvg-logo="" group-title="Sansat", NICKELODEON 4TEEN HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69084
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HEVC" tvg-logo="" group-title="Sansat", NICKELODEON HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69085
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE HEVC" tvg-logo="" group-title="Sansat", GAME ONE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69086
+#EXTINF:-1 tvg-ID="" tvg-name="MANGAS HEVC" tvg-logo="" group-title="Sansat", MANGAS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81029
+#EXTINF:-1 tvg-ID="" tvg-name="CANALJ HEVC" tvg-logo="" group-title="Sansat", CANALJ HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69082
+#EXTINF:-1 tvg-ID="" tvg-name="GULLI HEVC" tvg-logo="" group-title="Sansat", GULLI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69087
+#EXTINF:-1 tvg-ID="" tvg-name="ALTICE STUDIO HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/alticestudios.png" group-title="Sansat", ALTICE STUDIO HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69054
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="Sansat", WARNER TV HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69055
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="Sansat", CANAL SPORT HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69056
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT HEVC" tvg-logo="" group-title="Sansat", TELEFOOT HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92089
+#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT HEVC" tvg-logo="" group-title="Sansat", INFOSPORT HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81032
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN 1 HEVC" tvg-logo="" group-title="Sansat", BEIN 1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69057
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN 2 HEVC" tvg-logo="" group-title="Sansat", BEIN 2 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69058
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN 3 HEVC" tvg-logo="" group-title="Sansat", BEIN 3 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69059
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT NEWS HEVC" tvg-logo="" group-title="Sansat", RMC SPORT NEWS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/83083
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT1 HEVC" tvg-logo="" group-title="Sansat", RMC SPORT1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69060
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT2 HEVC" tvg-logo="" group-title="Sansat", RMC SPORT2 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69061
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT3 HEVC" tvg-logo="" group-title="Sansat", RMC SPORT3 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69062
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT4 HEVC" tvg-logo="" group-title="Sansat", RMC SPORT4 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69063
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA HEVC" tvg-logo="" group-title="Sansat", EQUIDIA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69064
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX HEVC" tvg-logo="" group-title="Sansat", ANIMAUX HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69065
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HEVC" tvg-logo="" group-title="Sansat", NAT GEO WILD HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69066
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO CHANNEL HEVC" tvg-logo="" group-title="Sansat", NATIONAL GEO CHANNEL HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69067
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE HEVC" tvg-logo="" group-title="Sansat", PLANETE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69068
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HEVC" tvg-logo="" group-title="Sansat", DISCOVERY HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69069
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY FAMILY HEVC" tvg-logo="" group-title="Sansat", DISCOVERY FAMILY HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69070
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="Sansat", DISCOVERY SCIENCE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69071
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY INVES HEVC" tvg-logo="" group-title="Sansat", DISCOVERY INVES HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69072
+#EXTINF:-1 tvg-ID="" tvg-name="USHUAIA HEVC" tvg-logo="" group-title="Sansat", USHUAIA HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69073
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE AE HEVC" tvg-logo="" group-title="Sansat", PLANETE AE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69074
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE   CI HEVC" tvg-logo="" group-title="Sansat", PLANETE   CI HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69075
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE  PECHE HEVC" tvg-logo="" group-title="Sansat", CHASSE  PECHE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69076
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCESVIE HEVC" tvg-logo="" group-title="Sansat", SCIENCESVIE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69077
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE L HISTOIRE HEVC" tvg-logo="" group-title="Sansat", TOUTE L HISTOIRE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69078
+#EXTINF:-1 tvg-ID="" tvg-name="M6 MUSIC HEVC" tvg-logo="" group-title="Sansat", M6 MUSIC HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69088
+#EXTINF:-1 tvg-ID="" tvg-name="MCM TOP HEVC" tvg-logo="" group-title="Sansat", MCM TOP HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/69089
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE INFO HEVC" tvg-logo="" group-title="Sansat", FRANCE INFO HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81022
+#EXTINF:-1 tvg-ID="" tvg-name="France 24 HEVC" tvg-logo="" group-title="Sansat", France 24 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81023
+#EXTINF:-1 tvg-ID="" tvg-name="I24 Francis HEVC" tvg-logo="" group-title="Sansat", I24 Francis HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81024
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE EUROPE" tvg-logo="" group-title="Sansat", TV5 MONDE EUROPE
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81025
+#EXTINF:-1 tvg-ID="" tvg-name="AB1 HEVC" tvg-logo="" group-title="Sansat", AB1 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81026
+#EXTINF:-1 tvg-ID="" tvg-name="AUTOMOTO HEVC" tvg-logo="" group-title="Sansat", AUTOMOTO HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81027
+#EXTINF:-1 tvg-ID="" tvg-name="TREK HEVC" tvg-logo="" group-title="Sansat", TREK HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81028
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HEVC" tvg-logo="" group-title="Sansat", COMEDY CENTRAL HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81030
+#EXTINF:-1 tvg-ID="" tvg-name="CHERIE 25 HEVC" tvg-logo="" group-title="Sansat", CHERIE 25 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81021
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE HEVC" tvg-logo="" group-title="Sansat", SUNDANCE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81240
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE HEVC" tvg-logo="" group-title="Sansat", COMEDIE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81242
+#EXTINF:-1 tvg-ID="" tvg-name="BET HEVC" tvg-logo="" group-title="Sansat", BET HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81243
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE TV HEVC" tvg-logo="" group-title="Sansat", CLIQUE TV HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81244
+#EXTINF:-1 tvg-ID="" tvg-name="OL TV HEVC" tvg-logo="" group-title="Sansat", OL TV HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81245
+#EXTINF:-1 tvg-ID="" tvg-name="FOOT 2424 HEVC" tvg-logo="" group-title="Sansat", FOOT 2424 HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81246
+#EXTINF:-1 tvg-ID="" tvg-name="EXTREME SPORTS HEVC" tvg-logo="" group-title="Sansat", EXTREME SPORTS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81247
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM HEVC" tvg-logo="" group-title="Sansat", MUSEUM HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81248
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS TV HEVC" tvg-logo="" group-title="Sansat", NOVELAS TV HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/81249
+#EXTINF:-1 tvg-ID="" tvg-name="SEASONS HEVC" tvg-logo="" group-title="Sansat", SEASONS HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91070
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR HEVC" tvg-logo="" group-title="Sansat", NICKELODEON JUNIOR HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91069
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL HEVC" tvg-logo="" group-title="Sansat", PARAMOUNT CHANNEL HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91068
+#EXTINF:-1 tvg-ID="" tvg-name="HISTOIRE HEVC" tvg-logo="" group-title="Sansat", HISTOIRE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91067
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR+ HEVC" tvg-logo="" group-title="Sansat", POLAR+ HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91066
+#EXTINF:-1 tvg-ID="" tvg-name="TV BREIZH HEVC" tvg-logo="" group-title="Sansat", TV BREIZH HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91065
+#EXTINF:-1 tvg-ID="" tvg-name="VOYAGE HEVC" tvg-logo="" group-title="Sansat", VOYAGE HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/91064
+#EXTINF:-1 tvg-ID="" tvg-name="MELODY  HEVC" tvg-logo="" group-title="EU FRANCE HEVC",MELODY  HEVC
+http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/92766
+#EXTINF:-1 tvg-id="" tvg-name="13 eme rue HD" tvg-logo="" group-title="MegaServices",13 eme rue HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245304
+#EXTINF:-1 tvg-id="" tvg-name="6TER FHD" tvg-logo="" group-title="MegaServices",6TER FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245305
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="" group-title="MegaServices",A LA CARTE 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245306
+#EXTINF:-1 tvg-id="" tvg-name="A la carte 10 HD" tvg-logo="" group-title="MegaServices",A la carte 10 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245307
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="" group-title="MegaServices",A LA CARTE 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245308
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 3" tvg-logo="" group-title="MegaServices",A LA CARTE 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245309
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 4" tvg-logo="" group-title="MegaServices",A LA CARTE 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245310
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="" group-title="MegaServices",A LA CARTE 5
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245311
+#EXTINF:-1 tvg-id="" tvg-name="A la carte 6 HD" tvg-logo="" group-title="MegaServices",A la carte 6 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245312
+#EXTINF:-1 tvg-id="" tvg-name="A la Carte 7 HD" tvg-logo="" group-title="MegaServices",A la Carte 7 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245313
+#EXTINF:-1 tvg-id="" tvg-name="A la Carte 8 HD" tvg-logo="" group-title="MegaServices",A la Carte 8 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245314
+#EXTINF:-1 tvg-id="" tvg-name="A la Carte 9 HD" tvg-logo="" group-title="MegaServices",A la Carte 9 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245315
+#EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS HD" tvg-logo="" group-title="MegaServices",AB MOTEURS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245316
+#EXTINF:-1 tvg-id="" tvg-name="AB1 FHD" tvg-logo="" group-title="MegaServices",AB1 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245317
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="" group-title="MegaServices",AB3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245318
+#EXTINF:-1 tvg-id="" tvg-name="ACTION HD" tvg-logo="" group-title="MegaServices",ACTION HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245319
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX HD" tvg-logo="" group-title="MegaServices",ANIMAUX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245320
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="" group-title="MegaServices",ARTE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245321
+#EXTINF:-1 tvg-id="" tvg-name="BeBlack Africa" tvg-logo="" group-title="MegaServices",BeBlack Africa
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245322
+#EXTINF:-1 tvg-id="" tvg-name="BeBlack Caribbean" tvg-logo="" group-title="MegaServices",BeBlack Caribbean
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245323
+#EXTINF:-1 tvg-id="" tvg-name="BeBlack Classik" tvg-logo="" group-title="MegaServices",BeBlack Classik
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245324
+#EXTINF:-1 tvg-id="" tvg-name="beIN OFFICE 2 HD" tvg-logo="" group-title="MegaServices",beIN OFFICE 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245325
+#EXTINF:-1 tvg-id="" tvg-name="beIN OFFICE 3 HD" tvg-logo="" group-title="MegaServices",beIN OFFICE 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245326
+#EXTINF:-1 tvg-id="" tvg-name="beIN OFFICE 4 HD" tvg-logo="" group-title="MegaServices",beIN OFFICE 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245327
+#EXTINF:-1 tvg-id="" tvg-name="beIN OFFICE 5 HD" tvg-logo="" group-title="MegaServices",beIN OFFICE 5 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245328
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="MegaServices",beIN Sports 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245329
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="" group-title="MegaServices",beIN Sports 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245330
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="MegaServices",beIN Sports 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245331
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="" group-title="MegaServices",beIN Sports 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245332
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="MegaServices",beIN Sports 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245333
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="" group-title="MegaServices",beIN Sports 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245334
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 MAX HD" tvg-logo="" group-title="MegaServices",beIN Sports 4 MAX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245335
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 MAX HD" tvg-logo="" group-title="MegaServices",beIN SPORTS 5 MAX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245336
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 MAX HD" tvg-logo="" group-title="MegaServices",beIN SPORTS 6 MAX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245337
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 MAX HD" tvg-logo="" group-title="MegaServices",beIN SPORTS 7 MAX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245338
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 10" tvg-logo="" group-title="MegaServices",beIN Sports Max 10
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245339
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 10 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 10 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245340
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 4" tvg-logo="" group-title="MegaServices",beIN Sports Max 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245341
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 4 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245342
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 5" tvg-logo="" group-title="MegaServices",beIN Sports Max 5
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245343
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 5 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 5 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245344
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 6" tvg-logo="" group-title="MegaServices",beIN Sports Max 6
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245345
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 6 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 6 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245346
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 7" tvg-logo="" group-title="MegaServices",beIN Sports Max 7
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245347
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX 7 HD" tvg-logo="" group-title="MegaServices",BEIN SPORTS MAX 7 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245348
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 8" tvg-logo="" group-title="MegaServices",beIN Sports Max 8
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245349
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 8 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 8 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245350
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 9" tvg-logo="" group-title="MegaServices",beIN Sports Max 9
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245351
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports MAX 9 HD" tvg-logo="" group-title="MegaServices",beIN Sports MAX 9 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245352
+#EXTINF:-1 tvg-id="" tvg-name="BET HD" tvg-logo="" group-title="MegaServices",BET HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245353
+#EXTINF:-1 tvg-id="" tvg-name="BFM PARIS HD" tvg-logo="" group-title="MegaServices",BFM PARIS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245354
+#EXTINF:-1 tvg-id="" tvg-name="BFM SPORT" tvg-logo="" group-title="MegaServices",BFM SPORT
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245355
+#EXTINF:-1 tvg-id="" tvg-name="BFMTV" tvg-logo="" group-title="MegaServices",BFMTV
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245356
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG 1" tvg-logo="" group-title="MegaServices",BOOMERANG 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245357
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD" tvg-logo="" group-title="MegaServices",Boomerang FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245358
+#EXTINF:-1 tvg-id="" tvg-name="BOSS CINEMA 3 HD" tvg-logo="" group-title="MegaServices",BOSS CINEMA 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245359
+#EXTINF:-1 tvg-id="" tvg-name="BOSS CINEMA 4 HD" tvg-logo="" group-title="MegaServices",BOSS CINEMA 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245360
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 1 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245361
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 2 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245362
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 3 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245363
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 4 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245364
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 5 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 5 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245365
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 6 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 6 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245366
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 7 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 7 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245367
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 8 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 8 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245368
+#EXTINF:-1 tvg-id="" tvg-name="BOSS MOVIES 9 HD" tvg-logo="" group-title="MegaServices",BOSS MOVIES 9 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245369
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="" group-title="MegaServices",BOX OFFICE 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245370
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 2" tvg-logo="" group-title="MegaServices",BOX OFFICE 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245371
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 3" tvg-logo="" group-title="MegaServices",BOX OFFICE 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245372
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 4" tvg-logo="" group-title="MegaServices",BOX OFFICE 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245373
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 6" tvg-logo="" group-title="MegaServices",BOX OFFICE 6
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245374
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 7" tvg-logo="" group-title="MegaServices",BOX OFFICE 7
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245375
+#EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 8" tvg-logo="" group-title="MegaServices",BOX OFFICE 8
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245376
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA FHD" tvg-logo="" group-title="MegaServices",BRAVA FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245377
+#EXTINF:-1 tvg-id="" tvg-name="BREIZH" tvg-logo="" group-title="MegaServices",BREIZH
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245378
+#EXTINF:-1 tvg-id="" tvg-name="C NEWS FHD" tvg-logo="" group-title="MegaServices",C NEWS FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245379
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cinema" tvg-logo="" group-title="MegaServices",Canal Cinema
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245380
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECALE" tvg-logo="" group-title="MegaServices",CANAL DECALE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245381
+#EXTINF:-1 tvg-id="" tvg-name="Canal Family" tvg-logo="" group-title="MegaServices",Canal Family
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245382
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J HD" tvg-logo="" group-title="MegaServices",CANAL J HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245383
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="MegaServices",CANAL PLAY 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245384
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 10" tvg-logo="" group-title="MegaServices",CANAL PLAY 10
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245385
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 2" tvg-logo="" group-title="MegaServices",Canal Play 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245386
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="MegaServices",CANAL PLAY 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245387
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="MegaServices",CANAL PLAY 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245388
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 5" tvg-logo="" group-title="MegaServices",Canal Play 5
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245389
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 6" tvg-logo="" group-title="MegaServices",Canal Play 6
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245390
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 7" tvg-logo="" group-title="MegaServices",Canal Play 7
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245391
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 8" tvg-logo="" group-title="MegaServices",CANAL PLAY 8
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245392
+#EXTINF:-1 tvg-id="" tvg-name="Canal Play 9" tvg-logo="" group-title="MegaServices",Canal Play 9
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245393
+#EXTINF:-1 tvg-id="" tvg-name="Canal Series" tvg-logo="" group-title="MegaServices",Canal Series
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245394
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINEMA FHD" tvg-logo="" group-title="MegaServices",CANAL+ CINEMA FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245395
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE FHD" tvg-logo="" group-title="MegaServices",CANAL+ DECALE FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245396
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Family HD" tvg-logo="" group-title="MegaServices",CANAL+ Family HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245397
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FHD" tvg-logo="" group-title="MegaServices",CANAL+ FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245398
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ J HD" tvg-logo="" group-title="MegaServices",CANAL+ J HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245399
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES FHD" tvg-logo="" group-title="MegaServices",CANAL+ SERIES FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245400
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ Sport FHD" tvg-logo="" group-title="MegaServices",CANAL+ Sport FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245401
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="" group-title="MegaServices",CARTOON NETWORK FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245402
+#EXTINF:-1 tvg-id="" tvg-name="CGTN HD" tvg-logo="" group-title="MegaServices",CGTN HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245403
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE & PECHE HD" tvg-logo="" group-title="MegaServices",CHASSE & PECHE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245404
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE ET PECHE FHD" tvg-logo="" group-title="MegaServices",CHASSE ET PECHE FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245405
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 HD" tvg-logo="" group-title="MegaServices",Cherie 25 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245406
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC HD" tvg-logo="" group-title="MegaServices",CINE+ CLASSIC HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245407
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLUB HD" tvg-logo="" group-title="MegaServices",CINE+ CLUB HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245408
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION HD" tvg-logo="" group-title="MegaServices",CINE+ EMOTION HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245409
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ HD" tvg-logo="" group-title="MegaServices",CINE+ FAMIZ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245410
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ FRISSON HD" tvg-logo="" group-title="MegaServices",Cine+ FRISSON HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245411
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FX HD" tvg-logo="" group-title="MegaServices",CINE+ FX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245412
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ ISSON HD" tvg-logo="" group-title="MegaServices",CINE+ ISSON HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245413
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ POLAR FHD" tvg-logo="" group-title="MegaServices",CINE+ POLAR FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245414
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ PREMIER HD" tvg-logo="" group-title="MegaServices",Cine+ PREMIER HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245415
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ Primer" tvg-logo="" group-title="MegaServices",CINE+ Primer
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245416
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Emotion HD" tvg-logo="" group-title="MegaServices",Cinema Emotion HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245417
+#EXTINF:-1 tvg-id="" tvg-name="Comedie HD" tvg-logo="" group-title="MegaServices",Comedie HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245418
+#EXTINF:-1 tvg-id="" tvg-name="Comedie+ HD" tvg-logo="" group-title="MegaServices",Comedie+ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245419
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT FHD" tvg-logo="" group-title="MegaServices",CRIME DISTRICT FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245420
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR FHD" tvg-logo="" group-title="MegaServices",CSTAR FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245421
+#EXTINF:-1 tvg-id="" tvg-name="D5TV HD" tvg-logo="" group-title="MegaServices",D5TV HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245422
+#EXTINF:-1 tvg-id="" tvg-name="Discovery CHANNEL HD" tvg-logo="" group-title="MegaServices",Discovery CHANNEL HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245423
+#EXTINF:-1 tvg-id="" tvg-name="Discovery FAMILY HD" tvg-logo="" group-title="MegaServices",Discovery FAMILY HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245424
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SCI-FI HD" tvg-logo="" group-title="MegaServices",Discovery SCI-FI HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245425
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SCIENCE HD" tvg-logo="" group-title="MegaServices",Discovery SCIENCE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245426
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL +1 HD" tvg-logo="" group-title="MegaServices",DISNEY CHANNEL +1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245427
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="MegaServices",DISNEY CHANNEL HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245428
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA HD" tvg-logo="" group-title="MegaServices",DISNEY CINEMA HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245429
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR FHD" tvg-logo="" group-title="MegaServices",DISNEY JUNIOR FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245430
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FHD" tvg-logo="" group-title="MegaServices",DISNEY XD FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245431
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINEMENT HD" tvg-logo="" group-title="MegaServices",E! ENTERTAINEMENT HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245432
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="" group-title="MegaServices",E! FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245433
+#EXTINF:-1 tvg-id="" tvg-name="E!ntertainment" tvg-logo="" group-title="MegaServices",E!ntertainment
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245434
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA HD" tvg-logo="" group-title="MegaServices",EQUIDIA HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245435
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIFE HD" tvg-logo="" group-title="MegaServices",EQUIDIA LIFE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245436
+#EXTINF:-1 tvg-id="" tvg-name="EQUIPE 21 HD" tvg-logo="" group-title="MegaServices",EQUIPE 21 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245437
+#EXTINF:-1 tvg-id="" tvg-name="Equipe TV" tvg-logo="" group-title="MegaServices",Equipe TV
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245438
+#EXTINF:-1 tvg-id="" tvg-name="euronews HD" tvg-logo="" group-title="MegaServices",euronews HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245439
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="MegaServices",EUROSPORT 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245440
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="MegaServices",EUROSPORT 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245441
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="MegaServices",EUROSPORT HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245442
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORT HD" tvg-logo="" group-title="MegaServices",EXTREME SPORT HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245443
+#EXTINF:-1 tvg-id="" tvg-name="Foot 24" tvg-logo="" group-title="MegaServices",Foot 24
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245444
+#EXTINF:-1 tvg-id="" tvg-name="FOOT 24/24 HD" tvg-logo="" group-title="MegaServices",FOOT 24/24 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245445
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 0 HD" tvg-logo="" group-title="MegaServices",FRANCE 0 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245446
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 FHD" tvg-logo="" group-title="MegaServices",FRANCE 2 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245447
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="" group-title="MegaServices",FRANCE 24 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245448
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 FHD" tvg-logo="" group-title="MegaServices",FRANCE 3 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245449
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 FHD" tvg-logo="" group-title="MegaServices",FRANCE 4 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245450
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 FHD" tvg-logo="" group-title="MegaServices",FRANCE 5 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245451
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE INFO HD" tvg-logo="" group-title="MegaServices",FRANCE INFO HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245452
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O HD" tvg-logo="" group-title="MegaServices",FRANCE O HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245453
+#EXTINF:-1 tvg-id="" tvg-name="FRANCOPHONIE 24 HD" tvg-logo="" group-title="MegaServices",FRANCOPHONIE 24 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245454
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE HD" tvg-logo="" group-title="MegaServices",GAME ONE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245455
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="" group-title="MegaServices",GOLF CHANNEL
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245456
+#EXTINF:-1 tvg-id="" tvg-name="GONG HD" tvg-logo="" group-title="MegaServices",GONG HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245457
+#EXTINF:-1 tvg-id="" tvg-name="GONG MAX" tvg-logo="" group-title="MegaServices",GONG MAX
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245458
+#EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="" group-title="MegaServices",Gulli HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245459
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="" group-title="MegaServices",HD1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245460
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE HD" tvg-logo="" group-title="MegaServices",HISTOIRE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245461
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="" group-title="MegaServices",HISTORY HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245462
+#EXTINF:-1 tvg-id="" tvg-name="i24 NEWS" tvg-logo="" group-title="MegaServices",i24 NEWS
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245463
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPOR HD" tvg-logo="" group-title="MegaServices",INFOSPOR HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245464
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT+ HD" tvg-logo="" group-title="MegaServices",INFOSPORT+ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245465
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="MegaServices",Investigation Discovery HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245466
+#EXTINF:-1 tvg-id="" tvg-name="Isarel 24 Français" tvg-logo="" group-title="MegaServices",Isarel 24 Français
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245467
+#EXTINF:-1 tvg-id="" tvg-name="iTELE HD" tvg-logo="" group-title="MegaServices",iTELE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245468
+#EXTINF:-1 tvg-id="" tvg-name="J-ONE HD" tvg-logo="" group-title="MegaServices",J-ONE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245469
+#EXTINF:-1 tvg-id="" tvg-name="KTO TV" tvg-logo="" group-title="MegaServices",KTO TV
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245470
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE" tvg-logo="" group-title="MegaServices",L EQUIPE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245471
+#EXTINF:-1 tvg-id="" tvg-name="L EQUIPE 21 HD" tvg-logo="" group-title="MegaServices",L EQUIPE 21 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245472
+#EXTINF:-1 tvg-id="" tvg-name="L histoire" tvg-logo="" group-title="MegaServices",L histoire
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245473
+#EXTINF:-1 tvg-id="" tvg-name="La Chaine Normande" tvg-logo="" group-title="MegaServices",La Chaine Normande
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245474
+#EXTINF:-1 tvg-id="" tvg-name="La TÃ©lÃ©" tvg-logo="" group-title="MegaServices",La TÃ©lÃ©
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245475
+#EXTINF:-1 tvg-id="" tvg-name="LA UNE" tvg-logo="" group-title="MegaServices",LA UNE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245476
+#EXTINF:-1 tvg-id="" tvg-name="LACHAINE EQUIPE" tvg-logo="" group-title="MegaServices",LACHAINE EQUIPE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245477
+#EXTINF:-1 tvg-id="" tvg-name="LCI FHD" tvg-logo="" group-title="MegaServices",LCI FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245478
+#EXTINF:-1 tvg-id="" tvg-name="LCP HD" tvg-logo="" group-title="MegaServices",LCP HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245479
+#EXTINF:-1 tvg-id="" tvg-name="M6 FHD" tvg-logo="" group-title="MegaServices",M6 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245480
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HD" tvg-logo="" group-title="MegaServices",M6 MUSIC HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245481
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HITS HD" tvg-logo="" group-title="MegaServices",M6 MUSIC HITS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245482
+#EXTINF:-1 tvg-id="" tvg-name="Mangas HD" tvg-logo="" group-title="MegaServices",Mangas HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245483
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP HD" tvg-logo="" group-title="MegaServices",MCM TOP HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245484
+#EXTINF:-1 tvg-id="" tvg-name="MOTORSPORT TV HD" tvg-logo="" group-title="MegaServices",MOTORSPORT TV HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245485
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD" tvg-logo="" group-title="MegaServices",MTV Dance HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245486
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MegaServices",MTV HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245487
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HD" tvg-logo="" group-title="MegaServices",MTV HITS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245488
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE HD" tvg-logo="" group-title="MegaServices",MY CUISINE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245489
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEOG" tvg-logo="" group-title="MegaServices",NAT GEOG
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245490
+#EXTINF:-1 tvg-id="" tvg-name="NET GEO WILD HD" tvg-logo="" group-title="MegaServices",NET GEO WILD HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245491
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="MegaServices",NICKELODEON HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245492
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior HD" tvg-logo="" group-title="MegaServices",Nickelodeon Junior HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245493
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Teen HD" tvg-logo="" group-title="MegaServices",Nickelodeon Teen HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245494
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 FHD" tvg-logo="" group-title="MegaServices",NRJ 12 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245495
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="" group-title="MegaServices",NRJ HITS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245496
+#EXTINF:-1 tvg-id="" tvg-name="NT1 FRANCE HD" tvg-logo="" group-title="MegaServices",NT1 FRANCE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245497
+#EXTINF:-1 tvg-id="" tvg-name="NT1 HD" tvg-logo="" group-title="MegaServices",NT1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245498
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC HD" tvg-logo="" group-title="MegaServices",OCS CHOC HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245499
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY HD" tvg-logo="" group-title="MegaServices",OCS CITY HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245500
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT HD" tvg-logo="" group-title="MegaServices",OCS GEANT HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245501
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX HD" tvg-logo="" group-title="MegaServices",OCS MAX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245502
+#EXTINF:-1 tvg-id="" tvg-name="OL TV HD" tvg-logo="" group-title="MegaServices",OL TV HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245503
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 1" tvg-logo="" group-title="MegaServices",Orange Cine 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245504
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 2" tvg-logo="" group-title="MegaServices",Orange Cine 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245505
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 3" tvg-logo="" group-title="MegaServices",Orange Cine 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245506
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 4" tvg-logo="" group-title="MegaServices",Orange Cine 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245507
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cine 5" tvg-logo="" group-title="MegaServices",Orange Cine 5
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245508
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 3" tvg-logo="" group-title="MegaServices",ORANGE CINEMA 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245509
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINEMA 6" tvg-logo="" group-title="MegaServices",ORANGE CINEMA 6
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245510
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema ACTION" tvg-logo="" group-title="MegaServices",Orange Cinema ACTION
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245511
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema COMEDIE" tvg-logo="" group-title="MegaServices",Orange Cinema COMEDIE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245512
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema DOCUMENTAIRE" tvg-logo="" group-title="MegaServices",Orange Cinema DOCUMENTAIRE
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245513
+#EXTINF:-1 tvg-id="" tvg-name="Orange Cinema HORREUR" tvg-logo="" group-title="MegaServices",Orange Cinema HORREUR
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245514
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="MegaServices",PARAMOUNT CHANNEL HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245515
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere FHD" tvg-logo="" group-title="MegaServices",Paris Premiere FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245516
+#EXTINF:-1 tvg-id="" tvg-name="Piwi+ HD" tvg-logo="" group-title="MegaServices",Piwi+ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245517
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ A&E HD" tvg-logo="" group-title="MegaServices",PLANETE+ A&E HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245518
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ CI HD" tvg-logo="" group-title="MegaServices",PLANETE+ CI HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245519
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE+ HD" tvg-logo="" group-title="MegaServices",PLANETE+ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245520
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 1 HD" tvg-logo="" group-title="MegaServices",RMC ACCESS SPORT 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245521
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 2 HD" tvg-logo="" group-title="MegaServices",RMC ACCESS SPORT 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245522
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 3 HD" tvg-logo="" group-title="MegaServices",RMC ACCESS SPORT 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245523
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE FHD" tvg-logo="" group-title="MegaServices",RMC DECOUVERTE FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245524
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1" tvg-logo="" group-title="MegaServices",RMC SPORT 1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245525
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245526
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 10 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 10 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245527
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 11 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 11 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245528
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 12 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 12 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245529
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 13 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 13 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245530
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 14 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 14 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245531
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 15 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 15 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245532
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 16 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 16 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245533
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2" tvg-logo="" group-title="MegaServices",RMC SPORT 2
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245534
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245535
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3" tvg-logo="" group-title="MegaServices",RMC SPORT 3
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245536
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 FHD" tvg-logo="" group-title="MegaServices",RMC SPORT 3 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245537
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245538
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4" tvg-logo="" group-title="MegaServices",RMC SPORT 4
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245539
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 FHD" tvg-logo="" group-title="MegaServices",RMC SPORT 4 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245540
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245541
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 5 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245542
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 6 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 6 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245543
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 7 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 7 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245544
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 8 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 8 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245545
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 9 HD" tvg-logo="" group-title="MegaServices",RMC SPORT 9 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245546
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 1 HD" tvg-logo="" group-title="MegaServices",RMC SPORT ACCESS 1 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245547
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 2 HD" tvg-logo="" group-title="MegaServices",RMC SPORT ACCESS 2 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245548
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 3 HD" tvg-logo="" group-title="MegaServices",RMC SPORT ACCESS 3 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245549
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT ACCESS 4 HD" tvg-logo="" group-title="MegaServices",RMC SPORT ACCESS 4 HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245550
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS" tvg-logo="" group-title="MegaServices",RMC SPORT NEWS
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245551
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS HD" tvg-logo="" group-title="MegaServices",RMC SPORT NEWS HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245552
+#EXTINF:-1 tvg-id="" tvg-name="RMC Story FHD" tvg-logo="" group-title="MegaServices",RMC Story FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245553
+#EXTINF:-1 tvg-id="" tvg-name="RT français" tvg-logo="" group-title="MegaServices",RT français
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245554
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 FHD" tvg-logo="" group-title="MegaServices",RTL 9 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245555
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX HD" tvg-logo="" group-title="MegaServices",RTS DEUX HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245556
+#EXTINF:-1 tvg-id="" tvg-name="RTS1" tvg-logo="" group-title="MegaServices",RTS1
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245557
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE ET VIE FHD" tvg-logo="" group-title="MegaServices",SCIENCE ET VIE FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245558
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE HD" tvg-logo="" group-title="MegaServices",SCIENCES & VIE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245559
+#EXTINF:-1 tvg-id="" tvg-name="SEASON HD" tvg-logo="" group-title="MegaServices",SEASON HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245560
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB HD" tvg-logo="" group-title="MegaServices",SERIE CLUB HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245561
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV HD" tvg-logo="" group-title="MegaServices",SUNDANCE TV HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245562
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="MegaServices",SYFY HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245563
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema HD" tvg-logo="" group-title="MegaServices",TCM Cinema HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245564
+#EXTINF:-1 tvg-id="" tvg-name="TCM FRANCE HD" tvg-logo="" group-title="MegaServices",TCM FRANCE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245565
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="MegaServices",TCM HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245566
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON HD" tvg-logo="" group-title="MegaServices",TELETOON HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245567
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON+ HD" tvg-logo="" group-title="MegaServices",TELETOON+ HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245568
+#EXTINF:-1 tvg-id="" tvg-name="TEVA HD" tvg-logo="" group-title="MegaServices",TEVA HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245569
+#EXTINF:-1 tvg-id="" tvg-name="TF1 FHD" tvg-logo="" group-title="MegaServices",TF1 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245570
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series & Films FHD" tvg-logo="" group-title="MegaServices",TF1 Series & Films FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245571
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series HD" tvg-logo="" group-title="MegaServices",TF1 Series HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245572
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series&Films HD" tvg-logo="" group-title="MegaServices",TF1 Series&Films HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245573
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="" group-title="MegaServices",TFX FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245574
+#EXTINF:-1 tvg-id="" tvg-name="TIJI FHD" tvg-logo="" group-title="MegaServices",TIJI FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245575
+#EXTINF:-1 tvg-id="" tvg-name="TMC FHD" tvg-logo="" group-title="MegaServices",TMC FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245576
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI FHD" tvg-logo="" group-title="MegaServices",TOONAMI FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245577
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE HD" tvg-logo="" group-title="MegaServices",TOUTE L HISTOIRE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245578
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA HD" tvg-logo="" group-title="MegaServices",TRACE AFRICA HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245579
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Gospel HD" tvg-logo="" group-title="MegaServices",TRACE Gospel HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245580
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Mziki" tvg-logo="" group-title="MegaServices",TRACE Mziki
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245581
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA" tvg-logo="" group-title="MegaServices",TRACE NAIJA
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245582
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA" tvg-logo="" group-title="MegaServices",TRACE TOCA
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245583
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOPICAL" tvg-logo="" group-title="MegaServices",TRACE TOPICAL
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245584
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Urban HD" tvg-logo="" group-title="MegaServices",TRACE Urban HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245585
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBUN" tvg-logo="" group-title="MegaServices",TRACE URBUN
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245586
+#EXTINF:-1 tvg-id="" tvg-name="TREK HD" tvg-logo="" group-title="MegaServices",TREK HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245587
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH FHD" tvg-logo="" group-title="MegaServices",TV BREIZH FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245588
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE HD" tvg-logo="" group-title="MegaServices",TV5 MONDE HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245589
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Orient" tvg-logo="" group-title="MegaServices",TV5 Monde Orient
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245590
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA HD" tvg-logo="" group-title="MegaServices",USHUAIA HD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245591
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV" tvg-logo="" group-title="MegaServices",Ushuaia TV
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245592
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE FHD" tvg-logo="" group-title="MegaServices",VOYAGE FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245593
+#EXTINF:-1 tvg-id="" tvg-name="W9 FHD" tvg-logo="" group-title="MegaServices",W9 FHD
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245594
+#EXTINF:-1 tvg-id="" tvg-name="WARNER BROS TV" tvg-logo="" group-title="MegaServices",WARNER BROS TV
+http://megaservices.com.es:8080/gWv2Wx4tjv/y2KaMntg9b/245595
 #EXTINF:-1 tvg-name="FRANCE2 Hd" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",FRANCE2 Hd
 http://31.42.187.148:2052/Etx2WzFTk0/p3p60vWxT6/49559
 #EXTINF:-1 tvg-name="France 02 FHD" tvg-logo="http://pst.gotdns.ch/poster/faranceflag.jpg" group-title="Etx2WzFTk0",France 02 FHD
