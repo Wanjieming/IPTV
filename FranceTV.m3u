@@ -1,4 +1,358 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6Ter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="Ky IPTV",6Ter
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182257
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Ky IPTV",ARTE
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182258
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8" tvg-logo="https://cdn6.aptoide.com/imgs/c/2/0/c202d8f352b00a7135ce1a4b0cb4fa75_icon.png" group-title="Ky IPTV",C8
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182262
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="Cherie25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/605px-Logo_Ch%C3%A9rie_25.svg.png" group-title="Ky IPTV",Cherie25
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182264
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar" tvg-logo="https://logodix.com/logo/744804.png" group-title="Ky IPTV",CStar
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182267
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2" tvg-logo="https://www.tango.lu/sites/tango/files/1200px-france_2_2018.svg_.png" group-title="Ky IPTV",FRANCE 2
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182269
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3" tvg-logo="" group-title="Ky IPTV",FRANCE 3
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182271
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FRANCE 4" tvg-logo="" group-title="Ky IPTV",FRANCE 4
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182273
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5" tvg-logo="" group-title="Ky IPTV",FRANCE 5
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182275
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="https://rcf.fr/sites/default/static.rcf.fr/imagecache/vignette_une/radios/rcfnational/visuels/franceinfo.png" group-title="Ky IPTV",FRANCE INFO HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182276
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="FRANCE O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/France_%C3%94_2018.svg/1200px-France_%C3%94_2018.svg.png" group-title="Ky IPTV",FRANCE O
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182277
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE.24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="Ky IPTV",FRANCE.24
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182280
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6" tvg-logo="" group-title="Ky IPTV",M6
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182288
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="Ky IPTV",NRJ12
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182291
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1" tvg-logo="https://cdn.imgbin.com/23/7/25/imgbin-tf1-group-mytf1-television-channel-others-QNU0VNLn6XQVbcmf8GebNQppC.jpg" group-title="Ky IPTV",TF1
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182293
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 +1" tvg-logo="" group-title="Ky IPTV",TF1 +1
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182294
+#EXTINF:-1 tvg-id="tf1films.fr" tvg-name="TF1 Series Films" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/TF1_S%C3%A9ries_Films_%282020-.n.v.%29.png/revision/latest?cb=20200314125609" group-title="Ky IPTV",TF1 Series Films
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182299
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TV5_Monde.svg/1280px-TV5_Monde.svg.png" group-title="Ky IPTV",TV5 MONDE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182302
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="Ky IPTV",W9
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182305
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM HD" tvg-logo="http://iptvtree.net:8080/766a3d10/7781c6505e/167" group-title="France Info",FR BFM HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182307
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C NEWS FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2019/12/CNews-Logo.png" group-title="France Info",FR C NEWS FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182309
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS HD" tvg-logo="https://www.baselworld.com/-/media/mch/baselworld/portal/images/content/the-show/euronews-thumb.png?la=fr&vs=1&hash=BDDC9F52A32D2E6426D9030E87E5BEBC" group-title="France Info",FR EURONEWS HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182311
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1200px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="France Info",FR LCI HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182313
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="France Info",FR LCP HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182315
+#EXTINF:-1 tvg-id="beinsport1.fr" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="Ky IPTV",beIN SPORTS 1
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182316
+#EXTINF:-1 tvg-id="beinsport2.fr" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="Ky IPTV",beIN SPORTS 2 FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182319
+#EXTINF:-1 tvg-id="beinsport3.fr" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="Ky IPTV",beIN SPORTS 3 FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182322
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY+ FHD" tvg-logo="https://www.reviews.org/app/uploads/2019/10/disneyplus-logo-300x188.png" group-title="Ky IPTV",DISNEY+ FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182325
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC HD" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/M6-Music-Logo-1.png" group-title="Ky IPTV",M6 MUSIC HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182327
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MCM_logo.svg/1200px-MCM_logo.svg.png" group-title="Ky IPTV",MCM HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182329
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="FR: MCM TOP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/MCM_Top.png/1200px-MCM_Top.png" group-title="Ky IPTV",MCM TOP FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182331
+#EXTINF:-1 tvg-id="mezzo.fr" tvg-name="MEZZO FR HD" tvg-logo="https://base-ec2if.akamaized.net/w=1200,h=1200,a=3,q=90,u=1,b=00000000/images/user/logo/432f9cab1769803c7e961395a914b2b2.png" group-title="Ky IPTV",MEZZO FR HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182332
+#EXTINF:-1 tvg-id="mezzolive.fr" tvg-name="MEZZO LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Ky IPTV",MEZZO LIVE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182333
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png" group-title="Ky IPTV",MTV Base HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182335
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/MTV_Dance_2017_logo.png" group-title="Ky IPTV",MTV Dance HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182337
+#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-name="MTV FRANCE HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/7/7159.1529183447.png" group-title="Ky IPTV",MTV FRANCE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182339
+#EXTINF:-1 tvg-id="mtvhits.fr" tvg-name="MTV Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Ky IPTV",MTV Hits HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182341
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR:  A LA CARTE 9" tvg-logo="" group-title="Ky IPTV", A LA CARTE 9
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182342
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 01" tvg-logo="" group-title="Ky IPTV",A LA CARTE 01
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182343
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 03" tvg-logo="" group-title="Ky IPTV",A LA CARTE 03
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182345
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 04" tvg-logo="" group-title="Ky IPTV",A LA CARTE 04
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182346
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 05" tvg-logo="" group-title="Ky IPTV",A LA CARTE 05
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182347
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 06" tvg-logo="" group-title="Ky IPTV",A LA CARTE 06
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182348
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 07" tvg-logo="" group-title="Ky IPTV",A LA CARTE 07
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182349
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 08" tvg-logo="" group-title="Ky IPTV",A LA CARTE 08
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182350
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10" tvg-logo="" group-title="Ky IPTV",A LA CARTE 10
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182351
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 01" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 01
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182352
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 02" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 02
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182353
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 03" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 03
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182354
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 04" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 04
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182355
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 05" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 05
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182356
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 06" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 06
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182357
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 07" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 07
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182358
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 08" tvg-logo="" group-title="Ky IPTV",CANAL PLAY 08
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182359
+#EXTINF:-1 tvg-id="ABCME.au" tvg-name="AB Moteur HD" tvg-logo="" group-title="Ky IPTV",AB Moteur HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182360
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA LIFE HD" tvg-logo="" group-title="Ky IPTV",EQUIDIA LIFE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182365
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="Equidia Live" tvg-logo="" group-title="Ky IPTV",Equidia Live
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182366
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="Equipe 21" tvg-logo="" group-title="Ky IPTV",Equipe 21
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182368
+#EXTINF:-1 tvg-id="eusrosports1.fr" tvg-name="EuroSport 1" tvg-logo="" group-title="Ky IPTV",EuroSport 1
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182370
+#EXTINF:-1 tvg-id="eurosports2.fr" tvg-name="EuroSport 2" tvg-logo="" group-title="Ky IPTV",EuroSport 2
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182372
+#EXTINF:-1 tvg-id="exsports.fr" tvg-name="EXTREME SPORTS HD" tvg-logo="" group-title="Ky IPTV",EXTREME SPORTS HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182374
+#EXTINF:-1 tvg-id="foot24.fr" tvg-name="Foot24" tvg-logo="" group-title="Ky IPTV",Foot24
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182375
+#EXTINF:-1 tvg-id="gold.fr" tvg-name="Golf Channel" tvg-logo="" group-title="Ky IPTV",Golf Channel
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182377
+#EXTINF:-1 tvg-id="gold.fr" tvg-name="Golf Plus" tvg-logo="" group-title="Ky IPTV",Golf Plus
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182379
+#EXTINF:-1 tvg-id="infosport.fr" tvg-name="Infosport" tvg-logo="" group-title="Ky IPTV",Infosport
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182381
+#EXTINF:-1 tvg-id="infosport.fr" tvg-name="Infosport HD" tvg-logo="" group-title="Ky IPTV",Infosport HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182382
+#EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT HD" tvg-logo="" group-title="Ky IPTV",KOMBAT SPORT HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182383
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 1 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Access 1 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182385
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 2 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Access 2 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182386
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 3 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Access 3 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182387
+#EXTINF:-1 tvg-id="rmcsport10.fr" tvg-name="RMC Sport Live 10 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 10 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182390
+#EXTINF:-1 tvg-id="rmcsport11.fr" tvg-name="RMC Sport Live 11 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 11 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182391
+#EXTINF:-1 tvg-id="rmcsport12.fr" tvg-name="RMC Sport Live 12 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 12 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182392
+#EXTINF:-1 tvg-id="rmcsport13.fr" tvg-name="RMC Sport Live 13 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 13 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182393
+#EXTINF:-1 tvg-id="rmcsport14.fr" tvg-name="RMC Sport Live 14 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 14 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182394
+#EXTINF:-1 tvg-id="rmcsport15.fr" tvg-name="RMC Sport Live 15 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 15 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182395
+#EXTINF:-1 tvg-id="rmcsport16.fr" tvg-name="RMC Sport Live 16 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 16 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182396
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="RMC Sport Live 2" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 2
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182397
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="RMC Sport Live 3" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 3
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182399
+#EXTINF:-1 tvg-id="rmcsport5.fr" tvg-name="RMC Sport Live 5 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 5 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182402
+#EXTINF:-1 tvg-id="rmcsport6.fr" tvg-name="RMC Sport Live 6 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 6 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182403
+#EXTINF:-1 tvg-id="rmcsport7.fr" tvg-name="RMC Sport Live 7 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 7 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182404
+#EXTINF:-1 tvg-id="rmcsport8.fr" tvg-name="RMC Sport Live 8 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 8 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182405
+#EXTINF:-1 tvg-id="rmcsport9.fr" tvg-name="RMC Sport Live 9 HD" tvg-logo="" group-title="Ky IPTV",RMC Sport Live 9 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182406
+#EXTINF:-1 tvg-id="rmcnews.fr" tvg-name="RMC Sport News HD" tvg-logo="" group-title="Ky IPTV",RMC Sport News HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182407
+#EXTINF:-1 tvg-id="13emeRue.mu" tvg-name="13eme RUE HD" tvg-logo="https://e7.pngegg.com/pngimages/255/170/png-clipart-13eme-rue-universal-television-channel-france-nbcuniversal-france-television-text-thumbnail.png" group-title="Ky IPTV",13eme RUE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182409
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION HD" tvg-logo="https://seeklogo.com/images/A/action-logo-4B5BD357D3-seeklogo.com.png" group-title="Ky IPTV",ACTION HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182411
+#EXTINF:-1 tvg-id="canalcinema.fr" tvg-name="CANAL PLUS CINEMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Canal%2BCin%C3%A9ma2009.svg/500px-Canal%2BCin%C3%A9ma2009.svg.png" group-title="Ky IPTV",CANAL PLUS CINEMA FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182414
+#EXTINF:-1 tvg-id="canaldecale.fr" tvg-name="CANAL PLUS DECALE HD" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F15b10c075329fc07.2Epng/1200x630/crop-from/top/quality/80/canal-decale.png" group-title="Ky IPTV",CANAL PLUS DECALE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182418
+#EXTINF:-1 tvg-id="canalfamily.fr" tvg-name="CANAL PLUS FAMILY" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F51658864e65a3fe8.2Epng/1200x630/crop-from/top/quality/80/canal-family.png" group-title="Ky IPTV",CANAL PLUS FAMILY
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182419
+#EXTINF:-1 tvg-id="canal.fr" tvg-name="CANAL PLUS FHD" tvg-logo="https://business-review.eu/wp-content/uploads/2019/05/Canal-Plus.png" group-title="Ky IPTV",CANAL PLUS FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182422
+#EXTINF:-1 tvg-id="canalseries.fr" tvg-name="CANAL PLUS SERIES FHD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/%7BresolutionXY%7D/image/68/3/canal-series-logo.49683.png" group-title="Ky IPTV",CANAL PLUS SERIES FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182425
+#EXTINF:-1 tvg-id="canalsport.fr" tvg-name="CANAL PLUS SPORT FHD" tvg-logo="https://iconape.com/wp-content/files/fh/50949/png/canal-sport-1.png" group-title="Ky IPTV",CANAL PLUS SPORT FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182428
+#EXTINF:-1 tvg-id="cineclassic.fr" tvg-name="CINE CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Cine%2B_Classic_logo_2011.svg/1200px-Cine%2B_Classic_logo_2011.svg.png" group-title="Ky IPTV",CINE CLASSIC
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182431
+#EXTINF:-1 tvg-id="cineclub.fr" tvg-name="CINE CLUB HD" tvg-logo="https://cdn.tv-programme.com/pic/chaines/74.png" group-title="Ky IPTV",CINE CLUB HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182434
+#EXTINF:-1 tvg-id="cineemotion.fr" tvg-name="CINE EMOTION HD" tvg-logo="https://www.pngjoy.com/pngm/294/5584369_emotion-cin-motion-hd-png-download.png" group-title="Ky IPTV",CINE EMOTION HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182436
+#EXTINF:-1 tvg-id="cinefamiz.fr" tvg-name="CINE FAMIZ HD" tvg-logo="" group-title="Ky IPTV",CINE FAMIZ HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182438
+#EXTINF:-1 tvg-id="cinefrisson.fr" tvg-name="CINE FRISSON HD" tvg-logo="https://www.canalplus.ch/wp-content/uploads/2018/07/cinefrisson-2019-rvb-300x161.png" group-title="Ky IPTV",CINE FRISSON HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182439
+#EXTINF:-1 tvg-id="cinepremier.fr" tvg-name="CINE PREMIERE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo-cine-premiere.png" group-title="Ky IPTV",CINE PREMIERE
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182442
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS CHOC HD" tvg-logo="https://ewsat.com/img/OCS_CHOC.png" group-title="Ky IPTV",OCS CHOC HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182445
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="OCS CITY HD" tvg-logo="https://ewsat.com/img/OCS_CITY.png" group-title="Ky IPTV",OCS CITY HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182447
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS Geants HD" tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ocs_geants.png" group-title="Ky IPTV",OCS Geants HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182449
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS MAX" tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/ocs_max.png" group-title="Ky IPTV",OCS MAX
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182450
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://www.pngitem.com/pimgs/m/136-1363797_transparent-osn-png-paramount-channel-png-download.png" group-title="Ky IPTV",PARAMOUNT CHANNEL HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182453
+#EXTINF:-1 tvg-id="parisprem.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_PARIS_PREMIERE.png" group-title="Ky IPTV",PARIS PREMIERE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182455
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="ROUGE TV HD" tvg-logo="https://d2obs2d3lmpnq9.cloudfront.net/rouge-play/RougeTv/Rouge.png" group-title="Ky IPTV",ROUGE TV HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182457
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL9 HD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/rtl9.png" group-title="Ky IPTV",RTL9 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182459
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/S%C3%A9rie_Club_logo_2012.png" group-title="Ky IPTV",SERIE CLUB FHD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182460
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY HD" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/SYFY-Logo-White-283x300.png" group-title="Ky IPTV",SYFY HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182463
+#EXTINF:-1 tvg-id="tcmcinema.fr" tvg-name="TCM CINEMA HD" tvg-logo="https://www.gibtele.com/uploads/TCM_NEW_HD%20-%20Copy%20website%20final%20(2).png" group-title="Ky IPTV",TCM CINEMA HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182465
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1280px-TFX_logo.svg.png" group-title="Ky IPTV",TFX HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182467
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC HD" tvg-logo="https://www.neboagency.com/assets/tcm-logo_341x109_2x_xDDo2Va.png" group-title="Ky IPTV",TMC HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182469
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/05/Animaux.png" group-title="Ky IPTV",ANIMAUX HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182471
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE&PECHE" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/7/7196.1534989055.png" group-title="Ky IPTV",CHASSE&PECHE
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182472
+#EXTINF:-1 tvg-id="comedie.fr" tvg-name="Comedie + HD" tvg-logo="" group-title="Ky IPTV",Comedie + HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182475
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="https://ewsat.com/img/CRIME_DISTRICT.png" group-title="Ky IPTV",CRIME DISTRICT HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182477
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="" group-title="Ky IPTV",DISCOVERY HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182479
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://toppng.com/uploads/preview/a-kid-to-kill-for-investigation-discovery-logo-2018-11563163465oggcin59rp.png" group-title="Ky IPTV",DISCOVERY INVESTIGATION HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182481
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="Ky IPTV",DISCOVERY SCIENCE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182483
+#EXTINF:-1 tvg-id="historie.fr" tvg-name="HISTOIRE HD" tvg-logo="https://www.tango.lu/sites/tango/files/histoire_tv_logo_v2-rvb.png" group-title="Ky IPTV",HISTOIRE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182485
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NAT GEO WILD" tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png?4a45e0f0aa646b78e6b7a628d1da9b2342bc90fe" group-title="Ky IPTV",NAT GEO WILD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182486
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NATIONAL GEO" tvg-logo="https://e7.pngegg.com/pngimages/202/126/png-clipart-national-geographic-logo-national-geographic-logo-icons-logos-emojis-iconic-brands-thumbnail.png" group-title="Ky IPTV",NATIONAL GEO
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182488
+#EXTINF:-1 tvg-id="planete.fr" tvg-name="PLANET PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="Ky IPTV",PLANET PLUS
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182490
+#EXTINF:-1 tvg-id="planeteae.fr" tvg-name="PLANETE A&E" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/86/Planete%2B_A%26E_%282013-.n.v.%29.png/revision/latest?cb=20170927062123" group-title="Ky IPTV",PLANETE A&E
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182492
+#EXTINF:-1 tvg-id="planeteci.fr" tvg-name="PLANETE CI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="Ky IPTV",PLANETE CI
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182494
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM TV HD" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/RFM-Logo-1-6655.png" group-title="Ky IPTV",RFM TV HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182496
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC Decouverte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1200px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Ky IPTV",RMC Decouverte HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182498
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC STORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" group-title="Ky IPTV",RMC STORY HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182500
+#EXTINF:-1 tvg-id="sciencetv.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F018b5d9adc0bdc0e.2Epng/1200x630/crop-from/top/quality/80/science-vie-tv.png" group-title="Ky IPTV",SCIENCE ET VIE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182502
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASON" tvg-logo="https://img.pngio.com/season-png-6-png-image-season-png-1000_372.png" group-title="Ky IPTV",SEASON
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182503
+#EXTINF:-1 tvg-id="toutehistorie.fr" tvg-name="TOUTE_L'HISTOIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/1200px-Toute_l%27Histoire_%282013%29.svg.png" group-title="Ky IPTV",TOUTE_L'HISTOIRE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182506
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="Trek HD" tvg-logo="https://img.pngio.com/trek-png-1-png-image-trek-png-2000_290.png" group-title="Ky IPTV",Trek HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182508
+#EXTINF:-1 tvg-id="ushuaia TV.fr" tvg-name="Ushuaia HD" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/04/ushuaia.png" group-title="Ky IPTV",Ushuaia HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182510
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="VOYAGE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Voyage_logo_2016.png" group-title="Ky IPTV",VOYAGE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182512
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/AB1_logo_1.png" group-title="Ky IPTV",AB1 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182514
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1024px-BET_Logo.svg.png" group-title="Ky IPTV",BET HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182515
+#EXTINF:-1 tvg-id="bfmbusines.fr" tvg-name="BFM Business HD" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/bfmtv-logo-vector.png" group-title="Ky IPTV",BFM Business HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182517
+#EXTINF:-1 tvg-id="brava.fr" tvg-name="BRAVA HD" tvg-logo="https://www.pinclipart.com/picdir/middle/250-2509773_brava-fabrics-camisa-estampada-sharks-clipart.png" group-title="Ky IPTV",BRAVA HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182518
+#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="Discovery Family HD" tvg-logo="https://i.pinimg.com/originals/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.png" group-title="Ky IPTV",Discovery Family HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182520
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! Entertainment HD" tvg-logo="https://i.pinimg.com/originals/b2/a8/8b/b2a88b280c2e3e58994744495267462e.png" group-title="Ky IPTV",E! Entertainment HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182522
+#EXTINF:-1 tvg-id="elgirl.fr" tvg-name="ELLE GIRL HD" tvg-logo="" group-title="Ky IPTV",ELLE GIRL HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182523
+#EXTINF:-1 tvg-id="MyCuisine.pt" tvg-name="My Cuisine HD" tvg-logo="" group-title="Ky IPTV",My Cuisine HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182526
+#EXTINF:-1 tvg-id="OneTV.ch" tvg-name="ONE TV HD" tvg-logo="https://solutions.interactiveone.com/logos/tvone-logo.png" group-title="Ky IPTV",ONE TV HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182527
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TEVA HD" tvg-logo="https://ewsat.com/img/TEVA.png" group-title="Ky IPTV",TEVA HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182529
+#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="TRACE Urban HD" tvg-logo="https://w7.pngwing.com/pngs/702/993/png-transparent-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text-rectangle.png" group-title="Ky IPTV",TRACE Urban HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182530
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="Tv Breizh HD" tvg-logo="https://media.info/i/lf/300/1535126331/7209.png" group-title="Ky IPTV",Tv Breizh HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182533
+#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/320px-Logo_TVM3_2015.png" group-title="Ky IPTV",TVM3 HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182534
+#EXTINF:-1 tvg-id="" tvg-name="WEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_WEO_TV_2013-2014.png" group-title="Ky IPTV",WEO HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182535
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="BOING HD" tvg-logo="" group-title="Ky IPTV",BOING HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182537
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="" group-title="Ky IPTV",BOOMERANG HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182540
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J HD" tvg-logo="" group-title="Ky IPTV",CANAL J HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182542
+#EXTINF:-1 tvg-id="cartoonnet.fr" tvg-name="CartoonNetwork HD" tvg-logo="" group-title="Ky IPTV",CartoonNetwork HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182544
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Ky IPTV",DISNEY CHANNEL
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182545
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="Ky IPTV",DISNEY CHANNEL HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182546
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="Ky IPTV",DISNEY CINEMA
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182547
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="DISNEY CINEMA HD" tvg-logo="" group-title="Ky IPTV",DISNEY CINEMA HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182548
+#EXTINF:-1 tvg-id="disneyjr.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="Ky IPTV",DISNEY JUNIOR HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182550
+#EXTINF:-1 tvg-id="disneyxd.fr" tvg-name="DISNEY XD HD" tvg-logo="" group-title="Ky IPTV",DISNEY XD HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182552
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="GAME ONE HD" tvg-logo="" group-title="Ky IPTV",GAME ONE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182554
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI HD" tvg-logo="" group-title="Ky IPTV",GULLI HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182556
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-ONE HD" tvg-logo="" group-title="Ky IPTV",J-ONE HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182557
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS TV" tvg-logo="" group-title="Ky IPTV",MANGAS TV
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182559
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="NICKELODEON HD" tvg-logo="" group-title="Ky IPTV",NICKELODEON HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182561
+#EXTINF:-1 tvg-id="nickteen.fr" tvg-name="NICKELODEON 4TEEN HD" tvg-logo="" group-title="Ky IPTV",NICKELODEON 4TEEN HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182562
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="" group-title="Ky IPTV",NICKELODEON JUNIOR HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182566
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi" tvg-logo="" group-title="Ky IPTV",Piwi
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182567
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="Piwi HD" tvg-logo="" group-title="Ky IPTV",Piwi HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182568
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TELETOON +1" tvg-logo="" group-title="Ky IPTV",TELETOON +1
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182570
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="FR-L: TELETOON+" tvg-logo="" group-title="Ky IPTV",TELETOON+
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182571
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI HD" tvg-logo="" group-title="Ky IPTV",TIJI HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182574
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="Toonami" tvg-logo="" group-title="Ky IPTV",Toonami
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182575
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="Toonami HD" tvg-logo="" group-title="Ky IPTV",Toonami HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182576
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM sport HD" tvg-logo="" group-title="Ky IPTV",BFM sport HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182363
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 02" tvg-logo="" group-title="Ky IPTV",A LA CARTE 02
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182344
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY HD" tvg-logo="https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5tZWxvZHlfY2hhbm5lbC5zY18zWEg5NUdfaWNvbl8wX2Q0NjY0YjI3/icon.png?w=170&fakeurl=1" group-title="Ky IPTV",MELODY HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/560933
+#EXTINF:-1 tvg-id="" tvg-name="FR: Telefoot Stadium 4K" tvg-logo="" group-title="Ky IPTV",Telefoot Stadium 4K
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/696927
+#EXTINF:-1 tvg-id="Cine.ar" tvg-name="CINE POLAR+ HD" tvg-logo="" group-title="Ky IPTV",CINE POLAR+ HD
+http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182441
 #EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="Sansat",TF1 HD
 http://www.sansat.net:25461/NeilThornton/fNtrmjrgvsGaXGS/49161
 #EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="Sansat",FRANCE 2 HD
