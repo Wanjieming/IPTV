@@ -1,4 +1,572 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT1 bk" tvg-logo="" group-title="Mcsh",RMC_SPORT1 bk
+http://mcsh.xyz:8080/112233/112233/51758
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT2 bk" tvg-logo="" group-title="Mcsh",RMC_SPORT2 bk
+http://mcsh.xyz:8080/112233/112233/51759
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT3 bk" tvg-logo="" group-title="Mcsh",RMC_SPORT3 bk
+http://mcsh.xyz:8080/112233/112233/51760
+#EXTINF:-1 tvg-id="" tvg-name="RMC_SPORT4 bk" tvg-logo="" group-title="Mcsh",RMC_SPORT4 bk
+http://mcsh.xyz:8080/112233/112233/51761
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 5 HD
+http://mcsh.xyz:8080/112233/112233/51762
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 6 HD
+http://mcsh.xyz:8080/112233/112233/51763
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 7 HD
+http://mcsh.xyz:8080/112233/112233/51764
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 8 HD
+http://mcsh.xyz:8080/112233/112233/51765
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 9 HD
+http://mcsh.xyz:8080/112233/112233/51766
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 10 HD
+http://mcsh.xyz:8080/112233/112233/51767
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 11 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 11 HD
+http://mcsh.xyz:8080/112233/112233/51768
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 12 HD
+http://mcsh.xyz:8080/112233/112233/51769
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 13 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 13 HD
+http://mcsh.xyz:8080/112233/112233/51770
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 14 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 14 HD
+http://mcsh.xyz:8080/112233/112233/51771
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 15 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 15 HD
+http://mcsh.xyz:8080/112233/112233/51772
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16 HD" tvg-logo="" group-title="Mcsh",RMC SPORT LIVE 16 HD
+http://mcsh.xyz:8080/112233/112233/51773
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 1 HD" tvg-logo="" group-title="Mcsh",RMC ACCESS SPORT 1 HD
+http://mcsh.xyz:8080/112233/112233/51774
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 2 HD" tvg-logo="" group-title="Mcsh",RMC ACCESS SPORT 2 HD
+http://mcsh.xyz:8080/112233/112233/51775
+#EXTINF:-1 tvg-id="" tvg-name="RMC ACCESS SPORT 3 HD" tvg-logo="" group-title="Mcsh",RMC ACCESS SPORT 3 HD
+http://mcsh.xyz:8080/112233/112233/51776
+#EXTINF:-1 tvg-ID="" tvg-name="SERIE CLUB" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Serie_Club_2012-.n.v..png" group-title="Orionus",SERIE CLUB
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100095
+#EXTINF:-1 tvg-ID="" tvg-name="13EME RUE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/13Eme-Rue.png" group-title="Orionus",13EME RUE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100096
+#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/AB1.png" group-title="Orionus",AB1
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100097
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/ACTION.png" group-title="Orionus",ACTION
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100098
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Animaux.png" group-title="Orionus",ANIMAUX
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100099
+#EXTINF:-1 tvg-ID="" tvg-name="ARTE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/Arte-HD.jpg" group-title="Orionus",ARTE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100100
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Bein_Sports-1.png" group-title="Orionus",BEIN SPORTS 1
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100101
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/bein_sports_2-1.png" group-title="Orionus",BEIN SPORTS 2
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100102
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/BeIN_Sports_3.png" group-title="Orionus",BEIN SPORTS 3
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100103
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Boing_TV.png" group-title="Orionus",BOING
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100104
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/214-2146336_new-boomerang-logo-recreation-boomerang-channel-logo-png.png.jpg" group-title="Orionus",BOOMERANG
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100105
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Canal-J.jpg" group-title="Orionus",CANAL J
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100106
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLUS SPORT" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/Canal-Plus-Sport.png" group-title="Orionus",CANAL PLUS SPORT
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100107
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ CINEMA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/Canal-Cinema.png" group-title="Orionus",CANAL+ CINEMA
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100108
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ DECALE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Canal-Decale.png" group-title="Orionus",CANAL+ DECALE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100109
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ FAMILY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Canal_Family_PL.png" group-title="Orionus",CANAL+ FAMILY
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100110
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/CANAL-.png" group-title="Orionus",CANAL+
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100111
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SERIES" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Canal_Séries.png" group-title="Orionus",CANAL+ SERIES
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100112
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+ SPORT" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/Canal-Plus-Sport.png" group-title="Orionus",CANAL+ SPORT
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100113
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/CARTOON_NETWORK_logo-1.png" group-title="Orionus",CARTOON NETWORK
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100114
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE & PECHE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/CHASSE-ET-PECHE.png" group-title="Orionus",CHASSE & PECHE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100115
+#EXTINF:-1 tvg-ID="" tvg-name="CHERIE 25" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/CHERIE-25.png" group-title="Orionus",CHERIE 25
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100116
+#EXTINF:-1 tvg-ID="" tvg-name="TCM CINEMA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/TCM_CINEMA-1.png" group-title="Orionus",TCM CINEMA
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100117
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ FAMIZ" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Cine-Famiz.png" group-title="Orionus",CINE+ FAMIZ
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100118
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ CLASSIC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/1200px-Cine_Classic_logo_2011.svg_.png" group-title="Orionus",CINE+ CLASSIC
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100119
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ CLUB" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Cine_plus_club.png" group-title="Orionus",CINE+ CLUB
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100120
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ EMOTION " tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/CINE_EMOTION.png" group-title="Orionus",CINE+ EMOTION 
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100121
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ FRISSON " tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/CINE_FRISSON.png" group-title="Orionus",CINE+ FRISSON 
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100122
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ FX " tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Cine-FX.jpg" group-title="Orionus",CINE+ FX 
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100123
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ PREMIER" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/1200px-CinePlusPremier.svg_.png" group-title="Orionus",CINE+ PREMIER
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100124
+#EXTINF:-1 tvg-ID="" tvg-name="CINE+ STAR" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/Cine-Star.jpg" group-title="Orionus",CINE+ STAR
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100125
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/discovery_history.png" group-title="Orionus",DISCOVERY
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100126
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/Disney_Channel_Germany_Logo_2014.png" group-title="Orionus",DISNEY CHANNEL
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100127
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Disney_Cinemagic.png" group-title="Orionus",DISNEY CINEMA
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100128
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JR" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/10/DISNEY-JR.jpg" group-title="Orionus",DISNEY JR
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100129
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD |HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/Disney_XD.png" group-title="Orionus",DISNEY XD |HD
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100130
+#EXTINF:-1 tvg-ID="" tvg-name="MB LIVE TV" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/MB-LIVE.png" group-title="Orionus",MB LIVE TV
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100131
+#EXTINF:-1 tvg-ID="" tvg-name="FOOT+ 24/24" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/FOOT.png" group-title="Orionus",FOOT+ 24/24
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100132
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24 NEWS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/1200px-FRANCE_24_logo.svg_.png" group-title="Orionus",FRANCE 24 NEWS
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100133
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/france-2-tv-logo-png-transparent.png" group-title="Orionus",FRANCE 2
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100134
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 3" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/france-3-tv-1-logo-png-transparent.png" group-title="Orionus",FRANCE 3
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100135
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 4" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/FRANCE-4.png" group-title="Orionus",FRANCE 4
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100136
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 5" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/FRANCE-5.jpg" group-title="Orionus",FRANCE 5
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100137
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE O" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/FRANCE-O.png" group-title="Orionus",FRANCE O
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100138
+#EXTINF:-1 tvg-ID="" tvg-name="GULLI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Gulli_Logo.png" group-title="Orionus",GULLI
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100139
+#EXTINF:-1 tvg-ID="" tvg-name="GULLI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Gulli_Logo.png" group-title="Orionus",GULLI
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100140
+#EXTINF:-1 tvg-ID="" tvg-name="HD1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/HD1.jpg" group-title="Orionus",HD1
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100141
+#EXTINF:-1 tvg-ID="" tvg-name="HISTOIRE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Logo_LHistoire.png" group-title="Orionus",HISTOIRE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100142
+#EXTINF:-1 tvg-ID="" tvg-name="C NEWS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/C-NEWS.png" group-title="Orionus",C NEWS
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100143
+#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/M6-tv-logo-1.png" group-title="Orionus",M6
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100144
+#EXTINF:-1 tvg-ID="" tvg-name="M6 MUSIC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/M6_Music_2012.png" group-title="Orionus",M6 MUSIC
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100145
+#EXTINF:-1 tvg-ID="" tvg-name="MANGAS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Mangas_logo_old.png" group-title="Orionus",MANGAS
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100146
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/National_Geographic_Logo_201611.png" group-title="Orionus",NATIONAL GEO
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100147
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEO WILD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/03/National-Geographic-Wild.jpg" group-title="Orionus",NATIONAL GEO WILD
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100148
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/05/NICKELODEON_Logo.png" group-title="Orionus",NICKELODEON
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100149
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JR" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/OCS-Choc.png" group-title="Orionus",NICKELODEON JR
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100150
+#EXTINF:-1 tvg-ID="" tvg-name="NT1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/NT1.png" group-title="Orionus",NT1
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100151
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/OCS-Choc.png" group-title="Orionus",OCS CHOC
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100152
+#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/OCS_City.png" group-title="Orionus",OCS CITY
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100153
+#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANTS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/OCS-GEANTS.png" group-title="Orionus",OCS GEANTS
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100154
+#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/OCS-Max.png" group-title="Orionus",OCS MAX
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100155
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Paramount_Channel_logo.png" group-title="Orionus",PARAMOUNT CHANNEL
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100156
+#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Paris-Premiere.png" group-title="Orionus",PARIS PREMIERE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100157
+#EXTINF:-1 tvg-ID="" tvg-name="PIWI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/Piwi_logo.svg_.png" group-title="Orionus",PIWI
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100158
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE A AND E" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Planete-AE.jpg" group-title="Orionus",PLANETE A AND E
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100159
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/Planete.png" group-title="Orionus",PLANETE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100160
+#EXTINF:-1 tvg-ID="" tvg-name="RTS LA DEUX" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/RTS-LA-DEUX.png" group-title="Orionus",RTS LA DEUX
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100161
+#EXTINF:-1 tvg-ID="" tvg-name="RTS LA UN" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/04/RTS-LA-UN.jpg" group-title="Orionus",RTS LA UN
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100162
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON PLUS" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/TELETOON-PLUS.png" group-title="Orionus",TELETOON PLUS
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100163
+#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/02/TF1.png" group-title="Orionus",TF1
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100164
+#EXTINF:-1 tvg-ID="" tvg-name="TIJI" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/Tiji.jpg" group-title="Orionus",TIJI
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100165
+#EXTINF:-1 tvg-ID="" tvg-name="TMC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/12/tmc_01.png" group-title="Orionus",TMC
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100166
+#EXTINF:-1 tvg-ID="" tvg-name="TV 5 MONDE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/01/TV5MONDE.jpg" group-title="Orionus",TV 5 MONDE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100167
+#EXTINF:-1 tvg-ID="" tvg-name="W9 MUSIC" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/11/W9-MUSIC.png" group-title="Orionus",W9 MUSIC
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100168
+#EXTINF:-1 tvg-ID="" tvg-name="CINE ACTION" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/Cine-Action.jpg" group-title="Orionus",CINE ACTION
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100169
+#EXTINF:-1 tvg-ID="" tvg-name="CINE COMEDIE" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/cine-comedie-location-logo-1485253657.jpg" group-title="Orionus",CINE COMEDIE
+http://orionus.geekgalaxy.com:826/SRGIVPuUbs/S2XuXuWRpg/100170
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_01 ( 6 Underground )" tvg-logo="" group-title="Dooby",A_LA_CARTE_01 ( 6 Underground )
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/65
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_02" tvg-logo="" group-title="Dooby",A_LA_CARTE_02
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/66
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_03" tvg-logo="" group-title="Dooby",A_LA_CARTE_03
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/67
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_04 ( Togo )" tvg-logo="" group-title="Dooby",A_LA_CARTE_04 ( Togo )
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/68
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_05 ( Maléfique )" tvg-logo="" group-title="Dooby",A_LA_CARTE_05 ( Maléfique )
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/69
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_06 ( Spider-Man Far From Home )" tvg-logo="" group-title="Dooby",A_LA_CARTE_06 ( Spider-Man Far From Home )
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/70
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_07 ( Inside Man Most Wanted )" tvg-logo="" group-title="Dooby",A_LA_CARTE_07 ( Inside Man Most Wanted )
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/71
+#EXTINF:-1 tvg-ID="" tvg-name="A_LA_CARTE_08" tvg-logo="" group-title="Dooby",A_LA_CARTE_08
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/72
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine+1" tvg-logo="" group-title="Dooby",Orange_Cine+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2331
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine+2" tvg-logo="" group-title="Dooby",Orange_Cine+2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2332
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine+3" tvg-logo="" group-title="Dooby",Orange_Cine+3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2333
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine+4" tvg-logo="" group-title="Dooby",Orange_Cine+4
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2334
+#EXTINF:-1 tvg-ID="" tvg-name="Orange_Cine+5" tvg-logo="" group-title="Dooby",Orange_Cine+5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2335
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_GO_CINE+1" tvg-logo="" group-title="Dooby",OCS_GO_CINE+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2873
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_GO_CINE+2" tvg-logo="" group-title="Dooby",OCS_GO_CINE+2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2874
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_GO_CINE+3" tvg-logo="" group-title="Dooby",OCS_GO_CINE+3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2875
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_GO_CINE+4" tvg-logo="" group-title="Dooby",OCS_GO_CINE+4
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2876
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_GO_CINE+5" tvg-logo="" group-title="Dooby",OCS_GO_CINE+5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2877
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_01 [ King Arthur Legend Of The Sword ]" tvg-logo="" group-title="Dooby",CANAL_PLAY_01 [ King Arthur Legend Of The Sword ]
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_02 [ Security ]" tvg-logo="" group-title="Dooby",CANAL_PLAY_02 [ Security ]
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_03" tvg-logo="" group-title="Dooby",CANAL_PLAY_03
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_04" tvg-logo="" group-title="Dooby",CANAL_PLAY_04
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_05" tvg-logo="" group-title="Dooby",CANAL_PLAY_05
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/54
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_06" tvg-logo="" group-title="Dooby",CANAL_PLAY_06
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/55
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_07" tvg-logo="" group-title="Dooby",CANAL_PLAY_07
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/56
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_08" tvg-logo="" group-title="Dooby",CANAL_PLAY_08
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/57
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_09" tvg-logo="" group-title="Dooby",CANAL_PLAY_09
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/58
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_10" tvg-logo="" group-title="Dooby",CANAL_PLAY_10
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/59
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_11 [ Frozen 2 ]" tvg-logo="" group-title="Dooby",CANAL_PLAY_11 [ Frozen 2 ]
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/60
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_12" tvg-logo="" group-title="Dooby",CANAL_PLAY_12
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/61
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_13" tvg-logo="" group-title="Dooby",CANAL_PLAY_13
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/62
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_14" tvg-logo="" group-title="Dooby",CANAL_PLAY_14
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/63
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL_PLAY_15" tvg-logo="" group-title="Dooby",CANAL_PLAY_15
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/64
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FRANCE_02" tvg-logo="http://logofun.ddns.net:25461/logo/france2.png" group-title="Dooby",FRANCE_02
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3217
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="France_03" tvg-logo="http://logofun.ddns.net:25461/logo/france3.png" group-title="Dooby",France_03
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2500
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="France_04" tvg-logo="http://logofun.ddns.net:25461/logo/france4.png" group-title="Dooby",France_04
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3218
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FRANCE_5" tvg-logo="http://logofun.ddns.net:25461/logo/France 5.png" group-title="Dooby",FRANCE_5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4005
+#EXTINF:-1 tvg-ID="France Ô FR" tvg-name="FRANCE_O" tvg-logo="http://logofun.ddns.net:25461/logo/franceo.png" group-title="Dooby",FRANCE_O
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2528
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FRANCE_INFO" tvg-logo="http://logofun.ddns.net:25461/logo/france info.png" group-title="Dooby",FRANCE_INFO
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48877
+#EXTINF:-1 tvg-ID="CanalPlus.fr" tvg-name="CANAL+" tvg-logo="http://logofun.ddns.net:25461/logo/canalplus.png" group-title="Dooby",CANAL+
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3326
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="CANAL+_sports" tvg-logo="http://logofun.ddns.net:25461/logo/canalplussport.png" group-title="Dooby",CANAL+_sports
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50145
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="CANAl+_CINEMA" tvg-logo="http://logofun.ddns.net:25461/logo/canalpluscinema.png" group-title="Dooby",CANAl+_CINEMA
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49749
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="CANAL+_FAMILY" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusfamily.png" group-title="Dooby",CANAL+_FAMILY
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2639
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="CANAL+_DECALE" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusdecale.png" group-title="Dooby",CANAL+_DECALE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1994
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL+_Series" tvg-logo="" group-title="Dooby",CANAL+_Series
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52962
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="CANAL_J" tvg-logo="http://logofun.ddns.net:25461/logo/canalj.png" group-title="Dooby",CANAL_J
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1460
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Cine_Premier" tvg-logo="http://logofun.ddns.net:25461/logo/cinepluspremier.png" group-title="Dooby",Cine_Premier
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3327
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Cine_Frisson" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfrisson.png" group-title="Dooby",Cine_Frisson
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3328
+#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="Cine_Famiz" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfamiz.png" group-title="Dooby",Cine_Famiz
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3330
+#EXTINF:-1 tvg-ID="Cine+ Émotion HD FR" tvg-name="Cine_Emotion" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusemotion.png" group-title="Dooby",Cine_Emotion
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/84
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Cine_Classic" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusclassic.png" group-title="Dooby",Cine_Classic
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/82
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="Cine_POLAR" tvg-logo="http://logofun.ddns.net:25461/logo/cinepolar.png" group-title="Dooby",Cine_POLAR
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/128
+#EXTINF:-1 tvg-ID="OCSGeants.fr" tvg-name="OCS_GEANT" tvg-logo="http://logofun.ddns.net:25461/logo/ocsgeants.png" group-title="Dooby",OCS_GEANT
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/90
+#EXTINF:-1 tvg-ID="OCSChoc.fr" tvg-name="OCS_CHOC" tvg-logo="http://logofun.ddns.net:25461/logo/ocschoc.png" group-title="Dooby",OCS_CHOC
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/89
+#EXTINF:-1 tvg-ID="OCSCity.fr" tvg-name="OCS_City" tvg-logo="http://logofun.ddns.net:25461/logo/ocscity.png" group-title="Dooby",OCS_City
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/88
+#EXTINF:-1 tvg-ID="" tvg-name="OCS_Max" tvg-logo="http://logofun.ddns.net:25461/logo/ocsmax.png" group-title="Dooby",OCS_Max
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/87
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="TF1" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Dooby",TF1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3316
+#EXTINF:-1 tvg-ID="" tvg-name="TF1_+1" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Dooby",TF1_+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51664
+#EXTINF:-1 tvg-ID="" tvg-name="TF1_SERIES_FILMS" tvg-logo="http://logofun.ddns.net:25461/logo/tf1seriesfilms.png" group-title="Dooby",TF1_SERIES_FILMS
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3224
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="M6" tvg-logo="http://logofun.ddns.net:25461/logo/m6.png" group-title="Dooby",M6
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2664
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="RTL9" tvg-logo="http://logofun.ddns.net:25461/logo/rtl9.png" group-title="Dooby",RTL9
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/375
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="13eme_Rue" tvg-logo="http://logofun.ddns.net:25461/logo/13emerue.png" group-title="Dooby",13eme_Rue
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3346
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="W9" tvg-logo="http://logofun.ddns.net:25461/logo/w9.png" group-title="Dooby",W9
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3221
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="ACTION" tvg-logo="http://logofun.ddns.net:25461/logo/action.png" group-title="Dooby",ACTION
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/126
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Syfy" tvg-logo="http://logofun.ddns.net:25461/logo/syfy.png" group-title="Dooby",Syfy
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3220
+#EXTINF:-1 tvg-ID="" tvg-name="MY_CUISINE" tvg-logo="" group-title="Dooby",MY_CUISINE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52702
+#EXTINF:-1 tvg-ID="" tvg-name="MY_COMEDY" tvg-logo="" group-title="Dooby",MY_COMEDY
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52489
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="C_Star" tvg-logo="http://logofun.ddns.net:25461/logo/cstar.png" group-title="Dooby",C_Star
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/103
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="C8" tvg-logo="http://logofun.ddns.net:25461/logo/c8.png" group-title="Dooby",C8
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/102
+#EXTINF:-1 tvg-ID="" tvg-name="TREK" tvg-logo="http://logofun.ddns.net:25461/logo/trek.png" group-title="Dooby",TREK
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3678
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="TFX" tvg-logo="http://logofun.ddns.net:25461/logo/tfx.png" group-title="Dooby",TFX
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/376
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="TCM_Cinema" tvg-logo="http://logofun.ddns.net:25461/logo/tcmcinema.png" group-title="Dooby",TCM_Cinema
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1696
+#EXTINF:-1 tvg-ID="Série Club HD FR" tvg-name="SERIE_CLUB" tvg-logo="http://logofun.ddns.net:25461/logo/serieclub.png" group-title="Dooby",SERIE_CLUB
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3222
+#EXTINF:-1 tvg-ID="6ter HD FR" tvg-name="6ter" tvg-logo="http://logofun.ddns.net:25461/logo/6ter.png" group-title="Dooby",6ter
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2499
+#EXTINF:-1 tvg-ID="Téva FHD FR" tvg-name="TEVA" tvg-logo="http://logofun.ddns.net:25461/logo/teva.png" group-title="Dooby",TEVA
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2501
+#EXTINF:-1 tvg-ID="" tvg-name="Crime_District" tvg-logo="http://logofun.ddns.net:25461/logo/crimedistrict.png" group-title="Dooby",Crime_District
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51046
+#EXTINF:-1 tvg-ID="" tvg-name="Tvm3" tvg-logo="" group-title="Dooby",Tvm3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2660
+#EXTINF:-1 tvg-ID="TMC FHD FR" tvg-name="TMC" tvg-logo="http://logofun.ddns.net:25461/logo/tmc.png" group-title="Dooby",TMC
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3223
+#EXTINF:-1 tvg-ID="" tvg-name="AB3" tvg-logo="http://logofun.ddns.net:25461/logo/ab3.png" group-title="Dooby",AB3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1694
+#EXTINF:-1 tvg-ID="" tvg-name="Arte" tvg-logo="http://logofun.ddns.net:25461/logo/arte.png" group-title="Dooby",Arte
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/373
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="Chasse_et_Peche" tvg-logo="http://logofun.ddns.net:25461/logo/chasseetpeche.png" group-title="Dooby",Chasse_et_Peche
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/116
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="NATIONAL_GEO" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographic.png" group-title="Dooby",NATIONAL_GEO
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/113
+#EXTINF:-1 tvg-ID="Paramount Channel HD FR" tvg-name="PARAMOUNT_CHANNEL" tvg-logo="http://logofun.ddns.net:25461/logo/paramountchannel.png" group-title="Dooby",PARAMOUNT_CHANNEL
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2291
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT_CHANNEL_DECALE" tvg-logo="" group-title="Dooby",PARAMOUNT_CHANNEL_DECALE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51173
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL_GEO_WILD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographicwild.png" group-title="Dooby",NATIONAL_GEO_WILD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3397
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Science_et_Vie" tvg-logo="http://logofun.ddns.net:25461/logo/Science_et_Vie.jpg" group-title="Dooby",Science_et_Vie
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2662
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ_12" tvg-logo="http://logofun.ddns.net:25461/logo/nrj12.png" group-title="Dooby",NRJ_12
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1456
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="PARIS_PREMIERE" tvg-logo="http://logofun.ddns.net:25461/logo/parispremiere.png" group-title="Dooby",PARIS_PREMIERE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/119
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="AB_MOTEURS" tvg-logo="http://logofun.ddns.net:25461/logo/abmoteurs.png" group-title="Dooby",AB_MOTEURS
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1792
+#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="http://logofun.ddns.net:25461/logo/ab1.png" group-title="Dooby",AB1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/123
+#EXTINF:-1 tvg-ID="TV Breizh FR" tvg-name="TVBREIZH" tvg-logo="http://logofun.ddns.net:25461/logo/tvbreizh.png" group-title="Dooby",TVBREIZH
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1562
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE+" tvg-logo="http://logofun.ddns.net:25461/logo/comedieplus.png" group-title="Dooby",COMEDIE+
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1458
+#EXTINF:-1 tvg-ID="" tvg-name="ELLE_GIRL" tvg-logo="http://logofun.ddns.net:25461/logo/ellegirl.png" group-title="Dooby",ELLE_GIRL
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3184
+#EXTINF:-1 tvg-ID="" tvg-name="Cherie_25" tvg-logo="http://logofun.ddns.net:25461/logo/cherie25.png" group-title="Dooby",Cherie_25
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1459
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://logofun.ddns.net:25461/logo/animaux.png" group-title="Dooby",ANIMAUX
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/114
+#EXTINF:-1 tvg-ID="" tvg-name="IL_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ILTV.png" group-title="Dooby",IL_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1685
+#EXTINF:-1 tvg-ID="" tvg-name="Alsace_20" tvg-logo="http://logofun.ddns.net:25461/logo/Alsace20.png" group-title="Dooby",Alsace_20
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1683
+#EXTINF:-1 tvg-ID="" tvg-name="Toute_l'Histoire" tvg-logo="http://logofun.ddns.net:25461/logo/toutelhistoire.png" group-title="Dooby",Toute_l'Histoire
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4496
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="Ushuaia_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ushuaiatv.png" group-title="Dooby",Ushuaia_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/112
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="Discovery" tvg-logo="http://logofun.ddns.net:25461/logo/discoverychannel.png" group-title="Dooby",Discovery
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/109
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="Discovery_Science" tvg-logo="http://logofun.ddns.net:25461/logo/discoveryscience-clivebesle.png" group-title="Dooby",Discovery_Science
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/110
+#EXTINF:-1 tvg-ID="" tvg-name="I24" tvg-logo="" group-title="Dooby",I24
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1644
+#EXTINF:-1 tvg-ID="" tvg-name="Voyage" tvg-logo="" group-title="Dooby",Voyage
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/124
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE_A&E" tvg-logo="http://logofun.ddns.net:25461/logo/planeteplusaventureexperience.png" group-title="Dooby",PLANETE_A&E
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4495
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="PLANETE+_CI" tvg-logo="" group-title="Dooby",PLANETE+_CI
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2058
+#EXTINF:-1 tvg-ID="" tvg-name="PLANETE+" tvg-logo="http://logofun.ddns.net:25461/logo/Planete+.png" group-title="Dooby",PLANETE+
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4494
+#EXTINF:-1 tvg-ID="" tvg-name="BFM_Business" tvg-logo="http://logofun.ddns.net:25461/logo/bfmbusiness.png" group-title="Dooby",BFM_Business
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/379
+#EXTINF:-1 tvg-ID="" tvg-name="BFM_TV" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Dooby",BFM_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/378
+#EXTINF:-1 tvg-ID="" tvg-name="BFM_PARIS" tvg-logo="http://logofun.ddns.net:25461/logo/bfmparis.png" group-title="Dooby",BFM_PARIS
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48846
+#EXTINF:-1 tvg-ID="" tvg-name="BFM_LYON" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Dooby",BFM_LYON
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52487
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="BFM_LILLE" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Dooby",BFM_LILLE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52488
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="SEASON" tvg-logo="http://logofun.ddns.net:25461/logo/seasons.png" group-title="Dooby",SEASON
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2892
+#EXTINF:-1 tvg-ID="" tvg-name="M6_Music" tvg-logo="http://logofun.ddns.net:25461/logo/m6music.png" group-title="Dooby",M6_Music
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/97
+#EXTINF:-1 tvg-ID="" tvg-name="MTV_Base" tvg-logo="http://logofun.ddns.net:25461/logo/mtvbase.png" group-title="Dooby",MTV_Base
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1667
+#EXTINF:-1 tvg-ID="CanalPlusDiscovery.pl" tvg-name="MTV_MUSIC" tvg-logo="http://logofun.ddns.net:25461/logo/mtvmusic.png" group-title="Dooby",MTV_MUSIC
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1668
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ_hit" tvg-logo="" group-title="Dooby",NRJ_hit
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1455
+#EXTINF:-1 tvg-ID="" tvg-name="France_24" tvg-logo="" group-title="Dooby",France_24
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/101
+#EXTINF:-1 tvg-ID="" tvg-name="LA_CHAINE_NORMANDIE" tvg-logo="http://logofun.ddns.net:25461/logo/LA_CHAINE_NORMANDIE.JPG" group-title="Dooby",LA_CHAINE_NORMANDIE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1686
+#EXTINF:-1 tvg-ID="" tvg-name="TV5_MONDE" tvg-logo="http://logofun.ddns.net:25461/logo/tv5monde.png" group-title="Dooby",TV5_MONDE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49608
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="Gulli" tvg-logo="http://logofun.ddns.net:25461/logo/gulli.png" group-title="Dooby",Gulli
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/117
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon.png" group-title="Dooby",Nickelodeon
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3843
+#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="http://logofun.ddns.net:25461/logo/mangas.png" group-title="Dooby",Mangas
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/122
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="Nickelodeon_4_Teens" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon4teen.jpg" group-title="Dooby",Nickelodeon_4_Teens
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4727
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="Piwi" tvg-logo="http://logofun.ddns.net:25461/logo/piwiplus.png" group-title="Dooby",Piwi
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/374
+#EXTINF:-1 tvg-ID="" tvg-name="TELETOON+" tvg-logo="http://logofun.ddns.net:25461/logo/teletoonplus.png" group-title="Dooby",TELETOON+
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/94
+#EXTINF:-1 tvg-ID="TIJI HD FR" tvg-name="TIJI" tvg-logo="http://logofun.ddns.net:25461/logo/tiji.png" group-title="Dooby",TIJI
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2102
+#EXTINF:-1 tvg-ID="" tvg-name="GINX_TV" tvg-logo="" group-title="Dooby",GINX_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52053
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="DISNEY_JUNIOR" tvg-logo="http://logofun.ddns.net:25461/logo/disneyjunior.png" group-title="Dooby",DISNEY_JUNIOR
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48619
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY_CHANNEL_+1" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannelplus1.png" group-title="Dooby",DISNEY_CHANNEL_+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3174
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="Disney_Channel" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannel.png" group-title="Dooby",Disney_Channel
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/120
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="http://logofun.ddns.net:25461/logo/boing.png" group-title="Dooby",BOING
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1457
+#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="J-ONE" tvg-logo="http://logofun.ddns.net:25461/logo/j-one.jpg" group-title="Dooby",J-ONE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48781
+#EXTINF:-1 tvg-ID="Toonami FHD FR" tvg-name="TOONAMI" tvg-logo="http://logofun.ddns.net:25461/logo/toonami.png" group-title="Dooby",TOONAMI
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50800
+#EXTINF:-1 tvg-ID="Cartoon Network HD FR" tvg-name="Cartoon_Network" tvg-logo="http://logofun.ddns.net:25461/logo/cartoonnetwork.png" group-title="Dooby",Cartoon_Network
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50953
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="Disney_Cinema" tvg-logo="http://logofun.ddns.net:25461/logo/disneycinema.png" group-title="Dooby",Disney_Cinema
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50936
+#EXTINF:-1 tvg-ID="Nick Jr. FR" tvg-name="NICKELODEON_JR" tvg-logo="http://logofun.ddns.net:25461/logo/nickelodeonjunior.png" group-title="Dooby",NICKELODEON_JR
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51662
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="GAME_ONE" tvg-logo="http://logofun.ddns.net:25461/logo/Game_One.png" group-title="Dooby",GAME_ONE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2105
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="Boomerang" tvg-logo="http://logofun.ddns.net:25461/logo/boomerang.png" group-title="Dooby",Boomerang
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1461
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="Equidia_Live" tvg-logo="http://logofun.ddns.net:25461/logo/Equidia Live.png" group-title="Dooby",Equidia_Live
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2897
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="INFOSPORT" tvg-logo="http://logofun.ddns.net:25461/logo/infosportplus.png" group-title="Dooby",INFOSPORT
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/91
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="GOLF+" tvg-logo="http://logofun.ddns.net:25461/logo/golfplus.png" group-title="Dooby",GOLF+
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2452
+#EXTINF:-1 tvg-ID="" tvg-name="Golf" tvg-logo="" group-title="Dooby",Golf
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49862
+#EXTINF:-1 tvg-ID="" tvg-name="Foot+ 24/24" tvg-logo="http://logofun.ddns.net:25461/logo/footplus2424.png" group-title="Dooby",Foot+ 24/24
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51646
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_1" tvg-logo="" group-title="Dooby",BeIN_SPORTS_1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3682
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_2" tvg-logo="" group-title="Dooby",BeIN_SPORTS_2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47302
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_SPORTS_3" tvg-logo="" group-title="Dooby",BeIN_SPORTS_3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3680
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="RMC_Sport_03" tvg-logo="http://logofun.ddns.net:25461/logo/Sfr_sport_3.jpg" group-title="Dooby",RMC_Sport_03
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46712
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_1" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport1.png" group-title="Dooby",EUROSPORT_1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51512
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT_2" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport2.png" group-title="Dooby",EUROSPORT_2
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51513
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Sport_01" tvg-logo="http://logofun.ddns.net:25461/logo/SFR-Sport-1.jpg" group-title="Dooby",RMC_Sport_01
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3720
+#EXTINF:-1 tvg-ID="" tvg-name="L_EQUIPE" tvg-logo="" group-title="Dooby",L_EQUIPE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52719
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY_FAMILY" tvg-logo="" group-title="Dooby",DISCOVERY_FAMILY
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52741
+#EXTINF:-1 tvg-ID="" tvg-name="FOOT+ 24/24 HD" tvg-logo="" group-title="Dooby",FOOT+ 24/24 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47781
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="RMC_Sport_02" tvg-logo="http://logofun.ddns.net:25461/logo/sfr_sport_2.jpg" group-title="Dooby",RMC_Sport_02
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46711
+#EXTINF:-1 tvg-ID="" tvg-name="Euronews" tvg-logo="" group-title="Dooby",Euronews
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52821
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Sport_01_FullHD" tvg-logo="" group-title="Dooby",RMC_Sport_01_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2252
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Sport_02_FullHD" tvg-logo="" group-title="Dooby",RMC_Sport_02_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2103
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Sport_03_FullHD" tvg-logo="" group-title="Dooby",RMC_Sport_03_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2279
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_Sport_04" tvg-logo="" group-title="Dooby",RMC_Sport_04
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50383
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_04_FullHD" tvg-logo="" group-title="Dooby",RMC_SPORT_04_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50384
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_ACCESS_SPORT_01" tvg-logo="" group-title="Dooby",RMC_ACCESS_SPORT_01
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51267
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_ACCESS_SPORT_02" tvg-logo="" group-title="Dooby",RMC_ACCESS_SPORT_02
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51268
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 5" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51276
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 6" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 6
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51275
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 7" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 7
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51274
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 8" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 8
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51273
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 9" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 9
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51272
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 10" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 10
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51271
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 11" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 11
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51270
+#EXTINF:-1 tvg-ID="" tvg-name="RMC_SPORT_LIVE 12" tvg-logo="" group-title="Dooby",RMC_SPORT_LIVE 12
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51269
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="Dooby",TELEFOOT HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52916
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT FHD" tvg-logo="" group-title="Dooby",TELEFOOT FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52918
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT 4K" tvg-logo="" group-title="Dooby",TELEFOOT 4K
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53043
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 1 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53117
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 1 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 1 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53125
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 2 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53118
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 2 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 2 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53126
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 3 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53124
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 3 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 3 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53127
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 4 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53119
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 4 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 4 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53128
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 5 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53120
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 5 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 5 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53129
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 6 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53121
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 6 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 6 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53130
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 7 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53122
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 7 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 7 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53131
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="Dooby",TELEFOOT STADIUM 8 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53123
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT Stadium 8 FHD" tvg-logo="" group-title="Dooby",TELEFOOT Stadium 8 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53132
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6Ter" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="Ky IPTV",6Ter
 http://ky-iptv.com:25461/iPpXbEdsG9/jfw0GAcJkn/182257
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Ky IPTV",ARTE
