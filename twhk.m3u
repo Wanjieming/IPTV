@@ -1,1571 +1,287 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://api.myeytv.me/logo/r_2448.png" group-title="CRTV",翡翠台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://live.crhoy.ml:8080/logo/r_2415.png" group-title="CRTV",明珠台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/2
-#EXTINF:-1 tvg-id="130" tvg-name="无线新聞" tvg-logo="http://live.crhoy.ml:8080/logo/r_2411.png" group-title="CRTV",无线新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新聞" tvg-logo="http://live.crhoy.ml:8080/logo/r_2323.png" group-title="CRTV",有线新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/4
-#EXTINF:-1 tvg-id="408" tvg-name="Viutv" tvg-logo="http://live.crhoy.ml:8080/logo/r_2413.png" group-title="CRTV",Viutv
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
-#EXTINF:-1 tvg-id="" tvg-name="Viutv 6" tvg-logo="http://live.crhoy.ml:8080/logo/r_2414.png" group-title="CRTV",Viutv 6
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/6
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://live.crhoy.ml:8080/logo/r_2375.png" group-title="CRTV",无线财经
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/7
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://live.crhoy.ml:8080/logo/r_2451.png" group-title="CRTV",J2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="http://live.crhoy.ml:8080/logo/r_2334.png" group-title="CRTV",香港開電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/9
-#EXTINF:-1 tvg-id="1" tvg-name="NOW新聞" tvg-logo="http://live.crhoy.ml:8080/logo/r_2453.png" group-title="CRTV",NOW新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/10
-#EXTINF:-1 tvg-id="" tvg-name="NOW直播" tvg-logo="http://live.crhoy.ml:8080/logo/r_2453.png" group-title="CRTV",NOW直播
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/11
-#EXTINF:-1 tvg-id="" tvg-name="港台31" tvg-logo="http://live.crhoy.ml:8080/logo/r_2456.png" group-title="CRTV",港台31
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/12
-#EXTINF:-1 tvg-id="" tvg-name="港台32" tvg-logo="http://live.crhoy.ml:8080/logo/r_2457.png" group-title="CRTV",港台32
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/13
-#EXTINF:-1 tvg-id="131" tvg-name="TVB星河" tvg-logo="http://live.crhoy.ml:8080/logo/r_2417.png" group-title="CRTV",TVB星河
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/14
-#EXTINF:-1 tvg-id="" tvg-name="有线娛樂" tvg-logo="http://live.crhoy.ml:8080/logo/r_2328.png" group-title="CRTV",有线娛樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/15
-#EXTINF:-1 tvg-id="7239" tvg-name="有线603台" tvg-logo="http://live.crhoy.ml:8080/logo/r_2380.png" group-title="CRTV",有线603台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/16
-#EXTINF:-1 tvg-id="" tvg-name="有线18台" tvg-logo="http://live.crhoy.ml:8080/logo/r_2326.png" group-title="CRTV",有线18台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/17
-#EXTINF:-1 tvg-id="" tvg-name="有线体育" tvg-logo="" group-title="CRTV",有线体育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/789
-#EXTINF:-1 tvg-id="" tvg-name="有线电影1" tvg-logo="http://live.crhoy.ml:8080/logo/r_2377.png" group-title="CRTV",有线电影1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/21
-#EXTINF:-1 tvg-id="7125" tvg-name="廣東珠江" tvg-logo="http://live.crhoy.ml:8080/logo/r_2350.png" group-title="FMITV",廣東珠江
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/258
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="FMITV",CCTV1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/460
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="FMITV",CCTV2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/461
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="FMITV",CCTV3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/462
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="FMITV",CCTV4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/463
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="FMITV",CCTV5
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/464
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5plus" tvg-logo="" group-title="FMITV",CCTV5plus
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/465
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="FMITV",CCTV6
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/466
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="FMITV",CCTV7
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/467
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="FMITV",CCTV8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/468
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="FMITV",CCTV9
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/469
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="FMITV",CCTV10
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/470
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="FMITV",CCTV11
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/471
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="FMITV",CCTV12
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/472
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="FMITV",CCTV13
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/473
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="FMITV",CCTV14
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/474
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="FMITV",CCTV15
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/475
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="FMITV",厦门卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/476
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="FMITV",浙江卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/477
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="FMITV",江苏卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/478
-#EXTINF:-1 tvg-id="" tvg-name="南方粤语" tvg-logo="" group-title="FMITV",南方粤语
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/479
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="FMITV",北京卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/480
-#EXTINF:-1 tvg-id="" tvg-name="CCTVNEWS" tvg-logo="" group-title="FMITV",CCTVNEWS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/481
-#EXTINF:-1 tvg-id="" tvg-name="CCTV娱乐" tvg-logo="" group-title="FMITV",CCTV娱乐
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/482
-#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="" group-title="FMITV",海峡卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/483
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="FMITV",东方卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/484
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="FMITV",河北卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/485
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="FMITV",湖南卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/486
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="FMITV",湖北卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/487
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="FMITV",东南卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/488
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="FMITV",辽宁卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/489
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="FMITV",深圳卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/490
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="FMITV",广东卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/491
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="FMITV",安徽卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/492
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="FMITV",四川卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/493
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="FMITV",山东卫视
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/494
-#EXTINF:-1 tvg-id="" tvg-name="民視" tvg-logo="" group-title="FMITV",民視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/49
-#EXTINF:-1 tvg-id="" tvg-name="華視" tvg-logo="" group-title="FMITV",華視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/51
-#EXTINF:-1 tvg-id="" tvg-name="中視" tvg-logo="" group-title="FMITV",中視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/53
-#EXTINF:-1 tvg-id="" tvg-name="台視" tvg-logo="" group-title="FMITV",台視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/55
-#EXTINF:-1 tvg-id="" tvg-name="公視" tvg-logo="" group-title="FMITV",公視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/57
-#EXTINF:-1 tvg-id="" tvg-name="三立都會" tvg-logo="" group-title="FMITV",三立都會
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/59
-#EXTINF:-1 tvg-id="" tvg-name="三立臺灣" tvg-logo="" group-title="FMITV",三立臺灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/60
-#EXTINF:-1 tvg-id="" tvg-name="緯來日本" tvg-logo="" group-title="FMITV",緯來日本
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/62
-#EXTINF:-1 tvg-id="" tvg-name="JET綜合" tvg-logo="" group-title="FMITV",JET綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/63
-#EXTINF:-1 tvg-id="" tvg-name="壹電視綜合" tvg-logo="" group-title="FMITV",壹電視綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/64
-#EXTINF:-1 tvg-id="" tvg-name="八大綜合" tvg-logo="" group-title="FMITV",八大綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/65
-#EXTINF:-1 tvg-id="" tvg-name="八大第一" tvg-logo="" group-title="FMITV",八大第一
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/66
-#EXTINF:-1 tvg-id="" tvg-name="八大精彩" tvg-logo="" group-title="FMITV",八大精彩
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/67
-#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="" group-title="FMITV",TVBS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/68
-#EXTINF:-1 tvg-id="" tvg-name="TVBS綜合" tvg-logo="" group-title="FMITV",TVBS綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/69
-#EXTINF:-1 tvg-id="" tvg-name="TVBS精采" tvg-logo="" group-title="FMITV",TVBS精采
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/70
-#EXTINF:-1 tvg-id="" tvg-name="TVBS歡樂臺" tvg-logo="" group-title="FMITV",TVBS歡樂臺
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/71
-#EXTINF:-1 tvg-id="" tvg-name="民視第一台" tvg-logo="" group-title="FMITV",民視第一台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/72
-#EXTINF:-1 tvg-id="" tvg-name="民視台灣" tvg-logo="" group-title="FMITV",民視台灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/73
-#EXTINF:-1 tvg-id="" tvg-name="國興衛視" tvg-logo="" group-title="FMITV",國興衛視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/74
-#EXTINF:-1 tvg-id="" tvg-name="緯來育樂" tvg-logo="" group-title="FMITV",緯來育樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/75
-#EXTINF:-1 tvg-id="" tvg-name="緯來育樂" tvg-logo="" group-title="FMITV",緯來育樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/76
-#EXTINF:-1 tvg-id="" tvg-name="中天綜合" tvg-logo="" group-title="FMITV",中天綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/77
-#EXTINF:-1 tvg-id="" tvg-name="星衛娛樂" tvg-logo="" group-title="FMITV",星衛娛樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/79
-#EXTINF:-1 tvg-id="" tvg-name="VTV4" tvg-logo="" group-title="FMITV",VTV4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/80
-#EXTINF:-1 tvg-id="" tvg-name="龍翔時代" tvg-logo="" group-title="FMITV",龍翔時代
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/81
-#EXTINF:-1 tvg-id="" tvg-name="靖天國際" tvg-logo="" group-title="FMITV",靖天國際
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/82
-#EXTINF:-1 tvg-id="" tvg-name="靖天綜合" tvg-logo="" group-title="FMITV",靖天綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/83
-#EXTINF:-1 tvg-id="" tvg-name="靖天育樂" tvg-logo="" group-title="FMITV",靖天育樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/84
-#EXTINF:-1 tvg-id="" tvg-name="靖天日本" tvg-logo="" group-title="FMITV",靖天日本
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/85
-#EXTINF:-1 tvg-id="" tvg-name="靖天歡樂" tvg-logo="" group-title="FMITV",靖天歡樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/86
-#EXTINF:-1 tvg-id="" tvg-name="靖天資訊" tvg-logo="" group-title="FMITV",靖天資訊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/87
-#EXTINF:-1 tvg-id="" tvg-name="中天娛樂" tvg-logo="" group-title="FMITV",中天娛樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/88
-#EXTINF:-1 tvg-id="" tvg-name="緯來綜合" tvg-logo="" group-title="FMITV",緯來綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/89
-#EXTINF:-1 tvg-id="" tvg-name="中視菁采台" tvg-logo="" group-title="FMITV",中視菁采台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/90
-#EXTINF:-1 tvg-id="" tvg-name="世新綜合" tvg-logo="" group-title="FMITV",世新綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/92
-#EXTINF:-1 tvg-id="" tvg-name="龍華日韓" tvg-logo="" group-title="FMITV",龍華日韓
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/93
-#EXTINF:-1 tvg-id="" tvg-name="龍華偶像" tvg-logo="" group-title="FMITV",龍華偶像
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/94
-#EXTINF:-1 tvg-id="" tvg-name="龍華經典" tvg-logo="" group-title="FMITV",龍華經典
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/95
-#EXTINF:-1 tvg-id="" tvg-name="韓國娛樂台" tvg-logo="" group-title="FMITV",韓國娛樂台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/96
-#EXTINF:-1 tvg-id="" tvg-name="客家電視" tvg-logo="" group-title="FMITV",客家電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/97
-#EXTINF:-1 tvg-id="" tvg-name="ELTA娛樂台" tvg-logo="" group-title="FMITV",ELTA娛樂台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/99
-#EXTINF:-1 tvg-id="" tvg-name="法國時裝" tvg-logo="" group-title="FMITV",法國時裝
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/100
-#EXTINF:-1 tvg-id="" tvg-name="LUXE" tvg-logo="" group-title="FMITV",LUXE
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/101
-#EXTINF:-1 tvg-id="" tvg-name="達文西頻道" tvg-logo="" group-title="FMITV",達文西頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/102
-#EXTINF:-1 tvg-id="" tvg-name="幸福空間居家" tvg-logo="" group-title="FMITV",幸福空間居家
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/103
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="FMITV",Travel Channel
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/104
-#EXTINF:-1 tvg-id="" tvg-name="好消息" tvg-logo="" group-title="FMITV",好消息
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/105
-#EXTINF:-1 tvg-id="" tvg-name="好消息2" tvg-logo="" group-title="FMITV",好消息2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/106
-#EXTINF:-1 tvg-id="" tvg-name="信吉電視" tvg-logo="" group-title="FMITV",信吉電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/107
-#EXTINF:-1 tvg-id="" tvg-name="東森超視" tvg-logo="" group-title="FMITV",東森超視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/108
-#EXTINF:-1 tvg-id="" tvg-name="三立都會" tvg-logo="" group-title="FMITV",三立都會
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/109
-#EXTINF:-1 tvg-id="" tvg-name="東森綜合" tvg-logo="" group-title="FMITV",東森綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/110
-#EXTINF:-1 tvg-id="" tvg-name="三立臺灣" tvg-logo="" group-title="FMITV",三立臺灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/111
-#EXTINF:-1 tvg-id="" tvg-name="中天亞洲" tvg-logo="" group-title="FMITV",中天亞洲
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/112
-#EXTINF:-1 tvg-id="" tvg-name="衛視中文" tvg-logo="" group-title="FMITV",衛視中文
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/113
-#EXTINF:-1 tvg-id="" tvg-name="國興衛視" tvg-logo="" group-title="FMITV",國興衛視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/114
-#EXTINF:-1 tvg-id="" tvg-name="高點綜合" tvg-logo="" group-title="FMITV",高點綜合
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/115
-#EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="FMITV",台視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/116
-#EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="FMITV",台視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/117
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新聞" tvg-logo="" group-title="FMITV",TVBS新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/119
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="" group-title="FMITV",中天新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/120
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="" group-title="FMITV",中天新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/121
-#EXTINF:-1 tvg-id="" tvg-name="三立LIVE新聞" tvg-logo="" group-title="FMITV",三立LIVE新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/122
-#EXTINF:-1 tvg-id="" tvg-name="華視新聞" tvg-logo="" group-title="FMITV",華視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/124
-#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="" group-title="FMITV",中視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/126
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="" group-title="FMITV",iNEWS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/128
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="" group-title="FMITV",東森新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/130
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="" group-title="FMITV",東森財經新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/133
-#EXTINF:-1 tvg-id="" tvg-name="民視新聞" tvg-logo="" group-title="FMITV",民視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/134
-#EXTINF:-1 tvg-id="" tvg-name="寰宇臺灣" tvg-logo="" group-title="FMITV",寰宇臺灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/135
-#EXTINF:-1 tvg-id="" tvg-name="年代新聞" tvg-logo="" group-title="FMITV",年代新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/136
-#EXTINF:-1 tvg-id="" tvg-name="壹電視新聞" tvg-logo="" group-title="FMITV",壹電視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/137
-#EXTINF:-1 tvg-id="" tvg-name="非凡新聞" tvg-logo="" group-title="FMITV",非凡新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/138
-#EXTINF:-1 tvg-id="" tvg-name="中華財經" tvg-logo="" group-title="FMITV",中華財經
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/139
-#EXTINF:-1 tvg-id="" tvg-name="台視財經" tvg-logo="" group-title="FMITV",台視財經
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/140
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="FMITV",FRANCE 24
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/141
-#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="" group-title="FMITV",DW News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/142
-#EXTINF:-1 tvg-id="" tvg-name="新唐人亞太台" tvg-logo="" group-title="FMITV",新唐人亞太台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/143
-#EXTINF:-1 tvg-id="" tvg-name="美國唐人街台" tvg-logo="" group-title="FMITV",美國唐人街台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/144
-#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="" group-title="FMITV",CBN News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/145
-#EXTINF:-1 tvg-id="" tvg-name="寰宇新聞" tvg-logo="" group-title="FMITV",寰宇新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/146
-#EXTINF:-1 tvg-id="" tvg-name="民視影劇" tvg-logo="" group-title="FMITV",民視影劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/147
-#EXTINF:-1 tvg-id="" tvg-name="東森電影" tvg-logo="" group-title="FMITV",東森電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/148
-#EXTINF:-1 tvg-id="" tvg-name="東森洋片" tvg-logo="" group-title="FMITV",東森洋片
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/149
-#EXTINF:-1 tvg-id="" tvg-name="衛視電影" tvg-logo="" group-title="FMITV",衛視電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/150
-#EXTINF:-1 tvg-id="" tvg-name="星衛電影" tvg-logo="" group-title="FMITV",星衛電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/151
-#EXTINF:-1 tvg-id="" tvg-name="東森戲劇" tvg-logo="" group-title="FMITV",東森戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/152
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="FMITV",FOX MOVIES
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/153
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="FMITV",AXN
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/155
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="FMITV",AMC
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/156
-#EXTINF:-1 tvg-id="" tvg-name="緯來電影" tvg-logo="" group-title="FMITV",緯來電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/157
-#EXTINF:-1 tvg-id="" tvg-name="華納電影" tvg-logo="" group-title="FMITV",華納電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/158
-#EXTINF:-1 tvg-id="" tvg-name="美亞電影" tvg-logo="" group-title="FMITV",美亞電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/159
-#EXTINF:-1 tvg-id="" tvg-name="天映經典" tvg-logo="" group-title="FMITV",天映經典
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/160
-#EXTINF:-1 tvg-id="" tvg-name="好萊塢電影" tvg-logo="" group-title="FMITV",好萊塢電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/161
-#EXTINF:-1 tvg-id="" tvg-name="八大戲劇" tvg-logo="" group-title="FMITV",八大戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/162
-#EXTINF:-1 tvg-id="" tvg-name="公視戲劇" tvg-logo="" group-title="FMITV",公視戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/163
-#EXTINF:-1 tvg-id="" tvg-name="三立戲劇" tvg-logo="" group-title="FMITV",三立戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/164
-#EXTINF:-1 tvg-id="" tvg-name="緯來戲劇" tvg-logo="" group-title="FMITV",緯來戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/165
-#EXTINF:-1 tvg-id="" tvg-name="龍華戲劇" tvg-logo="" group-title="FMITV",龍華戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/166
-#EXTINF:-1 tvg-id="" tvg-name="靖洋戲劇" tvg-logo="" group-title="FMITV",靖洋戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/167
-#EXTINF:-1 tvg-id="" tvg-name="靖天電影" tvg-logo="" group-title="FMITV",靖天電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/168
-#EXTINF:-1 tvg-id="" tvg-name="衛視西片" tvg-logo="" group-title="FMITV",衛視西片
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/169
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="" group-title="FMITV",FOX CRIME
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/170
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="FMITV",HBO HD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/171
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰衛視電影" tvg-logo="" group-title="FMITV",鳳凰衛視電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/172
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="" group-title="FMITV",FOX ACTION
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/173
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="" group-title="FMITV",HBO Hits
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/174
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="FMITV",HBO Family
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/175
-#EXTINF:-1 tvg-id="" tvg-name="采昌影劇" tvg-logo="" group-title="FMITV",采昌影劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/176
-#EXTINF:-1 tvg-id="" tvg-name="靖天映畫" tvg-logo="" group-title="FMITV",靖天映畫
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/177
-#EXTINF:-1 tvg-id="" tvg-name="影迷數位電影" tvg-logo="" group-title="FMITV",影迷數位電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/178
-#EXTINF:-1 tvg-id="" tvg-name="CineMAX" tvg-logo="" group-title="FMITV",CineMAX
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/179
-#EXTINF:-1 tvg-id="" tvg-name="靖天戲劇" tvg-logo="" group-title="FMITV",靖天戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/180
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-logo="" group-title="FMITV",FOX Family
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/181
-#EXTINF:-1 tvg-id="" tvg-name="龍華經典" tvg-logo="" group-title="FMITV",龍華經典
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/182
-#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="" group-title="FMITV",HBOSignature
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/183
-#EXTINF:-1 tvg-id="" tvg-name="龍華電影" tvg-logo="" group-title="FMITV",龍華電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/184
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="FMITV",FOX
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/185
-#EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="" group-title="FMITV",緯來體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/186
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="" group-title="FMITV",FOX Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/187
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="" group-title="FMITV",FOX Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/188
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="" group-title="FMITV",Eleven Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/189
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="" group-title="FMITV",Eleven Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/190
-#EXTINF:-1 tvg-id="" tvg-name="Z頻道" tvg-logo="" group-title="FMITV",Z頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/191
-#EXTINF:-1 tvg-id="" tvg-name="FOX體育2" tvg-logo="" group-title="FMITV",FOX體育2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/192
-#EXTINF:-1 tvg-id="" tvg-name="FOX體育3" tvg-logo="" group-title="FMITV",FOX體育3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/193
-#EXTINF:-1 tvg-id="" tvg-name="皇馬足球" tvg-logo="" group-title="FMITV",皇馬足球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/194
-#EXTINF:-1 tvg-id="" tvg-name="博斯無限" tvg-logo="" group-title="FMITV",博斯無限
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/195
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球1" tvg-logo="" group-title="FMITV",博斯高球1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/196
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球2" tvg-logo="" group-title="FMITV",博斯高球2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/197
-#EXTINF:-1 tvg-id="" tvg-name="博斯魅力" tvg-logo="" group-title="FMITV",博斯魅力
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/198
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動2" tvg-logo="" group-title="FMITV",博斯運動2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/199
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動1" tvg-logo="" group-title="FMITV",博斯運動1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/200
-#EXTINF:-1 tvg-id="" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="FMITV",TRACE Sport Stars
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/201
-#EXTINF:-1 tvg-id="" tvg-name="智林體育" tvg-logo="" group-title="FMITV",智林體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/202
-#EXTINF:-1 tvg-id="" tvg-name="時尚運動X" tvg-logo="" group-title="FMITV",時尚運動X
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/203
-#EXTINF:-1 tvg-id="" tvg-name="bein體育1" tvg-logo="" group-title="FMITV",bein體育1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/204
-#EXTINF:-1 tvg-id="" tvg-name="bein體育2" tvg-logo="" group-title="FMITV",bein體育2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/205
-#EXTINF:-1 tvg-id="" tvg-name="bein體育3" tvg-logo="" group-title="FMITV",bein體育3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/206
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育" tvg-logo="" group-title="FMITV",愛爾達體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/207
-#EXTINF:-1 tvg-id="" tvg-name="TLC旅遊台灣" tvg-logo="" group-title="FMITV",TLC旅遊台灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/208
-#EXTINF:-1 tvg-id="" tvg-name="TLC旅遊生活" tvg-logo="" group-title="FMITV",TLC旅遊生活
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/209
-#EXTINF:-1 tvg-id="" tvg-name="國家野生" tvg-logo="" group-title="FMITV",國家野生
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/210
-#EXTINF:-1 tvg-id="" tvg-name="探索EVE" tvg-logo="" group-title="FMITV",探索EVE
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/211
-#EXTINF:-1 tvg-id="" tvg-name="動物星球" tvg-logo="" group-title="FMITV",動物星球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/212
-#EXTINF:-1 tvg-id="" tvg-name="探索科學" tvg-logo="" group-title="FMITV",探索科學
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/213
-#EXTINF:-1 tvg-id="" tvg-name="國家地理" tvg-logo="" group-title="FMITV",國家地理
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/214
-#EXTINF:-1 tvg-id="" tvg-name="爆笑頻道" tvg-logo="" group-title="FMITV",爆笑頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/215
-#EXTINF:-1 tvg-id="" tvg-name="亞洲旅遊" tvg-logo="" group-title="FMITV",亞洲旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/216
-#EXTINF:-1 tvg-id="" tvg-name="民視旅遊" tvg-logo="" group-title="FMITV",民視旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/217
-#EXTINF:-1 tvg-id="" tvg-name="探索頻道" tvg-logo="" group-title="FMITV",探索頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/218
-#EXTINF:-1 tvg-id="" tvg-name="SMART知識頻道" tvg-logo="" group-title="FMITV",SMART知識頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/219
-#EXTINF:-1 tvg-id="" tvg-name="視納華仁紀實" tvg-logo="" group-title="FMITV",視納華仁紀實
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/220
-#EXTINF:-1 tvg-id="" tvg-name="國家人文" tvg-logo="" group-title="FMITV",國家人文
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/221
-#EXTINF:-1 tvg-id="" tvg-name="美食星球" tvg-logo="" group-title="FMITV",美食星球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/222
-#EXTINF:-1 tvg-id="" tvg-name="探索動力" tvg-logo="" group-title="FMITV",探索動力
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/223
-#EXTINF:-1 tvg-id="" tvg-name="探索亞洲" tvg-logo="" group-title="FMITV",探索亞洲
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/224
-#EXTINF:-1 tvg-id="" tvg-name="EVE旅遊" tvg-logo="" group-title="FMITV",EVE旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/225
-#EXTINF:-1 tvg-id="" tvg-name="亞洲美食" tvg-logo="" group-title="FMITV",亞洲美食
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/226
-#EXTINF:-1 tvg-id="" tvg-name="國家地理悠人" tvg-logo="" group-title="FMITV",國家地理悠人
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/227
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="FMITV",History
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/228
-#EXTINF:-1 tvg-id="" tvg-name="Foodnetwork" tvg-logo="" group-title="FMITV",Foodnetwork
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/229
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="FMITV",BBC EARTH
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/230
-#EXTINF:-1 tvg-id="" tvg-name="MOMO親子" tvg-logo="" group-title="FMITV",MOMO親子
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/231
-#EXTINF:-1 tvg-id="" tvg-name="迪士尼卡通" tvg-logo="" group-title="FMITV",迪士尼卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/232
-#EXTINF:-1 tvg-id="" tvg-name="東森幼幼" tvg-logo="" group-title="FMITV",東森幼幼
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/233
-#EXTINF:-1 tvg-id="" tvg-name="東森亞洲幼幼" tvg-logo="" group-title="FMITV",東森亞洲幼幼
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/234
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通" tvg-logo="" group-title="FMITV",CN卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/235
-#EXTINF:-1 tvg-id="" tvg-name="龍華動畫" tvg-logo="" group-title="FMITV",龍華動畫
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/236
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="FMITV",Animax
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/237
-#EXTINF:-1 tvg-id="" tvg-name="曼迪日本" tvg-logo="" group-title="FMITV",曼迪日本
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/238
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="" group-title="FMITV",BabyFirst
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/239
-#EXTINF:-1 tvg-id="" tvg-name="靖洋卡通台" tvg-logo="" group-title="FMITV",靖洋卡通台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/240
-#EXTINF:-1 tvg-id="" tvg-name="Nick兒童" tvg-logo="" group-title="FMITV",Nick兒童
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/241
-#EXTINF:-1 tvg-id="" tvg-name="靖天卡通" tvg-logo="" group-title="FMITV",靖天卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/242
-#EXTINF:-1 tvg-id="" tvg-name="Treehouse" tvg-logo="" group-title="FMITV",Treehouse
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/243
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="FMITV",Baby TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/244
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon europe" tvg-logo="" group-title="FMITV",Nickelodeon europe
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/245
-#EXTINF:-1 tvg-id="" tvg-name="Nickj" tvg-logo="" group-title="FMITV",Nickj
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/246
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="FMITV",Disney
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/247
-#EXTINF:-1 tvg-id="" tvg-name="Disneyxd" tvg-logo="" group-title="FMITV",Disneyxd
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/248
-#EXTINF:-1 tvg-id="" tvg-name="Disneyj" tvg-logo="" group-title="FMITV",Disneyj
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/249
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="FMITV",Boomerang
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/250
-#EXTINF:-1 tvg-id="" tvg-name="Universalkids" tvg-logo="" group-title="FMITV",Universalkids
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/251
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon" tvg-logo="" group-title="FMITV",Cartoon
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/252
-#EXTINF:-1 tvg-id="" tvg-name="大愛一臺" tvg-logo="" group-title="FMITV",大愛一臺
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/253
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="FMITV",MTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/254
-#EXTINF:-1 tvg-id="" tvg-name="CLASSICA 古典樂" tvg-logo="" group-title="FMITV",CLASSICA 古典樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/255
-#EXTINF:-1 tvg-id="" tvg-name="希望電視" tvg-logo="" group-title="FMITV",希望電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/256
-#EXTINF:-1 tvg-id="" tvg-name="人間衛視" tvg-logo="" group-title="FMITV",人間衛視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/257
-#EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="FMITV",台視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/259
-#EXTINF:-1 tvg-id="" tvg-name="台視新聞" tvg-logo="" group-title="FMITV",台視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/260
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新聞" tvg-logo="" group-title="FMITV",TVBS新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/261
-#EXTINF:-1 tvg-id="" tvg-name="TVBS新聞" tvg-logo="" group-title="FMITV",TVBS新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/262
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="" group-title="FMITV",中天新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/263
-#EXTINF:-1 tvg-id="" tvg-name="中天新聞" tvg-logo="" group-title="FMITV",中天新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/264
-#EXTINF:-1 tvg-id="" tvg-name="三立LIVE新聞" tvg-logo="" group-title="FMITV",三立LIVE新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/265
-#EXTINF:-1 tvg-id="" tvg-name="三立LIVE新聞" tvg-logo="" group-title="FMITV",三立LIVE新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/266
-#EXTINF:-1 tvg-id="" tvg-name="華視新聞" tvg-logo="" group-title="FMITV",華視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/267
-#EXTINF:-1 tvg-id="" tvg-name="華視新聞" tvg-logo="" group-title="FMITV",華視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/268
-#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="" group-title="FMITV",中視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/269
-#EXTINF:-1 tvg-id="" tvg-name="中視新聞" tvg-logo="" group-title="FMITV",中視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/270
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="" group-title="FMITV",iNEWS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/271
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="" group-title="FMITV",iNEWS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/272
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="" group-title="FMITV",東森新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/273
-#EXTINF:-1 tvg-id="" tvg-name="東森新聞" tvg-logo="" group-title="FMITV",東森新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/274
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="" group-title="FMITV",東森財經新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/275
-#EXTINF:-1 tvg-id="" tvg-name="東森財經新聞" tvg-logo="" group-title="FMITV",東森財經新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/276
-#EXTINF:-1 tvg-id="" tvg-name="民視新聞" tvg-logo="" group-title="FMITV",民視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/277
-#EXTINF:-1 tvg-id="" tvg-name="寰宇臺灣" tvg-logo="" group-title="FMITV",寰宇臺灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/278
-#EXTINF:-1 tvg-id="" tvg-name="年代新聞" tvg-logo="" group-title="FMITV",年代新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/279
-#EXTINF:-1 tvg-id="" tvg-name="壹電視新聞" tvg-logo="" group-title="FMITV",壹電視新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/280
-#EXTINF:-1 tvg-id="" tvg-name="非凡新聞" tvg-logo="" group-title="FMITV",非凡新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/281
-#EXTINF:-1 tvg-id="" tvg-name="中華財經" tvg-logo="" group-title="FMITV",中華財經
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/282
-#EXTINF:-1 tvg-id="" tvg-name="台視財經" tvg-logo="" group-title="FMITV",台視財經
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/283
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Europe" tvg-logo="" group-title="FMITV",Bloomberg Europe
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/284
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="FMITV",FRANCE 24
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/285
-#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-logo="" group-title="FMITV",DW News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/286
-#EXTINF:-1 tvg-id="" tvg-name="新唐人亞太台" tvg-logo="" group-title="FMITV",新唐人亞太台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/287
-#EXTINF:-1 tvg-id="" tvg-name="美國唐人街台" tvg-logo="" group-title="FMITV",美國唐人街台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/288
-#EXTINF:-1 tvg-id="" tvg-name="CBN News" tvg-logo="" group-title="FMITV",CBN News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/289
-#EXTINF:-1 tvg-id="" tvg-name="寰宇新聞" tvg-logo="" group-title="FMITV",寰宇新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/290
-#EXTINF:-1 tvg-id="" tvg-name="VOA美國之音" tvg-logo="" group-title="FMITV",VOA美國之音
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/291
-#EXTINF:-1 tvg-id="" tvg-name="半島國際新聞" tvg-logo="" group-title="FMITV",半島國際新聞
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/292
-#EXTINF:-1 tvg-id="" tvg-name="THE WORLD" tvg-logo="" group-title="FMITV",THE WORLD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/293
-#EXTINF:-1 tvg-id="" tvg-name="RT News" tvg-logo="" group-title="FMITV",RT News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/294
-#EXTINF:-1 tvg-id="" tvg-name="TRTWORLD" tvg-logo="" group-title="FMITV",TRTWORLD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/295
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Financial" tvg-logo="" group-title="FMITV",Bloomberg Financial
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/296
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="FMITV",Al Jazeera
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/297
-#EXTINF:-1 tvg-id="" tvg-name="民視影劇" tvg-logo="" group-title="FMITV",民視影劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/298
-#EXTINF:-1 tvg-id="" tvg-name="東森電影" tvg-logo="" group-title="FMITV",東森電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/299
-#EXTINF:-1 tvg-id="" tvg-name="東森洋片" tvg-logo="" group-title="FMITV",東森洋片
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/300
-#EXTINF:-1 tvg-id="" tvg-name="衛視電影" tvg-logo="" group-title="FMITV",衛視電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/301
-#EXTINF:-1 tvg-id="" tvg-name="星衛電影" tvg-logo="" group-title="FMITV",星衛電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/302
-#EXTINF:-1 tvg-id="" tvg-name="東森戲劇" tvg-logo="" group-title="FMITV",東森戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/303
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="FMITV",FOX MOVIES
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/304
-#EXTINF:-1 tvg-id="" tvg-name="星衛電影" tvg-logo="" group-title="FMITV",星衛電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/305
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="FMITV",AXN
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/306
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="FMITV",AMC
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/307
-#EXTINF:-1 tvg-id="" tvg-name="緯來電影" tvg-logo="" group-title="FMITV",緯來電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/308
-#EXTINF:-1 tvg-id="" tvg-name="華納電影" tvg-logo="" group-title="FMITV",華納電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/309
-#EXTINF:-1 tvg-id="" tvg-name="美亞電影" tvg-logo="" group-title="FMITV",美亞電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/310
-#EXTINF:-1 tvg-id="" tvg-name="天映經典" tvg-logo="" group-title="FMITV",天映經典
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/311
-#EXTINF:-1 tvg-id="" tvg-name="好萊塢電影" tvg-logo="" group-title="FMITV",好萊塢電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/312
-#EXTINF:-1 tvg-id="" tvg-name="八大戲劇" tvg-logo="" group-title="FMITV",八大戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/313
-#EXTINF:-1 tvg-id="" tvg-name="公視戲劇" tvg-logo="" group-title="FMITV",公視戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/314
-#EXTINF:-1 tvg-id="" tvg-name="三立戲劇" tvg-logo="" group-title="FMITV",三立戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/315
-#EXTINF:-1 tvg-id="" tvg-name="緯來戲劇" tvg-logo="" group-title="FMITV",緯來戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/316
-#EXTINF:-1 tvg-id="" tvg-name="龍華戲劇" tvg-logo="" group-title="FMITV",龍華戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/317
-#EXTINF:-1 tvg-id="" tvg-name="靖洋戲劇" tvg-logo="" group-title="FMITV",靖洋戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/318
-#EXTINF:-1 tvg-id="" tvg-name="靖天電影" tvg-logo="" group-title="FMITV",靖天電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/319
-#EXTINF:-1 tvg-id="" tvg-name="衛視西片" tvg-logo="" group-title="FMITV",衛視西片
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/320
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME" tvg-logo="" group-title="FMITV",FOX CRIME
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/321
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="FMITV",HBO HD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/322
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰衛視電影" tvg-logo="" group-title="FMITV",鳳凰衛視電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/323
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="" group-title="FMITV",FOX ACTION
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/324
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="" group-title="FMITV",HBO Hits
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/325
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="FMITV",HBO Family
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/326
-#EXTINF:-1 tvg-id="" tvg-name="采昌影劇" tvg-logo="" group-title="FMITV",采昌影劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/327
-#EXTINF:-1 tvg-id="" tvg-name="靖天映畫" tvg-logo="" group-title="FMITV",靖天映畫
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/328
-#EXTINF:-1 tvg-id="" tvg-name="影迷數位電影" tvg-logo="" group-title="FMITV",影迷數位電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/329
-#EXTINF:-1 tvg-id="" tvg-name="CineMAX" tvg-logo="" group-title="FMITV",CineMAX
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/330
-#EXTINF:-1 tvg-id="" tvg-name="靖天戲劇" tvg-logo="" group-title="FMITV",靖天戲劇
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/331
-#EXTINF:-1 tvg-id="" tvg-name="FOX Family" tvg-logo="" group-title="FMITV",FOX Family
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/332
-#EXTINF:-1 tvg-id="" tvg-name="龍華經典" tvg-logo="" group-title="FMITV",龍華經典
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/333
-#EXTINF:-1 tvg-id="" tvg-name="HBOSignature" tvg-logo="" group-title="FMITV",HBOSignature
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/334
-#EXTINF:-1 tvg-id="" tvg-name="龍華電影" tvg-logo="" group-title="FMITV",龍華電影
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/335
-#EXTINF:-1 tvg-id="" tvg-name="CATCHplay&line=freeyuntk" tvg-logo="" group-title="FMITV",CATCHplay&line=freeyuntk
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/336
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="FMITV",FOX
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/337
-#EXTINF:-1 tvg-id="" tvg-name="緯來體育" tvg-logo="" group-title="FMITV",緯來體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/338
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 1" tvg-logo="" group-title="FMITV",FOX Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/339
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sport 2" tvg-logo="" group-title="FMITV",FOX Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/340
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1" tvg-logo="" group-title="FMITV",Eleven Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/341
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2" tvg-logo="" group-title="FMITV",Eleven Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/342
-#EXTINF:-1 tvg-id="" tvg-name="Z頻道" tvg-logo="" group-title="FMITV",Z頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/343
-#EXTINF:-1 tvg-id="" tvg-name="FOX體育2" tvg-logo="" group-title="FMITV",FOX體育2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/344
-#EXTINF:-1 tvg-id="" tvg-name="FOX體育3" tvg-logo="" group-title="FMITV",FOX體育3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/345
-#EXTINF:-1 tvg-id="" tvg-name="皇馬足球" tvg-logo="" group-title="FMITV",皇馬足球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/346
-#EXTINF:-1 tvg-id="" tvg-name="博斯無限" tvg-logo="" group-title="FMITV",博斯無限
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/347
-#EXTINF:-1 tvg-id="" tvg-name="博斯網球" tvg-logo="" group-title="FMITV",博斯網球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/348
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球1" tvg-logo="" group-title="FMITV",博斯高球1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/349
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球2" tvg-logo="" group-title="FMITV",博斯高球2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/350
-#EXTINF:-1 tvg-id="" tvg-name="博斯魅力" tvg-logo="" group-title="FMITV",博斯魅力
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/351
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動2" tvg-logo="" group-title="FMITV",博斯運動2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/352
-#EXTINF:-1 tvg-id="" tvg-name="博斯運動1" tvg-logo="" group-title="FMITV",博斯運動1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/353
-#EXTINF:-1 tvg-id="" tvg-name="衛視體育Star Sports" tvg-logo="" group-title="FMITV",衛視體育Star Sports
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/354
-#EXTINF:-1 tvg-id="" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="FMITV",TRACE Sport Stars
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/355
-#EXTINF:-1 tvg-id="" tvg-name="智林體育" tvg-logo="" group-title="FMITV",智林體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/356
-#EXTINF:-1 tvg-id="" tvg-name="時尚運動X" tvg-logo="" group-title="FMITV",時尚運動X
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/357
-#EXTINF:-1 tvg-id="" tvg-name="ESPN-News" tvg-logo="" group-title="FMITV",ESPN-News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/358
-#EXTINF:-1 tvg-id="" tvg-name="FOX-Sports1" tvg-logo="" group-title="FMITV",FOX-Sports1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/359
-#EXTINF:-1 tvg-id="" tvg-name="FOX-Sports2" tvg-logo="" group-title="FMITV",FOX-Sports2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/360
-#EXTINF:-1 tvg-id="" tvg-name="NBC-HD" tvg-logo="" group-title="FMITV",NBC-HD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/361
-#EXTINF:-1 tvg-id="" tvg-name="NBC-Golf" tvg-logo="" group-title="FMITV",NBC-Golf
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/362
-#EXTINF:-1 tvg-id="" tvg-name="NBA-TV" tvg-logo="" group-title="FMITV",NBA-TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/363
-#EXTINF:-1 tvg-id="" tvg-name="ESPN-HD" tvg-logo="" group-title="FMITV",ESPN-HD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/364
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN" tvg-logo="" group-title="FMITV",BT Sport ESPN
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/365
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="" group-title="FMITV",BT Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/366
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="" group-title="FMITV",BT Sport 3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/367
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="" group-title="FMITV",BT Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/368
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sport 1" tvg-logo="" group-title="FMITV",Euro Sport 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/369
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sport 2" tvg-logo="" group-title="FMITV",Euro Sport 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/370
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="" group-title="FMITV",Sky Sports Mix
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/371
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MainEvent" tvg-logo="" group-title="FMITV",Sky Sports MainEvent
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/372
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="" group-title="FMITV",Sky Sports Action
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/373
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="FMITV",Sky Sports Cricket
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/374
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="" group-title="FMITV",Sky Sports Golf
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/375
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports PremierLeague" tvg-logo="" group-title="FMITV",Sky Sports PremierLeague
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/376
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="FMITV",Sky Sports F1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/377
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="" group-title="FMITV",Sky Sports News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/378
-#EXTINF:-1 tvg-id="" tvg-name="bein體育1" tvg-logo="" group-title="FMITV",bein體育1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/379
-#EXTINF:-1 tvg-id="" tvg-name="bein體育2" tvg-logo="" group-title="FMITV",bein體育2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/380
-#EXTINF:-1 tvg-id="" tvg-name="bein體育3" tvg-logo="" group-title="FMITV",bein體育3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/381
-#EXTINF:-1 tvg-id="" tvg-name="愛爾達體育" tvg-logo="" group-title="FMITV",愛爾達體育
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/382
-#EXTINF:-1 tvg-id="" tvg-name="jsport1" tvg-logo="" group-title="FMITV",jsport1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/383
-#EXTINF:-1 tvg-id="" tvg-name="jsport2" tvg-logo="" group-title="FMITV",jsport2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/384
-#EXTINF:-1 tvg-id="" tvg-name="jsport3" tvg-logo="" group-title="FMITV",jsport3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/385
-#EXTINF:-1 tvg-id="" tvg-name="jsport4" tvg-logo="" group-title="FMITV",jsport4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/386
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp1" tvg-logo="" group-title="FMITV",Astro Sp1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/387
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp2" tvg-logo="" group-title="FMITV",Astro Sp2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/388
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp3" tvg-logo="" group-title="FMITV",Astro Sp3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/389
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp4" tvg-logo="" group-title="FMITV",Astro Sp4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/390
-#EXTINF:-1 tvg-id="" tvg-name="TLC旅遊台灣" tvg-logo="" group-title="FMITV",TLC旅遊台灣
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/391
-#EXTINF:-1 tvg-id="" tvg-name="TLC旅遊生活" tvg-logo="" group-title="FMITV",TLC旅遊生活
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/392
-#EXTINF:-1 tvg-id="" tvg-name="國家野生" tvg-logo="" group-title="FMITV",國家野生
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/393
-#EXTINF:-1 tvg-id="" tvg-name="探索EVE" tvg-logo="" group-title="FMITV",探索EVE
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/394
-#EXTINF:-1 tvg-id="" tvg-name="動物星球" tvg-logo="" group-title="FMITV",動物星球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/395
-#EXTINF:-1 tvg-id="" tvg-name="探索科學" tvg-logo="" group-title="FMITV",探索科學
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/396
-#EXTINF:-1 tvg-id="" tvg-name="國家地理" tvg-logo="" group-title="FMITV",國家地理
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/397
-#EXTINF:-1 tvg-id="" tvg-name="爆笑頻道" tvg-logo="" group-title="FMITV",爆笑頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/398
-#EXTINF:-1 tvg-id="" tvg-name="亞洲旅遊" tvg-logo="" group-title="FMITV",亞洲旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/399
-#EXTINF:-1 tvg-id="" tvg-name="民視旅遊" tvg-logo="" group-title="FMITV",民視旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/400
-#EXTINF:-1 tvg-id="" tvg-name="探索頻道" tvg-logo="" group-title="FMITV",探索頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/401
-#EXTINF:-1 tvg-id="" tvg-name="SMART知識頻道" tvg-logo="" group-title="FMITV",SMART知識頻道
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/402
-#EXTINF:-1 tvg-id="" tvg-name="視納華仁紀實" tvg-logo="" group-title="FMITV",視納華仁紀實
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/403
-#EXTINF:-1 tvg-id="" tvg-name="國家人文" tvg-logo="" group-title="FMITV",國家人文
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/404
-#EXTINF:-1 tvg-id="" tvg-name="美食星球" tvg-logo="" group-title="FMITV",美食星球
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/405
-#EXTINF:-1 tvg-id="" tvg-name="探索動力" tvg-logo="" group-title="FMITV",探索動力
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/406
-#EXTINF:-1 tvg-id="" tvg-name="Astronaut Spacewalk Earth" tvg-logo="" group-title="FMITV",Astronaut Spacewalk Earth
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/407
-#EXTINF:-1 tvg-id="" tvg-name="NASA ISS" tvg-logo="" group-title="FMITV",NASA ISS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/408
-#EXTINF:-1 tvg-id="" tvg-name="Earth Views" tvg-logo="" group-title="FMITV",Earth Views
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/409
-#EXTINF:-1 tvg-id="" tvg-name="探索亞洲" tvg-logo="" group-title="FMITV",探索亞洲
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/410
-#EXTINF:-1 tvg-id="" tvg-name="EVE旅遊" tvg-logo="" group-title="FMITV",EVE旅遊
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/411
-#EXTINF:-1 tvg-id="" tvg-name="亞洲美食" tvg-logo="" group-title="FMITV",亞洲美食
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/412
-#EXTINF:-1 tvg-id="" tvg-name="國家地理悠人" tvg-logo="" group-title="FMITV",國家地理悠人
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/413
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="FMITV",History
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/414
-#EXTINF:-1 tvg-id="" tvg-name="Foodnetwork" tvg-logo="" group-title="FMITV",Foodnetwork
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/415
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="" group-title="FMITV",BBC EARTH
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/416
-#EXTINF:-1 tvg-id="" tvg-name="MOMO親子" tvg-logo="" group-title="FMITV",MOMO親子
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/417
-#EXTINF:-1 tvg-id="" tvg-name="迪士尼卡通" tvg-logo="" group-title="FMITV",迪士尼卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/418
-#EXTINF:-1 tvg-id="" tvg-name="東森幼幼" tvg-logo="" group-title="FMITV",東森幼幼
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/419
-#EXTINF:-1 tvg-id="" tvg-name="東森亞洲幼幼" tvg-logo="" group-title="FMITV",東森亞洲幼幼
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/420
-#EXTINF:-1 tvg-id="" tvg-name="CN卡通" tvg-logo="" group-title="FMITV",CN卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/421
-#EXTINF:-1 tvg-id="" tvg-name="龍華動畫" tvg-logo="" group-title="FMITV",龍華動畫
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/422
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="FMITV",Animax
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/423
-#EXTINF:-1 tvg-id="" tvg-name="曼迪日本" tvg-logo="" group-title="FMITV",曼迪日本
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/424
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="" group-title="FMITV",BabyFirst
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/425
-#EXTINF:-1 tvg-id="" tvg-name="MOMO親子台" tvg-logo="" group-title="FMITV",MOMO親子台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/426
-#EXTINF:-1 tvg-id="" tvg-name="靖洋卡通台" tvg-logo="" group-title="FMITV",靖洋卡通台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/427
-#EXTINF:-1 tvg-id="" tvg-name="Nick兒童" tvg-logo="" group-title="FMITV",Nick兒童
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/428
-#EXTINF:-1 tvg-id="" tvg-name="空中英語教室" tvg-logo="" group-title="FMITV",空中英語教室
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/429
-#EXTINF:-1 tvg-id="" tvg-name="ELTV生活英語" tvg-logo="" group-title="FMITV",ELTV生活英語
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/430
-#EXTINF:-1 tvg-id="" tvg-name="靖天卡通" tvg-logo="" group-title="FMITV",靖天卡通
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/431
-#EXTINF:-1 tvg-id="" tvg-name="Treehouse" tvg-logo="" group-title="FMITV",Treehouse
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/432
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="FMITV",Baby TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/433
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon europe" tvg-logo="" group-title="FMITV",Nickelodeon europe
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/434
-#EXTINF:-1 tvg-id="" tvg-name="Nickj" tvg-logo="" group-title="FMITV",Nickj
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/435
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="FMITV",Disney
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/436
-#EXTINF:-1 tvg-id="" tvg-name="Disneyxd" tvg-logo="" group-title="FMITV",Disneyxd
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/437
-#EXTINF:-1 tvg-id="" tvg-name="Disneyj" tvg-logo="" group-title="FMITV",Disneyj
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/438
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="FMITV",Boomerang
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/439
-#EXTINF:-1 tvg-id="" tvg-name="Universalkids" tvg-logo="" group-title="FMITV",Universalkids
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/440
-#EXTINF:-1 tvg-id="" tvg-name="BBC CBeebies" tvg-logo="" group-title="FMITV",BBC CBeebies
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/441
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon" tvg-logo="" group-title="FMITV",Cartoon
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/442
-#EXTINF:-1 tvg-id="" tvg-name="好消息2" tvg-logo="" group-title="FMITV",好消息2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/443
-#EXTINF:-1 tvg-id="" tvg-name="Earth Views" tvg-logo="" group-title="FMITV",Earth Views
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/444
-#EXTINF:-1 tvg-id="" tvg-name="One World Radio" tvg-logo="" group-title="FMITV",One World Radio
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/445
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="" group-title="FMITV",Mezzo Live
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/446
-#EXTINF:-1 tvg-id="" tvg-name="Hit Fm" tvg-logo="" group-title="FMITV",Hit Fm
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/447
-#EXTINF:-1 tvg-id="" tvg-name="4K Nature" tvg-logo="" group-title="FMITV",4K Nature
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/448
-#EXTINF:-1 tvg-id="" tvg-name="Coffee Jazz" tvg-logo="" group-title="FMITV",Coffee Jazz
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/449
-#EXTINF:-1 tvg-id="" tvg-name="Space Ambient" tvg-logo="" group-title="FMITV",Space Ambient
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/450
-#EXTINF:-1 tvg-id="" tvg-name="Rolling Cam Venice" tvg-logo="" group-title="FMITV",Rolling Cam Venice
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/451
-#EXTINF:-1 tvg-id="" tvg-name="大愛一臺" tvg-logo="" group-title="FMITV",大愛一臺
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/452
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="FMITV",MTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/453
-#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="" group-title="FMITV",M2O
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/454
-#EXTINF:-1 tvg-id="" tvg-name="CLASSICA 古典樂" tvg-logo="" group-title="FMITV",CLASSICA 古典樂
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/455
-#EXTINF:-1 tvg-id="" tvg-name="希望電視" tvg-logo="" group-title="FMITV",希望電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/456
-#EXTINF:-1 tvg-id="" tvg-name="唯心電視" tvg-logo="" group-title="FMITV",唯心電視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/457
-#EXTINF:-1 tvg-id="" tvg-name="人間衛視" tvg-logo="" group-title="FMITV",人間衛視
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/458
-#EXTINF:-1 tvg-id="" tvg-name="Best Radio" tvg-logo="" group-title="FMITV",Best Radio
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/459
-#EXTINF:-1 tvg-id="" tvg-name="JapaNews24" tvg-logo="" group-title="FMITV",JapaNews24
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/495
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1" tvg-logo="" group-title="FMITV",Tokyo MX1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/496
-#EXTINF:-1 tvg-id="" tvg-name="Tokyo MX2" tvg-logo="" group-title="FMITV",Tokyo MX2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/497
-#EXTINF:-1 tvg-id="" tvg-name="NTV News24" tvg-logo="" group-title="FMITV",NTV News24
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/498
-#EXTINF:-1 tvg-id="" tvg-name="tv asahi" tvg-logo="" group-title="FMITV",tv asahi
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/499
-#EXTINF:-1 tvg-id="" tvg-name="BS-JAPAN" tvg-logo="" group-title="FMITV",BS-JAPAN
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/500
-#EXTINF:-1 tvg-id="" tvg-name="日本映画専門" tvg-logo="" group-title="FMITV",日本映画専門
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/501
-#EXTINF:-1 tvg-id="" tvg-name="日テレG" tvg-logo="" group-title="FMITV",日テレG
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/502
-#EXTINF:-1 tvg-id="" tvg-name="時代劇の専門家" tvg-logo="" group-title="FMITV",時代劇の専門家
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/503
-#EXTINF:-1 tvg-id="" tvg-name="KIDS" tvg-logo="" group-title="FMITV",KIDS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/504
-#EXTINF:-1 tvg-id="" tvg-name="朝日放送" tvg-logo="" group-title="FMITV",朝日放送
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/505
-#EXTINF:-1 tvg-id="" tvg-name="SKY A" tvg-logo="" group-title="FMITV",SKY A
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/506
-#EXTINF:-1 tvg-id="" tvg-name="読売テレビ" tvg-logo="" group-title="FMITV",読売テレビ
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/507
-#EXTINF:-1 tvg-id="" tvg-name="毎日放送" tvg-logo="" group-title="FMITV",毎日放送
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/508
-#EXTINF:-1 tvg-id="" tvg-name="サンテレビ" tvg-logo="" group-title="FMITV",サンテレビ
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/509
-#EXTINF:-1 tvg-id="" tvg-name="BSプレミアム" tvg-logo="" group-title="FMITV",BSプレミアム
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/510
-#EXTINF:-1 tvg-id="" tvg-name="BS日テレ" tvg-logo="" group-title="FMITV",BS日テレ
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/511
-#EXTINF:-1 tvg-id="" tvg-name="BS朝日" tvg-logo="" group-title="FMITV",BS朝日
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/512
-#EXTINF:-1 tvg-id="" tvg-name="GREEN" tvg-logo="" group-title="FMITV",GREEN
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/513
-#EXTINF:-1 tvg-id="" tvg-name="関西テレビ" tvg-logo="" group-title="FMITV",関西テレビ
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/514
-#EXTINF:-1 tvg-id="" tvg-name="BS-TBS" tvg-logo="" group-title="FMITV",BS-TBS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/515
-#EXTINF:-1 tvg-id="" tvg-name="Golf Network" tvg-logo="" group-title="FMITV",Golf Network
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/516
-#EXTINF:-1 tvg-id="" tvg-name="BS-FUJI" tvg-logo="" group-title="FMITV",BS-FUJI
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/517
-#EXTINF:-1 tvg-id="" tvg-name="ム一ビ一プラス" tvg-logo="" group-title="FMITV",ム一ビ一プラス
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/518
-#EXTINF:-1 tvg-id="" tvg-name="旅TABI" tvg-logo="" group-title="FMITV",旅TABI
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/519
-#EXTINF:-1 tvg-id="" tvg-name="jsport1" tvg-logo="" group-title="FMITV",jsport1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/520
-#EXTINF:-1 tvg-id="" tvg-name="jsport2" tvg-logo="" group-title="FMITV",jsport2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/521
-#EXTINF:-1 tvg-id="" tvg-name="jsport3" tvg-logo="" group-title="FMITV",jsport3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/522
-#EXTINF:-1 tvg-id="" tvg-name="jsport4" tvg-logo="" group-title="FMITV",jsport4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/523
-#EXTINF:-1 tvg-id="" tvg-name="Japan Channel DX" tvg-logo="" group-title="FMITV",Japan Channel DX
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/524
-#EXTINF:-1 tvg-id="" tvg-name="GaoRa" tvg-logo="" group-title="FMITV",GaoRa
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/525
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="FMITV",NTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/526
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="FMITV",NHK World
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/527
-#EXTINF:-1 tvg-id="" tvg-name="NHKE" tvg-logo="" group-title="FMITV",NHKE
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/528
-#EXTINF:-1 tvg-id="" tvg-name="NHK-G" tvg-logo="" group-title="FMITV",NHK-G
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/529
-#EXTINF:-1 tvg-id="" tvg-name="tvtokyo" tvg-logo="" group-title="FMITV",tvtokyo
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/530
-#EXTINF:-1 tvg-id="" tvg-name="FU JI" tvg-logo="" group-title="FMITV",FU JI
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/531
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="FMITV",TBS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/532
-#EXTINF:-1 tvg-id="" tvg-name="大阪TV" tvg-logo="" group-title="FMITV",大阪TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/533
-#EXTINF:-1 tvg-id="" tvg-name="ABC朝日" tvg-logo="" group-title="FMITV",ABC朝日
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/534
-#EXTINF:-1 tvg-id="" tvg-name="bs1" tvg-logo="" group-title="FMITV",bs1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/535
-#EXTINF:-1 tvg-id="" tvg-name="wowo1" tvg-logo="" group-title="FMITV",wowo1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/536
-#EXTINF:-1 tvg-id="" tvg-name="wowo2" tvg-logo="" group-title="FMITV",wowo2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/537
-#EXTINF:-1 tvg-id="" tvg-name="wowo3" tvg-logo="" group-title="FMITV",wowo3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/538
-#EXTINF:-1 tvg-id="" tvg-name="STAR1" tvg-logo="" group-title="FMITV",STAR1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/539
-#EXTINF:-1 tvg-id="" tvg-name="STAR2" tvg-logo="" group-title="FMITV",STAR2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/540
-#EXTINF:-1 tvg-id="" tvg-name="STAR3" tvg-logo="" group-title="FMITV",STAR3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/541
-#EXTINF:-1 tvg-id="" tvg-name="animax" tvg-logo="" group-title="FMITV",animax
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/542
-#EXTINF:-1 tvg-id="" tvg-name="Green" tvg-logo="" group-title="FMITV",Green
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/543
-#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="FMITV",Discovery
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/544
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="FMITV",HISTORY
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/545
-#EXTINF:-1 tvg-id="" tvg-name="TBSニュ-ス" tvg-logo="" group-title="FMITV",TBSニュ-ス
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/546
-#EXTINF:-1 tvg-id="" tvg-name="ファミリ一劇場" tvg-logo="" group-title="FMITV",ファミリ一劇場
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/547
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4" tvg-logo="" group-title="FMITV",ITV 4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/648
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3" tvg-logo="" group-title="FMITV",ITV 3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/649
-#EXTINF:-1 tvg-id="" tvg-name="ITV 1" tvg-logo="" group-title="FMITV",ITV 1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/650
-#EXTINF:-1 tvg-id="" tvg-name="ITV 2" tvg-logo="" group-title="FMITV",ITV 2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/651
-#EXTINF:-1 tvg-id="" tvg-name="Dave" tvg-logo="" group-title="FMITV",Dave
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/653
-#EXTINF:-1 tvg-id="" tvg-name="CNA 24" tvg-logo="" group-title="FMITV",CNA 24
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/654
-#EXTINF:-1 tvg-id="" tvg-name="Channel8" tvg-logo="" group-title="FMITV",Channel8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/655
-#EXTINF:-1 tvg-id="" tvg-name="Channel5" tvg-logo="" group-title="FMITV",Channel5
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/656
-#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="" group-title="FMITV",IKIM TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/657
-#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="" group-title="FMITV",Astro Awani
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/658
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="FMITV",Channel 8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/659
-#EXTINF:-1 tvg-id="" tvg-name="天映頻道HD" tvg-logo="" group-title="FMITV",天映頻道HD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/660
-#EXTINF:-1 tvg-id="" tvg-name="全佳" tvg-logo="" group-title="FMITV",全佳
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/661
-#EXTINF:-1 tvg-id="" tvg-name="kix" tvg-logo="" group-title="FMITV",kix
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/662
-#EXTINF:-1 tvg-id="" tvg-name="歡喜" tvg-logo="" group-title="FMITV",歡喜
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/663
-#EXTINF:-1 tvg-id="" tvg-name="suria" tvg-logo="" group-title="FMITV",suria
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/664
-#EXTINF:-1 tvg-id="" tvg-name="雙星" tvg-logo="" group-title="FMITV",雙星
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/665
-#EXTINF:-1 tvg-id="" tvg-name="AEC" tvg-logo="" group-title="FMITV",AEC
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/666
-#EXTINF:-1 tvg-id="" tvg-name="華麗" tvg-logo="" group-title="FMITV",華麗
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/667
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="" group-title="FMITV",Channel 5
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/668
-#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="" group-title="FMITV",TV1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/669
-#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="" group-title="FMITV",TV2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/670
-#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="" group-title="FMITV",TV3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/671
-#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="" group-title="FMITV",TV9
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/672
-#EXTINF:-1 tvg-id="" tvg-name="NTV7" tvg-logo="" group-title="FMITV",NTV7
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/673
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="" group-title="FMITV",TV8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/674
-#EXTINF:-1 tvg-id="" tvg-name="小太陽" tvg-logo="" group-title="FMITV",小太陽
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/675
-#EXTINF:-1 tvg-id="" tvg-name="AOD" tvg-logo="" group-title="FMITV",AOD
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/676
-#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="" group-title="FMITV",Channel U
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/677
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp1" tvg-logo="" group-title="FMITV",Astro Sp1
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/678
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp2" tvg-logo="" group-title="FMITV",Astro Sp2
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/679
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp3" tvg-logo="" group-title="FMITV",Astro Sp3
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/680
-#EXTINF:-1 tvg-id="" tvg-name="Astro Sp4" tvg-logo="" group-title="FMITV",Astro Sp4
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/681
-#EXTINF:-1 tvg-id="" tvg-name="Mediacorp 8" tvg-logo="" group-title="FMITV",Mediacorp 8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/682
-#EXTINF:-1 tvg-id="" tvg-name="Mediacorp s" tvg-logo="" group-title="FMITV",Mediacorp s
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/683
-#EXTINF:-1 tvg-id="" tvg-name="Thairath TV" tvg-logo="" group-title="FMITV",Thairath TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/684
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="FMITV",Channel 8
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/685
-#EXTINF:-1 tvg-id="" tvg-name="DDTV" tvg-logo="" group-title="FMITV",DDTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/686
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS" tvg-logo="" group-title="FMITV",Thai PBS
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/687
-#EXTINF:-1 tvg-id="" tvg-name="NBT" tvg-logo="" group-title="FMITV",NBT
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/688
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="FMITV",KOMPAS TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/689
-#EXTINF:-1 tvg-id="" tvg-name="Karaoke" tvg-logo="" group-title="FMITV",Karaoke
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/690
-#EXTINF:-1 tvg-id="" tvg-name="InsanTV" tvg-logo="" group-title="FMITV",InsanTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/691
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="" group-title="FMITV",CNN Indonesia
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/692
-#EXTINF:-1 tvg-id="" tvg-name="MetroTV" tvg-logo="" group-title="FMITV",MetroTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/693
-#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC News" tvg-logo="" group-title="FMITV",REPUBLIC News
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/694
-#EXTINF:-1 tvg-id="" tvg-name="Tv9 Bharatvarsh" tvg-logo="" group-title="FMITV",Tv9 Bharatvarsh
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/695
-#EXTINF:-1 tvg-id="" tvg-name="NDTV India" tvg-logo="" group-title="FMITV",NDTV India
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/696
-#EXTINF:-1 tvg-id="" tvg-name="NDTV" tvg-logo="" group-title="FMITV",NDTV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/697
-#EXTINF:-1 tvg-id="" tvg-name="★寰宇新闻" tvg-logo="" group-title="CRTV",★寰宇新闻
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/749
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="新马",8频道
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="新马",U频道
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="新马",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="新马",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马",Astro Awani(马来西亚)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="新马",TV2(马来西亚)
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="新马",Berita RTM(马来西亚)
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="新马",RTM Sports(马来西亚)
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="新马",OKEY(马来西亚)
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="新马",TV3(马来西亚)
-https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="新马",NTV 7(马来西亚)
-https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="新马",八度空间(马来西亚)
-https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="新马",TV9(马来西亚)
-https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
-
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
-http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
-http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="香港",無綫明珠台(TVB Pearl)
-http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 tvg-id="XHP.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="香港",TVB 星河频道
-http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港",鳳凰衛視香港台
-http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有線綜合娱乐
-http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有線新闻
-http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="香港",有線財經資訊
-http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
-#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
-http://39.135.19.169:18890/PLTV/88888888/224/3221225738//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports 精選
-http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now新聞
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="HKS.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港衛視
-https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
-#EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="香港",赛马直击
-http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
-#EXTINF:-1tvg-ID="618.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="香港",有線18台
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/17
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="香港",港台電視31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="香港",港台電視32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="香港",澳視澳門台
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="香港",澳視MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="香港",澳視資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="台湾",民視台灣
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
-http://p06.iptv2asia.com:18888/http/001
-#EXTINF:-1 tvg-id="TSZ.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/300px-TTV_General_Channel_2016.png" group-title="台湾",台視綜合
-http://p06.iptv2asia.com:18888/http/002
-#EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
-http://p06.iptv2asia.com:18888/http/005
-#EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
-http://p06.iptv2asia.com:18888/http/009
-#EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="台湾",華視新聞
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾",東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 tvg-id="GS1.TW" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾",公視
-http://p06.iptv2asia.com:18888/http/016
-#EXTINF:-1 tvg-id="GS2.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="台湾",公視台語
-http://p06.iptv2asia.com:18888/http/017
-#EXTINF:-1 tvg-id="GS3.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="台湾",公視3
-http://p06.iptv2asia.com:18888/http/018
-#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="台湾",TVBS歡樂
-http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
-#EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-id="SLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾",三立財經新聞
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="台湾",大愛1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="台湾",大愛2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台湾",信吉電視
+#EXTINF：-1，香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.[m3u8](https://dtvzj.com/tag/m3u8/)
+#EXTINF：-1，香港卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF：-1，香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF：-1，香港hks
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF：-1，凤凰卫视资讯台
+http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF：-1，凤凰卫视资讯台
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF：-1，凤凰卫视中文台
+http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+#EXTINF：-1，凤凰香港台
+http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+#EXTINF：-1，TVB翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+#EXTINF：-1，无线新闻
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF：-1，无线新闻
+http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+#EXTINF：-1，有线新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
+#EXTINF：-1，有线新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF：-1，有线新闻
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF：-1，有线财经资讯
+https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+#EXTINF：-1，有线综合娱乐
+https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+#EXTINF：-1，无线新闻
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+#EXTINF：-1，无线新闻
+http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+#EXTINF：-1，耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF：-1，明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF：-1，亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF：-1，澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF：-1，莲花卫视
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF：-1，阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF：-1，阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF：-1，澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF：-1，澳门有线CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF：-1，澳门有线互动新闻
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF：-1，澳门有线CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF：-1，中华卫视台湾
+http://pull.leshantangjt.com/live/playlist.m3u8
+#EXTINF：-1，原住民族电视台
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF：-1，亚美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF：-1，中视
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF：-1，中视HD
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF：-1，中天综合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF：-1，中天娱乐
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF：-1，八大综合
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF：-1，动物星球
+http://192.154.103.75:8080//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF：-1，年代新闻
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF：-1，星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF：-1，信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-id="HZW.TW" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="台湾",華藏衛視
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RJW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾",人間衛視
-https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/6169276188001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾",唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="HAK.TW" tvg-logo="http://www.hakkatv.org.tw/img/logo-f.png" group-title="台湾",客家電視
-http://p06.iptv2asia.com:18888/http/019
-#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="台湾",原住民電視
-http://p06.iptv2asia.com:18888/http/020
-#EXTINF:-1 tvg-id="FSD.TW" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台湾",番薯電視
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-
-#EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="中国",星空卫视
-http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
-#EXTINF:-1 tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="中国",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-id="GDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中国",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="JSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中国",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-id="C4K.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
-http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
-#EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="CT2.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1 tvg-id="CT3.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 文艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="CT6.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
-#EXTINF:-1 tvg-id="CT7.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7 军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="CT8.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 tvg-id="CT9.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="C10.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="C11.CN" tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国",CCTV-11 戏曲
-http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-id="C12.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="C13.CN" tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻
-http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="C14.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="C15.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国",CCTV-15 音乐
-http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="BTV.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中国",北京卫视
-http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8 
-#EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
-http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
-#EXTINF:-1 tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="中国",重庆卫视
-http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
-#EXTINF:-1 tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中国",东南卫视
-http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-#EXTINF:-1 tvg-id="GZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中国",贵州卫视
-http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
-#EXTINF:-1 tvg-id="GSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="中国",甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="GXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="中国",广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="HAI.CN" tvg-logo="http://tc.hnntv.cn/public/imgs/wangshi1.png" group-title="中国",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 tvg-id="HBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中国",河北卫视
-http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
-#EXTINF:-1 tvg-id="HNX.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中国",河南卫视
-http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8
-#EXTINF:-1 tvg-id="HLJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国",湖北卫视
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226124/2.m3u8
-#EXTINF:-1 tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国",吉林卫视
-http://stream4.jlntv.cn/test2/sd/live.m3u8
-#EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
-#EXTINF:-1 tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中国",内蒙古卫视
-http://live.m2oplus.nmtv.cn/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="中国",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="QHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="中国",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="SIC.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="中国",四川卫视
-http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
-#EXTINF:-1 tvg-id="SZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中国",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 tvg-id="SDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中国",山东卫视 
-http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8 
-#EXTINF:-1 tvg-id="SXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中国",山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="SXS.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="中国",陕西卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 tvg-id="TJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中国",天津卫视
-http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
-#EXTINF:-1 tvg-id="YNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="中国",云南卫视
-http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 tvg-id="XZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="中国",西藏卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆卫视
-http://tv.boye.ml/iptv/xjtv.php?id=1
-#EXTINF:-1 tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中国",厦门卫视
-https://live1.kxm.xmtv.cn/xmtv/tvzb/live.m3u8
-
-#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",Al Jazeera(中东)
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(韩国)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="新闻",Africa News(非洲)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News(英国)
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="新闻",Bloomberg(美国)
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="CBSN.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="新闻",CBSN(美国)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻",CGTN(中国)
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="新闻",CGTN Documentary(中国)
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="新闻",CNN(美国)
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="新闻",CNBC World(美国)
-http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",DW(德国)
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="新闻",EuroNews(欧洲)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24(法国)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
-#EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻",鳳凰衛視中文(中国)
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
-#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="新闻",FOX Business(美国)
-https://gma2.blab.email/espnu.m3u8
-#EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="新闻",NBC News(美国)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日本)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="新闻",NDTV 24X7(印度)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="新闻",RT(俄罗斯)
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="新闻",Sky News(英国)
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="新闻",Telesur(拉丁美洲)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="新闻",TRT World(土耳其)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="电影",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive
-http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="电影",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="电影",FOX Movies
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="电影",Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FAM.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="电影",Fox Action Movies
-http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
-#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
-http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="电影",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="电影",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="电影",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="电影",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="电影",Hit Movies
-http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
-#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="电影",Sony Movies Classic
-https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=5star-2
-#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="电影",Warner TV
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 tvg-id="DLY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影",東森洋片
+#EXTINF：-1，信吉电视
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+#EXTINF：-1，国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF：-1，居家幸福
+http://61.58.60.230:9319/live/125.m3u8
+#EXTINF：-1，世纪综合
+http://61.58.60.230:9319/live/49.m3u8
+#EXTINF：-1，靖天欢乐
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF：-1，靖天资讯
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF：-1，靖天娱乐
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF：-1，靖洋戏剧
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF：-1，靖天国际
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF：-1，靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF：-1，靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF：-1，靖天映画
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF：-1，点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF：-1，博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
+#EXTINF：-1，台新闻
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF：-1，台视财经
+https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF：-1，东森洋片
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 tvg-id="DLP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",東森電影
+#EXTINF：-1，东森新闻
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF：-1，东森电影
 http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
-http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="少儿",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
-#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="少儿",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="少儿",Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="少儿",CBeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="少儿",Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="少儿",Disney Channel
-http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
-#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="少儿",Pop UK
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="少儿",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="少儿",Nick
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="少儿",Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="少儿",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="少儿",TokuSHOUTsu
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="家庭娱乐",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="家庭娱乐",Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="家庭娱乐",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="CHV.Asia" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="家庭娱乐",Channel [V]
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
-http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central Asia
-https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="家庭娱乐",Comedy Central
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="家庭娱乐",Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="家庭娱乐",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
-http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
-http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
-#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="家庭娱乐",KIX
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="家庭娱乐",National Geographic
-http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="家庭娱乐",Nat Geo People
-http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
-http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
-#EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="家庭娱乐",SBS Food
-https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="家庭娱乐",Smithsonian
-http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
-
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="DDS.IN" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="体育",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="DSP.IN" tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="体育",Discovery Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="体育",ESPN
-http://185.59.223.135/espn/index.m3u8
-#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="体育",ESPN 2
-http://185.59.223.135/espn2/index.m3u8
-#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="体育",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="体育",Fight Sports
-http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
-#EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="体育",Fox Soccer Plus
-https://e10.julinewr.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
-#EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="体育",Fox Sports 3 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="体育",GolTV
-https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="体育",Golf Channel
-http://103.47.132.164/PLTV/88888888/224/3221227325/index.m3u8
-#EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="体育",Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
-#EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="体育",NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="体育",英超足球级联赛 1
-http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="体育",英超足球级联赛 2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="体育",英超足球级联赛 3
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="体育",英超足球级联赛 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="体育",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",Sony Ten 1
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",Sony Ten 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="体育",Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="体育",Sony Six
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="体育",Sky Racing 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-ID="SK2.AU" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="体育",Sky Racing 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="体育",Sky Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF：-1，龙祥时代电影
+http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF：-1，好莱坞电影
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF：-1，华纳电影
+http://192.154.103.75:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF：-1，三立新闻
+http://60.199.188.66/HLS/WG_ETTV-N/02.m3u8
+#EXTINF：-1，TVBS新闻
+http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
+#EXTINF：-1，大爱二台
+http://61.58.60.230:9319/live/191.m3u8
+#EXTINF：-1，BBC经典
+http://qdntv96789.applinzi.com/96tv.php?633138330
+#EXTINF：-1，FOX动作
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF：-1，HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF：-1，纬来精采
+https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
+#EXTINF：-1，博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF：-1，NHK华语视界
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF：-1，新加坡8频道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF：-1，BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF：-1，C +
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF：-1，香港电台31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF：-1，香港电台32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF：-1，国家地理
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF：-1，国家地理人士
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF：-1，国家地理野生
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF：-1，全美电视
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF：-1，加拿大国家电视台
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF：-1，放松吉他音乐
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF：-1，新闻网（高清）
+https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+#EXTINF：-1，FASHIONTV
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+#EXTINF：-1，立即开始
+https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF：-1，5m快速工艺品
+https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+#EXTINF：-1，5m生活黑客
+https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+#EXTINF：-1，5m厨房黑客
+https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+#EXTINF：-1，韩国中央电视台
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF：-1，MBC
+http://211.54.140.36/hdmi
+#EXTINF：-1，KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF：-1，SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF：-1，赶上1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF：-1，MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF：-1，MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF：-1，OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF：-1，YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF：-1，YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF：-1，YTN韩文
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
+#EXTINF：-1，NHK総合
+http://203.162.235.41:16903
+#EXTINF：-1，NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF：-1，NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF：-1，TBSテレビ
+http://203.162.235.41:16907
+#EXTINF：-1，BS TBS
+http://203.162.235.41:16913
+#EXTINF：-1，テレビ朝日
+http://203.162.235.41:16906
+#EXTINF：-1，BS朝日
+http://203.162.235.41:16914
+#EXTINF：-1，フジテレビ
+http://203.162.235.41:16904
+#EXTINF：-1，BSフジ
+http://203.162.235.41:16911
+#EXTINF：-1，テレビ东京
+http://203.162.235.41:16908
+#EXTINF：-1，BS东京
+http://203.162.235.41:16915
+#EXTINF：-1，BS日テレ
+http://203.162.235.41:16912
+#EXTINF：-1，日テレ
+http://203.162.235.41:16905
+#EXTINF：-1，WOWOWシネマ
+http://203.162.235.41:16916
+#EXTINF：-1，群马テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+#EXTINF：-1，东京MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF：-1，东京MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF：-1，MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF：-1，ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF：-1，日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF：-1，花花公子蒙古
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF：-1，韩国Arirang（Opt-1）
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF：-1，泰国DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF：-1，越南ANTVHD
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF：-1，美国芝加哥WGN9频道HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF：-1，美国免费IPTV
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF：-1，美国2018年7月12日
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF：-1，美国世界新闻
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
+#EXTINF：-1，美国彭博电视台欧洲
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF：-1，美国CGTN（Opt-1）
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF：-1，美国CGTN（Opt-2）
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF：-1，美国360北
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF：-1，美国Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF：-1，美国布法罗电视台
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF：-1，美国CBS新闻（Opt-1）
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF：-1，美国丹佛8电视台
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF：-1，美国福克斯新闻台电台
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF：-1，美国珠宝电视台
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF：-1，美国Newsmax电视台
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF：-1，美国VTV 6频道科罗拉多
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF：-1，美国天气国家
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF：-1，美国本土CBS 4新闻（印第安纳波利斯）
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF：-1，美国本土第11频道新闻WPXI（匹兹堡）
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
