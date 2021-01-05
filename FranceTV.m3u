@@ -1,723 +1,1071 @@
 #EXTM3U
-#EXTINF:-1,FR002:6Ter
+#EXTINF:-1 tvg-id="" tvg-name="France O HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France O HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1980.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France 2 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1981.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France 3 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1982.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France 4 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1983.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France 5 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1984.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",M6 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1985.ts
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TFX HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1986.ts
+#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",C8 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",ARTE HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1988.ts
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",W9 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1989.ts
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TF1 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1990.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",NRJ 12 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1991.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRJ TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",NRJ TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1992.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",CANAL+ HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1993.ts
+#EXTINF:-1 tvg-id="" tvg-name="6ter HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",6ter HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1994.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Story HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Story HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1995.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RTL9 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1996.ts
+#EXTINF:-1 tvg-id="" tvg-name="Numero 23 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Numero 23 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1997.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cherie 25 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1998.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Maghreb Orient FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TV5 Monde Maghreb Orient FHD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/1999.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 Mont Blanc" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TV 8 Mont Blanc
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2000.ts
+#EXTINF:-1 tvg-id="" tvg-name="CCTV French" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",CCTV French
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2001.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedie+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Comedie+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2002.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES1" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",ES1
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2003.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS UN" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RTS UN
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2004.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RTS Deux
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2005.ts
+#EXTINF:-1 tvg-id="" tvg-name="OMTV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",OMTV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2006.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Museum Channel HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",The Museum Channel HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2007.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment" tvg-logo="http://files.rednetcontent.com/chlogo/E!_Logo.png" group-title="lskytv",E! Entertainment
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2008.ts
+#EXTINF:-1 tvg-id="" tvg-name="Season" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Season
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2009.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",KTO
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Sundance Channel
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brava HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Brava HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altice Studio" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Altice Studio
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2013.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cuisine" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",My Cuisine
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Weo" tvg-logo="http://files.rednetcontent.com/chlogo/default.pn" group-title="lskytv",Weo
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2015.ts
+#EXTINF:-1 tvg-id="" tvg-name="L Equipe" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",L Equipe
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Trek HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2017.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",AB MOTEURS
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Golf Channel
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2019.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport1.png" group-title="lskytv",beIN SPORTS 1 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2020.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS 2 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2021.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS 3 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2022.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS 1 FHD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2023.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS 2 FHD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2024.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS 3 FHD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2025.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 4 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2026.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 5 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2027.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 8 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2028.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 9 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2029.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 6 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2030.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 7 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2031.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Max 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",beIN SPORTS Max 10 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2032.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal+ Sport
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2033.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOOT+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",FOOT+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2034.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Eurosport 1 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Eurosport 2 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tele Club Zoom" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Tele Club Zoom
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motors Sport" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Motors Sport
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Info Sport" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Info Sport
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Extreme Sports
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lequipe 21" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Lequipe 21
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Equidia Live" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Equidia Live
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2042.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEUTICAL" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",NEUTICAL
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2043.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport News
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2044.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 1 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2045.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 2 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2046.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 3 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2047.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 4 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2048.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 5 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2049.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 6 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2050.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 7 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2051.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 8 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2052.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 9 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2053.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 10 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2054.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 11 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2055.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 12 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2056.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 13 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 13 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2057.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Sport 1 FHD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Golf+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2059.ts
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TF1 Series Films HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2060.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TCM Cinema
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2061.ts
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TMC HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2062.ts
+#EXTINF:-1 tvg-id="" tvg-name="Action HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Action HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Decale HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Paramount Decale HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Paramount Channel
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Serie Club HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2066.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",AB1 HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2067.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",AB3
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal+ Cinema
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal+ Series
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2070.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEVA HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TEVA HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal+ Decale
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2072.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal+ Family
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Emotion
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Classic
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premiere" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Premiere
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Frisson
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Club" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Club
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Cine+ Famiz
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Syfy HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rouge TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Rouge TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2081.ts
+#EXTINF:-1 tvg-id="" tvg-name="13eme RUE" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",13eme RUE
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2082.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",OCS Choc
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2083.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",OCS City
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2084.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",OCS Geants
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2085.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",OCS Max
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2086.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Breizh" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TV Breizh
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2087.ts
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",COMEDY CENTRAL
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Paris Premiere HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Warner TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Teletoon+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gulli HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Gulli HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Mangas
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://files.rednetcontent.com/chlogo/Boomerang_tv_logo.png" group-title="lskytv",Boomerang
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Teen" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="lskytv",Nickelodeon Teen
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="lskytv",Nickelodeon
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://files.rednetcontent.com/chlogo/CartoonNetwork.png" group-title="lskytv",Cartoon Network
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="lskytv",Disney Channel
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Disney XD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinema" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Disney Cinema
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://files.rednetcontent.com/chlogo/Disney_Junior.png" group-title="lskytv",Disney Junior
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal J" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Canal J
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boing HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Boing HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Game One" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Game One
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Piwi+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Piwi+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Tiji
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior" tvg-logo="http://files.rednetcontent.com/chlogo/NICKELODEON_Logo.png" group-title="lskytv",Nickelodeon Junior
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Toonami
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2108.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM Business" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",BFM Business
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2109.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",BFM TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Euronews
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2111.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCP HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",LCP HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2112.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",LCI HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2113.ts
+#EXTINF:-1 tvg-id="" tvg-name="C News HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",C News HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2114.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France 24
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Europa" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TV5 Monde Europa
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2116.ts
+#EXTINF:-1 tvg-id="" tvg-name="I24 News" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",I24 News
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2117.ts
+#EXTINF:-1 tvg-id="" tvg-name="France Info HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",France Info HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2118.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVM 3" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",TVM 3
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2119.ts
+#EXTINF:-1 tvg-id="" tvg-name="C Star HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",C Star HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2120.ts
+#EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",LFM TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2121.ts
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",BET
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2122.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RFM TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Trace Urban
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2124.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV France" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",MTV France
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2125.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",MTV Dance
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2126.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",MTV Hits
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2127.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",VH1 Classic
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2128.ts
+#EXTINF:-1 tvg-id="" tvg-name="One TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",One TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Mezzo
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Mezzo Live
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2131.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",MCM
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2132.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",MCM Top
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2133.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",M6 Music HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2134.ts
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",NRJ HITS HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2135.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",RMC Decouverte HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animaux HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Animaux HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chasse  Peche" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Chasse  Peche
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Science et Vie HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Science et Vie HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2139.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime District" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Crime District
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Planete+
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2141.ts
+#EXTINF:-1 tvg-id="" tvg-name="Voyage" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Voyage
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete AE" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Planete AE
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planete CI" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Planete CI
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2144.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png" group-title="lskytv",National Geographic
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2145.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png" group-title="lskytv",National Geographic Wild
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2146.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://files.rednetcontent.com/chlogo/disco.png" group-title="lskytv",Discovery
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Discovery Science
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2148.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Discovery Family
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Discovery Investigation HD
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Ushuaia TV
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historie" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Historie
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Toute L Histoire" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="lskytv",Toute L Histoire
+http://1skytv.com:8889/live/VgVNQvRJiL/bmRYPxNavJ/2153.ts
+#EXTINF:-1 tvg-logo="" group-title="acc2",002:6Ter
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2864
-#EXTINF:-1,FR004:AB1
+#EXTINF:-1 tvg-logo="" group-title="acc2",004:AB1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2862
-#EXTINF:-1,FR005:AB3
+#EXTINF:-1 tvg-logo="" group-title="acc2",005:AB3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2861
-#EXTINF:-1,FR007:Animaux
+#EXTINF:-1 tvg-logo="" group-title="acc2",007:Animaux
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2859
-#EXTINF:-1,FR008:Arte
+#EXTINF:-1 tvg-logo="" group-title="acc2",008:Arte
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2858
-#EXTINF:-1,FR022:C8
+#EXTINF:-1 tvg-logo="" group-title="acc2",022:C8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2844
-#EXTINF:-1,FR028:Canal
+#EXTINF:-1 tvg-logo="" group-title="acc2",028:Canal
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2838
-#EXTINF:-1,FR031:Chasse et Pache
+#EXTINF:-1 tvg-logo="" group-title="acc2",031:Chasse et Pache
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2835
-#EXTINF:-1,FR032:Cherie 25
+#EXTINF:-1 tvg-logo="" group-title="acc2",032:Cherie 25
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2834
-#EXTINF:-1,FR040:Comedie Plus
+#EXTINF:-1 tvg-logo="" group-title="acc2",040:Comedie Plus
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2826
-#EXTINF:-1,FR041:CStar
+#EXTINF:-1 tvg-logo="" group-title="acc2",041:CStar
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2825
-#EXTINF:-1,FR042:Discovery
+#EXTINF:-1 tvg-logo="" group-title="acc2",042:Discovery
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2824
-#EXTINF:-1,FR043:Discovery Science
+#EXTINF:-1 tvg-logo="" group-title="acc2",043:Discovery Science
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2823
-#EXTINF:-1,FR048:Equidiae Live
+#EXTINF:-1 tvg-logo="" group-title="acc2",048:Equidiae Live
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2818
-#EXTINF:-1,FR052:France 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",052:France 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2814
-#EXTINF:-1,FR054:France 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",054:France 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2812
-#EXTINF:-1,FR055:France 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",055:France 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2811
-#EXTINF:-1,FR056:France 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",056:France 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2810
-#EXTINF:-1,FR057:France O
+#EXTINF:-1 tvg-logo="" group-title="acc2",057:France O
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2809
-#EXTINF:-1,FR058:Game One
+#EXTINF:-1 tvg-logo="" group-title="acc2",058:Game One
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2808
-#EXTINF:-1,FR060:HD1
+#EXTINF:-1 tvg-logo="" group-title="acc2",060:HD1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2806
-#EXTINF:-1,FR061:i Tele
+#EXTINF:-1 tvg-logo="" group-title="acc2",061:i Tele
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2805
-#EXTINF:-1,FR063:L'EQUIPE 21
+#EXTINF:-1 tvg-logo="" group-title="acc2",063:L'EQUIPE 21
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2803
-#EXTINF:-1,FR065:M6
+#EXTINF:-1 tvg-logo="" group-title="acc2",065:M6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2801
-#EXTINF:-1,FR067:NAT GEO
+#EXTINF:-1 tvg-logo="" group-title="acc2",067:NAT GEO
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2799
-#EXTINF:-1,FR068:NAT GEO WILD
+#EXTINF:-1 tvg-logo="" group-title="acc2",068:NAT GEO WILD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2798
-#EXTINF:-1,FR070:NRJ Hits
+#EXTINF:-1 tvg-logo="" group-title="acc2",070:NRJ Hits
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2796
-#EXTINF:-1,FR071:TFX
+#EXTINF:-1 tvg-logo="" group-title="acc2",071:TFX
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2795
-#EXTINF:-1,FR073:Pairs Permiere
+#EXTINF:-1 tvg-logo="" group-title="acc2",073:Pairs Permiere
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2793
-#EXTINF:-1,FR075:Planete
+#EXTINF:-1 tvg-logo="" group-title="acc2",075:Planete
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2791
-#EXTINF:-1,FR076:Planete A&E
+#EXTINF:-1 tvg-logo="" group-title="acc2",076:Planete A&E
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2790
-#EXTINF:-1,FR077:Planete CI
+#EXTINF:-1 tvg-logo="" group-title="acc2",077:Planete CI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2789
-#EXTINF:-1,FR078:RTL9
+#EXTINF:-1 tvg-logo="" group-title="acc2",078:RTL9
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2788
-#EXTINF:-1,FR079:Seasons
+#EXTINF:-1 tvg-logo="" group-title="acc2",079:Seasons
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2787
-#EXTINF:-1,FR084:Syfy FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",084:Syfy FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2782
-#EXTINF:-1,FR085:Teva
+#EXTINF:-1 tvg-logo="" group-title="acc2",085:Teva
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2781
-#EXTINF:-1,FR087:TF1 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",087:TF1 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2779
-#EXTINF:-1,FR088:Toute Lhistoire
+#EXTINF:-1 tvg-logo="" group-title="acc2",088:Toute Lhistoire
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2778
-#EXTINF:-1,FR089:Trace Urban
+#EXTINF:-1 tvg-logo="" group-title="acc2",089:Trace Urban
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2777
-#EXTINF:-1,FR090:TV Breizh
+#EXTINF:-1 tvg-logo="" group-title="acc2",090:TV Breizh
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2776
-#EXTINF:-1,FR091:TV5 Monde
+#EXTINF:-1 tvg-logo="" group-title="acc2",091:TV5 Monde
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2775
-#EXTINF:-1,FR092:Voyage
+#EXTINF:-1 tvg-logo="" group-title="acc2",092:Voyage
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2774
-#EXTINF:-1,FR093:W9
+#EXTINF:-1 tvg-logo="" group-title="acc2",093:W9
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2773
-#EXTINF:-1,FR096:NRJ12 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",096:NRJ12 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28213
-#EXTINF:-1,FR101:D8
+#EXTINF:-1 tvg-logo="" group-title="acc2",101:D8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28208
-#EXTINF:-1,FR109:COMEDIE  HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",109:COMEDIE  HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28200
-#EXTINF:-1,FR110:CANAL  HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",110:CANAL  HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28199
-#EXTINF:-1,FR114:RTS DEUX
+#EXTINF:-1 tvg-logo="" group-title="acc2",114:RTS DEUX
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28195
-#EXTINF:-1,FR115:LUXE
+#EXTINF:-1 tvg-logo="" group-title="acc2",115:LUXE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28194
-#EXTINF:-1,FR116:NUMERO 23 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",116:NUMERO 23 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28193
-#EXTINF:-1,FR122:PARIS PREMIERE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",122:PARIS PREMIERE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28187
-#EXTINF:-1,FR123:RMC Decouverte HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",123:RMC Decouverte HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28186
-#EXTINF:-1,FR124:RESTEZ 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",124:RESTEZ 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28185
-#EXTINF:-1,FR125:RTS Un
+#EXTINF:-1 tvg-logo="" group-title="acc2",125:RTS Un
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28184
-#EXTINF:-1,FR126:SCIENCE ET VIE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",126:SCIENCE ET VIE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28183
-#EXTINF:-1,FR127:SCIENCES & VIE
+#EXTINF:-1 tvg-logo="" group-title="acc2",127:SCIENCES & VIE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28182
-#EXTINF:-1,FR136:Persiana 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",136:Persiana 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28173
-#EXTINF:-1,FR137:WEO HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",137:WEO HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28172
-#EXTINF:-1,FR139:NT1
+#EXTINF:-1 tvg-logo="" group-title="acc2",139:NT1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28170
-#EXTINF:-1,FR141:TEVA/TMC
+#EXTINF:-1 tvg-logo="" group-title="acc2",141:TEVA/TMC
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28168
-#EXTINF:-1,FR142:TREK HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",142:TREK HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28167
-#EXTINF:-1,FR144:Radio Contact
+#EXTINF:-1 tvg-logo="" group-title="acc2",144:Radio Contact
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28165
-#EXTINF:-1,FR145:HISTOIRE
+#EXTINF:-1 tvg-logo="" group-title="acc2",145:HISTOIRE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28164
-#EXTINF:-1,FR146:Trace Mziki
+#EXTINF:-1 tvg-logo="" group-title="acc2",146:Trace Mziki
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28163
-#EXTINF:-1,FR149:Trace Toca
+#EXTINF:-1 tvg-logo="" group-title="acc2",149:Trace Toca
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28160
-#EXTINF:-1,FR156:Trace Tropical
+#EXTINF:-1 tvg-logo="" group-title="acc2",156:Trace Tropical
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28153
-#EXTINF:-1,FR157:Trace Urban
+#EXTINF:-1 tvg-logo="" group-title="acc2",157:Trace Urban
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28152
-#EXTINF:-1,FR159:TV3V
+#EXTINF:-1 tvg-logo="" group-title="acc2",159:TV3V
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28150
-#EXTINF:-1,FR160:ALTICE STUDIO HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",160:ALTICE STUDIO HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28149
-#EXTINF:-1,FR161:BET
+#EXTINF:-1 tvg-logo="" group-title="acc2",161:BET
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28148
-#EXTINF:-1,FR162:J One
+#EXTINF:-1 tvg-logo="" group-title="acc2",162:J One
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28147
-#EXTINF:-1,FR164:FOOT  24
+#EXTINF:-1 tvg-logo="" group-title="acc2",164:FOOT  24
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28145
-#EXTINF:-1,FR165:TV5 Style
+#EXTINF:-1 tvg-logo="" group-title="acc2",165:TV5 Style
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28144
-#EXTINF:-1,FR166:MCM
+#EXTINF:-1 tvg-logo="" group-title="acc2",166:MCM
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28143
-#EXTINF:-1,FR167:MCM TOP
+#EXTINF:-1 tvg-logo="" group-title="acc2",167:MCM TOP
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28142
-#EXTINF:-1,FR168:Science & Vie HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",168:Science & Vie HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28141
-#EXTINF:-1,FR169:CRIME DISTRICT HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",169:CRIME DISTRICT HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28140
-#EXTINF:-1,FR170:E! Entertainment
+#EXTINF:-1 tvg-logo="" group-title="acc2",170:E! Entertainment
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28139
-#EXTINF:-1,FR171:BFM business
+#EXTINF:-1 tvg-logo="" group-title="acc2",171:BFM business
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28138
-#EXTINF:-1,FR172:Discovery Investigation HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",172:Discovery Investigation HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28137
-#EXTINF:-1,FR173:BE CURIOUS TV HD (1080P)
+#EXTINF:-1 tvg-logo="" group-title="acc2",173:BE CURIOUS TV HD (1080P)
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28136
-#EXTINF:-1,FR175:EQUIDIA LIFE
+#EXTINF:-1 tvg-logo="" group-title="acc2",175:EQUIDIA LIFE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28134
-#EXTINF:-1,FR178:Syfy HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",178:Syfy HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28131
-#EXTINF:-1,FR179:Teva
+#EXTINF:-1 tvg-logo="" group-title="acc2",179:Teva
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28130
-#EXTINF:-1,FR180:TF1 FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",180:TF1 FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28129
-#EXTINF:-1,FR195:VOSGES TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",195:VOSGES TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28114
-#EXTINF:-1,FR196:ALTICE STUDIO FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",196:ALTICE STUDIO FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28113
-#EXTINF:-1,FR197:Antenne Reunion
+#EXTINF:-1 tvg-logo="" group-title="acc2",197:Antenne Reunion
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28112
-#EXTINF:-1,FR198:VICELAND HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",198:VICELAND HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28111
-#EXTINF:-1,FR199:USHUAIA HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",199:USHUAIA HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28110
-#EXTINF:-1,FR200:BET FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",200:BET FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28109
-#EXTINF:-1,FR201:BFM Business HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",201:BFM Business HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28108
-#EXTINF:-1,FR202:BFM HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",202:BFM HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28107
-#EXTINF:-1,FR203:BFM PARIS HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",203:BFM PARIS HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28106
-#EXTINF:-1,FR204:BERBERE TELEVISION
+#EXTINF:-1 tvg-logo="" group-title="acc2",204:BERBERE TELEVISION
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28105
-#EXTINF:-1,FR207:ILTV
+#EXTINF:-1 tvg-logo="" group-title="acc2",207:ILTV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28102
-#EXTINF:-1,FR209:NOVELAS HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",209:NOVELAS HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28100
-#EXTINF:-1,FR210:13EME RUE
+#EXTINF:-1 tvg-logo="" group-title="acc2",210:13EME RUE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28099
-#EXTINF:-1,FR211:GOLF+ HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",211:GOLF+ HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28098
-#EXTINF:-1,FR212:Bblack! Caribbean
+#EXTINF:-1 tvg-logo="" group-title="acc2",212:Bblack! Caribbean
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28097
-#EXTINF:-1,FR213:CPAC
+#EXTINF:-1 tvg-logo="" group-title="acc2",213:CPAC
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28096
-#EXTINF:-1,FR214:NRJ HITS BELGIQUE
+#EXTINF:-1 tvg-logo="" group-title="acc2",214:NRJ HITS BELGIQUE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28095
-#EXTINF:-1,FR215:FRANCE INFO
+#EXTINF:-1 tvg-logo="" group-title="acc2",215:FRANCE INFO
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28094
-#EXTINF:-1,FR216:Serie Club
+#EXTINF:-1 tvg-logo="" group-title="acc2",216:Serie Club
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28093
-#EXTINF:-1,FR217:M6 Boutique HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",217:M6 Boutique HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28092
-#EXTINF:-1,FR218:M6 Music Hits
+#EXTINF:-1 tvg-logo="" group-title="acc2",218:M6 Music Hits
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28091
-#EXTINF:-1,FR219:HD 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",219:HD 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28090
-#EXTINF:-1,FR220:RTS LA DEUX HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",220:RTS LA DEUX HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28089
-#EXTINF:-1,FR221:Alsace TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",221:Alsace TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28088
-#EXTINF:-1,FR222:SyFy Universal HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",222:SyFy Universal HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28087
-#EXTINF:-1,FR233:Cine Action
+#EXTINF:-1 tvg-logo="" group-title="acc2",233:Cine Action
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28076
-#EXTINF:-1,FR234:Cine+ Classic
+#EXTINF:-1 tvg-logo="" group-title="acc2",234:Cine+ Classic
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28075
-#EXTINF:-1,FR235:RESTEZ 2 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",235:RESTEZ 2 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28074
-#EXTINF:-1,FR236:DJAZZ TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",236:DJAZZ TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28073
-#EXTINF:-1,FR237:MTV BASE
+#EXTINF:-1 tvg-logo="" group-title="acc2",237:MTV BASE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28072
-#EXTINF:-1,FR238:MTV DANCE
+#EXTINF:-1 tvg-logo="" group-title="acc2",238:MTV DANCE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28071
-#EXTINF:-1,FR239:MTV HITS
+#EXTINF:-1 tvg-logo="" group-title="acc2",239:MTV HITS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28070
-#EXTINF:-1,FR240:TVM 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",240:TVM 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28069
-#EXTINF:-1,FR241:TV5 MONDE
+#EXTINF:-1 tvg-logo="" group-title="acc2",241:TV5 MONDE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28068
-#EXTINF:-1,FR242:CANAL  DECALE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",242:CANAL  DECALE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28067
-#EXTINF:-1,FR243:CANAL  Emotion HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",243:CANAL  Emotion HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28066
-#EXTINF:-1,FR244:CANAL  FAMILY HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",244:CANAL  FAMILY HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28065
-#EXTINF:-1,FR245:Canal+ HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",245:Canal+ HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28064
-#EXTINF:-1,FR247:TRACE NAIJA
+#EXTINF:-1 tvg-logo="" group-title="acc2",247:TRACE NAIJA
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28062
-#EXTINF:-1,FR248:CANAL  SERIE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",248:CANAL  SERIE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28061
-#EXTINF:-1,FR249:TV7 Bordeaux
+#EXTINF:-1 tvg-logo="" group-title="acc2",249:TV7 Bordeaux
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28060
-#EXTINF:-1,FR251:CINE  CLUB HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",251:CINE  CLUB HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28058
-#EXTINF:-1,FR252:CINE FRISSON HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",252:CINE FRISSON HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28057
-#EXTINF:-1,FR253:CINE  Star HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",253:CINE  Star HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28056
-#EXTINF:-1,FR255:TV5 Europe HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",255:TV5 Europe HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28054
-#EXTINF:-1,FR258:Discovery FAMILY FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",258:Discovery FAMILY FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28051
-#EXTINF:-1,FR259:Discovery INVESTIGATION FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",259:Discovery INVESTIGATION FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28050
-#EXTINF:-1,FR260:E! FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",260:E! FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28049
-#EXTINF:-1,FR263:RTS LA UN
+#EXTINF:-1 tvg-logo="" group-title="acc2",263:RTS LA UN
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28046
-#EXTINF:-1,FR264:ELLE GIRL HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",264:ELLE GIRL HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28045
-#EXTINF:-1,FR269:VIA MIRABELLE TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",269:VIA MIRABELLE TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28040
-#EXTINF:-1,FR270:FOOT 24 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",270:FOOT 24 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28039
-#EXTINF:-1,FR271:TREK FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",271:TREK FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28038
-#EXTINF:-1,FR272:FRANCEO HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",272:FRANCEO HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28037
-#EXTINF:-1,FR273:via Occitanie TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",273:via Occitanie TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28036
-#EXTINF:-1,FR274:Via Vosges TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",274:Via Vosges TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28035
-#EXTINF:-1,FR275:GONG MAX HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",275:GONG MAX HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28034
-#EXTINF:-1,FR276:DISNEY+
+#EXTINF:-1 tvg-logo="" group-title="acc2",276:DISNEY+
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28033
-#EXTINF:-1,FR277:RTS Deux FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",277:RTS Deux FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28032
-#EXTINF:-1,FR279:J ONE FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",279:J ONE FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28030
-#EXTINF:-1,FR282:LA CHAINE NORMANDIE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",282:LA CHAINE NORMANDIE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28027
-#EXTINF:-1,FR283:TRACE Gospel HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",283:TRACE Gospel HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/49560
-#EXTINF:-1,FR286:TVPI
+#EXTINF:-1 tvg-logo="" group-title="acc2",286:TVPI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28023
-#EXTINF:-1,FR287:W9 Music
+#EXTINF:-1 tvg-logo="" group-title="acc2",287:W9 Music
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28022
-#EXTINF:-1,FR288:PLUG RTL
+#EXTINF:-1 tvg-logo="" group-title="acc2",288:PLUG RTL
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28021
-#EXTINF:-1,FR289:MCM HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",289:MCM HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28020
-#EXTINF:-1,FR292:TRACE AYITI
+#EXTINF:-1 tvg-logo="" group-title="acc2",292:TRACE AYITI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28017
-#EXTINF:-1,FR293:TRACE AFRICA HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",293:TRACE AFRICA HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28016
-#EXTINF:-1,FR294:MTV FRANCE
+#EXTINF:-1 tvg-logo="" group-title="acc2",294:MTV FRANCE
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28015
-#EXTINF:-1,FR295:MTV Music
+#EXTINF:-1 tvg-logo="" group-title="acc2",295:MTV Music
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28014
-#EXTINF:-1,FR297:MY CUISINE FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",297:MY CUISINE FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28012
-#EXTINF:-1,FR299:La Chaine Normande
+#EXTINF:-1 tvg-logo="" group-title="acc2",299:La Chaine Normande
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28010
-#EXTINF:-1,FR300:AB MOTEURS
+#EXTINF:-1 tvg-logo="" group-title="acc2",300:AB MOTEURS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28009
-#EXTINF:-1,FR303:CGTN
+#EXTINF:-1 tvg-logo="" group-title="acc2",303:CGTN
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28006
-#EXTINF:-1,FR304:RTL FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",304:RTL FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28005
-#EXTINF:-1,FR312:OLTV HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",312:OLTV HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27997
-#EXTINF:-1,FR313:TRACE GOSPEL
+#EXTINF:-1 tvg-logo="" group-title="acc2",313:TRACE GOSPEL
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27996
-#EXTINF:-1,FR314:Orange Cinema 1 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",314:Orange Cinema 1 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27995
-#EXTINF:-1,FR320:Planete+ HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",320:Planete+ HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27989
-#EXTINF:-1,FR323:SyFy Universal
+#EXTINF:-1 tvg-logo="" group-title="acc2",323:SyFy Universal
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27986
-#EXTINF:-1,FR324:Equida_FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",324:Equida_FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27985
-#EXTINF:-1,FR330:ALSACE 20
+#EXTINF:-1 tvg-logo="" group-title="acc2",330:ALSACE 20
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27979
-#EXTINF:-1,FR331:A+
+#EXTINF:-1 tvg-logo="" group-title="acc2",331:A+
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27978
-#EXTINF:-1,FR334:NOLYWOOD
+#EXTINF:-1 tvg-logo="" group-title="acc2",334:NOLYWOOD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27975
-#EXTINF:-1,FR335:PICKLE TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",335:PICKLE TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27974
-#EXTINF:-1,FR344:RT France
+#EXTINF:-1 tvg-logo="" group-title="acc2",344:RT France
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27965
-#EXTINF:-1,FR347:Fashion L'Original
+#EXTINF:-1 tvg-logo="" group-title="acc2",347:Fashion L'Original
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27962
-#EXTINF:-1,FR353:BipTV
+#EXTINF:-1 tvg-logo="" group-title="acc2",353:BipTV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27956
-#EXTINF:-1,FR356:Bblack Classik
+#EXTINF:-1 tvg-logo="" group-title="acc2",356:Bblack Classik
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27953
-#EXTINF:-1,FR:-----|SPORT|------------------------------
+#EXTINF:-1 tvg-logo="" group-title="acc2",:-----|SPORT|------------------------------
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/60618
-#EXTINF:-1,FR003:AB Moteur
+#EXTINF:-1 tvg-logo="" group-title="acc2",003:AB Moteur
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2863
-#EXTINF:-1,FR009:Bein Sport 4 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",009:Bein Sport 4 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2857
-#EXTINF:-1,FR010:Bein Sport 10 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",010:Bein Sport 10 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2856
-#EXTINF:-1,FR011:Bein Sport 5 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",011:Bein Sport 5 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2855
-#EXTINF:-1,FR012:Bein Sport 6 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",012:Bein Sport 6 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2854
-#EXTINF:-1,FR013:Bein Sport 7 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",013:Bein Sport 7 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2853
-#EXTINF:-1,FR014:Bein Sport 8 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",014:Bein Sport 8 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2852
-#EXTINF:-1,FR015:Bein Sport 9 Max
+#EXTINF:-1 tvg-logo="" group-title="acc2",015:Bein Sport 9 Max
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2851
-#EXTINF:-1,FR016:Bein Sport 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",016:Bein Sport 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2850
-#EXTINF:-1,FR017:Bein Sport 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",017:Bein Sport 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2849
-#EXTINF:-1,FR018:Bein Sport  2
+#EXTINF:-1 tvg-logo="" group-title="acc2",018:Bein Sport  2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2848
-#EXTINF:-1,FR027:Canal  Sport
+#EXTINF:-1 tvg-logo="" group-title="acc2",027:Canal  Sport
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2839
-#EXTINF:-1,FR050:Euro Sport 1 FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",050:Euro Sport 1 FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2816
-#EXTINF:-1,FR051:Euro Sport 2 FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",051:Euro Sport 2 FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2815
-#EXTINF:-1,FR062:Info Sport
+#EXTINF:-1 tvg-logo="" group-title="acc2",062:Info Sport
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2804
-#EXTINF:-1,FR080:SFR Sport 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",080:SFR Sport 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2786
-#EXTINF:-1,FR081:SFR Sport 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",081:SFR Sport 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2785
-#EXTINF:-1,FR082:SFR Sport 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",082:SFR Sport 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2784
-#EXTINF:-1,FR083:SFR Sport 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",083:SFR Sport 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2783
-#EXTINF:-1,FR111:Eurosport 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",111:Eurosport 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28198
-#EXTINF:-1,FR112:Eurosport 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",112:Eurosport 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28197
-#EXTINF:-1,FR113:INFOSPORT
+#EXTINF:-1 tvg-logo="" group-title="acc2",113:INFOSPORT
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28196
-#EXTINF:-1,FR176:Golf Channel France
+#EXTINF:-1 tvg-logo="" group-title="acc2",176:Golf Channel France
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28133
-#EXTINF:-1,FR177:BFM SPORT
+#EXTINF:-1 tvg-logo="" group-title="acc2",177:BFM SPORT
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28132
-#EXTINF:-1,FR329:Foot +
+#EXTINF:-1 tvg-logo="" group-title="acc2",329:Foot +
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27980
-#EXTINF:-1,FR250:CANAL  SPORT FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",250:CANAL  SPORT FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28059
-#EXTINF:-1,FR337:RMC ACCESS 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",337:RMC ACCESS 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27972
-#EXTINF:-1,FR338:RMC ACCESS  2
+#EXTINF:-1 tvg-logo="" group-title="acc2",338:RMC ACCESS  2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27971
-#EXTINF:-1,FR349:RMC SPORT 1 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",349:RMC SPORT 1 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27960
-#EXTINF:-1,FR350:RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",350:RMC SPORT 2 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27959
-#EXTINF:-1,FR351:RMC SPORT 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",351:RMC SPORT 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27958
-#EXTINF:-1,FR352:RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",352:RMC SPORT 4 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27957
-#EXTINF:-1,FR121:RMC Sport 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",121:RMC Sport 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28188
-#EXTINF:-1,FR348:RMC Sport 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",348:RMC Sport 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27961
-#EXTINF:-1,FR129:RMC Sport 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",129:RMC Sport 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28180
-#EXTINF:-1,FR130:RMC Sport 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",130:RMC Sport 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28179
-#EXTINF:-1,FR254:RMC Sport 9
+#EXTINF:-1 tvg-logo="" group-title="acc2",254:RMC Sport 9
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28055
-#EXTINF:-1,FR256:RMC Sport 10
+#EXTINF:-1 tvg-logo="" group-title="acc2",256:RMC Sport 10
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28053
-#EXTINF:-1,FR257:RMC Sport 11
+#EXTINF:-1 tvg-logo="" group-title="acc2",257:RMC Sport 11
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28052
-#EXTINF:-1,FR266:RMC Sport 12
+#EXTINF:-1 tvg-logo="" group-title="acc2",266:RMC Sport 12
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28043
-#EXTINF:-1,FR267:RMC Sport 13
+#EXTINF:-1 tvg-logo="" group-title="acc2",267:RMC Sport 13
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28042
-#EXTINF:-1,FR268:RMC Sport 14
+#EXTINF:-1 tvg-logo="" group-title="acc2",268:RMC Sport 14
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28041
-#EXTINF:-1,FR280:RMC SPORT 15
+#EXTINF:-1 tvg-logo="" group-title="acc2",280:RMC SPORT 15
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28029
-#EXTINF:-1,FR296:RMC SPORT 16
+#EXTINF:-1 tvg-logo="" group-title="acc2",296:RMC SPORT 16
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28013
-#EXTINF:-1,FR355:RMC STORY HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",355:RMC STORY HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27954
-#EXTINF:-1,FR346:TELEFOOT
+#EXTINF:-1 tvg-logo="" group-title="acc2",346:TELEFOOT
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27963
-#EXTINF:-1,FR192:TELEFOOT Stadium 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",192:TELEFOOT Stadium 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28117
-#EXTINF:-1,FR194:TELEFOOT Stadium 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",194:TELEFOOT Stadium 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28115
-#EXTINF:-1,FR223:TELEFOOT Stadium 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",223:TELEFOOT Stadium 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28086
-#EXTINF:-1,FR284:TELEFOOT Stadium 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",284:TELEFOOT Stadium 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28025
-#EXTINF:-1,FR285:TELEFOOT Stadium 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",285:TELEFOOT Stadium 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28024
-#EXTINF:-1,FR290:TELEFOOT Stadium 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",290:TELEFOOT Stadium 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28019
-#EXTINF:-1,FR291:TELEFOOT Stadium 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",291:TELEFOOT Stadium 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28018
-#EXTINF:-1,FR281:TELEFOOT Stadium 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",281:TELEFOOT Stadium 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28028
-#EXTINF:-1,FR:-----|CINEMA|-----------------------------
+#EXTINF:-1 tvg-logo="" group-title="acc2",:-----|CINEMA|-----------------------------
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/60619
-#EXTINF:-1,FR001:13 Eme Rue
+#EXTINF:-1 tvg-logo="" group-title="acc2",001:13 Eme Rue
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2865
-#EXTINF:-1,FR006:Action
+#EXTINF:-1 tvg-logo="" group-title="acc2",006:Action
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2860
-#EXTINF:-1,FR023:Canal  Cinema
+#EXTINF:-1 tvg-logo="" group-title="acc2",023:Canal  Cinema
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2843
-#EXTINF:-1,FR024:Canal  Decale
+#EXTINF:-1 tvg-logo="" group-title="acc2",024:Canal  Decale
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2842
-#EXTINF:-1,FR025:Canal  Family
+#EXTINF:-1 tvg-logo="" group-title="acc2",025:Canal  Family
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2841
-#EXTINF:-1,FR026:Canal  Series
+#EXTINF:-1 tvg-logo="" group-title="acc2",026:Canal  Series
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2840
-#EXTINF:-1,FR033:Cine Class
+#EXTINF:-1 tvg-logo="" group-title="acc2",033:Cine Class
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2833
-#EXTINF:-1,FR034:Cine Emotion
+#EXTINF:-1 tvg-logo="" group-title="acc2",034:Cine Emotion
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2832
-#EXTINF:-1,FR035:Cine Famiz
+#EXTINF:-1 tvg-logo="" group-title="acc2",035:Cine Famiz
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2831
-#EXTINF:-1,FR036:Cine Frisson
+#EXTINF:-1 tvg-logo="" group-title="acc2",036:Cine Frisson
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2830
-#EXTINF:-1,FR037:Cine FX
+#EXTINF:-1 tvg-logo="" group-title="acc2",037:Cine FX
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2829
-#EXTINF:-1,FR038:Cine Polar
+#EXTINF:-1 tvg-logo="" group-title="acc2",038:Cine Polar
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2828
-#EXTINF:-1,FR039:Cine Permier
+#EXTINF:-1 tvg-logo="" group-title="acc2",039:Cine Permier
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2827
-#EXTINF:-1,FR045:Disney Cinema
+#EXTINF:-1 tvg-logo="" group-title="acc2",045:Disney Cinema
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2821
-#EXTINF:-1,FR072:Paramount
+#EXTINF:-1 tvg-logo="" group-title="acc2",072:Paramount
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2794
-#EXTINF:-1,FR086:Series Club
+#EXTINF:-1 tvg-logo="" group-title="acc2",086:Series Club
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2780
-#EXTINF:-1,FR097:A LA CARTE 10
+#EXTINF:-1 tvg-logo="" group-title="acc2",097:A LA CARTE 10
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28212
-#EXTINF:-1,FR098:A LA CARTE 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",098:A LA CARTE 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28211
-#EXTINF:-1,FR099:A LA CARTE 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",099:A LA CARTE 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28210
-#EXTINF:-1,FR100:A LA CARTE 9
+#EXTINF:-1 tvg-logo="" group-title="acc2",100:A LA CARTE 9
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28209
-#EXTINF:-1,FR102:CANAL PLAY 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",102:CANAL PLAY 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28207
-#EXTINF:-1,FR103:CANAL PLAY 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",103:CANAL PLAY 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28206
-#EXTINF:-1,FR104:CANAL PLAY 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",104:CANAL PLAY 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28205
-#EXTINF:-1,FR105:CANAL PLAY 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",105:CANAL PLAY 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28204
-#EXTINF:-1,FR106:CANAL PLAY 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",106:CANAL PLAY 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28203
-#EXTINF:-1,FR107:CANAL PLAY 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",107:CANAL PLAY 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28202
-#EXTINF:-1,FR108:CANAL PLAY 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",108:CANAL PLAY 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28201
-#EXTINF:-1,FR117:OCS CHOC HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",117:OCS CHOC HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28192
-#EXTINF:-1,FR118:OCS CITY
+#EXTINF:-1 tvg-logo="" group-title="acc2",118:OCS CITY
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28191
-#EXTINF:-1,FR119:OCS GEANT
+#EXTINF:-1 tvg-logo="" group-title="acc2",119:OCS GEANT
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28190
-#EXTINF:-1,FR120:OCS MAX
+#EXTINF:-1 tvg-logo="" group-title="acc2",120:OCS MAX
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28189
-#EXTINF:-1,FR131:A LA CARTE 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",131:A LA CARTE 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28178
-#EXTINF:-1,FR132:A la Carte 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",132:A la Carte 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28177
-#EXTINF:-1,FR133:A.LA.CARTE.1
+#EXTINF:-1 tvg-logo="" group-title="acc2",133:A.LA.CARTE.1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28176
-#EXTINF:-1,FR134:A.LA.CARTE.3
+#EXTINF:-1 tvg-logo="" group-title="acc2",134:A.LA.CARTE.3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28175
-#EXTINF:-1,FR135:A.LA.CARTE.4
+#EXTINF:-1 tvg-logo="" group-title="acc2",135:A.LA.CARTE.4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28174
-#EXTINF:-1,FR138:TMC HD ( 1080P )
+#EXTINF:-1 tvg-logo="" group-title="acc2",138:TMC HD ( 1080P )
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28171
-#EXTINF:-1,FR140:TCM CINEMA
+#EXTINF:-1 tvg-logo="" group-title="acc2",140:TCM CINEMA
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28169
-#EXTINF:-1,FR143:OCS Go Cinema 1 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",143:OCS Go Cinema 1 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28166
-#EXTINF:-1,FR147:OCS Go Cinema 5 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",147:OCS Go Cinema 5 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28162
-#EXTINF:-1,FR148:Orange Cinema 1 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",148:Orange Cinema 1 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28161
-#EXTINF:-1,FR150:Orange Cinema 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",150:Orange Cinema 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28159
-#EXTINF:-1,FR151:Orange Cinema 4 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",151:Orange Cinema 4 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28158
-#EXTINF:-1,FR152:Orange Cinema 5 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",152:Orange Cinema 5 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28157
-#EXTINF:-1,FR153:Orange Cinema Action HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",153:Orange Cinema Action HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28156
-#EXTINF:-1,FR154:Orange Cinema Aventure HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",154:Orange Cinema Aventure HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28155
-#EXTINF:-1,FR155:Orange Cinema HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",155:Orange Cinema HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28154
-#EXTINF:-1,FR158:Orange Documentaire HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",158:Orange Documentaire HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28151
-#EXTINF:-1,FR174:Cine Premier HD (1080P)
+#EXTINF:-1 tvg-logo="" group-title="acc2",174:Cine Premier HD (1080P)
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28135
-#EXTINF:-1,FR182:A LA CARTE 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",182:A LA CARTE 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28127
-#EXTINF:-1,FR183:A LA CARTE 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",183:A LA CARTE 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28126
-#EXTINF:-1,FR184:A LA CARTE 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",184:A LA CARTE 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28125
-#EXTINF:-1,FR185:A LA CARTE 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",185:A LA CARTE 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28124
-#EXTINF:-1,FR186:A LA CARTE 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",186:A LA CARTE 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28123
-#EXTINF:-1,FR187:TCM CINEMA FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",187:TCM CINEMA FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28122
-#EXTINF:-1,FR188:A LA CARTE 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",188:A LA CARTE 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28121
-#EXTINF:-1,FR189:A LA CARTE 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",189:A LA CARTE 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28120
-#EXTINF:-1,FR190:A LA CARTE 9
+#EXTINF:-1 tvg-logo="" group-title="acc2",190:A LA CARTE 9
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28119
-#EXTINF:-1,FR191:A LA CARTE 10
+#EXTINF:-1 tvg-logo="" group-title="acc2",191:A LA CARTE 10
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28118
-#EXTINF:-1,FR193:OCS GEANTS
+#EXTINF:-1 tvg-logo="" group-title="acc2",193:OCS GEANTS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28116
-#EXTINF:-1,FR208:COMEDY CENTRAL  HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",208:COMEDY CENTRAL  HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28101
-#EXTINF:-1,FR225:Canal Play 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",225:Canal Play 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28084
-#EXTINF:-1,FR226:Canal Play 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",226:Canal Play 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28083
-#EXTINF:-1,FR227:Canal Play 3
+#EXTINF:-1 tvg-logo="" group-title="acc2",227:Canal Play 3
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28082
-#EXTINF:-1,FR228:Canal Play 4
+#EXTINF:-1 tvg-logo="" group-title="acc2",228:Canal Play 4
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28081
-#EXTINF:-1,FR229:Canal Play 5
+#EXTINF:-1 tvg-logo="" group-title="acc2",229:Canal Play 5
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28080
-#EXTINF:-1,FR230:Canal Play 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",230:Canal Play 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28079
-#EXTINF:-1,FR231:Canal Play 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",231:Canal Play 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28078
-#EXTINF:-1,FR232:Canal Play 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",232:Canal Play 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28077
-#EXTINF:-1,FR298:Orange Comment C'Est Fait
+#EXTINF:-1 tvg-logo="" group-title="acc2",298:Orange Comment C'Est Fait
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28011
-#EXTINF:-1,FR305:OCS CHOC FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",305:OCS CHOC FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28004
-#EXTINF:-1,FR306:OCS City HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",306:OCS City HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28003
-#EXTINF:-1,FR307:OCS GEANT FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",307:OCS GEANT FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28002
-#EXTINF:-1,FR308:OCS Go Cine 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",308:OCS Go Cine 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28001
-#EXTINF:-1,FR309:OCS GO CINE 4 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",309:OCS GO CINE 4 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28000
-#EXTINF:-1,FR310:OCS Go Cine 5 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",310:OCS Go Cine 5 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27999
-#EXTINF:-1,FR311:OCS MAX FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",311:OCS MAX FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27998
-#EXTINF:-1,FR316:Orange Cinema 3 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",316:Orange Cinema 3 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27993
-#EXTINF:-1,FR317:Orange Cinema 4 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",317:Orange Cinema 4 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27992
-#EXTINF:-1,FR318:Orange Cinema 5 HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",318:Orange Cinema 5 HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27991
-#EXTINF:-1,FR319:TELETOON PLUS
+#EXTINF:-1 tvg-logo="" group-title="acc2",319:TELETOON PLUS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27990
-#EXTINF:-1,FR321:ORANGE Cinema ACTION HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",321:ORANGE Cinema ACTION HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27988
-#EXTINF:-1,FR322:Orange Cinema Aventure HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",322:Orange Cinema Aventure HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27987
-#EXTINF:-1,FR325:Orange Cinema DOCUMENTAIRE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",325:Orange Cinema DOCUMENTAIRE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27984
-#EXTINF:-1,FR326:Orange Cinema ENQUETE EXCLUSIVE HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",326:Orange Cinema ENQUETE EXCLUSIVE HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27983
-#EXTINF:-1,FR327:Orange Cinema Horreur HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",327:Orange Cinema Horreur HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27982
-#EXTINF:-1,FR328:ORANGE DISNEY 1
+#EXTINF:-1 tvg-logo="" group-title="acc2",328:ORANGE DISNEY 1
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27981
-#EXTINF:-1,FR332:Warner tv
+#EXTINF:-1 tvg-logo="" group-title="acc2",332:Warner tv
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27977
-#EXTINF:-1,FR333:CINEMA ACTION 2
+#EXTINF:-1 tvg-logo="" group-title="acc2",333:CINEMA ACTION 2
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27976
-#EXTINF:-1,FR339:Orange Premium 6
+#EXTINF:-1 tvg-logo="" group-title="acc2",339:Orange Premium 6
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27970
-#EXTINF:-1,FR340:Orange Premium 7
+#EXTINF:-1 tvg-logo="" group-title="acc2",340:Orange Premium 7
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27969
-#EXTINF:-1,FR341:Orange Premium 8
+#EXTINF:-1 tvg-logo="" group-title="acc2",341:Orange Premium 8
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27968
-#EXTINF:-1,FR342:PARIS PREMIERE FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",342:PARIS PREMIERE FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27967
-#EXTINF:-1,FR345:TF1 SERIES FILMS HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",345:TF1 SERIES FILMS HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27964
-#EXTINF:-1,FR:-----|NEWS|-------------------------------
+#EXTINF:-1 tvg-logo="" group-title="acc2",:-----|NEWS|-------------------------------
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/60620
-#EXTINF:-1,FR019:BFM TV
+#EXTINF:-1 tvg-logo="" group-title="acc2",019:BFM TV
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2847
-#EXTINF:-1,FR049:Euro News
+#EXTINF:-1 tvg-logo="" group-title="acc2",049:Euro News
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2817
-#EXTINF:-1,FR053:France 24
+#EXTINF:-1 tvg-logo="" group-title="acc2",053:France 24
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2813
-#EXTINF:-1,FR064:LCI
+#EXTINF:-1 tvg-logo="" group-title="acc2",064:LCI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2802
-#EXTINF:-1,FR094:EURONEWS
+#EXTINF:-1 tvg-logo="" group-title="acc2",094:EURONEWS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28215
-#EXTINF:-1,FR163:CNews HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",163:CNews HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28146
-#EXTINF:-1,FR181:FRANCE 24
+#EXTINF:-1 tvg-logo="" group-title="acc2",181:FRANCE 24
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28128
-#EXTINF:-1,FR205:RMC SPORT NEWS
+#EXTINF:-1 tvg-logo="" group-title="acc2",205:RMC SPORT NEWS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28104
-#EXTINF:-1,FR206:LCP
+#EXTINF:-1 tvg-logo="" group-title="acc2",206:LCP
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28103
-#EXTINF:-1,FR224:C-NEWS
+#EXTINF:-1 tvg-logo="" group-title="acc2",224:C-NEWS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28085
-#EXTINF:-1,FR262:RMC NEWS SPORT
+#EXTINF:-1 tvg-logo="" group-title="acc2",262:RMC NEWS SPORT
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28047
-#EXTINF:-1,FR265:EURONEWS HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",265:EURONEWS HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28044
-#EXTINF:-1,FR278:I-24 NEWS HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",278:I-24 NEWS HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28031
-#EXTINF:-1,FR336:I24 NEWS
+#EXTINF:-1 tvg-logo="" group-title="acc2",336:I24 NEWS
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27973
-#EXTINF:-1,FR:-----|KIDS|-------------------------------
+#EXTINF:-1 tvg-logo="" group-title="acc2",:-----|KIDS|-------------------------------
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/60621
-#EXTINF:-1,FR020:Boing
+#EXTINF:-1 tvg-logo="" group-title="acc2",020:Boing
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2846
-#EXTINF:-1,FR021:Boomerang
+#EXTINF:-1 tvg-logo="" group-title="acc2",021:Boomerang
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2845
-#EXTINF:-1,FR029:Canal J
+#EXTINF:-1 tvg-logo="" group-title="acc2",029:Canal J
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2837
-#EXTINF:-1,FR030:Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="acc2",030:Cartoon Network
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2836
-#EXTINF:-1,FR044:Disney FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",044:Disney FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2822
-#EXTINF:-1,FR046:Disney Jr Fr
+#EXTINF:-1 tvg-logo="" group-title="acc2",046:Disney Jr Fr
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2820
-#EXTINF:-1,FR047:Disney XD FR
+#EXTINF:-1 tvg-logo="" group-title="acc2",047:Disney XD FR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2819
-#EXTINF:-1,FR059:GULLI
+#EXTINF:-1 tvg-logo="" group-title="acc2",059:GULLI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2807
-#EXTINF:-1,FR066:Mangas
+#EXTINF:-1 tvg-logo="" group-title="acc2",066:Mangas
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2800
-#EXTINF:-1,FR069:NICKELODEON
+#EXTINF:-1 tvg-logo="" group-title="acc2",069:NICKELODEON
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2797
-#EXTINF:-1,FR074:PIWI
+#EXTINF:-1 tvg-logo="" group-title="acc2",074:PIWI
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/2792
-#EXTINF:-1,FR095:TELETOON
+#EXTINF:-1 tvg-logo="" group-title="acc2",095:TELETOON
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28214
-#EXTINF:-1,FR128:Tiji
+#EXTINF:-1 tvg-logo="" group-title="acc2",128:Tiji
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28181
-#EXTINF:-1,FR246:CANAL  J HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",246:CANAL  J HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28063
-#EXTINF:-1,FR261:NICKELODEON 4TEEN
+#EXTINF:-1 tvg-logo="" group-title="acc2",261:NICKELODEON 4TEEN
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28048
-#EXTINF:-1,FR301:NICKELODEON JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="acc2",301:NICKELODEON JUNIOR
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28008
-#EXTINF:-1,FR302:TOONAMI FHD
+#EXTINF:-1 tvg-logo="" group-title="acc2",302:TOONAMI FHD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/28007
-#EXTINF:-1,FR315:TELETOON  HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",315:TELETOON  HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27994
-#EXTINF:-1,FR343:TIJI HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",343:TIJI HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27966
-#EXTINF:-1,FR354:TELETOON HD
+#EXTINF:-1 tvg-logo="" group-title="acc2",354:TELETOON HD
 http://acc2.aatvbox.club:8880/ZYXNM2348/19113796/27955
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",13 EME RUE HD
 http://104.218.60.221:83/live/12345678/87654321/376279.ts
