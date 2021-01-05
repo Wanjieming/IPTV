@@ -1,4 +1,232 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/science_et_vie_tv_fr.png" group-title="QQ TV",SCIENCE ET VIE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21023
+#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="RDS INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/V_Tele_2012.svg/200px-V_Tele_2012.svg.png" group-title="QQ TV",RDS INFO
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21025
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="CANAL CUISNE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canal-plus-haha-myanmar-fr-mm.png" group-title="QQ TV",CANAL CUISNE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/275632
+#EXTINF:-1 tvg-id="Canal15.cr" tvg-name="CANAL+ HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_clair_fransat.png" group-title="QQ TV",CANAL+ HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/275636
+#EXTINF:-1 tvg-id="CanalPlusCinema.mu" tvg-name="CANAL ALPHA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema.png" group-title="QQ TV",CANAL ALPHA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/275637
+#EXTINF:-1 tvg-id="Historia.ca" tvg-name="HISTORIA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/histoire-tv-fr.png" group-title="QQ TV",HISTORIA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21083
+#EXTINF:-1 tvg-id="Zeste.ca" tvg-name="ZESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zeste_HD.png/150px-Zeste_HD.png" group-title="QQ TV",ZESTE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21012
+#EXTINF:-1 tvg-id="TeleRebelde.cu" tvg-name="TELE QUEBEC" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tele_quebec.png" group-title="QQ TV",TELE QUEBEC
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21041
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="CANAL FRISON TV" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_frisson.png" group-title="QQ TV",CANAL FRISON TV
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31301
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="LCN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/La_Canal_Nouvelles_2014.png/150px-La_Canal_Nouvelles_2014.png" group-title="QQ TV",LCN
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21075
+#EXTINF:-1 tvg-id="MAX.ca" tvg-name="MAX < V MEDIA GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Max_TV_Canada.png" group-title="QQ TV",MAX < V MEDIA GROUP
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21072
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/200px-BFM_TV_logo.png" group-title="QQ TV",BFM TV
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11693
+#EXTINF:-1 tvg-id="RDS.ca" tvg-name="RDS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/200px-RDS_logo.svg.png" group-title="QQ TV",RDS 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/21053
+#EXTINF:-1 tvg-id="Rtcg.hr" tvg-name="ICI EXPLORA HD" tvg-logo="https://ds1.static.rtbf.be/article/image/370x208/a/4/f/c7da2202001ef3739c67954b4c9dbb31-1475823310.png" group-title="QQ TV",ICI EXPLORA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31282
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL TVI HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/RTL-TVI.png" group-title="QQ TV",RTL TVI HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31281
+#EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="SERIES HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/series-plus-ca.png" group-title="QQ TV",SERIES HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31280
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tfo.png" group-title="QQ TV",TF1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31277
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV 5 QUEBEC HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tv-5-quebec-canada-fr-ca.png" group-title="QQ TV",TV 5 QUEBEC HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31278
+#EXTINF:-1 tvg-id="CanalVie.ca" tvg-name="CANAL VIE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/VIER_logo.png/220px-VIER_logo.png" group-title="QQ TV",CANAL VIE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31276
+#EXTINF:-1 tvg-id="VijfTV.be" tvg-name="VIJF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/VIJF_logo.png" group-title="QQ TV",VIJF
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31275
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ES1 CANADA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ES1.png" group-title="QQ TV",ES1 CANADA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31274
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="SUPER ECRAN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/super_ecran2.png" group-title="QQ TV",SUPER ECRAN 2 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31267
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="http://glmtv.pw/logo/prestige/France/canal-plus-susann-myanmar-fr-mm.png" group-title="QQ TV",CANAL+ SERIES HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31291
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/%C3%89%C3%A9n_logo_2015.png" group-title="QQ TV",ACTION HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31290
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI France" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-ca.png" group-title="QQ TV",LCI France
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/88276
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/France/OCS.png" group-title="QQ TV",OCS CITY HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31288
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="LA DEUX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/La_deux_HD.png" group-title="QQ TV",LA DEUX HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31286
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="LA TROIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/La_trois_HD.png" group-title="QQ TV",LA TROIS HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31285
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-M6.png" group-title="QQ TV",M6
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31307
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL+ CINEMA HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31294
+#EXTINF:-1 tvg-id="CinePlusFamiz.mu" tvg-name="CINE FAMIZ" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_famiz.png" group-title="QQ TV",CINE FAMIZ
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31293
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="TCM CINEMA" tvg-logo="http://38.143.137.20/logo/prestige/France/tcm-cinema-us-fr.png" group-title="QQ TV",TCM CINEMA
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31292
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="RDS 2" tvg-logo="http://38.143.137.20/logo/prestige/Canada/rds_ca_2.png" group-title="QQ TV",RDS 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/4992
+#EXTINF:-1 tvg-id="CanalEvasion.ca" tvg-name="EVASION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/150px-%C3%89vasion_logo.svg.png" group-title="QQ TV",EVASION
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/5012
+#EXTINF:-1 tvg-id="Planet.de" tvg-name="PLANETE A&E" tvg-logo="http://38.143.137.20/logo/prestige/France/planete_plus_action_experience.png" group-title="QQ TV",PLANETE A&E
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/8648
+#EXTINF:-1 tvg-id="ParisPremiere.mu" tvg-name="PARIS PREMIERE" tvg-logo="http://38.143.137.20/logo/prestige/France/paris_premiere.png" group-title="QQ TV",PARIS PREMIERE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/8651
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="CANAL+ DECALE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_decale.png" group-title="QQ TV",CANAL+ DECALE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/8660
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://38.143.137.20/logo/prestige/France/AB1.png" group-title="QQ TV",AB1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/8663
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="https://www.stream4free.live/images/avatars/c8.png" group-title="QQ TV",C8 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11631
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/vu_ca_tele_a_la_carte_00_hd.png" group-title="QQ TV",ARTE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11632
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="GULLI" tvg-logo="https://i.pinimg.com/originals/10/ef/21/10ef21abf141546b42b8332bacfba21f.png" group-title="QQ TV",GULLI
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11633
+#EXTINF:-1 tvg-id="CanalPlusSeries.mu" tvg-name="CANAL SERIES" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_series.png" group-title="QQ TV",CANAL SERIES
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11634
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6 TER" tvg-logo="http://38.143.137.20/logo/prestige/France/6ter_fr.png" group-title="QQ TV",6 TER
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11636
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canal_j_fr.png" group-title="QQ TV",CANAL J HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11645
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://38.143.137.20/logo/prestige/France/w9_fr.png" group-title="QQ TV",W9
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11646
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="VOYAGE" tvg-logo="http://38.143.137.20/logo/prestige/France/voyage_fr.png" group-title="QQ TV",VOYAGE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11647
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="SUPER ECRAN 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/super_ecran1.png" group-title="QQ TV",SUPER ECRAN 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31264
+#EXTINF:-1 tvg-id="UshuaiaTv.mu" tvg-name="USHUAIA TV" tvg-logo="http://38.143.137.20/logo/prestige/France/ushuaia-tv-fr.png" group-title="QQ TV",USHUAIA TV
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11648
+#EXTINF:-1 tvg-id="Teva.mu" tvg-name="TEVA" tvg-logo="http://38.143.137.20/logo/prestige/France/teva_fr.png" group-title="QQ TV",TEVA
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11649
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="TELETOON" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_pl_teletoon.png" group-title="QQ TV",TELETOON
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11650
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/series-plus-ca.png" group-title="QQ TV",SERIE CLUB HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11651
+#EXTINF:-1 tvg-id="" tvg-name="RTS DEUX" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/RTS-deux.jpg" group-title="QQ TV",RTS DEUX
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11653
+#EXTINF:-1 tvg-id="Planet.de" tvg-name="PLANETE HD" tvg-logo="http://kbbpf.lescigales.org/Logos/PLANETE-PLUS.HD.png" group-title="QQ TV",PLANETE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11654
+#EXTINF:-1 tvg-id="Moicie.ca" tvg-name="MOI & CIE HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/moi-et-cie-ca.png" group-title="QQ TV",MOI & CIE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11659
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12" tvg-logo="http://38.143.137.20/logo/prestige/France/nrj_fr_12.png" group-title="QQ TV",NRJ 12
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11661
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="NICKELODEON" tvg-logo="http://38.143.137.20/logo/prestige/France/nickelodeon_us.png" group-title="QQ TV",NICKELODEON
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11662
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BFM-Business_2010.png/200px-BFM-Business_2010.png" group-title="QQ TV",BFM BUSINESS HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11666
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/220px-SYFY.svg.png" group-title="QQ TV",SYFY HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11667
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="E! ENTERTAINEMENT HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="QQ TV",E! ENTERTAINEMENT HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11668
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6870.1504134065.png" group-title="QQ TV",LCP
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11671
+#EXTINF:-1 tvg-id="UHD1.de" tvg-name="HD1" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="QQ TV",HD1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11677
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="LA UNE" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_a_la_une.png" group-title="QQ TV",LA UNE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11672
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FOOT 24" tvg-logo="http://38.143.137.20/logo/prestige/France/canalsat_fr_foot_plus.png" group-title="QQ TV",FOOT 24
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11674
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="TOUTE L HISTOIRE" tvg-logo="https://d3v4jsc54141g1.cloudfront.net/uploads/mentor/avatar/65859/normal_toutel_histoire.png" group-title="QQ TV",TOUTE L HISTOIRE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11676
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://38.143.137.20/logo/prestige/France/paramount_channel_us.png" group-title="QQ TV",PARAMOUNT CHANNEL
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11655
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_golf_plus.png" group-title="QQ TV",GOLF CHANNEL HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11678
+#EXTINF:-1 tvg-id="EquidiaLive.mu" tvg-name="EQUIDIA LIVE" tvg-logo="http://www.chevalmag.com/var/chevalmag/storage/images/actualites/divers/equidia-life-en-danger/5083671-1-fre-FR/Equidia-Life-en-danger_photo_a_la_une.png" group-title="QQ TV",EQUIDIA LIVE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11683
+#EXTINF:-1 tvg-id="PlanetePlusCi.mu" tvg-name="PLANETE CI" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_pl_planete.png" group-title="QQ TV",PLANETE CI
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11684
+#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-name="METEO MEDIA MONTREAL HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/meteo_media.png" group-title="QQ TV",METEO MEDIA MONTREAL HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11689
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_sport_reunion.png" group-title="QQ TV",CANAL+ SPORT HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11692
+#EXTINF:-1 tvg-id="CinePlusClub.mu" tvg-name="CINE CLUB HD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/285.png" group-title="QQ TV",CINE CLUB HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11625
+#EXTINF:-1 tvg-id="CinePlusEmotion.mu" tvg-name="CINE EMOTION" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_emotion.png" group-title="QQ TV",CINE EMOTION
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11627
+#EXTINF:-1 tvg-id="CinePlusFrisson.mu" tvg-name="CINE FRISSON" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_frisson.png" group-title="QQ TV",CINE FRISSON
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11628
+#EXTINF:-1 tvg-id="CinePlusPremier.mu" tvg-name="CINE PREMIER HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_premier.png" group-title="QQ TV",CINE PREMIER HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11626
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="CINE COMEDIE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_classic.png" group-title="QQ TV",CINE COMEDIE HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/275633
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_family.png" group-title="QQ TV",CANAL+ FAMILY HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11630
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="BEIN MOVIES DRAMA" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-series-drama-qa-tr.png" group-title="QQ TV",BEIN MOVIES DRAMA
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31219
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="BEIN MOVIES FAMILY" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-family-qa-tr.png" group-title="QQ TV",BEIN MOVIES FAMILY
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31218
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="BEIN MOVIES PREMIERE" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-premiere-qa-tr.png" group-title="QQ TV",BEIN MOVIES PREMIERE
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31217
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="BEIN MOVIES ACTION HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-action-qa-tr.png" group-title="QQ TV",BEIN MOVIES ACTION HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31220
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://38.143.137.20/logo/prestige/France/france2-fr.png" group-title="QQ TV",FRANCE 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/88274
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://38.143.137.20/logo/prestige/France/france3-fr.png" group-title="QQ TV",FRANCE 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/88273
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4" tvg-logo="http://38.143.137.20/logo/prestige/France/france4-fr.png" group-title="QQ TV",FRANCE 4
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/88272
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://38.143.137.20/logo/prestige/France/france5-fr.png" group-title="QQ TV",FRANCE 5
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/88271
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="CANAL PLAY 1" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL PLAY 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31321
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="CANAL PLAY 2" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL PLAY 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31320
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="CANAL PLAY 3" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL PLAY 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31319
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="CANAL PLAY 4" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL PLAY 4
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31318
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="CANAL PLAY 5" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="QQ TV",CANAL PLAY 5
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31317
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11644
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11642
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 3" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11641
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 4
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11640
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 5
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11639
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 6
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31306
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 7
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11637
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="A LA CARTE 8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="QQ TV",A LA CARTE 8
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31305
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC SPORTS 2" tvg-logo="https://www.sambofrance.com/sites/default/files/styles/medium/public/actualite/image/rmc_sport_fb_0.png" group-title="QQ TV",RMC SPORTS 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31263
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC SPORTS 3" tvg-logo="https://www.sambofrance.com/sites/default/files/styles/medium/public/actualite/image/rmc_sport_fb_0.png" group-title="QQ TV",RMC SPORTS 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31262
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="ORANGE CINE 1" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="QQ TV",ORANGE CINE 1
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11685
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 2" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="QQ TV",ORANGE CINE 2
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11652
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 3" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="QQ TV",ORANGE CINE 3
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11658
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 4" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="QQ TV",ORANGE CINE 4
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11656
+#EXTINF:-1 tvg-id="" tvg-name="ORANGE CINE 5" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="QQ TV",ORANGE CINE 5
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/11657
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-1-qa-fr.png" group-title="QQ TV",BEIN SPORTS 1 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31194
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-2-qa-fr.png" group-title="QQ TV",BEIN SPORTS 2 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31193
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-3-qa-fr.png" group-title="QQ TV",BEIN SPORTS 3 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31192
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 4 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-max-4-qa-fr.png" group-title="QQ TV",BEIN SPORTS MAX 4 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31191
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 5 HD." tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="QQ TV",BEIN SPORTS MAX 5 HD.
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31190
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 6 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_06_hd.png" group-title="QQ TV",BEIN SPORTS MAX 6 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31189
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 7 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_07_hd.png" group-title="QQ TV",BEIN SPORTS MAX 7 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31188
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 8 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_08_hd.png" group-title="QQ TV",BEIN SPORTS MAX 8 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31187
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="BEIN SPORTS MAX 9 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_09_hd.png" group-title="QQ TV",BEIN SPORTS MAX 9 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31186
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="BEIN SPORTS MAX 10 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_10_hd.png" group-title="QQ TV",BEIN SPORTS MAX 10 HD
+http://qqtv.nl:8080/daniel_latino/qIVL5AWFVh/31185
 
 #EXTINF:-1 tvg-logo="" group-title="GoTVRed",Animal Planet HD
 http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/1979.ts
@@ -1161,13 +1389,13 @@ http://super1.ideaiptv.com:2052/bandook/3243243/20300
 #EXTINF:-1 tvg-logo="" group-title="France FHD HD",RTL9-HD
 http://super1.ideaiptv.com:2052/bandook/3243243/20299
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: SYFY-HD
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",SYFY-HD
 http://super1.ideaiptv.com:2052/bandook/3243243/20298
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: SERIE CLUB HD
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",SERIE CLUB HD
 http://super1.ideaiptv.com:2052/bandook/3243243/20297
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: E! ENTERTAINEMENT-HD
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",E! ENTERTAINEMENT-HD
 http://super1.ideaiptv.com:2052/bandook/3243243/20294
 
 #EXTINF:-1 tvg-logo="" group-title="France FHD HD",Elle.Girl-HD
@@ -1335,22 +1563,22 @@ http://super1.ideaiptv.com:2052/bandook/3243243/20312
 #EXTINF:-1 tvg-logo="" group-title="France FHD HD",AB1 HD
 http://super1.ideaiptv.com:2052/bandook/3243243/20315
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: Canal Decale
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",Canal Decale
 http://super1.ideaiptv.com:2052/bandook/3243243/27972
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: CANAL PLAY 1
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",CANAL PLAY 1
 http://super1.ideaiptv.com:2052/bandook/3243243/27977
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: CANAL PLAY 2
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",CANAL PLAY 2
 http://super1.ideaiptv.com:2052/bandook/3243243/27978
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: CANAL PLAY 3
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",CANAL PLAY 3
 http://super1.ideaiptv.com:2052/bandook/3243243/27979
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: CANAL PLAY 4
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",CANAL PLAY 4
 http://super1.ideaiptv.com:2052/bandook/3243243/27980
 
-#EXTINF:-1 tvg-logo="" group-title="France FHD HD",FR: BFM BUSINESS HD
+#EXTINF:-1 tvg-logo="" group-title="France FHD HD",BFM BUSINESS HD
 http://super1.ideaiptv.com:2052/bandook/3243243/27981
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="FR Ent",FR002:6Ter
@@ -2631,13 +2859,13 @@ http://104.218.60.221:83/live/12345678/87654321/376374.ts
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",Series Club HD
 http://104.218.60.221:83/live/12345678/87654321/376375.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 1
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 1
 http://104.218.60.221:83/live/12345678/87654321/376379.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 2
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 2
 http://104.218.60.221:83/live/12345678/87654321/376380.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 3
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 3
 http://104.218.60.221:83/live/12345678/87654321/376381.ts
 
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",Syfy HD
@@ -7812,13 +8040,13 @@ http://104.218.60.221:83/live/12345678/87654321/376373.ts
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SERIE CLUB
 http://104.218.60.221:83/live/12345678/87654321/376374.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 1
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 1
 http://104.218.60.221:83/live/12345678/87654321/376379.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 2
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 2
 http://104.218.60.221:83/live/12345678/87654321/376380.ts
 
-#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SFR: Sport 3
+#EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",SSport 3
 http://104.218.60.221:83/live/12345678/87654321/376381.ts
 
 #EXTINF:-1 tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="12345678",Syfy HD
