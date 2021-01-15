@@ -1,4 +1,936 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="EU France HD",TF1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49161
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="EU France HD",FRANCE 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49162
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="EU France HD",FRANCE 3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49163
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="EU France HD",FRANCE 4 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49164
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="EU France HD",FRANCE 5 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49165
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name="M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="EU France HD",M6 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49166
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="EU France HD",PARIS PREMIERE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49168
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name="TFX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="EU France HD",TFX HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49169
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU France HD",TF1 SERIES FILMS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49170
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="EU France HD",6TER HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49171
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="EU France HD",TMC HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49172
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name="C8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="EU France HD",C8 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49173
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name="W9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="EU France HD",W9 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49174
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name="ARTE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="EU France HD",ARTE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49175
+#EXTINF:-1 tvg-ID="" tvg-name="RTS UN HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4333_300C_13E_820000_0_0_0.png" group-title="EU France HD",RTS UN HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49176
+#EXTINF:-1 tvg-ID="" tvg-name="RTS DEUX HD" tvg-logo="http://www.vodkom.com:25461/images/Hotbird13/1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="EU France HD",RTS DEUX HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49177
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU France HD",AB1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49178
+#EXTINF:-1 tvg-ID="ab3.fr" tvg-name="AB3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_1006_451_35_C00000_0_0_0.png" group-title="EU France HD",AB3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49179
+#EXTINF:-1 tvg-ID="tvbreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="EU France HD",TV BREIZH HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49180
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B6_43E_1_C00000_0_0_0.png" group-title="EU France HD",TV5 MONDE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49181
+#EXTINF:-1 tvg-ID="" tvg-name="13EME RUE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_724_2904_55F_DDE0000_0_0_0.png" group-title="EU France HD",13EME RUE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49182
+#EXTINF:-1 tvg-ID="" tvg-name="LFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/lfmTV.png" group-title="EU France HD",LFM TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49183
+#EXTINF:-1 tvg-ID="" tvg-name="TVM3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/TVM3.png" group-title="EU France HD",TVM3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49184
+#EXTINF:-1 tvg-ID="" tvg-name="BET HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F41_42E_1_C00000_0_0_0.png" group-title="EU France HD",BET HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49185
+#EXTINF:-1 tvg-ID="" tvg-name="BFM BUSINESS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_2_2397_44A_1_C00000_0_0_0.png" group-title="EU France HD",BFM BUSINESS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49186
+#EXTINF:-1 tvg-ID="" tvg-name="BFM PARIS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="EU France HD",BFM PARIS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49187
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name="CSTAR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="EU France HD",CSTAR HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49188
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name="TEVA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="EU France HD",TEVA HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49189
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU France HD",AB1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49190
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU France HD",NRJ 12 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49191
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name="Cherie 25 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="EU France HD",Cherie 25 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49192
+#EXTINF:-1 tvg-ID="canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANAL 31 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49193
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/cliquetv.png" group-title="EU France HD",CLIQUE TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49194
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="COMEDIE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="EU France HD",COMEDIE  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49195
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="EU France HD",GAME ONE  1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49196
+#EXTINF:-1 tvg-ID="gameone.fr" tvg-name="GAME ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_CE_4EE8_55F_DDE0000_0_0_0.png" group-title="EU France HD",GAME ONE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49197
+#EXTINF:-1 tvg-ID="idf1.fr" tvg-name="IDF 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/IDFTV.png" group-title="EU France HD",IDF 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49198
+#EXTINF:-1 tvg-ID="" tvg-name="J ONE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B2_43E_1_C00000_0_0_0.png" group-title="EU France HD",J ONE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49199
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/mycuisine.png" group-title="EU France HD",MY CUISINE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49201
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CA_444_1_C00000_0_0_0.png" group-title="EU France HD",NOVELAS TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49202
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name="BFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="EU France HD",BFM TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49204
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name="CNEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="EU France HD",CNEWS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49205
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name="FRANCEINFO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="EU France HD",FRANCEINFO HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49206
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name="LCI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="EU France HD",LCI HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49207
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="France 24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="EU France HD",France 24 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49208
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name="LCP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="EU France HD",LCP HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49209
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name="I24 Francis HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="EU France HD",I24 Francis HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49210
+#EXTINF:-1 tvg-ID="" tvg-name="RT France" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_18EF_3F4_1_C00000_0_0_0.png" group-title="EU France HD",RT France
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/51047
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name="EuroNews" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_79F4_443_1_C00000_0_0_0.png" group-title="EU France HD",EuroNews
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52075
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name="TV5 MONDE EUROPE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="EU France HD",TV5 MONDE EUROPE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49211
+#EXTINF:-1 tvg-ID="" tvg-name="===== Sport =====" tvg-logo="" group-title="EU France HD",===== Sport =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49212
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49213
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49214
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name="RMC SPORT 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49215
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name="RMC SPORT 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="EU France HD",RMC SPORT 4 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49216
+#EXTINF:-1 tvg-ID="rmcsportlive5.fr" tvg-name="RMC SPORT 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 5 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49217
+#EXTINF:-1 tvg-ID="rmcsportlive6.fr" tvg-name="RMC SPORT 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 6 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49218
+#EXTINF:-1 tvg-ID="rmcsportlive7.fr" tvg-name="RMC SPORT 7 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 7 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49219
+#EXTINF:-1 tvg-ID="rmcsportlive8.fr" tvg-name="RMC SPORT 8 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 8 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49220
+#EXTINF:-1 tvg-ID="rmcsportlive9.fr" tvg-name="RMC SPORT 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 9 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49221
+#EXTINF:-1 tvg-ID="rmcsportlive10.fr" tvg-name="RMC SPORT 10 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 10 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49222
+#EXTINF:-1 tvg-ID="rmcsportlive11.fr" tvg-name="RMC SPORT 11 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 11 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49223
+#EXTINF:-1 tvg-ID="rmcsportlive12.fr" tvg-name="RMC SPORT 12 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 12 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49224
+#EXTINF:-1 tvg-ID="rmcsportlive13.fr" tvg-name="RMC SPORT 13 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 13 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49225
+#EXTINF:-1 tvg-ID="rmcsportlive14.fr" tvg-name="RMC SPORT 14 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 14 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49226
+#EXTINF:-1 tvg-ID="rmcsportlive15.fr" tvg-name="RMC SPORT 15 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",RMC SPORT 15 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49227
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name="RMC SPORT NEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="EU France HD",RMC SPORT NEWS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49228
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49229
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49230
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS 3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49231
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 4
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52518
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 5
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52519
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 6
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52520
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 7
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52521
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 8
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52522
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2073_432_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 9
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52523
+#EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2074_432_1_C00000_0_0_0.png" group-title="EU France HD",BEIN SPORTS MAX 10
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52524
+#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="EU France HD",EUROSPORT 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49232
+#EXTINF:-1 tvg-ID="eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="EU France HD",EUROSPORT 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49233
+#EXTINF:-1 tvg-ID="canalplussport.fr" tvg-name="CANAL  SPORT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL  SPORT HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49240
+#EXTINF:-1 tvg-ID="" tvg-name="AUTOMOTO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="EU France HD",AUTOMOTO HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49242
+#EXTINF:-1 tvg-ID="infosportplus.fr" tvg-name="INFO SPORT  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="EU France HD",INFO SPORT  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49243
+#EXTINF:-1 tvg-ID="equidialive.fr" tvg-name="EQUIDIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D4_444_1_C00000_0_0_0.png" group-title="EU France HD",EQUIDIA HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49244
+#EXTINF:-1 tvg-ID="lequipe21.fr" tvg-name="Equipe 21 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="EU France HD",Equipe 21 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49245
+#EXTINF:-1 tvg-ID="footplus24.fr" tvg-name="FOOT  24/24 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="EU France HD",FOOT  24/24 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49247
+#EXTINF:-1 tvg-ID="golfplus.fr" tvg-name="GOLF+   HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="EU France HD",GOLF+   HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49248
+#EXTINF:-1 tvg-ID="" tvg-name="TELECLUB ZOOM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/teleclubzoom.png" group-title="EU France HD",TELECLUB ZOOM HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49250
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT TV HD" tvg-logo="http://vodkom.com:25461/images/Astra19/motorsportstv.png" group-title="EU France HD",MOTORSPORT TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49251
+#EXTINF:-1 tvg-ID="" tvg-name="===== Cinema =====" tvg-logo="" group-title="EU France HD",===== Cinema =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49252
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name="CANAL+  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL+  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49253
+#EXTINF:-1 tvg-ID="canalpluscinema.fr" tvg-name="CANAL  CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL  CINEMA HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49254
+#EXTINF:-1 tvg-ID="canalplusdecale.fr" tvg-name="CANAL  DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL  DECALE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49255
+#EXTINF:-1 tvg-ID="canalplusfamily.fr" tvg-name="CANAL  FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL  FAMILY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49256
+#EXTINF:-1 tvg-ID="canalplusseries.fr" tvg-name="CANAL  SERIES HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="EU France HD",CANAL  SERIES HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49257
+#EXTINF:-1 tvg-ID="cineplusfrisson.fr" tvg-name="CINE  FRISSON HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="EU France HD",CINE  FRISSON HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49258
+#EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="CINE  PREMIER HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="EU France HD",CINE  PREMIER HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49259
+#EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="CINE  CLASSIC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="EU France HD",CINE  CLASSIC HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49260
+#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="CINE  CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="EU France HD",CINE  CLUB HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49261
+#EXTINF:-1 tvg-ID="cineplusemotion.fr" tvg-name="CINE  EMOTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="EU France HD",CINE  EMOTION HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49262
+#EXTINF:-1 tvg-ID="cineplusfamiz.fr" tvg-name="CINE  FAMIZ HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="EU France HD",CINE  FAMIZ HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49263
+#EXTINF:-1 tvg-ID="ocscity.fr" tvg-name="OCS CITY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU France HD",OCS CITY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49264
+#EXTINF:-1 tvg-ID="ocsgeants.fr" tvg-name="OCS GEANTS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="EU France HD",OCS GEANTS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49265
+#EXTINF:-1 tvg-ID="ocsmax.fr" tvg-name="OCS MAX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU France HD",OCS MAX HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49266
+#EXTINF:-1 tvg-ID="ocschoc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU France HD",OCS CHOC HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49267
+#EXTINF:-1 tvg-ID="action.fr" tvg-name="ACTION HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="EU France HD",ACTION HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49268
+#EXTINF:-1 tvg-ID="alticestudio.fr" tvg-name="ALTICE STUDIO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/alticestudios.png" group-title="EU France HD",ALTICE STUDIO HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49269
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_76C8_40E_1_C00000_0_0_0.png" group-title="EU France HD",COMEDY CENTRAL HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49270
+#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="SYFY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_71F_2904_55F_DDE0000_0_0_0.png" group-title="EU France HD",SYFY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49271
+#EXTINF:-1 tvg-ID="tcm.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="EU France HD",TCM CINEMA HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49272
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="EU France HD",WARNER TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49273
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name="TMC HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="EU France HD",TMC HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49274
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206E_432_1_C00000_0_0_0.png" group-title="EU France HD",POLAR  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49275
+#EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="EU France HD",PARAMOUNT CHANNEL HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49276
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="EU France HD",PARAMOUNT DECALE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49277
+#EXTINF:-1 tvg-ID="serieclub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="EU France HD",SERIE CLUB HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49278
+#EXTINF:-1 tvg-ID="rtl9.fr" tvg-name="RTL 9 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU France HD",RTL 9 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49279
+#EXTINF:-1 tvg-ID="" tvg-name="===== Documentaire =====" tvg-logo="" group-title="EU France HD",===== Documentaire =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49308
+#EXTINF:-1 tvg-ID="ushuaiatv.fr" tvg-name="USHUAIA HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="EU France HD",USHUAIA HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49309
+#EXTINF:-1 tvg-ID="" tvg-name="VICELAND HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="EU France HD",VICELAND HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49310
+#EXTINF:-1 tvg-ID="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="EU France HD",ANIMAUX HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49311
+#EXTINF:-1 tvg-ID="chassepeche.fr" tvg-name="CHASSE ET PECHE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="EU France HD",CHASSE ET PECHE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49312
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY ID HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="EU France HD",DISCOVERY ID HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49313
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_58F_5398_55F_DDE0000_0_0_0.png" group-title="EU France HD",DISCOVERY CHANNEL HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49314
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY FAMILY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_594_5398_55F_DDE0000_0_0_0.png" group-title="EU France HD",DISCOVERY FAMILY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49315
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_590_5398_55F_DDE0000_0_0_0.png" group-title="EU France HD",DISCOVERY INVESTIGATION HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49316
+#EXTINF:-1 tvg-ID="discoveryscience.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_593_5398_55F_DDE0000_0_0_0.png" group-title="EU France HD",DISCOVERY SCIENCE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49317
+#EXTINF:-1 tvg-ID="crimedistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_D7_4EE8_55F_DDE0000_0_0_0.png" group-title="EU France HD",CRIME DISTRICT HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49318
+#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="HISTOIRE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F46_42E_1_C00000_0_0_0.png" group-title="EU France HD",HISTOIRE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49319
+#EXTINF:-1 tvg-ID="eentertainment.fr" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_725_2904_55F_DDE0000_0_0_0.png" group-title="EU France HD",E! ENTERTAINMENT HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49320
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AD_43E_1_C00000_0_0_0.png" group-title="EU France HD",MUSEUM HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49321
+#EXTINF:-1 tvg-ID="natgeowild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="EU France HD",NAT GEO WILD HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49322
+#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="NATIONAL GEO HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="EU France HD",NATIONAL GEO HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49323
+#EXTINF:-1 tvg-ID="planeteaction.fr" tvg-name="PLANETE  A&E HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="EU France HD",PLANETE  A&E HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49324
+#EXTINF:-1 tvg-ID="planetejustice.fr" tvg-name="PLANETE  CI HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="EU France HD",PLANETE  CI HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49325
+#EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="PLANETE  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="EU France HD",PLANETE  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49326
+#EXTINF:-1 tvg-ID="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="EU France HD",RMC DECOUVERTE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49327
+#EXTINF:-1 tvg-ID="rmcstory.fr" tvg-name="RMC STORY HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="EU France HD",RMC STORY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49328
+#EXTINF:-1 tvg-ID="scienceandvie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="EU France HD",SCIENCE ET VIE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49329
+#EXTINF:-1 tvg-ID="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="EU France HD",SEASONS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49330
+#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="TOUTE L HISTORIE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="EU France HD",TOUTE L HISTORIE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49331
+#EXTINF:-1 tvg-ID="" tvg-name="MY ZEN TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BF_43C_1_C00000_0_0_0.png" group-title="EU France HD",MY ZEN TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52527
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name="NON STOP PEOPLE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BD_43C_1_C00000_0_0_0.png" group-title="EU France HD",NON STOP PEOPLE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52528
+#EXTINF:-1 tvg-ID="voyage.fr" tvg-name="VOYAGE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="EU France HD",VOYAGE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49332
+#EXTINF:-1 tvg-ID="" tvg-name="===== Enfants =====" tvg-logo="" group-title="EU France HD",===== Enfants =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49333
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU France HD",NICKELODEON  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49334
+#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="EU France HD",DISNEY CHANNEL HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49335
+#EXTINF:-1 tvg-ID="disneyjunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="EU France HD",DISNEY JUNIOR HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49336
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL  1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C0_43C_1_C00000_0_0_0.png" group-title="EU France HD",DISNEY CHANNEL  1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49338
+#EXTINF:-1 tvg-ID="canalj.fr" tvg-name="CANAL J HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="EU France HD",CANAL J HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49340
+#EXTINF:-1 tvg-ID="piwi.fr" tvg-name="PIWI +  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="EU France HD",PIWI +  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49341
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_749C_41C_1_C00000_0_0_0.png" group-title="EU France HD",BABY TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49342
+#EXTINF:-1 tvg-ID="gulli.fr" tvg-name="GULLI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="EU France HD",GULLI HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49343
+#EXTINF:-1 tvg-ID="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="EU France HD",TIJI HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49344
+#EXTINF:-1 tvg-ID="teletoonplus.fr" tvg-name="TELE TOON  HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="EU France HD",TELE TOON  HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49345
+#EXTINF:-1 tvg-ID="" tvg-name="TELE TOON +1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="EU France HD",TELE TOON +1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49346
+#EXTINF:-1 tvg-ID="boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU France HD",BOOMERANG HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49347
+#EXTINF:-1 tvg-ID="boing.fr" tvg-name="BOING HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19A_4FB0_55F_DDE0000_0_0_0.png" group-title="EU France HD",BOING HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49348
+#EXTINF:-1 tvg-ID="cartoonnetwork.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="EU France HD",CARTOON NETWORK HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49349
+#EXTINF:-1 tvg-ID="nickelodeon4teen.fr" tvg-name="NICKELODEON 4 TEEN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="EU France HD",NICKELODEON 4 TEEN HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49350
+#EXTINF:-1 tvg-ID="nickelodeon.fr" tvg-name="NICKELODEON 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU France HD",NICKELODEON 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49351
+#EXTINF:-1 tvg-ID="nickjr.fr" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="EU France HD",NICKELODEON JUNIOR HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49352
+#EXTINF:-1 tvg-ID="toonami.fr" tvg-name="TOONAMI HD" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="EU France HD",TOONAMI HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49353
+#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="EU France HD",MANGAS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49354
+#EXTINF:-1 tvg-ID="" tvg-name="===== Music =====" tvg-logo="" group-title="EU France HD",===== Music =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49355
+#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C6_43C_1_C00000_0_0_0.png" group-title="EU France HD",TRACE URBAN HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49356
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="MCM HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220A_44C_1_C00000_0_0_0.png" group-title="EU France HD",MCM HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49357
+#EXTINF:-1 tvg-ID="mcmtop.fr" tvg-name="MCM TOP HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2209_44C_1_C00000_0_0_0.png" group-title="EU France HD",MCM TOP HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49358
+#EXTINF:-1 tvg-ID="melody.fr" tvg-name="MELODY HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2206_44C_1_C00000_0_0_0.png" group-title="EU France HD",MELODY HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49359
+#EXTINF:-1 tvg-ID="" tvg-name="MEZZO FR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4A_42E_1_C00000_0_0_0.png" group-title="EU France HD",MEZZO FR
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/51817
+#EXTINF:-1 tvg-ID="nrjhits.fr" tvg-name="NRJ HITS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200C_430_1_C00000_0_0_0.png" group-title="EU France HD",NRJ HITS HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49360
+#EXTINF:-1 tvg-ID="rfmtv.fr" tvg-name="RFM TV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2202_44C_1_C00000_0_0_0.png" group-title="EU France HD",RFM TV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49361
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV LIVE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="EU France HD",MTV LIVE HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49362
+#EXTINF:-1 tvg-ID="mtv.fr" tvg-name="MTV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F44_42E_1_C00000_0_0_0.png" group-title="EU France HD",MTV HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49363
+#EXTINF:-1 tvg-ID="" tvg-name="C STAR HIT HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C2_43C_1_C00000_0_0_0.png" group-title="EU France HD",C STAR HIT HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49365
+#EXTINF:-1 tvg-ID="Mezzo Live HD FR" tvg-name="MEZZO LIVE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_7823_428_1_C00000_0_0_0.png" group-title="EU France HD",MEZZO LIVE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52515
+#EXTINF:-1 tvg-ID="sundancetv.fr" tvg-name="SUNDANCE TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200D_430_1_C00000_0_0_0.png" group-title="EU France HD",SUNDANCE TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52516
+#EXTINF:-1 tvg-ID="Trace Tropical FR" tvg-name="TRACE LATINA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/tarcelatina.png" group-title="EU France HD",TRACE LATINA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52517
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7602_408_1_C00000_0_0_0.png" group-title="EU France HD",CLASSICA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52525
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name="TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="EU France HD",TREK
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49368
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="EU France HD",TELEFOOT HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92090
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92490
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92491
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92492
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 4 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92493
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 5 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92494
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 6 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92495
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 7 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92496
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="EU France HD",TELEFOOT STADIUM 8 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92497
+#EXTINF:-1 tvg-ID="" tvg-name="MY CUISINE " tvg-logo="" group-title="EU France HD",MY CUISINE 
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91054
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY+" tvg-logo="" group-title="EU France HD",DISNEY+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/75779
+#EXTINF:-1 tvg-ID="" tvg-name="M6 MUSIC" tvg-logo="" group-title="EU France HD",M6 MUSIC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52578
+#EXTINF:-1 tvg-ID="" tvg-name="NOLLYWOOD TV" tvg-logo="" group-title="EU France HD",NOLLYWOOD TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/52846
+#EXTINF:-1 tvg-ID="multisports1.fr" tvg-name="MULTI SPORTS 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4D_42E_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 1 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49234
+#EXTINF:-1 tvg-ID="multisports2.fr" tvg-name="MULTI SPORTS 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D1_434_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 2 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49235
+#EXTINF:-1 tvg-ID="multisports3.fr" tvg-name="MULTI SPORTS 3 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1971_44E_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 3 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49236
+#EXTINF:-1 tvg-ID="multisports4.fr" tvg-name="MULTI SPORTS 4 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_220B_44C_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 4 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49237
+#EXTINF:-1 tvg-ID="multisports5.fr" tvg-name="MULTI SPORTS 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26C1_43E_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 5 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49238
+#EXTINF:-1 tvg-ID="multisports6.fr" tvg-name="MULTI SPORTS 6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19DD_444_1_C00000_0_0_0.png" group-title="EU France HD",MULTI SPORTS 6 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49239
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANALPLAY 1 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49280
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANALPLAY 2 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49281
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANALPLAY 3 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49282
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANALPLAY 4 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49283
+#EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",CANALPLAY 5 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49284
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA 1 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49285
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA 2 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49286
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA 3 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49287
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA 4 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49288
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA 5 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49289
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA AVENTURE FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA AVENTURE FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49291
+#EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINEMA FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",ORANGE CINEMA FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49292
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 1 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",A LA CARTE 1 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49296
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 2 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",A LA CARTE 2 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49297
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 3 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",A LA CARTE 3 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49298
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 4 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",A LA CARTE 4 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49299
+#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 5 FHD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/" group-title="EU France HD",A LA CARTE 5 FHD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/49300
+#EXTINF:-1 tvg-ID="" tvg-name="===== General =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== General =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42301
+#EXTINF:-1 tvg-ID="" tvg-name="CORONA VIRUS INFO" tvg-logo="http://www.vodkom.com:25461/Logo/corona.png" group-title="EU FRANCE HEVC",CORONA VIRUS INFO
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/67310
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name=" TF1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TF1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42302
+#EXTINF:-1 tvg-ID="france2.fr" tvg-name=" FRANCE 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 2
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42303
+#EXTINF:-1 tvg-ID="france3.fr" tvg-name=" FRANCE 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 3
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42304
+#EXTINF:-1 tvg-ID="france4.fr" tvg-name=" FRANCE 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 4
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42305
+#EXTINF:-1 tvg-ID="france5.fr" tvg-name=" FRANCE 5" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE 5
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42306
+#EXTINF:-1 tvg-ID="m6.fr" tvg-name=" M6 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", M6 HD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42307
+#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name=" PARIS PREMIERE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232C_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PARIS PREMIERE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42309
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name=" TFX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TFX
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42310
+#EXTINF:-1 tvg-ID="tf1seriesfilms.fr" tvg-name=" TF1 SERIES FILMS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TF1 SERIES FILMS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42311
+#EXTINF:-1 tvg-ID="6ter.fr" tvg-name=" 6TER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", 6TER
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42312
+#EXTINF:-1 tvg-ID="tmc.fr" tvg-name=" TMC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TMC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42313
+#EXTINF:-1 tvg-ID="c8.fr" tvg-name=" C8" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", C8
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42314
+#EXTINF:-1 tvg-ID="w9.fr" tvg-name=" W9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2458_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", W9
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42315
+#EXTINF:-1 tvg-ID="arte.fr" tvg-name=" ARTE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", ARTE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42316
+#EXTINF:-1 tvg-ID="cstar.fr" tvg-name=" CSTAR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CSTAR
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42317
+#EXTINF:-1 tvg-ID="teva.fr" tvg-name=" TEVA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TEVA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42318
+#EXTINF:-1 tvg-ID="ab1.fr" tvg-name=" AB1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427D_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", AB1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42319
+#EXTINF:-1 tvg-ID="nrj12.fr" tvg-name=" NRJ 12" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", NRJ 12
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42320
+#EXTINF:-1 tvg-ID="cherie25.fr" tvg-name=" Cherie 25" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F6D_454_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", Cherie 25
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42321
+#EXTINF:-1 tvg-ID="trek.fr" tvg-name=" TREK" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_CF_4EE8_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TREK
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42322
+#EXTINF:-1 tvg-ID="" tvg-name="===== News =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== News =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42323
+#EXTINF:-1 tvg-ID="bfmtv.fr" tvg-name=" BFM TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BFM TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42324
+#EXTINF:-1 tvg-ID="cnews.fr" tvg-name=" CNEWS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CNEWS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42325
+#EXTINF:-1 tvg-ID="franceinfo.fr" tvg-name=" FRANCE INFO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F45_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FRANCE INFO
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42326
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name=" LCI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LCI
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42327
+#EXTINF:-1 tvg-ID="france24.fr" tvg-name="FRANCE 24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD",FRANCE 24
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42328
+#EXTINF:-1 tvg-ID="lachaineparlementaire.fr" tvg-name=" LCP" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LCP
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42329
+#EXTINF:-1 tvg-ID="i24news.fr" tvg-name=" I24 Francis" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_7A4B_410_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", I24 Francis
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42330
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name=" TV5 MONDE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_1B03_3FE_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TV5 MONDE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42331
+#EXTINF:-1 tvg-ID="tv5monde.fr" tvg-name=" TV5MONDE EUROPE" tvg-logo="" group-title="EU FRANCE FULL HD", TV5MONDE EUROPE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42332
+#EXTINF:-1 tvg-ID="" tvg-name="===== Sport =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== Sport =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42333
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT" tvg-logo="" group-title="EU FRANCE FULL HD",TELEFOOT
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92088
+#EXTINF:-1 tvg-ID="rmcsportnews.fr" tvg-name=" RMC SPORT NEWS" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_723_2904_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT NEWS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42334
+#EXTINF:-1 tvg-ID="rmcsport1.fr" tvg-name=" RMC SPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D2_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42335
+#EXTINF:-1 tvg-ID="rmcsport2.fr" tvg-name=" RMC SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19C9_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 2
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42336
+#EXTINF:-1 tvg-ID="rmcsport3.fr" tvg-name=" RMC SPORT 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FE_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 3
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42337
+#EXTINF:-1 tvg-ID="rmcsport4.fr" tvg-name=" RMC SPORT 4" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F47_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC SPORT 4
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42338
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name=" BEIN SPORTS 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2462_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42339
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name=" BEIN SPORTS 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2012_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 2
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42340
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name=" BEIN SPORTS 3" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2013_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS 3
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42341
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name=" BEIN SPORTS MAX 4" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC0_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 4
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42342
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name=" BEIN SPORTS MAX 5" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_BC1_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 5
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42343
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name=" BEIN SPORTS MAX 6" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_323_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 6
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42344
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name=" BEIN SPORTS MAX 7" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_324_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 7
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42345
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name=" BEIN SPORTS MAX 8" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_325_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 8
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42346
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name=" BEIN SPORTS MAX 9" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_16_326_5140_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BEIN SPORTS MAX 9
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42347
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", EUROSPORT 1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42349
+#EXTINF:-1 tvg-ID="" tvg-name=" EUROSPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", EUROSPORT 2
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42350
+#EXTINF:-1 tvg-ID="" tvg-name=" GOLF+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", GOLF+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42351
+#EXTINF:-1 tvg-ID="" tvg-name=" FOOT+ 24/24" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2208_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", FOOT+ 24/24
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42352
+#EXTINF:-1 tvg-ID="" tvg-name=" INFOSPORT+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2332_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", INFOSPORT+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42353
+#EXTINF:-1 tvg-ID="" tvg-name=" LEQUIPE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", LEQUIPE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42354
+#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA" tvg-logo="" group-title="EU FRANCE FULL HD",EQUIDIA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81034
+#EXTINF:-1 tvg-ID="" tvg-name=" AUTOMOTO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427C_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", AUTOMOTO
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42355
+#EXTINF:-1 tvg-ID="" tvg-name="===== Cinema =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== Cinema =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42356
+#EXTINF:-1 tvg-ID="canalplus.fr" tvg-name=" CANAL+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42357
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ CINEMA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42358
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ DECALE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ DECALE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42359
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ FAMILY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ FAMILY
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42360
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SERIES" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ SERIES
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42361
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL+ SPORT" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL+ SPORT
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42362
+#EXTINF:-1 tvg-ID="" tvg-name=" CHASSE ET PECHE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_428C_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CHASSE ET PECHE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42363
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLASSIC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ CLASSIC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42364
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B9_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ CLUB
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42365
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ EMOTION" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ EMOTION
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42366
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FAMIZ" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ FAMIZ
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42367
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ FRISSON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ FRISSON
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42368
+#EXTINF:-1 tvg-ID="" tvg-name=" CINE+ PREMIER" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CINE+ PREMIER
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42369
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CITY" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS CITY
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42370
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS CHOC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS CHOC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42371
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS GEANTS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS GEANTS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42372
+#EXTINF:-1 tvg-ID="" tvg-name=" OCS MAX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", OCS MAX
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42373
+#EXTINF:-1 tvg-ID="" tvg-name=" COMEDIE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", COMEDIE+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42374
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="EU FRANCE FULL HD",COMEDY CENTRAL
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81033
+#EXTINF:-1 tvg-ID="" tvg-name=" RTL9" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", RTL9
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42375
+#EXTINF:-1 tvg-ID="" tvg-name=" SERIE CLUB" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1969_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", SERIE CLUB
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42376
+#EXTINF:-1 tvg-ID="" tvg-name="SCIENCE ET VIE" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_D1_4EE8_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD",SCIENCE ET VIE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42377
+#EXTINF:-1 tvg-ID="" tvg-name=" TCM CINEMA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TCM CINEMA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42378
+#EXTINF:-1 tvg-ID="" tvg-name=" WARNER TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", WARNER TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42379
+#EXTINF:-1 tvg-ID="" tvg-name="CLASSICA" tvg-logo="" group-title="EU FRANCE FULL HD",CLASSICA
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81207
+#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="EU FRANCE FULL HD",ACTION
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81227
+#EXTINF:-1 tvg-ID="" tvg-name="POLAR" tvg-logo="" group-title="EU FRANCE FULL HD",POLAR
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81228
+#EXTINF:-1 tvg-ID="" tvg-name=" PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PARAMOUNT CHANNEL
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42380
+#EXTINF:-1 tvg-ID="" tvg-name="===== Documentaire =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== Documentaire =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42381
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NATIONAL GEO
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42382
+#EXTINF:-1 tvg-ID="" tvg-name=" NATIONAL GEOGRAPHIC  WILD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NATIONAL GEOGRAPHIC  WILD
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42383
+#EXTINF:-1 tvg-ID="" tvg-name=" ANIMAUX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_427E_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", ANIMAUX
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42384
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232E_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42385
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ A&E" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B8_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+ A&E
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42386
+#EXTINF:-1 tvg-ID="" tvg-name=" PLANETE+ CI" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PLANETE+ CI
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42387
+#EXTINF:-1 tvg-ID="" tvg-name=" VOYAGE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", VOYAGE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42388
+#EXTINF:-1 tvg-ID="" tvg-name=" TV BREIZH" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2201_44C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TV BREIZH
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42389
+#EXTINF:-1 tvg-ID="" tvg-name="TOUTE L HISTOIRE" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_4282_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD",TOUTE L HISTOIRE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42390
+#EXTINF:-1 tvg-ID="" tvg-name=" USHUAIA TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", USHUAIA TV
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42391
+#EXTINF:-1 tvg-ID="" tvg-name=" SEASONS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", SEASONS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42392
+#EXTINF:-1 tvg-ID="" tvg-name=" VICELAND" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_200F_430_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", VICELAND
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42393
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC DECOUVERTE" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC DECOUVERTE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42394
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC STORY" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", RMC STORY
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42395
+#EXTINF:-1 tvg-ID="" tvg-name="HISTOIRE" tvg-logo="" group-title="EU FRANCE FULL HD",HISTOIRE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81224
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE" tvg-logo="" group-title="EU FRANCE FULL HD",SUNDANCE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81225
+#EXTINF:-1 tvg-ID="" tvg-name="NON STOP PEOPLE" tvg-logo="" group-title="EU FRANCE FULL HD",NON STOP PEOPLE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81226
+#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="" group-title="EU FRANCE FULL HD",BET
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81229
+#EXTINF:-1 tvg-ID="" tvg-name="CLIQUE" tvg-logo="" group-title="EU FRANCE FULL HD",CLIQUE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81230
+#EXTINF:-1 tvg-ID="" tvg-name="NOVELAS" tvg-logo="" group-title="EU FRANCE FULL HD",NOVELAS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81233
+#EXTINF:-1 tvg-ID="" tvg-name="MUSEUM" tvg-logo="" group-title="EU FRANCE FULL HD",MUSEUM
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81234
+#EXTINF:-1 tvg-ID="" tvg-name="MELODY" tvg-logo="" group-title="EU FRANCE FULL HD",MELODY
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92765
+#EXTINF:-1 tvg-ID="" tvg-name="===== Enfants =====" tvg-logo="" group-title="EU FRANCE FULL HD",===== Enfants =====
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42396
+#EXTINF:-1 tvg-ID="" tvg-name=" BOOMERANG" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", BOOMERANG
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42397
+#EXTINF:-1 tvg-ID="" tvg-name=" CARTOON NETWORK" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CARTOON NETWORK
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42398
+#EXTINF:-1 tvg-ID="" tvg-name=" PIWI+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", PIWI+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42399
+#EXTINF:-1 tvg-ID="" tvg-name=" TIJI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBF_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TIJI
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42400
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY CHANNEL" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY CHANNEL
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42401
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BA_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD",DISNEY CHANNEL +1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42403
+#EXTINF:-1 tvg-ID="" tvg-name=" DISNEY JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22CA_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", DISNEY JUNIOR
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42404
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F48_42E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42406
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON JUNIOR" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_22D0_434_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON JUNIOR
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42407
+#EXTINF:-1 tvg-ID="" tvg-name=" NICKELODEON 4 TEEN" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1970_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", NICKELODEON 4 TEEN
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42409
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C3_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TELETOON+
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42410
+#EXTINF:-1 tvg-ID="" tvg-name=" TELETOON+1" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24C4_43C_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", TELETOON+1
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42411
+#EXTINF:-1 tvg-ID="" tvg-name=" TOONAMI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19C_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", TOONAMI
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42412
+#EXTINF:-1 tvg-ID="" tvg-name=" CANAL J" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196F_44E_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", CANAL J
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42413
+#EXTINF:-1 tvg-ID="" tvg-name=" MANGAS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4287_446_1_C00000_0_0_0.png" group-title="EU FRANCE FULL HD", MANGAS
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42414
+#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE" tvg-logo="" group-title="EU FRANCE FULL HD",GAME ONE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81035
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY +" tvg-logo="" group-title="EU FRANCE FULL HD",DISNEY +
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81208
+#EXTINF:-1 tvg-ID="" tvg-name="BOING" tvg-logo="" group-title="EU FRANCE FULL HD",BOING
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81209
+#EXTINF:-1 tvg-ID="" tvg-name=" GULLI" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BC7_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE FULL HD", GULLI
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/42415
+#EXTINF:-1 tvg-ID="tf1.fr" tvg-name="FR: TF1 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2460_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: TF1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69008
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245A_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: FRANCE 2 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69009
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE 3 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245D_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: FRANCE 3 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69010
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE4 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_21FD_44C_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: FRANCE4 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69011
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE5 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2330_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: FRANCE5 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69012
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2457_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: M6 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69014
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LEQUIPE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2076_432_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: LEQUIPE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69015
+#EXTINF:-1 tvg-ID="" tvg-name="FR: 6TER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1F4B_42E_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: 6TER HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69016
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RTL9 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_428B_446_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: RTL9 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69017
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ARTE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2081_432_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: ARTE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69018
+#EXTINF:-1 tvg-ID="" tvg-name="FR: C8 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2334_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: C8 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69019
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CSTAR HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CSTAR HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69020
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TMC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2015_430_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: TMC HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69021
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NRJ12 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE HEVC",FR: NRJ12 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69022
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TFX HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2014_430_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: TFX HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69023
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TF1 SERIES FILMS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_232B_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: TF1 SERIES FILMS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69024
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TEVA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26B1_43E_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: TEVA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69025
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MY CUISINE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: MY CUISINE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69026
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NON STOP PEOPLE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BD_43C_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: NON STOP PEOPLE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69027
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CNEWS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2336_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CNEWS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69028
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LCI HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: LCI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69029
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFMTV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_206D_432_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: BFMTV HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69030
+#EXTINF:-1 tvg-ID="" tvg-name="FR: LCP HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2337_442_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: LCP HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69031
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL CINEMA HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2263_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL CINEMA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69032
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69033
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL SERIES HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL SERIES HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69034
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL FAMILY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL FAMILY HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69035
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL DECALE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL DECALE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69036
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FRISSON HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CINE FRISSON HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69037
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2461_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: EUROSPORT HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69038
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EUROSPORT2 HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: EUROSPORT2 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69039
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL GOLF HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_26AF_43E_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL GOLF HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69040
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC DECOUVERTE HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="EU FRANCE HEVC",FR: RMC DECOUVERTE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69041
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC STORY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_A05_A_20FA_DDE0000_0_0_0.png" group-title="EU FRANCE HEVC",FR: RMC STORY HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69042
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM PARIS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/bfmparis.png" group-title="EU FRANCE HEVC",FR: BFM PARIS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69043
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BOOMERANG HEVC" tvg-logo="http://www.vodkom.com:25461/images/Atlantic_5w/1_0_19_19B_4FB0_55F_DDE0000_0_0_0.png" group-title="EU FRANCE HEVC",FR: BOOMERANG HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69044
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ACTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_4286_446_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: ACTION HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69045
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE EMOTION HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CINE EMOTION HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69046
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE PREMIER HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CINE PREMIER HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69047
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS MAX HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226E_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: OCS MAX HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69048
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CITY HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_226D_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: OCS CITY HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69049
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS GEANTS HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_19CC_444_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: OCS GEANTS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69050
+#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CHOC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_24BC_43C_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: OCS CHOC HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69051
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE FAMIZ HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CINE FAMIZ HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69052
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLASSIC HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2269_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CINE CLASSIC HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69053
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CINE CLUB HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CINE CLUB HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81210
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CLASSICA HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CLASSICA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81211
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TCM CINEMA HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TCM CINEMA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81212
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SERIE CLUB HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: SERIE CLUB HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81213
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PARIS PREMIERE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81214
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PIWI HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PIWI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81215
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON +1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NICKELODEON +1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81216
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELETOON HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TELETOON HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81217
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELETOON+1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TELETOON+1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81218
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TIJI HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TIJI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81219
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TOONAMI HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TOONAMI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81220
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY+ HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISNEY+ HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81221
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BOING HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: BOING HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81222
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CARTOON NETWORK HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CARTOON NETWORK HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69079
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISNEY CHANNEL HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69080
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY JUNIOR HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISNEY JUNIOR HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69081
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISNEY CHANNEL 1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISNEY CHANNEL 1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81031
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICK JUNIOR HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NICK JUNIOR HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69083
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON 4TEEN HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NICKELODEON 4TEEN HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69084
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NICKELODEON HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69085
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GAME ONE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: GAME ONE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69086
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MANGAS HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: MANGAS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81029
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANALJ HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CANALJ HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69082
+#EXTINF:-1 tvg-ID="" tvg-name="FR: GULLI HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: GULLI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69087
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ALTICE STUDIO HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/alticestudios.png" group-title="EU FRANCE HEVC",FR: ALTICE STUDIO HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69054
+#EXTINF:-1 tvg-ID="" tvg-name="FR: WARNER TV HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_196A_44E_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: WARNER TV HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69055
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CANAL SPORT HEVC" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2264_438_1_C00000_0_0_0.png" group-title="EU FRANCE HEVC",FR: CANAL SPORT HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69056
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TELEFOOT HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92089
+#EXTINF:-1 tvg-ID="" tvg-name="FR: INFOSPORT HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: INFOSPORT HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81032
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN 1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: BEIN 1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69057
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN 2 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: BEIN 2 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69058
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN 3 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: BEIN 3 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69059
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT NEWS HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: RMC SPORT NEWS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/83083
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: RMC SPORT1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69060
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT2 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: RMC SPORT2 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69061
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT3 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: RMC SPORT3 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69062
+#EXTINF:-1 tvg-ID="" tvg-name="FR: RMC SPORT4 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: RMC SPORT4 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69063
+#EXTINF:-1 tvg-ID="" tvg-name="FR: EQUIDIA HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: EQUIDIA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69064
+#EXTINF:-1 tvg-ID="" tvg-name="FR: ANIMAUX HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: ANIMAUX HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69065
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NAT GEO WILD HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NAT GEO WILD HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69066
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NATIONAL GEO CHANNEL HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NATIONAL GEO CHANNEL HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69067
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PLANETE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69068
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISCOVERY HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69069
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY FAMILY HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISCOVERY FAMILY HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69070
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY SCIENCE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISCOVERY SCIENCE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69071
+#EXTINF:-1 tvg-ID="" tvg-name="FR: DISCOVERY INVES HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: DISCOVERY INVES HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69072
+#EXTINF:-1 tvg-ID="" tvg-name="FR: USHUAIA HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: USHUAIA HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69073
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE AE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PLANETE AE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69074
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PLANETE   CI HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PLANETE   CI HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69075
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CHASSE  PECHE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CHASSE  PECHE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69076
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SCIENCESVIE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: SCIENCESVIE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69077
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TOUTE L HISTOIRE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TOUTE L HISTOIRE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69078
+#EXTINF:-1 tvg-ID="" tvg-name="FR: M6 MUSIC HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: M6 MUSIC HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69088
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MCM TOP HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: MCM TOP HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/69089
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FRANCE INFO HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: FRANCE INFO HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81022
+#EXTINF:-1 tvg-ID="" tvg-name="FR: France 24 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: France 24 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81023
+#EXTINF:-1 tvg-ID="" tvg-name="FR: I24 Francis HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: I24 Francis HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81024
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV5 MONDE EUROPE" tvg-logo="" group-title="EU FRANCE HEVC",FR: TV5 MONDE EUROPE
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81025
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AB1 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: AB1 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81026
+#EXTINF:-1 tvg-ID="" tvg-name="FR: AUTOMOTO HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: AUTOMOTO HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81027
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TREK HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TREK HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81028
+#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDY CENTRAL HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: COMEDY CENTRAL HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81030
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CHERIE 25 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CHERIE 25 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81021
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SUNDANCE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: SUNDANCE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81240
+#EXTINF:-1 tvg-ID="" tvg-name="FR: COMEDIE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: COMEDIE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81242
+#EXTINF:-1 tvg-ID="" tvg-name="FR: BET HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: BET HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81243
+#EXTINF:-1 tvg-ID="" tvg-name="FR: CLIQUE TV HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: CLIQUE TV HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81244
+#EXTINF:-1 tvg-ID="" tvg-name="FR: FOOT 2424 HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: FOOT 2424 HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81246
+#EXTINF:-1 tvg-ID="" tvg-name="FR: MUSEUM HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: MUSEUM HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81248
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NOVELAS TV HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NOVELAS TV HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/81249
+#EXTINF:-1 tvg-ID="" tvg-name="FR: SEASONS HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: SEASONS HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91070
+#EXTINF:-1 tvg-ID="" tvg-name="FR: NICKELODEON JUNIOR HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: NICKELODEON JUNIOR HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91069
+#EXTINF:-1 tvg-ID="" tvg-name="FR: PARAMOUNT CHANNEL HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: PARAMOUNT CHANNEL HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91068
+#EXTINF:-1 tvg-ID="" tvg-name="FR: HISTOIRE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: HISTOIRE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91067
+#EXTINF:-1 tvg-ID="" tvg-name="FR: POLAR+ HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: POLAR+ HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91066
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TV BREIZH HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: TV BREIZH HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91065
+#EXTINF:-1 tvg-ID="" tvg-name="FR: VOYAGE HEVC" tvg-logo="" group-title="EU FRANCE HEVC",FR: VOYAGE HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/91064
+#EXTINF:-1 tvg-ID="" tvg-name="MELODY  HEVC" tvg-logo="" group-title="EU FRANCE HEVC",MELODY  HEVC
+http://www.pandar.tv:25461/wKqgKFqb8HVTAX6/V0QmfnLPefkaNnm/92766
 #EXTINF:-1 tvg-id="" tvg-name="[FR] W9 HD" tvg-logo="" group-title="FRANCE",[FR] W9 HD
 http://aromaiptv.net:80/khalil65aa/stL8WP9cdL/53848
 #EXTINF:-1 tvg-id="" tvg-name="[FR] VOYAGE HD" tvg-logo="" group-title="FRANCE",[FR] VOYAGE HD
