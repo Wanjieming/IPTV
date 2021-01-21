@@ -1,1754 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1.jpg" group-title="imax",TF1
-http://rv.imax.re:80/5124037472/1572081885/78492
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1.jpg" group-title="imax",TF1
-http://rv.imax.re:80/5124037472/1572081885/79132
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2.jpg" group-title="imax",FRANCE 2
-http://rv.imax.re:80/5124037472/1572081885/78491
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2.jpg" group-title="imax",FRANCE 2
-http://rv.imax.re:80/5124037472/1572081885/79131
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3.jpg" group-title="imax",FRANCE 3
-http://rv.imax.re:80/5124037472/1572081885/78490
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3.jpg" group-title="imax",FRANCE 3
-http://rv.imax.re:80/5124037472/1572081885/79130
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="imax",FRANCE 4
-http://rv.imax.re:80/5124037472/1572081885/78489
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="imax",FRANCE 4
-http://rv.imax.re:80/5124037472/1572081885/79129
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="imax",FRANCE 5
-http://rv.imax.re:80/5124037472/1572081885/78488
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="imax",FRANCE 5
-http://rv.imax.re:80/5124037472/1572081885/79128
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="imax",FRANCE O
-http://rv.imax.re:80/5124037472/1572081885/78487
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="imax",FRANCE O
-http://rv.imax.re:80/5124037472/1572081885/79127
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/NOa.png/250px-NOa.png" group-title="imax",FRANCE 3 NOA
-http://rv.imax.re:80/5124037472/1572081885/78486
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/NOa.png/250px-NOa.png" group-title="imax",FRANCE 3 NOA
-http://rv.imax.re:80/5124037472/1572081885/79124
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/6ter.png" group-title="imax",6TER
-http://rv.imax.re:80/5124037472/1572081885/78485
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="imax",6TER
-http://rv.imax.re:80/5124037472/1572081885/79126
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/m6.png" group-title="imax",M6
-http://rv.imax.re:80/5124037472/1572081885/78484
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr.jpg" group-title="imax",M6
-http://rv.imax.re:80/5124037472/1572081885/79125
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tf1seriesfilms.png" group-title="imax",TF1 SERIES FILMS
-http://rv.imax.re:80/5124037472/1572081885/78483
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tf1seriesfilms.png" group-title="imax",TF1 SERIES-FILMS
-http://rv.imax.re:80/5124037472/1572081885/79123
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tfx.png" group-title="imax",TFX
-http://rv.imax.re:80/5124037472/1572081885/78482
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tfx.png" group-title="imax",TFX
-http://rv.imax.re:80/5124037472/1572081885/79122
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtl9.png" group-title="imax",RTL 9
-http://rv.imax.re:80/5124037472/1572081885/78481
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtl9.png" group-title="imax",RTL 9
-http://rv.imax.re:80/5124037472/1572081885/79121
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teva.png" group-title="imax",TEVA
-http://rv.imax.re:80/5124037472/1572081885/78480
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teva.png" group-title="imax",TEVA
-http://rv.imax.re:80/5124037472/1572081885/79120
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tmc.png" group-title="imax",TMC
-http://rv.imax.re:80/5124037472/1572081885/78479
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tmc.png" group-title="imax",TMC
-http://rv.imax.re:80/5124037472/1572081885/79119
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/w9.png" group-title="imax",W9
-http://rv.imax.re:80/5124037472/1572081885/78478
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/w9.png" group-title="imax",W9
-http://rv.imax.re:80/5124037472/1572081885/79118
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/c8.png" group-title="imax",C8
-http://rv.imax.re:80/5124037472/1572081885/86842
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/arte.png" group-title="imax",ARTE
-http://rv.imax.re:80/5124037472/1572081885/78477
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/arte.png" group-title="imax",ARTE
-http://rv.imax.re:80/5124037472/1572081885/79117
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nauticalchannel.png" group-title="imax",NAUTICAL
-http://rv.imax.re:80/5124037472/1572081885/78476
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nauticalchannel.png" group-title="imax",NAUTICAL
-http://rv.imax.re:80/5124037472/1572081885/79116
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nonstoppeople.png" group-title="imax",NON STOP PEOPLE
-http://rv.imax.re:80/5124037472/1572081885/78475
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nonstoppeople.png" group-title="imax",NON STOP PEOPLE
-http://rv.imax.re:80/5124037472/1572081885/79115
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/novelastv.png" group-title="imax",NOVELAS TV
-http://rv.imax.re:80/5124037472/1572081885/78474
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/novelastv.png" group-title="imax",NOVELAS TV
-http://rv.imax.re:80/5124037472/1572081885/79114
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_oneTV_DE_2016.png" group-title="imax",ONE TV
-http://rv.imax.re:80/5124037472/1572081885/78473
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/onetv.png" group-title="imax",ONE TV
-http://rv.imax.re:80/5124037472/1572081885/79113
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rougetv.png" group-title="imax",ROUGE TV
-http://rv.imax.re:80/5124037472/1572081885/78472
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rougetv.png" group-title="imax",ROUGE TV
-http://rv.imax.re:80/5124037472/1572081885/79112
-
-#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-UN.HD.png" group-title="imax",RTS UN
-http://rv.imax.re:80/5124037472/1572081885/78471
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsun.png" group-title="imax",RTS UN
-http://rv.imax.re:80/5124037472/1572081885/79111
-
-#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/RTS-DEUX.HD.png" group-title="imax",RTS DEUX
-http://rv.imax.re:80/5124037472/1572081885/78470
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsdeux.png" group-title="imax",RTS DEUX
-http://rv.imax.re:80/5124037472/1572081885/79110
-
-#EXTINF:-1 tvg-logo="https://www.tntendirect.com/images/channel/cstar.png" group-title="imax",CSTAR
-http://rv.imax.re:80/5124037472/1572081885/78469
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstar.png" group-title="imax",CSTAR
-http://rv.imax.re:80/5124037472/1572081885/79109
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lachainemeteo.png" group-title="imax",LA CHAINE METEO
-http://rv.imax.re:80/5124037472/1572081885/78468
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lachainemeteo.png" group-title="imax",LA CHAINE METEO
-http://rv.imax.re:80/5124037472/1572081885/79108
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="imax",MEZZO FR
-http://rv.imax.re:80/5124037472/1572081885/78467
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="imax",MEZZO FR
-http://rv.imax.re:80/5124037472/1572081885/79107
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/museum.png" group-title="imax",MUSEUM
-http://rv.imax.re:80/5124037472/1572081885/78466
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/museum.png" group-title="imax",MUSEUM
-http://rv.imax.re:80/5124037472/1572081885/79106
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedieplus.png" group-title="imax",COMEDIE 
-http://rv.imax.re:80/5124037472/1572081885/78465
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedieplus.png" group-title="imax",COMEDIE
-http://rv.imax.re:80/5124037472/1572081885/79105
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedycentral.png" group-title="imax",COMEDY CENTRAL
-http://rv.imax.re:80/5124037472/1572081885/78464
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedycentral.png" group-title="imax",COMEDY CENTRAL
-http://rv.imax.re:80/5124037472/1572081885/79104
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="imax",VIAGRANDPARIS
-http://rv.imax.re:80/5124037472/1572081885/78463
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="imax",VIAGRANDPARIS
-http://rv.imax.re:80/5124037472/1572081885/79103
-
-#EXTINF:-1 tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="imax",CANAL 31
-http://rv.imax.re:80/5124037472/1572081885/78462
-
-#EXTINF:-1 tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="imax",CANAL 31
-http://rv.imax.re:80/5124037472/1572081885/79102
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="imax",CANAL 8
-http://rv.imax.re:80/5124037472/1572081885/78461
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="imax",CANAL 8
-http://rv.imax.re:80/5124037472/1572081885/79101
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cliquetv.png" group-title="imax",CLIQUE TV
-http://rv.imax.re:80/5124037472/1572081885/78460
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cliquetv.png" group-title="imax",CLIQUE TV
-http://rv.imax.re:80/5124037472/1572081885/79100
-
-#EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/LEQUIPE-21.SD.png" group-title="imax",EQUIPE 21
-http://rv.imax.re:80/5124037472/1572081885/78459
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lequipe21.png" group-title="imax",EQUIPE 21
-http://rv.imax.re:80/5124037472/1572081885/79099
-
-#EXTINF:-1 tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="imax",IDF 1
-http://rv.imax.re:80/5124037472/1572081885/78458
-
-#EXTINF:-1 tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="imax",IDF 1
-http://rv.imax.re:80/5124037472/1572081885/79098
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/olympiatv.png" group-title="imax",OLYMPIA
-http://rv.imax.re:80/5124037472/1572081885/78457
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/olympiatv.png" group-title="imax",OLYMPIA
-http://rv.imax.re:80/5124037472/1572081885/79097
-
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="imax",LEMAN BLEU
-http://rv.imax.re:80/5124037472/1572081885/78454
-
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="imax",LEMAN BLEU
-http://rv.imax.re:80/5124037472/1572081885/79096
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/kto.png" group-title="imax",KTO
-http://rv.imax.re:80/5124037472/1572081885/78456
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/kto.png" group-title="imax",KTO
-http://rv.imax.re:80/5124037472/1572081885/79095
-
-#EXTINF:-1 tvg-logo="https://boostertv.ch/wp-content/uploads/2018/05/Logo-Header.png" group-title="imax",BOOSTER TV
-http://rv.imax.re:80/5124037472/1572081885/78455
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boostertv.png" group-title="imax",BOOSTER TV
-http://rv.imax.re:80/5124037472/1572081885/79094
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canal9.png" group-title="imax",CANAL 9
-http://rv.imax.re:80/5124037472/1572081885/78453
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_1964.png" group-title="imax",CANAL 9
-http://rv.imax.re:80/5124037472/1572081885/79093
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="imax",THE SWIZZ
-http://rv.imax.re:80/5124037472/1572081885/78452
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="imax",THE SWIZZ
-http://rv.imax.re:80/5124037472/1572081885/79092
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/oltv.png" group-title="imax",OLTV
-http://rv.imax.re:80/5124037472/1572081885/78451
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/oltv.png" group-title="imax",OLTV
-http://rv.imax.re:80/5124037472/1572081885/79091
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplus.png" group-title="imax",CANAL+
-http://rv.imax.re:80/5124037472/1572081885/78449
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplus.png" group-title="imax",CANAL+
-http://rv.imax.re:80/5124037472/1572081885/79089
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplussport.png" group-title="imax",CANAL+ SPORT
-http://rv.imax.re:80/5124037472/1572081885/78448
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusseries.png" group-title="imax",CANAL+ SERIE
-http://rv.imax.re:80/5124037472/1572081885/78447
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplussport.png" group-title="imax",CANAL+ SPORT
-http://rv.imax.re:80/5124037472/1572081885/79088
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusseries.png" group-title="imax",CANAL+ SERIES
-http://rv.imax.re:80/5124037472/1572081885/79087
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="imax",CANAL+ FAMILY
-http://rv.imax.re:80/5124037472/1572081885/78446
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="imax",CANAL+ FAMILY
-http://rv.imax.re:80/5124037472/1572081885/79086
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="imax",CANAL+ DECALE
-http://rv.imax.re:80/5124037472/1572081885/78445
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="imax",CANAL+ DECALE
-http://rv.imax.re:80/5124037472/1572081885/79085
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="imax",CANAL+ CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78444
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="imax",CANAL+ CINEMA
-http://rv.imax.re:80/5124037472/1572081885/79084
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/action.png" group-title="imax",ACTION
-http://rv.imax.re:80/5124037472/1572081885/79082
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/action.png" group-title="imax",ACTION
-http://rv.imax.re:80/5124037472/1572081885/78442
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsmax.png" group-title="imax",OCS MAX
-http://rv.imax.re:80/5124037472/1572081885/79081
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsmax.png" group-title="imax",OCS MAX
-http://rv.imax.re:80/5124037472/1572081885/78441
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocscity.png" group-title="imax",OCS CITY
-http://rv.imax.re:80/5124037472/1572081885/79080
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocscity.png" group-title="imax",OCS CITY
-http://rv.imax.re:80/5124037472/1572081885/78440
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsgeants.png" group-title="imax",OCS GEANTS
-http://rv.imax.re:80/5124037472/1572081885/79079
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsgeants.png" group-title="imax",OCS GEANTS
-http://rv.imax.re:80/5124037472/1572081885/78439
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocschoc.png" group-title="imax",OCS CHOC
-http://rv.imax.re:80/5124037472/1572081885/79078
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocschoc.png" group-title="imax",OCS CHOC
-http://rv.imax.re:80/5124037472/1572081885/78438
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cinepluspremier.png" group-title="imax",CINE+ PREMIER
-http://rv.imax.re:80/5124037472/1572081885/79077
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cinepluspremier.png" group-title="imax",CINE+ PREMIERE
-http://rv.imax.re:80/5124037472/1572081885/78436
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfrisson.png" group-title="imax",CINE+ FRISSON
-http://rv.imax.re:80/5124037472/1572081885/79076
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfrisson.png" group-title="imax",CINE+ FRISSON
-http://rv.imax.re:80/5124037472/1572081885/78435
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusemotion.png" group-title="imax",CINE+ EMOTION
-http://rv.imax.re:80/5124037472/1572081885/79075
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusemotion.png" group-title="imax",CINE+ EMOTION
-http://rv.imax.re:80/5124037472/1572081885/78434
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfamiz.png" group-title="imax",CINE+ FAMIZ
-http://rv.imax.re:80/5124037472/1572081885/79074
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfamiz.png" group-title="imax",CINE+ FAMIZ
-http://rv.imax.re:80/5124037472/1572081885/78433
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclub.png" group-title="imax",CINE+ CLUB
-http://rv.imax.re:80/5124037472/1572081885/79073
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclub.png" group-title="imax",CINE+ CLUB
-http://rv.imax.re:80/5124037472/1572081885/78432
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclassic.png" group-title="imax",CINE+  CLASSIC
-http://rv.imax.re:80/5124037472/1572081885/79072
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclassic.png" group-title="imax",CINE+ CLASSIC
-http://rv.imax.re:80/5124037472/1572081885/78431
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT DECALE
-http://rv.imax.re:80/5124037472/1572081885/79071
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT DECALE
-http://rv.imax.re:80/5124037472/1572081885/78430
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/79070
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/78429
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplay.png" group-title="imax",CANALPLAY 1
-http://rv.imax.re:80/5124037472/1572081885/78299
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplay.png" group-title="imax",CANALPLAY 2
-http://rv.imax.re:80/5124037472/1572081885/78298
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplay.png" group-title="imax",CANALPLAY 3
-http://rv.imax.re:80/5124037472/1572081885/78297
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplay.png" group-title="imax",CANALPLAY 4
-http://rv.imax.re:80/5124037472/1572081885/78296
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplay.png" group-title="imax",CANALPLAY 5
-http://rv.imax.re:80/5124037472/1572081885/78295
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA 1
-http://rv.imax.re:80/5124037472/1572081885/78294
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA 2
-http://rv.imax.re:80/5124037472/1572081885/78293
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA 3
-http://rv.imax.re:80/5124037472/1572081885/78292
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA 4
-http://rv.imax.re:80/5124037472/1572081885/78291
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA 5
-http://rv.imax.re:80/5124037472/1572081885/78290
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA AVENTURE
-http://rv.imax.re:80/5124037472/1572081885/78289
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Orange_cin%C3%A9_max.svg/120px-Orange_cin%C3%A9_max.svg.png" group-title="imax",ORANGE CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78288
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalsatalacarte.png" group-title="imax",A LA CARTE 1
-http://rv.imax.re:80/5124037472/1572081885/78287
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalsatalacarte.png" group-title="imax",A LA CARTE 3
-http://rv.imax.re:80/5124037472/1572081885/78286
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalsatalacarte.png" group-title="imax",A LA CARTE 4
-http://rv.imax.re:80/5124037472/1572081885/78285
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalsatalacarte.png" group-title="imax",A LA CARTE 5
-http://rv.imax.re:80/5124037472/1572081885/78284
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/polarplus.png" group-title="imax",POLAR+
-http://rv.imax.re:80/5124037472/1572081885/78427
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/polarplus.png" group-title="imax",POLAR+
-http://rv.imax.re:80/5124037472/1572081885/79068
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="imax",SYFY
-http://rv.imax.re:80/5124037472/1572081885/78426
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="imax",SYFY
-http://rv.imax.re:80/5124037472/1572081885/79067
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/serieclub.png" group-title="imax",SERIE CLUB
-http://rv.imax.re:80/5124037472/1572081885/78425
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/serieclub.png" group-title="imax",SERIE CLUB
-http://rv.imax.re:80/5124037472/1572081885/79066
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/13emerue.png" group-title="imax",13 EME RUE
-http://rv.imax.re:80/5124037472/1572081885/78424
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/13emerue.png" group-title="imax",13EME RUE
-http://rv.imax.re:80/5124037472/1572081885/79065
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/alticestudio.png" group-title="imax",ALTICE STUDIO
-http://rv.imax.re:80/5124037472/1572081885/78423
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/alticestudio.png" group-title="imax",ALTICE STUDIO
-http://rv.imax.re:80/5124037472/1572081885/79064
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/warnertv.png" group-title="imax",WARNER
-http://rv.imax.re:80/5124037472/1572081885/78422
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/warnertv.png" group-title="imax",WARNER TV
-http://rv.imax.re:80/5124037472/1572081885/79063
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvbreizh.png" group-title="imax",TV BREIZH
-http://rv.imax.re:80/5124037472/1572081885/78421
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvbreizh.png" group-title="imax",TV BREIZH
-http://rv.imax.re:80/5124037472/1572081885/79062
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrj12.png" group-title="imax",NRJ 12
-http://rv.imax.re:80/5124037472/1572081885/78420
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrj12.png" group-title="imax",NRJ 12
-http://rv.imax.re:80/5124037472/1572081885/79061
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcstory.png" group-title="imax",RMC STORY
-http://rv.imax.re:80/5124037472/1572081885/78419
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcstory.png" group-title="imax",RMC STORY
-http://rv.imax.re:80/5124037472/1572081885/79060
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cherie25.png" group-title="imax",CHERIE 25
-http://rv.imax.re:80/5124037472/1572081885/78418
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cherie25.png" group-title="imax",CHERIE 25
-http://rv.imax.re:80/5124037472/1572081885/79059
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/parispremiere.png" group-title="imax",PARIS PREMIERE
-http://rv.imax.re:80/5124037472/1572081885/78417
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/parispremiere.png" group-title="imax",PARIS PREMIERE
-http://rv.imax.re:80/5124037472/1572081885/79058
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/viceland.png" group-title="imax",VICELAND
-http://rv.imax.re:80/5124037472/1572081885/78416
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/viceland.png" group-title="imax",VICELAND
-http://rv.imax.re:80/5124037472/1572081885/79057
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eentertainment.png" group-title="imax",E! ENTERTAINMENT
-http://rv.imax.re:80/5124037472/1572081885/78415
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eentertainment.png" group-title="imax",E! ENTERTAINMENT
-http://rv.imax.re:80/5124037472/1572081885/79056
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mycuisine.png" group-title="imax",MY CUISINE
-http://rv.imax.re:80/5124037472/1572081885/78414
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mycuisine.png" group-title="imax",MY CUISINE
-http://rv.imax.re:80/5124037472/1572081885/79055
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/jone.png" group-title="imax",J ONE
-http://rv.imax.re:80/5124037472/1572081885/79054
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/jone.png" group-title="imax",J ONE
-http://rv.imax.re:80/5124037472/1572081885/78413
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE
-http://rv.imax.re:80/5124037472/1572081885/78412
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE
-http://rv.imax.re:80/5124037472/1572081885/79053
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mangas.png" group-title="imax",MANGAS
-http://rv.imax.re:80/5124037472/1572081885/78411
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mangas.png" group-title="imax",MANGAS
-http://rv.imax.re:80/5124037472/1572081885/79052
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab1.png" group-title="imax",AB 1
-http://rv.imax.re:80/5124037472/1572081885/78410
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab1.png" group-title="imax",AB1
-http://rv.imax.re:80/5124037472/1572081885/79051
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab3.png" group-title="imax",AB 3
-http://rv.imax.re:80/5124037472/1572081885/78409
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab3.png" group-title="imax",AB3
-http://rv.imax.re:80/5124037472/1572081885/79050
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bet.png" group-title="imax",BET
-http://rv.imax.re:80/5124037472/1572081885/78408
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bet.png" group-title="imax",BET
-http://rv.imax.re:80/5124037472/1572081885/79049
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tv5monde.png" group-title="imax",TV5 MONDE
-http://rv.imax.re:80/5124037472/1572081885/78407
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tv5monde.png" group-title="imax",TV5 MONDE
-http://rv.imax.re:80/5124037472/1572081885/79048
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teleclubzoom.png" group-title="imax",TELECLUB ZOOM
-http://rv.imax.re:80/5124037472/1572081885/78406
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teleclubzoom.png" group-title="imax",TELECLUB ZOOM
-http://rv.imax.re:80/5124037472/1572081885/79047
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/aplus.png" group-title="imax",A+
-http://rv.imax.re:80/5124037472/1572081885/78405
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nollywoodtv.png" group-title="imax",NOLLYWOOD TV
-http://rv.imax.re:80/5124037472/1572081885/78404
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports1.png" group-title="imax",BEIN SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78393
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports1.png" group-title="imax",BEIN SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/79044
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports2.png" group-title="imax",BEIN SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78392
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports2.png" group-title="imax",BEIN SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/79043
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports3.png" group-title="imax",BEIN SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/78391
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports3.png" group-title="imax",BEIN SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/79042
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax4.png" group-title="imax",BEIN SPORT MAX 4
-http://rv.imax.re:80/5124037472/1572081885/78390
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax5.png" group-title="imax",BEIN SPORT MAX 5
-http://rv.imax.re:80/5124037472/1572081885/78389
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax6.png" group-title="imax",BEIN SPORT MAX 6
-http://rv.imax.re:80/5124037472/1572081885/78388
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax7.png" group-title="imax",BEIN SPORT MAX 7
-http://rv.imax.re:80/5124037472/1572081885/78387
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax8.png" group-title="imax",BEIN SPORT MAX 8
-http://rv.imax.re:80/5124037472/1572081885/78386
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax9.png" group-title="imax",BEIN SPORT MAX 9
-http://rv.imax.re:80/5124037472/1572081885/78385
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsportsmax10.png" group-title="imax",BEIN SPORT MAX 10
-http://rv.imax.re:80/5124037472/1572081885/78384
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="imax",TELEFOOT
-http://rv.imax.re:80/5124037472/1572081885/78402
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="imax",TELEFOOT
-http://rv.imax.re:80/5124037472/1572081885/79045
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-1.png" group-title="imax",TELEFOOT STADIUM 1
-http://rv.imax.re:80/5124037472/1572081885/78401
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-2.png" group-title="imax",TELEFOOT STADIUM 2
-http://rv.imax.re:80/5124037472/1572081885/78400
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-3.png" group-title="imax",TELEFOOT STADIUM 3
-http://rv.imax.re:80/5124037472/1572081885/78399
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-4.png" group-title="imax",TELEFOOT STADIUM 4
-http://rv.imax.re:80/5124037472/1572081885/78398
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-5.png" group-title="imax",TELEFOOT STADIUM 5
-http://rv.imax.re:80/5124037472/1572081885/78397
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-6.png" group-title="imax",TELEFOOT STADIUM 6
-http://rv.imax.re:80/5124037472/1572081885/78396
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-7.png" group-title="imax",TELEFOOT STADIUM 7
-http://rv.imax.re:80/5124037472/1572081885/78395
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot-stadium-8.png" group-title="imax",TELEFOOT STADIUM 8
-http://rv.imax.re:80/5124037472/1572081885/78394
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="imax",EUROSPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78383
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="imax",EUROSPORT 1
-http://rv.imax.re:80/5124037472/1572081885/79041
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="imax",EUROSPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78382
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="imax",EUROSPORT 2
-http://rv.imax.re:80/5124037472/1572081885/79040
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsportnews.png" group-title="imax",RMC SPORT NEWS
-http://rv.imax.re:80/5124037472/1572081885/78381
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsportnews.png" group-title="imax",RMC SPORT NEWS
-http://rv.imax.re:80/5124037472/1572081885/79039
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="imax",RMC SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78380
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="imax",RMC SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/79038
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="imax",RMC SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78379
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="imax",RMC SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/79037
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="imax",RMC SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/78378
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="imax",RMC SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/79036
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="imax",RMC SPORT 4
-http://rv.imax.re:80/5124037472/1572081885/78377
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="imax",RMC SPORT 4
-http://rv.imax.re:80/5124037472/1572081885/79035
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 5
-http://rv.imax.re:80/5124037472/1572081885/78376
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 5
-http://rv.imax.re:80/5124037472/1572081885/79034
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 6
-http://rv.imax.re:80/5124037472/1572081885/78375
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 6
-http://rv.imax.re:80/5124037472/1572081885/79033
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 7
-http://rv.imax.re:80/5124037472/1572081885/78374
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 7
-http://rv.imax.re:80/5124037472/1572081885/79032
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 8
-http://rv.imax.re:80/5124037472/1572081885/78373
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 8
-http://rv.imax.re:80/5124037472/1572081885/79031
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 9
-http://rv.imax.re:80/5124037472/1572081885/78372
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 9
-http://rv.imax.re:80/5124037472/1572081885/79030
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 10
-http://rv.imax.re:80/5124037472/1572081885/78371
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 10
-http://rv.imax.re:80/5124037472/1572081885/79029
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 11
-http://rv.imax.re:80/5124037472/1572081885/78370
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 11
-http://rv.imax.re:80/5124037472/1572081885/79028
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 12
-http://rv.imax.re:80/5124037472/1572081885/78369
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 12
-http://rv.imax.re:80/5124037472/1572081885/79027
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 13
-http://rv.imax.re:80/5124037472/1572081885/78368
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 13
-http://rv.imax.re:80/5124037472/1572081885/79026
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 14
-http://rv.imax.re:80/5124037472/1572081885/78367
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 14
-http://rv.imax.re:80/5124037472/1572081885/79025
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 15
-http://rv.imax.re:80/5124037472/1572081885/78366
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 15
-http://rv.imax.re:80/5124037472/1572081885/79024
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 1
-http://rv.imax.re:80/5124037472/1572081885/78365
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 1
-http://rv.imax.re:80/5124037472/1572081885/79023
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 2
-http://rv.imax.re:80/5124037472/1572081885/78364
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 2
-http://rv.imax.re:80/5124037472/1572081885/79022
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 3
-http://rv.imax.re:80/5124037472/1572081885/78363
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTIS PORTS 3
-http://rv.imax.re:80/5124037472/1572081885/79021
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 4
-http://rv.imax.re:80/5124037472/1572081885/78362
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 4
-http://rv.imax.re:80/5124037472/1572081885/79020
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 5
-http://rv.imax.re:80/5124037472/1572081885/78361
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 5
-http://rv.imax.re:80/5124037472/1572081885/79019
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 6
-http://rv.imax.re:80/5124037472/1572081885/78360
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 6
-http://rv.imax.re:80/5124037472/1572081885/79018
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/footplus2424.png" group-title="imax",FOOT+ 24
-http://rv.imax.re:80/5124037472/1572081885/78359
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/footplus2424.png" group-title="imax",FOOT+ 24
-http://rv.imax.re:80/5124037472/1572081885/79016
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/infosportplus.png" group-title="imax",INFOSPORT+
-http://rv.imax.re:80/5124037472/1572081885/78358
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/infosportplus.png" group-title="imax",INFO SPORT
-http://rv.imax.re:80/5124037472/1572081885/79015
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/equidia.png" group-title="imax",EQUIDIA LIVE
-http://rv.imax.re:80/5124037472/1572081885/78357
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/equidia.png" group-title="imax",EQUIDIA LIVE
-http://rv.imax.re:80/5124037472/1572081885/79014
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/golfplus.png" group-title="imax",GOLF+
-http://rv.imax.re:80/5124037472/1572081885/78356
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/golfplus.png" group-title="imax",GOLF+
-http://rv.imax.re:80/5124037472/1572081885/79013
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/motorsporttv.png" group-title="imax",MOTORSPORT TV
-http://rv.imax.re:80/5124037472/1572081885/78355
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/motorsporttv.png" group-title="imax",MOTORSPORT TV
-http://rv.imax.re:80/5124037472/1572081885/79012
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/automototv.png" group-title="imax",AUTO MOTO
-http://rv.imax.re:80/5124037472/1572081885/78354
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/automototv.png" group-title="imax",AUTO MOTO
-http://rv.imax.re:80/5124037472/1572081885/79011
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE  +1
-http://rv.imax.re:80/5124037472/1572081885/79010
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toutelhistoire.png" group-title="imax",TOUTE L HISTOIR
-http://rv.imax.re:80/5124037472/1572081885/78351
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toutelhistoire.png" group-title="imax",TOUTE L'HISTOIRE
-http://rv.imax.re:80/5124037472/1572081885/79008
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplus.png" group-title="imax",PLANETE+
-http://rv.imax.re:80/5124037472/1572081885/78350
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplus.png" group-title="imax",PLANETE+
-http://rv.imax.re:80/5124037472/1572081885/79007
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplusaventureexperience.png" group-title="imax",PLANET A&E
-http://rv.imax.re:80/5124037472/1572081885/78349
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplusaventureexperience.png" group-title="imax",PLANETE  A&E
-http://rv.imax.re:80/5124037472/1572081885/79006
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planetepluscrimeinvestigation.png" group-title="imax",PLANETE+ CI
-http://rv.imax.re:80/5124037472/1572081885/78348
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planetepluscrimeinvestigation.png" group-title="imax",PLANETE+ CI
-http://rv.imax.re:80/5124037472/1572081885/79005
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discovery.png" group-title="imax",DISCOVERY
-http://rv.imax.re:80/5124037472/1572081885/78347
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoverychannel.png" group-title="imax",DISCOVERY
-http://rv.imax.re:80/5124037472/1572081885/79004
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryscience-clivebesle.png" group-title="imax",DISCOVERY SCIENCE
-http://rv.imax.re:80/5124037472/1572081885/78346
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryscience-clivebesle.png" group-title="imax",DISCOVERY SCIENCE
-http://rv.imax.re:80/5124037472/1572081885/79003
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryfamily.png" group-title="imax",DISCOVERY FAMILY
-http://rv.imax.re:80/5124037472/1572081885/78345
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryfamily.png" group-title="imax",DISCOVERY FAMILY
-http://rv.imax.re:80/5124037472/1572081885/79002
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY ID
-http://rv.imax.re:80/5124037472/1572081885/78344
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscoveryhd.png" group-title="imax",DISCOVERY ID
-http://rv.imax.re:80/5124037472/1572081885/79001
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY INVESTIGATION
-http://rv.imax.re:80/5124037472/1572081885/78343
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscoveryhd.png" group-title="imax",DISCOVERY INVESTIGATION
-http://rv.imax.re:80/5124037472/1572081885/79000
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographic.png" group-title="imax",NGC
-http://rv.imax.re:80/5124037472/1572081885/78342
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographic.png" group-title="imax",NGC
-http://rv.imax.re:80/5124037472/1572081885/78999
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographicwild.png" group-title="imax",NGC WILD
-http://rv.imax.re:80/5124037472/1572081885/78341
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographicwild.png" group-title="imax",NGC WILD
-http://rv.imax.re:80/5124037472/1572081885/78998
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/voyage.png" group-title="imax",VOYAGES TV
-http://rv.imax.re:80/5124037472/1572081885/78340
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/voyage.png" group-title="imax",VOYAGE
-http://rv.imax.re:80/5124037472/1572081885/78997
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ushuaiatv.png" group-title="imax",USHUAIA
-http://rv.imax.re:80/5124037472/1572081885/78339
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ushuaiatv.png" group-title="imax",USHUAIA
-http://rv.imax.re:80/5124037472/1572081885/78996
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/histoire.png" group-title="imax",HISTOIRE
-http://rv.imax.re:80/5124037472/1572081885/78338
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/histoire.png" group-title="imax",HISTOIRE
-http://rv.imax.re:80/5124037472/1572081885/78995
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/animaux.png" group-title="imax",ANIMAUX
-http://rv.imax.re:80/5124037472/1572081885/78337
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/animaux.png" group-title="imax",ANIMAUX
-http://rv.imax.re:80/5124037472/1572081885/78994
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/trek.png" group-title="imax",TREK
-http://rv.imax.re:80/5124037472/1572081885/78336
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/trek.png" group-title="imax",TREK
-http://rv.imax.re:80/5124037472/1572081885/78993
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/chasseetpeche.png" group-title="imax",CHASSE ET PECHE
-http://rv.imax.re:80/5124037472/1572081885/78335
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/chasseetpeche.png" group-title="imax",CHASSE&PECHE
-http://rv.imax.re:80/5124037472/1572081885/78992
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/scienceetvietv.png" group-title="imax",SCIENCE ET VIE
-http://rv.imax.re:80/5124037472/1572081885/78334
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/scienceetvietv.png" group-title="imax",SCIENCE ET VIE
-http://rv.imax.re:80/5124037472/1572081885/78991
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcdecouverte.png" group-title="imax",RMC DECOUVERTE
-http://rv.imax.re:80/5124037472/1572081885/78333
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcdecouverte.png" group-title="imax",RMC DECOUVERTE
-http://rv.imax.re:80/5124037472/1572081885/78990
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/seasons.png" group-title="imax",SEASONS
-http://rv.imax.re:80/5124037472/1572081885/78332
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/seasons.png" group-title="imax",SEASONS
-http://rv.imax.re:80/5124037472/1572081885/78989
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gulli.png" group-title="imax",GULLI
-http://rv.imax.re:80/5124037472/1572081885/78331
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gulli.png" group-title="imax",GULLI
-http://rv.imax.re:80/5124037472/1572081885/78988
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tcmcinema.png" group-title="imax",TCM CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78330
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tcmcinema.png" group-title="imax",TCM CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78987
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/crimedistrict.png" group-title="imax",CRIME DISTRICT
-http://rv.imax.re:80/5124037472/1572081885/78329
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/crimedistrict.png" group-title="imax",CRIME DISTRICT
-http://rv.imax.re:80/5124037472/1572081885/78986
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",CANAL NEWS
-http://rv.imax.re:80/5124037472/1572081885/78325
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",CANAL NEWS
-http://rv.imax.re:80/5124037472/1572081885/78984
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",CNEWS
-http://rv.imax.re:80/5124037472/1572081885/78327
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",C NEWS
-http://rv.imax.re:80/5124037472/1572081885/78983
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lci.png" group-title="imax",LCI
-http://rv.imax.re:80/5124037472/1572081885/78324
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lci.png" group-title="imax",LCI
-http://rv.imax.re:80/5124037472/1572081885/78982
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/franceinfo.png" group-title="imax",FRANCE INFO
-http://rv.imax.re:80/5124037472/1572081885/78323
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/franceinfo.png" group-title="imax",FRANCE INFO
-http://rv.imax.re:80/5124037472/1572081885/78981
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/france24.png" group-title="imax",FRANCE 24
-http://rv.imax.re:80/5124037472/1572081885/78321
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/france24.png" group-title="imax",FRANCE 24
-http://rv.imax.re:80/5124037472/1572081885/78980
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/euronews.png" group-title="imax",EURONEWS (FRENCH)
-http://rv.imax.re:80/5124037472/1572081885/78322
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/euronews.png" group-title="imax",EURONEWS FRENCH
-http://rv.imax.re:80/5124037472/1572081885/78979
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="imax",LCP
-http://rv.imax.re:80/5124037472/1572081885/78320
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="imax",LCP
-http://rv.imax.re:80/5124037472/1572081885/78978
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmtv.png" group-title="imax",BFM TV
-http://rv.imax.re:80/5124037472/1572081885/78326
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmbusiness.png" group-title="imax",BFM BUSINESS
-http://rv.imax.re:80/5124037472/1572081885/78319
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmbusiness.png" group-title="imax",BFM BUSINESS
-http://rv.imax.re:80/5124037472/1572081885/78977
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmparis.png" group-title="imax",BFM PARIS
-http://rv.imax.re:80/5124037472/1572081885/78318
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmparis.png" group-title="imax",BFM PARIS
-http://rv.imax.re:80/5124037472/1572081885/78976
-
-#EXTINF:-1 tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.i24News.png.pagespeed.ic.r9fm1_uURB.png" group-title="imax",I 24 NEWS
-http://rv.imax.re:80/5124037472/1572081885/78317
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/i24news.png" group-title="imax",I 24 NEWS
-http://rv.imax.re:80/5124037472/1572081885/78975
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/m6music.png" group-title="imax",M6 MUSIC
-http://rv.imax.re:80/5124037472/1572081885/78315
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/m6music.png" group-title="imax",M6 MUSIC
-http://rv.imax.re:80/5124037472/1572081885/78973
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/traceurban.png" group-title="imax",TRACE URBAN
-http://rv.imax.re:80/5124037472/1572081885/78314
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/traceurban.png" group-title="imax",TRACE URBAN
-http://rv.imax.re:80/5124037472/1572081885/78972
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="imax",MEZZO LIVE
-http://rv.imax.re:80/5124037472/1572081885/78313
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="imax",MEZZO LIVE
-http://rv.imax.re:80/5124037472/1572081885/78971
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcm.png" group-title="imax",MCM
-http://rv.imax.re:80/5124037472/1572081885/78312
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcm.png" group-title="imax",MCM
-http://rv.imax.re:80/5124037472/1572081885/78970
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcmtop.png" group-title="imax",MCM TOP
-http://rv.imax.re:80/5124037472/1572081885/78311
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcmtop.png" group-title="imax",MCM TOP
-http://rv.imax.re:80/5124037472/1572081885/78969
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY TV
-http://rv.imax.re:80/5124037472/1572081885/78310
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY
-http://rv.imax.re:80/5124037472/1572081885/78968
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
-http://rv.imax.re:80/5124037472/1572081885/78309
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
-http://rv.imax.re:80/5124037472/1572081885/78967
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
-http://rv.imax.re:80/5124037472/1572081885/78308
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
-http://rv.imax.re:80/5124037472/1572081885/78966
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfm.png" group-title="imax",RFM TV
-http://rv.imax.re:80/5124037472/1572081885/78307
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfmtv.png" group-title="imax",RFM TV
-http://rv.imax.re:80/5124037472/1572081885/78965
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
-http://rv.imax.re:80/5124037472/1572081885/78306
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
-http://rv.imax.re:80/5124037472/1572081885/78964
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
-http://rv.imax.re:80/5124037472/1572081885/78305
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
-http://rv.imax.re:80/5124037472/1572081885/78963
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
-http://rv.imax.re:80/5124037472/1572081885/78304
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
-http://rv.imax.re:80/5124037472/1572081885/78962
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM 3
-http://rv.imax.re:80/5124037472/1572081885/78303
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM3
-http://rv.imax.re:80/5124037472/1572081885/78961
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
-http://rv.imax.re:80/5124037472/1572081885/78302
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
-http://rv.imax.re:80/5124037472/1572081885/78960
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
-http://rv.imax.re:80/5124037472/1572081885/78301
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
-http://rv.imax.re:80/5124037472/1572081885/78959
-
-#EXTINF:-1 tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="imax",CORONA VIRUS INFO
-http://rv.imax.re:80/5124037472/1572081885/78814
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1.jpg" group-title="imax",TF1
-http://rv.imax.re:80/5124037472/1572081885/78813
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2.jpg" group-title="imax",FRANCE 2
-http://rv.imax.re:80/5124037472/1572081885/78812
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3.jpg" group-title="imax",FRANCE 3
-http://rv.imax.re:80/5124037472/1572081885/78811
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="imax",FRANCE 4
-http://rv.imax.re:80/5124037472/1572081885/78810
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="imax",FRANCE 5
-http://rv.imax.re:80/5124037472/1572081885/78809
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="imax",FRANCE O
-http://rv.imax.re:80/5124037472/1572081885/78808
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="imax",6TER
-http://rv.imax.re:80/5124037472/1572081885/78807
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr.jpg" group-title="imax",M6
-http://rv.imax.re:80/5124037472/1572081885/78806
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/NOa.png/250px-NOa.png" group-title="imax",FRANCE 3 NOA
-http://rv.imax.re:80/5124037472/1572081885/78805
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tf1seriesfilms.png" group-title="imax",TF1 SERIES-FILMS
-http://rv.imax.re:80/5124037472/1572081885/78804
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tfx.png" group-title="imax",TFX
-http://rv.imax.re:80/5124037472/1572081885/78803
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtl9.png" group-title="imax",RTL 9
-http://rv.imax.re:80/5124037472/1572081885/78802
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teva.png" group-title="imax",TEVA
-http://rv.imax.re:80/5124037472/1572081885/78801
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tmc.png" group-title="imax",TMC
-http://rv.imax.re:80/5124037472/1572081885/78800
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/w9.png" group-title="imax",W9
-http://rv.imax.re:80/5124037472/1572081885/78799
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/c8.png" group-title="imax",C8 FHD
-http://rv.imax.re:80/5124037472/1572081885/86843
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/arte.png" group-title="imax",ARTE
-http://rv.imax.re:80/5124037472/1572081885/78798
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nauticalchannel.png" group-title="imax",NAUTICAL
-http://rv.imax.re:80/5124037472/1572081885/78797
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nonstoppeople.png" group-title="imax",NON STOP PEOPLE
-http://rv.imax.re:80/5124037472/1572081885/78796
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/novelastv.png" group-title="imax",NOVELAS TV
-http://rv.imax.re:80/5124037472/1572081885/78795
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/onetv.png" group-title="imax",ONE TV
-http://rv.imax.re:80/5124037472/1572081885/78794
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rougetv.png" group-title="imax",ROUGE TV
-http://rv.imax.re:80/5124037472/1572081885/78793
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsun.png" group-title="imax",RTS UN
-http://rv.imax.re:80/5124037472/1572081885/78792
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsdeux.png" group-title="imax",RTS DEUX
-http://rv.imax.re:80/5124037472/1572081885/78791
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstar.png" group-title="imax",CSTAR
-http://rv.imax.re:80/5124037472/1572081885/78790
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lachainemeteo.png" group-title="imax",LA CHAINE METEO
-http://rv.imax.re:80/5124037472/1572081885/78789
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="imax",MEZZO FR
-http://rv.imax.re:80/5124037472/1572081885/78788
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/museum.png" group-title="imax",MUSEUM
-http://rv.imax.re:80/5124037472/1572081885/78787
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedieplus.png" group-title="imax",COMEDIE
-http://rv.imax.re:80/5124037472/1572081885/78786
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedycentral.png" group-title="imax",COMEDY CENTRAL
-http://rv.imax.re:80/5124037472/1572081885/78785
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="imax",VIAGRANDPARIS
-http://rv.imax.re:80/5124037472/1572081885/78784
-
-#EXTINF:-1 tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="imax",CANAL 31
-http://rv.imax.re:80/5124037472/1572081885/78783
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="imax",CANAL 8
-http://rv.imax.re:80/5124037472/1572081885/78782
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cliquetv.png" group-title="imax",CLIQUE TV
-http://rv.imax.re:80/5124037472/1572081885/78781
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lequipe21.png" group-title="imax",EQUIPE 21
-http://rv.imax.re:80/5124037472/1572081885/78780
-
-#EXTINF:-1 tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="imax",IDF 1
-http://rv.imax.re:80/5124037472/1572081885/78779
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/olympiatv.png" group-title="imax",OLYMPIA
-http://rv.imax.re:80/5124037472/1572081885/78778
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="imax",THE SWIZZ
-http://rv.imax.re:80/5124037472/1572081885/78777
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canal9.png" group-title="imax",CANAL 9
-http://rv.imax.re:80/5124037472/1572081885/78776
-
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="imax",LEMAN BLEU
-http://rv.imax.re:80/5124037472/1572081885/78775
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boostertv.png" group-title="imax",BOOSTER TV
-http://rv.imax.re:80/5124037472/1572081885/78774
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/kto.png" group-title="imax",KTO
-http://rv.imax.re:80/5124037472/1572081885/78773
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/oltv.png" group-title="imax",OLTV
-http://rv.imax.re:80/5124037472/1572081885/78772
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplus.png" group-title="imax",CANAL+
-http://rv.imax.re:80/5124037472/1572081885/78770
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplussport.png" group-title="imax",CANAL+ SPORT
-http://rv.imax.re:80/5124037472/1572081885/78769
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusseries.png" group-title="imax",CANAL+ SERIES
-http://rv.imax.re:80/5124037472/1572081885/78768
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="imax",CANAL+ FAMILY
-http://rv.imax.re:80/5124037472/1572081885/78767
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="imax",CANAL+ DECALE
-http://rv.imax.re:80/5124037472/1572081885/78766
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="imax",CANAL+ CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78765
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/action.png" group-title="imax",ACTION
-http://rv.imax.re:80/5124037472/1572081885/78763
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsmax.png" group-title="imax",OCS MAX
-http://rv.imax.re:80/5124037472/1572081885/78762
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocscity.png" group-title="imax",OCS CITY
-http://rv.imax.re:80/5124037472/1572081885/78761
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsgeants.png" group-title="imax",OCS GEANTS
-http://rv.imax.re:80/5124037472/1572081885/78760
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocschoc.png" group-title="imax",OCS CHOC
-http://rv.imax.re:80/5124037472/1572081885/78759
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cinepluspremier.png" group-title="imax",CINE+ PREMIER
-http://rv.imax.re:80/5124037472/1572081885/78758
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfrisson.png" group-title="imax",CINE+ FRISSON
-http://rv.imax.re:80/5124037472/1572081885/78757
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusemotion.png" group-title="imax",CINE+ EMOTION
-http://rv.imax.re:80/5124037472/1572081885/78756
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfamiz.png" group-title="imax",CINE+ FAMIZ
-http://rv.imax.re:80/5124037472/1572081885/78755
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclub.png" group-title="imax",CINE+ CLUB
-http://rv.imax.re:80/5124037472/1572081885/78754
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclassic.png" group-title="imax",CINE+ CLASSIC
-http://rv.imax.re:80/5124037472/1572081885/78753
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT DECALE
-http://rv.imax.re:80/5124037472/1572081885/78752
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/78751
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/polarplus.png" group-title="imax",POLAR+
-http://rv.imax.re:80/5124037472/1572081885/78749
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="imax",SYFY
-http://rv.imax.re:80/5124037472/1572081885/78748
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/serieclub.png" group-title="imax",SERIE CLUB
-http://rv.imax.re:80/5124037472/1572081885/78747
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/13emerue.png" group-title="imax",13EME RUE
-http://rv.imax.re:80/5124037472/1572081885/78746
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/alticestudio.png" group-title="imax",ALTICE STUDIO
-http://rv.imax.re:80/5124037472/1572081885/78745
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/warnertv.png" group-title="imax",WARNER TV
-http://rv.imax.re:80/5124037472/1572081885/78744
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvbreizh.png" group-title="imax",TV BREIZH
-http://rv.imax.re:80/5124037472/1572081885/78743
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrj12.png" group-title="imax",NRJ 12
-http://rv.imax.re:80/5124037472/1572081885/78742
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcstory.png" group-title="imax",RMC STORY
-http://rv.imax.re:80/5124037472/1572081885/78741
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cherie25.png" group-title="imax",CHERIE 25
-http://rv.imax.re:80/5124037472/1572081885/78740
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/parispremiere.png" group-title="imax",PARIS PREMIERE
-http://rv.imax.re:80/5124037472/1572081885/78739
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/viceland.png" group-title="imax",VICELAND
-http://rv.imax.re:80/5124037472/1572081885/78738
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eentertainment.png" group-title="imax",E! ENTERTAINMENT
-http://rv.imax.re:80/5124037472/1572081885/78737
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mycuisine.png" group-title="imax",MY CUISINE
-http://rv.imax.re:80/5124037472/1572081885/78736
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/jone.png" group-title="imax",J ONE
-http://rv.imax.re:80/5124037472/1572081885/78735
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE
-http://rv.imax.re:80/5124037472/1572081885/78734
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mangas.png" group-title="imax",MANGAS
-http://rv.imax.re:80/5124037472/1572081885/78733
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab1.png" group-title="imax",AB1
-http://rv.imax.re:80/5124037472/1572081885/78732
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab3.png" group-title="imax",AB3
-http://rv.imax.re:80/5124037472/1572081885/78731
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bet.png" group-title="imax",BET
-http://rv.imax.re:80/5124037472/1572081885/78730
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tv5monde.png" group-title="imax",TV5 MONDE
-http://rv.imax.re:80/5124037472/1572081885/78729
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teleclubzoom.png" group-title="imax",TELECLUB ZOOM
-http://rv.imax.re:80/5124037472/1572081885/78728
-
-#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="imax",TELEFOOT
-http://rv.imax.re:80/5124037472/1572081885/78726
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports1.png" group-title="imax",BEIN SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78725
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports2.png" group-title="imax",BEIN SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78724
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports3.png" group-title="imax",BEIN SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/78723
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="imax",EUROSPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78722
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="imax",EUROSPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78721
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsportnews.png" group-title="imax",RMC SPORT NEWS
-http://rv.imax.re:80/5124037472/1572081885/78720
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="imax",RMC SPORT 1
-http://rv.imax.re:80/5124037472/1572081885/78719
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="imax",RMC SPORT 2
-http://rv.imax.re:80/5124037472/1572081885/78718
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="imax",RMC SPORT 3
-http://rv.imax.re:80/5124037472/1572081885/78717
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="imax",RMC SPORT 4
-http://rv.imax.re:80/5124037472/1572081885/78716
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 5
-http://rv.imax.re:80/5124037472/1572081885/78715
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 6
-http://rv.imax.re:80/5124037472/1572081885/78714
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 7
-http://rv.imax.re:80/5124037472/1572081885/78713
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 8
-http://rv.imax.re:80/5124037472/1572081885/78712
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 9
-http://rv.imax.re:80/5124037472/1572081885/78711
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 10
-http://rv.imax.re:80/5124037472/1572081885/78710
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 11
-http://rv.imax.re:80/5124037472/1572081885/78709
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 12
-http://rv.imax.re:80/5124037472/1572081885/78708
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 13
-http://rv.imax.re:80/5124037472/1572081885/78707
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 14
-http://rv.imax.re:80/5124037472/1572081885/78706
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 15
-http://rv.imax.re:80/5124037472/1572081885/78705
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 1
-http://rv.imax.re:80/5124037472/1572081885/78704
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 2
-http://rv.imax.re:80/5124037472/1572081885/78703
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 4
-http://rv.imax.re:80/5124037472/1572081885/78702
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTIS PORTS 3
-http://rv.imax.re:80/5124037472/1572081885/78701
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 5
-http://rv.imax.re:80/5124037472/1572081885/78700
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 6
-http://rv.imax.re:80/5124037472/1572081885/78699
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/footplus2424.png" group-title="imax",FOOT+ 24
-http://rv.imax.re:80/5124037472/1572081885/78698
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/infosportplus.png" group-title="imax",INFO SPORT
-http://rv.imax.re:80/5124037472/1572081885/78697
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/equidia.png" group-title="imax",EQUIDIA LIVE
-http://rv.imax.re:80/5124037472/1572081885/78696
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/golfplus.png" group-title="imax",GOLF+
-http://rv.imax.re:80/5124037472/1572081885/78695
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/motorsporttv.png" group-title="imax",MOTORSPORT TV
-http://rv.imax.re:80/5124037472/1572081885/78694
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/automototv.png" group-title="imax",AUTO MOTO
-http://rv.imax.re:80/5124037472/1572081885/78693
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE  +1
-http://rv.imax.re:80/5124037472/1572081885/78692
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toutelhistoire.png" group-title="imax",TOUTE L'HISTOIRE
-http://rv.imax.re:80/5124037472/1572081885/78690
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplus.png" group-title="imax",PLANETE+
-http://rv.imax.re:80/5124037472/1572081885/78689
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplusaventureexperience.png" group-title="imax",PLANETE  A&E
-http://rv.imax.re:80/5124037472/1572081885/78688
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planetepluscrimeinvestigation.png" group-title="imax",PLANETE+ CI
-http://rv.imax.re:80/5124037472/1572081885/78687
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoverychannel.png" group-title="imax",DISCOVERY
-http://rv.imax.re:80/5124037472/1572081885/78686
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryscience-clivebesle.png" group-title="imax",DISCOVERY SCIENCE
-http://rv.imax.re:80/5124037472/1572081885/78685
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryfamily.png" group-title="imax",DISCOVERY FAMILY
-http://rv.imax.re:80/5124037472/1572081885/78684
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY ID
-http://rv.imax.re:80/5124037472/1572081885/78683
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY INVESTIGATION
-http://rv.imax.re:80/5124037472/1572081885/78682
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographic.png" group-title="imax",NGC
-http://rv.imax.re:80/5124037472/1572081885/78681
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographicwild.png" group-title="imax",NGC WILD
-http://rv.imax.re:80/5124037472/1572081885/78680
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/voyage.png" group-title="imax",VOYAGE
-http://rv.imax.re:80/5124037472/1572081885/78679
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ushuaiatv.png" group-title="imax",USHUAIA
-http://rv.imax.re:80/5124037472/1572081885/78678
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/histoire.png" group-title="imax",HISTOIRE
-http://rv.imax.re:80/5124037472/1572081885/78677
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/animaux.png" group-title="imax",ANIMAUX
-http://rv.imax.re:80/5124037472/1572081885/78676
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/trek.png" group-title="imax",TREK
-http://rv.imax.re:80/5124037472/1572081885/78675
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/chasseetpeche.png" group-title="imax",CHASSE&PECHE
-http://rv.imax.re:80/5124037472/1572081885/78674
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/scienceetvietv.png" group-title="imax",SCIENCE ET VIE
-http://rv.imax.re:80/5124037472/1572081885/78673
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcdecouverte.png" group-title="imax",RMC DECOUVERTE
-http://rv.imax.re:80/5124037472/1572081885/78672
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/seasons.png" group-title="imax",SEASONS
-http://rv.imax.re:80/5124037472/1572081885/78671
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gulli.png" group-title="imax",GULLI
-http://rv.imax.re:80/5124037472/1572081885/78670
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tcmcinema.png" group-title="imax",TCM CINEMA
-http://rv.imax.re:80/5124037472/1572081885/78669
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/crimedistrict.png" group-title="imax",CRIME DISTRICT
-http://rv.imax.re:80/5124037472/1572081885/78668
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",C NEWS
-http://rv.imax.re:80/5124037472/1572081885/78666
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmtv.png" group-title="imax",BFM TV
-http://rv.imax.re:80/5124037472/1572081885/78665
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",CANAL NEWS
-http://rv.imax.re:80/5124037472/1572081885/78664
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lci.png" group-title="imax",LCI
-http://rv.imax.re:80/5124037472/1572081885/78663
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/franceinfo.png" group-title="imax",FRANCE INFO
-http://rv.imax.re:80/5124037472/1572081885/78662
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/euronews.png" group-title="imax",EURONEWS (FRENCH)
-http://rv.imax.re:80/5124037472/1572081885/78661
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/france24.png" group-title="imax",FRANCE 24
-http://rv.imax.re:80/5124037472/1572081885/78660
-
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="imax",LCP
-http://rv.imax.re:80/5124037472/1572081885/78659
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmbusiness.png" group-title="imax",BFM BUSINESS
-http://rv.imax.re:80/5124037472/1572081885/78658
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmparis.png" group-title="imax",BFM PARIS
-http://rv.imax.re:80/5124037472/1572081885/78657
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/i24news.png" group-title="imax",I 24 NEWS
-http://rv.imax.re:80/5124037472/1572081885/78656
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/m6music.png" group-title="imax",M6 MUSIC
-http://rv.imax.re:80/5124037472/1572081885/78654
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/traceurban.png" group-title="imax",TRACE URBAN
-http://rv.imax.re:80/5124037472/1572081885/78653
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="imax",MEZZO LIVE
-http://rv.imax.re:80/5124037472/1572081885/78652
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcm.png" group-title="imax",MCM
-http://rv.imax.re:80/5124037472/1572081885/78651
-
-#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-top-fr.png" group-title="imax",MCM TOP
-http://rv.imax.re:80/5124037472/1572081885/78650
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
-http://rv.imax.re:80/5124037472/1572081885/78649
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY TV
-http://rv.imax.re:80/5124037472/1572081885/78648
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
-http://rv.imax.re:80/5124037472/1572081885/78647
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfmtv.png" group-title="imax",RFM TV
-http://rv.imax.re:80/5124037472/1572081885/78646
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
-http://rv.imax.re:80/5124037472/1572081885/78645
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
-http://rv.imax.re:80/5124037472/1572081885/78644
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
-http://rv.imax.re:80/5124037472/1572081885/78643
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM3
-http://rv.imax.re:80/5124037472/1572081885/78642
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
-http://rv.imax.re:80/5124037472/1572081885/78641
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
-http://rv.imax.re:80/5124037472/1572081885/78640
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
-http://rv.imax.re:80/5124037472/1572081885/78546
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
-http://rv.imax.re:80/5124037472/1572081885/78545
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
-http://rv.imax.re:80/5124037472/1572081885/78544
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
-http://rv.imax.re:80/5124037472/1572081885/78543
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
-http://rv.imax.re:80/5124037472/1572081885/78542
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
-http://rv.imax.re:80/5124037472/1572081885/78541
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
-http://rv.imax.re:80/5124037472/1572081885/78540
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="imax",CANAL J
-http://rv.imax.re:80/5124037472/1572081885/78539
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png" group-title="imax",BOING
-http://rv.imax.re:80/5124037472/1572081885/78538
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78537
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
-http://rv.imax.re:80/5124037472/1572081885/78536
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/78535
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
-http://rv.imax.re:80/5124037472/1572081885/78534
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
-http://rv.imax.re:80/5124037472/1572081885/78533
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78532
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
-http://rv.imax.re:80/5124037472/1572081885/78531
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
-http://rv.imax.re:80/5124037472/1572081885/78527
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
-http://rv.imax.re:80/5124037472/1572081885/78526
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
-http://rv.imax.re:80/5124037472/1572081885/78525
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
-http://rv.imax.re:80/5124037472/1572081885/78524
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
-http://rv.imax.re:80/5124037472/1572081885/78523
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
-http://rv.imax.re:80/5124037472/1572081885/78522
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
-http://rv.imax.re:80/5124037472/1572081885/78521
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalj.png" group-title="imax",CANAL J
-http://rv.imax.re:80/5124037472/1572081885/78520
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boing.png" group-title="imax",BOING
-http://rv.imax.re:80/5124037472/1572081885/78519
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78518
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
-http://rv.imax.re:80/5124037472/1572081885/78517
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/78516
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
-http://rv.imax.re:80/5124037472/1572081885/78515
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
-http://rv.imax.re:80/5124037472/1572081885/78514
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
-http://rv.imax.re:80/5124037472/1572081885/78513
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78512
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
-http://rv.imax.re:80/5124037472/1572081885/78510
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
-http://rv.imax.re:80/5124037472/1572081885/78509
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
-http://rv.imax.re:80/5124037472/1572081885/78508
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
-http://rv.imax.re:80/5124037472/1572081885/78507
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
-http://rv.imax.re:80/5124037472/1572081885/78506
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
-http://rv.imax.re:80/5124037472/1572081885/78505
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
-http://rv.imax.re:80/5124037472/1572081885/78504
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalj.png" group-title="imax",CANAL J
-http://rv.imax.re:80/5124037472/1572081885/78503
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boing.png" group-title="imax",BOING
-http://rv.imax.re:80/5124037472/1572081885/78502
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78501
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
-http://rv.imax.re:80/5124037472/1572081885/78500
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
-http://rv.imax.re:80/5124037472/1572081885/78499
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
-http://rv.imax.re:80/5124037472/1572081885/78498
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
-http://rv.imax.re:80/5124037472/1572081885/78497
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
-http://rv.imax.re:80/5124037472/1572081885/78496
-
-#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
-http://rv.imax.re:80/5124037472/1572081885/78495
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MAG 1",W9
 http://80.82.77.130:80/mag00:1A:79:B1:2B:0D/LwRNgFdE6Y/53848
 
@@ -3813,6 +2064,726 @@ http://aromaiptv.net:80/khalil65aa/stL8WP9cdL/53987
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AromaIPTV",AB3
 http://aromaiptv.net:80/khalil65aa/stL8WP9cdL/53988
+
+
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcmtop.png" group-title="imax",MCM TOP
+http://rv.imax.re:80/5124037472/1572081885/78311
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcmtop.png" group-title="imax",MCM TOP
+http://rv.imax.re:80/5124037472/1572081885/78969
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY TV
+http://rv.imax.re:80/5124037472/1572081885/78310
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY
+http://rv.imax.re:80/5124037472/1572081885/78968
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
+http://rv.imax.re:80/5124037472/1572081885/78309
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
+http://rv.imax.re:80/5124037472/1572081885/78967
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
+http://rv.imax.re:80/5124037472/1572081885/78308
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
+http://rv.imax.re:80/5124037472/1572081885/78966
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfm.png" group-title="imax",RFM TV
+http://rv.imax.re:80/5124037472/1572081885/78307
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfmtv.png" group-title="imax",RFM TV
+http://rv.imax.re:80/5124037472/1572081885/78965
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
+http://rv.imax.re:80/5124037472/1572081885/78306
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
+http://rv.imax.re:80/5124037472/1572081885/78964
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
+http://rv.imax.re:80/5124037472/1572081885/78305
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
+http://rv.imax.re:80/5124037472/1572081885/78963
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
+http://rv.imax.re:80/5124037472/1572081885/78304
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
+http://rv.imax.re:80/5124037472/1572081885/78962
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM 3
+http://rv.imax.re:80/5124037472/1572081885/78303
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM3
+http://rv.imax.re:80/5124037472/1572081885/78961
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
+http://rv.imax.re:80/5124037472/1572081885/78302
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
+http://rv.imax.re:80/5124037472/1572081885/78960
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
+http://rv.imax.re:80/5124037472/1572081885/78301
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
+http://rv.imax.re:80/5124037472/1572081885/78959
+
+#EXTINF:-1 tvg-logo="https://www.pngfactory.net/_png/_thumb/15475-Shadorak-France.png" group-title="imax",CORONA VIRUS INFO
+http://rv.imax.re:80/5124037472/1572081885/78814
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tf1.jpg" group-title="imax",TF1
+http://rv.imax.re:80/5124037472/1572081885/78813
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france2.jpg" group-title="imax",FRANCE 2
+http://rv.imax.re:80/5124037472/1572081885/78812
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france3.jpg" group-title="imax",FRANCE 3
+http://rv.imax.re:80/5124037472/1572081885/78811
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france4.jpg" group-title="imax",FRANCE 4
+http://rv.imax.re:80/5124037472/1572081885/78810
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france5.jpg" group-title="imax",FRANCE 5
+http://rv.imax.re:80/5124037472/1572081885/78809
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/france_o.jpg" group-title="imax",FRANCE O
+http://rv.imax.re:80/5124037472/1572081885/78808
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/6ter_fr.jpg" group-title="imax",6TER
+http://rv.imax.re:80/5124037472/1572081885/78807
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/m6_fr.jpg" group-title="imax",M6
+http://rv.imax.re:80/5124037472/1572081885/78806
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/NOa.png/250px-NOa.png" group-title="imax",FRANCE 3 NOA
+http://rv.imax.re:80/5124037472/1572081885/78805
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tf1seriesfilms.png" group-title="imax",TF1 SERIES-FILMS
+http://rv.imax.re:80/5124037472/1572081885/78804
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tfx.png" group-title="imax",TFX
+http://rv.imax.re:80/5124037472/1572081885/78803
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtl9.png" group-title="imax",RTL 9
+http://rv.imax.re:80/5124037472/1572081885/78802
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teva.png" group-title="imax",TEVA
+http://rv.imax.re:80/5124037472/1572081885/78801
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tmc.png" group-title="imax",TMC
+http://rv.imax.re:80/5124037472/1572081885/78800
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/w9.png" group-title="imax",W9
+http://rv.imax.re:80/5124037472/1572081885/78799
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/c8.png" group-title="imax",C8 FHD
+http://rv.imax.re:80/5124037472/1572081885/86843
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/arte.png" group-title="imax",ARTE
+http://rv.imax.re:80/5124037472/1572081885/78798
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nauticalchannel.png" group-title="imax",NAUTICAL
+http://rv.imax.re:80/5124037472/1572081885/78797
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nonstoppeople.png" group-title="imax",NON STOP PEOPLE
+http://rv.imax.re:80/5124037472/1572081885/78796
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/novelastv.png" group-title="imax",NOVELAS TV
+http://rv.imax.re:80/5124037472/1572081885/78795
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/onetv.png" group-title="imax",ONE TV
+http://rv.imax.re:80/5124037472/1572081885/78794
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rougetv.png" group-title="imax",ROUGE TV
+http://rv.imax.re:80/5124037472/1572081885/78793
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsun.png" group-title="imax",RTS UN
+http://rv.imax.re:80/5124037472/1572081885/78792
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rtsdeux.png" group-title="imax",RTS DEUX
+http://rv.imax.re:80/5124037472/1572081885/78791
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstar.png" group-title="imax",CSTAR
+http://rv.imax.re:80/5124037472/1572081885/78790
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lachainemeteo.png" group-title="imax",LA CHAINE METEO
+http://rv.imax.re:80/5124037472/1572081885/78789
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="imax",MEZZO FR
+http://rv.imax.re:80/5124037472/1572081885/78788
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/museum.png" group-title="imax",MUSEUM
+http://rv.imax.re:80/5124037472/1572081885/78787
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedieplus.png" group-title="imax",COMEDIE
+http://rv.imax.re:80/5124037472/1572081885/78786
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/comedycentral.png" group-title="imax",COMEDY CENTRAL
+http://rv.imax.re:80/5124037472/1572081885/78785
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Viagrandparis.png" group-title="imax",VIAGRANDPARIS
+http://rv.imax.re:80/5124037472/1572081885/78784
+
+#EXTINF:-1 tvg-logo="https://img1.freepng.fr/20180807/jzw/kisspng-kazakhstan-channel-31-logo-television-channel-5b6994b88319d4.629035211533646008537.jpg" group-title="imax",CANAL 31
+http://rv.imax.re:80/5124037472/1572081885/78783
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Canal_8_del_Paraguay.png" group-title="imax",CANAL 8
+http://rv.imax.re:80/5124037472/1572081885/78782
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cliquetv.png" group-title="imax",CLIQUE TV
+http://rv.imax.re:80/5124037472/1572081885/78781
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lequipe21.png" group-title="imax",EQUIPE 21
+http://rv.imax.re:80/5124037472/1572081885/78780
+
+#EXTINF:-1 tvg-logo="https://rsc.idf1.fr/img/logo-l2.png" group-title="imax",IDF 1
+http://rv.imax.re:80/5124037472/1572081885/78779
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/olympiatv.png" group-title="imax",OLYMPIA
+http://rv.imax.re:80/5124037472/1572081885/78778
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/25/SwizzMusicTelevision.png" group-title="imax",THE SWIZZ
+http://rv.imax.re:80/5124037472/1572081885/78777
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canal9.png" group-title="imax",CANAL 9
+http://rv.imax.re:80/5124037472/1572081885/78776
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQGMAkkjMotEuQ/company-logo_200_200/0?e=2159024400&v=beta&t=Ft_GNLolXX0eBl20ktnKugrcRer3AuT6KTI9xxRW1YY" group-title="imax",LEMAN BLEU
+http://rv.imax.re:80/5124037472/1572081885/78775
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boostertv.png" group-title="imax",BOOSTER TV
+http://rv.imax.re:80/5124037472/1572081885/78774
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/kto.png" group-title="imax",KTO
+http://rv.imax.re:80/5124037472/1572081885/78773
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/oltv.png" group-title="imax",OLTV
+http://rv.imax.re:80/5124037472/1572081885/78772
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplus.png" group-title="imax",CANAL+
+http://rv.imax.re:80/5124037472/1572081885/78770
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplussport.png" group-title="imax",CANAL+ SPORT
+http://rv.imax.re:80/5124037472/1572081885/78769
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusseries.png" group-title="imax",CANAL+ SERIES
+http://rv.imax.re:80/5124037472/1572081885/78768
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusfamily.png" group-title="imax",CANAL+ FAMILY
+http://rv.imax.re:80/5124037472/1572081885/78767
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalplusdecale.png" group-title="imax",CANAL+ DECALE
+http://rv.imax.re:80/5124037472/1572081885/78766
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalpluscinema.png" group-title="imax",CANAL+ CINEMA
+http://rv.imax.re:80/5124037472/1572081885/78765
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/action.png" group-title="imax",ACTION
+http://rv.imax.re:80/5124037472/1572081885/78763
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsmax.png" group-title="imax",OCS MAX
+http://rv.imax.re:80/5124037472/1572081885/78762
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocscity.png" group-title="imax",OCS CITY
+http://rv.imax.re:80/5124037472/1572081885/78761
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocsgeants.png" group-title="imax",OCS GEANTS
+http://rv.imax.re:80/5124037472/1572081885/78760
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ocschoc.png" group-title="imax",OCS CHOC
+http://rv.imax.re:80/5124037472/1572081885/78759
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cinepluspremier.png" group-title="imax",CINE+ PREMIER
+http://rv.imax.re:80/5124037472/1572081885/78758
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfrisson.png" group-title="imax",CINE+ FRISSON
+http://rv.imax.re:80/5124037472/1572081885/78757
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusemotion.png" group-title="imax",CINE+ EMOTION
+http://rv.imax.re:80/5124037472/1572081885/78756
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusfamiz.png" group-title="imax",CINE+ FAMIZ
+http://rv.imax.re:80/5124037472/1572081885/78755
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclub.png" group-title="imax",CINE+ CLUB
+http://rv.imax.re:80/5124037472/1572081885/78754
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cineplusclassic.png" group-title="imax",CINE+ CLASSIC
+http://rv.imax.re:80/5124037472/1572081885/78753
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT DECALE
+http://rv.imax.re:80/5124037472/1572081885/78752
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/paramountchannel.png" group-title="imax",PARAMOUNT CHANNEL
+http://rv.imax.re:80/5124037472/1572081885/78751
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/polarplus.png" group-title="imax",POLAR+
+http://rv.imax.re:80/5124037472/1572081885/78749
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="imax",SYFY
+http://rv.imax.re:80/5124037472/1572081885/78748
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/serieclub.png" group-title="imax",SERIE CLUB
+http://rv.imax.re:80/5124037472/1572081885/78747
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/13emerue.png" group-title="imax",13EME RUE
+http://rv.imax.re:80/5124037472/1572081885/78746
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/alticestudio.png" group-title="imax",ALTICE STUDIO
+http://rv.imax.re:80/5124037472/1572081885/78745
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/warnertv.png" group-title="imax",WARNER TV
+http://rv.imax.re:80/5124037472/1572081885/78744
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvbreizh.png" group-title="imax",TV BREIZH
+http://rv.imax.re:80/5124037472/1572081885/78743
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrj12.png" group-title="imax",NRJ 12
+http://rv.imax.re:80/5124037472/1572081885/78742
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcstory.png" group-title="imax",RMC STORY
+http://rv.imax.re:80/5124037472/1572081885/78741
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cherie25.png" group-title="imax",CHERIE 25
+http://rv.imax.re:80/5124037472/1572081885/78740
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/parispremiere.png" group-title="imax",PARIS PREMIERE
+http://rv.imax.re:80/5124037472/1572081885/78739
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/viceland.png" group-title="imax",VICELAND
+http://rv.imax.re:80/5124037472/1572081885/78738
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eentertainment.png" group-title="imax",E! ENTERTAINMENT
+http://rv.imax.re:80/5124037472/1572081885/78737
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mycuisine.png" group-title="imax",MY CUISINE
+http://rv.imax.re:80/5124037472/1572081885/78736
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/jone.png" group-title="imax",J ONE
+http://rv.imax.re:80/5124037472/1572081885/78735
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE
+http://rv.imax.re:80/5124037472/1572081885/78734
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mangas.png" group-title="imax",MANGAS
+http://rv.imax.re:80/5124037472/1572081885/78733
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab1.png" group-title="imax",AB1
+http://rv.imax.re:80/5124037472/1572081885/78732
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ab3.png" group-title="imax",AB3
+http://rv.imax.re:80/5124037472/1572081885/78731
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bet.png" group-title="imax",BET
+http://rv.imax.re:80/5124037472/1572081885/78730
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tv5monde.png" group-title="imax",TV5 MONDE
+http://rv.imax.re:80/5124037472/1572081885/78729
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teleclubzoom.png" group-title="imax",TELECLUB ZOOM
+http://rv.imax.re:80/5124037472/1572081885/78728
+
+#EXTINF:-1 tvg-logo="http://www.madeinfoot.com/images/chaines/telefoot.png" group-title="imax",TELEFOOT
+http://rv.imax.re:80/5124037472/1572081885/78726
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports1.png" group-title="imax",BEIN SPORT 1
+http://rv.imax.re:80/5124037472/1572081885/78725
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports2.png" group-title="imax",BEIN SPORT 2
+http://rv.imax.re:80/5124037472/1572081885/78724
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/beinsports3.png" group-title="imax",BEIN SPORT 3
+http://rv.imax.re:80/5124037472/1572081885/78723
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport1.png" group-title="imax",EUROSPORT 1
+http://rv.imax.re:80/5124037472/1572081885/78722
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/eurosport2.png" group-title="imax",EUROSPORT 2
+http://rv.imax.re:80/5124037472/1572081885/78721
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsportnews.png" group-title="imax",RMC SPORT NEWS
+http://rv.imax.re:80/5124037472/1572081885/78720
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport1.png" group-title="imax",RMC SPORT 1
+http://rv.imax.re:80/5124037472/1572081885/78719
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport2.png" group-title="imax",RMC SPORT 2
+http://rv.imax.re:80/5124037472/1572081885/78718
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport3.png" group-title="imax",RMC SPORT 3
+http://rv.imax.re:80/5124037472/1572081885/78717
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcsport4.png" group-title="imax",RMC SPORT 4
+http://rv.imax.re:80/5124037472/1572081885/78716
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 5
+http://rv.imax.re:80/5124037472/1572081885/78715
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 6
+http://rv.imax.re:80/5124037472/1572081885/78714
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 7
+http://rv.imax.re:80/5124037472/1572081885/78713
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 8
+http://rv.imax.re:80/5124037472/1572081885/78712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 9
+http://rv.imax.re:80/5124037472/1572081885/78711
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 10
+http://rv.imax.re:80/5124037472/1572081885/78710
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 11
+http://rv.imax.re:80/5124037472/1572081885/78709
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 12
+http://rv.imax.re:80/5124037472/1572081885/78708
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 13
+http://rv.imax.re:80/5124037472/1572081885/78707
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 14
+http://rv.imax.re:80/5124037472/1572081885/78706
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/120px-Logo_RMC_Sport_2018.svg.png" group-title="imax",RMC SPORT LIVE 15
+http://rv.imax.re:80/5124037472/1572081885/78705
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 1
+http://rv.imax.re:80/5124037472/1572081885/78704
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 2
+http://rv.imax.re:80/5124037472/1572081885/78703
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTI SPORTS 4
+http://rv.imax.re:80/5124037472/1572081885/78702
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTIS PORTS 3
+http://rv.imax.re:80/5124037472/1572081885/78701
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 5
+http://rv.imax.re:80/5124037472/1572081885/78700
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/multisports.png" group-title="imax",MULTISPORTS 6
+http://rv.imax.re:80/5124037472/1572081885/78699
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/footplus2424.png" group-title="imax",FOOT+ 24
+http://rv.imax.re:80/5124037472/1572081885/78698
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/infosportplus.png" group-title="imax",INFO SPORT
+http://rv.imax.re:80/5124037472/1572081885/78697
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/equidia.png" group-title="imax",EQUIDIA LIVE
+http://rv.imax.re:80/5124037472/1572081885/78696
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/golfplus.png" group-title="imax",GOLF+
+http://rv.imax.re:80/5124037472/1572081885/78695
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/motorsporttv.png" group-title="imax",MOTORSPORT TV
+http://rv.imax.re:80/5124037472/1572081885/78694
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/automototv.png" group-title="imax",AUTO MOTO
+http://rv.imax.re:80/5124037472/1572081885/78693
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gameone.png" group-title="imax",GAME ONE  +1
+http://rv.imax.re:80/5124037472/1572081885/78692
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toutelhistoire.png" group-title="imax",TOUTE L'HISTOIRE
+http://rv.imax.re:80/5124037472/1572081885/78690
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplus.png" group-title="imax",PLANETE+
+http://rv.imax.re:80/5124037472/1572081885/78689
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planeteplusaventureexperience.png" group-title="imax",PLANETE  A&E
+http://rv.imax.re:80/5124037472/1572081885/78688
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/planetepluscrimeinvestigation.png" group-title="imax",PLANETE+ CI
+http://rv.imax.re:80/5124037472/1572081885/78687
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoverychannel.png" group-title="imax",DISCOVERY
+http://rv.imax.re:80/5124037472/1572081885/78686
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryscience-clivebesle.png" group-title="imax",DISCOVERY SCIENCE
+http://rv.imax.re:80/5124037472/1572081885/78685
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/discoveryfamily.png" group-title="imax",DISCOVERY FAMILY
+http://rv.imax.re:80/5124037472/1572081885/78684
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY ID
+http://rv.imax.re:80/5124037472/1572081885/78683
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/investigationdiscovery.png" group-title="imax",DISCOVERY INVESTIGATION
+http://rv.imax.re:80/5124037472/1572081885/78682
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographic.png" group-title="imax",NGC
+http://rv.imax.re:80/5124037472/1572081885/78681
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nationalgeographicwild.png" group-title="imax",NGC WILD
+http://rv.imax.re:80/5124037472/1572081885/78680
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/voyage.png" group-title="imax",VOYAGE
+http://rv.imax.re:80/5124037472/1572081885/78679
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/ushuaiatv.png" group-title="imax",USHUAIA
+http://rv.imax.re:80/5124037472/1572081885/78678
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/histoire.png" group-title="imax",HISTOIRE
+http://rv.imax.re:80/5124037472/1572081885/78677
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/animaux.png" group-title="imax",ANIMAUX
+http://rv.imax.re:80/5124037472/1572081885/78676
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/trek.png" group-title="imax",TREK
+http://rv.imax.re:80/5124037472/1572081885/78675
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/chasseetpeche.png" group-title="imax",CHASSE&PECHE
+http://rv.imax.re:80/5124037472/1572081885/78674
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/scienceetvietv.png" group-title="imax",SCIENCE ET VIE
+http://rv.imax.re:80/5124037472/1572081885/78673
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rmcdecouverte.png" group-title="imax",RMC DECOUVERTE
+http://rv.imax.re:80/5124037472/1572081885/78672
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/seasons.png" group-title="imax",SEASONS
+http://rv.imax.re:80/5124037472/1572081885/78671
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/gulli.png" group-title="imax",GULLI
+http://rv.imax.re:80/5124037472/1572081885/78670
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tcmcinema.png" group-title="imax",TCM CINEMA
+http://rv.imax.re:80/5124037472/1572081885/78669
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/crimedistrict.png" group-title="imax",CRIME DISTRICT
+http://rv.imax.re:80/5124037472/1572081885/78668
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",C NEWS
+http://rv.imax.re:80/5124037472/1572081885/78666
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmtv.png" group-title="imax",BFM TV
+http://rv.imax.re:80/5124037472/1572081885/78665
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cnews.png" group-title="imax",CANAL NEWS
+http://rv.imax.re:80/5124037472/1572081885/78664
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lci.png" group-title="imax",LCI
+http://rv.imax.re:80/5124037472/1572081885/78663
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/franceinfo.png" group-title="imax",FRANCE INFO
+http://rv.imax.re:80/5124037472/1572081885/78662
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/euronews.png" group-title="imax",EURONEWS (FRENCH)
+http://rv.imax.re:80/5124037472/1572081885/78661
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/france24.png" group-title="imax",FRANCE 24
+http://rv.imax.re:80/5124037472/1572081885/78660
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/lcp_an_fr.jpg" group-title="imax",LCP
+http://rv.imax.re:80/5124037472/1572081885/78659
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmbusiness.png" group-title="imax",BFM BUSINESS
+http://rv.imax.re:80/5124037472/1572081885/78658
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/bfmparis.png" group-title="imax",BFM PARIS
+http://rv.imax.re:80/5124037472/1572081885/78657
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/i24news.png" group-title="imax",I 24 NEWS
+http://rv.imax.re:80/5124037472/1572081885/78656
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/m6music.png" group-title="imax",M6 MUSIC
+http://rv.imax.re:80/5124037472/1572081885/78654
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/traceurban.png" group-title="imax",TRACE URBAN
+http://rv.imax.re:80/5124037472/1572081885/78653
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="imax",MEZZO LIVE
+http://rv.imax.re:80/5124037472/1572081885/78652
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mcm.png" group-title="imax",MCM
+http://rv.imax.re:80/5124037472/1572081885/78651
+
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/France/mcm-top-fr.png" group-title="imax",MCM TOP
+http://rv.imax.re:80/5124037472/1572081885/78650
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/lfmtv.png" group-title="imax",LFM TV
+http://rv.imax.re:80/5124037472/1572081885/78649
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/melody.png" group-title="imax",MELODY TV
+http://rv.imax.re:80/5124037472/1572081885/78648
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nrjhits.png" group-title="imax",NRJ HITS
+http://rv.imax.re:80/5124037472/1572081885/78647
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/rfmtv.png" group-title="imax",RFM TV
+http://rv.imax.re:80/5124037472/1572081885/78646
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="imax",MTV
+http://rv.imax.re:80/5124037472/1572081885/78645
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvlive.png" group-title="imax",MTV LIVE
+http://rv.imax.re:80/5124037472/1572081885/78644
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/mtvhits.png" group-title="imax",MTV HITS
+http://rv.imax.re:80/5124037472/1572081885/78643
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tvm3.png" group-title="imax",TVM3
+http://rv.imax.re:80/5124037472/1572081885/78642
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HIT
+http://rv.imax.re:80/5124037472/1572081885/78641
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cstarhitsfrance.png" group-title="imax",C STAR HITS
+http://rv.imax.re:80/5124037472/1572081885/78640
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
+http://rv.imax.re:80/5124037472/1572081885/78546
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
+http://rv.imax.re:80/5124037472/1572081885/78545
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
+http://rv.imax.re:80/5124037472/1572081885/78544
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
+http://rv.imax.re:80/5124037472/1572081885/78543
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
+http://rv.imax.re:80/5124037472/1572081885/78542
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
+http://rv.imax.re:80/5124037472/1572081885/78541
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
+http://rv.imax.re:80/5124037472/1572081885/78540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="imax",CANAL J
+http://rv.imax.re:80/5124037472/1572081885/78539
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_Boing.png/120px-Logo_Boing.png" group-title="imax",BOING
+http://rv.imax.re:80/5124037472/1572081885/78538
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78537
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
+http://rv.imax.re:80/5124037472/1572081885/78536
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
+http://rv.imax.re:80/5124037472/1572081885/78535
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
+http://rv.imax.re:80/5124037472/1572081885/78534
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
+http://rv.imax.re:80/5124037472/1572081885/78533
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78532
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
+http://rv.imax.re:80/5124037472/1572081885/78531
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
+http://rv.imax.re:80/5124037472/1572081885/78527
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
+http://rv.imax.re:80/5124037472/1572081885/78526
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
+http://rv.imax.re:80/5124037472/1572081885/78525
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
+http://rv.imax.re:80/5124037472/1572081885/78524
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
+http://rv.imax.re:80/5124037472/1572081885/78523
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
+http://rv.imax.re:80/5124037472/1572081885/78522
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
+http://rv.imax.re:80/5124037472/1572081885/78521
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalj.png" group-title="imax",CANAL J
+http://rv.imax.re:80/5124037472/1572081885/78520
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boing.png" group-title="imax",BOING
+http://rv.imax.re:80/5124037472/1572081885/78519
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78518
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
+http://rv.imax.re:80/5124037472/1572081885/78517
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
+http://rv.imax.re:80/5124037472/1572081885/78516
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
+http://rv.imax.re:80/5124037472/1572081885/78515
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
+http://rv.imax.re:80/5124037472/1572081885/78514
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
+http://rv.imax.re:80/5124037472/1572081885/78513
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78512
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="imax",BABY TV
+http://rv.imax.re:80/5124037472/1572081885/78510
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/tiji.png" group-title="imax",TIJI
+http://rv.imax.re:80/5124037472/1572081885/78509
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boomerang.png" group-title="imax",BOOMERANG
+http://rv.imax.re:80/5124037472/1572081885/78508
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/cartoonnetwork.png" group-title="imax",CARTOON NETWORK
+http://rv.imax.re:80/5124037472/1572081885/78507
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/toonami.png" group-title="imax",TOONAMI
+http://rv.imax.re:80/5124037472/1572081885/78506
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus.png" group-title="imax",TELETOON+
+http://rv.imax.re:80/5124037472/1572081885/78505
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/teletoonplus1.png" group-title="imax",TELE TOON 1
+http://rv.imax.re:80/5124037472/1572081885/78504
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/canalj.png" group-title="imax",CANAL J
+http://rv.imax.re:80/5124037472/1572081885/78503
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/boing.png" group-title="imax",BOING
+http://rv.imax.re:80/5124037472/1572081885/78502
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="imax",DISNEY JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78501
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannelplus1.png" group-title="imax",DISNEY CHANNEL +1
+http://rv.imax.re:80/5124037472/1572081885/78500
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="imax",DISNEY CHANNEL
+http://rv.imax.re:80/5124037472/1572081885/78499
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/piwiplus.png" group-title="imax",PIWI
+http://rv.imax.re:80/5124037472/1572081885/78498
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="imax",NICKELODEON
+http://rv.imax.re:80/5124037472/1572081885/78497
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeonjunior.png" group-title="imax",NICKELODEON JUNIOR
+http://rv.imax.re:80/5124037472/1572081885/78496
+
+#EXTINF:-1 tvg-logo="http://134.255.234.197/logos/nickelodeon4teen.png" group-title="imax",NICKELODEON 4 TEEN
+http://rv.imax.re:80/5124037472/1572081885/78495
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/240px-BFM_TV_logo.png" group-title="BFM TV",BFM TV 720p
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
