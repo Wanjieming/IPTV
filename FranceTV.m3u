@@ -1,4 +1,1245 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/05/tf1hd.png" group-title="SuperTV",TF1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4641
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 FHD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/05/tf1hd.png" group-title="SuperTV",TF1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17563
+#EXTINF:-1 tvg-id="fr.2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/france2.png" group-title="SuperTV",FRANCE 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4643
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/france3.png" group-title="SuperTV",FRANCE 3 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4644
+#EXTINF:-1 tvg-id="france.4.ch" tvg-name="FRANCE 4 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/france4.png" group-title="SuperTV",FRANCE 4 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4645
+#EXTINF:-1 tvg-id="france.5.ch" tvg-name="FRANCE 5 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/france5.png" group-title="SuperTV",FRANCE 5 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4646
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="FRANCE Ô HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Ffranceo.png" group-title="SuperTV",FRANCE Ô HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4647
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/m6hd.png" group-title="SuperTV",M6 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4648
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/07/m6hd.png" group-title="SuperTV",M6 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17569
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Farte.png" group-title="SuperTV",ARTE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4650
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/C8HD.png" group-title="SuperTV",C8 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4651
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 FHD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/C8_HD_FR.png" group-title="SuperTV",C8 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17564
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1 HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Ftf1plus1.png" group-title="SuperTV",TF1 +1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/30160
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_HD_FR.png" group-title="SuperTV",CANAL+ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4654
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+  FHD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_HD_FR.png" group-title="SuperTV",CANAL+  FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17565
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="CANAL + H265" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_HD_FR.png" group-title="SuperTV",FR: CANAL + H265
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4655
+#EXTINF:-1 tvg-id="canal+.cinema.fr" tvg-name="CANAL+ CINÉMA HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Fcanalpluscinema.png" group-title="SuperTV",CANAL+ CINÉMA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4656
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Fcanalplussport.png" group-title="SuperTV",CANAL+ SPORT HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4657
+#EXTINF:-1 tvg-id="canal+.series.fr" tvg-name="CANAL+ SÉRIES HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Fcanalplusseries.png" group-title="SuperTV",CANAL+ SÉRIES HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4659
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Fcanalplusfamily.png" group-title="SuperTV",CANAL+ FAMILY HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4660
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="CANAL+ DÉCALÉ HD" tvg-logo="http://supertv.ovh:25461/logo/FR%2Fcanalplusdecale.png" group-title="SuperTV",CANAL+ DÉCALÉ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4661
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DISCOVERY" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="SuperTV",NETFLIX DISCOVERY
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15222
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="SuperTV",NETFLIX ACTION
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15223
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="SuperTV",NETFLIX DRAMA
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15224
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="SuperTV",NETFLIX HORROR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15225
+#EXTINF:-1 tvg-id="cine+.premier.fr" tvg-name="CINÉ+ PREMIER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BPREMIEREHD.png" group-title="SuperTV",CINÉ+ PREMIER HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4673
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="CINÉ+ FRISSON HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFRISSONHD.png" group-title="SuperTV",CINÉ+ FRISSON HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4675
+#EXTINF:-1 tvg-id="cine+.famiz.fr" tvg-name="CINÉ+ FAMIZ HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BFAMIZHD.png" group-title="SuperTV",CINÉ+ FAMIZ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4677
+#EXTINF:-1 tvg-id="cine+.club.fr" tvg-name="CINÉ+ CLUB HD" tvg-logo="https://www.canalplus.ch/wp-content/uploads/2018/07/cineclub-2019-rvb-300x161.png" group-title="SuperTV",CINÉ+ CLUB HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4678
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="CINÉ  CLASSIC HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BCLASSICHD.png" group-title="SuperTV",CINÉ  CLASSIC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4679
+#EXTINF:-1 tvg-id="cine+.emotion.fr" tvg-name="CINÉ+ ÉMOTION HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CINE%2BEMOTIONHD.png" group-title="SuperTV",CINÉ+ ÉMOTION HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4680
+#EXTINF:-1 tvg-id="polar+.fr" tvg-name="Polar+" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F2d170eaf9e8c3645.2Epng/1200x630/crop-from/top/quality/80/polar.png" group-title="SuperTV",Polar+
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4681
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="OCS MAX HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSMAXHD.png" group-title="SuperTV",OCS MAX HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4682
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="OCS GÉANTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d7/OCS_G%C3%A9ants_HD.png" group-title="SuperTV",OCS GÉANTS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4683
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="OCS CITY HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCITYHD.png" group-title="SuperTV",OCS CITY HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4684
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="OCS CHOC HD" tvg-logo="http://www.topstb.info/logo/FRANCE/OCSCHOCHD.png" group-title="SuperTV",OCS CHOC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4685
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION HD" tvg-logo="http://www.topstb.info/logo/FRANCE/ACTIONHD.png" group-title="SuperTV",ACTION HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4686
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="Altice Studio" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="SuperTV",Altice Studio
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4687
+#EXTINF:-1 tvg-id="paris.premiere.fr" tvg-name="PARIS PREMIÈRE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARISPREMIEREHD.png" group-title="SuperTV",PARIS PREMIÈRE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4688
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PARAMOUNTCHANNELHD.png" group-title="SuperTV",PARAMOUNT CHANNEL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4689
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Decale" tvg-logo="https://rp-live.orange.fr/otv_logos/logo_webtv_livetv_paramount.png" group-title="SuperTV",Paramount Channel Decale
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4690
+#EXTINF:-1 tvg-id="warner.fr" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="SuperTV",Warner TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4691
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://www.topstb.info/logo/FRANCE/6TERHD.png" group-title="SuperTV",6TER HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4692
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/W9_FR.png" group-title="SuperTV",W9 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4694
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/W9_FR.png" group-title="SuperTV",W9 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17566
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINÉMA HD" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="SuperTV",TCM CINÉMA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4702
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC HD" tvg-logo="http://logos-vector.com/images/logo/xxl/9/3/0/93006/TCM_09155_450x450.png" group-title="SuperTV",TMC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4697
+#EXTINF:-1 tvg-id="" tvg-name="TMC +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tmc1.png" group-title="SuperTV",TMC +1
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4698
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TFXHD.png" group-title="SuperTV",TFX HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4699
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TÉVA HD" tvg-logo="http://www.topstb.info/logo/FRANCE/TEVAHD.png" group-title="SuperTV",TÉVA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4703
+#EXTINF:-1 tvg-id="tf1.serie.films.fr" tvg-name="TF1 Series Films" tvg-logo="http://www.topstb.info/logo/FRANCE/TF1SERIESFILMSHD.png" group-title="SuperTV",TF1 Series Films
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4700
+#EXTINF:-1 tvg-id="serie.club.fr" tvg-name="SERIECLUB HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/SERIE_CLUB_HD_FR.png" group-title="SuperTV",SERIECLUB HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4705
+#EXTINF:-1 tvg-id="novelas.fr" tvg-name="Novelas TV" tvg-logo="https://proxymedia.woopic.com/553/p%2Flogos%2Fv2%2Flogos%2Fcatchuptv_novelastv%2F20190328_103024%2Fstb%2Flogo_362x263.png" group-title="SuperTV",Novelas TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15747
+#EXTINF:-1 tvg-id="sy.fy.fr" tvg-name="SyFy" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/SYFY_HD_FR_FR.png" group-title="SuperTV",SyFy
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4706
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL9 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/RTL9HD.png" group-title="SuperTV",RTL9 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4707
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar" tvg-logo="http://www.topstb.info/logo/FRANCE/CSTARHD.png" group-title="SuperTV",CStar
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4708
+#EXTINF:-1 tvg-id="crime.district.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CRIMEDISTRICTHD.png" group-title="SuperTV",CRIME DISTRICT HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4709
+#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="COMEDY CENTRAL" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="SuperTV",COMEDY CENTRAL
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4710
+#EXTINF:-1 tvg-id="ComediePlus FR" tvg-name="COMÉDIE + HD" tvg-logo="http://www.topstb.info/logo/FRANCE/COMEDIEHD.png" group-title="SuperTV",COMÉDIE + HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4711
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_AB3.svg/1200px-Logo_AB3.svg.png" group-title="SuperTV",AB3 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4712
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/AB1HD.png" group-title="SuperTV",AB1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4713
+#EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="13ème RUE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Logo_of_13e_Rue.png" group-title="SuperTV",13ème RUE
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4714
+#EXTINF:-1 tvg-id="cherie.25.fr" tvg-name="CHÉRIE 25 HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CHERIE_25_HD_FR.png" group-title="SuperTV",CHÉRIE 25 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4715
+#EXTINF:-1 tvg-id="ellegirl.fr" tvg-name="My Zen TV" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/MY_ZEN_TV_HD_FR.png" group-title="SuperTV",My Zen TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4716
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="NRJ12 HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NRJ_12_HD_FR.png" group-title="SuperTV",NRJ12 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4717
+#EXTINF:-1 tvg-id="rfm.fr" tvg-name="RFM TV HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RFM_TV_HD_FR.png" group-title="SuperTV",RFM TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4718
+#EXTINF:-1 tvg-id="tv.breizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://195.154.221.171/picons/tvbreizh.png" group-title="SuperTV",TV BREIZH HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4761
+#EXTINF:-1 tvg-id="nollywood.fr" tvg-name="NOLLYWOOD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NOLLYWOOD_FR.png" group-title="SuperTV",NOLLYWOOD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27318
+#EXTINF:-1 tvg-id="rouge.tv.ch" tvg-name="Rouge TV" tvg-logo="https://julien-matthey.com/wp-content/uploads/2016/11/Rouge-TV-Logo-2-960x720.jpeg" group-title="SuperTV",Rouge TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4719
+#EXTINF:-1 tvg-id="telefoot.la.chaine.fr" tvg-name="TELEFOOT" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",TELEFOOT
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26971
+#EXTINF:-1 tvg-id="telefoot.la.chaine.fr" tvg-name="TELEFOOT 4k Ultra" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",TELEFOOT 4k Ultra
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29424
+#EXTINF:-1 tvg-id="telefoot.stadium.fr" tvg-name="TELEFOOT STADIUM 1 FHD" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",TELEFOOT STADIUM 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27260
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 2 FHD" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",TELEFOOT STADIUM 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27261
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 3 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium03.300x300.webp" group-title="SuperTV",TELEFOOT STADIUM 3 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27262
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 4 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium04.300x300.webp" group-title="SuperTV",TELEFOOT STADIUM 4 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27263
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 5 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium05.300x300.webp" group-title="SuperTV",TELEFOOT STADIUM 5 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27264
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 6 FHD" tvg-logo="https://storage.telefootlachaine.fr/img/stadiums/stadium06.300x300.webp" group-title="SuperTV",FR: TELEFOOT STADIUM 6 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/28084
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 7 FHD" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",FR: TELEFOOT STADIUM 7 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/28083
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 8 FHD" tvg-logo="https://www.coeurmarseillais.fr/wp-content/uploads/2020/07/Mediapro_Telefoot.png" group-title="SuperTV",FR: TELEFOOT STADIUM 8 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/28082
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="RMC Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png" group-title="SuperTV",RMC Sport 1
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4722
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="RMC SPORT 1 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_SPORT_1_HD_FR.png" group-title="SuperTV",RMC SPORT 1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17567
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="RMC Sport 2" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT2HD.png" group-title="SuperTV",RMC Sport 2
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4724
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="RMC Sport 3" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT3HD.png" group-title="SuperTV",RMC Sport 3
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4726
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="RMC Sport 4" tvg-logo="http://www.topstb.info/logo/FRANCE/RMCSPORT4HD.png" group-title="SuperTV",RMC Sport 4
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4728
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 5-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc510.png" group-title="SuperTV",RMC SPORT LIVE 5-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34766
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 6-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc610.png" group-title="SuperTV",RMC SPORT LIVE 6-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34767
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 7-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc710.png" group-title="SuperTV",RMC SPORT LIVE 7-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34768
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 8-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc810.png" group-title="SuperTV",RMC SPORT LIVE 8-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34769
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 9-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc910.png" group-title="SuperTV",RMC SPORT LIVE 9-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34770
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 10-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1010.png" group-title="SuperTV",RMC SPORT LIVE 10-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34771
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 11-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1110.png" group-title="SuperTV",RMC SPORT LIVE 11-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34772
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 12-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1210.png" group-title="SuperTV",RMC SPORT LIVE 12-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34773
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 13-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1310.png" group-title="SuperTV",RMC SPORT LIVE 13-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34774
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 14-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1410.png" group-title="SuperTV",RMC SPORT LIVE 14-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34775
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 15-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1510.png" group-title="SuperTV",RMC SPORT LIVE 15-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34776
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT LIVE 16-HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/rmc1610.png" group-title="SuperTV",RMC SPORT LIVE 16-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34777
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1600px-Logo_bein_sports_1.png" group-title="SuperTV",BEIN SPORTS 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4729
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_1_HD_FR.png" group-title="SuperTV",BEIN SPORTS 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/17568
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="BEIN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1600px-Logo_bein_sports_2.png" group-title="SuperTV",BEIN SPORTS 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4731
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="BEIN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png" group-title="SuperTV",BEIN SPORTS 3 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4733
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeINSportsMAX4" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein4m10.png" group-title="SuperTV",FR:BeINSportsMAX4
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34778
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeINSportsMAX5" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein5m10.png" group-title="SuperTV",FR:BeINSportsMAX5
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34779
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeINSportsMAX6" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein6m10.png" group-title="SuperTV",FR:BeINSportsMAX6
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34780
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeINSportsMAX7" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein7m10.png" group-title="SuperTV",FR:BeINSportsMAX7
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34781
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeINSportsMAX8" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein8m10.png" group-title="SuperTV",FR:BeINSportsMAX8
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34782
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEINSPORT.MAX9.HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein9m10.png" group-title="SuperTV",FR:BEINSPORT.MAX9.HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34783
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEINSPORT.MAX10.HD" tvg-logo="https://i75.servimg.com/u/f75/18/72/18/38/bein1010.png" group-title="SuperTV",FR:BEINSPORT.MAX10.HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/34784
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT1HD.png" group-title="SuperTV",EUROSPORT 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4735
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EUROSPORT2HD.png" group-title="SuperTV",EUROSPORT 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4736
+#EXTINF:-1 tvg-id="infosport+.fr" tvg-name="INFOSPORT  HD" tvg-logo="http://www.topstb.info/logo/FRANCE/INFOSPORT%2BHD.png" group-title="SuperTV",INFOSPORT  HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4737
+#EXTINF:-1 tvg-id="foot+.24.24.fr" tvg-name="FOOT+ 24/24 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FOOT24HD.png" group-title="SuperTV",FOOT+ 24/24 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4738
+#EXTINF:-1 tvg-id="" tvg-name="SPORT EN FRANCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Sport_en_France_Logo.png/1200px-Sport_en_France_Logo.png" group-title="SuperTV",SPORT EN FRANCE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/19134
+#EXTINF:-1 tvg-id="lequipe.fr" tvg-name="L'ÉQUIPE 21 HD" tvg-logo="http://www.topstb.info/logo/FRANCE/LEQUIPE21HD.png" group-title="SuperTV",L'ÉQUIPE 21 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4739
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA LIVE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/EQUIDIAHD.png" group-title="SuperTV",EQUIDIA LIVE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4799
+#EXTINF:-1 tvg-id="automoto.la.chaine.fr" tvg-name="AUTOMOTO HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/AUTOMOTO_TV_HD_FR.png" group-title="SuperTV",AUTOMOTO HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4809
+#EXTINF:-1 tvg-id="golf+.fr" tvg-name="GOLF+  HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/GOLF_Plus_HD_FR.png" group-title="SuperTV",GOLF+  HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4740
+#EXTINF:-1 tvg-id="golf.fr" tvg-name="GOLF CHANNEL HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/GOLF_CHANNEL_HD_FR.png" group-title="SuperTV",GOLF CHANNEL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4793
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="RMC DÉCOUVERTE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_DECOUVERTE_HD_FR.png" group-title="SuperTV",RMC DÉCOUVERTE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4742
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="RMC STORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/572px-RMC_Story_logo_2018.svg.png" group-title="SuperTV",RMC STORY HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4743
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/HISTOIRE_FR.png" group-title="SuperTV",HISTOIRE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4744
+#EXTINF:-1 tvg-id="planete+.fr" tvg-name="PLANÈTE  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="SuperTV",PLANÈTE  HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4745
+#EXTINF:-1 tvg-id="planete+.ci.fr" tvg-name="PLANÈTE  CI HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/PLANETE_C.I._HD_FR.png" group-title="SuperTV",PLANÈTE  CI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4746
+#EXTINF:-1 tvg-id="planete+.a.e.fr" tvg-name="PLANÈTE  A&E HD" tvg-logo="http://www.topstb.info/logo/FRANCE/PLANETA%26EHD.png" group-title="SuperTV",PLANÈTE  A&E HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4747
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCHD.png" group-title="SuperTV",NATIONAL GEOGRAPHIC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4748
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" group-title="SuperTV",NAT GEO WILD HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4749
+#EXTINF:-1 tvg-id="disc.science.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISCOVERY_SCIENCE_HD_FR.png" group-title="SuperTV",DISCOVERY SCIENCE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4750
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISCOVERY_INVESTIGATION_HD_FR.png" group-title="SuperTV",DISCOVERY INVESTIGATION HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4751
+#EXTINF:-1 tvg-id="discovery.f.fr" tvg-name="DISCOVERY FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/220px-Discovery_Family_logo.svg.png" group-title="SuperTV",DISCOVERY FAMILY HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4752
+#EXTINF:-1 tvg-id="discovery.fr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.topstb.info/logo/FRANCE/DISCOVERYHD.png" group-title="SuperTV",DISCOVERY CHANNEL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4753
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://www.topstb.info/logo/FRANCE/USHUAIAHD.png" group-title="SuperTV",USHUAÏA TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4754
+#EXTINF:-1 tvg-id="seasons+.fr" tvg-name="SEASONS HD" tvg-logo="http://www.topstb.info/logo/FRANCE/SEASONHD.png" group-title="SuperTV",SEASONS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4755
+#EXTINF:-1 tvg-id="science.vie.fr" tvg-name="SCIENCE ET VIE HD" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2016/01/Science-Vie-TV.png" group-title="SuperTV",SCIENCE ET VIE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4756
+#EXTINF:-1 tvg-id="voyage.fr" tvg-name="VOYAGE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/VOYAGE_HD_FR.png" group-title="SuperTV",VOYAGE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4757
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="CHASSE ET PÊCHE HD" tvg-logo="http://www.topstb.info/logo/FRANCE/CHASSEETPECHEHD.png" group-title="SuperTV",CHASSE ET PÊCHE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4758
+#EXTINF:-1 tvg-id="tv5.monde.europe.fr" tvg-name="TV5 MONDE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TV5_MONDE_HD_FR.png" group-title="SuperTV",TV5 MONDE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4760
+#EXTINF:-1 tvg-id="france.24.f.fr" tvg-name="FRANCE 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="SuperTV",FRANCE 24 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4762
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="TREK HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TREK_HD_FR.png" group-title="SuperTV",TREK HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4763
+#EXTINF:-1 tvg-id="toute.lhistoire.fr" tvg-name="TOUTE L'HISTOIRE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TOUTE_L_HISTOIRE_HD_FR.png" group-title="SuperTV",TOUTE L'HISTOIRE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4764
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/ANIMAUX_FR.png" group-title="SuperTV",ANIMAUX
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4765
+#EXTINF:-1 tvg-id="disney.cinemagic.hd.ch" tvg-name="Disney +" tvg-logo="https://www.pngitem.com/pimgs/m/29-291927_disney-plus-logo-png-transparent-png.png" group-title="SuperTV",Disney +
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/15545
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="SuperTV",DISNEY JUNIOR HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4768
+#EXTINF:-1 tvg-id="disney.cinema.fr" tvg-name="DISNEY CINÉMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="SuperTV",DISNEY CINÉMA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4769
+#EXTINF:-1 tvg-id="disn.ch.f.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://92.222.97.12/files_explorer/shared_files/home/Logos/France2/Disney%20Channel%20FHD.png" group-title="SuperTV",DISNEY CHANNEL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4770
+#EXTINF:-1 tvg-id="Toonami FR" tvg-name="TOONAMI HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TOONAMI_HD_FR.png" group-title="SuperTV",TOONAMI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4771
+#EXTINF:-1 tvg-id="teletoon.fr" tvg-name="TÉLÉTOON  HD" tvg-logo="http://92.222.97.12/files_explorer/shared_files/home/Logos/France2/t%c3%a9l%c3%a9TOON+.png" group-title="SuperTV",TÉLÉTOON  HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4772
+#EXTINF:-1 tvg-id="" tvg-name="TIJI HD" tvg-logo="http://iptv.magikserv.com/picons/FR/tiji.png" group-title="SuperTV",TIJI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4773
+#EXTINF:-1 tvg-id="PiwiPlus FR" tvg-name="PIWI+  HD" tvg-logo="" group-title="SuperTV",PIWI+  HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4774
+#EXTINF:-1 tvg-id="" tvg-name="OFIVE HD" tvg-logo="" group-title="SuperTV",OFIVE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4775
+#EXTINF:-1 tvg-id="nick.f.fr" tvg-name="NICKELODEON HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NICKELODEON_HD_FR.png" group-title="SuperTV",NICKELODEON HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4776
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CARTOON_NETWORK_HD_FR.png" group-title="SuperTV",CARTOON NETWORK HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4778
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="CANAL J HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_J_HD_FR.png" group-title="SuperTV",CANAL J HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4779
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://www.pinclipart.com/picdir/middle/214-2146336_new-boomerang-logo-recreation-boomerang-channel-logo-png.png" group-title="SuperTV",BOOMERANG
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4802
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG  1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="SuperTV",BOOMERANG  1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4803
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/MANGAS_HD_FR.png" group-title="SuperTV",MANGAS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4785
+#EXTINF:-1 tvg-id="mtv.hits.euro.fr" tvg-name="MTV HITS HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/MTV_HITS_HD_FR.png" group-title="SuperTV",MTV HITS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4781
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV HD" tvg-logo="http://www.topstb.info/logo/FRANCE/MTVHD.png" group-title="SuperTV",MTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4782
+#EXTINF:-1 tvg-id="mcm.top.fr" tvg-name="MCM TOP HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/MCM_TOP_FR.png" group-title="SuperTV",MCM TOP HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4783
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/MCM_FRANCE_HD_FR.png" group-title="SuperTV",MCM HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4784
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="NRJ HITS" tvg-logo="https://th.bing.com/th/id/OIP.kirGvO1rrSVHSl4wViiDmAHaHe?pid=Api&rs=1" group-title="SuperTV",NRJ HITS
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27317
+#EXTINF:-1 tvg-id="luxe.tv.fr" tvg-name="LUXE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/1280px-Luxe-TV-Logo.svg.png" group-title="SuperTV",LUXE TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4786
+#EXTINF:-1 tvg-id="" tvg-name="LUCKY JACK HD" tvg-logo="" group-title="SuperTV",LUCKY JACK HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4787
+#EXTINF:-1 tvg-id="lcp.fr" tvg-name="LCP HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/LA_CHAINE_PARLEMENTAIRE_HD_FR.png" group-title="SuperTV",LCP HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4788
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="KTO HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/KTO_FR.png" group-title="SuperTV",KTO HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4789
+#EXTINF:-1 tvg-id="j.one.fr" tvg-name="J-ONE HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/J_ONE_HD_FR.png" group-title="SuperTV",J-ONE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4790
+#EXTINF:-1 tvg-id="gong.fr" tvg-name="Gong" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="SuperTV",Gong
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4792
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="BOING HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BOING_HD_FR.png" group-title="SuperTV",BOING HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4804
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://www.topstb.info/logo/FRANCE/FRANCEINFOHD.png" group-title="SuperTV",FRANCE INFO HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4795
+#EXTINF:-1 tvg-id="euronews.e.fr" tvg-name="EURONEWS " tvg-logo="https://lh3.googleusercontent.com/ZpAZqaQC88aQCeuAj69r88vIYsNXTGdgIQa5SNIHPsrBU8y7tElvJE6lx3psQIhZ640=w300" group-title="SuperTV",EURONEWS 
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4797
+#EXTINF:-1 tvg-id="es1.f.fr" tvg-name="ES1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/ES1_Logo.png" group-title="SuperTV",ES1
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4798
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNews" tvg-logo="http://92.222.97.12/files_explorer/shared_files/home/Logos/France2/C-News%20FHD.png" group-title="SuperTV",CNews
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4800
+#EXTINF:-1 tvg-id="cgtn.fr" tvg-name="CGTN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1024px-CGTN.svg.png" group-title="SuperTV",CGTN HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4801
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV HD" tvg-logo="http://www.topstb.info/logo/FRANCE/BFMHD.png" group-title="SuperTV",BFM TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4805
+#EXTINF:-1 tvg-id="bfm.paris.fr" tvg-name="BFM PARIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/1200px-BFM_Paris_logo_2016.svg.png" group-title="SuperTV",BFM PARIS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4806
+#EXTINF:-1 tvg-id="bfm.business.fr" tvg-name="BFM BUSINESS HD" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BFM_BUSINESS_FR.png" group-title="SuperTV",BFM BUSINESS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4807
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="I24 NEWS" tvg-logo="https://th.bing.com/th/id/OIP.KS1khB-wxZ2oZQFKWW4E-AHaEQ?pid=Api&rs=1" group-title="SuperTV",I24 NEWS
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4791
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET HD" tvg-logo="http://92.222.97.12/files_explorer/shared_files/home/Logos/France2/Bet%20HD.png" group-title="SuperTV",BET HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4808
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD" tvg-logo="" group-title="SuperTV",I24 NEWS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53728
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS HD" tvg-logo="" group-title="SuperTV",EURONEWS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53727
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="SuperTV",LCI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53726
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS HD" tvg-logo="" group-title="SuperTV",CNEWS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53725
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="SuperTV",FASHION TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53724
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX HD" tvg-logo="" group-title="SuperTV",ANIMAUX HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53723
+#EXTINF:-1 tvg-id="" tvg-name="PLANÈTE+ A&E HD" tvg-logo="" group-title="SuperTV",PLANÈTE+ A&E HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53722
+#EXTINF:-1 tvg-id="" tvg-name="PLANÈTE+ CI HD" tvg-logo="" group-title="SuperTV",PLANÈTE+ CI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53721
+#EXTINF:-1 tvg-id="" tvg-name="PLANÈTE+ HD" tvg-logo="" group-title="SuperTV",PLANÈTE+ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53720
+#EXTINF:-1 tvg-id="" tvg-name="ABXPLORE HD" tvg-logo="" group-title="SuperTV",ABXPLORE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53719
+#EXTINF:-1 tvg-id="" tvg-name="ANTENNE RÉUNION HD" tvg-logo="" group-title="SuperTV",ANTENNE RÉUNION HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53718
+#EXTINF:-1 tvg-id="" tvg-name="ALSACE 20 HD" tvg-logo="" group-title="SuperTV",ALSACE 20 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53717
+#EXTINF:-1 tvg-id="" tvg-name="NOTÉLÉ HD" tvg-logo="" group-title="SuperTV",NOTÉLÉ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53716
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK AFRICA TV HD" tvg-logo="" group-title="SuperTV",BBLACK AFRICA TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53714
+#EXTINF:-1 tvg-id="" tvg-name="BBLACK CARIBBEAN TV HD" tvg-logo="" group-title="SuperTV",BBLACK CARIBBEAN TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53713
+#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL HD" tvg-logo="" group-title="SuperTV",TRACE GOSPEL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53712
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA HD" tvg-logo="" group-title="SuperTV",TRACE TOCA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53711
+#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA HD" tvg-logo="" group-title="SuperTV",TRACE NAIJA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53710
+#EXTINF:-1 tvg-id="" tvg-name="TRACE MZIKI HD" tvg-logo="" group-title="SuperTV",TRACE MZIKI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53709
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TROPICAL HD" tvg-logo="" group-title="SuperTV",TRACE TROPICAL HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53708
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA HD" tvg-logo="" group-title="SuperTV",TRACE AFRICA HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53707
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="SuperTV",MEZZO LIVE HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53706
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO HD" tvg-logo="" group-title="SuperTV",MEZZO HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53705
+#EXTINF:-1 tvg-id="" tvg-name="MELODY HD" tvg-logo="" group-title="SuperTV",MELODY HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53704
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="SuperTV",VH1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53703
+#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS HD" tvg-logo="" group-title="SuperTV",MTV ROCKS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53702
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="SuperTV",TRACE URBAN HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53701
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HD" tvg-logo="" group-title="SuperTV",M6 MUSIC HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53700
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="" group-title="SuperTV",NRJ HITS HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53699
+#EXTINF:-1 tvg-id="" tvg-name="GONG MAX HD" tvg-logo="" group-title="SuperTV",GONG MAX HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53698
+#EXTINF:-1 tvg-id="" tvg-name="GONG HD" tvg-logo="" group-title="SuperTV",GONG HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53697
+#EXTINF:-1 tvg-id="" tvg-name="GULLI HD" tvg-logo="" group-title="SuperTV",GULLI HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53696
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON 4TEEN HD" tvg-logo="" group-title="SuperTV",NICKELODEON 4TEEN HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53695
+#EXTINF:-1 tvg-id="" tvg-name="TÉLÉTOON+ HD" tvg-logo="" group-title="SuperTV",TÉLÉTOON+ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53694
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG +1 HD" tvg-logo="" group-title="SuperTV",BOOMERANG +1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53693
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="SuperTV",BOOMERANG HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53692
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="" group-title="SuperTV",NICKELODEON JUNIOR HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53691
+#EXTINF:-1 tvg-id="" tvg-name="PIWI+ HD" tvg-logo="" group-title="SuperTV",PIWI+ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53690
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ HD" tvg-logo="" group-title="SuperTV",DISNEY+ HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53689
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE DU PÈRE NOËL HD (EVENT ONLY)" tvg-logo="" group-title="SuperTV",LA CHAINE DU PÈRE NOËL HD (EVENT ONLY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53688
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD" tvg-logo="" group-title="SuperTV",BABY TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53687
+#EXTINF:-1 tvg-id="" tvg-name="PITCHOUN TV HD" tvg-logo="" group-title="SuperTV",PITCHOUN TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53686
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="TF1 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TF1_HD_FR.png" group-title="SuperTV",TF1 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26246
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/M6_HD_FR.png" group-title="SuperTV",M6 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26247
+#EXTINF:-1 tvg-id="france.2.fr" tvg-name="France 2 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_2_HD_FR.png" group-title="SuperTV",France 2 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26248
+#EXTINF:-1 tvg-id="france.3.fr" tvg-name="France 3 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_3_HD_FR.png" group-title="SuperTV",France 3 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26250
+#EXTINF:-1 tvg-id="france.4.fr" tvg-name="France 4 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_4_HD_FR.png" group-title="SuperTV",France 4 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26324
+#EXTINF:-1 tvg-id="france.5.fr" tvg-name="France 5 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_5_FR.png" group-title="SuperTV",France 5 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26252
+#EXTINF:-1 tvg-id="france.o.fr" tvg-name="France Ô FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_O_FR.png" group-title="SuperTV",France Ô FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26253
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/C8_HD_FR.png" group-title="SuperTV",C8 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26257
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="Arte FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/ARTE_F_HD_FR.png" group-title="SuperTV",Arte FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26249
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="Canal+  FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_HD_FR.png" group-title="SuperTV",Canal+  FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26269
+#EXTINF:-1 tvg-id="canal+.decale.fr" tvg-name="Canal+ Decale FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_DECALE_HD_FR.png" group-title="SuperTV",Canal+ Decale FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26271
+#EXTINF:-1 tvg-id="canal+.family.fr" tvg-name="Canal+ Family FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_FAMILY_HD_FR.png" group-title="SuperTV",Canal+ Family FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26272
+#EXTINF:-1 tvg-id="canal+.series.fr" tvg-name="Canal+ Series FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_SERIES_HD_FR.png" group-title="SuperTV",Canal+ Series FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26273
+#EXTINF:-1 tvg-id="canal+.cinema.fr" tvg-name="Canal+ Cinema FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_CINEMA_HD_FR.png" group-title="SuperTV",Canal+ Cinema FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26319
+#EXTINF:-1 tvg-id="canal+.sport.fr" tvg-name="Canal+ Sport FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_Plus_SPORT_HD_FR.png" group-title="SuperTV",Canal+ Sport FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26274
+#EXTINF:-1 tvg-id="cine+.emotion.fr" tvg-name="Cine+ Emotion FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CINE_Plus_EMOTION_HD_FR.png" group-title="SuperTV",Cine+ Emotion FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26275
+#EXTINF:-1 tvg-id="cine+.famiz.fr" tvg-name="Cine+ Famiz FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CINE_Plus_FAMIZ_FR.png" group-title="SuperTV",Cine+ Famiz FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26276
+#EXTINF:-1 tvg-id="cine+.frisson.fr" tvg-name="Cine+ Frisson FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CINE_Plus_FRISSON_HD_FR.png" group-title="SuperTV",Cine+ Frisson FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26277
+#EXTINF:-1 tvg-id="cine+.premier.fr" tvg-name="Cine+ Premier FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CINE_Plus_PREMIER_HD_FR.png" group-title="SuperTV",Cine+ Premier FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26278
+#EXTINF:-1 tvg-id="cine+.classic.fr" tvg-name="Cine+ Classic FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CINE_Plus_CLASSIC_HD_FR.png" group-title="SuperTV",Cine+ Classic FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26312
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TFX_FR.png" group-title="SuperTV",TFX FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26254
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/W9_FR.png" group-title="SuperTV",W9 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26255
+#EXTINF:-1 tvg-id="warner.fr" tvg-name="Warner TV FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/BR/WARNER_HD_BR.png" group-title="SuperTV",Warner TV FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26305
+#EXTINF:-1 tvg-id="action.fr" tvg-name="Action FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/ACTION_HD_FR.png" group-title="SuperTV",Action FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26317
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="OCS Choc FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/OCS_CHOC_HD_FR.png" group-title="SuperTV",OCS Choc FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26293
+#EXTINF:-1 tvg-id="ocs.city.fr" tvg-name="OCS City FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/OCS_CITY_FR.png" group-title="SuperTV",OCS City FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26294
+#EXTINF:-1 tvg-id="ocs.geants.fr" tvg-name="OCS Geant FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/OCS_GEANT_HD_FR.png" group-title="SuperTV",OCS Geant FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26295
+#EXTINF:-1 tvg-id="ocs.max.fr" tvg-name="OCS Max FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/OCS_MAX_HD_FR.png" group-title="SuperTV",OCS Max FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26296
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CStar FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/C_STAR_FR.png" group-title="SuperTV",CStar FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26256
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6Ter FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/6TER_HD_FR.png" group-title="SuperTV",6Ter FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26259
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TMC_HD_FR.png" group-title="SuperTV",TMC FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26260
+#EXTINF:-1 tvg-id="nrj.12.fr" tvg-name="NRJ12 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NRJ_12_HD_FR.png" group-title="SuperTV",NRJ12 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26261
+#EXTINF:-1 tvg-id="rmc.story.fr" tvg-name="RMC Story FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_STORY_FR.png" group-title="SuperTV",RMC Story FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26262
+#EXTINF:-1 tvg-id="altice.studio.fr" tvg-name="Altice Studio FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/ALTICE_STUDIO_HD_FR.png" group-title="SuperTV",Altice Studio FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26263
+#EXTINF:-1 tvg-id="polar+.fr" tvg-name="POLAR+ HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/POLAR__Plus_HD_FR.png" group-title="SuperTV",POLAR+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26184
+#EXTINF:-1 tvg-id="" tvg-name="TF1 +1 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TF1_+_1.jpg" group-title="SuperTV",TF1 +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26241
+#EXTINF:-1 tvg-id="" tvg-name="TMC +1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tmc1.png" group-title="SuperTV",TMC +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26243
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM CINEMA HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TCM_CINEMA_FR.png" group-title="SuperTV",TCM CINEMA HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26071
+#EXTINF:-1 tvg-id="museum.fr" tvg-name="MUSEUM HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_museum_2017.png" group-title="SuperTV",MUSEUM HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26092
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL9 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RTL9_HD_FR.png" group-title="SuperTV",RTL9 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26147
+#EXTINF:-1 tvg-id="m6.boutique.fr" tvg-name="M6 BOUTIQUE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/M6_Boutique.png" group-title="SuperTV",M6 BOUTIQUE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26155
+#EXTINF:-1 tvg-id="nrj.hits.fr" tvg-name="NRJ HITS HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="SuperTV",NRJ HITS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26157
+#EXTINF:-1 tvg-id="telefoot.la.chaine.fr" tvg-name="TELEFOOT HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29425
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29426
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 2 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29427
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 3 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 3 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29428
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 4 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 4 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29429
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 5 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 5 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29430
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 6 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 6 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29431
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 7 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Telefoot.svg/1024px-Telefoot.svg.png" group-title="SuperTV",TELEFOOT STADIUM 7 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29432
+#EXTINF:-1 tvg-id="rmc.sport.1.fr" tvg-name="RMC Sport 1 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_SPORT_1_HD_FR.png" group-title="SuperTV",RMC Sport 1 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26299
+#EXTINF:-1 tvg-id="rmc.sport.2.fr" tvg-name="RMC Sport 2 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_SPORT_2_HD_FR.png" group-title="SuperTV",RMC Sport 2 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26300
+#EXTINF:-1 tvg-id="rmc.sport.3.fr" tvg-name="RMC Sport 3 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_SPORT_3_HD_FR.png" group-title="SuperTV",RMC Sport 3 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26301
+#EXTINF:-1 tvg-id="rmc.sport.4.fr" tvg-name="RMC Sport 4 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_SPORT_4_HD_FR.png" group-title="SuperTV",RMC Sport 4 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26302
+#EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="BeIN Sports 1 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_1_HD_FR.png" group-title="SuperTV",BeIN Sports 1 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26265
+#EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="BeIN Sports 2 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_2_HD_FR.png" group-title="SuperTV",BeIN Sports 2 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26266
+#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="BeIN Sports 3 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_3_HD_FR.png" group-title="SuperTV",BeIN Sports 3 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26267
+#EXTINF:-1 tvg-id="bein.sports.max.4.fr" tvg-name="beIN SPORT MAX 4 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_4_FR.png" group-title="SuperTV",beIN SPORT MAX 4 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26168
+#EXTINF:-1 tvg-id="bein.sports.max.5.fr" tvg-name="beIN SPORT MAX 5 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_5_FR.png" group-title="SuperTV",beIN SPORT MAX 5 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26169
+#EXTINF:-1 tvg-id="bein.sports.max.6.fr" tvg-name="beIN SPORT MAX 6 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_6_FR.png" group-title="SuperTV",beIN SPORT MAX 6 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26170
+#EXTINF:-1 tvg-id="bein.sports.max.7.fr" tvg-name="beIN SPORT MAX 7 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_7_FR.png" group-title="SuperTV",beIN SPORT MAX 7 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26171
+#EXTINF:-1 tvg-id="bein.sports.max.8.fr" tvg-name="beIN SPORT MAX 8 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_8_FR.png" group-title="SuperTV",beIN SPORT MAX 8 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26172
+#EXTINF:-1 tvg-id="bein.sports.max.9.fr" tvg-name="beIN SPORT MAX 9 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_9_FR.png" group-title="SuperTV",beIN SPORT MAX 9 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26173
+#EXTINF:-1 tvg-id="bein.sports.max.10.fr" tvg-name="beIN SPORT MAX 10 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BEIN_SPORTS_MAX_10_FR.png" group-title="SuperTV",beIN SPORT MAX 10 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26174
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="Equidia FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/EQUIDIA_LIVE_HD_FR.png" group-title="SuperTV",Equidia FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26284
+#EXTINF:-1 tvg-id="eurosport.1.fr" tvg-name="Eurosport 1 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/EUROSPORT_1_HD_FR.png" group-title="SuperTV",Eurosport 1 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26285
+#EXTINF:-1 tvg-id="eurosport.2.fr" tvg-name="Eurosport 2 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/EUROSPORT_2_HD_FR.png" group-title="SuperTV",Eurosport 2 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26286
+#EXTINF:-1 tvg-id="l.equipe.21.hd.ch" tvg-name="L'Equipe 21 FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/L_EQUIPE_21_FR.png" group-title="SuperTV",L'Equipe 21 FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26258
+#EXTINF:-1 tvg-id="chasse.et.peche.fr" tvg-name="Chasse et Peche FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CHASSE_ET_PECHE_HD_FR.png" group-title="SuperTV",Chasse et Peche FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26311
+#EXTINF:-1 tvg-id="national.geographic.fr" tvg-name="National Geographic FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NATIONAL_GEOGRAPHIC_HD_FR.png" group-title="SuperTV",National Geographic FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26288
+#EXTINF:-1 tvg-id="nat.geo.wild.fr" tvg-name="National Geo Wild FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NAT_GEO_WILD_HD_FR.png" group-title="SuperTV",National Geo Wild FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26289
+#EXTINF:-1 tvg-id="discovery.investigation.fr" tvg-name="Discovery Investigation FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISCOVERY_INVESTIGATION_HD_FR.png" group-title="SuperTV",Discovery Investigation FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26279
+#EXTINF:-1 tvg-id="discovery.science.fr" tvg-name="Discovery Science FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISCOVERY_SCIENCE_HD_FR.png" group-title="SuperTV",Discovery Science FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26280
+#EXTINF:-1 tvg-id="discovery.family.fr" tvg-name="Discovery Family FHD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1200px-Discovery_Family_logo.svg.png" group-title="SuperTV",Discovery Family FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26281
+#EXTINF:-1 tvg-id="discovery.fr" tvg-name="Discovery FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISCOVERY_HD_FR.png" group-title="SuperTV",Discovery FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26282
+#EXTINF:-1 tvg-id="planete+.a.e.fr" tvg-name="Planete A&E FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/PLAN%c3%88TE+_A&E.png" group-title="SuperTV",Planete A&E FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26297
+#EXTINF:-1 tvg-id="planete+.ci.fr" tvg-name="Planete+ CI FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/PLANETE_C.I._HD_FR.png" group-title="SuperTV",Planete+ CI FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26308
+#EXTINF:-1 tvg-id="rmc.decouverte.fr" tvg-name="RMC Decouverte FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/RMC_DECOUVERTE_HD_FR.png" group-title="SuperTV",RMC Decouverte FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26298
+#EXTINF:-1 tvg-id="science.et.vie.fr" tvg-name="Science et Vie FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/SCIENCE_&_VIE.png" group-title="SuperTV",Science et Vie FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26309
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="Seasons FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/SEASONS_HD_FR.png" group-title="SuperTV",Seasons FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26303
+#EXTINF:-1 tvg-id="ushuaia.fr" tvg-name="Ushuaia TV FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/USHUAIA_TV_HD_FR.png" group-title="SuperTV",Ushuaia TV FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26304
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="Animaux FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/ANIMAUX_FR.png" group-title="SuperTV",Animaux FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26264
+#EXTINF:-1 tvg-id="FranceInfo FR" tvg-name="France Info FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_INFO_TV_FR.png" group-title="SuperTV",France Info FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26251
+#EXTINF:-1 tvg-id="france.24.f.fr" tvg-name="FRANCE 24 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/FRANCE_24_HD_FR.png" group-title="SuperTV",FRANCE 24 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26178
+#EXTINF:-1 tvg-id="disn.jr.f.fr" tvg-name="Disney Junior FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISNEY_JUNIOR_HD_FR.png" group-title="SuperTV",Disney Junior FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26283
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="Boomerang FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/BOOMERANG_FR.png" group-title="SuperTV",Boomerang FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26268
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TOONAMI_HD_FR.png" group-title="SuperTV",TOONAMI HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26206
+#EXTINF:-1 tvg-id="canal.j.fr" tvg-name="Canal J FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CANAL_J_HD_FR.png" group-title="SuperTV",Canal J FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26270
+#EXTINF:-1 tvg-id="m6.music.fr" tvg-name="M6 Music FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/M6_MUSIC_HD_FR.png" group-title="SuperTV",M6 Music FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26287
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="Nickelodeon FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NICKELODEON_HD_FR.png" group-title="SuperTV",Nickelodeon FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26290
+#EXTINF:-1 tvg-id="disney+1.fr" tvg-name="DISNEY CHANNEL +1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/00/Disney_Channel_%2B1.png" group-title="SuperTV",DISNEY CHANNEL +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26242
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON +1 HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NICKELODEON___Plus1_HD_FR.png" group-title="SuperTV",NICKELODEON +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26244
+#EXTINF:-1 tvg-id="nickelodeon.teen.fr" tvg-name="Nickelodeon 4teen FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NICKELODEON_4_TEEN_HD_FR.png" group-title="SuperTV",Nickelodeon 4teen FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26291
+#EXTINF:-1 tvg-id="" tvg-name="NON STOP PEOPLE FHD HEVC" tvg-logo="" group-title="SuperTV",NON STOP PEOPLE FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26292
+#EXTINF:-1 tvg-id="" tvg-name="Game One FHD HEVC" tvg-logo="" group-title="SuperTV",Game One FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26306
+#EXTINF:-1 tvg-id="nick.jr.f.fr" tvg-name="Nickelodeon Junior FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/NICK_JR._FR.png" group-title="SuperTV",Nickelodeon Junior FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26307
+#EXTINF:-1 tvg-id="tf1.serie.films.fr" tvg-name="TF1 Series Films FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TF1-SERIES-FILMES.png" group-title="SuperTV",TF1 Series Films FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26310
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP FHD HEVC" tvg-logo="" group-title="SuperTV",MCM TOP FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26313
+#EXTINF:-1 tvg-id="disney.fr" tvg-name="Disney Channel FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/DISNEY_CHANNEL__Plus1_HD_FR.png" group-title="SuperTV",Disney Channel FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26314
+#EXTINF:-1 tvg-id="" tvg-name="My Cuisine FHD HEVC" tvg-logo="" group-title="SuperTV",My Cuisine FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26315
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="Teva FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/TEVA_HD_FR.png" group-title="SuperTV",Teva FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26316
+#EXTINF:-1 tvg-id="cartoon.network.fr" tvg-name="Cartoon Network FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/CARTOON_NETWORK_HD_FR.png" group-title="SuperTV",Cartoon Network FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26318
+#EXTINF:-1 tvg-id="" tvg-name="Gulli FHD HEVC" tvg-logo="" group-title="SuperTV",Gulli FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26320
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV FHD HEVC" tvg-logo="" group-title="SuperTV",BFM TV FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26321
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FHD HEVC" tvg-logo="http://meuapk.ddns.net/LOGOS/FR/LCI_HD_FR.png" group-title="SuperTV",LCI FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26322
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS FHD HEVC" tvg-logo="" group-title="SuperTV",CNEWS FHD HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26323
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Action 1 HD" tvg-logo="" group-title="SuperTV",Prestige TV Action 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27319
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Action 2 HD" tvg-logo="" group-title="SuperTV",Prestige TV Action 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27320
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Animes HD" tvg-logo="" group-title="SuperTV",Prestige TV Animes HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27321
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Arts Martiaux 1 HD" tvg-logo="" group-title="SuperTV",Prestige TV Arts Martiaux 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27322
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Guerre 1 HD" tvg-logo="" group-title="SuperTV",Prestige TV Guerre 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27323
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Guerre 2 HD" tvg-logo="" group-title="SuperTV",Prestige TV Guerre 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27324
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Horreur 1 HD" tvg-logo="" group-title="SuperTV",Prestige TV Horreur 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27325
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Horreur 2 HD" tvg-logo="" group-title="SuperTV",Prestige TV Horreur 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27326
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Les Dalton HD" tvg-logo="" group-title="SuperTV",Prestige TV Les Dalton HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27327
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV MASHA ET MICHKA" tvg-logo="http://www.evasion-communication.com/content/filemanager/msha.png" group-title="SuperTV",Prestige TV MASHA ET MICHKA
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27328
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Miraculous HD" tvg-logo="" group-title="SuperTV",Prestige TV Miraculous HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27329
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Mr Bean HD" tvg-logo="" group-title="SuperTV",Prestige TV Mr Bean HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27330
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Oscars HD" tvg-logo="" group-title="SuperTV",Prestige TV Oscars HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27331
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Pink Panther HD" tvg-logo="" group-title="SuperTV",Prestige TV Pink Panther HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27332
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Policier HD" tvg-logo="" group-title="SuperTV",Prestige TV Policier HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27333
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Teatro Masr HD" tvg-logo="" group-title="SuperTV",Prestige TV Teatro Masr HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27334
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Tom et Terry HD" tvg-logo="" group-title="SuperTV",Prestige TV Tom et Terry HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27335
+#EXTINF:-1 tvg-id="" tvg-name="Prestige TV Western HD" tvg-logo="" group-title="SuperTV",Prestige TV Western HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27336
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 1 HD FR" tvg-logo="" group-title="SuperTV",NETFLIX MOVIES 1 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27337
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 2 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2014_logo.svg/640px-Netflix_2014_logo.svg.png" group-title="SuperTV",NETFLIX MOVIES 2 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27338
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 3 HD FR" tvg-logo="" group-title="SuperTV",NETFLIX MOVIES 3 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27339
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 4 HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2014_logo.svg/640px-Netflix_2014_logo.svg.png" group-title="SuperTV",NETFLIX MOVIES 4 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27340
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 5 HD FR" tvg-logo="" group-title="SuperTV",NETFLIX MOVIES 5 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27341
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 6 HD FR" tvg-logo="" group-title="SuperTV",NETFLIX MOVIES 6 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27342
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 7 HD FR" tvg-logo="" group-title="SuperTV",NETFLIX MOVIES 7 HD FR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/27343
+#EXTINF:-1 tvg-id="" tvg-name="CINE  CLUB HEVC" tvg-logo="" group-title="SuperTV",CINE  CLUB HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26064
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE  HEVC" tvg-logo="" group-title="SuperTV",COMEDIE  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26072
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HEVC" tvg-logo="" group-title="SuperTV",COMEDY CENTRAL HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26073
+#EXTINF:-1 tvg-id="" tvg-name="NOVELAS TV HEVC" tvg-logo="" group-title="SuperTV",NOVELAS TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26076
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE   HEVC" tvg-logo="" group-title="SuperTV",PLANETE   HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26081
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE TV HEVC" tvg-logo="" group-title="SuperTV",HISTOIRE TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26087
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE HEVC" tvg-logo="" group-title="SuperTV",TOUTE L HISTOIRE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26088
+#EXTINF:-1 tvg-id="" tvg-name="AEROSTAR TV HEVC" tvg-logo="" group-title="SuperTV",AEROSTAR TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26089
+#EXTINF:-1 tvg-id="" tvg-name="A LA MAISON HEVC" tvg-logo="" group-title="SuperTV",A LA MAISON HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26091
+#EXTINF:-1 tvg-id="" tvg-name="VICE TV HEVC" tvg-logo="" group-title="SuperTV",VICE TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26093
+#EXTINF:-1 tvg-id="" tvg-name="MY ZEN TV HEVC" tvg-logo="" group-title="SuperTV",MY ZEN TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26094
+#EXTINF:-1 tvg-id="" tvg-name="PIWI  HEVC" tvg-logo="" group-title="SuperTV",PIWI  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26102
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON  HEVC" tvg-logo="" group-title="SuperTV",TELETOON  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26104
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS HEVC" tvg-logo="" group-title="SuperTV",MANGAS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26106
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE HEVC" tvg-logo="" group-title="SuperTV",GAME ONE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26108
+#EXTINF:-1 tvg-id="" tvg-name="PITCHOUN TV HEVC" tvg-logo="" group-title="SuperTV",PITCHOUN TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26109
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS HEVC" tvg-logo="" group-title="SuperTV",RMC SPORT NEWS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26111
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT  HEVC" tvg-logo="" group-title="SuperTV",INFOSPORT  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26126
+#EXTINF:-1 tvg-id="" tvg-name="GOLF  HEVC" tvg-logo="" group-title="SuperTV",GOLF  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26129
+#EXTINF:-1 tvg-id="" tvg-name="FOOT  HEVC" tvg-logo="" group-title="SuperTV",FOOT  HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26130
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME SPORTS HEVC" tvg-logo="" group-title="SuperTV",EXTREME SPORTS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26131
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 0 HEVC" tvg-logo="" group-title="SuperTV",FRANCE 0 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26138
+#EXTINF:-1 tvg-id="" tvg-name="LCP HEVC" tvg-logo="" group-title="SuperTV",LCP HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26149
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS HEVC" tvg-logo="" group-title="SuperTV",CNEWS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26150
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HEVC" tvg-logo="" group-title="SuperTV",BFM TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26154
+#EXTINF:-1 tvg-id="" tvg-name="MELODY HEVC" tvg-logo="" group-title="SuperTV",MELODY HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26158
+#EXTINF:-1 tvg-id="" tvg-name="DJAZZ HEVC" tvg-logo="" group-title="SuperTV",DJAZZ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26159
+#EXTINF:-1 tvg-id="" tvg-name="MCM HEVC" tvg-logo="" group-title="SuperTV",MCM HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26160
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP HEVC" tvg-logo="" group-title="SuperTV",MCM TOP HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26161
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO HEVC" tvg-logo="" group-title="SuperTV",MEZZO HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26162
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS ACCESS 2 HEVC" tvg-logo="" group-title="SuperTV",RMC SPORTS ACCESS 2 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26163
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORTS ACCESS 3 HEVC" tvg-logo="" group-title="SuperTV",RMC SPORTS ACCESS 3 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26164
+#EXTINF:-1 tvg-id="" tvg-name="BFM LYON HEVC" tvg-logo="" group-title="SuperTV",BFM LYON HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26175
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE METEO HEVC" tvg-logo="" group-title="SuperTV",LA CHAINE METEO HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26176
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HEVC" tvg-logo="" group-title="SuperTV",I24 NEWS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26177
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 HEVC" tvg-logo="" group-title="SuperTV",CHERIE 25 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26180
+#EXTINF:-1 tvg-id="" tvg-name="A LA UNE HEVC" tvg-logo="" group-title="SuperTV",A LA UNE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26181
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE HEVC" tvg-logo="" group-title="SuperTV",PARAMOUNT DECALE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26182
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HEVC" tvg-logo="" group-title="SuperTV",PARAMOUNT CHANNEL HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26183
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE HEVC" tvg-logo="" group-title="SuperTV",PARIS PREMIERE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26185
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FRANCE HEVC" tvg-logo="" group-title="SuperTV",COMEDY CENTRAL FRANCE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26186
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE+ HEVC" tvg-logo="" group-title="SuperTV",COMEDIE+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26187
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB HEVC" tvg-logo="" group-title="SuperTV",SERIE CLUB HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26188
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HEVC" tvg-logo="" group-title="SuperTV",E! ENTERTAINMENT HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26189
+#EXTINF:-1 tvg-id="" tvg-name="BET HEVC" tvg-logo="" group-title="SuperTV",BET HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26190
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH HEVC" tvg-logo="" group-title="SuperTV",TV BREIZH HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26191
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HEVC" tvg-logo="" group-title="SuperTV",AB3 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26192
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HEVC" tvg-logo="" group-title="SuperTV",AB1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26193
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HEVC" tvg-logo="" group-title="SuperTV",SYFY HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26194
+#EXTINF:-1 tvg-id="" tvg-name="VICELAND HEVC" tvg-logo="" group-title="SuperTV",VICELAND HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26195
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT HEVC" tvg-logo="" group-title="SuperTV",CRIME DISTRICT HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26196
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE HEVC" tvg-logo="" group-title="SuperTV",VOYAGE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26198
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON +1 HEVC" tvg-logo="" group-title="SuperTV",TELETOON +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26200
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON+ HEVC" tvg-logo="" group-title="SuperTV",TELETOON+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26201
+#EXTINF:-1 tvg-id="" tvg-name="TIJI HEVC" tvg-logo="" group-title="SuperTV",TIJI HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26202
+#EXTINF:-1 tvg-id="" tvg-name="PIWI+ HEVC" tvg-logo="" group-title="SuperTV",PIWI+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26203
+#EXTINF:-1 tvg-id="" tvg-name="GULLI HEVC" tvg-logo="" group-title="SuperTV",GULLI HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26204
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV HEVC" tvg-logo="" group-title="SuperTV",BABY TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26205
+#EXTINF:-1 tvg-id="" tvg-name="BOING HEVC" tvg-logo="" group-title="SuperTV",BOING HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26208
+#EXTINF:-1 tvg-id="" tvg-name="J-ONE HEVC" tvg-logo="" group-title="SuperTV",J-ONE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26209
+#EXTINF:-1 tvg-id="" tvg-name="ES1 HEVC" tvg-logo="" group-title="SuperTV",ES1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26210
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT+ HEVC" tvg-logo="" group-title="SuperTV",INFOSPORT+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26211
+#EXTINF:-1 tvg-id="" tvg-name="MOTORSPORT HEVC" tvg-logo="" group-title="SuperTV",MOTORSPORT HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26212
+#EXTINF:-1 tvg-id="" tvg-name="AUTOMOTO HEVC" tvg-logo="" group-title="SuperTV",AUTOMOTO HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26213
+#EXTINF:-1 tvg-id="" tvg-name="EXTRÊME SPORT HEVC" tvg-logo="" group-title="SuperTV",EXTRÊME SPORT HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26214
+#EXTINF:-1 tvg-id="" tvg-name="GOLF+ HEVC" tvg-logo="" group-title="SuperTV",GOLF+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26215
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HEVC" tvg-logo="" group-title="SuperTV",GOLF CHANNEL HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26216
+#EXTINF:-1 tvg-id="" tvg-name="FOOT+ 24/24 HEVC" tvg-logo="" group-title="SuperTV",FOOT+ 24/24 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26217
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS HEVC" tvg-logo="" group-title="SuperTV",MTV HITS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26218
+#EXTINF:-1 tvg-id="" tvg-name="MTV FRANCE HEVC" tvg-logo="" group-title="SuperTV",MTV FRANCE HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26219
+#EXTINF:-1 tvg-id="" tvg-name="MYZEN HEVC" tvg-logo="" group-title="SuperTV",MYZEN HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26220
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA STANGRAY HEVC" tvg-logo="" group-title="SuperTV",BRAVA STANGRAY HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26221
+#EXTINF:-1 tvg-id="" tvg-name="DJAZZ TV HEVC" tvg-logo="" group-title="SuperTV",DJAZZ TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26222
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIA HEVC" tvg-logo="" group-title="SuperTV",OLYMPIA HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26223
+#EXTINF:-1 tvg-id="" tvg-name="MELODY TV HEVC" tvg-logo="" group-title="SuperTV",MELODY TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26224
+#EXTINF:-1 tvg-id="" tvg-name="RFM TV HEVC" tvg-logo="" group-title="SuperTV",RFM TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26225
+#EXTINF:-1 tvg-id="" tvg-name="TRACE LATINA HEVC" tvg-logo="" group-title="SuperTV",TRACE LATINA HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26226
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN HEVC" tvg-logo="" group-title="SuperTV",TRACE URBAN HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26227
+#EXTINF:-1 tvg-id="" tvg-name="OKLM HEVC" tvg-logo="" group-title="SuperTV",OKLM HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26228
+#EXTINF:-1 tvg-id="" tvg-name="CLIQUE TV HEVC" tvg-logo="" group-title="SuperTV",CLIQUE TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26229
+#EXTINF:-1 tvg-id="" tvg-name="A+ HEVC" tvg-logo="" group-title="SuperTV",A+ HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26230
+#EXTINF:-1 tvg-id="" tvg-name="TREK HEVC" tvg-logo="" group-title="SuperTV",TREK HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26231
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE FBS HEVC" tvg-logo="" group-title="SuperTV",TV5 MONDE FBS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26232
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV HEVC" tvg-logo="" group-title="SuperTV",ONE TV HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26233
+#EXTINF:-1 tvg-id="" tvg-name="BE CURIOUS HEVC" tvg-logo="" group-title="SuperTV",BE CURIOUS HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26234
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 6 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26235
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 5 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26236
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 4 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26237
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 3 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26238
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 2 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26239
+#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1 HEVC" tvg-logo="" group-title="SuperTV",MULTISPORTS 1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26240
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE +1 HEVC" tvg-logo="" group-title="SuperTV",GAME ONE +1 HEVC
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/26245
+#EXTINF:-1 tvg-id="" tvg-name="TF1 HD" tvg-logo="" group-title="KSA",TF1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166619
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 HD" tvg-logo="" group-title="KSA",FRANCE 2 HD
+http://live.iptv-ksa.com:80/beri/beri123/166620
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3 HD" tvg-logo="" group-title="KSA",FRANCE 3 HD
+http://live.iptv-ksa.com:80/beri/beri123/166621
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4 HD" tvg-logo="" group-title="KSA",FRANCE 4 HD
+http://live.iptv-ksa.com:80/beri/beri123/166622
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5 HD" tvg-logo="" group-title="KSA",FRANCE 5 HD
+http://live.iptv-ksa.com:80/beri/beri123/166623
+#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="" group-title="KSA",M6 HD
+http://live.iptv-ksa.com:80/beri/beri123/166624
+#EXTINF:-1 tvg-id="" tvg-name="M6 FHD" tvg-logo="" group-title="KSA",M6 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166625
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12 HD" tvg-logo="" group-title="KSA",NRJ12 HD
+http://live.iptv-ksa.com:80/beri/beri123/166626
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SERIES FILMS HD" tvg-logo="" group-title="KSA",TF1 SERIES FILMS HD
+http://live.iptv-ksa.com:80/beri/beri123/166627
+#EXTINF:-1 tvg-id="" tvg-name="C8 HD" tvg-logo="" group-title="KSA",C8 HD
+http://live.iptv-ksa.com:80/beri/beri123/166628
+#EXTINF:-1 tvg-id="" tvg-name="C8 FHD" tvg-logo="" group-title="KSA",C8 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166629
+#EXTINF:-1 tvg-id="" tvg-name="W9 HD" tvg-logo="" group-title="KSA",W9 HD
+http://live.iptv-ksa.com:80/beri/beri123/166630
+#EXTINF:-1 tvg-id="" tvg-name="W9 FHD" tvg-logo="" group-title="KSA",W9 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166631
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 HD" tvg-logo="" group-title="KSA",RTL9 HD
+http://live.iptv-ksa.com:80/beri/beri123/166632
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 FHD" tvg-logo="" group-title="KSA",RTL9 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166633
+#EXTINF:-1 tvg-id="" tvg-name="6TER HD" tvg-logo="" group-title="KSA",6TER HD
+http://live.iptv-ksa.com:80/beri/beri123/166634
+#EXTINF:-1 tvg-id="" tvg-name="6TER FHD" tvg-logo="" group-title="KSA",6TER FHD
+http://live.iptv-ksa.com:80/beri/beri123/166635
+#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="" group-title="KSA",TFX HD
+http://live.iptv-ksa.com:80/beri/beri123/166636
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD" tvg-logo="" group-title="KSA",TFX FHD
+http://live.iptv-ksa.com:80/beri/beri123/166637
+#EXTINF:-1 tvg-id="" tvg-name="TMC HD" tvg-logo="" group-title="KSA",TMC HD
+http://live.iptv-ksa.com:80/beri/beri123/166638
+#EXTINF:-1 tvg-id="" tvg-name="TMC FHD" tvg-logo="" group-title="KSA",TMC FHD
+http://live.iptv-ksa.com:80/beri/beri123/166639
+#EXTINF:-1 tvg-id="" tvg-name="TMC +1 FHD" tvg-logo="" group-title="KSA",TMC +1 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166640
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O HD" tvg-logo="" group-title="KSA",FRANCE O HD
+http://live.iptv-ksa.com:80/beri/beri123/166641
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O FHD" tvg-logo="" group-title="KSA",FRANCE O FHD
+http://live.iptv-ksa.com:80/beri/beri123/166642
+#EXTINF:-1 tvg-id="" tvg-name="C STAR HD" tvg-logo="" group-title="KSA",C STAR HD
+http://live.iptv-ksa.com:80/beri/beri123/166643
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ HD" tvg-logo="" group-title="KSA",CANAL+ HD
+http://live.iptv-ksa.com:80/beri/beri123/166645
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FHD" tvg-logo="" group-title="KSA",CANAL+ FHD
+http://live.iptv-ksa.com:80/beri/beri123/166646
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINEMA HD" tvg-logo="" group-title="KSA",CANAL+ CINEMA HD
+http://live.iptv-ksa.com:80/beri/beri123/166647
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ CINEMA FHD" tvg-logo="" group-title="KSA",CANAL+ CINEMA FHD
+http://live.iptv-ksa.com:80/beri/beri123/166648
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE HD" tvg-logo="" group-title="KSA",CANAL+ DECALE HD
+http://live.iptv-ksa.com:80/beri/beri123/166649
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ DECALE FHD" tvg-logo="" group-title="KSA",CANAL+ DECALE FHD
+http://live.iptv-ksa.com:80/beri/beri123/166650
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY HD" tvg-logo="" group-title="KSA",CANAL+ FAMILY HD
+http://live.iptv-ksa.com:80/beri/beri123/166651
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ FAMILY FHD" tvg-logo="" group-title="KSA",CANAL+ FAMILY FHD
+http://live.iptv-ksa.com:80/beri/beri123/166652
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES HD" tvg-logo="" group-title="KSA",CANAL+ SERIES HD
+http://live.iptv-ksa.com:80/beri/beri123/166653
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SERIES FHD" tvg-logo="" group-title="KSA",CANAL+ SERIES FHD
+http://live.iptv-ksa.com:80/beri/beri123/166654
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIER HD" tvg-logo="" group-title="KSA",CINE+ PREMIER HD
+http://live.iptv-ksa.com:80/beri/beri123/166656
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ PREMIER FHD" tvg-logo="" group-title="KSA",CINE+ PREMIER FHD
+http://live.iptv-ksa.com:80/beri/beri123/166657
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FRISSON HD" tvg-logo="" group-title="KSA",CINE+ FRISSON HD
+http://live.iptv-ksa.com:80/beri/beri123/166658
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FRISSON FHD" tvg-logo="" group-title="KSA",CINE+ FRISSON FHD
+http://live.iptv-ksa.com:80/beri/beri123/166659
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ HD" tvg-logo="" group-title="KSA",CINE+ FAMIZ HD
+http://live.iptv-ksa.com:80/beri/beri123/166660
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ FAMIZ FHD" tvg-logo="" group-title="KSA",CINE+ FAMIZ FHD
+http://live.iptv-ksa.com:80/beri/beri123/166661
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION HD" tvg-logo="" group-title="KSA",CINE+ EMOTION HD
+http://live.iptv-ksa.com:80/beri/beri123/166662
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ EMOTION FHD" tvg-logo="" group-title="KSA",CINE+ EMOTION FHD
+http://live.iptv-ksa.com:80/beri/beri123/166663
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC HD" tvg-logo="" group-title="KSA",CINE+ CLASSIC HD
+http://live.iptv-ksa.com:80/beri/beri123/166664
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ CLASSIC FHD" tvg-logo="" group-title="KSA",CINE+ CLASSIC FHD
+http://live.iptv-ksa.com:80/beri/beri123/166665
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ POLAR HD" tvg-logo="" group-title="KSA",CINE+ POLAR HD
+http://live.iptv-ksa.com:80/beri/beri123/166666
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ POLAR FHD" tvg-logo="" group-title="KSA",CINE+ POLAR FHD
+http://live.iptv-ksa.com:80/beri/beri123/166667
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC HD" tvg-logo="" group-title="KSA",OCS CHOC HD
+http://live.iptv-ksa.com:80/beri/beri123/166669
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC FHD" tvg-logo="" group-title="KSA",OCS CHOC FHD
+http://live.iptv-ksa.com:80/beri/beri123/166670
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY HD" tvg-logo="" group-title="KSA",OCS CITY HD
+http://live.iptv-ksa.com:80/beri/beri123/166671
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY FHD" tvg-logo="" group-title="KSA",OCS CITY FHD
+http://live.iptv-ksa.com:80/beri/beri123/166672
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANTS HD" tvg-logo="" group-title="KSA",OCS GEANTS HD
+http://live.iptv-ksa.com:80/beri/beri123/166673
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT FHD" tvg-logo="" group-title="KSA",OCS GEANT FHD
+http://live.iptv-ksa.com:80/beri/beri123/166674
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX HD" tvg-logo="" group-title="KSA",OCS MAX HD
+http://live.iptv-ksa.com:80/beri/beri123/166675
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX FHD" tvg-logo="" group-title="KSA",OCS MAX FHD
+http://live.iptv-ksa.com:80/beri/beri123/166676
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS FR HD" tvg-logo="" group-title="KSA",EURONEWS FR HD
+http://live.iptv-ksa.com:80/beri/beri123/166678
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD" tvg-logo="" group-title="KSA",LCI HD
+http://live.iptv-ksa.com:80/beri/beri123/166679
+#EXTINF:-1 tvg-id="" tvg-name="LCP HD" tvg-logo="" group-title="KSA",LCP HD
+http://live.iptv-ksa.com:80/beri/beri123/166680
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="" group-title="KSA",FRANCE 24 HD
+http://live.iptv-ksa.com:80/beri/beri123/166681
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS HD" tvg-logo="" group-title="KSA",CNEWS HD
+http://live.iptv-ksa.com:80/beri/beri123/166682
+#EXTINF:-1 tvg-id="" tvg-name="BFM HD" tvg-logo="" group-title="KSA",BFM HD
+http://live.iptv-ksa.com:80/beri/beri123/166683
+#EXTINF:-1 tvg-id="" tvg-name="TV5MONDE HD" tvg-logo="" group-title="KSA",TV5MONDE HD
+http://live.iptv-ksa.com:80/beri/beri123/166684
+#EXTINF:-1 tvg-id="" tvg-name="HISTOIRE HD" tvg-logo="" group-title="KSA",HISTOIRE HD
+http://live.iptv-ksa.com:80/beri/beri123/166686
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV HD" tvg-logo="" group-title="KSA",USHUAIA TV HD
+http://live.iptv-ksa.com:80/beri/beri123/166687
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA TV FHD" tvg-logo="" group-title="KSA",USHUAIA TV FHD
+http://live.iptv-ksa.com:80/beri/beri123/166688
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX HD" tvg-logo="" group-title="KSA",ANIMAUX HD
+http://live.iptv-ksa.com:80/beri/beri123/166689
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE HD" tvg-logo="" group-title="KSA",VOYAGE HD
+http://live.iptv-ksa.com:80/beri/beri123/166690
+#EXTINF:-1 tvg-id="" tvg-name="TREK HD" tvg-logo="" group-title="KSA",TREK HD
+http://live.iptv-ksa.com:80/beri/beri123/166691
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE ET VIE HD" tvg-logo="" group-title="KSA",SCIENCE ET VIE HD
+http://live.iptv-ksa.com:80/beri/beri123/166692
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE AE HD" tvg-logo="" group-title="KSA",PLANETE AE HD
+http://live.iptv-ksa.com:80/beri/beri123/166693
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE HD" tvg-logo="" group-title="KSA",PLANETE HD
+http://live.iptv-ksa.com:80/beri/beri123/166694
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE CI HD" tvg-logo="" group-title="KSA",PLANETE CI HD
+http://live.iptv-ksa.com:80/beri/beri123/166695
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="KSA",PARAMOUNT CHANNEL HD
+http://live.iptv-ksa.com:80/beri/beri123/166696
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT DECALE HD" tvg-logo="" group-title="KSA",PARAMOUNT DECALE HD
+http://live.iptv-ksa.com:80/beri/beri123/166697
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO HD" tvg-logo="" group-title="KSA",NATIONAL GEO HD
+http://live.iptv-ksa.com:80/beri/beri123/166698
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="KSA",NATIONAL GEOGRAPHIC FHD
+http://live.iptv-ksa.com:80/beri/beri123/166699
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD HD" tvg-logo="" group-title="KSA",NATIONAL GEO WILD HD
+http://live.iptv-ksa.com:80/beri/beri123/166700
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD FHD" tvg-logo="" group-title="KSA",NATIONAL GEO WILD FHD
+http://live.iptv-ksa.com:80/beri/beri123/166701
+#EXTINF:-1 tvg-id="" tvg-name="CHASSE ET PECHE HD" tvg-logo="" group-title="KSA",CHASSE ET PECHE HD
+http://live.iptv-ksa.com:80/beri/beri123/166702
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="KSA",DISCOVERY CHANNEL HD
+http://live.iptv-ksa.com:80/beri/beri123/166703
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="KSA",DISCOVERY FHD
+http://live.iptv-ksa.com:80/beri/beri123/166704
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="KSA",DISCOVERY SCIENCE HD
+http://live.iptv-ksa.com:80/beri/beri123/166705
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="KSA",DISCOVERY INVESTIGATION HD
+http://live.iptv-ksa.com:80/beri/beri123/166706
+#EXTINF:-1 tvg-id="" tvg-name="CRIME DISTRICT HD" tvg-logo="" group-title="KSA",CRIME DISTRICT HD
+http://live.iptv-ksa.com:80/beri/beri123/166707
+#EXTINF:-1 tvg-id="" tvg-name="ARTE HD" tvg-logo="" group-title="KSA",ARTE HD
+http://live.iptv-ksa.com:80/beri/beri123/166708
+#EXTINF:-1 tvg-id="" tvg-name="SEASON HD" tvg-logo="" group-title="KSA",SEASON HD
+http://live.iptv-ksa.com:80/beri/beri123/166709
+#EXTINF:-1 tvg-id="" tvg-name="TOONAMI HD" tvg-logo="" group-title="KSA",TOONAMI HD
+http://live.iptv-ksa.com:80/beri/beri123/166711
+#EXTINF:-1 tvg-id="" tvg-name="PIWI HD" tvg-logo="" group-title="KSA",PIWI HD
+http://live.iptv-ksa.com:80/beri/beri123/166712
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="KSA",NICKELODEON HD
+http://live.iptv-ksa.com:80/beri/beri123/166713
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="" group-title="KSA",NICKELODEON JUNIOR HD
+http://live.iptv-ksa.com:80/beri/beri123/166714
+#EXTINF:-1 tvg-id="" tvg-name="MANGAS HD" tvg-logo="" group-title="KSA",MANGAS HD
+http://live.iptv-ksa.com:80/beri/beri123/166715
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="KSA",CARTOON NETWORK HD
+http://live.iptv-ksa.com:80/beri/beri123/166716
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FR HD" tvg-logo="" group-title="KSA",BOOMERANG FR HD
+http://live.iptv-ksa.com:80/beri/beri123/166717
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="KSA",DISNEY CHANNEL HD
+http://live.iptv-ksa.com:80/beri/beri123/166718
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="KSA",DISNEY CHANNEL FHD
+http://live.iptv-ksa.com:80/beri/beri123/166719
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA HD" tvg-logo="" group-title="KSA",DISNEY CINEMA HD
+http://live.iptv-ksa.com:80/beri/beri123/166720
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR HD" tvg-logo="" group-title="KSA",DISNEY JUNIOR HD
+http://live.iptv-ksa.com:80/beri/beri123/166721
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="" group-title="KSA",DISNEY XD HD
+http://live.iptv-ksa.com:80/beri/beri123/166722
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON HD" tvg-logo="" group-title="KSA",TELETOON HD
+http://live.iptv-ksa.com:80/beri/beri123/166723
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON FHD" tvg-logo="" group-title="KSA",TELETOON FHD
+http://live.iptv-ksa.com:80/beri/beri123/166724
+#EXTINF:-1 tvg-id="" tvg-name="BOING HD" tvg-logo="" group-title="KSA",BOING HD
+http://live.iptv-ksa.com:80/beri/beri123/166725
+#EXTINF:-1 tvg-id="" tvg-name="J-ONE FULL HD" tvg-logo="" group-title="KSA",J-ONE FULL HD
+http://live.iptv-ksa.com:80/beri/beri123/166726
+#EXTINF:-1 tvg-id="" tvg-name="13 EME RUE HD" tvg-logo="" group-title="KSA",13 EME RUE HD
+http://live.iptv-ksa.com:80/beri/beri123/166728
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH HD" tvg-logo="" group-title="KSA",TV BREIZH HD
+http://live.iptv-ksa.com:80/beri/beri123/166729
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV HD" tvg-logo="" group-title="KSA",SUNDANCE TV HD
+http://live.iptv-ksa.com:80/beri/beri123/166730
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="KSA",SYFY HD
+http://live.iptv-ksa.com:80/beri/beri123/166731
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="" group-title="KSA",SYFY FHD
+http://live.iptv-ksa.com:80/beri/beri123/166732
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA HD" tvg-logo="" group-title="KSA",TCM CINEMA HD
+http://live.iptv-ksa.com:80/beri/beri123/166733
+#EXTINF:-1 tvg-id="" tvg-name="TEVA HD" tvg-logo="" group-title="KSA",TEVA HD
+http://live.iptv-ksa.com:80/beri/beri123/166734
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB HD" tvg-logo="" group-title="KSA",SERIE CLUB HD
+http://live.iptv-ksa.com:80/beri/beri123/166735
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="KSA",PARIS PREMIERE HD
+http://live.iptv-ksa.com:80/beri/beri123/166736
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE FHD" tvg-logo="" group-title="KSA",PARIS PREMIERE FHD
+http://live.iptv-ksa.com:80/beri/beri123/166737
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERTAINMENT HD" tvg-logo="" group-title="KSA",E! ENTERTAINMENT HD
+http://live.iptv-ksa.com:80/beri/beri123/166738
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25 HD" tvg-logo="" group-title="KSA",CHERIE 25 HD
+http://live.iptv-ksa.com:80/beri/beri123/166739
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE HD" tvg-logo="" group-title="KSA",COMEDIE HD
+http://live.iptv-ksa.com:80/beri/beri123/166740
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE FHD" tvg-logo="" group-title="KSA",COMEDIE FHD
+http://live.iptv-ksa.com:80/beri/beri123/166741
+#EXTINF:-1 tvg-id="" tvg-name="ALTICE STUDIO HD" tvg-logo="" group-title="KSA",ALTICE STUDIO HD
+http://live.iptv-ksa.com:80/beri/beri123/166742
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE FHD" tvg-logo="" group-title="KSA",MY CUISINE FHD
+http://live.iptv-ksa.com:80/beri/beri123/166743
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 1 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166744
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 2 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 2 HD
+http://live.iptv-ksa.com:80/beri/beri123/166745
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 3 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 3 HD
+http://live.iptv-ksa.com:80/beri/beri123/166746
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 4 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 4 HD
+http://live.iptv-ksa.com:80/beri/beri123/166747
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 5 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 5 HD
+http://live.iptv-ksa.com:80/beri/beri123/166748
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 6 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 6 HD
+http://live.iptv-ksa.com:80/beri/beri123/166749
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 7 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 7 HD
+http://live.iptv-ksa.com:80/beri/beri123/166750
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 8 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 8 HD
+http://live.iptv-ksa.com:80/beri/beri123/166751
+#EXTINF:-1 tvg-id="" tvg-name="MEDO MOVIES 9 HD" tvg-logo="" group-title="KSA",MEDO MOVIES 9 HD
+http://live.iptv-ksa.com:80/beri/beri123/166752
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT HD" tvg-logo="" group-title="KSA",CANAL+ SPORT HD
+http://live.iptv-ksa.com:80/beri/beri123/166754
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT FHD" tvg-logo="" group-title="KSA",CANAL+ SPORT FHD
+http://live.iptv-ksa.com:80/beri/beri123/166755
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="KSA",BEIN SPORTS 1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166756
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="" group-title="KSA",BEIN SPORTS 1 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166757
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="KSA",BEIN SPORTS 2 HD
+http://live.iptv-ksa.com:80/beri/beri123/166758
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="" group-title="KSA",BEIN SPORTS 2 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166759
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="KSA",BEIN SPORTS 3 HD
+http://live.iptv-ksa.com:80/beri/beri123/166760
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="" group-title="KSA",BEIN SPORTS 3 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166761
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 4 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 4 HD
+http://live.iptv-ksa.com:80/beri/beri123/166762
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 5 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 5 HD
+http://live.iptv-ksa.com:80/beri/beri123/166763
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 6 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 6 HD
+http://live.iptv-ksa.com:80/beri/beri123/166764
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 7 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 7 HD
+http://live.iptv-ksa.com:80/beri/beri123/166765
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 8 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 8 HD
+http://live.iptv-ksa.com:80/beri/beri123/166766
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 9 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 9 HD
+http://live.iptv-ksa.com:80/beri/beri123/166767
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 10 HD" tvg-logo="" group-title="KSA",BEIN SPORT MAX 10 HD
+http://live.iptv-ksa.com:80/beri/beri123/166768
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT FRANCE HD" tvg-logo="" group-title="KSA",EUROSPORT FRANCE HD
+http://live.iptv-ksa.com:80/beri/beri123/166769
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="KSA",EUROSPORT 1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166770
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT HD" tvg-logo="" group-title="KSA",INFOSPORT HD
+http://live.iptv-ksa.com:80/beri/beri123/166771
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="KSA",GOLF HD
+http://live.iptv-ksa.com:80/beri/beri123/166772
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA LIVE HD" tvg-logo="" group-title="KSA",EQUIDIA LIVE HD
+http://live.iptv-ksa.com:80/beri/beri123/166773
+#EXTINF:-1 tvg-id="" tvg-name="AB MOTEURS HD" tvg-logo="" group-title="KSA",AB MOTEURS HD
+http://live.iptv-ksa.com:80/beri/beri123/166774
+#EXTINF:-1 tvg-id="" tvg-name="MTV DANCE HD" tvg-logo="" group-title="KSA",MTV DANCE HD
+http://live.iptv-ksa.com:80/beri/beri123/166776
+#EXTINF:-1 tvg-id="" tvg-name="MTV FRANCE HD" tvg-logo="" group-title="KSA",MTV FRANCE HD
+http://live.iptv-ksa.com:80/beri/beri123/166777
+#EXTINF:-1 tvg-id="" tvg-name="MY CUISINE HD" tvg-logo="" group-title="KSA",MY CUISINE HD
+http://live.iptv-ksa.com:80/beri/beri123/166778
+#EXTINF:-1 tvg-id="" tvg-name="M6 MUSIC HITS HD" tvg-logo="" group-title="KSA",M6 MUSIC HITS HD
+http://live.iptv-ksa.com:80/beri/beri123/166779
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN HD" tvg-logo="" group-title="KSA",TRACE URBAN HD
+http://live.iptv-ksa.com:80/beri/beri123/166780
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" tvg-logo="" group-title="KSA",I24 NEWS
+http://live.iptv-ksa.com:80/beri/beri123/166781
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="KSA",RMC SPORT 1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166782
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 FHD" tvg-logo="" group-title="KSA",RMC SPORT 1 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166783
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="KSA",RMC SPORT 2 HD
+http://live.iptv-ksa.com:80/beri/beri123/166784
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 2 FHD" tvg-logo="" group-title="KSA",RMC SPORT 2 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166785
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="KSA",RMC SPORT 3 HD
+http://live.iptv-ksa.com:80/beri/beri123/166786
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 FHD" tvg-logo="" group-title="KSA",RMC SPORT 3 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166787
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 3 FHD" tvg-logo="" group-title="KSA",RMC SPORT 3 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166788
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 FHD" tvg-logo="" group-title="KSA",RMC SPORT 4 FHD
+http://live.iptv-ksa.com:80/beri/beri123/166789
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 5 HD" tvg-logo="" group-title="KSA",RMC SPORT 5 HD
+http://live.iptv-ksa.com:80/beri/beri123/166790
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE HD" tvg-logo="" group-title="KSA",RMC DECOUVERTE HD
+http://live.iptv-ksa.com:80/beri/beri123/166791
+#EXTINF:-1 tvg-id="" tvg-name="RMC DECOUVERTE HD" tvg-logo="" group-title="KSA",RMC DECOUVERTE HD
+http://live.iptv-ksa.com:80/beri/beri123/166792
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="" group-title="KSA",RMC STORY HD
+http://live.iptv-ksa.com:80/beri/beri123/166793
+#EXTINF:-1 tvg-id="" tvg-name="RMC SPORT NEWS HD" tvg-logo="" group-title="KSA",RMC SPORT NEWS HD
+http://live.iptv-ksa.com:80/beri/beri123/166794
+#EXTINF:-1 tvg-id="" tvg-name="RMC STORY HD" tvg-logo="" group-title="KSA",RMC STORY HD
+http://live.iptv-ksa.com:80/beri/beri123/166795
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD" tvg-logo="" group-title="KSA",Warner TV HD
+http://live.iptv-ksa.com:80/beri/beri123/166796
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 8 HD
+http://live.iptv-ksa.com:80/beri/beri123/166797
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 7 HD
+http://live.iptv-ksa.com:80/beri/beri123/166798
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 6 HD
+http://live.iptv-ksa.com:80/beri/beri123/166799
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 5 HD
+http://live.iptv-ksa.com:80/beri/beri123/166800
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 4 HD
+http://live.iptv-ksa.com:80/beri/beri123/166801
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 3 HD
+http://live.iptv-ksa.com:80/beri/beri123/166802
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 2 HD
+http://live.iptv-ksa.com:80/beri/beri123/166803
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="KSA",TELEFOOT STADIUM 1 HD
+http://live.iptv-ksa.com:80/beri/beri123/166804
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT FHD" tvg-logo="" group-title="KSA",TELEFOOT FHD
+http://live.iptv-ksa.com:80/beri/beri123/166805
+#EXTINF:-1 tvg-id="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="KSA",TELEFOOT HD
+http://live.iptv-ksa.com:80/beri/beri123/166806
 #EXTINF:-1 tvg-id="TF1-FR" tvg-name="TF1 4K+" group-title="Jinbox",TF1 4K+
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/151
 #EXTINF:-1 tvg-id="FRANCE 2-FR" tvg-name="France 2 4K+" group-title="Jinbox",France 2 4K+
@@ -261,8 +1502,6 @@ http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27957
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27972
 #EXTINF:-1 tvg-id="rmc.sport.access.2.fr" tvg-name="FR338:RMC ACCESS  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR338RMCACCESS2.png" group-title="FR Sports",FR338:RMC ACCESS  2
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27971
-#EXTINF:-1 tvg-id="" tvg-name="FR:-----|ENTERTAINMENT|----------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR-----|ENTERTAINMENT|----------------------.png" group-title="FR Ent",FR:-----|ENTERTAINMENT|----------------------
-http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/60622
 #EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR041:CStar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png" group-title="FR Ent",FR041:CStar
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/2825
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR002:6Ter" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png" group-title="FR Ent",FR002:6Ter
@@ -637,8 +1876,6 @@ http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27961
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27956
 #EXTINF:-1 tvg-id="" tvg-name="FR356:Bblack Classik" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR356BblackClassik.png" group-title="FR Ent",FR356:Bblack Classik
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27953
-#EXTINF:-1 tvg-id="" tvg-name="FR:-----|CINEMA|-----------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR-----|CINEMA|-----------------------------.png" group-title="FR Cinema",FR:-----|CINEMA|-----------------------------
-http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/60619
 #EXTINF:-1 tvg-id="13e.rue.fr" tvg-name="FR001:13 Eme Rue" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png" group-title="FR Cinema",FR001:13 Eme Rue
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/2865
 #EXTINF:-1 tvg-id="action.fr" tvg-name="FR006:Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png" group-title="FR Cinema",FR006:Action
@@ -825,8 +2062,6 @@ http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/28122
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27964
 #EXTINF:-1 tvg-id="cine+premier.fr" tvg-name="FR174:Cine Premier HD (1080P)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR174CinePremierHD(1080P).png" group-title="FR Cinema",FR174:Cine Premier HD (1080P)
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/28135
-#EXTINF:-1 tvg-id="" tvg-name="FR:-----|KIDS|-------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR-----|KIDS|-------------------------------.png" group-title="FR Kids",FR:-----|KIDS|-------------------------------
-http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/60621
 #EXTINF:-1 tvg-id="boing.fr" tvg-name="FR020:Boing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png" group-title="FR Kids",FR020:Boing
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/2846
 #EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR021:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png" group-title="FR Kids",FR021:Boomerang
@@ -865,8 +2100,6 @@ http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27990
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27966
 #EXTINF:-1 tvg-id="teletoon.fr" tvg-name="FR354:TELETOON HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR354TELETOONHD.png" group-title="FR Kids",FR354:TELETOON HD
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/27955
-#EXTINF:-1 tvg-id="" tvg-name="FR:-----|NEWS|-------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR-----|NEWS|-------------------------------.png" group-title="FR News",FR:-----|NEWS|-------------------------------
-http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/60620
 #EXTINF:-1 tvg-id="bfm.fr" tvg-name="FR019:BFM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png" group-title="FR News",FR019:BFM TV
 http://mu02.knakw.club:8880/wsy1y060/Nx7mVaYLjh/2847
 #EXTINF:-1 tvg-id="euronews.fr" tvg-name="FR049:Euro News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png" group-title="FR News",FR049:Euro News
@@ -1157,8 +2390,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13965
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13964
 #EXTINF:-1 tvg-ID="" tvg-name="CANALPLAY 16 (Enragé)" tvg-logo="https://i.ibb.co/7VNZ7Sc/canalplay.jpg" group-title="elamouri",CANALPLAY 16 (Enragé)
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13963
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| ORANGE CINEMA |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| ORANGE CINEMA |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24928
 #EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINE (S" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="elamouri",ORANGE CINE (S
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13926
 #EXTINF:-1 tvg-ID="" tvg-name="ORANGE CINE 1" tvg-logo="https://image.ibb.co/n1JZJ8/logo_orange_200x200.png" group-title="elamouri",ORANGE CINE 1
@@ -1197,8 +2428,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13951
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13950
 #EXTINF:-1 tvg-ID="" tvg-name="ALACARTE 10" tvg-logo="http://www.videotron.com/vcom/media/m3710964/2/Icone-Forfait-TV-A-la-carte-WL-Produit.png" group-title="elamouri",ALACARTE 10
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13948
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| DIVERTISSEMENT |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| DIVERTISSEMENT |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24931
 #EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="PARIS PREMIERE FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="elamouri",PARIS PREMIERE FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13824
 #EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://logo.premium-ott.com:8000/logo/parispremiere.png" group-title="elamouri",PARIS PREMIERE HD
@@ -1289,8 +2518,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1097
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1064
 #EXTINF:-1 tvg-ID="Gong FR" tvg-name="GONG" tvg-logo="http://logo.premium-ott.com:8000/logo//logo/gong.png" group-title="elamouri",GONG
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24936
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| DOCUMENTAIRE |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| DOCUMENTAIRE |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24961
 #EXTINF:-1 tvg-ID="planeteplus.fr" tvg-name="PLANETE+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/120px-PlanetePlus_2011.svg.png" group-title="elamouri",PLANETE+ FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13712
 #EXTINF:-1 tvg-ID="PLANETE.fr" tvg-name="PLANETE+  HD" tvg-logo="http://logo.premium-ott.com:8000/logo/planeteplus.png" group-title="elamouri",PLANETE+  HD
@@ -1385,8 +2612,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1056
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13832
 #EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="TOUTE L'HISTOIRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Toute_l%27Histoire_logo_2013.png/170px-Toute_l%27Histoire_logo_2013.png" group-title="elamouri",TOUTE L'HISTOIRE HD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/25050
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| FRANCE INFO |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| FRANCE INFO |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24963
 #EXTINF:-1 tvg-ID="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="elamouri",LA CHAINE METEO FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13783
 #EXTINF:-1 tvg-ID="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://logo.premium-ott.com:8000/logo/cnews.png" group-title="elamouri",CNEWS HD
@@ -1431,8 +2656,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13730
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1050
 #EXTINF:-1 tvg-ID="CNews.fr" tvg-name="C NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/200px-Canal_News_logo.svg.png" group-title="elamouri",C NEWS FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13831
-#EXTINF:-1 tvg-ID="" tvg-name="•●★----|FR| MUSIC FRANCE |FR|----★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★----|FR| MUSIC FRANCE |FR|----★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24964
 #EXTINF:-1 tvg-ID="" tvg-name="OKLM FHD" tvg-logo="" group-title="elamouri",OKLM FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13798
 #EXTINF:-1 tvg-ID="MTV Hits" tvg-name="MTV HITS FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/mtvhits.png" group-title="elamouri",MTV HITS FHD
@@ -1537,8 +2760,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/87057
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89341
 #EXTINF:-1 tvg-ID="TELEFOOT STADIUM 8" tvg-name="TELEFOOT STADIUM 8 HD" tvg-logo="https://i.ibb.co/4VtN05Y/8.jpg" group-title="elamouri",TELEFOOT STADIUM 8 HD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/87058
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| RMC SPORT |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| RMC SPORT |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/38730
 #EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="RMC SPORT 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="elamouri",RMC SPORT 1 FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/32713
 #EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/rmcsport1.png" group-title="elamouri",RMC SPORT 1 HD
@@ -1595,8 +2816,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/37933
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/37932
 #EXTINF:-1 tvg-ID="rmcsportlive16.fr" tvg-name="RMC SPORT LIVE 16 FHD" tvg-logo="" group-title="elamouri",RMC SPORT LIVE 16 FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/35340
-#EXTINF:-1 tvg-ID="" tvg-name="•●★-----|FR| BEIN SPORTS |FR|-----★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★-----|FR| BEIN SPORTS |FR|-----★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/59410
 #EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="elamouri",BEIN SPORTS 1 FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14160
 #EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="BEIN SPORTS 1 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsports1.png" group-title="elamouri",BEIN SPORTS 1 HD
@@ -1629,8 +2848,6 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1468
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1469
 #EXTINF:-1 tvg-ID="bein10max.fr" tvg-name="BEIN SPORTS MAX 10 HD" tvg-logo="http://logo.premium-ott.com:8000/logo/beinsportsmax10.png" group-title="elamouri",BEIN SPORTS MAX 10 HD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/1470
-#EXTINF:-1 tvg-ID="" tvg-name="•●★---|FR| SPORT FRANCE |FR|---★●•" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/225px-Flag_of_France.svg.png" group-title="elamouri",•●★---|FR| SPORT FRANCE |FR|---★●•
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24929
 #EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="INFOSPORT FHD" tvg-logo="https://rtplusfollow.com/img/img_pfl/846723289812795393_hJC_pRso_200x200.jpg" group-title="elamouri",INFOSPORT FHD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13729
 #EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="INFOSPORT HD" tvg-logo="" group-title="elamouri",INFOSPORT HD
