@@ -1,5 +1,516 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-ID="TF1 FR" tvg-name="TF1 HD" tvg-logo="http://switch.hopto.me/1_0_1_8_19C8_9E_5A0000_0_0_0.png" group-title="FRANCE FHD",TF1 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7664
+#EXTINF:-1 tvg-ID="M6 FR" tvg-name="M6 HD" tvg-logo="http://switch.hopto.me/1_0_1_132_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",M6 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7665
+#EXTINF:-1 tvg-ID="France 2 FR" tvg-name="FRANCE 2 HD" tvg-logo="http://switch.hopto.me/1_0_1_12E_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",FRANCE 2 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7666
+#EXTINF:-1 tvg-ID="France 3 FR" tvg-name="FRANCE 3 HD" tvg-logo="http://switch.hopto.me/1_0_1_12F_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",FRANCE 3 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7667
+#EXTINF:-1 tvg-ID="France 4 FR" tvg-name="FRANCE 4 HD" tvg-logo="http://switch.hopto.me/1_0_1_13A_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",FRANCE 4 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7668
+#EXTINF:-1 tvg-ID="France 5 FR" tvg-name="FRANCE 5 HD" tvg-logo="http://switch.hopto.me/1_0_1_131_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",FRANCE 5 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7739
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="RTS UN HD" tvg-logo="http://vu.cdteam.org:9988/images/0e66c179a1fe6414144784530dea592b.png" group-title="FRANCE FHD",RTS UN HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7674
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="RTS DEUX HD" tvg-logo="http://switch.hopto.me/1_0_19_4334_300C_13E_820000_0_0_0.png" group-title="FRANCE FHD",RTS DEUX HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7675
+#EXTINF:-1 tvg-ID="Canal Star FR" tvg-name="CSTAR HD" tvg-logo="http://switch.hopto.me/1_0_1_1A1_26AC_13F_820000_0_0_0.png" group-title="FRANCE FHD",CSTAR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7740
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name="CANAL8 HD" tvg-logo="http://switch.hopto.me/1_0_1_134_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",CANAL8 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7669
+#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name="NRJ12 HD" tvg-logo="http://switch.hopto.me/1_0_1_1A1_4FB0_55F_DDE0000_0_0_0.png" group-title="FRANCE FHD",NRJ12 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7673
+#EXTINF:-1 tvg-ID="6ter FR" tvg-name="6TER HD" tvg-logo="http://switch.hopto.me/1_0_1_BBA_4E84_55F_DDE0000_0_0_0.png" group-title="FRANCE FHD",6TER HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5472
+#EXTINF:-1 tvg-ID="Numero 23 FR" tvg-name="RMC STORY HD" tvg-logo="http://switch.hopto.me/1_0_1_BBB_4E84_55F_DDE0000_0_0_0.png" group-title="FRANCE FHD",RMC STORY HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4646
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="TF1 SERIES-FILMS HD" tvg-logo="http://switch.hopto.me/hd1_fr.png" group-title="FRANCE FHD",TF1 SERIES-FILMS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4648
+#EXTINF:-1 tvg-ID="Cherie 25 FR" tvg-name="CHERIE 25 HD" tvg-logo="http://switch.hopto.me/cherie_25_fr.png" group-title="FRANCE FHD",CHERIE 25 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4647
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name="W9 HD" tvg-logo="http://switch.hopto.me/1_0_1_135_3E1C_13F_820000_0_0_0.png" group-title="FRANCE FHD",W9 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7672
+#EXTINF:-1 tvg-ID="TMC FR" tvg-name="TMC HD" tvg-logo="http://switch.hopto.me/1_0_1_6_19C8_9E_5A0000_0_0_0.png" group-title="FRANCE FHD",TMC HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7671
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="TFX HD" tvg-logo="http://switch.hopto.me/1_0_19_21A1_448_1_C00000_0_0_0.png" group-title="FRANCE FHD",TFX HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7670
+#EXTINF:-1 tvg-ID="RTL 9 FR" tvg-name="RTL9 HD" tvg-logo="http://switch.hopto.me/1_0_1_428B_446_1_C00000_0_0_0.png" group-title="FRANCE FHD",RTL9 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/2993
+#EXTINF:-1 tvg-ID="AB1 HD FR" tvg-name="AB1 HD" tvg-logo="http://switch.hopto.me/ab1.png" group-title="FRANCE FHD",AB1 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7780
+#EXTINF:-1 tvg-ID="AB3 HD FR" tvg-name="AB3 HD" tvg-logo="" group-title="FRANCE FHD",AB3 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9213
+#EXTINF:-1 tvg-ID="Arte FR" tvg-name="ARTE HD" tvg-logo="http://switch.hopto.me/arte_fr_hd.png" group-title="FRANCE FHD",ARTE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7771
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 MONDE HD" tvg-logo="" group-title="FRANCE FHD",TV5 MONDE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10551
+#EXTINF:-1 tvg-ID="" tvg-name="TV8 MONT BLANC HD" tvg-logo="" group-title="FRANCE FHD",TV8 MONT BLANC HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10677
+#EXTINF:-1 tvg-ID="TvBreizh FR" tvg-name="TV BREIZH HD" tvg-logo="http://switch.hopto.me/1_0_19_21A0_448_1_C00000_0_0_0.png" group-title="FRANCE FHD",TV BREIZH HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4649
+#EXTINF:-1 tvg-ID="" tvg-name="ROUGE TV HD" tvg-logo="" group-title="FRANCE FHD",ROUGE TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9637
+#EXTINF:-1 tvg-ID="13eme Rue HD FR" tvg-name="13EME RUE HD" tvg-logo="http://vu.cdteam.org:9988/images/enkVial0o4cXDQEGPWpR3Y8D7b3acGVh.png" group-title="FRANCE FHD",13EME RUE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5464
+#EXTINF:-1 tvg-ID="Syfy HD FR" tvg-name="SYFY HD" tvg-logo="http://vu.cdteam.org:9988/images/4c862e48deda2b9393eaa8cc3414e78a.png" group-title="FRANCE FHD",SYFY HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5463
+#EXTINF:-1 tvg-ID="ComediePlus FR" tvg-name="COMEDIE+ HD" tvg-logo="http://switch.hopto.me/1_0_19_196C_44E_1_C00000_0_0_0.png" group-title="FRANCE FHD",COMEDIE+ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5486
+#EXTINF:-1 tvg-ID="CANALPlus FR" tvg-name="CANAL+ HD" tvg-logo="http://switch.hopto.me/1_0_19_2261_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CANAL+ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5378
+#EXTINF:-1 tvg-ID="CANALPlus Cinema FR" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://vu.cdteam.org:9988/images/695c50fa835feb67c54c51ff32f49347.png" group-title="FRANCE FHD",CANAL+ CINEMA HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5381
+#EXTINF:-1 tvg-ID="CANALPlus Family FR" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://switch.hopto.me/1_0_19_2265_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CANAL+ FAMILY HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5379
+#EXTINF:-1 tvg-ID="CANALPlus Decale FR" tvg-name="CANAL+ DECALE HD" tvg-logo="http://switch.hopto.me/1_0_19_2262_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CANAL+ DECALE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5380
+#EXTINF:-1 tvg-ID="CANALPlus Series FR" tvg-name="CANAL+ SERIES HD" tvg-logo="http://switch.hopto.me/1_0_19_2266_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CANAL+ SERIES HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5377
+#EXTINF:-1 tvg-ID="CANALPlus Sport FR" tvg-name="CANAL+ SPORT HD" tvg-logo="http://vu.cdteam.org:9988/images/55bbfafd17c72f73e88ac8b0620fc69c.png" group-title="FRANCE FHD",CANAL+ SPORT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5376
+#EXTINF:-1 tvg-ID="CinePlus Emotion HD FR" tvg-name="CINE+ EMOTION HD" tvg-logo="http://switch.hopto.me/1_0_19_245B_440_1_C00000_0_0_0.png" group-title="FRANCE FHD",CINE+ EMOTION HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3355
+#EXTINF:-1 tvg-ID="CinePlus Premier HD FR" tvg-name="CINE+  PREMIER HD" tvg-logo="http://switch.hopto.me/1_0_19_2456_440_1_C00000_0_0_0.png" group-title="FRANCE FHD",CINE+  PREMIER HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5392
+#EXTINF:-1 tvg-ID="CinePlus Frisson HD FR" tvg-name="CINE+ FRISSON HD" tvg-logo="http://switch.hopto.me/1_0_19_2267_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CINE+ FRISSON HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5467
+#EXTINF:-1 tvg-ID="CinePlus Classic FR" tvg-name="CINE+ CLASSIC HD" tvg-logo="http://vu.cdteam.org:9988/images/0ae741de7b6d9e2899d57db113ea3b9f.png" group-title="FRANCE FHD",CINE+ CLASSIC HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5402
+#EXTINF:-1 tvg-ID="CinePlus Club HD FR" tvg-name="CINE+ CLUB HD" tvg-logo="http://switch.hopto.me/1_0_19_251D_456_1_C00000_0_0_0.png" group-title="FRANCE FHD",CINE+ CLUB HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5388
+#EXTINF:-1 tvg-ID="CinePlus Famiz HD FR" tvg-name="CINE+ FAMIZ HD" tvg-logo="http://switch.hopto.me/1_0_19_2268_438_1_C00000_0_0_0.png" group-title="FRANCE FHD",CINE+ FAMIZ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9212
+#EXTINF:-1 tvg-ID="OCS Choc FR" tvg-name="OCS CHOC HD" tvg-logo="http://switch.hopto.me/ocs_choc.png" group-title="FRANCE FHD",OCS CHOC HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9378
+#EXTINF:-1 tvg-ID="OCS City FR" tvg-name="OCS CITY HD" tvg-logo="http://switch.hopto.me/ocs_city.png" group-title="FRANCE FHD",OCS CITY HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9379
+#EXTINF:-1 tvg-ID="OCS Geants FR" tvg-name="OCS GEANTS HD" tvg-logo="http://switch.hopto.me/ocs_geants.png" group-title="FRANCE FHD",OCS GEANTS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9381
+#EXTINF:-1 tvg-ID="OCS Max FR" tvg-name="OCS MAX HD" tvg-logo="http://switch.hopto.me/ocs_max.png" group-title="FRANCE FHD",OCS MAX HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9380
+#EXTINF:-1 tvg-ID="Paramount Channel FR" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://switch.hopto.me/1_0_19_19CE_444_1_C00000_0_0_0.png" group-title="FRANCE FHD",PARAMOUNT CHANNEL HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5404
+#EXTINF:-1 tvg-ID="TCM Cinema FR" tvg-name="TCM CINEMA HD" tvg-logo="http://switch.hopto.me/1_0_19_26AE_43E_1_C00000_0_0_0.png" group-title="FRANCE FHD",TCM CINEMA HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5406
+#EXTINF:-1 tvg-ID="Action FR" tvg-name="ACTION HD" tvg-logo="http://switch.hopto.me/1_0_1_4286_446_1_C00000_0_0_0.png" group-title="FRANCE FHD",ACTION HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5409
+#EXTINF:-1 tvg-ID="E! FR" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://switch.hopto.me/1_0_19_22C5_45A_1_C00000_0_0_0.png" group-title="FRANCE FHD",E! ENTERTAINMENT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5372
+#EXTINF:-1 tvg-ID="Discovery Channel FR" tvg-name="DISCOVERY HD" tvg-logo="http://vu.cdteam.org:9988/images/da2eeea65ce642979babce642420692b.png" group-title="FRANCE FHD",DISCOVERY HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5391
+#EXTINF:-1 tvg-ID="Discovery Science FR" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://switch.hopto.me/1_0_19_24BF_43C_1_C00000_0_0_0.png" group-title="FRANCE FHD",DISCOVERY SCIENCE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5405
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://switch.hopto.me/1_0_19_232A_442_1_C00000_0_0_0.png" group-title="FRANCE FHD",NATIONAL GEOGRAPHIC HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5367
+#EXTINF:-1 tvg-ID="Nat Geo Wild FR" tvg-name="NATIONAL GEO WILD HD" tvg-logo="http://switch.hopto.me/1_0_19_1965_44E_1_C00000_0_0_0.png" group-title="FRANCE FHD",NATIONAL GEO WILD HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5389
+#EXTINF:-1 tvg-ID="PlanetePlus Action and Experience FR" tvg-name="PLANETE AE HD" tvg-logo="http://switch.hopto.me/1_0_19_20D4_45C_1_C00000_0_0_0.png" group-title="FRANCE FHD",PLANETE AE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5415
+#EXTINF:-1 tvg-ID="PlanetePlus CrimeplusInvestigation FR" tvg-name="PLANETE CI HD" tvg-logo="http://switch.hopto.me/1_0_19_24C1_43C_1_C00000_0_0_0.png" group-title="FRANCE FHD",PLANETE CI HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5485
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME DISTRICT HD" tvg-logo="" group-title="FRANCE FHD",CRIME DISTRICT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9282
+#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name="SCIENCES & VIE HD" tvg-logo="http://switch.hopto.me/1_0_1_1CF_26AC_13F_820000_0_0_0.png" group-title="FRANCE FHD",SCIENCES & VIE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5417
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name="USHUAIA TV HD" tvg-logo="http://switch.hopto.me/1_0_19_2459_440_1_C00000_0_0_0.png" group-title="FRANCE FHD",USHUAIA TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5390
+#EXTINF:-1 tvg-ID="Voyage HD FR" tvg-name="VOYAGE HD" tvg-logo="http://switch.hopto.me/1_0_19_19CD_444_1_C00000_0_0_0.png" group-title="FRANCE FHD",VOYAGE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5403
+#EXTINF:-1 tvg-ID="Histoire FR" tvg-name="HISTOIRE HD" tvg-logo="http://switch.hopto.me/1_0_19_1F46_42E_1_C00000_0_0_0.png" group-title="FRANCE FHD",HISTOIRE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5418
+#EXTINF:-1 tvg-ID="PlanetePlus FR" tvg-name="PLANETE+ HD" tvg-logo="http://switch.hopto.me/planete_plus_hd.png" group-title="FRANCE FHD",PLANETE+ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7785
+#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://switch.hopto.me/1_0_1_BBC_4E84_55F_DDE0000_0_0_0.png" group-title="FRANCE FHD",RMC DECOUVERTE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5468
+#EXTINF:-1 tvg-ID="Seasons FR" tvg-name="SEASON HD" tvg-logo="http://switch.hopto.me/1_0_19_19D2_444_1_C00000_0_0_0.png" group-title="FRANCE FHD",SEASON HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5419
+#EXTINF:-1 tvg-ID="" tvg-name="ULTRA NATURE HD" tvg-logo="" group-title="FRANCE FHD",ULTRA NATURE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10699
+#EXTINF:-1 tvg-ID="" tvg-name="ULTRA NATURE 4k" tvg-logo="" group-title="FRANCE FHD",ULTRA NATURE 4k
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10648
+#EXTINF:-1 tvg-ID="Trek FR" tvg-name="TREK HD" tvg-logo="http://vu.cdteam.org:9988/images/688c6540fc5a0d737114d1b02f6bb784.png" group-title="FRANCE FHD",TREK HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3150
+#EXTINF:-1 tvg-ID="Animaux FR" tvg-name="ANIMAUX HD" tvg-logo="http://vu.cdteam.org:9988/images/8f1c8bb339464ae52bd171b089796c90.png" group-title="FRANCE FHD",ANIMAUX HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7779
+#EXTINF:-1 tvg-ID="" tvg-name="NEUTICAL HD" tvg-logo="" group-title="FRANCE FHD",NEUTICAL HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10571
+#EXTINF:-1 tvg-ID="" tvg-name="CHASSE ET PECHE HD" tvg-logo="" group-title="FRANCE FHD",CHASSE ET PECHE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10570
+#EXTINF:-1 tvg-ID="" tvg-name="TELECLUB ZOOM HD" tvg-logo="" group-title="FRANCE FHD",TELECLUB ZOOM HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10552
+#EXTINF:-1 tvg-ID="beIN SPORTS 1 FR" tvg-name="BEINSPORT 1 FR HD" tvg-logo="http://switch.hopto.me/1_0_1_189D_3F4_1_C00000_0_0_0.png" group-title="FRANCE FHD",BEINSPORT 1 FR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4633
+#EXTINF:-1 tvg-ID="beIN SPORTS 2 FR" tvg-name="BEINSPORT 2 FR HD" tvg-logo="http://switch.hopto.me/1_0_1_189E_3F4_1_C00000_0_0_0.png" group-title="FRANCE FHD",BEINSPORT 2 FR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4634
+#EXTINF:-1 tvg-ID="beIN SPORTS 3 FR" tvg-name="BEINSPORT 3 FR HD" tvg-logo="http://switch.hopto.me/1_0_1_18A0_3F4_1_C00000_0_0_0.png" group-title="FRANCE FHD",BEINSPORT 3 FR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/4635
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 1 HD" tvg-logo="" group-title="FRANCE FHD",RMC SPORT 1 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10560
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 2 HD" tvg-logo="" group-title="FRANCE FHD",RMC SPORT 2 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10562
+#EXTINF:-1 tvg-ID="" tvg-name="RMC SPORT 3 HD" tvg-logo="" group-title="FRANCE FHD",RMC SPORT 3 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10563
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="RMC SPORT 4 HD" tvg-logo="http://switch.hopto.me/sfrsport5.png" group-title="FRANCE FHD",RMC SPORT 4 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9217
+#EXTINF:-1 tvg-ID="Eurosport 1 FR" tvg-name="EUROSPORT 1 HD" tvg-logo="http://switch.hopto.me/1_0_19_232D_442_1_C00000_0_0_0.png" group-title="FRANCE FHD",EUROSPORT 1 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5371
+#EXTINF:-1 tvg-ID="Eurosport 2 FR" tvg-name="EUROSPORT 2 HD" tvg-logo="http://switch.hopto.me/1_0_19_24BE_43C_1_C00000_0_0_0.png" group-title="FRANCE FHD",EUROSPORT 2 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5370
+#EXTINF:-1 tvg-ID="InfosportPlus FR" tvg-name="INFOSPORT HD" tvg-logo="http://switch.hopto.me/1_0_19_23F4_452_1_C00000_0_0_0.png" group-title="FRANCE FHD",INFOSPORT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5487
+#EXTINF:-1 tvg-ID="LEquipe 21 FR" tvg-name="L'EQUIPE 21 HD" tvg-logo="http://switch.hopto.me/l_equipe_fr.png" group-title="FRANCE FHD",L'EQUIPE 21 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3579
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF CHANNEL HD" tvg-logo="http://vu.cdteam.org:9988/images/36f08e12aef14cc428942fc6f1053c84.jpg" group-title="FRANCE FHD",GOLF CHANNEL HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5396
+#EXTINF:-1 tvg-ID="GolfPlus FR" tvg-name="GOLF+ HD" tvg-logo="http://vu.cdteam.org:9988/images/45c6eaca055af26d52a650f8d6e58ed2.jpg" group-title="FRANCE FHD",GOLF+ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5469
+#EXTINF:-1 tvg-ID="Equidia Live HD FR" tvg-name="EQUIDIA LIVE HD" tvg-logo="http://switch.hopto.me/equidia_live.jpg" group-title="FRANCE FHD",EQUIDIA LIVE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5465
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORSPORT.TV HD" tvg-logo="http://switch.hopto.me/motorsporttvhd.png" group-title="FRANCE FHD",MOTORSPORT.TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9296
+#EXTINF:-1 tvg-ID="MCM HD FR" tvg-name="MCM HD" tvg-logo="http://switch.hopto.me/mcm_fr.jpg" group-title="FRANCE FHD",MCM HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5408
+#EXTINF:-1 tvg-ID="" tvg-name="MCM TOP HD" tvg-logo="http://switch.hopto.me/mcm_top_fr.png" group-title="FRANCE FHD",MCM TOP HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3153
+#EXTINF:-1 tvg-ID="" tvg-name="RFM TV HD" tvg-logo="http://switch.hopto.me/1_0_19_21A2_448_1_C00000_0_0_0.png" group-title="FRANCE FHD",RFM TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/6866
+#EXTINF:-1 tvg-ID="MTV HD FR" tvg-name="MTV FRANCE HD" tvg-logo="http://switch.hopto.me/mtv_fr.jpg" group-title="FRANCE FHD",MTV FRANCE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5484
+#EXTINF:-1 tvg-ID="MTV Hits HD FR" tvg-name="MTV HITS HD" tvg-logo="http://switch.hopto.me/mtv_hits.png" group-title="FRANCE FHD",MTV HITS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9448
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="FRANCE FHD",MTV LIVE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10559
+#EXTINF:-1 tvg-ID="" tvg-name="LFM TV HD" tvg-logo="" group-title="FRANCE FHD",LFM TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9497
+#EXTINF:-1 tvg-ID="" tvg-name="TVM3 HD" tvg-logo="" group-title="FRANCE FHD",TVM3 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9638
+#EXTINF:-1 tvg-ID="" tvg-name="LATINOS1 HD" tvg-logo="" group-title="FRANCE FHD",LATINOS1 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10689
+#EXTINF:-1 tvg-ID="" tvg-name="ONE TV HD" tvg-logo="http://switch.hopto.me/onetv.png" group-title="FRANCE FHD",ONE TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9449
+#EXTINF:-1 tvg-ID="BET HD FR" tvg-name="BET HD" tvg-logo="http://switch.hopto.me/bet_france.png" group-title="FRANCE FHD",BET HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9447
+#EXTINF:-1 tvg-ID="Mezzo Live HD FR" tvg-name="MEZZO LIVE HD FR" tvg-logo="" group-title="FRANCE FHD",MEZZO LIVE HD FR
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9203
+#EXTINF:-1 tvg-ID="Disney Junior FR" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://switch.hopto.me/1_0_19_19CA_444_1_C00000_0_0_0.png" group-title="FRANCE FHD",DISNEY JUNIOR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5462
+#EXTINF:-1 tvg-ID="Disney Channel FR" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://switch.hopto.me/1_0_19_232F_442_1_C00000_0_0_0.png" group-title="FRANCE FHD",DISNEY CHANNEL HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5393
+#EXTINF:-1 tvg-ID="Boomerang FR" tvg-name="BOOMERANG HD" tvg-logo="http://switch.hopto.me/1_0_19_23F1_452_1_C00000_0_0_0.png" group-title="FRANCE FHD",BOOMERANG HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5407
+#EXTINF:-1 tvg-ID="Brazzers TV Adult" tvg-name="BOING HD" tvg-logo="http://switch.hopto.me/1_0_19_20D1_45C_1_C00000_0_0_0.png" group-title="FRANCE FHD",BOING HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5410
+#EXTINF:-1 tvg-ID="Canal J FR" tvg-name="CANAL J HD" tvg-logo="http://switch.hopto.me/1_0_19_20D2_45C_1_C00000_0_0_0.png" group-title="FRANCE FHD",CANAL J HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5416
+#EXTINF:-1 tvg-ID="PiwiPlus FR" tvg-name="PIWI+ HD" tvg-logo="http://switch.hopto.me/1_0_19_196E_44E_1_C00000_0_0_0.png" group-title="FRANCE FHD",PIWI+ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5479
+#EXTINF:-1 tvg-ID="Nickelodeon FR" tvg-name="NICKELODEON HD" tvg-logo="http://switch.hopto.me/1_0_1_6FFC_42A_1_C00000_0_0_0.png" group-title="FRANCE FHD",NICKELODEON HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5477
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR HD" tvg-logo="" group-title="FRANCE FHD",NICKELODEON JUNIOR HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10542
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON TEEN HD" tvg-logo="" group-title="FRANCE FHD",NICKELODEON TEEN HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10643
+#EXTINF:-1 tvg-ID="Cartoon Network FR" tvg-name="CARTOON NETWORK HD" tvg-logo="http://switch.hopto.me/1_0_19_26B4_43E_1_C00000_0_0_0.png" group-title="FRANCE FHD",CARTOON NETWORK HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3508
+#EXTINF:-1 tvg-ID="TIJI FR" tvg-name="TIJI HD" tvg-logo="http://switch.hopto.me/1_0_19_219E_448_1_C00000_0_0_0.png" group-title="FRANCE FHD",TIJI HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5488
+#EXTINF:-1 tvg-ID="Gulli FR" tvg-name="GULLI HD" tvg-logo="http://switch.hopto.me/1_0_19_2083_432_1_C00000_0_0_0.png" group-title="FRANCE FHD",GULLI HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/3003
+#EXTINF:-1 tvg-ID="Mangas FR" tvg-name="MANGA HD" tvg-logo="http://switch.hopto.me/1_0_1_1CE_26AC_13F_820000_0_0_0.png" group-title="FRANCE FHD",MANGA HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5394
+#EXTINF:-1 tvg-ID="Game One FR" tvg-name="GAME ONE HD" tvg-logo="http://switch.hopto.me/game_one.jpg" group-title="FRANCE FHD",GAME ONE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5483
+#EXTINF:-1 tvg-ID="France 24 FR" tvg-name="FRANCE 24 HD" tvg-logo="" group-title="FRANCE FHD",FRANCE 24 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9684
+#EXTINF:-1 tvg-ID="" tvg-name="LCI HD" tvg-logo="http://switch.hopto.me/1_0_19_2331_442_1_C00000_0_0_0.png" group-title="FRANCE FHD",LCI HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/5497
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="BFM TV HD" tvg-logo="http://switch.hopto.me/1_0_1_19F_26AC_13F_820000_0_0_0.png" group-title="FRANCE FHD",BFM TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/7676
+#EXTINF:-1 tvg-ID="BFM Business FR" tvg-name="BFM BUSINESS HD" tvg-logo="" group-title="FRANCE FHD",BFM BUSINESS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9285
+#EXTINF:-1 tvg-ID="Canal News FR" tvg-name="CANAL NEWS HD" tvg-logo="http://switch.hopto.me/cnews.png" group-title="FRANCE FHD",CANAL NEWS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9206
+#EXTINF:-1 tvg-ID="" tvg-name="I24 NEWS HD" tvg-logo="" group-title="FRANCE FHD",I24 NEWS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/9350
+#EXTINF:-1 tvg-ID="" tvg-name="EURONEWS HD" tvg-logo="" group-title="FRANCE FHD",EURONEWS HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10554
+#EXTINF:-1 tvg-ID="" tvg-name="RT FRANCE HD" tvg-logo="" group-title="FRANCE FHD",RT FRANCE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/11029
+#EXTINF:-1 tvg-ID="" tvg-name="LCP PUBLIC SENAT HD" tvg-logo="" group-title="FRANCE FHD",LCP PUBLIC SENAT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10685
+#EXTINF:-1 tvg-ID="" tvg-name="THE SWIZZ HD" tvg-logo="" group-title="FRANCE FHD",THE SWIZZ HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10661
+#EXTINF:-1 tvg-ID="" tvg-name="BOOSTER TV HD" tvg-logo="" group-title="FRANCE FHD",BOOSTER TV HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10678
+#EXTINF:-1 tvg-ID="" tvg-name="LEMAN BLEU HD" tvg-logo="" group-title="FRANCE FHD",LEMAN BLEU HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10679
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 9 HD" tvg-logo="" group-title="FRANCE FHD",CANAL 9 HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/10680
+#EXTINF:-1 tvg-ID="" tvg-name="MYSPORT ONE HD" tvg-logo="" group-title="FRANCE FHD",MYSPORT ONE HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/11021
+#EXTINF:-1 tvg-ID="" tvg-name="TELEFOOT HD" tvg-logo="" group-title="FRANCE FHD",TELEFOOT HD
+http://vu.cdteam.org:9988/akramcccam-FHD/pxtbXhuhu5/11018
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/26166
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM1HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28129
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM2HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28128
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM3HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28127
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM4HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28126
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM5HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28125
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM6HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28124
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM7HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28123
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) TELEFOOT STADIUM 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM8HD.png" group-title="FR| DES SPORTS",(FR-HD) TELEFOOT STADIUM 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/28122
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="(FR-HD) BEIN SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT1HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12605
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="(FR-HD) BEIN SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT2HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12604
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="(FR-HD) BEIN SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT3HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12603
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX4HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12602
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX5HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12601
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX6HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12600
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX7HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12599
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX8HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12598
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX9HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 9 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12597
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="(FR-HD) BEIN SPORT MAX 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORTMAX10HD.png" group-title="FR| DES SPORTS",(FR-HD) BEIN SPORT MAX 10 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12596
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="(FR-HD) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT1HD.png" group-title="FR| DES SPORTS",(FR-HD) EUROSPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12595
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="(FR-HD) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT2HD.png" group-title="FR| DES SPORTS",(FR-HD) EUROSPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12594
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="(FR-HD) RMC SPORT NEWS" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTNEWS.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT NEWS
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12593
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="(FR-HD) RMC SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT1HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12592
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="(FR-HD) RMC SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT2HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12591
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="(FR-HD) RMC SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT3HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12590
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="(FR-HD) RMC SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT4HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12589
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="(FR-HD) RMC SPORT LIVE 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE5HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12588
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="(FR-HD) RMC SPORT LIVE 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE6HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12587
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="(FR-HD) RMC SPORT LIVE 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE7HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12586
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="(FR-HD) RMC SPORT LIVE 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE8HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12585
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="(FR-HD) RMC SPORT LIVE 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE9.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 9 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12584
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="(FR-HD) RMC SPORT LIVE 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE10HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 10 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12583
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="(FR-HD) RMC SPORT LIVE 11 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE11HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 11 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12582
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="(FR-HD) RMC SPORT LIVE 12 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE12HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 12 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12581
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="(FR-HD) RMC SPORT LIVE 13 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE13HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 13 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12580
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="(FR-HD) RMC SPORT LIVE 14 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE14HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 14 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12579
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="(FR-HD) RMC SPORT LIVE 15 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE15HD.png" group-title="FR| DES SPORTS",(FR-HD) RMC SPORT LIVE 15 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12578
+#EXTINF:-1 tvg-id="multisports1.fr" tvg-name="(FR-HD) MULTI SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS1.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 1
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12577
+#EXTINF:-1 tvg-id="multisports2.fr" tvg-name="(FR-HD) MULTI SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS2.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 2
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12576
+#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="(FR-HD) MULTI SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS3.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 3
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12575
+#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="(FR-HD) MULTI SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS4.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 4
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12574
+#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="(FR-HD) MULTI SPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS5.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 5
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12573
+#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="(FR-HD) MULTI SPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS6.png" group-title="FR| DES SPORTS",(FR-HD) MULTI SPORTS 6
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12572
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) OLTV" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/OLTV.png" group-title="FR| DES SPORTS",(FR-HD) OLTV
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/67605
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="(FR-HD) FOOT+ 24 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FOOT24HD.png" group-title="FR| DES SPORTS",(FR-HD) FOOT+ 24 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12571
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="(FR-HD) INFO SPORT  HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/INFOSPORTHD.png" group-title="FR| DES SPORTS",(FR-HD) INFO SPORT  HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12570
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="(FR-HD) EQUIDIA LIVE HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EQUIDIALIVEHD.png" group-title="FR| DES SPORTS",(FR-HD) EQUIDIA LIVE HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12569
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="(FR-HD) GOLF+ HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GOLFCHANNEL.png" group-title="FR| DES SPORTS",(FR-HD) GOLF+ HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12568
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) MOTORSPORT TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MOTORSPORTTVHD.png" group-title="FR| DES SPORTS",(FR-HD) MOTORSPORT TV HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12567
+#EXTINF:-1 tvg-id="" tvg-name="(FR-HD) AUTO MOTO HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/AUTOMOTOHD.png" group-title="FR| DES SPORTS",(FR-HD) AUTO MOTO HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12566
+#EXTINF:-1 tvg-id="" tvg-name="### (FR-4K) SPORTS ###" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FRANCEFLAG.png" group-title="FR| 4K CANAUX",### (FR-4K) SPORTS ###
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12564
+#EXTINF:-1 tvg-id="" tvg-name="(FR-4K) TELEFOOT 4K" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/TELEFOOT.png" group-title="FR| 4K CANAUX",(FR-4K) TELEFOOT 4K
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/26165
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="(FR-4K) BEIN SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT1HD.png" group-title="FR| 4K CANAUX",(FR-4K) BEIN SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12563
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="(FR-4K) BEIN SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT2HD.png" group-title="FR| 4K CANAUX",(FR-4K) BEIN SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12562
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="(FR-4K) BEIN SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT3HD.png" group-title="FR| 4K CANAUX",(FR-4K) BEIN SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12561
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="(FR-4K) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT1HD.png" group-title="FR| 4K CANAUX",(FR-4K) EUROSPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12560
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="(FR-4K) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT2HD.png" group-title="FR| 4K CANAUX",(FR-4K) EUROSPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12559
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="(FR-4K) RMC SPORT NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTNEWS.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT NEWS HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12558
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="(FR-4K) RMC SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT1HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12557
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="(FR-4K) RMC SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT2HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12556
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="(FR-4K) RMC SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT3HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12555
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="(FR-4K) RMC SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT4HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12554
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="(FR-4K) RMC SPORT LIVE 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE5HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12553
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="(FR-4K) RMC SPORT LIVE 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE6HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12552
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="(FR-4K) RMC SPORT LIVE 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE7HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12551
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="(FR-4K) RMC SPORT LIVE 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE8HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12550
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="(FR-4K) RMC SPORT LIVE 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE9.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 9 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12549
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="(FR-4K) RMC SPORT LIVE 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE10HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 10 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12548
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="(FR-4K) RMC SPORT LIVE 11 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE11HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 11 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12547
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="(FR-4K) RMC SPORT LIVE 12 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE12HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 12 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12546
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="(FR-4K) RMC SPORT LIVE 13 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE13HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 13 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12545
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="(FR-4K) RMC SPORT LIVE 14 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE14HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 14 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12544
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="(FR-4K) RMC SPORT LIVE 15 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE15HD.png" group-title="FR| 4K CANAUX",(FR-4K) RMC SPORT LIVE 15 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12543
+#EXTINF:-1 tvg-id="multisports1.fr" tvg-name="(FR-4K) MULTI SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS1.png" group-title="FR| 4K CANAUX",(FR-4K) MULTI SPORTS 1
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12542
+#EXTINF:-1 tvg-id="multisports2.fr" tvg-name="(FR-4K) MULTI SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS2.png" group-title="FR| 4K CANAUX",(FR-4K) MULTI SPORTS 2
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12541
+#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="(FR-4K) MULTI SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS4.png" group-title="FR| 4K CANAUX",(FR-4K) MULTI SPORTS 4
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12540
+#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="(FR-4K) MULTI SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS3.png" group-title="FR| 4K CANAUX",(FR-4K) MULTI SPORTS 3
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12539
+#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="(FR-4K) MULTISPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS5.png" group-title="FR| 4K CANAUX",(FR-4K) MULTISPORTS 5
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12538
+#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="(FR-4K) MULTISPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS6.png" group-title="FR| 4K CANAUX",(FR-4K) MULTISPORTS 6
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12537
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="(FR-4K) FOOT 24 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FOOT24HD.png" group-title="FR| 4K CANAUX",(FR-4K) FOOT 24 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12536
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="(FR-4K) INFO SPORT HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/INFOSPORTHD.png" group-title="FR| 4K CANAUX",(FR-4K) INFO SPORT HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12535
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="(FR-4K) EQUIDIA LIVE HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EQUIDIALIVEHD.png" group-title="FR| 4K CANAUX",(FR-4K) EQUIDIA LIVE HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12534
+#EXTINF:-1 tvg-id="" tvg-name="(FR-4K) GOLF  HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GOLFCHANNEL.png" group-title="FR| 4K CANAUX",(FR-4K) GOLF  HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12533
+#EXTINF:-1 tvg-id="" tvg-name="(FR-4K) MOTORSPORT TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MOTORSPORTTVHD.png" group-title="FR| 4K CANAUX",(FR-4K) MOTORSPORT TV HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12532
+#EXTINF:-1 tvg-id="" tvg-name="(FR-4K) AUTO MOTO HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/AUTOMOTOHD.png" group-title="FR| 4K CANAUX",(FR-4K) AUTO MOTO HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12531
+#EXTINF:-1 tvg-id="" tvg-name="(FR-4K) GAME ONE   1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GAMEONE1.png" group-title="FR| 4K CANAUX",(FR-4K) GAME ONE   1
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12530
+#EXTINF:-1 tvg-id="" tvg-name="### (FR-SD) SPORT ###" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FRANCEFLAG.png" group-title="FR| DES SPORTS",### (FR-SD) SPORT ###
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12529
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT SD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT SD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/26164
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="(FR-SD) BEIN SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT1HD.png" group-title="FR| DES SPORTS",(FR-SD) BEIN SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12528
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="(FR-SD) BEIN SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT2HD.png" group-title="FR| DES SPORTS",(FR-SD) BEIN SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12527
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="(FR-SD) BEIN SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BEINSPORT3HD.png" group-title="FR| DES SPORTS",(FR-SD) BEIN SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12526
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="(FR-SD) EUROSPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT1HD.png" group-title="FR| DES SPORTS",(FR-SD) EUROSPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12525
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="(FR-SD) EUROSPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EUROSPORT2HD.png" group-title="FR| DES SPORTS",(FR-SD) EUROSPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12524
+#EXTINF:-1 tvg-id="rmcsportnews.fr" tvg-name="(FR-SD) RMC SPORT NEWS HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTNEWS.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT NEWS HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12523
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="(FR-SD) RMC SPORT 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT1HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12522
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="(FR-SD) RMC SPORT 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT2HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12521
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="(FR-SD) RMC SPORT 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT3HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12520
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="(FR-SD) RMC SPORT 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORT4HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12519
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="(FR-SD) RMC SPORT LIVE 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE5HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12518
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="(FR-SD) RMC SPORT LIVE 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE6HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12517
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="(FR-SD) RMC SPORT LIVE 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE7HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12516
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="(FR-SD) RMC SPORT LIVE 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE8HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12515
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="(FR-SD) RMC SPORT LIVE 9 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE9.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 9 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12514
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="(FR-SD) RMC SPORT LIVE 10 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE10HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 10 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12513
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="(FR-SD) RMC SPORT LIVE 11 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE11HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 11 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12512
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="(FR-SD) RMC SPORT LIVE 12 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE12HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 12 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12511
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="(FR-SD) RMC SPORT LIVE 13 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE13HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 13 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12510
+#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="(FR-SD) RMC SPORT LIVE 14 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE14HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 14 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12509
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="(FR-SD) RMC SPORT LIVE 15 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/RMCSPORTLIVE15HD.png" group-title="FR| DES SPORTS",(FR-SD) RMC SPORT LIVE 15 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12508
+#EXTINF:-1 tvg-id="multisports1.fr" tvg-name="(FR-SD) MULTI SPORTS 1" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS1.png" group-title="FR| DES SPORTS",(FR-SD) MULTI SPORTS 1
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12507
+#EXTINF:-1 tvg-id="multisports2.fr" tvg-name="(FR-SD) MULTI SPORTS 2" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS2.png" group-title="FR| DES SPORTS",(FR-SD) MULTI SPORTS 2
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12506
+#EXTINF:-1 tvg-id="multisports3.fr" tvg-name="(FR-SD) MULTI SPORTS 3" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS3.png" group-title="FR| DES SPORTS",(FR-SD) MULTI SPORTS 3
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12505
+#EXTINF:-1 tvg-id="multisports4.fr" tvg-name="(FR-SD) MULTI SPORTS 4" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS4.png" group-title="FR| DES SPORTS",(FR-SD) MULTI SPORTS 4
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12504
+#EXTINF:-1 tvg-id="multisports5.fr" tvg-name="(FR-SD) MULTISPORTS 5" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS5.png" group-title="FR| DES SPORTS",(FR-SD) MULTISPORTS 5
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12503
+#EXTINF:-1 tvg-id="multisports6.fr" tvg-name="(FR-SD) MULTISPORTS 6" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MULTISPORTS6.png" group-title="FR| DES SPORTS",(FR-SD) MULTISPORTS 6
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12502
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 1 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM1HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74545
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 2 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM2HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74544
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 3 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM3HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 3 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74543
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 4 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM4HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 4 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74542
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 5 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM5HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 5 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74541
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 6 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM6HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 6 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74540
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 7 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM7HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 7 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74539
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) TELEFOOT STADIUM 8 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/TELEFOOTSTADIUM8HD.png" group-title="FR| DES SPORTS",(FR-SD) TELEFOOT STADIUM 8 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/74538
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="(FR-SD) BFM TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/BFMTVHD.png" group-title="FR| DES SPORTS",(FR-SD) BFM TV HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12501
+#EXTINF:-1 tvg-id="footplus24.fr" tvg-name="(FR-SD) FOOT 24 HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/FOOT24HD.png" group-title="FR| DES SPORTS",(FR-SD) FOOT 24 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12500
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) INFO SPORT HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/INFOSPORTHD.png" group-title="FR| DES SPORTS",(FR-SD) INFO SPORT HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12499
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="(FR-SD) EQUIDIA LIVE HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/EQUIDIALIVEHD.png" group-title="FR| DES SPORTS",(FR-SD) EQUIDIA LIVE HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12498
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="(FR-SD) GOLF HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/GOLFCHANNEL.png" group-title="FR| DES SPORTS",(FR-SD) GOLF HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12497
+#EXTINF:-1 tvg-id="motorstv.fr" tvg-name="(FR-SD) MOTORSPORT TV HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/MOTORSPORTTVHD.png" group-title="FR| DES SPORTS",(FR-SD) MOTORSPORT TV HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12496
+#EXTINF:-1 tvg-id="" tvg-name="(FR-SD) AUTO MOTO HD" tvg-logo="http://107.152.105.108:81/Logo/FRENCH/LOGO/AUTOMOTOHD.png" group-title="FR| DES SPORTS",(FR-SD) AUTO MOTO HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/12495
 
 #EXTINF:-1 tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/05/tf1hd.png" group-title="SuperTV",TF1 HD
 http://supertv.live:80/mZ82PN2p/gM9Nyc4x/4641
